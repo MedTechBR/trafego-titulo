@@ -7922,7 +7922,7 @@ window.BANCO=[
 {
 "q": "Qual é a postura correta do perito quando é instado a responder quesito que extrapola sua competência técnica?",
 "alts": [
-"Responder mesmo assim, com base no bom senso, para não deixar nenhum quesito sem resposta",
+"Responder mesmo assim, com base no bom senso, para não deixar nenhum quesito sem resposta no laudo",
 "Recusar-se a elaborar o laudo inteiro, devolvendo o caso ao solicitante sem qualquer manifestação",
 "Delegar a resposta ao médico assistente da vítima, que conhece melhor o histórico clínico completo",
 "Registrar que o quesito extrapola o objeto da perícia médica e indicar a especialidade competente",
