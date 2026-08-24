@@ -7964,6 +7964,336 @@ window.BANCO=[
 ]
 },
 {
+"q": "Segundo a diretriz da ABRAMET sobre drogas, em que janela de tempo se concentram os efeitos nocivos da cannabis sobre a condução?",
+"alts": [
+"Somente após a sexta hora do consumo, quando o metabólito ativo atinge o pico plasmático",
+"Nas primeiras vinte e quatro horas, mantendo intensidade constante durante todo o período",
+"Nas duas primeiras horas, com declínio considerável ao longo da terceira e da quarta hora",
+"Apenas enquanto durar a euforia subjetiva relatada pelo usuário durante o próprio consumo",
+"Somente na semana seguinte, quando se instala a síndrome de abstinência do canabinoide"
+],
+"gab": 2,
+"tema": "drogas",
+"sub": "Janela de efeito da cannabis",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 2.",
+"coment": "A diretriz é explícita: os efeitos nocivos da cannabis se concentram nas primeiras duas horas e diminuem consideravelmente ao longo da terceira e da quarta hora. Essa janela importa na prática pericial e na fiscalização, porque separa o período de maior prejuízo daquele em que a substância ainda é detectável mas o desempenho já se recuperou parcialmente. Não se deve confundir a janela de EFEITO com a janela de DETECÇÃO laboratorial, que é muito mais longa para os canabinoides, sobretudo na urina do usuário crônico. É por essa dissociação que o achado toxicológico isolado não prova, por si só, alteração da capacidade psicomotora no momento do fato.",
+"porAlt": [
+"O pico não ocorre na sexta hora; nesse momento o prejuízo já se reduziu consideravelmente.",
+"A intensidade não é constante por vinte e quatro horas, e sim decrescente após duas horas.",
+"Correta: os efeitos se concentram nas duas primeiras horas e declinam na terceira e quarta.",
+"O prejuízo objetivo não coincide com a euforia subjetiva relatada pelo usuário da droga.",
+"A abstinência tardia não é o período de maior prejuízo psicomotor descrito na diretriz."
+]
+},
+{
+"q": "De acordo com a diretriz, qual é a ordem de grandeza do declínio no desempenho do motorista com concentração plasmática de 5 ng/ml de THC?",
+"alts": [
+"Cerca de dois por cento, valor sem qualquer repercussão prática sobre a segurança viária",
+"Cerca de trinta e cinco por cento, chegando a setenta ou oitenta por cento em níveis maiores",
+"Cerca de cem por cento, com incapacidade motora completa já nessa concentração plasmática",
+"Cerca de cinco por cento, semelhante ao efeito de uma única noite de sono levemente encurtada",
+"Nenhum declínio mensurável, pois a tolerância do usuário compensa integralmente o efeito"
+],
+"gab": 1,
+"tema": "drogas",
+"sub": "Magnitude do prejuízo por concentração de THC",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 2.",
+"coment": "O texto registra que o declínio no desempenho pode chegar a 35% com concentrações plasmáticas de 5 ng/ml de THC, atingindo 70% a 80% de declínio com níveis mais elevados. O mesmo item traz outra referência útil para a prova: testes experimentais com até 300 mcg de delta-9-tetraidrocanabinol por quilo produziram efeitos semelhantes aos de doses de etanol superiores a 0,5 g/L. Essas duas âncoras permitem ao perito traduzir o achado laboratorial em linguagem de risco comparável à da alcoolemia, que é o parâmetro mais familiar aos operadores do direito e aos agentes de fiscalização.",
+"porAlt": [
+"Dois por cento subestima grosseiramente o prejuízo medido nos estudos experimentais.",
+"Correta: cerca de trinta e cinco por cento, subindo a setenta ou oitenta em níveis maiores.",
+"A incapacidade motora não é completa nessa concentração, embora o prejuízo seja relevante.",
+"Cinco por cento não corresponde à magnitude descrita para essa concentração plasmática.",
+"A tolerância não anula o prejuízo psicomotor objetivamente medido nos testes de direção."
+]
+},
+{
+"q": "Qual parâmetro experimental é usado na diretriz para demonstrar o prejuízo da cannabis na manutenção da trajetória do veículo?",
+"alts": [
+"O desvio padrão do posicionamento lateral do veículo dentro da faixa de rolamento na via",
+"A frequência cardíaca média do condutor registrada durante todo o percurso de simulação",
+"O número de quilômetros percorridos por litro de combustível durante o teste de direção",
+"O tempo total de duração da tarefa de direção completada pelo voluntário no simulador",
+"A quantidade de saliva produzida pelo condutor ao longo da tarefa de direção simulada"
+],
+"gab": 0,
+"tema": "drogas",
+"sub": "Desvio padrão do posicionamento lateral",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), itens 2 e 3.",
+"coment": "O SDLP (standard deviation of lateral placement) mede a oscilação do carro dentro da faixa e é o desfecho clássico dos estudos de direção sob efeito de substâncias, justamente porque a manutenção da trajetória depende de atenção sustentada e de correções finas contínuas. A diretriz o usa duas vezes com sentidos diferentes: para a cannabis, o SDLP piora; para o MDMA avaliado três a cinco horas após o uso, o SDLP até melhorou e o tempo de reação se manteve, mas o desempenho global piorou por outras vias — não guardar distância segura e executar manobras imprecisas de aceleração, desaceleração e frenagem. A lição é que nenhum parâmetro isolado esgota a avaliação da direção segura.",
+"porAlt": [
+"Correta: o desvio padrão do posicionamento lateral dentro da faixa de rolamento da via.",
+"A frequência cardíaca não é o desfecho usado para medir a manutenção da trajetória viária.",
+"O consumo de combustível não guarda relação com a medida de oscilação dentro da faixa.",
+"A duração total da tarefa não expressa a precisão do posicionamento lateral do veículo.",
+"A produção de saliva é matriz de análise toxicológica, e não medida de desempenho viário."
+]
+},
+{
+"q": "A diretriz observa que motoristas sob efeito de cannabis podem compensar o comportamento ao volante. Qual é a ressalva feita a essa compensação?",
+"alts": [
+"A compensação é integral e permanente, o que torna o consumo indiferente à segurança viária",
+"A compensação depende exclusivamente do modelo do veículo conduzido pelo usuário da droga",
+"A compensação só é possível em condutores das categorias profissionais C, D e E do país",
+"A compensação exige que o condutor tenha usado a substância por mais de cinquenta vezes",
+"Os riscos ressurgem nas emergências, que exigem alta demanda de processamento da informação"
+],
+"gab": 4,
+"tema": "drogas",
+"sub": "Compensação comportamental e situações de emergência",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 2.",
+"coment": "O usuário de cannabis frequentemente percebe o próprio prejuízo e adota estratégias compensatórias — reduz a velocidade, aumenta a distância de seguimento, evita ultrapassagens. Isso pode mascarar o déficit na condução de rotina, mas a diretriz adverte que os riscos emergem em situações de emergência que impõem alta demanda da capacidade de processamento de informação: uma criança que atravessa, uma frenagem brusca à frente, um obstáculo súbito. É exatamente o oposto do que ocorre com os estimulantes, que aumentam perigosamente a autoconfiança e levam o condutor a se EXPOR a mais risco em vez de evitá-lo.",
+"porAlt": [
+"A compensação não é integral nem permanente, e não torna o consumo indiferente ao risco.",
+"O modelo do veículo não é a variável que limita a compensação descrita pela diretriz.",
+"A compensação descrita não é privativa dos condutores das categorias profissionais.",
+"A frequência de uso não é a condição da compensação comportamental que foi descrita.",
+"Correta: os riscos ressurgem nas emergências de alta demanda de processamento da informação."
+]
+},
+{
+"q": "Segundo a diretriz, o que ocorre com o risco quando a cannabis é consumida em combinação com o álcool, mesmo em quantidades baixas?",
+"alts": [
+"O risco se anula, pois os efeitos estimulantes e depressores se cancelam reciprocamente",
+"O risco permanece igual ao da substância isolada que estiver em maior concentração no sangue",
+"O risco só aumenta se a alcoolemia ultrapassar sozinha o limite penal previsto no artigo 306",
+"O risco diminui, porque o álcool acelera a eliminação hepática dos canabinoides ingeridos",
+"O risco de colisão fica maior do que o de cada uma das substâncias consumidas isoladamente"
+],
+"gab": 4,
+"tema": "drogas",
+"sub": "Associação de cannabis e álcool",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 2.",
+"coment": "A diretriz registra que a cannabis usada com álcool, mesmo em quantidades relativamente baixas, resulta em risco maior de colisão do que para cada uma das substâncias consumidas isoladamente. Esse é o ponto de maior aplicação prática do capítulo: o condutor que bebeu pouco e fumou pouco tende a se julgar duplamente seguro, quando na verdade está em risco somado. O mesmo raciocínio de potenciação aparece na diretriz de benzodiazepínicos quanto à associação com álcool. Para o perito, a consequência é que a anamnese não pode se limitar a perguntar por uma substância de cada vez, e sim investigar o uso concomitante.",
+"porAlt": [
+"Os efeitos não se cancelam, e a associação é reconhecidamente mais perigosa que o isolado.",
+"O risco da associação não se resume ao da substância presente em maior concentração.",
+"O aumento de risco não depende de a alcoolemia ultrapassar sozinha o limite penal fixado.",
+"O álcool não acelera a eliminação dos canabinoides nem reduz o risco de colisão do usuário.",
+"Correta: o risco supera o de cada uma das substâncias quando consumidas isoladamente."
+]
+},
+{
+"q": "Como as anfetaminas interferem no comportamento do condutor, segundo a recomendação da diretriz da ABRAMET?",
+"alts": [
+"Deprimem de forma uniforme o sistema nervoso central, produzindo sonolência e ataxia grave",
+"Não têm qualquer repercussão sobre a condução, por atuarem apenas no metabolismo periférico",
+"Melhoram de modo duradouro o desempenho, sendo por isso recomendadas nas jornadas mais longas",
+"Estimulam funções cognitivas e psicomotoras e elevam perigosamente a autoconfiança ao volante",
+"Produzem miose acentuada e prejudicam bastante a acomodação visual noturna do condutor exposto"
+],
+"gab": 3,
+"tema": "drogas",
+"sub": "Estimulantes e excesso de autoconfiança",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 3.",
+"coment": "As anfetaminas estimulam as funções cognitivas e psicomotoras e podem aumentar perigosamente a autoconfiança do motorista, resultando em maior probabilidade de envolvimento em situações de risco. O paradoxo é central para a prova: o condutor SENTE que dirige melhor e por isso assume comportamentos que não assumiria sóbrio. Em simulador, os efeitos agudos da d-anfetamina fizeram o motorista deixar de sinalizar corretamente as manobras, executá-las em tempo superior ao necessário, deixar de parar no semáforo vermelho e reagir com mais lentidão. A miose, ao contrário, é achado dos opiáceos — os estimulantes cursam com midríase.",
+"porAlt": [
+"As anfetaminas não são depressoras do sistema nervoso central nem produzem essa sonolência.",
+"A ação é central e com repercussão direta sobre o comportamento do condutor no trânsito.",
+"A melhora é aparente e transitória, e a diretriz associa o uso a mais sinistros de trânsito.",
+"Correta: estimulam funções cognitivas e psicomotoras e elevam perigosamente a autoconfiança.",
+"A miose é achado típico dos opiáceos; os estimulantes cursam com dilatação das pupilas."
+]
+},
+{
+"q": "Em simulador de direção, quais alterações foram descritas após o uso agudo de d-anfetamina pelos voluntários avaliados?",
+"alts": [
+"Reduzir espontaneamente a velocidade e aumentar a distância de seguimento do veículo à frente",
+"Deixar de sinalizar manobras, executá-las com atraso e não parar diante do semáforo vermelho",
+"Manter desempenho idêntico ao do grupo controle em todos os parâmetros de segurança medidos",
+"Adormecer ao volante repetidamente e perder por completo o controle direcional do veículo",
+"Interromper a tarefa antes do fim por náuseas intensas provocadas pela própria substância"
+],
+"gab": 1,
+"tema": "drogas",
+"sub": "d-anfetamina em simulador de direção",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 3.",
+"coment": "O achado é o de uma direção desinibida e desatenta às regras, não de sedação: o voluntário passa a não sinalizar corretamente as manobras que pretende executar, realiza-as em tempo superior ao necessário à tomada de decisões, deixa de parar em semáforo vermelho e reage com mais lentidão às habilidades exigidas para uma condução segura. Esse perfil convive com o de outros estimulantes: após metanfetamina ou MDMA, houve mais violações do limite de velocidade, omissão de sinalização na mudança de faixa e manutenção da seta acionada depois de ingressar na via. Adormecer ao volante é descrito nos opiáceos.",
+"porAlt": [
+"A redução espontânea de velocidade é estratégia compensatória descrita para a cannabis.",
+"Correta: deixar de sinalizar manobras, atrasá-las e não parar diante do semáforo vermelho.",
+"O desempenho não foi idêntico ao do grupo controle nos parâmetros de segurança medidos.",
+"Adormecer ao volante é descrito para os opiáceos, e não para o estimulante em questão.",
+"A náusea intensa com interrupção da tarefa não é o achado descrito no estudo citado."
+]
+},
+{
+"q": "Que sinais foram mais comumente descritos por policiais em motoristas conduzindo sob efeito de anfetaminas?",
+"alts": [
+"Sonolência profunda, bradicardia sinusal, hipotermia central e a hipotonia muscular difusa",
+"Palidez cutânea intensa, sudorese fria, bradipneia progressiva e a hipoglicemia sintomática",
+"Icterícia conjuntival, dor abdominal em faixa, vômitos incoercíveis e a distensão do abdome",
+"Rigidez de nuca, fotofobia acentuada, febre alta persistente e o rebaixamento da consciência",
+"Olhos vermelhos e vidrados, agitação, loquacidade, reflexos exagerados e a fala arrastada"
+],
+"gab": 4,
+"tema": "drogas",
+"sub": "Sinais externos do uso de anfetaminas",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 3.",
+"coment": "A diretriz lista como sinais mais comumente observados e descritos por policiais: olhos vermelhos e vidrados, agitação, loquacidade, reflexos exagerados e fala arrastada; marcha com desequilíbrio e pupilas dilatadas foram observadas em alguns, mas não em todos os condutores. A ressalva final é a que mais cai: os sinais são inconstantes, o que fragiliza a constatação puramente clínica e reforça a necessidade de padronização das técnicas analíticas. É o mesmo problema que o artigo 306 do CTB enfrenta ao admitir a constatação por sinais de alteração da capacidade psicomotora na forma disciplinada pelo CONTRAN.",
+"porAlt": [
+"Sonolência, bradicardia e hipotermia compõem quadro depressor, oposto ao do estimulante.",
+"Palidez com sudorese fria e bradipneia não é o conjunto descrito para o uso de anfetaminas.",
+"Icterícia e dor abdominal em faixa remetem a quadro digestivo, alheio ao efeito da droga.",
+"Rigidez de nuca com febre sugere quadro infeccioso, e não intoxicação por estimulante.",
+"Correta: olhos vermelhos e vidrados, agitação, loquacidade, reflexos vivos e fala arrastada."
+]
+},
+{
+"q": "Segundo a diretriz, o que ocorre com o uso de capacete e de cinto de segurança entre condutores usuários de cocaína?",
+"alts": [
+"É significativamente aumentado, por conta da hipervigilância característica da substância",
+"É significativamente reduzido, somando-se ao risco próprio do efeito da substância usada",
+"Permanece exatamente igual ao da população geral de condutores não usuários da droga",
+"Só se reduz entre os motociclistas, mantendo-se preservado nos ocupantes dos automóveis",
+"Só se reduz nos condutores que também tenham consumido bebida alcoólica no mesmo dia"
+],
+"gab": 1,
+"tema": "drogas",
+"sub": "Cocaína e uso de dispositivos de segurança",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 3.",
+"coment": "A diretriz registra que a utilização de dispositivos de segurança, como o capacete para motociclistas e o cinto de segurança para ocupantes de veículos, é significativamente reduzida por condutores usuários de cocaína. O dado importa porque a droga age por duas vias somadas: o efeito farmacológico direto — perda de concentração e atenção, maior sensibilidade à luz pela midríase, nervosismo, irritabilidade, agressividade, paranoia e alucinações — e a redução da proteção passiva, que agrava a lesão quando o sinistro ocorre. O mesmo padrão de abandono dos equipamentos de proteção é descrito para o consumo de álcool.",
+"porAlt": [
+"Não há aumento do uso: a hipervigilância não se traduz em mais cuidado com a proteção.",
+"Correta: o uso dos dispositivos de proteção cai, somando-se ao risco do efeito da droga.",
+"O uso não permanece igual ao da população geral de condutores que não usam a substância.",
+"A redução descrita não se restringe aos motociclistas, alcançando os demais ocupantes.",
+"A redução não está condicionada ao consumo concomitante de bebida alcoólica no mesmo dia."
+]
+},
+{
+"q": "Qual alteração pupilar e visual os opiáceos produzem, com repercussão sobre a condução noturna?",
+"alts": [
+"Midríase fixa, que abole por completo o reflexo fotomotor durante toda a ação da substância",
+"Nistagmo horizontal sustentado, que impede a fixação do olhar em qualquer ponto da via",
+"Miose, que prejudica a acomodação aos estímulos luminosos, sobretudo no período noturno",
+"Discromatopsia adquirida, que troca de forma seletiva o vermelho pelo verde no semáforo",
+"Diplopia binocular constante, que duplica a imagem de todos os objetos vistos pelo condutor"
+],
+"gab": 2,
+"tema": "drogas",
+"sub": "Miose por opiáceos e condução noturna",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 4.",
+"coment": "Os opiáceos induzem sedação, indiferença a estímulos externos e aumento do tempo de reação; a ocorrência de miose tem efeito negativo na acomodação a estímulos luminosos, especialmente à noite, quando a pupila precisaria dilatar para captar luz suficiente. A diretriz acrescenta um ponto que costuma escapar: a diminuição do desempenho é notada MESMO durante a síndrome de abstinência, associada a perda da capacidade de manter a atenção concentrada, condução lenta, reações tardias, controle inadequado do veículo e adormecer dirigindo. Ou seja, interromper o opioide não devolve imediatamente a segurança para dirigir.",
+"porAlt": [
+"A midríase fixa com abolição do reflexo fotomotor não é o efeito descrito para os opiáceos.",
+"O nistagmo horizontal sustentado não é o achado visual atribuído a essa classe de drogas.",
+"Correta: a miose prejudica a acomodação aos estímulos luminosos, sobretudo à noite.",
+"A discromatopsia seletiva para as cores do semáforo não é efeito descrito dos opiáceos.",
+"A diplopia binocular constante não consta entre os efeitos visuais listados na diretriz."
+]
+},
+{
+"q": "O que a diretriz afirma sobre o desempenho na direção veicular durante a síndrome de abstinência de opiáceos?",
+"alts": [
+"Retorna imediatamente ao normal, já que a substância deixou de circular no sangue do usuário",
+"Fica superior ao do não usuário, por efeito de hipervigilância própria da fase de retirada",
+"Permanece diminuído, com atenção instável, reações tardias e risco de adormecer dirigindo",
+"Não pode ser avaliado, porque a abstinência impede qualquer teste de desempenho na direção",
+"Depende apenas da via de administração que o usuário empregava antes de interromper o uso"
+],
+"gab": 2,
+"tema": "drogas",
+"sub": "Abstinência de opiáceos e desempenho",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 4.",
+"coment": "A diminuição do desempenho na direção é notada mesmo durante a síndrome de abstinência, associada com perda da capacidade de manter a atenção concentrada, condução lenta, reações tardias, controle inadequado do veículo e adormecer dirigindo. Para o perito, isso desmonta o argumento frequente do periciando de que suspendeu a medicação e portanto estaria apto: a retirada tem custo funcional próprio. A conduta correta é avaliar o estado atual, o esquema terapêutico, a estabilidade do quadro doloroso de base e o desempenho global, em vez de decidir apenas pela presença ou ausência do fármaco no organismo.",
+"porAlt": [
+"O retorno não é imediato: a fase de retirada tem prejuízo funcional próprio bem descrito.",
+"Não há hipervigilância protetora que torne o desempenho superior ao do não usuário.",
+"Correta: o desempenho segue diminuído, com atenção instável e risco de adormecer dirigindo.",
+"A avaliação do desempenho é possível e foi justamente o que os estudos citados fizeram.",
+"A via de administração anterior não é o determinante do prejuízo descrito na abstinência."
+]
+},
+{
+"q": "Por quanto tempo os alucinógenos reduzem a acuidade visual, segundo a diretriz da ABRAMET sobre drogas?",
+"alts": [
+"Por até quinze minutos, tempo insuficiente para repercutir na segurança do ato de dirigir",
+"Por até trinta dias, configurando dano visual persistente após um único episódio de uso",
+"Por tempo indeterminado, sempre de forma irreversível e independentemente da dose usada",
+"Por até quatro horas, junto de midríase e alteração da percepção de cores e da estereopsia",
+"Por até uma hora, e exclusivamente nos usuários que já tenham doença ocular previamente"
+],
+"gab": 3,
+"tema": "drogas",
+"sub": "Alucinógenos e função visual",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 4.",
+"coment": "Os alucinógenos comprometem o desempenho psicomotor, produzem ataxia, tremores, distúrbios do pensamento, psicose temporária, ilusões e distorções da imagem corporal; provocam midríase, alteram a percepção de cores e a visão estereoscópica e reduzem a acuidade visual por até quatro horas. O conjunto é especialmente incompatível com dirigir porque atinge simultaneamente a entrada sensorial, a interpretação do que se vê e o controle motor. Repare que três funções expressamente exigidas pelo Anexo II da Resolução 927/2022 — acuidade, visão cromática e adaptação à luz — ficam comprometidas ao mesmo tempo.",
+"porAlt": [
+"Quinze minutos subestima em muito a duração descrita para o prejuízo visual na diretriz.",
+"Trinta dias não é a duração descrita do prejuízo visual após episódio único de consumo.",
+"O prejuízo descrito é temporário, e não permanente e independente da dose consumida.",
+"Correta: por até quatro horas, com midríase e alteração de cores e da visão estereoscópica.",
+"A redução não se restringe a usuários com doença ocular prévia nem se limita a uma hora."
+]
+},
+{
+"q": "O que caracteriza as leis chamadas \"per se\" adotadas por alguns estados norte-americanos quanto a drogas e direção?",
+"alts": [
+"A presença de qualquer concentração da droga ilícita já basta para caracterizar a sanção penal",
+"A sanção depende sempre de perícia médica que comprove a debilitação concreta do condutor abordado",
+"A sanção só incide quando o condutor já tiver se envolvido em sinistro com vítima no local",
+"A sanção exige a confissão do condutor quanto ao uso da substância no momento em que é abordado",
+"A sanção alcança apenas os condutores profissionais das categorias do transporte de carga pesada"
+],
+"gab": 0,
+"tema": "drogas",
+"sub": "Modelos legais: per se e debilitação",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 5.",
+"coment": "A diretriz contrapõe dois modelos: legislações como a britânica pedem a confirmação da debilitação provocada pelo uso da substância, enquanto em alguns estados norte-americanos vigoram leis per se, pelas quais a presença de qualquer concentração de drogas ilícitas no organismo já é suficiente para caracterizar a sanção penal, com penalidades iguais às da direção sob efeito de álcool. O Brasil adota lógica mista: o artigo 165 do CTB pune dirigir sob influência de álcool ou de outra substância psicoativa que determine dependência, e o artigo 306 exige capacidade psicomotora alterada, constatável por diversos meios de prova, observado o direito à contraprova.",
+"porAlt": [
+"Correta: qualquer concentração da droga já basta para caracterizar a sanção penal cabível.",
+"A exigência de comprovar a debilitação concreta caracteriza o modelo britânico, não o per se.",
+"A ocorrência prévia de sinistro com vítima não é condição do modelo legal aqui descrito.",
+"A confissão do condutor não é elemento exigido pelo modelo per se de responsabilização.",
+"O modelo não se restringe aos condutores profissionais do transporte rodoviário de carga."
+]
+},
+{
+"q": "Qual foi a substância mais frequente entre as amostras positivas de caminhoneiros avaliados na ação preventiva citada pela diretriz?",
+"alts": [
+"Os canabinoides, responsáveis por cerca de setenta por cento dos casos positivos apurados",
+"A cocaína, responsável por cerca de oitenta por cento dos casos positivos que foram apurados",
+"Os opiáceos, responsáveis por cerca de cinquenta por cento dos casos positivos apurados",
+"As anfetaminas, responsáveis por cerca de sessenta e dois por cento dos casos positivos",
+"Os alucinógenos, responsáveis por cerca de quarenta por cento dos casos positivos apurados"
+],
+"gab": 3,
+"tema": "drogas",
+"sub": "Perfil das drogas entre caminhoneiros",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 1.",
+"coment": "No estudo com 452 caminhoneiros que forneceram urina voluntariamente na ação Comandos de Saúde nas Rodovias, 9,3% tinham usado ao menos uma das drogas pesquisadas; das amostras positivas, 26 eram de anfetaminas (61,9%), 10 de cocaína (23,8%) e 5 de canabinoides (11,9%). O predomínio das anfetaminas tem explicação ocupacional direta: motoristas relatam usar fenproporex e anfepramona para suportar jornadas exaustivas, substâncias indicadas para controle da obesidade e de comercialização proibida, mas facilmente adquiridas nas rodovias. É o elo entre a organização do trabalho e o consumo, e não um problema apenas individual.",
+"porAlt": [
+"Os canabinoides foram a menor fração das amostras positivas nesse estudo com caminhoneiros.",
+"A cocaína apareceu em fração bem menor que a das anfetaminas nas amostras que foram positivas.",
+"Os opiáceos não figuram entre as substâncias predominantes nessa população de motoristas.",
+"Correta: as anfetaminas, com cerca de sessenta e dois por cento dos casos que foram positivos.",
+"Os alucinógenos não constam como achado predominante nas amostras positivas desse estudo."
+]
+},
+{
+"q": "Quais grupos de substâncias a diretriz recomenda que sejam expressamente incluídos como proibitivos na legislação de trânsito brasileira?",
+"alts": [
+"Cocaína, cannabis e anfetaminas, com padronização das técnicas analíticas dos laboratórios",
+"Apenas os benzodiazepínicos, por serem a classe de prescrição mais difundida entre nós",
+"Apenas os opiáceos, cujo uso vem crescendo entre condutores profissionais no país inteiro",
+"Toda e qualquer substância de venda em farmácia, independentemente de efeito psicoativo",
+"Somente as substâncias de venda proibida, deixando as prescritas fora da regulamentação"
+],
+"gab": 0,
+"tema": "drogas",
+"sub": "Recomendação legislativa da diretriz",
+"base": "Diretriz ABRAMET, Efeito do uso de drogas sobre o comportamento e a cognição de motoristas (2012), item 5.",
+"coment": "A recomendação final é tríplice: revisar a lei vigente para tornar proibitiva a condução sob efeito de cocaína, cannabis e anfetaminas; padronizar as técnicas analíticas e garantir equipamentos nos laboratórios oficiais; e treinar policiais e agentes de trânsito. A motivação é a vagueza do CTB, que fala apenas em substância psicoativa que determine dependência, sem listar as classes — enquanto o Departamento de Transportes dos Estados Unidos determina a verificação de cannabis, cocaína, opiáceos, anfetaminas e fenciclidina. Sem definição das classes e sem laboratório padronizado, a regra existe no papel e não se aplica.",
+"porAlt": [
+"Correta: cocaína, cannabis e anfetaminas, com padronização das técnicas analíticas do país.",
+"Restringir aos benzodiazepínicos contraria a lista de classes recomendada pela diretriz.",
+"Restringir aos opiáceos deixaria de fora as classes de maior prevalência entre condutores.",
+"Abranger toda substância de farmácia, sem efeito psicoativo, não é o que se recomendou.",
+"Excluir as substâncias prescritas do alcance da norma não corresponde à recomendação."
+]
+},
+{
 "q": "Segundo a Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', qual é a conclusão sobre a existência de uma concentração alcoólica segura para conduzir?",
 "alts": [
 "Existe segurança abaixo de 0,2 g/l, faixa em que as habilidades de condução ficam preservadas ao volante",
