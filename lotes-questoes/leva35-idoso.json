@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Qual é a periodicidade do exame de aptidão física e mental para o condutor com idade igual ou superior a 70 anos?",
+  "alts": [
+   "A cada cinco anos, mesma periodicidade aplicada aos condutores de qualquer outra idade",
+   "A cada dez anos, uma vez que a idade avançada não altera o intervalo legal de renovação",
+   "A cada três anos, contra cinco anos dos cinquenta aos sessenta e nove e dez abaixo disso",
+   "A cada ano, sempre acompanhada de prova prática de direção na via aberta à circulação",
+   "A cada seis meses, com exigência adicional de parecer de médico geriatra assistente do caso"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "Periodicidade do exame no condutor idoso",
+  "base": "CTB, art. 147, §2º, com a redação da Lei nº 14.071/2020, em vigor desde 12/04/2021; Diretriz ABRAMET do condutor idoso, item 6.1.",
+  "coment": "O §2º do art. 147 do CTB, na redação dada pela Lei 14.071/2020 e vigente desde 12 de abril de 2021, escalona a renovação em três faixas: a cada 10 anos para condutores com menos de 50 anos; a cada 5 anos dos 50 aos 69; e a cada 3 anos a partir dos 70. Este é o ponto em que a busca desavisada erra com mais frequência, porque a regra ANTERIOR era de 5 anos até os 65 e 3 anos acima disso — texto revogado que ainda circula. A diretriz do condutor idoso reproduz o dispositivo vigente e lembra que a Resolução 927/2022 define as funcionalidades a avaliar, sem criar periodicidade própria.",
+  "porAlt": [
+   "Cinco anos é o intervalo da faixa dos cinquenta aos sessenta e nove, e não o dos setenta.",
+   "Dez anos aplica-se apenas aos condutores com idade inferior a cinquenta anos completos.",
+   "Correta: três anos a partir dos setenta, cinco dos cinquenta aos sessenta e nove, dez abaixo.",
+   "A renovação anual com prova prática obrigatória não é exigência da legislação brasileira.",
+   "O intervalo semestral com parecer de geriatra não consta da legislação de trânsito vigente."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz da ABRAMET, a partir de que idade as taxas de colisão e de sinistros fatais por distância percorrida começam a aumentar?",
+  "alts": [
+   "A partir dos cinquenta anos, com as taxas de mortalidade atingindo o valor máximo aos sessenta",
+   "A partir dos setenta anos, com a mortalidade atingindo o valor máximo aos oitenta e cinco",
+   "A partir dos sessenta anos, permanecendo depois estáveis por toda a faixa etária seguinte",
+   "A partir dos noventa anos, sendo desprezível o risco em todas as faixas etárias anteriores",
+   "A partir dos quarenta anos, quando começa o declínio das funções cognitivas do condutor"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Curva de risco por idade do condutor",
+  "base": "Diretriz ABRAMET do condutor idoso, item 4.",
+  "coment": "Por distância percorrida, as taxas de colisão e de sinistros fatais começam a aumentar a partir dos 70 anos, e as taxas de mortalidade de condutores idosos atingem os valores mais altos aos 85 anos. A diretriz faz, porém, uma ressalva metodológica importante: o aumento do risco por quilômetro rodado pode estar SUPERESTIMADO, porque os idosos tendem a dirigir mais em áreas urbanas, ambiente mais arriscado por quilômetro do que a rodovia. Some-se a isso a fragilidade física: quando vítimas, os idosos são mais propensos a lesões graves e fatais, pela baixa reserva funcional diante das demandas do trauma.",
+  "porAlt": [
+   "Os cinquenta anos não marcam o início da elevação das taxas por distância percorrida.",
+   "Correta: a partir dos setenta anos, com mortalidade máxima na faixa dos oitenta e cinco.",
+   "As taxas não permanecem estáveis a partir dos sessenta anos ao longo das faixas seguintes.",
+   "O risco não é desprezível antes dos noventa anos, e a curva sobe bem antes dessa idade.",
+   "Os quarenta anos não correspondem ao ponto de inflexão descrito nas taxas por distância."
+  ]
+ },
+ {
+  "q": "Por que o risco de sinistro por quilômetro percorrido de condutores idosos pode estar superestimado?",
+  "alts": [
+   "Porque eles dirigem mais em área urbana, ambiente por si mais arriscado do que a rodovia",
+   "Porque eles percorrem distâncias muito maiores que a média dos condutores mais jovens",
+   "Porque os sinistros com condutores idosos deixam de ser registrados pelos órgãos de trânsito",
+   "Porque eles concentram os deslocamentos no período noturno, quando há menos tráfego na via",
+   "Porque a frota conduzida por eles é composta de veículos mais novos e melhor equipados"
+  ],
+  "gab": 0,
+  "tema": "epidemiologia",
+  "sub": "Viés do denominador em quilometragem",
+  "base": "Diretriz ABRAMET do condutor idoso, item 4.",
+  "coment": "A diretriz adverte que o aumento do risco por quilômetro percorrido pode estar superestimado, pois os idosos tendem a dirigir mais em áreas urbanas, o que é mais arriscado do que dirigir em rodovias. É um problema clássico de denominador: comparar taxas por quilômetro entre grupos que rodam em ambientes diferentes mistura o efeito da idade com o efeito da via. Isso não anula os achados de risco, mas exige cautela na leitura. A diretriz complementa que os condutores idosos se envolvem mais em colisões em condições de ultrapassagem e especialmente em cruzamentos, situação ligada, entre outros fatores, à menor mobilidade do pescoço.",
+  "porAlt": [
+   "Correta: dirigem mais em área urbana, que é por si mais arriscada do que a rodovia.",
+   "Os idosos tendem a percorrer distâncias menores, e não maiores que os condutores jovens.",
+   "Os sinistros são registrados; o problema apontado é de comparabilidade das taxas obtidas.",
+   "Os idosos tendem justamente a evitar a condução noturna, que não concentra seus trajetos.",
+   "A composição da frota conduzida não é o fator apontado como origem da superestimação."
+  ]
+ },
+ {
+  "q": "Que padrão de infração e de sinistro é descrito como mais característico do condutor idoso?",
+  "alts": [
+   "Excesso de velocidade deliberado e condução sob efeito de bebida alcoólica em via urbana",
+   "Recusa consciente ao uso do cinto de segurança e transporte irregular de passageiros no carro",
+   "Disputa de corrida em via pública e realização de manobras perigosas para exibição a terceiros",
+   "Uso frequente do telefone celular para digitar mensagens durante todo o percurso realizado",
+   "Desrespeito involuntário a sinais de parada e falhas nas conversões à esquerda e cruzamentos"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Perfil de infrações do condutor idoso",
+  "base": "Diretriz ABRAMET do condutor idoso, item 5.",
+  "coment": "A diretriz traça um retrato de duas faces. Os idosos são mais experientes e em geral mais prudentes: não dirigem em excesso de velocidade nem alcoolizados, salvo exceções, usam o cinto com mais frequência que os demais, não cometem infrações conscientemente e cuidam da manutenção do veículo. Mas, com frequência e de forma INCONSCIENTE, desrespeitam sinais e regras, não sinalizam manobras, desobedecem a sinais de parada e faróis vermelhos, fazem conversões à esquerda sem a devida atenção, retornam em local proibido e não circulam pelo lado direito. Essas infrações decorrem, na maioria das vezes, de déficits de atenção e de memorização, sobretudo na atenção dividida entre tarefas múltiplas.",
+  "porAlt": [
+   "A velocidade excessiva deliberada e o álcool não caracterizam o perfil do condutor idoso.",
+   "A recusa consciente ao cinto contraria o achado de maior adesão entre os condutores idosos.",
+   "A disputa de corrida e as manobras de exibição não compõem o perfil descrito na diretriz.",
+   "A digitação frequente de mensagens é comportamento descrito sobretudo entre os jovens.",
+   "Correta: desrespeito involuntário a sinais de parada e falhas em conversões e cruzamentos."
+  ]
+ },
+ {
+  "q": "Como a diretriz posiciona a idade cronológica na decisão sobre a aptidão do condutor idoso?",
+  "alts": [
+   "Deve ser o critério isolado, com inaptidão automática a partir dos setenta anos completos",
+   "Deve ser desconsiderada por completo, sem qualquer repercussão sobre o exame realizado",
+   "Deve determinar a categoria máxima permitida, limitando o idoso à categoria B do país",
+   "Deve valer apenas para condutores que exerçam atividade remunerada ao veículo conduzido",
+   "Não deve ser o único indicador, mantendo-se a habilitação de quem dirige com segurança"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Idade cronológica e aptidão",
+  "base": "Diretriz ABRAMET do condutor idoso, itens 3 e 5.",
+  "coment": "A diretriz é enfática: é difícil determinar se uma pessoa idosa pode dirigir com segurança e a idade cronológica NÃO deve ser o único indicador da capacidade de condução; basear-se unicamente nela para impedir que um idoso dirija não encontra sustentação no conhecimento atual e não constitui prática desejável. Registra ainda que não há um teste eficaz e de fácil aplicação capaz de avaliar sozinho a competência de condução do idoso, e conclui que é consenso entre os especialistas em medicina do tráfego que os condutores idosos devem manter sua CNH, desde que possam dirigir com segurança. A decisão é funcional, não etária.",
+  "porAlt": [
+   "A inaptidão automática por idade não encontra sustentação no conhecimento atual da área.",
+   "A idade não é desconsiderada: ela orienta a periodicidade e o cuidado da avaliação feita.",
+   "A limitação de categoria por idade não é o critério adotado pela legislação brasileira.",
+   "O critério discutido não se restringe aos condutores que exercem atividade remunerada.",
+   "Correta: não é indicador único, e mantém-se a habilitação de quem dirige com segurança."
+  ]
+ },
+ {
+  "q": "Quais consequências foram descritas em pessoas idosas que deixaram de conduzir veículos?",
+  "alts": [
+   "Melhora consistente do humor e da cognição, por redução do estresse próprio da condução",
+   "Ausência de qualquer repercussão, já que o transporte público substitui integralmente o carro",
+   "Ganho de autonomia e de integração social, por maior convívio com familiares e vizinhos",
+   "Declínio social, cognitivo e funcional, com risco maior de depressão e de morte precoce",
+   "Redução isolada do risco de quedas, sem qualquer outra repercussão clínica documentada"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Consequências de parar de dirigir",
+  "base": "Diretriz ABRAMET do condutor idoso, itens 2 e 3.",
+  "coment": "Estudos evidenciam importantes declínios sociais, cognitivos e funcionais em idosos que pararam de conduzir, com risco aumentado de depressão, de admissão em casas de repouso e de mortalidade — esta última de quatro a seis vezes. A diretriz enquadra o problema em termos de saúde: para o idoso, saúde se define mais pela autonomia e independência do que pela presença ou ausência de doença orgânica, e a inaptidão para dirigir representa mais uma perda na sucessão do envelhecimento, talvez a mais dolorosa. Daí a exigência de que a inaptidão seja fundamentada em achado funcional, e não em presunção etária.",
+  "porAlt": [
+   "Não há melhora consistente do humor e da cognição após a interrupção da condução veicular.",
+   "A repercussão existe e é relevante, e o transporte público não substitui o carro sem perdas.",
+   "Não há ganho de autonomia: o que se descreve é justamente a perda de independência.",
+   "Correta: declínio social, cognitivo e funcional, com mais depressão e mortalidade elevada.",
+   "A redução do risco de quedas não é a consequência documentada nos estudos que se citam."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz, qual é a ordem decrescente de importância atribuída pelos próprios idosos à decisão de parar de dirigir?",
+  "alts": [
+   "A intervenção familiar, depois a decisão do próprio idoso e, por último, a recomendação médica",
+   "A decisão do próprio idoso, depois a recomendação médica e, por último, a intervenção familiar",
+   "A recomendação médica, depois a intervenção familiar e, por último, a decisão do próprio idoso",
+   "A determinação do órgão de trânsito, depois a familiar e, por último, a recomendação médica",
+   "A opinião dos vizinhos, depois a do médico assistente e, por último, a decisão do próprio idoso"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Hierarquia da decisão de parar de dirigir",
+  "base": "Diretriz ABRAMET do condutor idoso, item 3.",
+  "coment": "As pessoas idosas acreditam, mais frequentemente, que são elas próprias que devem tomar a decisão de quando parar de dirigir; na escala decrescente de importância vem depois a recomendação médica e, como último recurso, a intervenção familiar. Conhecer essa hierarquia é ferramenta de comunicação para o perito: a abordagem que trata o idoso como protagonista da decisão tende a ser mais efetiva do que a que impõe a restrição de fora. A diretriz observa ainda que muitos idosos já se autorregulam — evitam dirigir à noite e em rodovias, reduzem distâncias e evitam o horário de pico e o mau tempo.",
+  "porAlt": [
+   "A intervenção familiar aparece como último recurso, e não como primeira na ordem citada.",
+   "Correta: primeiro o próprio idoso, depois a recomendação médica e por fim a família dele.",
+   "A recomendação médica vem em segundo lugar, depois da decisão do próprio idoso avaliado.",
+   "A determinação do órgão de trânsito não figura na escala descrita pela própria diretriz.",
+   "A opinião de vizinhos não integra a escala de importância descrita para essa decisão."
+  ]
+ },
+ {
+  "q": "Por que o declínio cognitivo é mais perigoso que o déficit exclusivamente físico no condutor idoso?",
+  "alts": [
+   "Porque o déficit cognitivo impede por completo o deslocamento do idoso até o local do exame",
+   "Porque o déficit cognitivo sempre se acompanha de perda visual grave e de surdez profunda",
+   "Porque o déficit cognitivo é sempre reversível com o tratamento farmacológico já disponível",
+   "Porque o déficit cognitivo só aparece nos idosos que ainda exercem atividade remunerada",
+   "Porque o idoso não tem consciência da dimensão da perda e não decide parar por si mesmo"
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Anosognosia e decisão de parar",
+  "base": "Diretriz ABRAMET do condutor idoso, item 5.1.",
+  "coment": "Quando o problema é exclusivamente físico — limitação de movimento, visual ou auditiva —, é mais provável que o idoso se conscientize de que não pode dirigir como antes e tome por conta própria a decisão de parar. Essa conscientização é bem mais difícil quando o comprometimento envolve a cognição, com perda de atenção, concentração e juízo, como na doença de Alzheimer e em outras demências: aí o idoso não tem consciência da dimensão da perda das habilidades essenciais à condução. Revisão sistemática encontrou evidências consistentes de pior desempenho, na via e em simulador, entre condutores com déficit cognitivo — e é por isso que o rastreio cognitivo é o núcleo do exame nessa faixa etária.",
+  "porAlt": [
+   "O déficit cognitivo não impede, por si, o deslocamento do idoso até o local do exame.",
+   "O déficit cognitivo não vem sempre acompanhado de perda visual grave e surdez profunda.",
+   "O déficit cognitivo das demências não é revertido pelo tratamento farmacológico atual.",
+   "O déficit cognitivo não se restringe aos idosos que exercem atividade remunerada ao veículo.",
+   "Correta: falta a consciência da dimensão da perda, e a decisão de parar não é tomada."
+  ]
+ },
+ {
+  "q": "Qual instrumento obteve a melhor evidência de utilidade na avaliação da segurança na direção de pessoas com demência?",
+  "alts": [
+   "A escala visual analógica de dor, aplicada antes e depois de cada trajeto feito pelo idoso",
+   "A escala de Classificação Clínica de Demência, extensa demais para o exame de aptidão",
+   "O índice de massa corpórea associado à medida da circunferência abdominal do candidato",
+   "O questionário de Epworth, que gradua a propensão do candidato a cochilar durante o dia",
+   "A dinamometria de preensão palmar realizada em ambas as mãos do candidato que se examina"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Escala CDR e sua limitação prática",
+  "base": "Diretriz ABRAMET do condutor idoso, item 5.1.",
+  "coment": "Revisão sistemática de preditores da capacidade de condução em pessoas com demência concluiu que a escala CDR (Clinical Dementia Rating) obteve a melhor evidência de utilidade, parâmetro adotado na prática pela Academia Americana de Neurologia. Condutores com demência muito leve a leve, isto é, CDR de 0,5 a 1,0, mostraram-se significativamente mais propensos a falhar em testes de direção na via do que os sem demência. A ressalva prática é decisiva: a própria diretriz reconhece que o CDR pode não ser a ferramenta mais apropriada no exame de aptidão física e mental, por se tratar de análise pormenorizada, extensa e de difícil aplicação metodológica nesse contexto.",
+  "porAlt": [
+   "A escala visual analógica de dor não avalia cognição nem prediz segurança na condução.",
+   "Correta: a escala de Classificação Clínica de Demência, extensa demais para uso no exame.",
+   "O índice de massa corpórea com circunferência abdominal não é preditor de direção segura.",
+   "O questionário de Epworth mede a propensão ao cochilo, e não o comprometimento cognitivo.",
+   "A dinamometria de preensão palmar mede força, e não a capacidade cognitiva do candidato."
+  ]
+ },
+ {
+  "q": "Qual pontuação no Miniexame do Estado Mental a Academia Americana de Neurologia sugeriu como útil para identificar risco de direção insegura?",
+  "alts": [
+   "Pontuação igual ou inferior a dez pontos, abaixo da qual se caracteriza demência avançada",
+   "Pontuação igual ou superior a vinte e oito pontos, que já indicaria comprometimento inicial",
+   "Pontuação igual ou inferior a vinte e quatro pontos, usada como triagem e não como sentença",
+   "Pontuação igual ou superior a trinta pontos, teto máximo obtido apenas por adultos jovens",
+   "Pontuação igual ou inferior a dois pontos, resultado observado somente no idoso acamado"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Corte do Miniexame do Estado Mental",
+  "base": "Diretriz ABRAMET do condutor idoso, itens 5.1 e 5.2.",
+  "coment": "A diretriz de 2010 da Academia Americana de Neurologia sugere que uma pontuação no MEEM igual ou inferior a 24 pode ser útil na identificação de idosos com risco aumentado de direção insegura. A própria diretriz da ABRAMET recomenda usar o instrumento como TRIAGEM para a presença de demência e para documentar elementos associados ao comprometimento da direção, e não como decisão isolada. Estudo brasileiro reforça a associação: candidatos considerados aptos no exame de aptidão apresentaram mediana de 28 pontos, enquanto os inaptos tiveram mediana de 25,5 — diferença consistente, mas com sobreposição que desaconselha corte automático.",
+  "porAlt": [
+   "Dez pontos é limiar de comprometimento muito mais grave do que o sugerido para triagem.",
+   "Vinte e oito pontos é a mediana dos aptos no estudo brasileiro, e não um sinal de alerta.",
+   "Correta: igual ou inferior a vinte e quatro pontos, empregada como triagem do candidato.",
+   "Trinta pontos é o escore máximo do instrumento, e não um ponto de corte para risco.",
+   "Dois pontos não corresponde a qualquer corte proposto para a avaliação da direção segura."
+  ]
+ },
+ {
+  "q": "Em que consiste o Mini-Cog, apontado pela diretriz como instrumento útil na avaliação cognitiva do condutor idoso?",
+  "alts": [
+   "Na aplicação de bateria neuropsicológica completa, com duração aproximada de quatro horas",
+   "Na medida da velocidade de marcha ao longo de um percurso de três metros no consultório",
+   "Na recordação de três palavras somada ao desenho do relógio, em três a quatro minutos",
+   "Na avaliação da acuidade visual para perto e para longe com uso da tabela de optotipos",
+   "Na aferição da pressão arterial em três posições sucessivas durante a consulta pericial"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Mini-Cog e sua variante para não alfabetizados",
+  "base": "Diretriz ABRAMET do condutor idoso, item 5.2.",
+  "coment": "O Mini-Cog consiste na recordação de três palavras somada ao teste do desenho do relógio e é aplicado em 3 a 4 minutos — vantagem decisiva no contexto do exame de aptidão, onde o CDR é inviável pela extensão. Estudo em ampla amostra clínica concluiu que o Mini-Cog igualou o desempenho da combinação MEEM com desenho do relógio na acurácia do rastreamento de demência, em todos os níveis de escolaridade e faixas etárias, com especificidade semelhante. Como o desenho do relógio exige ao menos alfabetização básica e familiaridade cultural com relógios analógicos, foi desenvolvida uma modificação que substitui essa tarefa por uma subtração em série.",
+  "porAlt": [
+   "A bateria neuropsicológica completa de horas é inviável no contexto do exame de aptidão.",
+   "A medida da velocidade de marcha em três metros corresponde ao teste de mobilidade TUG.",
+   "Correta: recordação de três palavras e teste do desenho do relógio, em três a quatro minutos.",
+   "A avaliação da acuidade visual com tabela de optotipos não compõe o instrumento citado.",
+   "A aferição de pressão arterial em três posições não integra o rastreio cognitivo descrito."
+  ]
+ },
+ {
+  "q": "Que idade é apontada na diretriz como crítica para a redução significativa da acuidade visual em baixa luminosidade?",
+  "alts": [
+   "Trinta e cinco anos, quando se inicia a presbiopia na maioria absoluta da população adulta",
+   "Oitenta e cinco anos, faixa em que a maioria dos condutores já abandonou a direção veicular",
+   "Quarenta e cinco anos, idade em que se torna obrigatório o uso de lentes corretoras no país",
+   "Sessenta e cinco anos, sendo o ofuscamento por faróis a queixa de um quarto dos idosos",
+   "Noventa anos, quando a legislação passa a exigir avaliação oftalmológica especializada"
+  ],
+  "gab": 3,
+  "tema": "oftalmo",
+  "sub": "Visão em baixa luminosidade no idoso",
+  "base": "Diretriz ABRAMET do condutor idoso, item 5.3.1.",
+  "coment": "A diretriz aponta os 65 anos como idade crítica em que a acuidade visual se reduz significativamente em condições de baixa luminosidade, e registra que a sensibilidade aumentada às luzes dos faróis em sentido contrário é a principal queixa de cerca de um quarto dos motoristas idosos. Com a idade há declínio da acuidade e do campo visual, maior dificuldade noturna por menor resistência ao ofuscamento e adaptação mais lenta, pelo aumento da densidade dos meios de transparência óptica e redução dos fotorreceptores. Soma-se a prevalência de catarata, glaucoma, degeneração macular, retinopatia diabética e doenças da córnea — e o dado que mais preocupa: dois terços dos condutores idosos com deficiência visual têm a falsa impressão de dirigir com segurança.",
+  "porAlt": [
+   "Os trinta e cinco anos marcam a presbiopia, e não o corte descrito para a baixa luminosidade.",
+   "Oitenta e cinco anos não é a idade crítica apontada para a perda em baixa luminosidade.",
+   "Não existe idade legal a partir da qual o uso de lentes corretoras se torne obrigatório.",
+   "Correta: sessenta e cinco anos, com o ofuscamento sendo a queixa de um quarto dos idosos.",
+   "Aos noventa anos não passa a existir exigência legal de avaliação oftalmológica de especialista."
+  ]
+ },
+ {
+  "q": "Qual é a doença da orelha interna mais relevante para o médico perito examinador no exame do condutor idoso?",
+  "alts": [
+   "A presbiacusia, perda fisiológica da idade agravada por doenças vasculares e metabólicas",
+   "A otosclerose juvenil, que se manifesta antes dos vinte anos e estabiliza na vida adulta",
+   "A otite média aguda, quadro infeccioso agudo com resolução em poucos dias de tratamento",
+   "A rolha de cerume, obstrução do conduto auditivo externo removível na própria consulta",
+   "A perfuração traumática da membrana timpânica decorrente de barotrauma durante o voo"
+  ],
+  "gab": 0,
+  "tema": "orl",
+  "sub": "Presbiacusia no exame do idoso",
+  "base": "Diretriz ABRAMET do condutor idoso, item 5.3.2.",
+  "coment": "A presbiacusia é apontada como a doença da orelha interna mais importante para o perito examinador, pela frequência com que aparece no exame de aptidão física e mental: perda fisiológica da idade, em geral não muito intensa, mas que, somada aos efeitos de doenças vasculares, metabólicas e autoimunes, produz perdas de graus variados. A diretriz lembra que a audição contribui na fase PRÉ-COLISÃO, identificando sons de alerta — buzinas, sirenes, apitos, alarmes de passagem de nível — e estímulos de retorno do próprio veículo, como resposta do motor e ruído dos freios. Cerca de 20% das pessoas entre 45 e 54 anos têm alguma dificuldade auditiva, proporção que chega a 75% entre 75 e 79 anos.",
+  "porAlt": [
+   "Correta: a presbiacusia, agravada por doenças vasculares, metabólicas e autoimunes.",
+   "A otosclerose juvenil não é a condição mais frequente no exame do candidato idoso.",
+   "A otite média aguda é quadro transitório e não é o achado mais relevante nessa faixa etária.",
+   "A rolha de cerume acomete o conduto externo, e não a orelha interna do candidato avaliado.",
+   "A perfuração timpânica por barotrauma não é a condição prevalente no condutor idoso."
+  ]
+ },
+ {
+  "q": "Qual é o efeito descrito do início de terapia com benzodiazepínicos sobre o risco de sinistro no condutor idoso?",
+  "alts": [
+   "Redução de quase cinquenta por cento do risco, por melhora da qualidade do sono do idoso",
+   "Nenhuma alteração do risco, desde que a dose prescrita seja a menor disponível no mercado",
+   "Aumento do risco apenas depois do sexto mês de uso contínuo do medicamento prescrito",
+   "Aumento de quase cinquenta por cento do risco já na primeira semana após o início do uso",
+   "Aumento do risco restrito aos condutores que exercem atividade remunerada ao veículo"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Primeira semana de benzodiazepínico no idoso",
+  "base": "Diretriz ABRAMET do condutor idoso, item 5.5.",
+  "coment": "O risco de sinistro aumenta quase 50% na primeira semana após o início da terapia com benzodiazepínicos, e estudo demonstrou risco cinco vezes maior de motoristas idosos se envolverem em sinistros graves com hospitalização quando associados ao uso de benzodiazepínicos e antidepressivos tricíclicos. O idoso é especialmente vulnerável pela polifarmácia: usa mais medicamentos e por isso tem mais chance de sofrer efeitos terapêuticos e colaterais que suprimem funções psicomotoras. A diretriz lista entre os fármacos de atenção os benzodiazepínicos, analgésicos de ação central, antidepressivos tricíclicos, antialérgicos, anticolinérgicos, relaxantes musculares, antiepilépticos, dopaminérgicos e hipoglicemiantes.",
+  "porAlt": [
+   "Não há redução do risco: a introdução do fármaco é justamente o período mais perigoso.",
+   "A dose mínima disponível não neutraliza o aumento de risco descrito no início do uso.",
+   "O aumento descrito ocorre logo na primeira semana, e não somente após o sexto mês.",
+   "Correta: aumento de quase cinquenta por cento do risco já na primeira semana de uso.",
+   "O aumento de risco não se restringe a quem exerce atividade remunerada ao veículo."
+  ]
+ },
+ {
+  "q": "Como se classifica o desempenho no teste Timed Up and Go segundo os tempos citados na diretriz do condutor idoso?",
+  "alts": [
+   "Normal até dez segundos, de onze a vinte no idoso frágil e anormal acima de vinte segundos",
+   "Normal até dois segundos, de três a cinco no idoso frágil e anormal acima de cinco segundos",
+   "Normal até um minuto, de um a dois minutos no idoso frágil e anormal acima de dois minutos",
+   "Normal até trinta segundos, de trinta a sessenta no frágil e anormal acima de sessenta segundos",
+   "Normal até cinco minutos, de cinco a dez no idoso frágil e anormal acima de dez minutos"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "Teste Timed Up and Go",
+  "base": "Diretriz ABRAMET do condutor idoso, item 9.",
+  "coment": "No TUG o candidato parte sentado em cadeira de 45 cm, com dorso apoiado e braços sobre as coxas; levanta-se, caminha 3 metros em linha reta demarcada, gira, retorna e senta na posição inicial, na maior velocidade possível, com o tempo cronometrado. Considera-se normal 10 segundos ou menos, 11 a 20 segundos para idosos frágeis e anormal acima de 20 segundos; para brasileiros, estudo recomenda o corte de 12,47 segundos para risco de quedas. A diretriz observa que velocidade de marcha lenta associada a TUG mais longo pode indicar limitação para a direção. Não confundir com a síndrome da fragilidade autorreferida, cujos cinco componentes classificam em não frágil (zero), pré-frágil (um a dois) e frágil (três ou mais).",
+  "porAlt": [
+   "Correta: normal até dez segundos, onze a vinte no frágil e anormal acima de vinte segundos.",
+   "Dois a cinco segundos é tempo incompatível com a execução completa do percurso proposto.",
+   "Um a dois minutos não corresponde às faixas de tempo descritas para esse teste funcional.",
+   "Trinta a sessenta segundos extrapola em muito a faixa descrita para o idoso considerado frágil.",
+   "Cinco a dez minutos não guarda relação com os tempos descritos para o teste em questão."
+  ]
+ }
+]
