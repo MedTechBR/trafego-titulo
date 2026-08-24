@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Segundo o art. 277 do CTB e a Resolução CONTRAN correspondente, quais procedimentos podem ser exigidos do condutor para certificar influência de álcool ou outra substância psicoativa?",
+  "alts": [
+   "Exclusivamente o teste do etilômetro homologado pelo Inmetro, sob pena de nulidade da autuação lavrada",
+   "Exclusivamente o exame de sangue coletado em unidade de saúde por profissional habilitado no local",
+   "Teste, exame clínico, perícia ou outro procedimento que permita certificar a influência da substância",
+   "Exclusivamente a perícia médica realizada por instituto oficial no prazo de vinte e quatro horas",
+   "Exclusivamente o exame toxicológico de larga janela de detecção, colhido no momento da abordagem"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Procedimentos de fiscalização",
+  "base": "CTB, art. 277 e art. 165-A (redação da Lei nº 13.281/2016).",
+  "coment": "O art. 277 prevê que o condutor envolvido em sinistro de trânsito ou alvo de fiscalização seja submetido a teste, exame clínico, perícia ou outro procedimento que, por meios técnicos ou científicos, permita certificar influência de álcool ou outra substância psicoativa. A pluralidade de meios é deliberada e se articula com o art. 165-A, que torna a RECUSA a qualquer desses procedimentos infração gravíssima autônoma, com as mesmas penalidades do art. 165 — multa multiplicada por dez, suspensão do direito de dirigir por 12 meses, recolhimento do documento e retenção do veículo, com multa em dobro na reincidência em até 12 meses. Assim, recusar não é estratégia de defesa: gera a mesma punição administrativa.",
+  "porAlt": [
+   "O etilômetro é apenas um dos meios possíveis, não sendo o único admitido pela legislação vigente.",
+   "O exame de sangue é um dos meios possíveis, mas a lei não o torna exclusivo nem obrigatório.",
+   "Correta: teste, exame clínico, perícia ou outro procedimento técnico ou científico admitido em lei.",
+   "A perícia é um dos meios previstos, mas a lei não a estabelece como via exclusiva de constatação.",
+   "O toxicológico de larga janela tem outra finalidade e não é o procedimento da abordagem fiscalizatória."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, quais funções necessárias à condução já ficam prejudicadas em condutores com alcoolemia igual ou superior a 0,2 g/l?",
+  "alts": [
+   "Apenas a força muscular dos membros superiores, com prejuízo do controle direcional sobre o volante",
+   "Atenção dividida, funções visuais e acompanhamento de movimento, todas essenciais à tarefa de dirigir",
+   "Apenas a sensibilidade tátil das extremidades, com prejuízo da percepção do retorno do pedal de freio",
+   "Apenas a acuidade auditiva, com prejuízo da percepção de sirenes e de buzinas durante o deslocamento",
+   "Apenas a memória de longo prazo, com prejuízo do reconhecimento das rotas habituais do motorista"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Funções prejudicadas pelo álcool",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 2.",
+  "coment": "A diretriz é específica: condutores com alcoolemia igual ou superior a 0,2 g/l já ficam com as habilidades necessárias para a condução prejudicadas — funções de atenção dividida, visuais e acompanhamento de movimento. A atenção dividida é o núcleo da tarefa de dirigir, que exige monitorar simultaneamente via, espelhos, instrumentos e outros usuários. A diretriz acrescenta que a diminuição da capacidade de desempenhar funções cruciais, como o PROCESSAMENTO DE INFORMAÇÕES, se inicia com alcoolemias baixas, e que a maioria dos indivíduos se encontra significativamente debilitada com alcoolemia de 0,5 g/l.",
+  "porAlt": [
+   "A força muscular não é a função destacada pela diretriz como precocemente prejudicada pelo álcool.",
+   "Correta: atenção dividida, funções visuais e acompanhamento de movimento são as funções citadas.",
+   "A sensibilidade tátil das extremidades não é a função apontada nesse patamar de alcoolemia.",
+   "A acuidade auditiva não é a função destacada pela diretriz entre as precocemente comprometidas.",
+   "A memória de longo prazo não é a função apontada como prejudicada nessa faixa de alcoolemia."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, o que a NHTSA relatou sobre condutores alcoolizados mortos em sinistros, e qual é a implicação dessa informação?",
+  "alts": [
+   "Que 13% estavam abaixo do limite legal, o que mostra que o limite não equivale a faixa de segurança",
+   "Que 13% estavam acima do limite legal, o que mostra que a fiscalização é eficaz na maioria dos casos",
+   "Que 50% estavam abaixo do limite legal, o que mostra que o limite deveria ser elevado nos Estados Unidos",
+   "Que 90% estavam abaixo do limite legal, o que torna irrelevante qualquer política de limite máximo",
+   "Que nenhum estava abaixo do limite legal, o que confirma a adequação do limite atualmente adotado"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Limite legal e faixa de segurança",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+  "coment": "A diretriz registra que a National Highway Traffic Safety Agency relatou que 13% dos condutores alcoolizados que morreram em sinistros estavam com alcoolemia POSITIVA, porém ABAIXO do limite máximo permitido. A implicação é conceitual e importante para o perito: o estabelecimento de um limite de alcoolemia, mesmo baseado em evidências, não é suficiente para coibir todos os sinistros relacionados ao álcool, especialmente considerando os indivíduos que podem estar alterados com concentrações abaixo do limite legal. O limite legal é instrumento de fiscalização, não certificado de segurança — argumento que a diretriz usa para sustentar que só a alcoolemia zero corresponde a dirigibilidade sem riscos.",
+  "porAlt": [
+   "Correta: 13% estavam abaixo do limite legal, mostrando que o limite não define faixa segura.",
+   "O dado da diretriz refere-se justamente aos que estavam ABAIXO do limite legal permitido.",
+   "O percentual apontado pela diretriz é de treze por cento, e não de metade dos condutores.",
+   "O percentual está muito acima do relatado, e a conclusão sobre a política também é incorreta.",
+   "O relato é justamente o oposto: parcela relevante estava abaixo do limite máximo permitido."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, o que pode anular o efeito de uma lei de trânsito eficaz ao longo do tempo?",
+  "alts": [
+   "A elevação gradual do limite máximo de alcoolemia permitido pela legislação nos anos subsequentes",
+   "O aumento da frota circulante, que dilui o efeito da norma sobre o conjunto total dos condutores",
+   "A substituição das blitzes por câmeras automáticas, que não conseguem aferir a alcoolemia do condutor",
+   "A ampliação da malha rodoviária pavimentada, que eleva a velocidade média praticada pelos condutores",
+   "A percepção pública de impunidade e o desconhecimento da lei vigente pela população de condutores"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Sustentação do efeito da lei",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 2.1.",
+  "coment": "A diretriz alerta que as leis não devem ser somente promulgadas, mas DIVULGADAS E APLICADAS, com fiscalização constante. Mesmo quando há efeito considerável na redução de sinistros com a entrada em vigor de uma lei, esse efeito pode ser ANULADO após certo período se houver percepção pública de impunidade e/ou desconhecimento da lei vigente. Campanhas de publicidade, educação pública e fiscalização severa são capazes de manter o sentimento de risco de punição e resultam em maior cumprimento da lei. É uma observação relevante para a atuação do especialista em saúde pública: a norma é condição necessária, não suficiente.",
+  "porAlt": [
+   "A diretriz não aponta elevação do limite legal como causa da perda de efeito da norma ao longo do tempo.",
+   "O aumento da frota não é o mecanismo apontado pela diretriz para a perda de efeito da legislação.",
+   "A substituição de blitzes por câmeras não é o fator descrito pela diretriz nesse ponto do texto.",
+   "A ampliação da malha rodoviária não é o fator apontado como causa da anulação do efeito da lei.",
+   "Correta: percepção de impunidade e desconhecimento da lei vigente anulam o efeito obtido inicialmente."
+  ]
+ },
+ {
+  "q": "Um condutor pergunta se tomar café e dirigir com mais cautela compensa o consumo de álcool. Qual é a resposta correta, à luz da Diretriz ABRAMET?",
+  "alts": [
+   "Compensam parcialmente: a cafeína reverte cerca de metade do prejuízo atencional causado pelo álcool",
+   "Compensam integralmente: a cafeína acelera o metabolismo hepático do álcool e reduz a alcoolemia",
+   "Compensam quando associadas: café mais cautela reduzem a alcoolemia abaixo do limite legal vigente",
+   "Compensam apenas em consumidores habituais, cuja tolerância adquirida neutraliza o efeito do álcool",
+   "Não compensam: são crenças protetoras equivocadas, e o álcool prejudica o próprio julgamento do risco"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Crenças protetoras equivocadas",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+  "coment": "A diretriz descreve como alarmante o achado de que 22,9% dos condutores brasileiros estudados acreditavam que a bebida não influenciava negativamente sua capacidade de dirigir, SOBRETUDO se adotassem medidas tidas como protetoras, como tomar café e dirigir com mais cautela. Nenhuma das duas funciona. A cafeína pode reduzir a sonolência, mas não altera a alcoolemia nem restaura a atenção dividida, o tempo de reação e o processamento de informação comprometidos pelo álcool — produz apenas um 'bêbado desperto'. E a intenção de dirigir com mais cautela esbarra no próprio efeito do álcool sobre o julgamento e a autocrítica, que são das primeiras funções a se deteriorar.",
+  "porAlt": [
+   "A cafeína não reverte o prejuízo atencional: apenas reduz a sonolência sem restaurar o desempenho.",
+   "A cafeína não acelera o metabolismo hepático do álcool nem reduz a concentração alcoólica no sangue.",
+   "Nenhuma dessas medidas altera a alcoolemia, que depende do metabolismo e do tempo transcorrido.",
+   "A tolerância adquirida não neutraliza o prejuízo objetivo do desempenho na tarefa de conduzir.",
+   "Correta: são crenças equivocadas, e o álcool prejudica justamente o julgamento do próprio risco."
+  ]
+ },
+ {
+  "q": "Motorista profissional apresenta exame toxicológico de larga janela com resultado positivo para anfetaminas. Qual é o desdobramento correto no processo de habilitação e na esfera administrativa?",
+  "alts": [
+   "O resultado positivo é irrelevante para a perícia médica, cabendo apenas a autuação administrativa devida",
+   "O resultado positivo determina a inaptidão definitiva do candidato, sem qualquer possibilidade de nova avaliação",
+   "O resultado positivo dispensa a autuação, bastando o encaminhamento do condutor para o tratamento clínico",
+   "O resultado positivo é infração autônoma se ele dirigir, e o achado deve ser considerado na avaliação pericial",
+   "O resultado positivo só produz efeito se confirmado por uma segunda coleta realizada em laboratório distinto"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Toxicológico positivo e perícia",
+  "base": "CTB, arts. 148-A e 165-C (Lei nº 14.599/2023); Resolução CONTRAN nº 927/2022, art. 4º, II, b (indícios de uso de psicoativos).",
+  "coment": "São dois planos distintos que se somam. No plano ADMINISTRATIVO, dirigir tendo obtido resultado positivo no exame toxicológico do art. 148-A configura a infração autônoma do art. 165-C: gravíssima, multa multiplicada por cinco e, na reincidência em até 12 meses, multa por dez e suspensão do direito de dirigir. No plano PERICIAL, o art. 4º, II, b da Resolução 927/2022 manda o médico observar indícios do uso de substâncias psicoativas no exame físico geral, e a pergunta 7 do questionário do Anexo I indaga sobre uso de drogas ilícitas — de modo que o achado é elemento legítimo da avaliação de aptidão, com investigação da repercussão funcional e do padrão de uso.",
+  "porAlt": [
+   "O resultado não é irrelevante para a perícia: a norma manda observar indícios de uso de psicoativos.",
+   "Não há inaptidão definitiva automática: a avaliação considera repercussão funcional e padrão de uso.",
+   "A autuação não é dispensada pelo encaminhamento a tratamento, sendo esferas independentes entre si.",
+   "Correta: é infração autônoma se ele dirigir, e o achado integra legitimamente a avaliação pericial.",
+   "A norma não condiciona o efeito do resultado a uma segunda coleta em laboratório distinto do primeiro."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, quais são os principais efeitos da cannabis sobre o comportamento e a cognição do motorista?",
+  "alts": [
+   "Melhora do tempo de reação e da atenção sustentada, com redução comprovada do risco de sinistro grave",
+   "Prejuízo do tempo de reação, da atenção dividida e da percepção temporal, com risco maior de sinistro",
+   "Prejuízo exclusivo da força muscular, sem qualquer repercussão sobre os domínios cognitivos avaliados",
+   "Prejuízo exclusivo da acuidade visual para longe, plenamente compensado pelo uso de lentes corretoras",
+   "Ausência de efeitos mensuráveis sobre a condução, o que justifica a inexistência de fiscalização própria"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Efeitos da cannabis na condução",
+  "base": "Conteúdo programático do Edital nº 2446 — Diretriz ABRAMET/AMB/CFM 'Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas'.",
+  "coment": "A cannabis compromete de forma consistente o desempenho na condução: aumenta o tempo de reação, prejudica a atenção dividida e a manutenção da trajetória na faixa, distorce a percepção de tempo e de distância e reduz a capacidade de resposta a eventos inesperados. Um traço peculiar é o padrão comportamental compensatório — o usuário costuma reduzir a velocidade e aumentar a distância do veículo à frente, ciente do prejuízo —, o que não elimina o risco e é insuficiente diante de eventos súbitos. O risco cresce de forma expressiva na associação com álcool, combinação frequente e de efeito superior à soma dos efeitos isolados. O edital dedica diretriz específica ao tema, ao lado de anfetaminas, cocaína, opiáceos e alucinógenos.",
+  "porAlt": [
+   "Não há melhora de desempenho: a literatura documenta prejuízo consistente na tarefa de conduzir.",
+   "Correta: prejuízo do tempo de reação, da atenção dividida e da percepção temporal, com mais risco.",
+   "O prejuízo é predominantemente cognitivo e atencional, e não restrito à força muscular do condutor.",
+   "O comprometimento não se restringe à acuidade visual nem é compensável por lentes corretoras.",
+   "Os efeitos são mensuráveis e reconhecidos, tanto que há diretriz específica e fiscalização própria."
+  ]
+ },
+ {
+  "q": "Qual é a característica dos opioides que os torna especialmente relevantes na avaliação do condutor?",
+  "alts": [
+   "Produzem excitação psicomotora intensa, com aumento paradoxal da velocidade praticada pelo condutor",
+   "Produzem sedação e prejuízo cognitivo, com risco maior no início do tratamento e nas mudanças de dose",
+   "Produzem midríase acentuada e persistente, sendo o único achado relevante para a segurança da condução",
+   "Produzem elevação da pressão arterial, com risco de encefalopatia hipertensiva durante o deslocamento",
+   "Produzem tremor de extremidades isolado, sem qualquer repercussão sobre a atenção e o tempo de reação"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Opioides e condução",
+  "base": "Conteúdo programático do Edital nº 2446 — drogas e medicamentos que interferem na condução veicular; Diretriz ABRAMET sobre medicamentos potencialmente prejudiciais ao condutor.",
+  "coment": "Os opioides produzem sedação, lentificação do processamento e prejuízo da atenção e do tempo de reação, além de miose, náusea e, em doses maiores, depressão respiratória. Como ocorre com os benzodiazepínicos, o período de MAIOR RISCO é o do início do tratamento e o das mudanças de dose, antes que se desenvolva tolerância parcial aos efeitos sedativos — motivo pelo qual a orientação ao paciente nesse momento é decisiva. O ponto que costuma ser cobrado é que o problema não se limita às drogas ilícitas: analgésicos opioides prescritos, muito usados no pós-operatório e na dor crônica, exigem a mesma cautela e devem ser ativamente perguntados na anamnese pericial.",
+  "porAlt": [
+   "Os opioides produzem sedação, e não excitação psicomotora com aumento da velocidade praticada.",
+   "Correta: sedação e prejuízo cognitivo, com risco maior no início do tratamento e nas mudanças de dose.",
+   "A miose é o achado pupilar típico dos opioides, e não a midríase afirmada pela alternativa.",
+   "A elevação pressórica não é o efeito característico dos opioides relevante para a condução veicular.",
+   "O tremor isolado não descreve o perfil de efeitos dos opioides sobre a atenção e o tempo de reação."
+  ]
+ },
+ {
+  "q": "Qual classe de medicamentos de uso corriqueiro e frequentemente subestimada pelo paciente pode comprometer a condução por efeito sedativo?",
+  "alts": [
+   "Antibióticos betalactâmicos, cujo efeito sedativo é dose-dependente e proporcional ao tempo de uso",
+   "Anti-inflamatórios não esteroidais tópicos, que atingem concentração plasmática sedativa em poucas horas",
+   "Anti-histamínicos de primeira geração, largamente usados em quadros alérgicos e vendidos sem receita",
+   "Antiácidos de uso ocasional, cuja ação sobre o sistema nervoso central produz sonolência acentuada",
+   "Suplementos vitamínicos hidrossolúveis, que provocam sedação por acúmulo em tecido adiposo periférico"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Anti-histamínicos e sedação",
+  "base": "Conteúdo programático do Edital nº 2446 — principais medicamentos que interferem na condução veicular; Diretriz ABRAMET sobre MPPCVA.",
+  "coment": "Os anti-histamínicos de primeira geração, como a difenidramina, a prometazina, a dexclorfeniramina e a hidroxizina, atravessam a barreira hematoencefálica e produzem sedação, prejuízo da atenção e aumento do tempo de reação — em alguns estudos com magnitude comparável à de concentrações relevantes de álcool. O agravante é que são vendidos sem receita e usados de forma banal para alergia, coriza e insônia, de modo que o paciente muitas vez sequer os considera 'remédio' ao responder à primeira pergunta do questionário do Anexo I. Cabe ao perito perguntar ativamente e orientar a preferência por anti-histamínicos de segunda geração, com menor penetração central.",
+  "porAlt": [
+   "Os antibióticos betalactâmicos não têm efeito sedativo relevante para a condução de veículos.",
+   "Os anti-inflamatórios tópicos têm absorção sistêmica baixa e não produzem sedação significativa.",
+   "Correta: os anti-histamínicos de primeira geração são sedativos e de uso corriqueiro sem receita.",
+   "Os antiácidos de uso ocasional não produzem sonolência acentuada por ação no sistema nervoso.",
+   "Os suplementos hidrossolúveis não se acumulam em tecido adiposo nem produzem sedação relevante."
+  ]
+ },
+ {
+  "q": "Condutor de 44 anos inicia tratamento com benzodiazepínico para insônia e pergunta se pode dirigir. Qual é a orientação correta?",
+  "alts": [
+   "Liberar a condução sem ressalvas, pois o efeito do fármaco se restringe ao período noturno de sono",
+   "Solicitar dosagem sérica do fármaco antes de cada deslocamento, para verificar a segurança do dia",
+   "Proibir a condução em definitivo enquanto durar o tratamento, qualquer que seja a dose empregada",
+   "Alertá-lo sobre o risco aumentado no início do tratamento e orientá-lo a evitar dirigir nessa fase",
+   "Recomendar que dobre a dose para acelerar a tolerância aos efeitos sedativos do medicamento usado"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Início de tratamento com benzodiazepínico",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Uso de benzodiazepínicos e risco de acidente de trânsito', recomendação.",
+  "coment": "A recomendação central da diretriz é o diálogo entre médico e paciente, alertando quanto ao risco de dirigir NO INÍCIO DO TRATAMENTO — período de maior sedação, antes de qualquer tolerância parcial. O efeito não se restringe à noite: os benzodiazepínicos de meia-vida longa produzem sedação residual diurna, com prejuízo da atenção e do tempo de reação no dia seguinte, e o risco é ainda maior em idosos e na associação com álcool. A diretriz explica que a dificuldade de determinar um meio simples e eficaz para dosar a quantidade segura, somada à responsabilização do médico quanto à decisão sobre a capacidade de dirigir, torna imperativa essa orientação clínica — e não uma proibição formal genérica.",
+  "porAlt": [
+   "O efeito não se restringe à noite: há sedação residual diurna, sobretudo com meia-vida longa.",
+   "A dosagem sérica antes de cada deslocamento é inviável, e a própria diretriz aponta essa dificuldade.",
+   "A proibição definitiva não é a recomendação: a diretriz aposta na orientação e na atenção à fase inicial.",
+   "Correta: alertar sobre o risco aumentado no início do tratamento e orientar a evitar dirigir nessa fase.",
+   "Dobrar a dose para acelerar a tolerância é conduta perigosa e não figura em nenhuma recomendação."
+  ]
+ },
+ {
+  "q": "Qual é o efeito da associação entre álcool e medicamentos sedativos sobre o desempenho do condutor?",
+  "alts": [
+   "Potencialização do prejuízo, com efeito superior à soma dos efeitos isolados de cada substância",
+   "Neutralização mútua dos efeitos, com desempenho equivalente ao de um condutor inteiramente sóbrio",
+   "Redução do prejuízo do álcool, pois o sedativo compete pelos mesmos receptores do sistema nervoso",
+   "Efeito idêntico ao do álcool isolado, pois os sedativos não interferem em sua ação sobre o organismo",
+   "Efeito restrito à esfera motora, com preservação integral da atenção e do tempo de reação do condutor"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Interação álcool e sedativos",
+  "base": "Conteúdo programático do Edital nº 2446 — álcool, medicamentos e drogas na condução veicular.",
+  "coment": "A associação entre álcool e depressores do sistema nervoso central — benzodiazepínicos, anti-histamínicos de primeira geração, opioides, relaxantes musculares, alguns antidepressivos — produz potencialização, com prejuízo superior à soma dos efeitos isolados. O mecanismo envolve ação convergente sobre a neurotransmissão inibitória e, em alguns casos, competição metabólica hepática que eleva as concentrações. Na prática pericial e clínica, isso significa que doses de cada substância consideradas 'pequenas' isoladamente podem produzir comprometimento importante quando combinadas — e que a orientação de não consumir álcool durante o tratamento não é formalidade, mas medida de segurança com base fisiológica.",
+  "porAlt": [
+   "Correta: há potencialização, com prejuízo superior à soma dos efeitos isolados de cada substância.",
+   "Não há neutralização mútua: as duas substâncias atuam de forma convergente sobre o sistema nervoso.",
+   "O sedativo não reduz o prejuízo do álcool, e a competição descrita não produz o efeito afirmado.",
+   "O efeito combinado é claramente maior que o do álcool isolado, e não idêntico a ele.",
+   "O prejuízo alcança atenção e tempo de reação, não se restringindo à esfera motora do condutor."
+  ]
+ },
+ {
+  "q": "Segundo o CTB, qual é a penalidade prevista para quem se recusa a ser submetido a teste ou exame que permita certificar influência de álcool?",
+  "alts": [
+   "Infração gravíssima com multa multiplicada por dez e suspensão do direito de dirigir por doze meses",
+   "Infração grave com multa simples e suspensão do direito de dirigir pelo prazo de seis meses corridos",
+   "Infração média com multa simples, sem qualquer suspensão do direito de dirigir aplicada ao condutor",
+   "Advertência por escrito na primeira recusa, com conversão em multa apenas na segunda ocorrência",
+   "Infração gravíssima com multa simples, sem recolhimento do documento nem retenção do veículo usado"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Penalidade da recusa ao teste",
+  "base": "CTB, art. 165-A (incluído pela Lei nº 13.281/2016).",
+  "coment": "O art. 165-A tipifica a recusa a ser submetido a teste, exame clínico, perícia ou outro procedimento do art. 277 como infração GRAVÍSSIMA, com multa multiplicada por DEZ e suspensão do direito de dirigir por 12 meses, além das medidas administrativas de recolhimento do documento de habilitação e retenção do veículo, observado o §4º do art. 270. O parágrafo único prevê multa em dobro na reincidência em até 12 meses. São exatamente as mesmas consequências do art. 165 — o que retira qualquer vantagem prática da recusa. Além disso, a recusa não impede a caracterização do crime do art. 306, que pode ser constatado por sinais de alteração da capacidade psicomotora ou por outros meios de prova.",
+  "porAlt": [
+   "Correta: gravíssima, multa multiplicada por dez e suspensão do direito de dirigir por doze meses.",
+   "A infração é gravíssima, e não grave, com multa multiplicada e suspensão de doze meses.",
+   "A infração não é média, e a suspensão do direito de dirigir está expressamente prevista na lei.",
+   "Não há previsão de advertência por escrito para a recusa, que é infração gravíssima desde a primeira.",
+   "A multa é multiplicada por dez e há recolhimento do documento e retenção do veículo conduzido."
+  ]
+ }
+]
