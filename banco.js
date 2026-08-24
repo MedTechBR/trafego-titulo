@@ -1496,6 +1496,270 @@ window.BANCO=[
 ]
 },
 {
+"q": "Vítima de capotamento é encontrada inconsciente, com respiração ruidosa e roncos audíveis. Qual é a causa mais provável e a primeira medida a ser adotada?",
+"alts": [
+"Broncoespasmo agudo por inalação de fumaça, corrigido pela administração de broncodilatador inalatório",
+"Edema agudo de pulmão de origem cardiogênica, corrigido pela administração de diurético endovenoso",
+"Queda da língua sobre a hipofaringe, corrigida pela elevação do mento com estabilização cervical",
+"Pneumotórax hipertensivo em instalação, corrigido pela punção torácica no segundo espaço intercostal",
+"Fratura de laringe com obstrução completa, corrigida pela cricotireoidostomia cirúrgica de emergência"
+],
+"gab": 2,
+"tema": "curativa",
+"sub": "Obstrução de via aérea por queda da língua",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (técnicas de controle das vias aéreas e ventilação no trauma).",
+"coment": "Respiração ruidosa com roncos em vítima inconsciente é o quadro clássico de obstrução parcial da via aérea pela queda da base da língua sobre a hipofaringe, decorrente da perda do tônus da musculatura submentoniana. A correção é a manobra de elevação do mento ou de tração da mandíbula, SEMPRE com estabilização da coluna cervical na vítima de trauma — a hiperextensão cervical é contraindicada. Trata-se do primeiro item do A da avaliação primária e é intervenção que salva vidas com recurso zero. Persistindo a obstrução, seguem-se a aspiração de secreções, a cânula orofaríngea no paciente sem reflexo de vômito e, se necessário, a via aérea definitiva.",
+"porAlt": [
+"O broncoespasmo produz sibilos expiratórios, e não roncos por obstrução de via aérea superior.",
+"O edema agudo cardiogênico cursa com crepitações difusas, quadro distinto do ruído descrito aqui.",
+"Correta: é a queda da língua, corrigida pela elevação do mento com estabilização da coluna cervical.",
+"O pneumotórax hipertensivo cursa com abolição do murmúrio e desvio de traqueia, não com roncos.",
+"A fratura de laringe com obstrução completa não permitiria a passagem de ar que produz o ronco."
+]
+},
+{
+"q": "No atendimento de vítima de sinistro com suspeita de choque hemorrágico, quais são os locais de sangramento capazes de causar exsanguinação que devem ser sistematicamente pesquisados?",
+"alts": [
+"Crânio, tórax, abdome, pelve e pescoço, sendo o crânio o mais frequente na criança politraumatizada",
+"Tórax, abdome, retroperitônio e pelve, ossos longos e hemorragia externa visível no exame realizado",
+"Crânio e canal medular, únicos compartimentos capazes de acumular volume suficiente para o choque",
+"Tecido subcutâneo e musculatura superficial, que acumulam grandes volumes sem sinais externos claros",
+"Trato gastrointestinal e vias urinárias, identificáveis por sangramento exteriorizado nas primeiras horas"
+],
+"gab": 1,
+"tema": "curativa",
+"sub": "Locais de sangramento exsanguinante",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (avaliação primária e secundária, controle de hemorragias).",
+"coment": "A regra prática é que o sangue capaz de matar está em cinco lugares: tórax, abdome, retroperitônio e pelve, ossos longos (sobretudo fêmur) e o chão — isto é, a hemorragia externa. O crânio do adulto é a exceção que confirma a regra: a caixa craniana não comporta volume suficiente para causar choque hipovolêmico, de modo que hipotensão em vítima com traumatismo cranioencefálico obriga a procurar sangramento em outro compartimento. Em lactentes, cujas fontanelas ainda não se fecharam, o crânio pode contribuir. No pré-hospitalar, o que se pode controlar diretamente é a hemorragia externa e a estabilização pélvica e de ossos longos.",
+"porAlt": [
+"O crânio do adulto não comporta volume suficiente para causar choque hipovolêmico isoladamente.",
+"Correta: tórax, abdome, retroperitônio e pelve, ossos longos e hemorragia externa visível na vítima.",
+"Crânio e canal medular não são os compartimentos que acumulam volume capaz de gerar exsanguinação.",
+"O subcutâneo e a musculatura superficial não são as fontes clássicas de sangramento exsanguinante.",
+"O sangramento digestivo e urinário não é o foco da pesquisa no politraumatizado em choque agudo."
+]
+},
+{
+"q": "Vítima de colisão apresenta hipotensão, turgência jugular e bulhas cardíacas abafadas, sem desvio de traqueia e com murmúrio vesicular presente bilateralmente. Qual é a hipótese diagnóstica?",
+"alts": [
+"Tamponamento cardíaco, cuja tríade de Beck reúne hipotensão, turgência jugular e bulhas abafadas",
+"Pneumotórax hipertensivo, que se manifesta por hipotensão, turgência jugular e bulhas abafadas",
+"Choque hemorrágico classe IV, que se manifesta por hipotensão com turgência jugular e bulhas abafadas",
+"Contusão pulmonar bilateral, que se manifesta por hipotensão, turgência jugular e bulhas abafadas",
+"Choque neurogênico por lesão medular alta, que cursa com hipotensão, turgência e bulhas abafadas"
+],
+"gab": 0,
+"tema": "curativa",
+"sub": "Tamponamento cardíaco",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de tórax).",
+"coment": "A tríade de Beck — hipotensão, turgência jugular e abafamento de bulhas — caracteriza o tamponamento cardíaco. A diferenciação com o pneumotórax hipertensivo, que também é choque obstrutivo com turgência jugular, se faz por dois achados ausentes aqui: no pneumotórax hipertensivo há DESVIO DE TRAQUEIA para o lado oposto e ABOLIÇÃO do murmúrio vesicular no lado acometido. Já o choque hemorrágico cursa com jugulares COLABADAS, pela hipovolemia, e o choque neurogênico com hipotensão e bradicardia paradoxal, sem turgência. O tratamento definitivo do tamponamento é cirúrgico, e no pré-hospitalar a prioridade é o transporte rápido para recurso adequado.",
+"porAlt": [
+"Correta: a tríade de Beck com traqueia centrada e murmúrio presente aponta o tamponamento cardíaco.",
+"O pneumotórax hipertensivo cursaria com desvio de traqueia e abolição unilateral do murmúrio.",
+"O choque hemorrágico cursa com jugulares colabadas, e não com turgência jugular como descrito.",
+"A contusão pulmonar não produz a tríade de Beck nem o padrão de choque obstrutivo descrito.",
+"O choque neurogênico cursa com hipotensão e bradicardia, sem turgência jugular e bulhas abafadas."
+]
+},
+{
+"q": "Qual é a característica hemodinâmica que distingue o choque neurogênico do choque hemorrágico na vítima de trauma?",
+"alts": [
+"Taquicardia extrema com pele quente e seca, em vez de bradicardia com pele fria e bem perfundida",
+"Hipertensão arterial sustentada com pele fria, em vez de hipotensão com extremidades bem aquecidas",
+"Pulso paradoxal ao exame com pele fria, em vez de pulso amplo com extremidades bem aquecidas",
+"Ausência completa de alteração dos sinais vitais, o que dificulta o reconhecimento inicial",
+"Bradicardia paradoxal com pele quente e seca, em vez de taquicardia com pele fria e pegajosa"
+],
+"gab": 4,
+"tema": "curativa",
+"sub": "Choque neurogênico",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma da coluna e da medula, avaliação inicial).",
+"coment": "O choque neurogênico decorre da perda do tônus simpático em lesões medulares acima do nível torácico médio, com vasodilatação periférica e perda da resposta cronotrópica compensatória. O resultado é hipotensão com BRADICARDIA PARADOXAL e pele quente, seca e bem perfundida — o oposto do choque hemorrágico, que cursa com taquicardia, vasoconstrição, pele fria e pegajosa, palidez e enchimento capilar lentificado. A distinção importa porque o tratamento difere: no neurogênico, volume isolado é insuficiente e pode causar congestão, exigindo vasopressor. Cuidado com a armadilha clássica: a vítima de trauma raquimedular pode ter as duas causas simultaneamente, e o choque hemorrágico deve ser sempre excluído primeiro.",
+"porAlt": [
+"O padrão descrito está invertido: o choque neurogênico não cursa com taquicardia extrema.",
+"O choque neurogênico cursa com hipotensão, e não com hipertensão arterial sustentada e pele fria.",
+"O pulso paradoxal é achado de tamponamento cardíaco, e não característica do choque neurogênico.",
+"O choque neurogênico altera claramente os sinais vitais, com hipotensão e bradicardia associadas.",
+"Correta: bradicardia paradoxal com pele quente e seca, ao contrário do padrão do choque hemorrágico."
+]
+},
+{
+"q": "Na avaliação secundária da vítima de sinistro de trânsito, o que compreende a história AMPLA?",
+"alts": [
+"Antecedentes, mecanismo, pressão arterial, laboratório e avaliação neurológica da vítima atendida",
+"Anamnese, mobilidade, palpação, laterlidade e ausculta, realizadas em sequência durante o exame",
+"Achados, medidas, prognóstico, laudo e alta, etapas do registro documental do atendimento prestado",
+"Analgesia, monitorização, prevenção, ligação e acesso, protocolo aplicado antes do transporte",
+"Alergias, medicamentos, passado mórbido, líquidos e alimentos ingeridos e ambiente do evento"
+],
+"gab": 4,
+"tema": "curativa",
+"sub": "História AMPLA",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (avaliação primária e secundária).",
+"coment": "A avaliação secundária só começa depois de concluída a primária e estabilizadas as ameaças imediatas à vida, e compreende o exame da cabeça aos pés somado à história AMPLA: A de Alergias; M de Medicamentos em uso; P de Passado mórbido e gestação; L de Líquidos e alimentos ingeridos, dado relevante pelo risco de broncoaspiração na indução anestésica; e A de Ambiente e eventos relacionados ao trauma, incluindo o mecanismo — velocidade estimada, uso de dispositivos de retenção, ejeção, tempo de encarceramento, óbito de outro ocupante. O mecanismo é informação que a equipe pré-hospitalar tem e o hospital não, e por isso deve ser transmitido na passagem do caso.",
+"porAlt": [
+"Esses itens não correspondem às letras do mnemônico consagrado da avaliação secundária no trauma.",
+"Esses itens não correspondem ao conteúdo da história AMPLA colhida na avaliação secundária.",
+"Esses itens descrevem etapas de registro documental, e não o conteúdo da história AMPLA.",
+"Esses itens não correspondem ao mnemônico da história colhida na avaliação secundária da vítima.",
+"Correta: alergias, medicamentos, passado mórbido, líquidos e alimentos ingeridos e ambiente do evento."
+]
+},
+{
+"q": "Criança de 5 anos é vítima de atropelamento. Qual particularidade anatômica explica o padrão de lesões e exige atenção específica no atendimento?",
+"alts": [
+"Cabeça proporcionalmente menor e esqueleto mais rígido, com fraturas múltiplas e poucas lesões internas",
+"Volume sanguíneo proporcionalmente maior, o que retarda por horas a instalação do choque hipovolêmico",
+"Superfície corporal proporcionalmente menor, o que reduz de forma expressiva o risco de hipotermia",
+"Cabeça proporcionalmente maior e esqueleto mais complacente, com lesões internas sem fratura aparente",
+"Via aérea proporcionalmente mais ampla, o que praticamente elimina o risco de obstrução no atendimento"
+],
+"gab": 3,
+"tema": "curativa",
+"sub": "Particularidades do trauma na criança",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma na criança).",
+"coment": "A criança tem cabeça proporcionalmente maior e mais pesada, o que a torna o segmento mais atingido e explica a alta frequência de traumatismo cranioencefálico. O esqueleto é mais complacente, com maior conteúdo cartilaginoso: as costelas e a pelve absorvem energia sem fraturar, transmitindo-a às vísceras — daí a possibilidade de contusão pulmonar, laceração hepática ou esplênica SEM fratura visível, armadilha diagnóstica clássica. Somam-se a maior superfície corporal relativa, que acelera a hipotermia, a via aérea mais estreita e anteriorizada, e a notável reserva fisiológica: a criança mantém pressão arterial normal por meio de taquicardia até perdas volêmicas expressivas, e a hipotensão é sinal tardio e ominoso.",
+"porAlt": [
+"O padrão está invertido: a criança tem cabeça relativamente maior e esqueleto mais complacente.",
+"O volume sanguíneo absoluto é menor, e o choque se instala com perdas proporcionalmente pequenas.",
+"A superfície corporal relativa é MAIOR na criança, o que aumenta o risco de hipotermia no trauma.",
+"Correta: cabeça proporcionalmente maior e esqueleto complacente, com lesões internas sem fratura.",
+"A via aérea pediátrica é mais estreita e anteriorizada, com maior risco de obstrução no atendimento."
+]
+},
+{
+"q": "Qual é a conduta correta diante de vítima de sinistro com objeto empalado no tórax?",
+"alts": [
+"Remover o objeto imediatamente e comprimir o orifício com curativo de três pontas para selar a lesão",
+"Estabilizar o objeto no local, sem removê-lo, e transportar a vítima para o recurso cirúrgico definitivo",
+"Remover o objeto durante o transporte, quando a vítima já estiver com acesso venoso calibroso obtido",
+"Aprofundar levemente o objeto para tamponar o sangramento e removê-lo apenas no ambiente hospitalar",
+"Cortar o objeto rente à pele com serra manual e cobrir a área com curativo compressivo bem apertado"
+],
+"gab": 1,
+"tema": "curativa",
+"sub": "Objeto empalado",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de tórax, estabilização e transporte).",
+"coment": "A regra é não remover o objeto empalado no ambiente pré-hospitalar. O objeto pode estar tamponando um vaso lesado, e sua retirada desencadeia hemorragia incontrolável fora do centro cirúrgico; além disso, a remoção às cegas pode ampliar a lesão de estruturas adjacentes. A conduta é estabilizar o objeto com coxins e curativos volumosos, evitando movimentação durante o transporte, e conduzir a vítima ao recurso cirúrgico. Encurtar o objeto pode ser necessário quando o tamanho inviabiliza o transporte, mas exige cuidado extremo com vibração e calor. A exceção clássica é o objeto na face ou no pescoço que obstrua a via aérea, situação em que a permeabilidade prevalece.",
+"porAlt": [
+"A remoção pode desencadear hemorragia incontrolável, pois o objeto pode estar tamponando um vaso.",
+"Correta: estabilizar o objeto sem removê-lo e transportar a vítima para o recurso cirúrgico definitivo.",
+"A remoção durante o transporte tem os mesmos riscos e não é justificada pelo acesso venoso obtido.",
+"Aprofundar o objeto amplia a lesão das estruturas adjacentes e não produz tamponamento seguro.",
+"O curativo compressivo sobre a lesão não substitui a estabilização do objeto e a cirurgia definitiva."
+]
+},
+{
+"q": "Segundo o método START, vítima que não deambula, apresenta respiração espontânea com frequência muito elevada e pulso radial ausente deve ser classificada como:",
+"alts": [
+"Amarela, categoria intermediária, com reavaliação periódica enquanto aguarda o transporte disponível",
+"Vermelha, categoria de prioridade máxima, com necessidade de atendimento e transporte imediatos",
+"Verde, categoria dos feridos leves, pois mantém respiração espontânea sem necessidade de manobras",
+"Preta, categoria dos não salváveis, pois a ausência de pulso radial indicaria parada circulatória",
+"Azul, categoria expectante, destinada às vítimas que exigem recursos indisponíveis naquele momento"
+],
+"gab": 1,
+"tema": "curativa",
+"sub": "Classificação vermelha no START",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (atendimento a múltiplas vítimas, método START).",
+"coment": "No START, a vítima que não deambula segue para a avaliação da respiração; presente, avalia-se a frequência e, se muito elevada, já se classifica como VERMELHA. Persistindo dúvida, avalia-se a perfusão, e a ausência de pulso radial — que sugere pressão sistólica reduzida — também classifica como vermelha. Por fim, avalia-se o estado neurológico pela capacidade de obedecer a comandos simples. A vítima do enunciado acumula dois critérios de gravidade e é vermelha, de prioridade máxima. A categoria PRETA é reservada a quem não respira após a abertura da via aérea — não à ausência de pulso radial, que indica hipoperfusão, e não parada circulatória.",
+"porAlt": [
+"A categoria amarela é a de quem não deambula mas mantém parâmetros fisiológicos preservados.",
+"Correta: taquipneia acentuada e pulso radial ausente classificam a vítima como vermelha no método.",
+"A vítima não deambula e apresenta dois critérios de gravidade, o que afasta a classificação verde.",
+"A categoria preta é reservada a quem não respira após a abertura da via aérea, e não a este caso.",
+"A categoria azul não integra o método START, que trabalha com quatro classificações apenas."
+]
+},
+{
+"q": "Qual é o princípio correto quanto ao uso da prancha rígida no atendimento pré-hospitalar da vítima de sinistro?",
+"alts": [
+"É dispositivo de transporte prolongado, devendo a vítima permanecer nela até a alta hospitalar",
+"É dispositivo dispensável em qualquer circunstância, tendo sido abandonado pelos protocolos atuais",
+"É dispositivo de transferência, não de transporte prolongado, pelo risco de lesão por pressão",
+"É dispositivo indicado apenas nas vítimas que apresentem déficit neurológico já instalado na cena",
+"É dispositivo que substitui o colar cervical, tornando desnecessária a imobilização do pescoço"
+],
+"gab": 2,
+"tema": "curativa",
+"sub": "Prancha rígida e restrição de movimento",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma da coluna e da medula, estabilização e transporte).",
+"coment": "A prancha rígida é hoje entendida como dispositivo de TRANSFERÊNCIA — para retirar a vítima do veículo e levá-la à maca — e não de transporte prolongado. A permanência sobre a superfície rígida por tempo prolongado produz dor, desconforto respiratório e lesão por pressão em proeminências ósseas, especialmente em idosos e em pacientes com tempo de espera longo. A tendência atual é a restrição do movimento da coluna com colar cervical, transferência em bloco e uso criterioso da prancha, com remoção precoce após a chegada ao hospital. A restrição não depende de déficit neurológico prévio, e a prancha não substitui o colar: são medidas complementares.",
+"porAlt": [
+"A permanência prolongada na prancha produz dor e lesão por pressão, devendo ser evitada.",
+"A prancha não foi abandonada: mantém utilidade como dispositivo de transferência da vítima.",
+"Correta: é dispositivo de transferência, e não de transporte prolongado, pelo risco de lesão por pressão.",
+"A restrição do movimento não depende de déficit neurológico já instalado no momento da cena.",
+"A prancha e o colar cervical são medidas complementares, e uma não substitui a outra no trauma."
+]
+},
+{
+"q": "No atendimento ao queimado vítima de sinistro de trânsito, qual achado deve levantar a suspeita de lesão inalatória e antecipar a decisão sobre via aérea?",
+"alts": [
+"Queimadura restrita a membros inferiores, com bolhas íntegras e dor intensa à palpação da área atingida",
+"Queimadura de primeiro grau extensa em dorso, com eritema difuso e ausência de flictenas na região",
+"Taquicardia isolada com pressão arterial preservada, achado universal em qualquer paciente queimado",
+"Queimadura de face, vibrissas nasais chamuscadas, rouquidão e escarro carbonáceo no exame inicial",
+"Dor desproporcional à extensão da queimadura, sinal específico de acometimento da via aérea superior"
+],
+"gab": 3,
+"tema": "curativa",
+"sub": "Lesão inalatória no queimado",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (atendimento do queimado, controle de vias aéreas).",
+"coment": "Os sinais que sugerem lesão inalatória são queimadura de face e pescoço, vibrissas nasais chamuscadas, rouquidão ou estridor, escarro carbonáceo, tosse persistente e história de confinamento em ambiente fechado com fumaça — situação frequente no incêndio de veículo após colisão. A importância é que o edema de via aérea superior progride nas primeiras horas e pode tornar a intubação impossível: a decisão deve ser ANTECIPADA, e não postergada até a insuficiência respiratória. Complementarmente, deve-se considerar intoxicação por monóxido de carbono, em que a oximetria de pulso pode mostrar valores falsamente normais, indicando oxigênio em alta concentração.",
+"porAlt": [
+"A queimadura restrita a membros inferiores não sugere comprometimento da via aérea superior.",
+"A queimadura de primeiro grau em dorso não indica lesão inalatória nem entra no cálculo da superfície.",
+"A taquicardia isolada é inespecífica e não orienta a decisão antecipada sobre a via aérea definitiva.",
+"Correta: queimadura de face, vibrissas chamuscadas, rouquidão e escarro carbonáceo sugerem inalação.",
+"A dor desproporcional não é sinal específico de acometimento inalatório da via aérea superior."
+]
+},
+{
+"q": "Qual é a razão para a prevenção ativa da hipotermia na etapa E da avaliação primária do politraumatizado?",
+"alts": [
+"A hipotermia agrava a coagulopatia e a acidose, compondo com elas a tríade letal do trauma grave",
+"A hipotermia reduz o consumo de oxigênio e protege o encéfalo, devendo por isso ser induzida na cena",
+"A hipotermia eleva a pressão arterial de forma sustentada, mascarando o diagnóstico de choque instalado",
+"A hipotermia acelera o metabolismo dos anestésicos, o que dificulta a analgesia durante o transporte",
+"A hipotermia provoca vasodilatação periférica intensa, com aumento expressivo das perdas sanguíneas"
+],
+"gab": 0,
+"tema": "curativa",
+"sub": "Tríade letal do trauma",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (avaliação primária, estabilização e transporte).",
+"coment": "A tríade letal do trauma reúne HIPOTERMIA, ACIDOSE e COAGULOPATIA, três condições que se retroalimentam: a hipotermia prejudica a função das enzimas da cascata de coagulação e a agregação plaquetária, agravando o sangramento; o sangramento aprofunda a hipoperfusão e a acidose metabólica; e a acidose, por sua vez, compromete ainda mais a coagulação e a contratilidade miocárdica. Por isso a exposição da etapa E deve ser rápida e seguida de cobertura com mantas térmicas, uso de fluidos aquecidos e controle da temperatura do ambiente. A vítima de trauma perde calor rapidamente por estar despida, molhada, imóvel e frequentemente exposta ao ambiente durante o resgate.",
+"porAlt": [
+"Correta: a hipotermia agrava coagulopatia e acidose, compondo com elas a tríade letal do trauma.",
+"A hipotermia terapêutica tem indicações restritas e não se aplica ao politraumatizado sangrante.",
+"A hipotermia não eleva a pressão arterial de forma sustentada nem mascara o choque hipovolêmico.",
+"A hipotermia retarda, e não acelera, o metabolismo dos fármacos administrados durante o atendimento.",
+"A hipotermia provoca vasoconstrição periférica, e não a vasodilatação afirmada pela alternativa."
+]
+},
+{
+"q": "Qual é a conduta correta para a retirada de capacete de motociclista vítima de sinistro que se encontra inconsciente?",
+"alts": [
+"Retirada por dois socorristas, com estabilização cervical mantida durante toda a manobra realizada",
+"Retirada por um único socorrista, tracionando o capacete no eixo longitudinal com firmeza e rapidez",
+"Manutenção do capacete em qualquer circunstância, pois a retirada sempre agrava a lesão cervical",
+"Retirada com corte da calota do capacete usando serra elétrica, técnica de escolha no pré-hospitalar",
+"Retirada apenas após a chegada ao hospital, sob controle radiológico da coluna cervical da vítima"
+],
+"gab": 0,
+"tema": "curativa",
+"sub": "Retirada de capacete",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (controle das vias aéreas, trauma da coluna).",
+"coment": "A retirada do capacete é necessária quando ele impede o acesso à via aérea, a ventilação ou a avaliação, ou quando não permite a imobilização adequada — situação da vítima inconsciente. A técnica exige DOIS socorristas: o primeiro estabiliza a cabeça e o pescoço por dentro do capacete, pela região occipital e mandíbula; o segundo abre ou corta a jugular, expande lateralmente o capacete e o retira em movimento no eixo longitudinal, com leve rotação para vencer o nariz, enquanto o primeiro mantém o alinhamento. Concluída a manobra, assume-se a estabilização manual e aplica-se o colar cervical. Retirada por socorrista isolado ou com tração vigorosa é contraindicada.",
+"porAlt": [
+"Correta: dois socorristas, com estabilização cervical mantida do início ao fim da manobra de retirada.",
+"A retirada por socorrista único não permite manter o alinhamento cervical durante toda a manobra.",
+"Manter o capacete impediria o acesso à via aérea, indispensável na vítima que está inconsciente.",
+"O corte com serra elétrica não é a técnica de escolha no ambiente pré-hospitalar de atendimento.",
+"Adiar a retirada até o hospital compromete o acesso à via aérea da vítima inconsciente na cena."
+]
+},
+{
 "q": "Segundo o art. 9º da Resolução CONTRAN nº 927/2022, quais são os resultados possíveis da avaliação psicológica do candidato à habilitação?",
 "alts": [
 "Apto, apto com restrições, inapto temporário e inapto — os mesmos quatro resultados do exame médico",
