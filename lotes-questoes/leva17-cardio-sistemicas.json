@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Homem de 57 anos, motorista de van escolar, foi submetido a revascularização miocárdica há 10 semanas, com boa recuperação e relatório cardiológico favorável. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Apto com prazo reduzido, pois o intervalo de oito semanas já foi cumprido com folga pelo candidato",
+   "Apto sem restrições, pois o relatório cardiológico favorável dispensa a exigência de intervalo mínimo",
+   "Inapto temporário, pois a revascularização exige doze semanas de recuperação em ambas as colunas",
+   "Inapto definitivo, pois a revascularização impede em definitivo o transporte escolar de passageiros",
+   "Apto com prazo reduzido, pois o intervalo exigido após revascularização é de apenas duas semanas"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Revascularização miocárdica",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII (quadro de revascularização miocárdica).",
+  "coment": "A revascularização miocárdica é a única linha do Anexo VII em que o intervalo é igual nas duas colunas: DOZE SEMANAS tanto para a ACC e categorias A e B quanto para as categorias C, D e E, sempre com diminuição do prazo de validade a critério médico e, nas categorias profissionais, condicionada a relatório cardiológico favorável. Com 10 semanas, o candidato ainda não cumpriu o intervalo. Compare com as demais linhas: infarto do miocárdio, 8 semanas em A/B e 12 em C/D/E; angioplastia sem infarto, 2 semanas em ambas; marca-passo, 2 semanas em A/B e 6 em C/D/E. O relatório favorável é exigência somada ao intervalo, jamais substitutiva dele.",
+  "porAlt": [
+   "O intervalo de oito semanas é o do infarto do miocárdio na coluna da ACC e categorias A e B.",
+   "O relatório favorável é requisito adicional ao intervalo mínimo, e não uma forma de dispensá-lo.",
+   "Correta: a revascularização exige doze semanas nas duas colunas, e ele completou apenas dez.",
+   "A revascularização não gera inaptidão definitiva: há retorno previsto após o período de recuperação.",
+   "O intervalo de duas semanas é o da angioplastia sem infarto associado, e não o da revascularização."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é o intervalo exigido após implante de marca-passo para as categorias C, D e E?",
+  "alts": [
+   "Duas semanas, com aprovação condicionada a relatório cardiológico favorável e avaliação da etiologia",
+   "Seis semanas, com aprovação condicionada a relatório cardiológico favorável e avaliação da etiologia",
+   "Doze semanas, com aprovação condicionada a relatório cardiológico favorável e avaliação da etiologia",
+   "Vinte e quatro semanas, com aprovação condicionada a relatório cardiológico favorável e à etiologia",
+   "Nenhum intervalo, bastando o relatório cardiológico favorável e a avaliação da etiologia do bloqueio"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Marca-passo nas categorias profissionais",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII (quadro de marca-passo).",
+  "coment": "No quadro de marca-passo do Anexo VII, a coluna da ACC e das categorias A e B prevê 'após duas semanas da implantação: apto com exame cardiológico normal', com diminuição do prazo de validade a critério médico. A coluna das categorias C, D e E exige 'após SEIS SEMANAS da implantação: aprovação condicionada a relatório cardiológico favorável e AVALIAÇÃO DA ETIOLOGIA', também com prazo reduzido. A exigência de avaliar a etiologia é significativa: o marca-passo resolve a bradiarritmia, mas a doença que a causou pode continuar produzindo risco. Compare com a Diretriz ABRAMET/SBC/SOBRAC, que trabalha com 2 semanas na direção privada e 4 semanas na profissional — os documentos não são idênticos.",
+  "porAlt": [
+   "O prazo de duas semanas é o da ACC e das categorias A e B no quadro de marca-passo do anexo.",
+   "Correta: seis semanas nas categorias C, D e E, com relatório favorável e avaliação da etiologia.",
+   "O prazo de doze semanas é o do infarto e da revascularização nas categorias profissionais.",
+   "O prazo de vinte e quatro semanas não consta de nenhuma linha do quadro do Anexo VII vigente.",
+   "Há intervalo mínimo expresso na norma, que não é dispensado pelo relatório cardiológico favorável."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, quais condições cardíacas levam à inaptidão TEMPORÁRIA nas duas colunas de categorias?",
+  "alts": [
+   "Arritmias com repercussão funcional, BAV de 2º e 3º grau, bradicardia acentuada e insuficiência cardíaca",
+   "Angina pectoris com sintomas controlados, infarto há mais de oito semanas e a hipertensão controlada",
+   "Valvulopatia sem repercussão hemodinâmica, angioplastia prévia e marca-passo com controles regulares",
+   "Hipertensão com sistólica entre 160 e 179 mmHg, angina controlada e revascularização há dez semanas",
+   "Extrassístoles ventriculares isoladas, bloqueio de ramo direito e fibrilação atrial com resposta controlada"
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Inaptidão temporária no Anexo VII",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII (quadros de arritmias e insuficiência cardíaca congestiva).",
+  "coment": "No Anexo VII, tanto na coluna da ACC e categorias A e B quanto na das categorias C, D e E, geram INAPTIDÃO TEMPORÁRIA: arritmias com repercussão funcional, bloqueio atrioventricular de 2º e 3º grau, bradicardia acentuada e taquiarritmias; e a insuficiência cardíaca congestiva. É a categoria intermediária de gravidade do anexo — abaixo da valvulopatia com repercussão hemodinâmica, que é inaptidão, e acima das condições que apenas exigem intervalo de recuperação e prazo reduzido. Vale notar que a Diretriz ABRAMET/SBC/SOBRAC é mais granular: nela, o BAV de 2º grau tipo I assintomático não desqualifica sequer para a direção profissional, exigindo apenas Holter anual.",
+  "porAlt": [
+   "Correta: arritmias com repercussão, BAV de 2º e 3º grau, bradicardia acentuada e insuficiência cardíaca.",
+   "Essas condições geram aptidão com intervalo de recuperação e prazo reduzido, não inaptidão temporária.",
+   "A valvulopatia sem repercussão hemodinâmica gera aptidão, e não inaptidão temporária no anexo.",
+   "Essas condições não figuram como inaptidão temporária nos quadros do anexo da resolução vigente.",
+   "Extrassístoles isoladas e bloqueio de ramo não figuram entre as hipóteses de inaptidão temporária."
+  ]
+ },
+ {
+  "q": "Candidato apresenta pressão arterial de 158 x 96 mmHg em duas aferições durante o exame. Segundo o Anexo V da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Apto com diminuição do prazo de validade do exame de aptidão, a critério do médico examinador",
+   "Inapto temporário, até que o médico assistente documente o controle pressórico do candidato",
+   "Apto com restrição de vedação de dirigir em rodovias, registrada com a letra T na habilitação",
+   "Inapto definitivo para as categorias C, D e E, mantida a aptidão na ACC e nas categorias A e B",
+   "Apto, sem exigência de redução do prazo de validade, pois está abaixo de 160 e de 100 mmHg"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Faixa de aptidão plena por pressão arterial",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, item 1.2.",
+  "coment": "O item 1.2 estabelece que será considerado APTO, na ACC e nas categorias A, B, C, D e E, o candidato que apresentar valor de pressão arterial sistólica INFERIOR a 160 mmHg E diastólica INFERIOR a 100 mmHg. Com 158 x 96 mmHg, o candidato cumpre os dois critérios e é apto sem a ressalva do prazo reduzido — que só entra a partir de 160 de sistólica e/ou 100 de diastólica. É um dos pontos em que o candidato desatento erra por 'arredondar' clinicamente: do ponto de vista da prática clínica, 158 x 96 mmHg é hipertensão que merece tratamento, mas do ponto de vista da norma pericial está dentro da faixa de aptidão plena. O perito orienta e encaminha, sem reduzir o prazo por esse critério.",
+  "porAlt": [
+   "A redução do prazo só se aplica a partir de 160 de sistólica e/ou de 100 de diastólica na norma.",
+   "A inaptidão temporária começa em 180 de sistólica e/ou 110 de diastólica, muito acima do medido.",
+   "A vedação de rodovias é o código T e não decorre dos níveis pressóricos aferidos no exame.",
+   "Não há inaptidão por categoria nessa faixa: os valores pressóricos valem para todas as categorias.",
+   "Correta: abaixo de 160 e de 100 mmHg o candidato é apto sem redução do prazo por esse critério."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo V da Resolução CONTRAN nº 927/2022, o que o examinador pode fazer diante de suspeita de hipertensão do avental branco?",
+  "alts": [
+   "Repetir a aferição por cinco vezes consecutivas na mesma consulta e adotar o menor valor obtido",
+   "Desconsiderar a aferição realizada e registrar no RENACH apenas a impressão clínica do examinador",
+   "Encaminhar o candidato à Junta Médica Especial para reavaliação pressórica em ambiente hospitalar",
+   "Prescrever anti-hipertensivo de ação rápida e reaferir a pressão arterial após trinta minutos de espera",
+   "Valer-se de relatórios do médico assistente com registro de pressões aferidas em outras ocasiões"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Hipertensão do avental branco",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, itens 1.1 e 1.5.",
+  "coment": "O item 1.5 do Anexo V é a ferramenta do perito para o problema: o examinador poderá valer-se de relatórios comprovadamente emitidos por médico assistente, dos quais constem o registro da medição de pressões arteriais aferidas em outras ocasiões. Isso permite contextualizar uma aferição isolada elevada no consultório, situação frequente em ambiente pericial, que é por natureza gerador de ansiedade. O item 1.1 complementa exigindo que a pressão seja aferida nas condições preconizadas pelas diretrizes das Sociedades Brasileiras de Hipertensão, Cardiologia e Nefrologia — repouso, manguito adequado, posição correta — e que o valor seja registrado obrigatoriamente no formulário RENACH.",
+  "porAlt": [
+   "A norma não prevê essa rotina de cinco aferições com adoção do menor valor obtido no exame.",
+   "O valor aferido tem registro obrigatório no RENACH e não pode ser simplesmente desconsiderado.",
+   "A Junta Médica Especial destina-se ao candidato com deficiência física, não à questão pressórica.",
+   "Prescrever anti-hipertensivo no ato pericial não é conduta prevista nem apropriada ao papel do perito.",
+   "Correta: pode usar relatórios do assistente com registro de aferições feitas em outras ocasiões."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo V da Resolução CONTRAN nº 927/2022, como deve ser avaliado o candidato portador de doença cardiovascular capaz de causar perda de consciência?",
+  "alts": [
+   "Observando exclusivamente o eletrocardiograma de repouso feito na entidade médica credenciada",
+   "Observando exclusivamente o parecer do cardiologista assistente, sem parâmetros normativos definidos",
+   "Observando exclusivamente a fração de ejeção ventricular esquerda medida por ecocardiograma recente",
+   "Observando o consenso estabelecido pela ABRAMET, reproduzido no Anexo VII da própria resolução",
+   "Observando exclusivamente o número de episódios sincopais relatados pelo candidato nos últimos anos"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Remissão do Anexo V ao Anexo VII",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, item 2.",
+  "coment": "O item 2 do Anexo V determina que o candidato portador de doença cardiovascular capaz de causar perda de consciência OU insuficiência cardíaca congestiva deverá ser avaliado observando-se o consenso estabelecido pela Associação Brasileira de Medicina de Tráfego, que é justamente o conteúdo do Anexo VII — o quadro com angina, infarto, revascularização, angioplastia, hipertensão, marca-passo, arritmias, insuficiência cardíaca e valvulopatias, organizado em duas colunas de categorias. O texto acrescenta que 'a diretriz médica pertinente passará a ser utilizada quando da sua elaboração', o que abriu caminho para a Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos e arritmias, mais detalhada que o anexo.",
+  "porAlt": [
+   "O eletrocardiograma sequer é equipamento obrigatório da entidade médica credenciada pela norma.",
+   "Há parâmetros normativos definidos: o Anexo VII organiza a conduta por condição e por categoria.",
+   "A fração de ejeção não é o parâmetro único adotado pela norma para essa avaliação pericial.",
+   "Correta: observa-se o consenso da ABRAMET, reproduzido no Anexo VII da própria resolução vigente.",
+   "O número de episódios sincopais é dado relevante, mas não é o critério normativo isolado previsto."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre diabetes, qual é a orientação sobre o momento em que o motorista NÃO deve iniciar ou deve interromper a condução?",
+  "alts": [
+   "Quando a glicemia capilar estiver abaixo de 100 mg/dl, valor de corte adotado expressamente na diretriz",
+   "Quando a glicemia capilar estiver abaixo de 70 mg/dl, valor de corte adotado expressamente na diretriz",
+   "Quando a glicemia capilar estiver abaixo de 50 mg/dl, valor de corte adotado expressamente na diretriz",
+   "Quando a glicemia capilar estiver acima de 200 mg/dl, valor de corte adotado expressamente na diretriz",
+   "Quando a hemoglobina glicada estiver acima de 8%, valor de corte adotado expressamente na diretriz"
+  ],
+  "gab": 1,
+  "tema": "sistemicas",
+  "sub": "Corte glicêmico para conduzir",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular', orientações ao condutor.",
+  "coment": "A diretriz orienta que os motoristas profissionais realizem testes de glicemia capilar 1 hora antes de dirigir e cerca de 4 horas após direção contínua, NÃO INICIANDO OU INTERROMPENDO A DIREÇÃO quando a glicemia estiver ABAIXO DE 70 mg/dl. O valor coincide com o limiar clínico de hipoglicemia e antecede a instalação dos sintomas neuroglicopênicos que comprometem o julgamento e a coordenação. É orientação prática de altíssimo rendimento: a hipoglicemia ao volante produz confusão, visão turva, tremor e, no extremo, perda de consciência, sem que o condutor consiga reconhecer a tempo — sobretudo nos casos com hipoglicemia assintomática por longa duração da doença.",
+  "porAlt": [
+   "O valor de 100 mg/dl não é o corte adotado pela diretriz para essa orientação ao condutor.",
+   "Correta: a diretriz adota o corte de 70 mg/dl para não iniciar ou para interromper a condução.",
+   "O valor de 50 mg/dl é mais baixo que o corte adotado, já correspondendo a hipoglicemia estabelecida.",
+   "A hiperglicemia não é o parâmetro dessa orientação específica, que trata do risco de hipoglicemia.",
+   "A hemoglobina glicada avalia o controle de longo prazo e não orienta a decisão pontual de conduzir."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre diabetes, qual perspectiva é apontada para os candidatos com maior risco de hipoglicemia grave?",
+  "alts": [
+   "Proibição definitiva da condução veicular em qualquer categoria, medida já em vigor no ordenamento atual",
+   "Encaminhamento a centros especializados em treinamento na prevenção e no reconhecimento da hipoglicemia",
+   "Substituição obrigatória da insulina por antidiabéticos orais antes de qualquer liberação para conduzir",
+   "Uso obrigatório de monitorização contínua de glicose com alarme sonoro instalado dentro do veículo",
+   "Realização de teste ergométrico anual como condição para a renovação da habilitação desses candidatos"
+  ],
+  "gab": 1,
+  "tema": "sistemicas",
+  "sub": "Educação em hipoglicemia",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular'.",
+  "coment": "A diretriz aponta que, no futuro, esses candidatos — sobretudo os com maior risco de hipoglicemia grave — poderão ser encaminhados para centros especializados em treinamento na prevenção e no reconhecimento de episódios hipoglicêmicos. É uma perspectiva coerente com a lógica geral do documento, que preconiza avaliação criteriosa e individualizada caso a caso e afirma que a habilitação de pessoas com diabetes envolve RISCOS ADMINISTRÁVEIS. A diretriz também considera de bom alvitre, apesar da controvérsia na literatura, que o perito ORIENTE o candidato sobre a hipoglicemia — atribuindo ao exame pericial um valor educativo, e não apenas classificatório.",
+  "porAlt": [
+   "A diretriz trata os riscos como administráveis e não propõe proibição definitiva da condução.",
+   "Correta: encaminhamento a centros de treinamento na prevenção e no reconhecimento da hipoglicemia.",
+   "A substituição da insulina por orais não é conduta proposta e nem sempre é clinicamente possível.",
+   "A monitorização contínua com alarme no veículo não é a medida apontada pela diretriz médica.",
+   "O teste ergométrico anual não é exigência prevista pela diretriz para o condutor com diabetes."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre diabetes, o que deve ser observado quando a avaliação evidencia formas graves de microangiopatia ou macroangiopatia no condutor?",
+  "alts": [
+   "O diagnóstico dessas complicações determina automaticamente a inaptidão definitiva para toda categoria",
+   "O diagnóstico dessas complicações é irrelevante, bastando o controle glicêmico atual do candidato avaliado",
+   "As repercussões dessas complicações sobre visão, sensibilidade e função cardiovascular devem ser avaliadas",
+   "O diagnóstico dessas complicações exige apenas a redução do prazo de validade do exame para seis meses fixos",
+   "O diagnóstico dessas complicações exige encaminhamento obrigatório à Junta Especial de Saúde do CETRAN"
+  ],
+  "gab": 2,
+  "tema": "sistemicas",
+  "sub": "Complicações crônicas do diabetes",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular'.",
+  "coment": "A diretriz determina que, quando na avaliação do motorista com diabetes ficar evidenciado o diagnóstico de formas graves de microangiopatia ou macroangiopatia, essas condições sejam consideradas. O raciocínio é funcional: a retinopatia diabética compromete acuidade e campo visuais, com repercussão direta nos parâmetros do Anexo II; a neuropatia periférica prejudica a sensibilidade e o controle fino dos pedais, além de aumentar o risco de lesões despercebidas; a neuropatia autonômica pode produzir hipotensão postural e hipoglicemia assintomática; e a macroangiopatia traz doença coronariana e cerebrovascular, com risco de evento súbito. Ou seja, o diabetes é avaliado por suas repercussões, e não apenas pelo controle glicêmico.",
+  "porAlt": [
+   "Não há inaptidão definitiva automática: a decisão depende da repercussão funcional identificada.",
+   "O diagnóstico é altamente relevante e não é substituído pelo controle glicêmico atual isolado.",
+   "Correta: avaliam-se as repercussões sobre visão, sensibilidade e função cardiovascular do condutor.",
+   "A redução fixa do prazo para seis meses não é a conduta prevista pela diretriz para essas complicações.",
+   "A Junta Especial de Saúde é instância de julgamento de recurso, não a via ordinária dessa avaliação."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre doença renal crônica dialítica, quais são as duas razões apontadas para a suspensão temporária da direção nos primeiros meses de tratamento?",
+  "alts": [
+   "Maior custo do transporte alternativo e dificuldade de acesso do paciente à unidade de hemodiálise",
+   "Menor adesão ao tratamento nos primeiros meses e ausência de acesso vascular definitivo instalado",
+   "Maior risco de infecção do cateter e necessidade de repouso absoluto durante todo o primeiro trimestre",
+   "Maior frequência de intercorrências clínicas e inabilidade do paciente para reconhecer sinais adversos",
+   "Menor tolerância ao esforço físico e perda de massa muscular acentuada nos primeiros meses de diálise"
+  ],
+  "gab": 3,
+  "tema": "sistemicas",
+  "sub": "Suspensão temporária no início da diálise",
+  "base": "Diretriz ABRAMET 'Portadores de doença renal crônica dialítica e condução veicular', conclusões.",
+  "coment": "A diretriz recomenda a suspensão temporária da direção veicular para pacientes que iniciaram o tratamento recentemente, há menos de 3 meses, por DUAS razões explícitas: a maior frequência de apresentação de intercorrências clínicas nessa fase e a INABILIDADE deles para a identificação e o manejo desses sinais e sintomas adversos, com consequente interferência na capacidade de condução veicular. O segundo motivo é o mais interessante do ponto de vista clínico: não se trata apenas de haver mais eventos, mas de o paciente ainda não ter aprendido a reconhecê-los — hipotensão pós-diálise, cãibras, tontura, desequilíbrio hidroeletrolítico — e a agir a tempo.",
+  "porAlt": [
+   "O custo e o acesso ao serviço de diálise não são as razões clínicas apontadas pela diretriz médica.",
+   "A adesão e o tipo de acesso vascular não são as duas razões expressamente apresentadas no texto.",
+   "O risco de infecção do cateter não é a razão apontada, nem se exige repouso absoluto no período.",
+   "Correta: mais intercorrências clínicas somadas à inabilidade de reconhecer e manejar os sinais adversos.",
+   "A perda de massa muscular não é a justificativa apresentada pela diretriz para essa suspensão."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre doença renal crônica dialítica, qual é a orientação quanto à solicitação de exames laboratoriais adicionais pelo perito?",
+  "alts": [
+   "Normalmente não é necessária, sendo o foco a orientação e a avaliação clínica do condutor dialítico",
+   "É sempre obrigatória, devendo incluir ureia, creatinina e eletrólitos colhidos no dia do exame pericial",
+   "É obrigatória apenas nos candidatos às categorias C, D e E, dispensada nas categorias A e B do documento",
+   "É obrigatória mensalmente durante todo o período de validade do exame de aptidão física e mental",
+   "É obrigatória apenas quando o paciente estiver em diálise peritoneal, dispensada na hemodiálise"
+  ],
+  "gab": 0,
+  "tema": "sistemicas",
+  "sub": "Exames adicionais na DRC dialítica",
+  "base": "Diretriz ABRAMET 'Portadores de doença renal crônica dialítica e condução veicular', conclusões.",
+  "coment": "A diretriz afirma expressamente que, normalmente, a solicitação de exames laboratoriais adicionais NÃO é necessária. O foco recai sobre a avaliação clínica e, sobretudo, sobre a ORIENTAÇÃO: é dever do profissional que realiza o exame de aptidão desaconselhar a condução principalmente nos dias de tratamento hemodialítico e registrar em prontuário o fornecimento dessa orientação. A diretriz lembra que o tratamento da doença renal terminal em estágio dialítico requer envolvimento significativo do paciente em um regime complexo — cuidados com o acesso vascular, adesão às medicações e orientações nutricionais — e destaca a importância do especialista em medicina de tráfego nessa avaliação e orientação.",
+  "porAlt": [
+   "Correta: normalmente não é necessária, com foco na orientação e na avaliação clínica do condutor.",
+   "A diretriz afirma justamente o oposto: os exames adicionais em geral não se fazem necessários.",
+   "A norma não condiciona a exigência de exames adicionais à categoria pretendida pelo candidato.",
+   "Não há previsão de exames laboratoriais mensais durante a validade do exame de aptidão física.",
+   "A diretriz não distingue diálise peritoneal e hemodiálise para essa finalidade específica de exames."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, o que ocorre com o portador de CDI que recebe terapia INAPROPRIADA do dispositivo, quanto à direção privada?",
+  "alts": [
+   "Fica restrito até que sejam tomadas medidas de prevenção ou então medidas terapêuticas adequadas",
+   "Fica restrito por três meses fixos, contados da data em que ocorreu a terapia inapropriada registrada",
+   "Fica restrito por doze meses fixos, contados da data em que ocorreu a terapia inapropriada registrada",
+   "Fica permanentemente restrito, do mesmo modo que ocorre na coluna da direção profissional prevista",
+   "Não fica restrito, pois a terapia inapropriada não decorre de arritmia real do portador do dispositivo"
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Terapia inapropriada do CDI",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, Fig. 3.",
+  "coment": "A linha 'após terapia inapropriada' do quadro do CDI é a única que não traz prazo fixo na coluna da direção privada: a restrição dura ATÉ QUE MEDIDAS DE PREVENÇÃO SEJAM TOMADAS quanto à terapia inadequada, ou até que medidas terapêuticas adequadas sejam tomadas. A lógica é que o problema não é uma arritmia maligna, e sim um choque disparado indevidamente — por sobredetecção, fibrilação atrial de alta resposta ou fratura de eletrodo —, o que se resolve por reprogramação do aparelho ou correção do substrato. Enquanto isso não é feito, o risco de novo choque inesperado ao volante permanece. Na coluna profissional, como em todas as linhas do CDI, a restrição é permanente.",
+  "porAlt": [
+   "Correta: a restrição dura até que se tomem medidas de prevenção ou medidas terapêuticas adequadas.",
+   "O prazo de três meses corresponde a outras linhas do quadro, como a terapia apropriada recebida.",
+   "O prazo de doze meses não consta do quadro do CDI em nenhuma das linhas da coluna privada.",
+   "A restrição permanente é a da coluna profissional, e não a prevista para a direção privada.",
+   "Há restrição, sim: enquanto não corrigida a causa, permanece o risco de novo choque inesperado."
+  ]
+ }
+]
