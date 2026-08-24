@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Qual é a queixa clínica mais característica do ambiente de navegação, e qual o seu mecanismo fisiopatológico?",
+  "alts": [
+   "Cefaleia tensional, por contratura da musculatura cervical decorrente da postura mantida ao leme do barco",
+   "Dispneia paroxística, por redução da pressão parcial de oxigênio ao nível do mar durante a navegação",
+   "Cinetose, por conflito entre a informação vestibular do balanço e a informação visual do interior fixo",
+   "Lombalgia mecânica, por vibração de corpo inteiro transmitida exclusivamente pelo casco da embarcação",
+   "Epistaxe recorrente, por ressecamento da mucosa nasal decorrente da salinidade do ar sobre o mar aberto"
+  ],
+  "gab": 2,
+  "tema": "aquaviaria",
+  "sub": "Cinetose na navegação",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (doenças que mais frequentemente afetam os navegantes).",
+  "coment": "A cinetose, ou enjoo de movimento, é a queixa mais característica da navegação e decorre do conflito sensorial: o aparelho vestibular detecta o balanço da embarcação, enquanto a visão, fixada no interior do barco, informa um ambiente estável. Manifesta-se com náusea, vômitos, palidez, sudorese fria, tontura e prostração, e sua importância vai além do desconforto — a cinetose intensa incapacita o navegante para operar a embarcação, gera desidratação e distúrbio hidroeletrolítico e agrava o risco em situação de emergência. As medidas preventivas incluem fixar o olhar no horizonte, permanecer no convés e em posição central da embarcação, evitar leitura e ambientes fechados, alimentar-se de forma leve e, quando indicado, usar antieméticos — atentando para o efeito sedativo dos anti-histamínicos.",
+  "porAlt": [
+   "A cefaleia tensional pode ocorrer, mas não é a queixa característica do ambiente de navegação.",
+   "Não há redução da pressão parcial de oxigênio ao nível do mar durante a navegação de recreio.",
+   "Correta: cinetose, por conflito entre a informação vestibular do balanço e a informação visual fixa.",
+   "A lombalgia por vibração é queixa típica do motorista profissional, não a mais característica do mar.",
+   "A epistaxe por salinidade não é a queixa característica descrita para o ambiente de navegação."
+  ]
+ },
+ {
+  "q": "Qual é a principal preocupação quanto ao uso de medicamentos pelo navegante amador durante a operação da embarcação?",
+  "alts": [
+   "A degradação química dos medicamentos pela salinidade, que os torna ineficazes em poucas horas de mar",
+   "O efeito sedativo de antieméticos e outros fármacos, que compromete a operação segura da embarcação",
+   "A absorção intestinal acelerada em ambiente marítimo, que multiplica a concentração plasmática do fármaco",
+   "A necessidade de refrigeração de todos os medicamentos orais durante o período de navegação realizado",
+   "A impossibilidade de deglutir comprimidos em embarcações de pequeno porte durante o balanço do mar"
+  ],
+  "gab": 1,
+  "tema": "aquaviaria",
+  "sub": "Medicamentos e o navegante",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (medicamentos e o navegante).",
+  "coment": "O programa lista expressamente 'medicamentos e o navegante' como item da medicina do tráfego aquaviária, e a preocupação central é a mesma da condução veicular: fármacos com efeito sedativo comprometem a atenção, o tempo de reação e o julgamento de quem opera a embarcação. O caso mais frequente é paradoxal — os antieméticos usados justamente para prevenir a cinetose, sobretudo os anti-histamínicos de primeira geração e a escopolamina, produzem sonolência importante. Somam-se benzodiazepínicos, opioides e o álcool, cujo consumo é culturalmente associado ao lazer náutico e cujo efeito se soma ao do balanço e à exposição solar, ampliando o risco de queda ao mar e de erro de manobra.",
+  "porAlt": [
+   "A salinidade não degrada os medicamentos a ponto de torná-los ineficazes em poucas horas de mar.",
+   "Correta: o efeito sedativo, sobretudo dos antieméticos, compromete a operação segura da embarcação.",
+   "Não há aceleração da absorção intestinal com multiplicação da concentração plasmática no mar.",
+   "A refrigeração não é exigência geral dos medicamentos orais durante o período de navegação.",
+   "A deglutição de comprimidos não é a preocupação central descrita para o navegante amador."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Aquaviária, o que se entende por 'proteção quanto às intempéries' na avaliação do navegante?",
+  "alts": [
+   "Orientação sobre exposição solar, vento, chuva e frio, que agravam o risco clínico durante a navegação",
+   "Orientação exclusivamente sobre a resistência estrutural do casco da embarcação a ondas de grande porte",
+   "Orientação exclusivamente sobre o funcionamento dos equipamentos de radiocomunicação instalados a bordo",
+   "Orientação exclusivamente sobre a manutenção preventiva do motor de popa durante a temporada de uso",
+   "Orientação exclusivamente sobre os seguros de embarcação disponíveis no mercado securitário nacional"
+  ],
+  "gab": 0,
+  "tema": "aquaviaria",
+  "sub": "Proteção quanto às intempéries",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (proteção quanto às intempéries).",
+  "coment": "O item tem conteúdo médico, e não naval: trata da proteção do navegante contra os agentes ambientais a que ele fica exposto. A exposição solar é intensa e agravada pela reflexão na água, com risco de queimadura, insolação e lesões oculares — daí a orientação de protetor solar, vestuário adequado, chapéu e óculos com proteção ultravioleta. O vento e a chuva aceleram a perda de calor e podem levar à hipotermia mesmo em climas quentes, sobretudo com a roupa molhada. Somam-se a desidratação, favorecida pelo calor e pela restrição de líquidos para evitar idas ao banheiro, e o risco de queda ao mar, que combina hipotermia com afogamento.",
+  "porAlt": [
+   "Correta: orientação sobre sol, vento, chuva e frio, que agravam o risco clínico durante a navegação.",
+   "A resistência estrutural do casco é matéria de engenharia naval, e não do conteúdo médico do item.",
+   "Os equipamentos de radiocomunicação não são o objeto médico desse item do conteúdo programático.",
+   "A manutenção do motor é matéria mecânica, sem relação com a proteção clínica do navegante.",
+   "Os seguros de embarcação não integram o item de proteção às intempéries do programa do edital."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, qual é a informação epidemiológica que sustenta a inclusão dos sinistros de trânsito entre os problemas de saúde pública?",
+  "alts": [
+   "O valor médio das indenizações pagas pelas seguradoras privadas às vítimas e a seus familiares",
+   "O número de veículos emplacados anualmente no país e a taxa de crescimento da frota circulante",
+   "A extensão da malha rodoviária pavimentada e o percentual de trechos com sinalização adequada",
+   "A arrecadação anual proveniente das multas de trânsito aplicadas pelos órgãos executivos estaduais",
+   "A magnitude da morbimortalidade e o peso das sequelas e incapacidades produzidas na população"
+  ],
+  "gab": 4,
+  "tema": "epidemiologia",
+  "sub": "Sinistros como problema de saúde pública",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Preventiva (epidemiologia do sinistro de trânsito, morbimortalidade, sequelas e incapacidades).",
+  "coment": "O programa abre a medicina do tráfego preventiva com epidemiologia do sinistro de trânsito, sua distribuição, a morbimortalidade e as sequelas e incapacidades produzidas — e é essa combinação que caracteriza o problema de saúde pública. Os números de contexto reforçam o argumento: os sinistros matam mais de 1,2 milhão de pessoas por ano no mundo e ferem de 20 a 50 milhões, a América Latina tem as maiores taxas de fatalidade de todas as regiões, com 26,1 mortes por 100 mil habitantes, e as vítimas concentram-se em faixas etárias economicamente ativas, o que amplia o impacto social das incapacidades permanentes. A ABRAMET publicou obra específica sobre a dimensão e o impacto dos sinistros no Brasil, listada na bibliografia do edital.",
+  "porAlt": [
+   "O valor das indenizações é aspecto econômico, e não o fundamento epidemiológico apontado.",
+   "O número de veículos emplacados é dado de frota, e não indicador de morbimortalidade populacional.",
+   "A extensão da malha rodoviária é dado de infraestrutura, e não indicador de dano à saúde da população.",
+   "A arrecadação de multas é dado administrativo, sem relação com o argumento de saúde pública.",
+   "Correta: a magnitude da morbimortalidade somada ao peso das sequelas e incapacidades produzidas."
+  ]
+ },
+ {
+  "q": "A bibliografia do edital inclui obra específica sobre um modal de transporte responsável por parcela expressiva da morbimortalidade no Brasil. A que modal ela se refere?",
+  "alts": [
+   "O transporte ferroviário de passageiros, objeto de obra específica publicada pela ABRAMET em 2021",
+   "O transporte hidroviário de carga, objeto de obra específica publicada pela ABRAMET em 2020",
+   "O transporte aéreo regional, objeto de obra específica publicada em conjunto com a ANAC em 2019",
+   "O transporte por aplicativo, objeto de obra específica publicada em conjunto com o CFM em 2022",
+   "A motocicleta, objeto da obra 'A motocicleta no Brasil do século XXI', publicada pela ABRAMET"
+  ],
+  "gab": 4,
+  "tema": "epidemiologia",
+  "sub": "Bibliografia sobre motocicletas",
+  "base": "Bibliografia do Edital nº 2446 — 'A motocicleta no Brasil do século XXI', ABRAMET, 2021.",
+  "coment": "A bibliografia do edital lista 'A motocicleta no Brasil do século XXI', dos pesquisadores Maria Helena P. de Mello Jorge, Aquilla dos Anjos Couto e Pedro Manoel dos Santos, publicada pela ABRAMET em 2021. A escolha reflete o peso do modal na sinistralidade brasileira: o motociclista é o usuário vulnerável por excelência, sem estrutura deformável ao redor do corpo, e concentra proporção elevada das internações e óbitos por sinistros no país. A mesma bibliografia inclui 'Dimensão e impacto dos sinistros de trânsito no Brasil', também da ABRAMET, e obras de referência da especialidade como o 'Medicina do Tráfego — Aspectos Médicos da Aptidão para Conduzir' e o volume de 300 perguntas e respostas.",
+  "porAlt": [
+   "Não há na bibliografia obra específica sobre o transporte ferroviário de passageiros no país.",
+   "Não há na bibliografia obra específica sobre o transporte hidroviário de carga publicada pela entidade.",
+   "Não há na bibliografia obra específica sobre transporte aéreo regional em conjunto com a ANAC.",
+   "Não há na bibliografia obra específica sobre transporte por aplicativo publicada com o CFM.",
+   "Correta: a obra citada trata da motocicleta no Brasil do século XXI, publicada pela ABRAMET."
+  ]
+ },
+ {
+  "q": "Qual característica das vítimas de sinistros de trânsito amplia o impacto social do problema, além da mortalidade?",
+  "alts": [
+   "A concentração exclusiva em faixas etárias acima de setenta anos, com internações de curta duração",
+   "A concentração exclusiva em crianças menores de cinco anos, faixa de menor participação econômica",
+   "A concentração exclusiva em populações rurais, com baixo impacto sobre os serviços urbanos de saúde",
+   "A concentração em faixas etárias economicamente ativas, com sequelas de longa duração após o evento",
+   "A concentração exclusiva em condutores profissionais, cujo afastamento é coberto por seguro próprio"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Perfil etário e impacto social",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Preventiva (morbimortalidade, sequelas e incapacidades).",
+  "coment": "Os sinistros de trânsito atingem desproporcionalmente adultos jovens, em plena idade produtiva e reprodutiva. Isso significa que, além da mortalidade, o problema gera anos potenciais de vida perdidos em magnitude comparável ou superior à de doenças crônicas mais prevalentes, e produz sobreviventes com décadas de convivência com sequelas — lesão medular, traumatismo cranioencefálico, amputações, sequelas ortopédicas e transtornos psiquiátricos pós-traumáticos. É esse duplo peso, mortalidade precoce somada a incapacidade de longa duração, que sustenta o argumento de saúde pública e justifica a existência da medicina do tráfego preventiva como especialidade.",
+  "porAlt": [
+   "Os idosos são vulneráveis, mas a concentração das vítimas não se dá exclusivamente acima dos setenta.",
+   "As crianças são vítimas relevantes, mas a concentração não se dá exclusivamente nessa faixa etária.",
+   "O problema não é exclusivamente rural e tem grande impacto sobre os serviços urbanos de saúde.",
+   "Correta: a concentração em faixas economicamente ativas somada a sequelas de longa duração.",
+   "As vítimas não se concentram exclusivamente entre condutores profissionais com cobertura própria."
+  ]
+ },
+ {
+  "q": "Qual conjunto de condições clínicas compõe o perfil de adoecimento mais característico do motorista profissional?",
+  "alts": [
+   "Asma ocupacional, dermatite de contato, silicose e lesão por esforço repetitivo de punhos e mãos",
+   "Lombalgia, sobrepeso, apneia do sono, hipertensão e perda auditiva induzida por ruído ocupacional",
+   "Pneumoconiose, intoxicação por metais pesados, catarata precoce e doença descompressiva crônica",
+   "Anemia ferropriva, hipotireoidismo, osteoporose precoce e neuropatia periférica de origem carencial",
+   "Insuficiência renal crônica, hepatite ocupacional, leucemia mieloide e fibrose pulmonar idiopática"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "Perfil de adoecimento do motorista",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (prevenção das doenças dos motoristas profissionais).",
+  "coment": "O perfil é bem descrito e coerente com a exposição da atividade: dorsalgias e lombalgias pela postura sentada prolongada somada à vibração de corpo inteiro; sobrepeso, obesidade e síndrome metabólica pelo sedentarismo da função, pela alimentação de estrada e pela escala irregular; apneia obstrutiva do sono, favorecida pela obesidade e responsável por sonolência excessiva diurna; hipertensão arterial; distúrbios do sono por jornadas noturnas e escalas irregulares; perda auditiva induzida por ruído; varizes de membros inferiores; e transtornos relacionados ao uso de substâncias estimulantes para prolongar a jornada. É esse conjunto que o exame periódico deve rastrear ativamente.",
+  "porAlt": [
+   "Esse conjunto corresponde a outras exposições ocupacionais, não ao perfil do motorista profissional.",
+   "Correta: lombalgia, sobrepeso, apneia do sono, hipertensão e perda auditiva compõem o perfil típico.",
+   "Pneumoconiose e doença descompressiva pertencem a outros ramos da medicina do trabalho.",
+   "Esse conjunto de agravos carenciais não caracteriza o perfil típico do motorista profissional.",
+   "Esse conjunto não corresponde ao perfil de adoecimento descrito para os motoristas profissionais."
+  ]
+ },
+ {
+  "q": "Qual é a finalidade do exame periódico do motorista profissional, distinta da do admissional e da do demissional?",
+  "alts": [
+   "Estabelecer a linha de base do estado de saúde do trabalhador antes do início das suas atividades",
+   "Acompanhar a evolução da saúde ao longo do vínculo, detectando precocemente agravos relacionados",
+   "Documentar o estado de saúde no encerramento do contrato de trabalho que foi firmado com a empresa",
+   "Definir a categoria da Carteira Nacional de Habilitação compatível com a função exercida no emprego",
+   "Substituir o exame de aptidão física e mental exigido pelo órgão executivo de trânsito estadual"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "Finalidade do exame periódico",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (exames admissionais, periódicos e demissionais).",
+  "coment": "Os três exames formam uma sequência com funções distintas e complementares. O ADMISSIONAL estabelece a linha de base — o estado de saúde do trabalhador ao ingressar, referência para tudo o que vier depois. O PERIÓDICO acompanha a evolução ao longo do vínculo, com a finalidade de detectar precocemente agravos relacionados ao trabalho, quando ainda são reversíveis ou controláveis: é nele que se rastreia a apneia do sono, a hipertensão, o ganho de peso, a perda auditiva e a lombalgia. O DEMISSIONAL documenta o estado de saúde no encerramento, delimitando o que se instalou no período. Nenhum deles substitui o exame de aptidão física e mental do processo de habilitação, que tem finalidade e regramento próprios.",
+  "porAlt": [
+   "Estabelecer a linha de base é a finalidade do exame admissional, realizado antes do início da atividade.",
+   "Correta: acompanhar a evolução ao longo do vínculo e detectar precocemente agravos relacionados.",
+   "Documentar o estado de saúde ao término do contrato é a finalidade do exame demissional.",
+   "A definição da categoria da habilitação é competência do órgão de trânsito, e não do exame ocupacional.",
+   "O exame ocupacional não substitui o exame de aptidão física e mental exigido para a habilitação."
+  ]
+ },
+ {
+  "q": "Qual medida de organização do trabalho tem impacto mais direto sobre a fadiga do motorista profissional?",
+  "alts": [
+   "Fornecimento de café e bebidas energéticas gratuitas nos pontos de parada ao longo das rotas percorridas",
+   "Instalação de sistema de som de alta potência na cabine, para manter o motorista alerta nas viagens",
+   "Pausas programadas e escalas compatíveis com o ritmo circadiano, com local adequado para descanso",
+   "Bonificação financeira proporcional ao número de quilômetros percorridos em cada jornada de trabalho",
+   "Redução do número de paradas obrigatórias, para encurtar o tempo de exposição ao tráfego rodoviário"
+  ],
+  "gab": 2,
+  "tema": "ocupacional",
+  "sub": "Organização do trabalho e fadiga",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (condições inseguras do tráfego, prevenção das doenças dos motoristas).",
+  "coment": "A fadiga do motorista profissional é problema de ORGANIZAÇÃO DO TRABALHO, e não apenas de comportamento individual. As medidas eficazes são estruturais: pausas programadas e efetivamente cumpridas, escalas que respeitem o ritmo circadiano evitando a concentração de jornada na madrugada, tempo de descanso entre jornadas suficiente para sono reparador, e disponibilidade de local adequado para dormir e alimentar-se. Estimulantes — café, energéticos ou anfetamínicos — apenas mascaram a sonolência sem repor o débito de sono. E a bonificação por quilometragem produz o efeito oposto ao desejado, pois pune economicamente quem descansa.",
+  "porAlt": [
+   "Estimulantes mascaram a sonolência sem repor o débito de sono acumulado durante a jornada.",
+   "O som de alta potência não substitui o sono e ainda contribui para a perda auditiva do motorista.",
+   "Correta: pausas programadas, escalas compatíveis com o ritmo circadiano e local adequado de descanso.",
+   "A bonificação por quilometragem incentiva jornadas longas e a supressão das pausas necessárias.",
+   "Reduzir as paradas obrigatórias agrava a fadiga, que é justamente o problema que se quer prevenir."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, qual é a competência do especialista quanto à consulta pós-viagem em medicina do viajante?",
+  "alts": [
+   "Apenas emitir o atestado de aptidão para o retorno ao trabalho após o término do período de viagem",
+   "Apenas atualizar o calendário vacinal do viajante, sem investigação de sintomas surgidos no destino",
+   "Apenas orientar sobre o próximo destino de viagem, sem avaliação clínica dos sintomas apresentados",
+   "Diagnosticar e tratar doenças relacionadas ao meio de transporte e às mudanças geográficas do percurso",
+   "Apenas encaminhar o viajante ao serviço de vigilância epidemiológica do município para a notificação"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Consulta pós-viagem",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (consultas pré e pós-viagem, diagnóstico e tratamento).",
+  "coment": "O programa atribui ao especialista dominar os procedimentos para orientar o planejamento de viagens, as consultas pré e pós-viagem, as doenças preexistentes, as doenças infectocontagiosas e os acidentes com animais peçonhentos prevalentes no percurso ou destino, a imunização, e DIAGNOSTICAR E TRATAR doenças relacionadas com o meio de transporte e com as mudanças geográficas. A consulta pós-viagem é, portanto, clínica: investiga febre, diarreia, lesões cutâneas e sintomas respiratórios no retorno, sempre situando o quadro no roteiro percorrido e nos períodos de incubação das doenças do destino — a febre no retornante de área endêmica exige, por exemplo, excluir malária com urgência.",
+  "porAlt": [
+   "A emissão de atestado é ato acessório e não descreve a competência clínica prevista no programa.",
+   "A atualização vacinal é parte da consulta pré-viagem, e não substitui a investigação pós-viagem.",
+   "A orientação sobre o próximo destino não substitui a avaliação clínica dos sintomas apresentados.",
+   "Correta: diagnosticar e tratar doenças ligadas ao meio de transporte e às mudanças geográficas.",
+   "O encaminhamento à vigilância não exclui a competência de diagnosticar e tratar prevista no edital."
+  ]
+ },
+ {
+  "q": "Viajante retorna de área endêmica de malária com febre há dois dias. Qual é a conduta prioritária?",
+  "alts": [
+   "Investigar malária com urgência, pois a forma grave pode evoluir rapidamente para desfecho fatal",
+   "Aguardar setenta e duas horas de observação domiciliar antes de qualquer investigação laboratorial",
+   "Iniciar antibiótico de amplo espectro empiricamente, sem necessidade de investigação etiológica prévia",
+   "Solicitar apenas sorologia para dengue, por ser a causa mais provável de febre em qualquer retornante",
+   "Encaminhar diretamente para internação em unidade de terapia intensiva, independentemente do quadro"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Febre no retornante",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças infectocontagiosas prevalentes no percurso ou destino, consulta pós-viagem).",
+  "coment": "Febre em viajante que retorna de área endêmica de malária é emergência médica até prova em contrário: a malária por Plasmodium falciparum pode evoluir para forma grave — com disfunção neurológica, insuficiência renal, hipoglicemia e acidose — em questão de horas, e o atraso diagnóstico é o principal determinante de mortalidade. A investigação é imediata, por gota espessa ou teste rápido, repetida se negativa e a suspeita persistir. O raciocínio geral da consulta pós-viagem é sempre o mesmo: situar o sintoma no roteiro percorrido, considerar os períodos de incubação e priorizar as hipóteses potencialmente fatais e tratáveis antes das mais prováveis porém benignas.",
+  "porAlt": [
+   "Correta: investigar malária com urgência, pois a forma grave evolui rapidamente para desfecho fatal.",
+   "A observação domiciliar por três dias é conduta perigosa diante da possibilidade de malária grave.",
+   "O antibiótico empírico não trata malária e retarda a investigação etiológica que é prioritária aqui.",
+   "A dengue é hipótese relevante, mas não afasta a necessidade de excluir malária com urgência.",
+   "A internação em terapia intensiva não é a conduta inicial indiscriminada para todo caso de febre."
+  ]
+ },
+ {
+  "q": "Qual orientação é correta quanto às doenças preexistentes do viajante no planejamento da viagem?",
+  "alts": [
+   "Devem ser avaliadas quanto à estabilidade e à disponibilidade de assistência médica no destino escolhido",
+   "Devem ser omitidas do planejamento, para não gerar restrições desnecessárias ao roteiro que foi pretendido",
+   "Devem impedir automaticamente qualquer viagem internacional, pela impossibilidade de acompanhamento",
+   "Devem ser tratadas com suspensão temporária das medicações durante todo o período da viagem realizada",
+   "Devem ser reavaliadas apenas no retorno da viagem, quando eventual descompensação já terá se manifestado"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Doenças preexistentes na consulta pré-viagem",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças pré-existentes, planejamento de viagens).",
+  "coment": "O programa inclui expressamente as 'doenças pré-existentes' entre os objetos da consulta pré-viagem. A avaliação tem dois eixos. O primeiro é a ESTABILIDADE da condição: uma cardiopatia compensada, um diabetes controlado ou uma doença pulmonar sem hipoxemia significativa em repouso em geral não contraindicam a viagem, ao contrário das mesmas condições descompensadas. O segundo é a DISPONIBILIDADE DE ASSISTÊNCIA no destino — recursos hospitalares, acesso a medicamentos, distância até serviço de referência e existência de seguro-viagem com cobertura adequada. Somam-se o ajuste de medicações aos fusos, a quantidade suficiente de fármacos na bagagem de mão e o relatório médico resumindo o quadro.",
+  "porAlt": [
+   "Correta: avaliar a estabilidade da condição e a disponibilidade de assistência médica no destino.",
+   "Omitir as doenças preexistentes expõe o viajante a risco evitável e contraria o objeto da consulta.",
+   "As doenças preexistentes não impedem automaticamente a viagem quando estão bem controladas.",
+   "Suspender medicações de uso contínuo durante a viagem é conduta perigosa e sem qualquer respaldo.",
+   "A avaliação deve ser prévia: reavaliar apenas no retorno não previne a descompensação no destino."
+  ]
+ }
+]
