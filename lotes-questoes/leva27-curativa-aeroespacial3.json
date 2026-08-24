@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Qual é a prioridade correta quando a vítima de sinistro apresenta simultaneamente hemorragia externa exsanguinante e via aérea obstruída?",
+  "alts": [
+   "Abrir a via aérea primeiro, pois o A antecede sempre qualquer outra intervenção na avaliação primária",
+   "Realizar as duas intervenções apenas depois de obter dois acessos venosos periféricos calibrosos",
+   "Conter a hemorragia exsanguinante primeiro, sequência que dá origem ao mnemônico XABCDE no trauma",
+   "Transportar imediatamente sem qualquer intervenção, deixando ambas as condutas para o hospital",
+   "Avaliar antes o estado neurológico, que define qual das duas intervenções deve ser priorizada ali"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Sequência XABCDE",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (avaliação primária, controle de hemorragias externas).",
+  "coment": "A sequência ABCDE reflete a ordem em que os problemas matam, e a hemorragia exsanguinante mata em minutos — mais rápido que a maioria das obstruções parciais de via aérea. Daí a evolução para o XABCDE, em que o X representa o controle da hemorragia exsanguinante ANTES da via aérea. Na prática, com equipe de dois ou mais socorristas, as duas intervenções ocorrem simultaneamente; a hierarquia importa quando há um único socorrista. A contenção se faz por compressão direta e, não cedendo, por torniquete proximal à lesão, com registro do horário de aplicação para a equipe hospitalar.",
+  "porAlt": [
+   "O A antecede B, C, D e E, mas a hemorragia exsanguinante foi deslocada para antes dele.",
+   "O acesso venoso não precede o controle da fonte: sem hemostasia, o volume infundido se perde.",
+   "Correta: a hemorragia exsanguinante vem primeiro, o que originou o mnemônico XABCDE no trauma.",
+   "Transportar sem intervir é inaceitável quando há hemorragia contível e via aérea obstruída.",
+   "A avaliação neurológica é a quarta etapa e não define a prioridade entre as duas intervenções."
+  ]
+ },
+ {
+  "q": "Vítima de colisão apresenta segmento da parede torácica com movimento paradoxal à respiração. Qual é o diagnóstico e a repercussão principal?",
+  "alts": [
+   "Pneumotórax aberto por ferimento penetrante, com entrada e saída de ar audível pelo próprio ferimento",
+   "Tórax instável por fraturas múltiplas de arcos costais, com contusão pulmonar subjacente e hipoxemia",
+   "Hemotórax maciço por lesão de vaso intercostal, com macicez à percussão e murmúrio abolido no lado",
+   "Tamponamento cardíaco por ferimento penetrante, com hipotensão e abafamento das bulhas cardíacas",
+   "Ruptura diafragmática traumática, com ruídos hidroaéreos audíveis no hemitórax que foi acometido"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Tórax instável",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de tórax).",
+  "coment": "O movimento paradoxal — o segmento afunda na inspiração e projeta-se na expiração, ao contrário do restante da parede — caracteriza o tórax instável, resultante de fraturas em dois ou mais pontos de três ou mais arcos costais consecutivos. O ponto conceitual é que a instabilidade da parede não é a principal causa da insuficiência respiratória: a CONTUSÃO PULMONAR subjacente é que produz a hipoxemia, por alteração da relação ventilação-perfusão e por perda de complacência. Daí a conduta priorizar oxigenação, analgesia adequada (que permite ventilação eficaz) e monitorização, com suporte ventilatório quando necessário — e não a fixação da parede.",
+  "porAlt": [
+   "O pneumotórax aberto cursa com ferimento soprante, e não com movimento paradoxal da parede.",
+   "Correta: tórax instável com contusão pulmonar subjacente, que é a causa principal da hipoxemia.",
+   "O hemotórax maciço cursa com macicez e murmúrio abolido, sem o movimento paradoxal descrito.",
+   "O tamponamento cursa com a tríade de Beck, sem alteração do movimento da parede torácica.",
+   "A ruptura diafragmática cursa com ruídos hidroaéreos no tórax, sem movimento paradoxal descrito."
+  ]
+ },
+ {
+  "q": "Qual é a conduta imediata diante de ferimento torácico soprante, com entrada e saída de ar audível pelo orifício?",
+  "alts": [
+   "Curativo de três pontas sobre o ferimento, permitindo a saída de ar e impedindo a sua entrada",
+   "Curativo oclusivo hermético fixado nos quatro lados, selando por completo o orifício da parede",
+   "Introdução de gaze estéril no interior do orifício até tamponar por completo a passagem de ar",
+   "Punção torácica imediata no segundo espaço intercostal, na linha hemiclavicular do lado acometido",
+   "Intubação orotraqueal imediata com ventilação sob pressão positiva antes de qualquer curativo local"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Pneumotórax aberto",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de tórax).",
+  "coment": "O ferimento soprante caracteriza o pneumotórax aberto: o ar entra na cavidade pleural pelo orifício da parede a cada inspiração, colapsando o pulmão. A conduta é o curativo de três pontas — um quadrado de material impermeável fixado em três lados, deixando um lado livre —, que funciona como válvula unidirecional: impede a entrada de ar pelo orifício e permite a saída do ar acumulado na expiração. O curativo fixado nos QUATRO lados é erro clássico e perigoso: ele veda também a saída e pode converter o pneumotórax aberto em HIPERTENSIVO. Introduzir gaze no orifício é contraindicado, e o tratamento definitivo é a drenagem torácica em local distinto do ferimento.",
+  "porAlt": [
+   "Correta: curativo de três pontas, que funciona como válvula permitindo apenas a saída do ar.",
+   "O curativo fixado nos quatro lados pode converter o pneumotórax aberto em hipertensivo grave.",
+   "Introduzir gaze no orifício é contraindicado e pode agravar a lesão das estruturas subjacentes.",
+   "A punção torácica é a conduta do pneumotórax hipertensivo, e não do pneumotórax aberto descrito.",
+   "A ventilação com pressão positiva antes do curativo pode agravar o acúmulo de ar na cavidade."
+  ]
+ },
+ {
+  "q": "Vítima de atropelamento apresenta instabilidade pélvica à avaliação e sinais de choque. Qual é a conduta correta no pré-hospitalar?",
+  "alts": [
+   "Repetir a manobra de compressão do anel pélvico a cada cinco minutos para acompanhar a evolução",
+   "Realizar tração longitudinal vigorosa de ambos os membros inferiores para reduzir a fratura no local",
+   "Posicionar a vítima em decúbito lateral esquerdo para reduzir a pressão sobre o anel pélvico fraturado",
+   "Aguardar radiografia de bacia antes de qualquer medida de estabilização do anel pélvico da vítima",
+   "Estabilizar a pelve com cinta pélvica ou lençol, evitando manipulações repetidas do anel pélvico"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Fratura de pelve",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de abdome e extremidades, controle de hemorragias).",
+  "coment": "A fratura instável de pelve é fonte de hemorragia retroperitoneal maciça — um dos cinco locais capazes de causar exsanguinação. A conduta pré-hospitalar é a estabilização com cinta pélvica comercial ou improvisada com lençol, posicionada na altura dos grandes trocanteres, o que reduz o volume da pelve e favorece o tamponamento do sangramento. Duas advertências importantes: a manobra de avaliação da estabilidade deve ser feita UMA ÚNICA VEZ, pois repeti-la desloca coágulos já formados e reinicia o sangramento; e a tração vigorosa dos membros é contraindicada. Aguardar imagem no pré-hospitalar é inaceitável em vítima com sinais de choque.",
+  "porAlt": [
+   "Repetir a compressão desloca coágulos já formados e reinicia o sangramento retroperitoneal.",
+   "A tração vigorosa dos membros inferiores é contraindicada na fratura instável do anel pélvico.",
+   "O decúbito lateral não é a medida indicada e compromete a imobilização da coluna da vítima.",
+   "Aguardar imagem é inaceitável diante de vítima com instabilidade pélvica e sinais de choque.",
+   "Correta: estabilizar com cinta pélvica ou lençol, evitando manipulações repetidas do anel pélvico."
+  ]
+ },
+ {
+  "q": "Qual é a particularidade do trauma no paciente idoso que pode mascarar a gravidade do quadro no atendimento inicial?",
+  "alts": [
+   "A reserva fisiológica ampliada do idoso torna qualquer alteração de sinais vitais um achado precoce",
+   "A dor é sempre mais intensa no idoso, o que leva a superestimar a gravidade real das lesões sofridas",
+   "A pressão arterial do idoso é sempre mais baixa, o que facilita o reconhecimento precoce do choque",
+   "A frequência respiratória do idoso é sempre elevada, o que sinaliza rapidamente qualquer descompensação",
+   "O uso de betabloqueador impede a taquicardia compensatória, mascarando a hipovolemia já instalada nele"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Trauma no idoso",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (avaliação inicial); Diretriz ABRAMET sobre o condutor idoso.",
+  "coment": "O idoso politraumatizado é sistematicamente subtriado, e há várias razões convergentes. O uso de betabloqueadores impede a taquicardia compensatória, de modo que a frequência cardíaca permanece normal apesar da hipovolemia. A hipertensão crônica desloca a faixa basal, e uma pressão de 120 mmHg pode representar hipotensão relativa em quem opera habitualmente em 170. A reserva fisiológica é REDUZIDA, não ampliada, e a descompensação, quando ocorre, é abrupta. Somam-se a osteoporose, que permite fraturas com mecanismos de baixa energia, e o uso de anticoagulantes, que amplia hematomas — sobretudo os intracranianos, que podem instalar-se de forma tardia.",
+  "porAlt": [
+   "A reserva fisiológica do idoso é reduzida, e não ampliada, o que torna a descompensação abrupta.",
+   "A percepção dolorosa pode estar reduzida no idoso, levando a subestimar e não a superestimar.",
+   "O idoso costuma ser hipertenso crônico, o que dificulta o reconhecimento precoce do choque.",
+   "A frequência respiratória não é sistematicamente elevada nem funciona como alerta antecipado.",
+   "Correta: o betabloqueador impede a taquicardia compensatória e mascara a hipovolemia instalada."
+  ]
+ },
+ {
+  "q": "Qual é a conduta correta quanto à imobilização de fratura exposta de membro no atendimento pré-hospitalar?",
+  "alts": [
+   "Reduzir a fratura no local, recolocando o fragmento ósseo exposto no interior da ferida antes de imobilizar",
+   "Lavar abundantemente a ferida com antisséptico concentrado antes de aplicar qualquer imobilização",
+   "Deixar o membro livre até a chegada ao hospital, para não comprometer a avaliação ortopédica posterior",
+   "Cobrir com curativo estéril úmido, imobilizar na posição encontrada e avaliar o pulso distal ao final",
+   "Aplicar torniquete proximal em todas as fraturas expostas, independentemente de haver sangramento ativo"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Fratura exposta",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de extremidades).",
+  "coment": "Na fratura exposta, a conduta pré-hospitalar é cobrir a ferida com curativo estéril, preferencialmente úmido, imobilizar o membro na posição em que foi encontrado — salvo quando há comprometimento vascular distal, situação em que se realiza alinhamento cuidadoso — e reavaliar o pulso, a perfusão, a motricidade e a sensibilidade distais ANTES E DEPOIS da imobilização. Não se deve tentar reduzir a fratura recolocando o fragmento exposto, manobra que introduz contaminação em profundidade. Deixar o membro livre agrava a dor, o sangramento e a lesão de partes moles durante o transporte, e o torniquete é reservado a hemorragia exsanguinante que não cede à compressão.",
+  "porAlt": [
+   "Recolocar o fragmento exposto introduz contaminação em profundidade e é contraindicado no local.",
+   "A lavagem com antisséptico concentrado não é conduta pré-hospitalar e lesa tecidos viáveis.",
+   "Deixar o membro livre agrava dor, sangramento e lesão de partes moles durante o transporte.",
+   "Correta: cobrir com curativo estéril, imobilizar na posição encontrada e reavaliar o pulso distal.",
+   "O torniquete é reservado à hemorragia exsanguinante que não cede à compressão direta aplicada."
+  ]
+ },
+ {
+  "q": "Qual é a razão para reavaliar pulso, perfusão, motricidade e sensibilidade distais antes e depois de imobilizar um membro?",
+  "alts": [
+   "Cumprir exigência burocrática de registro, sem qualquer repercussão sobre a conduta a ser adotada",
+   "Documentar o estado neurovascular prévio e detectar comprometimento causado pela própria imobilização",
+   "Estimar o volume de sangue perdido pela fratura, calculado a partir do tempo de enchimento capilar",
+   "Definir a categoria de triagem da vítima pelo método START aplicado em incidentes com múltiplas vítimas",
+   "Substituir a necessidade de radiografia do membro acometido na chegada da vítima ao hospital receptor"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Avaliação neurovascular distal",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de extremidades, estabilização e transporte).",
+  "coment": "A reavaliação neurovascular tem dupla finalidade prática. Antes da imobilização, documenta o estado inicial — informação essencial para o cirurgião distinguir, depois, entre lesão vascular ou nervosa causada pelo trauma e comprometimento surgido no manejo. Depois da imobilização, detecta o comprometimento produzido pela própria tala ou bandagem, que pode estar apertada demais ou mal posicionada, situação corrigível imediatamente e que, se despercebida, evolui para isquemia. É intervenção de custo zero e alto rendimento, e a mesma lógica se aplica após qualquer mudança de posição da vítima durante o transporte.",
+  "porAlt": [
+   "Não é registro burocrático: o achado altera diretamente a conduta imediata sobre a imobilização.",
+   "Correta: documentar o estado prévio e detectar comprometimento causado pela própria imobilização.",
+   "O enchimento capilar não permite estimar volume de sangue perdido pela fratura do membro.",
+   "A triagem pelo método START usa deambulação, respiração, perfusão e estado neurológico global.",
+   "A avaliação clínica não substitui a radiografia realizada no hospital receptor da vítima."
+  ]
+ },
+ {
+  "q": "Qual é o principal risco do transporte aeromédico de paciente com pneumotórax drenado, e como preveni-lo?",
+  "alts": [
+   "Compressão do gás pela elevação da pressão; previne-se com a retirada do dreno antes da decolagem",
+   "Congelamento do selo d'água do sistema de drenagem; previne-se com aquecimento contínuo do frasco",
+   "Perda da esterilidade do circuito de drenagem; previne-se com a troca do sistema durante o voo",
+   "Nenhum risco específico, pois a cabine pressurizada equivale às condições do nível do mar",
+   "Expansão do gás pela queda de pressão; previne-se com dreno funcionante e restrição da altitude"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "Transporte aeromédico e pneumotórax",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (transporte aeromédico, lei dos gases).",
+  "coment": "Pela lei de Boyle, o gás confinado expande cerca de 25 a 30% na subida ao nível de cruzeiro, com a pressão de cabine caindo ao equivalente de 1.800 a 2.400 metros. Num paciente com pneumotórax, isso significa aumento do volume de ar na cavidade pleural e risco de conversão para pneumotórax hipertensivo em pleno voo. As medidas preventivas são garantir dreno funcionante e pérvio antes da decolagem, jamais clampeá-lo durante o voo, e solicitar à tripulação a restrição da altitude de cabine quando clinicamente indicado. O mesmo raciocínio se aplica aos balonetes de tubo endotraqueal, que devem ser preenchidos com água ou monitorados, e às sondas com balão.",
+  "porAlt": [
+   "A pressão de cabine cai, e não se eleva, e retirar o dreno antes da decolagem é contraindicado.",
+   "O congelamento do selo d'água não é o risco descrito para o transporte aeromédico do paciente.",
+   "A perda de esterilidade não é o risco principal, e a troca do sistema em voo não é a prevenção.",
+   "A cabine é pressurizada apenas parcialmente, mantendo altitude equivalente a milhares de pés.",
+   "Correta: o gás expande com a queda de pressão; previne-se com dreno pérvio e restrição de altitude."
+  ]
+ },
+ {
+  "q": "Por que os balonetes de tubo endotraqueal exigem atenção específica no transporte aeromédico?",
+  "alts": [
+   "O ar do balonete comprime na subida, permitindo escape aéreo e perda da via aérea definitiva obtida",
+   "O ar do balonete expande na subida, elevando muito a pressão sobre a mucosa traqueal do paciente",
+   "O balonete perde a integridade pela baixa umidade da cabine, exigindo troca do tubo durante o voo",
+   "O balonete congela pela queda de temperatura, o que exige aquecimento externo contínuo do circuito",
+   "Não há particularidade: o balonete comporta-se de modo idêntico ao nível do mar e em altitude de voo"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "Balonetes em altitude",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (cavidades aeradas, lei dos gases, transporte aeromédico).",
+  "coment": "O balonete do tubo endotraqueal é uma cavidade fechada preenchida com ar e, portanto, obedece à lei de Boyle como qualquer outra: na subida, com a queda da pressão ambiente, o ar expande e a pressão exercida sobre a mucosa traqueal aumenta, com risco de isquemia da mucosa e lesão. As soluções práticas são monitorar a pressão do balonete com cufômetro durante o voo, ajustando conforme a altitude, ou preenchê-lo com água ou soro, que é praticamente incompressível e não sofre esse efeito. O mesmo cuidado vale para balões de sondas e para dispositivos pneumáticos de imobilização, que enrijecem na subida.",
+  "porAlt": [
+   "O comportamento é o oposto: na subida a pressão ambiente cai e o gás do balonete se expande.",
+   "Correta: o ar do balonete expande na subida, elevando a pressão sobre a mucosa traqueal.",
+   "A baixa umidade não compromete a integridade do balonete a ponto de exigir troca do tubo.",
+   "O congelamento do balonete não é o fenômeno descrito para o transporte aeromédico realizado.",
+   "Há particularidade relevante: a variação de pressão altera o volume do gás dentro do balonete."
+  ]
+ },
+ {
+  "q": "Qual é o significado do conceito de 'tempo de consciência útil' na medicina aeroespacial?",
+  "alts": [
+   "O intervalo entre a decolagem e o nivelamento da aeronave na altitude de cruzeiro estabelecida",
+   "O intervalo máximo de jornada de trabalho permitido ao tripulante antes do descanso obrigatório",
+   "O intervalo entre a exposição à hipóxia e a perda da capacidade de tomar ação corretiva adequada",
+   "O intervalo entre o acionamento do alarme de despressurização e o início da descida de emergência",
+   "O intervalo de validade do certificado médico aeronáutico emitido para o tripulante em atividade"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Tempo de consciência útil",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (hipóxia, descompressão de cabine).",
+  "coment": "O tempo de consciência útil, ou TUC, é o intervalo entre a exposição a uma atmosfera com pressão parcial de oxigênio insuficiente e o momento em que o indivíduo perde a capacidade de tomar ação corretiva — colocar a máscara, iniciar a descida, comunicar-se. Não é o tempo até desmaiar, e sim até deixar de ser funcional, o que ocorre bem antes. O TUC encurta drasticamente com a altitude e é ainda MENOR na descompressão rápida do que na exposição gradual à mesma altitude, porque a queda súbita da pressão inverte o gradiente e retira oxigênio dos pulmões para o ambiente. É esse conceito que fundamenta a regra de colocar a própria máscara antes de auxiliar terceiros.",
+  "porAlt": [
+   "O nivelamento na altitude de cruzeiro não guarda relação com o conceito fisiológico descrito.",
+   "A jornada de trabalho do tripulante é regulada por norma própria e não define esse conceito.",
+   "Correta: é o intervalo até a perda da capacidade de tomar ação corretiva diante da hipóxia.",
+   "O acionamento do alarme não é o marco do conceito, que se refere à capacidade do indivíduo.",
+   "A validade do certificado médico é matéria regulatória, sem relação com o conceito fisiológico."
+  ]
+ },
+ {
+  "q": "Qual é a orientação para o passageiro com infecção de vias aéreas superiores que precisa viajar de avião?",
+  "alts": [
+   "Viajar normalmente, pois a infecção de vias aéreas superiores não interfere na equalização da pressão",
+   "Viajar somente em voos noturnos, quando a variação da pressão de cabine é comprovadamente menor",
+   "Adiar o voo quando possível, pela obstrução tubária que impede a equalização durante a descida",
+   "Usar tampões auriculares durante todo o voo, medida que substitui integralmente a equalização tubária",
+   "Adiar o voo por no mínimo noventa dias após a resolução completa do quadro infeccioso apresentado"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Barotite e infecção respiratória",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (disbarismo); Medicina do Viajante.",
+  "coment": "A tuba auditiva equaliza a pressão do ouvido médio com a do ambiente, e funciona melhor como válvula de saída do que de entrada — razão pela qual a barotite ocorre tipicamente na DESCIDA, quando a pressão ambiente aumenta e o ar precisa entrar no ouvido médio. Na vigência de infecção de vias aéreas superiores, o edema da mucosa obstrui a tuba e impede essa equalização, produzindo retração timpânica, dor intensa, hipoacusia e, nos casos graves, hemorragia ou perfuração. A orientação é adiar o voo quando possível; sendo inevitável, usar descongestionante tópico antes da descida e realizar manobras de equalização, como deglutir, bocejar ou executar a manobra de Valsalva.",
+  "porAlt": [
+   "A infecção interfere sim na equalização, por edema da mucosa que obstrui a tuba auditiva.",
+   "A variação de pressão de cabine não depende do horário do voo realizado pela companhia.",
+   "Correta: adiar quando possível, pela obstrução tubária que impede a equalização na descida.",
+   "Os tampões auriculares não substituem a equalização tubária, que é fenômeno fisiológico interno.",
+   "Não há prazo de noventa dias: a orientação se refere ao período de vigência do quadro agudo."
+  ]
+ },
+ {
+  "q": "Qual é o mecanismo da hipoxemia relativa que o voo comercial impõe ao passageiro com doença pulmonar obstrutiva crônica?",
+  "alts": [
+   "A elevação da pressão inspirada de oxigênio satura em excesso a hemoglobina e produz toxicidade pulmonar",
+   "O ressecamento da mucosa brônquica pela baixa umidade é a causa isolada da hipoxemia observada em voo",
+   "O ruído da cabine induz broncoespasmo reflexo, responsável isolado pela queda da saturação em altitude",
+   "A queda da pressão inspirada de oxigênio desloca o paciente para a porção íngreme da curva da hemoglobina",
+   "A vibração da aeronave desloca secreções para as vias aéreas centrais, causando obstrução mecânica súbita"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "DPOC e voo comercial",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (fisiologia de altitude) e Medicina do Viajante (doenças preexistentes).",
+  "coment": "Na altitude-cabine de 1.800 a 2.400 metros, a pressão barométrica cai e com ela a pressão parcial inspirada de oxigênio. O passageiro hígido, que opera na porção plana da curva de dissociação da hemoglobina, tolera bem essa queda e mantém saturação em torno de 90 a 93%. Já o portador de doença pulmonar obstrutiva crônica com hipoxemia basal opera no JOELHO da curva: ali, uma pequena queda adicional da pressão parcial produz uma queda desproporcionalmente grande da saturação. É por isso que a consulta pré-viagem desses pacientes avalia gasometria ou saturação basal e, quando indicado, prescreve oxigênio suplementar de bordo, solicitado à companhia com antecedência.",
+  "porAlt": [
+   "A pressão inspirada de oxigênio cai, e não se eleva, com a altitude-cabine mantida durante o voo.",
+   "O ressecamento da mucosa é desconfortável, mas não é a causa da hipoxemia relativa em altitude.",
+   "O ruído da cabine não induz broncoespasmo reflexo responsável pela queda de saturação em voo.",
+   "Correta: a queda da pressão inspirada desloca o paciente para a porção íngreme da curva da hemoglobina.",
+   "A vibração não é o mecanismo da hipoxemia relativa descrita para o portador de doença obstrutiva."
+  ]
+ },
+ {
+  "q": "Qual é a orientação correta quanto ao consumo de álcool durante voos de longa duração?",
+  "alts": [
+   "Evitar, pois o efeito diurético agrava a desidratação e a sedação reduz a movimentação do passageiro",
+   "Estimular, pois a vasodilatação induzida melhora o retorno venoso e previne o tromboembolismo venoso",
+   "Indiferente, pois o metabolismo do álcool em altitude é idêntico ao que se observa ao nível do mar",
+   "Estimular, pois o efeito ansiolítico compensa integralmente a hipóxia relativa da cabine pressurizada",
+   "Evitar apenas nas primeiras duas horas de voo, liberando o consumo no restante do trajeto realizado"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Álcool em voos longos",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante ('síndrome da classe econômica', jet lag).",
+  "coment": "O álcool a bordo agrava vários dos problemas próprios do voo longo. Seu efeito diurético soma-se à baixa umidade da cabine, frequentemente inferior a 20%, aprofundando a desidratação e a hemoconcentração — ambas contribuintes do risco tromboembólico. A sedação reduz a movimentação e a deambulação periódica, agravando a estase venosa em quem já está imóvel em posição sentada com compressão poplítea. Somam-se o prejuízo da qualidade do sono, que atrapalha a adaptação ao novo fuso e agrava o jet lag, e a interação com a hipóxia relativa da cabine. As orientações corretas são hidratação adequada, moderação de álcool e cafeína, deambulação periódica e exercícios de panturrilha.",
+  "porAlt": [
+   "Correta: evitar, pois o efeito diurético agrava a desidratação e a sedação reduz a movimentação.",
+   "O álcool agrava o risco tromboembólico em vez de preveni-lo durante os voos de longa duração.",
+   "O efeito não é indiferente: ele se soma à desidratação e à imobilidade próprias do voo longo.",
+   "O efeito ansiolítico não compensa a hipóxia relativa e ainda prejudica a qualidade do sono.",
+   "A restrição não é temporal: o efeito diurético e sedativo persiste ao longo de todo o trajeto."
+  ]
+ },
+ {
+  "q": "Qual é a orientação para o viajante diabético insulinizado que atravessará vários fusos horários?",
+  "alts": [
+   "Suspender a insulina durante todo o trajeto, retomando o esquema habitual apenas após o desembarque",
+   "Manter o esquema pelos horários do local de origem, sem qualquer ajuste ao longo de toda a viagem",
+   "Dobrar a dose no dia do voo, para compensar a alteração metabólica induzida pela altitude de cabine",
+   "Ajustar o esquema com o assistente antes da viagem e monitorizar a glicemia com maior frequência",
+   "Substituir a insulina por antidiabético oral durante a viagem, retomando a insulina após o retorno"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Insulina e travessia de fusos",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças preexistentes, prescrição de medicamentos, jet lag).",
+  "coment": "A travessia de vários fusos encurta ou alonga o dia da viagem, desalinhando o esquema de insulina em relação às refeições e ao ciclo de atividade. A conduta correta é planejar o ajuste COM O MÉDICO ASSISTENTE antes da partida — em geral com adaptação das doses basais e prandiais conforme a direção e a magnitude do deslocamento — e intensificar a automonitorização glicêmica durante e após o trajeto, quando o padrão ainda é imprevisível. Somam-se o transporte da insulina na bagagem de mão, protegida de extremos de temperatura e acompanhada de receita, e a disponibilidade de fonte de carboidrato de absorção rápida. Suspender, dobrar ou substituir o esquema por conta própria são condutas perigosas.",
+  "porAlt": [
+   "Suspender a insulina durante o trajeto expõe o paciente a hiperglicemia grave e cetoacidose.",
+   "Manter os horários de origem sem ajuste desalinha as doses em relação às refeições reais.",
+   "Dobrar a dose no dia do voo é conduta perigosa e sem qualquer fundamento fisiológico descrito.",
+   "Correta: ajustar o esquema com o assistente antes da viagem e intensificar a automonitorização.",
+   "A substituição por antidiabético oral não é possível no diabético dependente de insulina."
+  ]
+ },
+ {
+  "q": "Qual é a razão pela qual a adaptação ao jet lag costuma ser mais difícil em viagens para o LESTE?",
+  "alts": [
+   "Viajar para o leste exige adiantar o relógio biológico, tarefa mais difícil que atrasá-lo para o corpo",
+   "Viajar para o leste exige atrasar o relógio biológico, tarefa mais difícil que adiantá-lo para o corpo",
+   "Viajar para o leste envolve voos sistematicamente mais longos, com maior exposição à hipóxia de cabine",
+   "Viajar para o leste implica atravessar a linha internacional de data, o que duplica o dia da viagem",
+   "Não há diferença descrita: a adaptação é idêntica em qualquer direção de deslocamento entre fusos"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Direção do voo e jet lag",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (jet lag) e Aeroespacial (ciclo circadiano, fusos horários).",
+  "coment": "O ritmo circadiano humano endógeno tem período ligeiramente SUPERIOR a 24 horas, o que torna o organismo naturalmente mais apto a ATRASAR o relógio interno do que a adiantá-lo — é mais fácil dormir e acordar mais tarde do que mais cedo. Viajar para o OESTE alonga o dia e exige atrasar o relógio, movimento a favor da tendência natural; viajar para o LESTE encurta o dia e exige adiantá-lo, contra a tendência. Daí a adaptação ao leste ser tipicamente mais lenta e sintomática. As estratégias de manejo incluem ajuste progressivo dos horários de sono antes da partida, exposição controlada à luz nos horários adequados e cautela com hipnóticos, que podem prolongar a sedação.",
+  "porAlt": [
+   "Correta: viajar para o leste exige adiantar o relógio biológico, o que é mais difícil que atrasá-lo.",
+   "O movimento está invertido: quem atrasa o relógio é quem viaja para o oeste, e isso é mais fácil.",
+   "A duração do voo não é o fator determinante da dificuldade de adaptação circadiana descrita.",
+   "A linha internacional de data altera a contagem do calendário, mas não explica a assimetria descrita.",
+   "Há diferença descrita: a adaptação ao leste é reconhecidamente mais lenta e mais sintomática."
+  ]
+ }
+]
