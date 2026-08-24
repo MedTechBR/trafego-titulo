@@ -4010,7 +4010,7 @@ window.BANCO=[
 "A dirigir com os olhos vendados por um percurso das dimensões de um campo de futebol oficial",
 "A dirigir com os olhos vendados por um percurso equivalente a dez quilômetros de rodovia federal",
 "A dirigir com um dos olhos fechados por um percurso equivalente a uma quadra urbana de esquina",
-"A dirigir normalmente, pois a digitação preditiva compensa a distração visual"
+"A dirigir normalmente, pois a digitação preditiva compensa toda a distração visual gerada"
 ],
 "gab": 1,
 "tema": "grupos",
