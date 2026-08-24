@@ -330,6 +330,534 @@ window.BANCO=[
 ]
 },
 {
+"q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é o valor de perímetro cervical considerado indício objetivo de distúrbio do sono em homens e em mulheres, respectivamente?",
+"alts": [
+"Acima de 40 cm em homens e acima de 35 cm em mulheres, medido na altura da cartilagem cricoide",
+"Acima de 50 cm em homens e acima de 45 cm em mulheres, medido na altura da cartilagem tireoide",
+"Acima de 45 cm em homens e acima de 38 cm em mulheres, medido na altura da cartilagem cricoide",
+"Acima de 38 cm em homens e acima de 45 cm em mulheres, medido na altura da cartilagem cricoide",
+"Acima de 43 cm em homens e acima de 40 cm em mulheres, medido na altura da fúrcula esternal"
+],
+"gab": 2,
+"tema": "sono",
+"sub": "Perímetro cervical no rastreamento de SAOS",
+"base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.3.",
+"coment": "O Anexo X lista quatro parâmetros OBJETIVOS de indício de distúrbio do sono: hipertensão arterial sistêmica com pressão sistólica acima de 130 mmHg e diastólica acima de 85 mmHg; índice de massa corpórea acima de 30 kg/m²; perímetro cervical, MEDIDO NA ALTURA DA CARTILAGEM CRICOIDE, acima de 45 cm em homens e acima de 38 cm em mulheres; e classificação de Mallampati modificado classe 3 ou 4. O parâmetro subjetivo é a Escala de Sonolência de Epworth. O detalhe do ponto anatômico de medida — cartilagem cricoide — é expresso na norma e costuma ser explorado em prova, assim como a diferença de corte entre os sexos, que reflete a distribuição de gordura cervical e o menor calibre da via aérea feminina em valor absoluto.",
+"porAlt": [
+"Os valores estão abaixo dos previstos na norma para os dois sexos no rastreamento de apneia do sono.",
+"Os valores estão acima dos previstos, e o ponto de medida é a cricoide, não a cartilagem tireoide.",
+"Correta: acima de 45 cm em homens e de 38 cm em mulheres, medido na altura da cartilagem cricoide.",
+"Os valores dos dois sexos estão trocados entre si em relação ao que a norma efetivamente prevê.",
+"Os valores não correspondem aos da norma, e o ponto anatômico de referência não é a fúrcula esternal."
+]
+},
+{
+"q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é o valor de pressão arterial considerado indício objetivo de distúrbio do sono no rastreamento de SAOS?",
+"alts": [
+"Sistólica acima de 160 mmHg e diastólica acima de 100 mmHg, os mesmos valores adotados pelo Anexo V",
+"Sistólica acima de 130 mmHg e diastólica acima de 85 mmHg, valores mais baixos que os do Anexo V",
+"Sistólica acima de 140 mmHg e diastólica acima de 90 mmHg, conforme as diretrizes de hipertensão",
+"Sistólica acima de 180 mmHg e diastólica acima de 110 mmHg, valores de inaptidão temporária do Anexo V",
+"Sistólica acima de 120 mmHg e diastólica acima de 80 mmHg, faixa que já define pré-hipertensão arterial"
+],
+"gab": 1,
+"tema": "sono",
+"sub": "Pressão arterial como indício de SAOS",
+"base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.1, e Anexo V, itens 1.2 a 1.4.",
+"coment": "É um ponto que confunde com frequência, porque a mesma Resolução usa dois conjuntos de valores pressóricos com finalidades DIFERENTES. No Anexo V, a pressão arterial define a aptidão em si: abaixo de 160 e 100 mmHg o candidato é apto; entre 160-179 e/ou 100-109 é apto com prazo reduzido; a partir de 180 e/ou 110 é inapto temporário. Já no Anexo X, a pressão serve como MARCADOR DE RISCO para apneia obstrutiva do sono, e o corte é bem mais baixo: sistólica acima de 130 e diastólica acima de 85 mmHg. Um candidato pode, portanto, ser plenamente apto pelo critério pressórico do Anexo V e, ao mesmo tempo, somar esse indício objetivo no rastreamento do Anexo X — o que é justamente o desenho pretendido pela norma.",
+"porAlt": [
+"Esses são os valores do Anexo V que separam aptidão plena de aptidão com prazo reduzido de validade.",
+"Correta: acima de 130 e 85 mmHg, corte mais baixo que o do Anexo V porque tem finalidade de rastreamento.",
+"Esses valores correspondem à definição clínica de hipertensão, mas não ao corte adotado pelo Anexo X.",
+"Esses valores correspondem ao limiar de inaptidão temporária previsto no Anexo V da mesma resolução.",
+"Esses valores não constam da norma como indício objetivo de distúrbio do sono no rastreamento."
+]
+},
+{
+"q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual classificação de Mallampati modificado constitui indício objetivo de distúrbio do sono?",
+"alts": [
+"Classe 3 ou 4, correspondendo às situações de menor visualização das estruturas orofaríngeas",
+"Classe 1 ou 2, correspondendo às situações de maior visualização das estruturas orofaríngeas",
+"Classe 2 ou 3, correspondendo às situações de visualização intermediária das estruturas faríngeas",
+"Classe 4 exclusivamente, correspondendo à situação de nenhuma visualização das estruturas faríngeas",
+"Qualquer classe, desde que associada a índice de massa corpórea superior a trinta quilos por metro"
+],
+"gab": 0,
+"tema": "sono",
+"sub": "Mallampati no rastreamento de SAOS",
+"base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.4, e Anexo XII (índice de Mallampati).",
+"coment": "O índice de Mallampati modificado gradua a visualização das estruturas orofaríngeas com o paciente sentado, boca aberta e língua protruída, sem fonação. Classe 1: visualizam-se palato mole, úvula e pilares. Classe 2: palato mole e úvula. Classe 3: palato mole e apenas a base da úvula. Classe 4: apenas o palato duro. A Resolução considera indício objetivo de distúrbio do sono as CLASSES 3 OU 4 — justamente aquelas em que a orofaringe é mais estreita e, portanto, mais colapsável durante o sono, que é o mecanismo da apneia obstrutiva. Vale lembrar que basta a soma de DOIS indícios objetivos, ou um Epworth alterado, para que o candidato possa, a critério médico, ser aprovado temporariamente ou encaminhado para avaliação específica com polissonografia.",
+"porAlt": [
+"Correta: classes 3 ou 4, em que a orofaringe é mais estreita e, portanto, mais colapsável no sono.",
+"As classes 1 e 2 correspondem à boa visualização das estruturas e não constituem indício de risco.",
+"A classe 2 não integra o critério: a norma considera indício apenas as classes 3 ou 4 do índice.",
+"A norma inclui também a classe 3, e não apenas a classe 4 do índice de Mallampati modificado.",
+"O índice de massa corpórea é parâmetro independente, e não um requisito somado a qualquer classe."
+]
+},
+{
+"q": "Segundo o Anexo XI da Resolução CONTRAN nº 927/2022, como é estruturada a Escala de Sonolência de Epworth?",
+"alts": [
+"Dez situações pontuadas de 0 a 4 conforme a chance de cochilar, somando um total máximo de 40 pontos",
+"Cinco situações pontuadas de 0 a 5 conforme a chance de cochilar, somando um total máximo de 25 pontos",
+"Oito situações pontuadas de 1 a 5 conforme a chance de cochilar, somando um total máximo de 40 pontos",
+"Doze situações pontuadas de 0 a 2 conforme a chance de cochilar, somando um total máximo de 24 pontos",
+"Oito situações pontuadas de 0 a 3 conforme a chance de cochilar, somando um total máximo de 24 pontos"
+],
+"gab": 4,
+"tema": "sono",
+"sub": "Estrutura da Escala de Epworth",
+"base": "Resolução CONTRAN nº 927/2022, Anexo XI.",
+"coment": "A Escala de Sonolência de Epworth pergunta qual é a probabilidade de o examinado cochilar ou adormecer em OITO situações do cotidiano, em contraste com estar simplesmente cansado: sentado e lendo; assistindo à televisão; sentado em lugar público, como sala de espera; como passageiro de trem, carro ou ônibus, andando uma hora sem parar; deitando-se para descansar à tarde; sentado e conversando com alguém; sentado calmamente após o almoço sem álcool; e, se tiver carro, parado por alguns minutos em razão de trânsito intenso. Cada situação recebe de 0 a 3 pontos — 0 nenhuma chance, 1 pequena, 2 moderada, 3 alta —, totalizando no máximo 24 pontos. Note uma inconsistência do próprio texto oficial: o item 1.2.5 do Anexo X fixa o corte como '> 12', enquanto o item 1.3 escreve 'maior ou igual a 12 (> 12)'.",
+"porAlt": [
+"A escala tem oito situações, e não dez, com pontuação individual que vai de zero a três pontos.",
+"A escala tem oito situações, e não cinco, com pontuação individual que vai de zero a três pontos.",
+"A pontuação de cada situação começa em zero, e não em um, totalizando vinte e quatro pontos.",
+"A escala tem oito situações, e não doze, ainda que o total máximo coincidentemente seja o mesmo.",
+"Correta: oito situações, pontuadas de 0 a 3 cada uma, com escore máximo total de vinte e quatro pontos."
+]
+},
+{
+"q": "Motorista de caminhão de 46 anos, em rota noturna, relata episódios de 'apagões' de poucos segundos ao volante, com desvio involuntário da faixa. Qual é a interpretação clínica correta desse relato?",
+"alts": [
+"Crises de ausência típicas, que se manifestam apenas na vigília diurna e exigem eletroencefalograma",
+"Episódios de hipoglicemia, que sempre cursam com desvio de faixa e amnésia dos minutos anteriores",
+"Ataques isquêmicos transitórios, que caracteristicamente ocorrem em jornadas noturnas prolongadas",
+"Fadiga muscular do membro superior, que reduz a precisão do controle direcional durante o trajeto",
+"Microssonos, marcadores de sonolência excessiva e de risco elevado de sinistro, exigindo investigação"
+],
+"gab": 4,
+"tema": "sono",
+"sub": "Microssonos e risco de sinistro",
+"base": "Conteúdo programático do Edital nº 2446 — sono, fadiga e segurança no trânsito; Diretriz ABRAMET 'Sono, fadiga e risco de sinistros de trânsito'.",
+"coment": "Microssonos são intrusões de sono de poucos segundos na vigília, das quais o indivíduo em geral não tem consciência, e que se manifestam ao volante como desvios de faixa, cabeceios, piscadas prolongadas e lapsos de memória do trecho percorrido. São o marcador comportamental mais específico de sonolência excessiva e antecedem o sinistro típico do condutor sonolento: saída de pista ou colisão frontal sem marcas de frenagem, com maior incidência na madrugada e no início da tarde, quando a pressão circadiana para dormir é máxima. Diante desse relato num motorista profissional, a conduta é investigar sonolência excessiva — Escala de Epworth, higiene do sono, jornada de trabalho, uso de substâncias — e rastrear apneia obstrutiva do sono, além de orientar o afastamento da direção até esclarecimento.",
+"porAlt": [
+"Crises de ausência típicas são um quadro epiléptico distinto e não se restringem à vigília diurna.",
+"A hipoglicemia produz sintomas adrenérgicos e neuroglicopênicos variados, não esse padrão descrito.",
+"Ataques isquêmicos transitórios não têm predileção por jornadas noturnas nem esse padrão repetitivo.",
+"A fadiga muscular do membro superior não explica lapsos de consciência com amnésia do trecho.",
+"Correta: são microssonos, marcadores de sonolência excessiva e de risco elevado de sinistro de trânsito."
+]
+},
+{
+"q": "Segundo o conteúdo programático de Medicina do Tráfego Ocupacional, qual é o foco da atuação do especialista junto aos motoristas profissionais?",
+"alts": [
+"Fiscalizar o cumprimento da jornada de trabalho, aplicando as penalidades administrativas cabíveis à empresa",
+"Emitir a Carteira Nacional de Habilitação na categoria correspondente ao veículo utilizado pelo trabalhador",
+"Definir a remuneração variável do motorista conforme os indicadores de sinistralidade apurados pela empresa",
+"Prevenir doenças dos motoristas, incluindo aspectos ergonômicos, e valorizar os exames admissionais e periódicos",
+"Julgar os recursos administrativos contra as multas de trânsito que são aplicadas aos motoristas na jornada"
+],
+"gab": 3,
+"tema": "ocupacional",
+"sub": "Escopo da medicina do tráfego ocupacional",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional.",
+"coment": "O programa delimita três frentes para a medicina do tráfego ocupacional: dominar os procedimentos para cuidar da PREVENÇÃO DAS DOENÇAS dos motoristas profissionais, incluindo os aspectos ergonômicos do exercício da profissão; avaliar as CONDIÇÕES INSEGURAS DO TRÁFEGO; e valorizar os procedimentos médicos por ocasião dos exames ADMISSIONAIS, PERIÓDICOS E DEMISSIONAIS de motoristas. É um campo de interseção entre a medicina do tráfego e a medicina do trabalho, e o perfil de adoecimento do motorista profissional é bem conhecido: dorsalgias e lombalgias pela postura sentada prolongada e pela vibração de corpo inteiro, sobrepeso e síndrome metabólica, apneia obstrutiva do sono, hipertensão, distúrbios do sono por escala irregular, perda auditiva induzida por ruído e transtornos relacionados ao uso de substâncias estimulantes.",
+"porAlt": [
+"A fiscalização de jornada e a aplicação de penalidades não são atribuições do médico do tráfego.",
+"A emissão da habilitação é ato do órgão executivo de trânsito, e não do médico examinador.",
+"A definição de remuneração variável não integra o escopo médico descrito no conteúdo programático.",
+"Correta: prevenir doenças com atenção à ergonomia e valorizar admissionais, periódicos e demissionais.",
+"O julgamento de recursos contra multas é competência de órgãos e juntas administrativas de trânsito."
+]
+},
+{
+"q": "Qual é o principal risco ergonômico ocupacional a que está exposto o motorista profissional durante longas jornadas?",
+"alts": [
+"Levantamento repetido de cargas acima da linha dos ombros, com sobrecarga do manguito rotador",
+"Postura sentada prolongada somada à vibração de corpo inteiro, com sobrecarga da coluna lombar",
+"Exposição a radiação ionizante contínua, com risco cumulativo de neoplasias de origem ocupacional",
+"Trabalho em posição agachada prolongada, com sobrecarga sobre as articulações dos joelhos e dos pés",
+"Movimentos repetitivos de pinça fina com as mãos, com risco elevado de síndrome do túnel do carpo"
+],
+"gab": 1,
+"tema": "ocupacional",
+"sub": "Riscos ergonômicos do motorista",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (aspectos ergonômicos no exercício da profissão).",
+"coment": "O motorista profissional permanece horas na mesma postura sentada, com o tronco levemente fletido e sem variação, ao mesmo tempo em que recebe vibração de corpo inteiro transmitida pelo assento — combinação classicamente associada a lombalgia, degeneração discal precoce e hérnia de disco lombar. Somam-se a postura estática dos membros inferiores sobre os pedais, a torção cervical repetida na checagem de espelhos e pontos cegos, e a limitação de pausas. As medidas de controle envolvem assento com suspensão e ajuste adequado, apoio lombar, regulação do volante e dos pedais, pausas programadas com alongamento e deambulação, e condicionamento físico. É um bom exemplo de como a medicina do tráfego ocupacional atua na prevenção, e não apenas na avaliação de aptidão pontual.",
+"porAlt": [
+"O levantamento de cargas acima dos ombros não é o risco predominante da atividade de conduzir.",
+"Correta: postura sentada prolongada com vibração de corpo inteiro, sobrecarregando a coluna lombar.",
+"Não há exposição ocupacional a radiação ionizante na atividade de condução de veículos automotores.",
+"A posição agachada prolongada não caracteriza a postura de trabalho do motorista profissional.",
+"Os movimentos de pinça fina não são o padrão biomecânico predominante na condução de veículos."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, qual é a relevância epidemiológica dos sinistros de trânsito que justifica a existência da medicina do tráfego preventiva?",
+"alts": [
+"Exclusivamente o número absoluto de óbitos anuais que são registrados nas rodovias federais brasileiras",
+"A distribuição, a morbimortalidade, as sequelas e as incapacidades produzidas pelos sinistros de trânsito",
+"Exclusivamente o custo direto das indenizações pagas pelas seguradoras privadas às vítimas de sinistros",
+"Exclusivamente a taxa de ocupação de leitos de terapia intensiva por vítimas de colisões automobilísticas",
+"Exclusivamente o número de veículos danificados e o custo de reparação de toda a frota nacional circulante"
+],
+"gab": 1,
+"tema": "epidemiologia",
+"sub": "Objeto da epidemiologia dos sinistros",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Preventiva (epidemiologia do sinistro de trânsito).",
+"coment": "O programa abre a medicina do tráfego preventiva exatamente com esse recorte: epidemiologia do sinistro de trânsito, sua distribuição, a morbimortalidade e as SEQUELAS E INCAPACIDADES produzidas. A ênfase nas sequelas e incapacidades é deliberada e frequentemente subestimada: para cada óbito no trânsito há um número muito maior de sobreviventes com incapacidade permanente, e é essa carga que sustenta o argumento de saúde pública da especialidade. Repare também na terminologia adotada pelo edital e pelas diretrizes recentes da ABRAMET — 'sinistro de trânsito' em lugar de 'acidente' —, mudança deliberada porque 'acidente' sugere fatalidade imprevisível, enquanto os eventos de trânsito são majoritariamente previsíveis e evitáveis.",
+"porAlt": [
+"O recorte não se limita aos óbitos, e tampouco apenas àqueles ocorridos em rodovias federais.",
+"Correta: distribuição, morbimortalidade, sequelas e incapacidades produzidas pelos sinistros de trânsito.",
+"O custo das indenizações privadas é apenas um aspecto econômico, e não o objeto epidemiológico.",
+"A ocupação de leitos de terapia intensiva é um indicador parcial dentro de um quadro bem mais amplo.",
+"Os danos materiais à frota não constituem o objeto da epidemiologia dos sinistros no recorte médico."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre alcoolemia, qual é a taxa de mortalidade no trânsito da América Latina em comparação com a média mundial?",
+"alts": [
+"Cerca de 13,0 mortes por 100 mil habitantes, aproximadamente igual à média mundial que foi registrada",
+"Cerca de 6,3 mortes por 100 mil habitantes, aproximadamente metade da média mundial que foi registrada",
+"Cerca de 26,1 mortes por 100 mil habitantes, aproximadamente o dobro da média mundial registrada",
+"Cerca de 50,2 mortes por 100 mil habitantes, aproximadamente o quádruplo da média mundial registrada",
+"Cerca de 2,5 mortes por 100 mil habitantes, muito abaixo da média mundial de mortalidade registrada"
+],
+"gab": 2,
+"tema": "epidemiologia",
+"sub": "Mortalidade no trânsito na América Latina",
+"base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+"coment": "A diretriz registra que a América Latina apresenta panorama especialmente preocupante por ter as maiores taxas de fatalidade no trânsito de todas as regiões do mundo: 26,1 mortes para cada 100 mil habitantes, o DOBRO da média mundial. No mesmo bloco de dados, a diretriz informa que o Brasil tem taxa de 6,3 acidentes para cada 10 mil veículos registrados — repare que a base de cálculo é diferente, acidentes por veículos e não mortes por habitantes, e confundir as duas é um erro fácil de cometer. Os sinistros de trânsito matam mais de 1,2 milhão de pessoas por ano no mundo e ferem de 20 a 50 milhões. Esses números sustentam a tese de que a segurança viária é problema de saúde pública de primeira grandeza, sobretudo nos países de baixa e média renda.",
+"porAlt": [
+"O valor está abaixo do descrito e não corresponde ao dobro da média mundial apontado no texto.",
+"O valor de 6,3 refere-se a acidentes por 10 mil veículos no Brasil, base de cálculo inteiramente distinta.",
+"Correta: 26,1 mortes por 100 mil habitantes, o dobro da média mundial segundo a diretriz médica.",
+"O valor está muito acima do descrito pela diretriz para a região latino-americana como um todo.",
+"O valor está muito abaixo do descrito, e a região tem as maiores taxas de fatalidade do mundo."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre alcoolemia, qual proporção dos condutores brasileiros estudados acreditava que a bebida não influenciava negativamente sua capacidade de dirigir?",
+"alts": [
+"Cerca de 5,2%, praticamente todos os demais reconhecendo com clareza o prejuízo causado pelo álcool",
+"Cerca de 47,0%, valor que corresponde também à prevalência de alcoolemia positiva em vítimas fatais",
+"Cerca de 70,4%, o que demonstraria desconhecimento quase universal dos efeitos do álcool na condução",
+"Cerca de 22,9%, muitos deles confiando em medidas supostamente protetoras como tomar café e ter cautela",
+"Cerca de 90,1%, o que inviabilizaria qualquer estratégia educativa dirigida à população de condutores"
+],
+"gab": 3,
+"tema": "epidemiologia",
+"sub": "Percepção de risco do condutor",
+"base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+"coment": "O estudo brasileiro citado pela diretriz mostrou que 38% dos condutores dirigiam, naquele momento, sob efeito do álcool, sendo 18% com valores de alcoolemia INFERIORES ao estabelecido por lei. E o dado descrito como alarmante: 22,9% dos condutores acreditavam que a bebida não influenciava negativamente sua capacidade de dirigir, sobretudo se adotassem medidas tidas como protetoras, como tomar café e dirigir com mais cautela. Esse achado é central para o trabalho preventivo do especialista, porque revela que parte relevante do problema não é falta de informação sobre a lei, e sim uma crença equivocada sobre a própria capacidade — exatamente o tipo de distorção que o álcool agrava, já que o prejuízo do julgamento e da autocrítica está entre seus primeiros efeitos.",
+"porAlt": [
+"O valor está muito abaixo do encontrado, que revela crença equivocada em parcela expressiva.",
+"O valor de 47,0% corresponde à prevalência de alcoolemia positiva em vítimas fatais de sinistros.",
+"O valor está acima do encontrado no estudo brasileiro reproduzido pela diretriz médica citada.",
+"Correta: 22,9% acreditavam que a bebida não prejudicava sua capacidade de dirigir, segundo o estudo.",
+"O valor está muito acima do encontrado e não corresponde ao dado apresentado pela diretriz."
+]
+},
+{
+"q": "Qual é a orientação correta quanto ao uso de substâncias estimulantes por motoristas profissionais para prolongar a jornada?",
+"alts": [
+"É prática de alto risco, pois a substância mascara a sonolência sem repor o débito de sono acumulado",
+"É prática aceitável em jornadas superiores a doze horas, desde que sob prescrição do médico do trabalho",
+"É prática recomendada em rotas noturnas, por compensar de forma fisiológica a pressão circadiana do sono",
+"É prática indiferente do ponto de vista da segurança, pois o efeito estimulante não altera o tempo de reação",
+"É prática segura quando associada a cafeína, combinação que prolonga o estado de alerta sem efeito rebote"
+],
+"gab": 0,
+"tema": "drogas",
+"sub": "Estimulantes e débito de sono",
+"base": "Conteúdo programático do Edital nº 2446 — drogas ilícitas e trânsito; sono, fadiga e segurança no trânsito.",
+"coment": "O uso de anfetamínicos e congêneres para prolongar a jornada é um problema clássico do transporte rodoviário de cargas, e o erro conceitual que o sustenta é supor que a substância substitui o sono. Ela não repõe o débito de sono acumulado: apenas suprime temporariamente a percepção da sonolência, permitindo que o condutor siga dirigindo com o desempenho já deteriorado e sem o sinal de alarme que o faria parar. Quando o efeito cessa, ocorre o rebote com sonolência intensa, frequentemente em plena estrada. Somam-se os efeitos adversos próprios dos estimulantes — irritabilidade, comportamento agressivo e assunção de risco, taquiarritmias, hipertensão e, no uso crônico, sintomas psicóticos. É esse conjunto que fundamenta o exame toxicológico de larga janela exigido nas categorias C, D e E.",
+"porAlt": [
+"Correta: a substância mascara a sonolência sem repor o débito de sono, e o desempenho segue deteriorado.",
+"A prescrição não torna segura a estratégia de suprimir a sonolência para prolongar a jornada de trabalho.",
+"Não há compensação fisiológica da pressão circadiana: o débito de sono permanece e cobra o seu preço.",
+"O efeito sobre a segurança não é indiferente: há prejuízo do desempenho e assunção de mais risco.",
+"A associação com cafeína não elimina o rebote nem repõe o sono perdido durante a jornada estendida."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, qual é a lógica do aconselhamento ao candidato a motorista realizado pelo médico perito examinador?",
+"alts": [
+"Adequar as orientações às peculiaridades de cada examinado, como motociclista, gestante, idoso e jovem",
+"Aplicar um roteiro padronizado e idêntico a todos os candidatos, garantindo isonomia na orientação prestada",
+"Restringir as orientações aos candidatos considerados inaptos, únicos que efetivamente delas necessitam",
+"Delegar integralmente o aconselhamento ao instrutor do centro de formação de condutores credenciado",
+"Concentrar as orientações exclusivamente nos aspectos legais das infrações e das penalidades aplicáveis"
+],
+"gab": 0,
+"tema": "aptidao",
+"sub": "Aconselhamento individualizado",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Preventiva (procedimentos e aconselhamentos aos candidatos a motorista).",
+"coment": "O programa determina que o especialista domine os procedimentos e aconselhamentos aos candidatos a motorista EM CONSONÂNCIA COM AS PECULIARIDADES DE CADA EXAMINADO, citando expressamente as orientações para condutores motociclista, gestante, idoso, jovem, usuário de álcool, usuário de medicações e outros. Isso desloca o exame de aptidão de um ato meramente classificatório para um encontro clínico com valor preventivo: o mesmo candidato que é aprovado sai com orientações que reduzem seu risco específico. É a razão pela qual o edital dedica diretrizes distintas a cada uma dessas populações — mobilidade da pessoa idosa, gravidez e puerpério, TDAH, medicamentos potencialmente prejudiciais ao condutor — e por que o registro dessas orientações integra a boa prática pericial.",
+"porAlt": [
+"Correta: as orientações devem ser adequadas às peculiaridades de cada examinado avaliado pelo perito.",
+"O roteiro idêntico para todos contraria a orientação de consonância com as peculiaridades de cada um.",
+"O aconselhamento vale para todos os candidatos, e não apenas para os considerados inaptos ao final.",
+"O aconselhamento é atribuição médica e não pode ser integralmente delegado ao instrutor de trânsito.",
+"O aconselhamento previsto é clínico e preventivo, e não restrito aos aspectos legais das penalidades."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital e a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, qual é o critério que deve orientar a avaliação do condutor idoso?",
+"alts": [
+"A idade cronológica isoladamente, com restrição progressiva de categorias a partir dos setenta anos",
+"A presença de qualquer comorbidade crônica, que por si só já indica a restrição da condução veicular",
+"A avaliação funcional individual — visão, cognição e tempo de reação —, e não a idade isoladamente",
+"O número de anos de habilitação acumulados, que se correlaciona diretamente com o risco de sinistro",
+"A opinião dos familiares sobre a segurança do idoso ao volante, soberana na decisão do perito examinador"
+],
+"gab": 2,
+"tema": "grupos",
+"sub": "Avaliação do condutor idoso",
+"base": "Conteúdo programático do Edital nº 2446 — aconselhamento por peculiaridade do examinado; Diretriz ABRAMET 'Mobilidade e Condução Veicular da Pessoa Idosa'.",
+"coment": "O envelhecimento é heterogêneo: há idosos de 80 anos com desempenho preservado e pessoas de 65 com comprometimento importante. Por isso a avaliação do condutor idoso deve ser FUNCIONAL — acuidade e campo visuais, sensibilidade ao contraste e recuperação ao ofuscamento, audição, cognição (atenção dividida, funções executivas, orientação visuoespacial), tempo de reação, amplitude articular cervical para checagem de pontos cegos, força e uso de medicamentos com efeito sedativo. A idade, por si só, apenas define o prazo legal de renovação (3 anos a partir dos 70, pelo art. 147, §2º, III do CTB) e nunca a aptidão. O perito dispõe ainda do §4º do art. 147 para reduzir o prazo diante de doença progressiva, e dos códigos T e U do Anexo XV, que permitem restringir vias rápidas ou a condução após o pôr do sol — soluções intermediárias que preservam a mobilidade sem ignorar o risco.",
+"porAlt": [
+"A idade define apenas o prazo legal de renovação do exame, jamais a aptidão para conduzir veículos.",
+"A presença de comorbidade não implica restrição automática: o que importa é a repercussão funcional.",
+"Correta: o critério é a avaliação funcional individual, e não a idade cronológica tomada isoladamente.",
+"O tempo de habilitação não é parâmetro de avaliação de aptidão previsto em norma ou diretriz.",
+"A opinião de familiares pode ser informação útil, mas a decisão pericial é técnica e do médico."
+]
+},
+{
+"q": "Gestante de 28 semanas pergunta como deve usar o cinto de segurança. Segundo a Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', qual é a orientação correta?",
+"alts": [
+"Faixa subabdominal sobre o ponto mais alto do abdome e faixa diagonal passando por baixo do braço",
+"Faixa subabdominal abaixo do abdome, apoiada sobre as cristas ilíacas, e faixa diagonal entre as mamas",
+"Faixa subabdominal na altura da cicatriz umbilical e faixa diagonal apoiada sobre o ombro esquerdo",
+"Dispensa do uso do cinto a partir do segundo trimestre, pela compressão exercida sobre o útero gravídico",
+"Uso exclusivo da faixa diagonal, mantendo a faixa subabdominal solta para não comprimir o útero gravídico"
+],
+"gab": 1,
+"tema": "grupos",
+"sub": "Cinto de segurança na gravidez",
+"base": "Diretriz ABRAMET/AMB/CFM 'Uso do cinto de segurança durante a gravidez'; conteúdo programático do Edital nº 2446.",
+"coment": "A orientação correta é posicionar a faixa SUBABDOMINAL ABAIXO do abdome gravídico, apoiada sobre as cristas ilíacas e a porção superior das coxas — nunca sobre o ventre —, e a faixa DIAGONAL passando entre as mamas, sobre o esterno, e lateralmente ao abdome. O fundamento é biomecânico: na desaceleração, a faixa apoiada sobre estruturas ósseas distribui a força sem transmiti-la ao útero; posicionada sobre o abdome, concentra a energia diretamente sobre a unidade uteroplacentária, com risco de descolamento prematuro de placenta, que é a principal causa de perda fetal no trauma. Dispensar o cinto é a pior conduta possível: o cinto corretamente posicionado é a medida isolada que mais protege mãe e feto, e a melhor forma de proteger o feto é proteger a mãe. Vale ainda afastar o banco do volante e ajustar a inclinação, mantendo distância do airbag sem desativá-lo.",
+"porAlt": [
+"A faixa subabdominal sobre o abdome transmite a energia ao útero; a diagonal sob o braço é sempre incorreta.",
+"Correta: faixa subabdominal abaixo do abdome, sobre as cristas ilíacas, e diagonal entre as mamas.",
+"A faixa subabdominal na altura da cicatriz umbilical incide sobre o útero gravídico e deve ser evitada.",
+"Dispensar o cinto é a conduta mais perigosa: ele é a medida que mais protege a gestante e o feto.",
+"Usar apenas a faixa diagonal com a subabdominal solta produz o efeito de submarino na desaceleração."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transtorno do espectro autista (TEA) e habilitação, qual é a abordagem correta do médico perito examinador?",
+"alts": [
+"Avaliação individualizada, pois o diagnóstico por si só não determina a inaptidão para conduzir veículos",
+"Inaptidão automática, pois o diagnóstico de transtorno do espectro autista impede a condução segura",
+"Aptidão automática, pois o transtorno do espectro autista não repercute em nenhum domínio funcional",
+"Encaminhamento obrigatório de todos os casos à Junta Especial de Saúde constituída pelo Conselho estadual",
+"Restrição obrigatória à condução diurna em todos os casos, registrada com o código U na habilitação"
+],
+"gab": 0,
+"tema": "psiq",
+"sub": "TEA e habilitação",
+"base": "Diretriz ABRAMET/AMB/CFM 'Transtorno do Espectro Autista — TEA e habilitação para a direção de veículos automotores'; conteúdo programático do Edital nº 2446.",
+"coment": "O TEA é um espectro, e essa palavra carrega a resposta: as apresentações variam da pessoa com suporte mínimo e funcionamento cognitivo preservado até quadros com necessidade de suporte substancial. Nenhum diagnóstico psiquiátrico, isoladamente, determina inaptidão para dirigir — o que a avaliação pericial investiga são as repercussões FUNCIONAIS relevantes para a tarefa: atenção dividida e sustentada, velocidade de processamento, flexibilidade cognitiva diante do imprevisto no trânsito, tolerância a estímulos sensoriais intensos, impulsividade, comorbidades como epilepsia e TDAH, e efeitos sedativos de medicações em uso. O mesmo princípio orienta as diretrizes de esquizofrenia e de TDAH: avaliação individualizada, com informações do médico assistente, estabilidade do quadro, adesão ao tratamento e ausência de sintomas que comprometam o julgamento e o comportamento ao volante.",
+"porAlt": [
+"Correta: a avaliação é individualizada; o diagnóstico por si só não determina a inaptidão para conduzir.",
+"A inaptidão automática por diagnóstico contraria a lógica funcional adotada por todas as diretrizes.",
+"A aptidão automática também é equivocada: há apresentações com repercussão funcional relevante.",
+"A Junta Especial de Saúde é instância de julgamento de recurso, não de avaliação inicial de rotina.",
+"A restrição à condução diurna não é imposta de forma automática pelo diagnóstico de autismo."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre esquizofrenia e direção veicular, quais elementos devem ser considerados na avaliação da aptidão do candidato?",
+"alts": [
+"Apenas o tempo decorrido desde o primeiro surto psicótico registrado no prontuário do paciente avaliado",
+"Apenas a dosagem sérica do antipsicótico em uso, que define objetivamente a estabilidade do quadro",
+"Apenas a ausência de internação psiquiátrica nos últimos cinco anos, critério suficiente para a aptidão",
+"Apenas o resultado do teste psicológico aplicado pelo psicólogo perito examinador durante o processo",
+"Estabilidade do quadro, adesão ao tratamento, efeitos colaterais dos fármacos e parecer do assistente"
+],
+"gab": 4,
+"tema": "psiq",
+"sub": "Esquizofrenia e direção veicular",
+"base": "Diretriz ABRAMET/AMB/CFM 'Esquizofrenia e direção veicular'; conteúdo programático do Edital nº 2446.",
+"coment": "A avaliação do candidato com esquizofrenia combina quatro eixos. Primeiro, a ESTABILIDADE do quadro: ausência de sintomas psicóticos ativos, especialmente delírios persecutórios e alucinações de comando, que podem alterar diretamente o comportamento ao volante. Segundo, a ADESÃO ao tratamento, dado que a interrupção do antipsicótico é o principal preditor de recaída. Terceiro, os EFEITOS COLATERAIS dos fármacos, que na medicina do tráfego pesam tanto quanto a doença: sedação, prejuízo da atenção e do tempo de reação, sintomas extrapiramidais com rigidez e bradicinesia, hipotensão postural e turvação visual por efeito anticolinérgico. Quarto, o PARECER do médico assistente, com relatório informando diagnóstico, tempo de acompanhamento, medicação e estabilidade. Como nas demais diretrizes psiquiátricas, o diagnóstico isolado não determina a inaptidão.",
+"porAlt": [
+"O tempo desde o primeiro surto é um dado entre outros, insuficiente isoladamente para a decisão.",
+"A dosagem sérica do antipsicótico não é o parâmetro que define a estabilidade clínica do quadro.",
+"A ausência de internação recente é dado relevante, mas não é critério suficiente para atestar aptidão.",
+"O teste psicológico integra a avaliação do psicólogo perito, não substituindo a avaliação médica.",
+"Correta: estabilidade, adesão, efeitos colaterais dos fármacos e parecer do médico assistente do paciente."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre riscos do uso do telefone celular na condução, qual é o mecanismo principal pelo qual o dispositivo aumenta o risco de sinistro?",
+"alts": [
+"Distração exclusivamente manual, integralmente resolvida pelo uso de dispositivos do tipo viva-voz",
+"Distração exclusivamente visual, integralmente resolvida pela projeção dos dados no para-brisa",
+"Interferência eletromagnética do aparelho sobre os sistemas eletrônicos embarcados no automóvel",
+"Aumento da temperatura da cabine pelo aparelho, com redução do estado de alerta do próprio condutor",
+"Distração cognitiva, que persiste mesmo no uso de viva-voz por competir pelos recursos atencionais"
+],
+"gab": 4,
+"tema": "grupos",
+"sub": "Uso do celular na condução",
+"base": "Diretriz ABRAMET/AMB/CFM 'Riscos do uso do telefone celular na condução de veículos automotores'.",
+"coment": "O uso do celular ao volante produz três tipos de distração simultâneos: MANUAL (as mãos deixam o volante), VISUAL (os olhos deixam a via) e COGNITIVA (a atenção deixa a tarefa de dirigir). O dado mais importante da diretriz é que a distração cognitiva NÃO é resolvida pelo viva-voz: conversar ao telefone compete pelos mesmos recursos atencionais usados para monitorar o ambiente viário, produzindo o fenômeno da 'cegueira por desatenção' — o condutor olha para o obstáculo e não o percebe. O risco é ainda maior no envio e leitura de mensagens de texto, que somam os três componentes por vários segundos consecutivos, período em que o veículo percorre dezenas de metros. Isso também explica por que a conversa ao telefone difere da conversa com o passageiro: o passageiro percebe o trânsito e modula a conversa, o interlocutor remoto não.",
+"porAlt": [
+"O componente manual é apenas um dos três, e o viva-voz não elimina a competição atencional.",
+"O componente visual também é apenas um dos três, e a projeção no para-brisa não resolve o cognitivo.",
+"Não há interferência eletromagnética relevante sobre os sistemas embarcados como mecanismo de risco.",
+"O aumento de temperatura pelo aparelho não é mecanismo descrito de risco na condução veicular.",
+"Correta: a distração cognitiva persiste no viva-voz porque compete pelos mesmos recursos de atenção."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre sinistros decorrentes de deslocamentos em bicicletas, qual é a principal medida estrutural de proteção do ciclista?",
+"alts": [
+"Uso individual de capacete, medida capaz de neutralizar sozinha o risco em colisões com automóveis",
+"Restrição da circulação de bicicletas ao período diurno, com proibição de trajetos após o pôr do sol",
+"Exigência de habilitação específica para ciclistas, com exame de aptidão física e mental obrigatório",
+"Infraestrutura cicloviária segregada somada à gestão da velocidade dos veículos motorizados na via",
+"Instalação de retrovisores e buzina nas bicicletas, equipamentos que eliminam os pontos cegos do ciclista"
+],
+"gab": 3,
+"tema": "grupos",
+"sub": "Proteção do ciclista",
+"base": "Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas'; Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025).",
+"coment": "A proteção do ciclista é predominantemente ESTRUTURAL: separação física entre bicicleta e tráfego motorizado, por meio de infraestrutura cicloviária segregada, somada à gestão da velocidade nas vias compartilhadas. A razão é biomecânica e está explicitada na diretriz de tolerância humana a impactos: em impactos entre veículos e bicicletas a cerca de 40 km/h há alta probabilidade de traumatismo cranioencefálico grave MESMO com uso de capacete, porque a energia envolvida excede a capacidade de absorção do equipamento. O capacete continua sendo medida individual valiosa — reduz muito a gravidade em quedas e impactos de baixa energia —, mas depositar nele a estratégia de segurança é transferir ao usuário mais vulnerável a responsabilidade por um risco que é criado pela velocidade do tráfego motorizado.",
+"porAlt": [
+"O capacete reduz a gravidade, mas não neutraliza o risco em colisões com veículos motorizados.",
+"A restrição de horário não é a medida estrutural apontada pelas diretrizes para proteger o ciclista.",
+"Não há exigência de habilitação para ciclistas, nem essa seria a principal medida de proteção.",
+"Correta: infraestrutura segregada somada à gestão da velocidade dos veículos motorizados na via.",
+"Retrovisores e buzina são acessórios úteis, mas não constituem a principal medida estrutural."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, quais orientações específicas devem ser dadas ao candidato a condutor MOTOCICLISTA durante o exame de aptidão?",
+"alts": [
+"Orientações idênticas às do condutor de automóvel, pois o risco individual é equivalente entre eles",
+"Orientações adequadas à sua vulnerabilidade, incluindo equipamento de proteção e visibilidade na via",
+"Orientações restritas ao uso do capacete, único equipamento capaz de reduzir a morbimortalidade",
+"Orientações voltadas apenas à manutenção mecânica preventiva do veículo de duas rodas conduzido",
+"Orientações limitadas às regras de ultrapassagem, principal causa isolada de sinistros com motocicletas"
+],
+"gab": 1,
+"tema": "grupos",
+"sub": "Aconselhamento ao motociclista",
+"base": "Conteúdo programático do Edital nº 2446 — orientações para condutores motociclista, gestante, idoso, jovem e outros.",
+"coment": "O motociclista é o usuário vulnerável por excelência do trânsito brasileiro: não dispõe de estrutura deformável ao redor do corpo, e a energia cinética que carrega é a mesma de um automóvel de mesma velocidade por unidade de massa — a diretriz de tolerância a impactos ilustra que, a 60 km/h, um motociclista de 80 kg carrega energia equivalente à queda livre de um edifício de cinco andares. O aconselhamento deve, portanto, ser específico: capacete certificado e afivelado, com viseira íntegra; vestuário de proteção com botas, luvas e proteção de coluna; máxima visibilidade, incluindo posicionamento na faixa e uso de farol; atenção aos pontos cegos dos veículos maiores; cuidado com o corredor entre veículos; e vedação absoluta de álcool antes de conduzir. A ABRAMET publicou obra específica sobre a motocicleta no Brasil do século XXI, listada na bibliografia do edital.",
+"porAlt": [
+"O risco individual do motociclista é muito superior ao do ocupante de automóvel na mesma via.",
+"Correta: orientações adequadas à vulnerabilidade do motociclista, com proteção e visibilidade na via.",
+"O capacete é central, mas o aconselhamento envolve vestuário, visibilidade e comportamento na via.",
+"A manutenção mecânica é relevante, mas não esgota o aconselhamento médico ao candidato motociclista.",
+"As regras de ultrapassagem são apenas um dos aspectos do aconselhamento devido ao motociclista."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, qual é a característica do condutor JOVEM que justifica orientação específica no exame de aptidão?",
+"alts": [
+"A menor acuidade visual em relação a outras faixas etárias, o que exige correção óptica na maioria",
+"A combinação de inexperiência com maior propensão à assunção de risco, sobretudo no período noturno",
+"O tempo de reação mais lento do que o dos condutores de meia-idade nas situações de emergência viária",
+"A menor tolerância fisiológica ao álcool, que produz alcoolemia mais alta para a mesma dose ingerida",
+"A maior prevalência de doenças crônicas incapacitantes nessa faixa, exigindo reavaliação frequente"
+],
+"gab": 1,
+"tema": "grupos",
+"sub": "Condutor jovem e risco",
+"base": "Conteúdo programático do Edital nº 2446 — orientações ao condutor jovem; Diretriz ABRAMET sobre TDAH (dados de sinistralidade noturna em jovens).",
+"coment": "O condutor jovem apresenta desempenho psicomotor e acuidade visual em geral melhores do que os das demais faixas etárias — e, ainda assim, concentra taxas elevadas de sinistralidade. O paradoxo se explica pela combinação entre INEXPERIÊNCIA, que limita a capacidade de antecipar situações de risco, e maior PROPENSÃO À ASSUNÇÃO DE RISCO, associada à maturação mais tardia das funções executivas de controle inibitório. Somam-se fatores contextuais: condução noturna, presença de pares no veículo, consumo de álcool e velocidade acima da adequada. A diretriz da ABRAMET sobre TDAH registra que a maioria dos sinistros fatais envolvendo jovens ocorre entre 21h e 6h — dado que fundamenta o programa escalonado de direção segura, começando pela restrição ao período diurno nos primeiros seis meses de habilitação.",
+"porAlt": [
+"A acuidade visual do jovem costuma ser melhor, e não pior, que a das demais faixas etárias.",
+"Correta: inexperiência somada à maior propensão ao risco, com concentração de sinistros à noite.",
+"O tempo de reação do jovem tende a ser mais rápido, o que torna o paradoxo ainda mais evidente.",
+"Não há menor tolerância fisiológica ao álcool que caracterize essa faixa etária de condutores.",
+"As doenças crônicas incapacitantes são menos prevalentes entre os condutores mais jovens."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transporte de animais de companhia em veículos automotores, qual é a orientação correta?",
+"alts": [
+"Transportar o animal solto no banco traseiro, permitindo que se acomode livremente durante o trajeto",
+"Transportar o animal no colo do passageiro dianteiro, posição que facilita o controle do comportamento",
+"Transportar o animal contido em dispositivo apropriado, evitando que se torne projétil na desaceleração",
+"Transportar o animal no compartimento de bagagem fechado, sem qualquer ventilação durante o trajeto",
+"Dispensar qualquer contenção em trajetos urbanos curtos, restringindo o cuidado apenas às viagens longas"
+],
+"gab": 2,
+"tema": "protecao",
+"sub": "Transporte de animais de companhia",
+"base": "Diretriz ABRAMET 'Transporte de animais de companhia (cães e gatos) em veículos automotores'.",
+"coment": "O fundamento é o mesmo da retenção de ocupantes: na desaceleração abrupta, qualquer massa não contida dentro do habitáculo continua em movimento e se torna projétil, com energia proporcional à massa e ao quadrado da velocidade — um cão de 20 kg a 50 km/h projeta-se com força equivalente a várias vezes seu peso. Os riscos são duplos: lesão do próprio animal e lesão dos ocupantes atingidos, além da distração do condutor por animal solto circulando pelo habitáculo, que é fator de risco por si só. A orientação é usar dispositivos apropriados — caixa de transporte devidamente fixada, cinto adaptado com peitoral, ou grade de separação —, jamais transportar o animal no colo ou com a cabeça para fora da janela, e observar ventilação, hidratação e paradas nas viagens longas.",
+"porAlt": [
+"O animal solto é projetado na desaceleração e ainda distrai o condutor circulando pelo habitáculo.",
+"O transporte no colo é especialmente perigoso, sobretudo no banco dianteiro com airbag ativo.",
+"Correta: contenção em dispositivo apropriado, para que o animal não se torne projétil na desaceleração.",
+"O compartimento fechado sem ventilação expõe o animal a risco térmico e de asfixia no trajeto.",
+"A física do impacto não distingue trajeto curto de longo: a contenção é necessária em ambos."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre recomendações para o transporte seguro de crianças em ambulâncias, qual é o princípio central?",
+"alts": [
+"A criança deve ser transportada no colo do acompanhante, o que reduz o estresse durante o percurso",
+"A criança deve ser transportada solta na maca, para facilitar o acesso rápido da equipe assistencial",
+"A criança deve ser transportada sempre em prancha rígida de adulto, independentemente da idade dela",
+"A criança deve ser transportada com contenção adequada, não sendo aceitável o transporte no colo",
+"A criança deve ser transportada no banco dianteiro da ambulância, sob supervisão direta do condutor"
+],
+"gab": 3,
+"tema": "protecao",
+"sub": "Transporte de crianças em ambulâncias",
+"base": "Diretriz ABRAMET/AMB/CFM 'Recomendações para o transporte seguro de crianças em ambulâncias'.",
+"coment": "A ambulância é um veículo automotor sujeito às mesmas leis da física que qualquer outro — e, por circular frequentemente em velocidade e em regime de urgência, com maior exposição a colisões, o cuidado deve ser ainda maior. O princípio central é que a criança seja transportada com CONTENÇÃO ADEQUADA à sua faixa de massa e idade, em dispositivo compatível fixado à maca ou ao assento, jamais no colo do acompanhante ou da equipe. A diretriz enfrenta uma prática arraigada: transportar o lactente no colo durante a remoção, sob o argumento de conforto ou de facilidade assistencial. Na desaceleração, esse arranjo projeta a criança e ainda a expõe ao esmagamento pelo corpo do adulto. A recomendação vale também para o acompanhante, que deve estar sentado e com cinto, e para a fixação de todo equipamento solto no compartimento.",
+"porAlt": [
+"O colo não protege: na desaceleração a criança é projetada e pode ser esmagada pelo corpo do adulto.",
+"A criança solta na maca é projetada no impacto e não fica protegida durante o transporte de urgência.",
+"A prancha de adulto não é dispositivo de contenção adequado à criança em transporte de rotina.",
+"Correta: contenção adequada à faixa da criança, sendo inaceitável o transporte no colo do acompanhante.",
+"O banco dianteiro é a posição mais perigosa, especialmente em veículo com airbag do passageiro."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, qual é a relevância da avaliação de medicamentos em uso pelo candidato durante o exame de aptidão física e mental?",
+"alts": [
+"Vários fármacos comprometem atenção, tempo de reação e vigília, exigindo orientação e eventual restrição",
+"Nenhum medicamento de uso ambulatorial interfere na condução, o que dispensa essa parte da anamnese",
+"Somente os medicamentos de uso controlado interferem, sendo todos os demais irrelevantes para a condução",
+"Somente os medicamentos de uso injetável interferem, por atingirem concentração plasmática mais alta",
+"Somente os medicamentos prescritos por psiquiatras interferem, exigindo relatório do médico assistente"
+],
+"gab": 0,
+"tema": "drogas",
+"sub": "Medicamentos que interferem na condução",
+"base": "Conteúdo programático do Edital nº 2446 — principais medicamentos que interferem na condução veicular; Diretriz ABRAMET 'Principais medicamentos potencialmente prejudiciais ao condutor de veículos automotores (MPPCVA)'.",
+"coment": "A ABRAMET dedica uma diretriz específica aos medicamentos potencialmente prejudiciais ao condutor (MPPCVA), e a primeira pergunta do questionário do Anexo I da Resolução 927/2022 é justamente sobre uso de remédio. As classes classicamente envolvidas são amplas e incluem fármacos de uso banal: benzodiazepínicos e hipnóticos em geral, anti-histamínicos de primeira geração, antidepressivos sedativos, antipsicóticos, opioides, relaxantes musculares, anticonvulsivantes, alguns anti-hipertensivos no início do tratamento e antidiabéticos com risco de hipoglicemia. O período de maior risco costuma ser o do INÍCIO do tratamento e o das mudanças de dose, antes da tolerância parcial — motivo pelo qual a diretriz dos benzodiazepínicos torna imperativo o diálogo entre médico e paciente exatamente nessa fase. O perito deve orientar, registrar e, quando indicado, reduzir o prazo de validade do exame.",
+"porAlt": [
+"Correta: vários fármacos comprometem atenção, tempo de reação e vigília, exigindo orientação específica.",
+"Medicamentos de uso ambulatorial banal, como anti-histamínicos, interferem de forma relevante.",
+"Não são apenas os controlados: anti-histamínicos e relaxantes musculares comuns também interferem.",
+"A via de administração não define o risco: fármacos orais de uso diário estão entre os mais relevantes.",
+"A interferência não se limita aos psicotrópicos prescritos por psiquiatras, alcançando muitas classes."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, o que caracteriza a responsabilidade legal do médico perito examinador de trânsito?",
+"alts": [
+"Responsabilidade exclusiva pela realização e pelo resultado do exame, com arquivamento da documentação",
+"Responsabilidade compartilhada com a entidade credenciada, que responde solidariamente pelo laudo emitido",
+"Responsabilidade limitada ao preenchimento formal do RENACH, sem alcance sobre o mérito da conclusão",
+"Responsabilidade transferida ao órgão executivo de trânsito assim que o resultado é registrado no sistema",
+"Responsabilidade restrita aos casos de inaptidão declarada, já que a aptidão não gera consequência jurídica"
+],
+"gab": 0,
+"tema": "legislacao",
+"sub": "Responsabilidade do perito examinador",
+"base": "Resolução CONTRAN nº 927/2022, art. 10, caput e §1º; conteúdo programático do Edital nº 2446 (responsabilidade legal do médico perito examinador).",
+"coment": "O art. 10 é categórico: a realização e o resultado do exame de aptidão física e mental e da avaliação psicológica são de EXCLUSIVA RESPONSABILIDADE do médico perito examinador de trânsito e do psicólogo perito examinador de trânsito, respectivamente. O §1º acrescenta que todos os documentos utilizados devem ser arquivados conforme determinação dos Conselhos Federais de Medicina e de Psicologia — o arquivamento é parte do dever profissional e a principal defesa do perito diante de questionamento posterior. A responsabilidade é pessoal e alcança tanto a conclusão de inaptidão quanto a de aptidão: liberar para conduzir quem não reunia condições pode gerar repercussão ética, cível e criminal. Daí a importância de documentar a anamnese, os achados, as orientações prestadas e a fundamentação de eventual redução do prazo de validade.",
+"porAlt": [
+"Correta: a responsabilidade pela realização e pelo resultado é exclusiva do perito, com dever de arquivo.",
+"A norma atribui responsabilidade exclusiva ao perito, e não solidária com a entidade credenciada.",
+"A responsabilidade alcança o mérito da conclusão, e não apenas o preenchimento formal do sistema.",
+"O registro no sistema não transfere ao órgão de trânsito a responsabilidade técnica pelo laudo emitido.",
+"A responsabilidade alcança também a aptidão declarada, cuja liberação indevida gera consequências."
+]
+},
+{
 "q": "Segundo o art. 9º da Resolução CONTRAN nº 927/2022, quais são os resultados possíveis da avaliação psicológica do candidato à habilitação?",
 "alts": [
 "Apto, apto com restrições, inapto temporário e inapto — os mesmos quatro resultados do exame médico",

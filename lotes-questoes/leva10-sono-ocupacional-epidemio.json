@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é o valor de perímetro cervical considerado indício objetivo de distúrbio do sono em homens e em mulheres, respectivamente?",
+  "alts": [
+   "Acima de 40 cm em homens e acima de 35 cm em mulheres, medido na altura da cartilagem cricoide",
+   "Acima de 50 cm em homens e acima de 45 cm em mulheres, medido na altura da cartilagem tireoide",
+   "Acima de 45 cm em homens e acima de 38 cm em mulheres, medido na altura da cartilagem cricoide",
+   "Acima de 38 cm em homens e acima de 45 cm em mulheres, medido na altura da cartilagem cricoide",
+   "Acima de 43 cm em homens e acima de 40 cm em mulheres, medido na altura da fúrcula esternal"
+  ],
+  "gab": 2,
+  "tema": "sono",
+  "sub": "Perímetro cervical no rastreamento de SAOS",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.3.",
+  "coment": "O Anexo X lista quatro parâmetros OBJETIVOS de indício de distúrbio do sono: hipertensão arterial sistêmica com pressão sistólica acima de 130 mmHg e diastólica acima de 85 mmHg; índice de massa corpórea acima de 30 kg/m²; perímetro cervical, MEDIDO NA ALTURA DA CARTILAGEM CRICOIDE, acima de 45 cm em homens e acima de 38 cm em mulheres; e classificação de Mallampati modificado classe 3 ou 4. O parâmetro subjetivo é a Escala de Sonolência de Epworth. O detalhe do ponto anatômico de medida — cartilagem cricoide — é expresso na norma e costuma ser explorado em prova, assim como a diferença de corte entre os sexos, que reflete a distribuição de gordura cervical e o menor calibre da via aérea feminina em valor absoluto.",
+  "porAlt": [
+   "Os valores estão abaixo dos previstos na norma para os dois sexos no rastreamento de apneia do sono.",
+   "Os valores estão acima dos previstos, e o ponto de medida é a cricoide, não a cartilagem tireoide.",
+   "Correta: acima de 45 cm em homens e de 38 cm em mulheres, medido na altura da cartilagem cricoide.",
+   "Os valores dos dois sexos estão trocados entre si em relação ao que a norma efetivamente prevê.",
+   "Os valores não correspondem aos da norma, e o ponto anatômico de referência não é a fúrcula esternal."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é o valor de pressão arterial considerado indício objetivo de distúrbio do sono no rastreamento de SAOS?",
+  "alts": [
+   "Sistólica acima de 160 mmHg e diastólica acima de 100 mmHg, os mesmos valores adotados pelo Anexo V",
+   "Sistólica acima de 130 mmHg e diastólica acima de 85 mmHg, valores mais baixos que os do Anexo V",
+   "Sistólica acima de 140 mmHg e diastólica acima de 90 mmHg, conforme as diretrizes de hipertensão",
+   "Sistólica acima de 180 mmHg e diastólica acima de 110 mmHg, valores de inaptidão temporária do Anexo V",
+   "Sistólica acima de 120 mmHg e diastólica acima de 80 mmHg, faixa que já define pré-hipertensão arterial"
+  ],
+  "gab": 1,
+  "tema": "sono",
+  "sub": "Pressão arterial como indício de SAOS",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.1, e Anexo V, itens 1.2 a 1.4.",
+  "coment": "É um ponto que confunde com frequência, porque a mesma Resolução usa dois conjuntos de valores pressóricos com finalidades DIFERENTES. No Anexo V, a pressão arterial define a aptidão em si: abaixo de 160 e 100 mmHg o candidato é apto; entre 160-179 e/ou 100-109 é apto com prazo reduzido; a partir de 180 e/ou 110 é inapto temporário. Já no Anexo X, a pressão serve como MARCADOR DE RISCO para apneia obstrutiva do sono, e o corte é bem mais baixo: sistólica acima de 130 e diastólica acima de 85 mmHg. Um candidato pode, portanto, ser plenamente apto pelo critério pressórico do Anexo V e, ao mesmo tempo, somar esse indício objetivo no rastreamento do Anexo X — o que é justamente o desenho pretendido pela norma.",
+  "porAlt": [
+   "Esses são os valores do Anexo V que separam aptidão plena de aptidão com prazo reduzido de validade.",
+   "Correta: acima de 130 e 85 mmHg, corte mais baixo que o do Anexo V porque tem finalidade de rastreamento.",
+   "Esses valores correspondem à definição clínica de hipertensão, mas não ao corte adotado pelo Anexo X.",
+   "Esses valores correspondem ao limiar de inaptidão temporária previsto no Anexo V da mesma resolução.",
+   "Esses valores não constam da norma como indício objetivo de distúrbio do sono no rastreamento."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual classificação de Mallampati modificado constitui indício objetivo de distúrbio do sono?",
+  "alts": [
+   "Classe 3 ou 4, correspondendo às situações de menor visualização das estruturas orofaríngeas",
+   "Classe 1 ou 2, correspondendo às situações de maior visualização das estruturas orofaríngeas",
+   "Classe 2 ou 3, correspondendo às situações de visualização intermediária das estruturas faríngeas",
+   "Classe 4 exclusivamente, correspondendo à situação de nenhuma visualização das estruturas faríngeas",
+   "Qualquer classe, desde que associada a índice de massa corpórea superior a trinta quilos por metro"
+  ],
+  "gab": 0,
+  "tema": "sono",
+  "sub": "Mallampati no rastreamento de SAOS",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.4, e Anexo XII (índice de Mallampati).",
+  "coment": "O índice de Mallampati modificado gradua a visualização das estruturas orofaríngeas com o paciente sentado, boca aberta e língua protruída, sem fonação. Classe 1: visualizam-se palato mole, úvula e pilares. Classe 2: palato mole e úvula. Classe 3: palato mole e apenas a base da úvula. Classe 4: apenas o palato duro. A Resolução considera indício objetivo de distúrbio do sono as CLASSES 3 OU 4 — justamente aquelas em que a orofaringe é mais estreita e, portanto, mais colapsável durante o sono, que é o mecanismo da apneia obstrutiva. Vale lembrar que basta a soma de DOIS indícios objetivos, ou um Epworth alterado, para que o candidato possa, a critério médico, ser aprovado temporariamente ou encaminhado para avaliação específica com polissonografia.",
+  "porAlt": [
+   "Correta: classes 3 ou 4, em que a orofaringe é mais estreita e, portanto, mais colapsável no sono.",
+   "As classes 1 e 2 correspondem à boa visualização das estruturas e não constituem indício de risco.",
+   "A classe 2 não integra o critério: a norma considera indício apenas as classes 3 ou 4 do índice.",
+   "A norma inclui também a classe 3, e não apenas a classe 4 do índice de Mallampati modificado.",
+   "O índice de massa corpórea é parâmetro independente, e não um requisito somado a qualquer classe."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo XI da Resolução CONTRAN nº 927/2022, como é estruturada a Escala de Sonolência de Epworth?",
+  "alts": [
+   "Dez situações pontuadas de 0 a 4 conforme a chance de cochilar, somando um total máximo de 40 pontos",
+   "Cinco situações pontuadas de 0 a 5 conforme a chance de cochilar, somando um total máximo de 25 pontos",
+   "Oito situações pontuadas de 1 a 5 conforme a chance de cochilar, somando um total máximo de 40 pontos",
+   "Doze situações pontuadas de 0 a 2 conforme a chance de cochilar, somando um total máximo de 24 pontos",
+   "Oito situações pontuadas de 0 a 3 conforme a chance de cochilar, somando um total máximo de 24 pontos"
+  ],
+  "gab": 4,
+  "tema": "sono",
+  "sub": "Estrutura da Escala de Epworth",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XI.",
+  "coment": "A Escala de Sonolência de Epworth pergunta qual é a probabilidade de o examinado cochilar ou adormecer em OITO situações do cotidiano, em contraste com estar simplesmente cansado: sentado e lendo; assistindo à televisão; sentado em lugar público, como sala de espera; como passageiro de trem, carro ou ônibus, andando uma hora sem parar; deitando-se para descansar à tarde; sentado e conversando com alguém; sentado calmamente após o almoço sem álcool; e, se tiver carro, parado por alguns minutos em razão de trânsito intenso. Cada situação recebe de 0 a 3 pontos — 0 nenhuma chance, 1 pequena, 2 moderada, 3 alta —, totalizando no máximo 24 pontos. Note uma inconsistência do próprio texto oficial: o item 1.2.5 do Anexo X fixa o corte como '> 12', enquanto o item 1.3 escreve 'maior ou igual a 12 (> 12)'.",
+  "porAlt": [
+   "A escala tem oito situações, e não dez, com pontuação individual que vai de zero a três pontos.",
+   "A escala tem oito situações, e não cinco, com pontuação individual que vai de zero a três pontos.",
+   "A pontuação de cada situação começa em zero, e não em um, totalizando vinte e quatro pontos.",
+   "A escala tem oito situações, e não doze, ainda que o total máximo coincidentemente seja o mesmo.",
+   "Correta: oito situações, pontuadas de 0 a 3 cada uma, com escore máximo total de vinte e quatro pontos."
+  ]
+ },
+ {
+  "q": "Motorista de caminhão de 46 anos, em rota noturna, relata episódios de 'apagões' de poucos segundos ao volante, com desvio involuntário da faixa. Qual é a interpretação clínica correta desse relato?",
+  "alts": [
+   "Crises de ausência típicas, que se manifestam apenas na vigília diurna e exigem eletroencefalograma",
+   "Episódios de hipoglicemia, que sempre cursam com desvio de faixa e amnésia dos minutos anteriores",
+   "Ataques isquêmicos transitórios, que caracteristicamente ocorrem em jornadas noturnas prolongadas",
+   "Fadiga muscular do membro superior, que reduz a precisão do controle direcional durante o trajeto",
+   "Microssonos, marcadores de sonolência excessiva e de risco elevado de sinistro, exigindo investigação"
+  ],
+  "gab": 4,
+  "tema": "sono",
+  "sub": "Microssonos e risco de sinistro",
+  "base": "Conteúdo programático do Edital nº 2446 — sono, fadiga e segurança no trânsito; Diretriz ABRAMET 'Sono, fadiga e risco de sinistros de trânsito'.",
+  "coment": "Microssonos são intrusões de sono de poucos segundos na vigília, das quais o indivíduo em geral não tem consciência, e que se manifestam ao volante como desvios de faixa, cabeceios, piscadas prolongadas e lapsos de memória do trecho percorrido. São o marcador comportamental mais específico de sonolência excessiva e antecedem o sinistro típico do condutor sonolento: saída de pista ou colisão frontal sem marcas de frenagem, com maior incidência na madrugada e no início da tarde, quando a pressão circadiana para dormir é máxima. Diante desse relato num motorista profissional, a conduta é investigar sonolência excessiva — Escala de Epworth, higiene do sono, jornada de trabalho, uso de substâncias — e rastrear apneia obstrutiva do sono, além de orientar o afastamento da direção até esclarecimento.",
+  "porAlt": [
+   "Crises de ausência típicas são um quadro epiléptico distinto e não se restringem à vigília diurna.",
+   "A hipoglicemia produz sintomas adrenérgicos e neuroglicopênicos variados, não esse padrão descrito.",
+   "Ataques isquêmicos transitórios não têm predileção por jornadas noturnas nem esse padrão repetitivo.",
+   "A fadiga muscular do membro superior não explica lapsos de consciência com amnésia do trecho.",
+   "Correta: são microssonos, marcadores de sonolência excessiva e de risco elevado de sinistro de trânsito."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Ocupacional, qual é o foco da atuação do especialista junto aos motoristas profissionais?",
+  "alts": [
+   "Fiscalizar o cumprimento da jornada de trabalho, aplicando as penalidades administrativas cabíveis à empresa",
+   "Emitir a Carteira Nacional de Habilitação na categoria correspondente ao veículo utilizado pelo trabalhador",
+   "Definir a remuneração variável do motorista conforme os indicadores de sinistralidade apurados pela empresa",
+   "Prevenir doenças dos motoristas, incluindo aspectos ergonômicos, e valorizar os exames admissionais e periódicos",
+   "Julgar os recursos administrativos contra as multas de trânsito que são aplicadas aos motoristas na jornada"
+  ],
+  "gab": 3,
+  "tema": "ocupacional",
+  "sub": "Escopo da medicina do tráfego ocupacional",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional.",
+  "coment": "O programa delimita três frentes para a medicina do tráfego ocupacional: dominar os procedimentos para cuidar da PREVENÇÃO DAS DOENÇAS dos motoristas profissionais, incluindo os aspectos ergonômicos do exercício da profissão; avaliar as CONDIÇÕES INSEGURAS DO TRÁFEGO; e valorizar os procedimentos médicos por ocasião dos exames ADMISSIONAIS, PERIÓDICOS E DEMISSIONAIS de motoristas. É um campo de interseção entre a medicina do tráfego e a medicina do trabalho, e o perfil de adoecimento do motorista profissional é bem conhecido: dorsalgias e lombalgias pela postura sentada prolongada e pela vibração de corpo inteiro, sobrepeso e síndrome metabólica, apneia obstrutiva do sono, hipertensão, distúrbios do sono por escala irregular, perda auditiva induzida por ruído e transtornos relacionados ao uso de substâncias estimulantes.",
+  "porAlt": [
+   "A fiscalização de jornada e a aplicação de penalidades não são atribuições do médico do tráfego.",
+   "A emissão da habilitação é ato do órgão executivo de trânsito, e não do médico examinador.",
+   "A definição de remuneração variável não integra o escopo médico descrito no conteúdo programático.",
+   "Correta: prevenir doenças com atenção à ergonomia e valorizar admissionais, periódicos e demissionais.",
+   "O julgamento de recursos contra multas é competência de órgãos e juntas administrativas de trânsito."
+  ]
+ },
+ {
+  "q": "Qual é o principal risco ergonômico ocupacional a que está exposto o motorista profissional durante longas jornadas?",
+  "alts": [
+   "Levantamento repetido de cargas acima da linha dos ombros, com sobrecarga do manguito rotador",
+   "Postura sentada prolongada somada à vibração de corpo inteiro, com sobrecarga da coluna lombar",
+   "Exposição a radiação ionizante contínua, com risco cumulativo de neoplasias de origem ocupacional",
+   "Trabalho em posição agachada prolongada, com sobrecarga sobre as articulações dos joelhos e dos pés",
+   "Movimentos repetitivos de pinça fina com as mãos, com risco elevado de síndrome do túnel do carpo"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "Riscos ergonômicos do motorista",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (aspectos ergonômicos no exercício da profissão).",
+  "coment": "O motorista profissional permanece horas na mesma postura sentada, com o tronco levemente fletido e sem variação, ao mesmo tempo em que recebe vibração de corpo inteiro transmitida pelo assento — combinação classicamente associada a lombalgia, degeneração discal precoce e hérnia de disco lombar. Somam-se a postura estática dos membros inferiores sobre os pedais, a torção cervical repetida na checagem de espelhos e pontos cegos, e a limitação de pausas. As medidas de controle envolvem assento com suspensão e ajuste adequado, apoio lombar, regulação do volante e dos pedais, pausas programadas com alongamento e deambulação, e condicionamento físico. É um bom exemplo de como a medicina do tráfego ocupacional atua na prevenção, e não apenas na avaliação de aptidão pontual.",
+  "porAlt": [
+   "O levantamento de cargas acima dos ombros não é o risco predominante da atividade de conduzir.",
+   "Correta: postura sentada prolongada com vibração de corpo inteiro, sobrecarregando a coluna lombar.",
+   "Não há exposição ocupacional a radiação ionizante na atividade de condução de veículos automotores.",
+   "A posição agachada prolongada não caracteriza a postura de trabalho do motorista profissional.",
+   "Os movimentos de pinça fina não são o padrão biomecânico predominante na condução de veículos."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, qual é a relevância epidemiológica dos sinistros de trânsito que justifica a existência da medicina do tráfego preventiva?",
+  "alts": [
+   "Exclusivamente o número absoluto de óbitos anuais que são registrados nas rodovias federais brasileiras",
+   "A distribuição, a morbimortalidade, as sequelas e as incapacidades produzidas pelos sinistros de trânsito",
+   "Exclusivamente o custo direto das indenizações pagas pelas seguradoras privadas às vítimas de sinistros",
+   "Exclusivamente a taxa de ocupação de leitos de terapia intensiva por vítimas de colisões automobilísticas",
+   "Exclusivamente o número de veículos danificados e o custo de reparação de toda a frota nacional circulante"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Objeto da epidemiologia dos sinistros",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Preventiva (epidemiologia do sinistro de trânsito).",
+  "coment": "O programa abre a medicina do tráfego preventiva exatamente com esse recorte: epidemiologia do sinistro de trânsito, sua distribuição, a morbimortalidade e as SEQUELAS E INCAPACIDADES produzidas. A ênfase nas sequelas e incapacidades é deliberada e frequentemente subestimada: para cada óbito no trânsito há um número muito maior de sobreviventes com incapacidade permanente, e é essa carga que sustenta o argumento de saúde pública da especialidade. Repare também na terminologia adotada pelo edital e pelas diretrizes recentes da ABRAMET — 'sinistro de trânsito' em lugar de 'acidente' —, mudança deliberada porque 'acidente' sugere fatalidade imprevisível, enquanto os eventos de trânsito são majoritariamente previsíveis e evitáveis.",
+  "porAlt": [
+   "O recorte não se limita aos óbitos, e tampouco apenas àqueles ocorridos em rodovias federais.",
+   "Correta: distribuição, morbimortalidade, sequelas e incapacidades produzidas pelos sinistros de trânsito.",
+   "O custo das indenizações privadas é apenas um aspecto econômico, e não o objeto epidemiológico.",
+   "A ocupação de leitos de terapia intensiva é um indicador parcial dentro de um quadro bem mais amplo.",
+   "Os danos materiais à frota não constituem o objeto da epidemiologia dos sinistros no recorte médico."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, qual é a taxa de mortalidade no trânsito da América Latina em comparação com a média mundial?",
+  "alts": [
+   "Cerca de 13,0 mortes por 100 mil habitantes, aproximadamente igual à média mundial que foi registrada",
+   "Cerca de 6,3 mortes por 100 mil habitantes, aproximadamente metade da média mundial que foi registrada",
+   "Cerca de 26,1 mortes por 100 mil habitantes, aproximadamente o dobro da média mundial registrada",
+   "Cerca de 50,2 mortes por 100 mil habitantes, aproximadamente o quádruplo da média mundial registrada",
+   "Cerca de 2,5 mortes por 100 mil habitantes, muito abaixo da média mundial de mortalidade registrada"
+  ],
+  "gab": 2,
+  "tema": "epidemiologia",
+  "sub": "Mortalidade no trânsito na América Latina",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+  "coment": "A diretriz registra que a América Latina apresenta panorama especialmente preocupante por ter as maiores taxas de fatalidade no trânsito de todas as regiões do mundo: 26,1 mortes para cada 100 mil habitantes, o DOBRO da média mundial. No mesmo bloco de dados, a diretriz informa que o Brasil tem taxa de 6,3 acidentes para cada 10 mil veículos registrados — repare que a base de cálculo é diferente, acidentes por veículos e não mortes por habitantes, e confundir as duas é um erro fácil de cometer. Os sinistros de trânsito matam mais de 1,2 milhão de pessoas por ano no mundo e ferem de 20 a 50 milhões. Esses números sustentam a tese de que a segurança viária é problema de saúde pública de primeira grandeza, sobretudo nos países de baixa e média renda.",
+  "porAlt": [
+   "O valor está abaixo do descrito e não corresponde ao dobro da média mundial apontado no texto.",
+   "O valor de 6,3 refere-se a acidentes por 10 mil veículos no Brasil, base de cálculo inteiramente distinta.",
+   "Correta: 26,1 mortes por 100 mil habitantes, o dobro da média mundial segundo a diretriz médica.",
+   "O valor está muito acima do descrito pela diretriz para a região latino-americana como um todo.",
+   "O valor está muito abaixo do descrito, e a região tem as maiores taxas de fatalidade do mundo."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, qual proporção dos condutores brasileiros estudados acreditava que a bebida não influenciava negativamente sua capacidade de dirigir?",
+  "alts": [
+   "Cerca de 5,2%, praticamente todos os demais reconhecendo com clareza o prejuízo causado pelo álcool",
+   "Cerca de 47,0%, valor que corresponde também à prevalência de alcoolemia positiva em vítimas fatais",
+   "Cerca de 70,4%, o que demonstraria desconhecimento quase universal dos efeitos do álcool na condução",
+   "Cerca de 22,9%, muitos deles confiando em medidas supostamente protetoras como tomar café e ter cautela",
+   "Cerca de 90,1%, o que inviabilizaria qualquer estratégia educativa dirigida à população de condutores"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Percepção de risco do condutor",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+  "coment": "O estudo brasileiro citado pela diretriz mostrou que 38% dos condutores dirigiam, naquele momento, sob efeito do álcool, sendo 18% com valores de alcoolemia INFERIORES ao estabelecido por lei. E o dado descrito como alarmante: 22,9% dos condutores acreditavam que a bebida não influenciava negativamente sua capacidade de dirigir, sobretudo se adotassem medidas tidas como protetoras, como tomar café e dirigir com mais cautela. Esse achado é central para o trabalho preventivo do especialista, porque revela que parte relevante do problema não é falta de informação sobre a lei, e sim uma crença equivocada sobre a própria capacidade — exatamente o tipo de distorção que o álcool agrava, já que o prejuízo do julgamento e da autocrítica está entre seus primeiros efeitos.",
+  "porAlt": [
+   "O valor está muito abaixo do encontrado, que revela crença equivocada em parcela expressiva.",
+   "O valor de 47,0% corresponde à prevalência de alcoolemia positiva em vítimas fatais de sinistros.",
+   "O valor está acima do encontrado no estudo brasileiro reproduzido pela diretriz médica citada.",
+   "Correta: 22,9% acreditavam que a bebida não prejudicava sua capacidade de dirigir, segundo o estudo.",
+   "O valor está muito acima do encontrado e não corresponde ao dado apresentado pela diretriz."
+  ]
+ },
+ {
+  "q": "Qual é a orientação correta quanto ao uso de substâncias estimulantes por motoristas profissionais para prolongar a jornada?",
+  "alts": [
+   "É prática de alto risco, pois a substância mascara a sonolência sem repor o débito de sono acumulado",
+   "É prática aceitável em jornadas superiores a doze horas, desde que sob prescrição do médico do trabalho",
+   "É prática recomendada em rotas noturnas, por compensar de forma fisiológica a pressão circadiana do sono",
+   "É prática indiferente do ponto de vista da segurança, pois o efeito estimulante não altera o tempo de reação",
+   "É prática segura quando associada a cafeína, combinação que prolonga o estado de alerta sem efeito rebote"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Estimulantes e débito de sono",
+  "base": "Conteúdo programático do Edital nº 2446 — drogas ilícitas e trânsito; sono, fadiga e segurança no trânsito.",
+  "coment": "O uso de anfetamínicos e congêneres para prolongar a jornada é um problema clássico do transporte rodoviário de cargas, e o erro conceitual que o sustenta é supor que a substância substitui o sono. Ela não repõe o débito de sono acumulado: apenas suprime temporariamente a percepção da sonolência, permitindo que o condutor siga dirigindo com o desempenho já deteriorado e sem o sinal de alarme que o faria parar. Quando o efeito cessa, ocorre o rebote com sonolência intensa, frequentemente em plena estrada. Somam-se os efeitos adversos próprios dos estimulantes — irritabilidade, comportamento agressivo e assunção de risco, taquiarritmias, hipertensão e, no uso crônico, sintomas psicóticos. É esse conjunto que fundamenta o exame toxicológico de larga janela exigido nas categorias C, D e E.",
+  "porAlt": [
+   "Correta: a substância mascara a sonolência sem repor o débito de sono, e o desempenho segue deteriorado.",
+   "A prescrição não torna segura a estratégia de suprimir a sonolência para prolongar a jornada de trabalho.",
+   "Não há compensação fisiológica da pressão circadiana: o débito de sono permanece e cobra o seu preço.",
+   "O efeito sobre a segurança não é indiferente: há prejuízo do desempenho e assunção de mais risco.",
+   "A associação com cafeína não elimina o rebote nem repõe o sono perdido durante a jornada estendida."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, qual é a lógica do aconselhamento ao candidato a motorista realizado pelo médico perito examinador?",
+  "alts": [
+   "Adequar as orientações às peculiaridades de cada examinado, como motociclista, gestante, idoso e jovem",
+   "Aplicar um roteiro padronizado e idêntico a todos os candidatos, garantindo isonomia na orientação prestada",
+   "Restringir as orientações aos candidatos considerados inaptos, únicos que efetivamente delas necessitam",
+   "Delegar integralmente o aconselhamento ao instrutor do centro de formação de condutores credenciado",
+   "Concentrar as orientações exclusivamente nos aspectos legais das infrações e das penalidades aplicáveis"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Aconselhamento individualizado",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Preventiva (procedimentos e aconselhamentos aos candidatos a motorista).",
+  "coment": "O programa determina que o especialista domine os procedimentos e aconselhamentos aos candidatos a motorista EM CONSONÂNCIA COM AS PECULIARIDADES DE CADA EXAMINADO, citando expressamente as orientações para condutores motociclista, gestante, idoso, jovem, usuário de álcool, usuário de medicações e outros. Isso desloca o exame de aptidão de um ato meramente classificatório para um encontro clínico com valor preventivo: o mesmo candidato que é aprovado sai com orientações que reduzem seu risco específico. É a razão pela qual o edital dedica diretrizes distintas a cada uma dessas populações — mobilidade da pessoa idosa, gravidez e puerpério, TDAH, medicamentos potencialmente prejudiciais ao condutor — e por que o registro dessas orientações integra a boa prática pericial.",
+  "porAlt": [
+   "Correta: as orientações devem ser adequadas às peculiaridades de cada examinado avaliado pelo perito.",
+   "O roteiro idêntico para todos contraria a orientação de consonância com as peculiaridades de cada um.",
+   "O aconselhamento vale para todos os candidatos, e não apenas para os considerados inaptos ao final.",
+   "O aconselhamento é atribuição médica e não pode ser integralmente delegado ao instrutor de trânsito.",
+   "O aconselhamento previsto é clínico e preventivo, e não restrito aos aspectos legais das penalidades."
+  ]
+ }
+]

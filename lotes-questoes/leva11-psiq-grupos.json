@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Segundo o conteúdo programático do edital e a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, qual é o critério que deve orientar a avaliação do condutor idoso?",
+  "alts": [
+   "A idade cronológica isoladamente, com restrição progressiva de categorias a partir dos setenta anos",
+   "A presença de qualquer comorbidade crônica, que por si só já indica a restrição da condução veicular",
+   "A avaliação funcional individual — visão, cognição e tempo de reação —, e não a idade isoladamente",
+   "O número de anos de habilitação acumulados, que se correlaciona diretamente com o risco de sinistro",
+   "A opinião dos familiares sobre a segurança do idoso ao volante, soberana na decisão do perito examinador"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "Avaliação do condutor idoso",
+  "base": "Conteúdo programático do Edital nº 2446 — aconselhamento por peculiaridade do examinado; Diretriz ABRAMET 'Mobilidade e Condução Veicular da Pessoa Idosa'.",
+  "coment": "O envelhecimento é heterogêneo: há idosos de 80 anos com desempenho preservado e pessoas de 65 com comprometimento importante. Por isso a avaliação do condutor idoso deve ser FUNCIONAL — acuidade e campo visuais, sensibilidade ao contraste e recuperação ao ofuscamento, audição, cognição (atenção dividida, funções executivas, orientação visuoespacial), tempo de reação, amplitude articular cervical para checagem de pontos cegos, força e uso de medicamentos com efeito sedativo. A idade, por si só, apenas define o prazo legal de renovação (3 anos a partir dos 70, pelo art. 147, §2º, III do CTB) e nunca a aptidão. O perito dispõe ainda do §4º do art. 147 para reduzir o prazo diante de doença progressiva, e dos códigos T e U do Anexo XV, que permitem restringir vias rápidas ou a condução após o pôr do sol — soluções intermediárias que preservam a mobilidade sem ignorar o risco.",
+  "porAlt": [
+   "A idade define apenas o prazo legal de renovação do exame, jamais a aptidão para conduzir veículos.",
+   "A presença de comorbidade não implica restrição automática: o que importa é a repercussão funcional.",
+   "Correta: o critério é a avaliação funcional individual, e não a idade cronológica tomada isoladamente.",
+   "O tempo de habilitação não é parâmetro de avaliação de aptidão previsto em norma ou diretriz.",
+   "A opinião de familiares pode ser informação útil, mas a decisão pericial é técnica e do médico."
+  ]
+ },
+ {
+  "q": "Gestante de 28 semanas pergunta como deve usar o cinto de segurança. Segundo a Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', qual é a orientação correta?",
+  "alts": [
+   "Faixa subabdominal sobre o ponto mais alto do abdome e faixa diagonal passando por baixo do braço",
+   "Faixa subabdominal abaixo do abdome, apoiada sobre as cristas ilíacas, e faixa diagonal entre as mamas",
+   "Faixa subabdominal na altura da cicatriz umbilical e faixa diagonal apoiada sobre o ombro esquerdo",
+   "Dispensa do uso do cinto a partir do segundo trimestre, pela compressão exercida sobre o útero gravídico",
+   "Uso exclusivo da faixa diagonal, mantendo a faixa subabdominal solta para não comprimir o útero gravídico"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Cinto de segurança na gravidez",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Uso do cinto de segurança durante a gravidez'; conteúdo programático do Edital nº 2446.",
+  "coment": "A orientação correta é posicionar a faixa SUBABDOMINAL ABAIXO do abdome gravídico, apoiada sobre as cristas ilíacas e a porção superior das coxas — nunca sobre o ventre —, e a faixa DIAGONAL passando entre as mamas, sobre o esterno, e lateralmente ao abdome. O fundamento é biomecânico: na desaceleração, a faixa apoiada sobre estruturas ósseas distribui a força sem transmiti-la ao útero; posicionada sobre o abdome, concentra a energia diretamente sobre a unidade uteroplacentária, com risco de descolamento prematuro de placenta, que é a principal causa de perda fetal no trauma. Dispensar o cinto é a pior conduta possível: o cinto corretamente posicionado é a medida isolada que mais protege mãe e feto, e a melhor forma de proteger o feto é proteger a mãe. Vale ainda afastar o banco do volante e ajustar a inclinação, mantendo distância do airbag sem desativá-lo.",
+  "porAlt": [
+   "A faixa subabdominal sobre o abdome transmite a energia ao útero; a diagonal sob o braço é sempre incorreta.",
+   "Correta: faixa subabdominal abaixo do abdome, sobre as cristas ilíacas, e diagonal entre as mamas.",
+   "A faixa subabdominal na altura da cicatriz umbilical incide sobre o útero gravídico e deve ser evitada.",
+   "Dispensar o cinto é a conduta mais perigosa: ele é a medida que mais protege a gestante e o feto.",
+   "Usar apenas a faixa diagonal com a subabdominal solta produz o efeito de submarino na desaceleração."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre transtorno do espectro autista (TEA) e habilitação, qual é a abordagem correta do médico perito examinador?",
+  "alts": [
+   "Avaliação individualizada, pois o diagnóstico por si só não determina a inaptidão para conduzir veículos",
+   "Inaptidão automática, pois o diagnóstico de transtorno do espectro autista impede a condução segura",
+   "Aptidão automática, pois o transtorno do espectro autista não repercute em nenhum domínio funcional",
+   "Encaminhamento obrigatório de todos os casos à Junta Especial de Saúde constituída pelo Conselho estadual",
+   "Restrição obrigatória à condução diurna em todos os casos, registrada com o código U na habilitação"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "TEA e habilitação",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Transtorno do Espectro Autista — TEA e habilitação para a direção de veículos automotores'; conteúdo programático do Edital nº 2446.",
+  "coment": "O TEA é um espectro, e essa palavra carrega a resposta: as apresentações variam da pessoa com suporte mínimo e funcionamento cognitivo preservado até quadros com necessidade de suporte substancial. Nenhum diagnóstico psiquiátrico, isoladamente, determina inaptidão para dirigir — o que a avaliação pericial investiga são as repercussões FUNCIONAIS relevantes para a tarefa: atenção dividida e sustentada, velocidade de processamento, flexibilidade cognitiva diante do imprevisto no trânsito, tolerância a estímulos sensoriais intensos, impulsividade, comorbidades como epilepsia e TDAH, e efeitos sedativos de medicações em uso. O mesmo princípio orienta as diretrizes de esquizofrenia e de TDAH: avaliação individualizada, com informações do médico assistente, estabilidade do quadro, adesão ao tratamento e ausência de sintomas que comprometam o julgamento e o comportamento ao volante.",
+  "porAlt": [
+   "Correta: a avaliação é individualizada; o diagnóstico por si só não determina a inaptidão para conduzir.",
+   "A inaptidão automática por diagnóstico contraria a lógica funcional adotada por todas as diretrizes.",
+   "A aptidão automática também é equivocada: há apresentações com repercussão funcional relevante.",
+   "A Junta Especial de Saúde é instância de julgamento de recurso, não de avaliação inicial de rotina.",
+   "A restrição à condução diurna não é imposta de forma automática pelo diagnóstico de autismo."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esquizofrenia e direção veicular, quais elementos devem ser considerados na avaliação da aptidão do candidato?",
+  "alts": [
+   "Apenas o tempo decorrido desde o primeiro surto psicótico registrado no prontuário do paciente avaliado",
+   "Apenas a dosagem sérica do antipsicótico em uso, que define objetivamente a estabilidade do quadro",
+   "Apenas a ausência de internação psiquiátrica nos últimos cinco anos, critério suficiente para a aptidão",
+   "Apenas o resultado do teste psicológico aplicado pelo psicólogo perito examinador durante o processo",
+   "Estabilidade do quadro, adesão ao tratamento, efeitos colaterais dos fármacos e parecer do assistente"
+  ],
+  "gab": 4,
+  "tema": "psiq",
+  "sub": "Esquizofrenia e direção veicular",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Esquizofrenia e direção veicular'; conteúdo programático do Edital nº 2446.",
+  "coment": "A avaliação do candidato com esquizofrenia combina quatro eixos. Primeiro, a ESTABILIDADE do quadro: ausência de sintomas psicóticos ativos, especialmente delírios persecutórios e alucinações de comando, que podem alterar diretamente o comportamento ao volante. Segundo, a ADESÃO ao tratamento, dado que a interrupção do antipsicótico é o principal preditor de recaída. Terceiro, os EFEITOS COLATERAIS dos fármacos, que na medicina do tráfego pesam tanto quanto a doença: sedação, prejuízo da atenção e do tempo de reação, sintomas extrapiramidais com rigidez e bradicinesia, hipotensão postural e turvação visual por efeito anticolinérgico. Quarto, o PARECER do médico assistente, com relatório informando diagnóstico, tempo de acompanhamento, medicação e estabilidade. Como nas demais diretrizes psiquiátricas, o diagnóstico isolado não determina a inaptidão.",
+  "porAlt": [
+   "O tempo desde o primeiro surto é um dado entre outros, insuficiente isoladamente para a decisão.",
+   "A dosagem sérica do antipsicótico não é o parâmetro que define a estabilidade clínica do quadro.",
+   "A ausência de internação recente é dado relevante, mas não é critério suficiente para atestar aptidão.",
+   "O teste psicológico integra a avaliação do psicólogo perito, não substituindo a avaliação médica.",
+   "Correta: estabilidade, adesão, efeitos colaterais dos fármacos e parecer do médico assistente do paciente."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre riscos do uso do telefone celular na condução, qual é o mecanismo principal pelo qual o dispositivo aumenta o risco de sinistro?",
+  "alts": [
+   "Distração exclusivamente manual, integralmente resolvida pelo uso de dispositivos do tipo viva-voz",
+   "Distração exclusivamente visual, integralmente resolvida pela projeção dos dados no para-brisa",
+   "Interferência eletromagnética do aparelho sobre os sistemas eletrônicos embarcados no automóvel",
+   "Aumento da temperatura da cabine pelo aparelho, com redução do estado de alerta do próprio condutor",
+   "Distração cognitiva, que persiste mesmo no uso de viva-voz por competir pelos recursos atencionais"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Uso do celular na condução",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Riscos do uso do telefone celular na condução de veículos automotores'.",
+  "coment": "O uso do celular ao volante produz três tipos de distração simultâneos: MANUAL (as mãos deixam o volante), VISUAL (os olhos deixam a via) e COGNITIVA (a atenção deixa a tarefa de dirigir). O dado mais importante da diretriz é que a distração cognitiva NÃO é resolvida pelo viva-voz: conversar ao telefone compete pelos mesmos recursos atencionais usados para monitorar o ambiente viário, produzindo o fenômeno da 'cegueira por desatenção' — o condutor olha para o obstáculo e não o percebe. O risco é ainda maior no envio e leitura de mensagens de texto, que somam os três componentes por vários segundos consecutivos, período em que o veículo percorre dezenas de metros. Isso também explica por que a conversa ao telefone difere da conversa com o passageiro: o passageiro percebe o trânsito e modula a conversa, o interlocutor remoto não.",
+  "porAlt": [
+   "O componente manual é apenas um dos três, e o viva-voz não elimina a competição atencional.",
+   "O componente visual também é apenas um dos três, e a projeção no para-brisa não resolve o cognitivo.",
+   "Não há interferência eletromagnética relevante sobre os sistemas embarcados como mecanismo de risco.",
+   "O aumento de temperatura pelo aparelho não é mecanismo descrito de risco na condução veicular.",
+   "Correta: a distração cognitiva persiste no viva-voz porque compete pelos mesmos recursos de atenção."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre sinistros decorrentes de deslocamentos em bicicletas, qual é a principal medida estrutural de proteção do ciclista?",
+  "alts": [
+   "Uso individual de capacete, medida capaz de neutralizar sozinha o risco em colisões com automóveis",
+   "Restrição da circulação de bicicletas ao período diurno, com proibição de trajetos após o pôr do sol",
+   "Exigência de habilitação específica para ciclistas, com exame de aptidão física e mental obrigatório",
+   "Infraestrutura cicloviária segregada somada à gestão da velocidade dos veículos motorizados na via",
+   "Instalação de retrovisores e buzina nas bicicletas, equipamentos que eliminam os pontos cegos do ciclista"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Proteção do ciclista",
+  "base": "Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas'; Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025).",
+  "coment": "A proteção do ciclista é predominantemente ESTRUTURAL: separação física entre bicicleta e tráfego motorizado, por meio de infraestrutura cicloviária segregada, somada à gestão da velocidade nas vias compartilhadas. A razão é biomecânica e está explicitada na diretriz de tolerância humana a impactos: em impactos entre veículos e bicicletas a cerca de 40 km/h há alta probabilidade de traumatismo cranioencefálico grave MESMO com uso de capacete, porque a energia envolvida excede a capacidade de absorção do equipamento. O capacete continua sendo medida individual valiosa — reduz muito a gravidade em quedas e impactos de baixa energia —, mas depositar nele a estratégia de segurança é transferir ao usuário mais vulnerável a responsabilidade por um risco que é criado pela velocidade do tráfego motorizado.",
+  "porAlt": [
+   "O capacete reduz a gravidade, mas não neutraliza o risco em colisões com veículos motorizados.",
+   "A restrição de horário não é a medida estrutural apontada pelas diretrizes para proteger o ciclista.",
+   "Não há exigência de habilitação para ciclistas, nem essa seria a principal medida de proteção.",
+   "Correta: infraestrutura segregada somada à gestão da velocidade dos veículos motorizados na via.",
+   "Retrovisores e buzina são acessórios úteis, mas não constituem a principal medida estrutural."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, quais orientações específicas devem ser dadas ao candidato a condutor MOTOCICLISTA durante o exame de aptidão?",
+  "alts": [
+   "Orientações idênticas às do condutor de automóvel, pois o risco individual é equivalente entre eles",
+   "Orientações adequadas à sua vulnerabilidade, incluindo equipamento de proteção e visibilidade na via",
+   "Orientações restritas ao uso do capacete, único equipamento capaz de reduzir a morbimortalidade",
+   "Orientações voltadas apenas à manutenção mecânica preventiva do veículo de duas rodas conduzido",
+   "Orientações limitadas às regras de ultrapassagem, principal causa isolada de sinistros com motocicletas"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Aconselhamento ao motociclista",
+  "base": "Conteúdo programático do Edital nº 2446 — orientações para condutores motociclista, gestante, idoso, jovem e outros.",
+  "coment": "O motociclista é o usuário vulnerável por excelência do trânsito brasileiro: não dispõe de estrutura deformável ao redor do corpo, e a energia cinética que carrega é a mesma de um automóvel de mesma velocidade por unidade de massa — a diretriz de tolerância a impactos ilustra que, a 60 km/h, um motociclista de 80 kg carrega energia equivalente à queda livre de um edifício de cinco andares. O aconselhamento deve, portanto, ser específico: capacete certificado e afivelado, com viseira íntegra; vestuário de proteção com botas, luvas e proteção de coluna; máxima visibilidade, incluindo posicionamento na faixa e uso de farol; atenção aos pontos cegos dos veículos maiores; cuidado com o corredor entre veículos; e vedação absoluta de álcool antes de conduzir. A ABRAMET publicou obra específica sobre a motocicleta no Brasil do século XXI, listada na bibliografia do edital.",
+  "porAlt": [
+   "O risco individual do motociclista é muito superior ao do ocupante de automóvel na mesma via.",
+   "Correta: orientações adequadas à vulnerabilidade do motociclista, com proteção e visibilidade na via.",
+   "O capacete é central, mas o aconselhamento envolve vestuário, visibilidade e comportamento na via.",
+   "A manutenção mecânica é relevante, mas não esgota o aconselhamento médico ao candidato motociclista.",
+   "As regras de ultrapassagem são apenas um dos aspectos do aconselhamento devido ao motociclista."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, qual é a característica do condutor JOVEM que justifica orientação específica no exame de aptidão?",
+  "alts": [
+   "A menor acuidade visual em relação a outras faixas etárias, o que exige correção óptica na maioria",
+   "A combinação de inexperiência com maior propensão à assunção de risco, sobretudo no período noturno",
+   "O tempo de reação mais lento do que o dos condutores de meia-idade nas situações de emergência viária",
+   "A menor tolerância fisiológica ao álcool, que produz alcoolemia mais alta para a mesma dose ingerida",
+   "A maior prevalência de doenças crônicas incapacitantes nessa faixa, exigindo reavaliação frequente"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Condutor jovem e risco",
+  "base": "Conteúdo programático do Edital nº 2446 — orientações ao condutor jovem; Diretriz ABRAMET sobre TDAH (dados de sinistralidade noturna em jovens).",
+  "coment": "O condutor jovem apresenta desempenho psicomotor e acuidade visual em geral melhores do que os das demais faixas etárias — e, ainda assim, concentra taxas elevadas de sinistralidade. O paradoxo se explica pela combinação entre INEXPERIÊNCIA, que limita a capacidade de antecipar situações de risco, e maior PROPENSÃO À ASSUNÇÃO DE RISCO, associada à maturação mais tardia das funções executivas de controle inibitório. Somam-se fatores contextuais: condução noturna, presença de pares no veículo, consumo de álcool e velocidade acima da adequada. A diretriz da ABRAMET sobre TDAH registra que a maioria dos sinistros fatais envolvendo jovens ocorre entre 21h e 6h — dado que fundamenta o programa escalonado de direção segura, começando pela restrição ao período diurno nos primeiros seis meses de habilitação.",
+  "porAlt": [
+   "A acuidade visual do jovem costuma ser melhor, e não pior, que a das demais faixas etárias.",
+   "Correta: inexperiência somada à maior propensão ao risco, com concentração de sinistros à noite.",
+   "O tempo de reação do jovem tende a ser mais rápido, o que torna o paradoxo ainda mais evidente.",
+   "Não há menor tolerância fisiológica ao álcool que caracterize essa faixa etária de condutores.",
+   "As doenças crônicas incapacitantes são menos prevalentes entre os condutores mais jovens."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre transporte de animais de companhia em veículos automotores, qual é a orientação correta?",
+  "alts": [
+   "Transportar o animal solto no banco traseiro, permitindo que se acomode livremente durante o trajeto",
+   "Transportar o animal no colo do passageiro dianteiro, posição que facilita o controle do comportamento",
+   "Transportar o animal contido em dispositivo apropriado, evitando que se torne projétil na desaceleração",
+   "Transportar o animal no compartimento de bagagem fechado, sem qualquer ventilação durante o trajeto",
+   "Dispensar qualquer contenção em trajetos urbanos curtos, restringindo o cuidado apenas às viagens longas"
+  ],
+  "gab": 2,
+  "tema": "protecao",
+  "sub": "Transporte de animais de companhia",
+  "base": "Diretriz ABRAMET 'Transporte de animais de companhia (cães e gatos) em veículos automotores'.",
+  "coment": "O fundamento é o mesmo da retenção de ocupantes: na desaceleração abrupta, qualquer massa não contida dentro do habitáculo continua em movimento e se torna projétil, com energia proporcional à massa e ao quadrado da velocidade — um cão de 20 kg a 50 km/h projeta-se com força equivalente a várias vezes seu peso. Os riscos são duplos: lesão do próprio animal e lesão dos ocupantes atingidos, além da distração do condutor por animal solto circulando pelo habitáculo, que é fator de risco por si só. A orientação é usar dispositivos apropriados — caixa de transporte devidamente fixada, cinto adaptado com peitoral, ou grade de separação —, jamais transportar o animal no colo ou com a cabeça para fora da janela, e observar ventilação, hidratação e paradas nas viagens longas.",
+  "porAlt": [
+   "O animal solto é projetado na desaceleração e ainda distrai o condutor circulando pelo habitáculo.",
+   "O transporte no colo é especialmente perigoso, sobretudo no banco dianteiro com airbag ativo.",
+   "Correta: contenção em dispositivo apropriado, para que o animal não se torne projétil na desaceleração.",
+   "O compartimento fechado sem ventilação expõe o animal a risco térmico e de asfixia no trajeto.",
+   "A física do impacto não distingue trajeto curto de longo: a contenção é necessária em ambos."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre recomendações para o transporte seguro de crianças em ambulâncias, qual é o princípio central?",
+  "alts": [
+   "A criança deve ser transportada no colo do acompanhante, o que reduz o estresse durante o percurso",
+   "A criança deve ser transportada solta na maca, para facilitar o acesso rápido da equipe assistencial",
+   "A criança deve ser transportada sempre em prancha rígida de adulto, independentemente da idade dela",
+   "A criança deve ser transportada com contenção adequada, não sendo aceitável o transporte no colo",
+   "A criança deve ser transportada no banco dianteiro da ambulância, sob supervisão direta do condutor"
+  ],
+  "gab": 3,
+  "tema": "protecao",
+  "sub": "Transporte de crianças em ambulâncias",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Recomendações para o transporte seguro de crianças em ambulâncias'.",
+  "coment": "A ambulância é um veículo automotor sujeito às mesmas leis da física que qualquer outro — e, por circular frequentemente em velocidade e em regime de urgência, com maior exposição a colisões, o cuidado deve ser ainda maior. O princípio central é que a criança seja transportada com CONTENÇÃO ADEQUADA à sua faixa de massa e idade, em dispositivo compatível fixado à maca ou ao assento, jamais no colo do acompanhante ou da equipe. A diretriz enfrenta uma prática arraigada: transportar o lactente no colo durante a remoção, sob o argumento de conforto ou de facilidade assistencial. Na desaceleração, esse arranjo projeta a criança e ainda a expõe ao esmagamento pelo corpo do adulto. A recomendação vale também para o acompanhante, que deve estar sentado e com cinto, e para a fixação de todo equipamento solto no compartimento.",
+  "porAlt": [
+   "O colo não protege: na desaceleração a criança é projetada e pode ser esmagada pelo corpo do adulto.",
+   "A criança solta na maca é projetada no impacto e não fica protegida durante o transporte de urgência.",
+   "A prancha de adulto não é dispositivo de contenção adequado à criança em transporte de rotina.",
+   "Correta: contenção adequada à faixa da criança, sendo inaceitável o transporte no colo do acompanhante.",
+   "O banco dianteiro é a posição mais perigosa, especialmente em veículo com airbag do passageiro."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, qual é a relevância da avaliação de medicamentos em uso pelo candidato durante o exame de aptidão física e mental?",
+  "alts": [
+   "Vários fármacos comprometem atenção, tempo de reação e vigília, exigindo orientação e eventual restrição",
+   "Nenhum medicamento de uso ambulatorial interfere na condução, o que dispensa essa parte da anamnese",
+   "Somente os medicamentos de uso controlado interferem, sendo todos os demais irrelevantes para a condução",
+   "Somente os medicamentos de uso injetável interferem, por atingirem concentração plasmática mais alta",
+   "Somente os medicamentos prescritos por psiquiatras interferem, exigindo relatório do médico assistente"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Medicamentos que interferem na condução",
+  "base": "Conteúdo programático do Edital nº 2446 — principais medicamentos que interferem na condução veicular; Diretriz ABRAMET 'Principais medicamentos potencialmente prejudiciais ao condutor de veículos automotores (MPPCVA)'.",
+  "coment": "A ABRAMET dedica uma diretriz específica aos medicamentos potencialmente prejudiciais ao condutor (MPPCVA), e a primeira pergunta do questionário do Anexo I da Resolução 927/2022 é justamente sobre uso de remédio. As classes classicamente envolvidas são amplas e incluem fármacos de uso banal: benzodiazepínicos e hipnóticos em geral, anti-histamínicos de primeira geração, antidepressivos sedativos, antipsicóticos, opioides, relaxantes musculares, anticonvulsivantes, alguns anti-hipertensivos no início do tratamento e antidiabéticos com risco de hipoglicemia. O período de maior risco costuma ser o do INÍCIO do tratamento e o das mudanças de dose, antes da tolerância parcial — motivo pelo qual a diretriz dos benzodiazepínicos torna imperativo o diálogo entre médico e paciente exatamente nessa fase. O perito deve orientar, registrar e, quando indicado, reduzir o prazo de validade do exame.",
+  "porAlt": [
+   "Correta: vários fármacos comprometem atenção, tempo de reação e vigília, exigindo orientação específica.",
+   "Medicamentos de uso ambulatorial banal, como anti-histamínicos, interferem de forma relevante.",
+   "Não são apenas os controlados: anti-histamínicos e relaxantes musculares comuns também interferem.",
+   "A via de administração não define o risco: fármacos orais de uso diário estão entre os mais relevantes.",
+   "A interferência não se limita aos psicotrópicos prescritos por psiquiatras, alcançando muitas classes."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, o que caracteriza a responsabilidade legal do médico perito examinador de trânsito?",
+  "alts": [
+   "Responsabilidade exclusiva pela realização e pelo resultado do exame, com arquivamento da documentação",
+   "Responsabilidade compartilhada com a entidade credenciada, que responde solidariamente pelo laudo emitido",
+   "Responsabilidade limitada ao preenchimento formal do RENACH, sem alcance sobre o mérito da conclusão",
+   "Responsabilidade transferida ao órgão executivo de trânsito assim que o resultado é registrado no sistema",
+   "Responsabilidade restrita aos casos de inaptidão declarada, já que a aptidão não gera consequência jurídica"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Responsabilidade do perito examinador",
+  "base": "Resolução CONTRAN nº 927/2022, art. 10, caput e §1º; conteúdo programático do Edital nº 2446 (responsabilidade legal do médico perito examinador).",
+  "coment": "O art. 10 é categórico: a realização e o resultado do exame de aptidão física e mental e da avaliação psicológica são de EXCLUSIVA RESPONSABILIDADE do médico perito examinador de trânsito e do psicólogo perito examinador de trânsito, respectivamente. O §1º acrescenta que todos os documentos utilizados devem ser arquivados conforme determinação dos Conselhos Federais de Medicina e de Psicologia — o arquivamento é parte do dever profissional e a principal defesa do perito diante de questionamento posterior. A responsabilidade é pessoal e alcança tanto a conclusão de inaptidão quanto a de aptidão: liberar para conduzir quem não reunia condições pode gerar repercussão ética, cível e criminal. Daí a importância de documentar a anamnese, os achados, as orientações prestadas e a fundamentação de eventual redução do prazo de validade.",
+  "porAlt": [
+   "Correta: a responsabilidade pela realização e pelo resultado é exclusiva do perito, com dever de arquivo.",
+   "A norma atribui responsabilidade exclusiva ao perito, e não solidária com a entidade credenciada.",
+   "A responsabilidade alcança o mérito da conclusão, e não apenas o preenchimento formal do sistema.",
+   "O registro no sistema não transfere ao órgão de trânsito a responsabilidade técnica pelo laudo emitido.",
+   "A responsabilidade alcança também a aptidão declarada, cuja liberação indevida gera consequências."
+  ]
+ }
+]
