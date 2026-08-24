@@ -6206,7 +6206,7 @@ window.BANCO=[
 {
 "q": "Qual é o risco ocupacional auditivo específico do motorista profissional, e como preveni-lo?",
 "alts": [
-"Perda condutiva por variação da pressão da cabine; previne-se com manobras de equalização periódicas",
+"Perda condutiva por variação da pressão da cabine; previne-se com manobras de equalização frequentes",
 "Perda súbita idiopática por vibração do assento; previne-se com uso contínuo de protetor auricular no volante",
 "Otite externa de repetição pelo uso de fone; previne-se com a proibição de qualquer dispositivo auricular",
 "Perda induzida por ruído do motor e da estrada; previne-se com isolamento acústico e audiometrias seriadas",
