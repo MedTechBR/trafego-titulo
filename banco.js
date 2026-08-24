@@ -7304,6 +7304,336 @@ window.BANCO=[
 ]
 },
 {
+"q": "Qual é o risco clínico específico da queda ao mar durante a navegação de recreio?",
+"alts": [
+"Risco exclusivo de traumatismo cranioencefálico pelo impacto contra o casco da própria embarcação",
+"Risco exclusivo de intoxicação hídrica pela ingestão involuntária de grande volume de água salgada",
+"Combinação de hipotermia com afogamento, agravada pela dificuldade do resgate feito em mar aberto",
+"Risco exclusivo de queimadura solar, agravada pela reflexão da luz sobre a superfície da água do mar",
+"Nenhum risco específico descrito, desde que o navegante saiba nadar e esteja consciente no momento"
+],
+"gab": 2,
+"tema": "aquaviaria",
+"sub": "Queda ao mar",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (emergências e resgates marítimos).",
+"coment": "A queda ao mar reúne riscos que se potencializam. A HIPOTERMIA se instala rapidamente, porque a água conduz calor cerca de 25 vezes mais que o ar — mesmo em águas tropicais, a imersão prolongada leva à queda da temperatura central, com perda de destreza manual nos primeiros minutos e depois rebaixamento de consciência. O AFOGAMENTO decorre da própria imersão e é agravado pelo choque térmico inicial, que provoca inspiração involuntária. Somam-se a dificuldade de localizar e resgatar a pessoa em mar aberto, sobretudo com ondulação, e o efeito do álcool e de antieméticos sedativos, frequentes no contexto do lazer náutico. Daí a importância do colete salva-vidas.",
+"porAlt": [
+"O traumatismo é possível, mas não é o risco específico e principal descrito para a queda ao mar.",
+"A intoxicação hídrica não é o risco descrito, e a água salgada agrava, não dilui, a desidratação.",
+"Correta: hipotermia somada a afogamento, agravadas pela dificuldade de resgate em mar aberto.",
+"A queimadura solar é risco do ambiente de bordo, e não o específico da queda ao mar aberto.",
+"Há risco específico relevante mesmo para quem sabe nadar e está consciente no momento da queda."
+]
+},
+{
+"q": "Por que a hipotermia por imersão se instala mais rapidamente do que a exposição ao ar na mesma temperatura?",
+"alts": [
+"A água impede a evaporação do suor, único mecanismo de perda de calor disponível ao organismo",
+"A água conduz calor muito mais que o ar, o que acelera a perda térmica por condução do corpo",
+"A água eleva o metabolismo basal, o que aumenta o consumo de oxigênio e reduz a temperatura",
+"A água comprime a caixa torácica, o que reduz a ventilação e a produção metabólica de calor",
+"Não há diferença: a perda de calor por imersão é idêntica à observada na exposição ao ar ambiente"
+],
+"gab": 1,
+"tema": "aquaviaria",
+"sub": "Física da hipotermia por imersão",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (proteção quanto às intempéries, emergências marítimas).",
+"coment": "A condutividade térmica da água é muito superior à do ar — cerca de 25 vezes maior —, de modo que a perda de calor por CONDUÇÃO se torna dominante durante a imersão. O resultado prático é que uma temperatura de água que pareceria confortável ao ar, como 20 °C, produz hipotermia progressiva em imersão prolongada. A sequência clínica começa com tremores e perda de destreza manual fina, o que compromete a capacidade de se agarrar a um objeto flutuante ou de vestir um colete; evolui para confusão, apatia e perda de coordenação; e culmina em rebaixamento de consciência com risco de afogamento. Roupa molhada em ambiente ventoso reproduz o mesmo mecanismo a bordo.",
+"porAlt": [
+"A evaporação do suor é apenas um dos mecanismos de troca de calor, e não o único disponível.",
+"Correta: a água conduz calor muito mais que o ar, acelerando a perda térmica por condução.",
+"A imersão em água fria não eleva o metabolismo basal a ponto de causar a hipotermia descrita.",
+"A compressão torácica pela água não é o mecanismo da perda de calor durante a imersão prolongada.",
+"Há diferença expressiva: a perda de calor por imersão é muito mais rápida que a exposição ao ar."
+]
+},
+{
+"q": "Qual é a orientação médica sobre o uso do colete salva-vidas na navegação de recreio?",
+"alts": [
+"Uso permanente, pois a queda ao mar é súbita e não permite vestir o equipamento após ocorrer",
+"Uso apenas em mar agitado, sendo dispensável quando as condições de navegação estiverem calmas",
+"Uso apenas por quem não sabe nadar, dispensado para navegantes com boa capacidade natatória",
+"Uso apenas em travessias longas, sendo desnecessário em deslocamentos costeiros de curta duração",
+"Uso apenas por crianças a bordo, ficando os adultos dispensados do equipamento em qualquer situação"
+],
+"gab": 0,
+"tema": "aquaviaria",
+"sub": "Colete salva-vidas",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (emergências e resgates marítimos).",
+"coment": "O fundamento é o mesmo do cinto de segurança no automóvel: o evento é súbito e não dá tempo de adotar a proteção depois que ele começa. A queda ao mar ocorre tipicamente por perda de equilíbrio no convés molhado, por manobra brusca ou por ondulação inesperada, e a pessoa entra na água sem preparo e frequentemente com choque térmico inicial. Saber nadar não substitui o colete: a hipotermia compromete a destreza e a força em minutos, e a pessoa consciente pode perder a capacidade de se manter à tona antes do resgate. O colete também mantém a via aérea acima da linha d'água em caso de perda de consciência e facilita a localização visual pela equipe de resgate.",
+"porAlt": [
+"Correta: uso permanente, pois a queda ao mar é súbita e não permite vestir o colete depois.",
+"O mar calmo não afasta a possibilidade de queda por perda de equilíbrio no convés molhado.",
+"Saber nadar não substitui o colete: a hipotermia compromete destreza e força em poucos minutos.",
+"A duração do deslocamento não altera a natureza súbita do evento nem a necessidade do colete.",
+"O adulto está igualmente exposto ao risco de queda ao mar e de hipotermia durante a imersão."
+]
+},
+{
+"q": "Qual é a particularidade do atendimento médico a bordo de embarcação de recreio, comparado ao ambiente terrestre?",
+"alts": [
+"Recursos idênticos aos terrestres, já que toda embarcação de recreio dispõe de enfermaria equipada",
+"Recursos superiores aos terrestres, pois a proximidade do mar facilita a chegada de equipes de resgate",
+"Recursos irrelevantes, pois nenhuma intercorrência clínica ocorre durante a navegação amadora",
+"Recursos regulados por norma específica que exige médico a bordo em qualquer embarcação de recreio",
+"Recursos limitados, instabilidade do convés e demora do socorro exigem mais preparo e improviso"
+],
+"gab": 4,
+"tema": "aquaviaria",
+"sub": "Atendimento médico a bordo",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (atendimento médico nas embarcações).",
+"coment": "O atendimento a bordo reúne três limitações que o distinguem do ambiente terrestre. Os RECURSOS são limitados ao que foi embarcado, geralmente um kit básico de primeiros socorros, sem oxigênio, medicação injetável ou monitorização. A INSTABILIDADE do convés dificulta qualquer procedimento, da compressão torácica ao curativo, e ainda expõe o socorrista ao risco de queda. E o SOCORRO é demorado: o resgate marítimo depende de comunicação, de disponibilidade de meio aéreo ou naval e de condições de mar. Some-se a cinetose, que pode incapacitar quem prestaria o socorro. Daí a ênfase da diretriz em prevenção, avaliação prévia de condições clínicas instáveis e planejamento de comunicação.",
+"porAlt": [
+"Embarcações de recreio não dispõem de enfermaria equipada nem de recursos equivalentes aos terrestres.",
+"A proximidade do mar não facilita o resgate: ela o dificulta, por depender de meio naval ou aéreo.",
+"Intercorrências clínicas relevantes ocorrem sim durante a navegação amadora de esporte e recreio.",
+"Não há exigência de médico a bordo em embarcações de esporte e recreio de caráter não profissional.",
+"Correta: recursos limitados, convés instável e socorro demorado exigem mais preparo e improviso."
+]
+},
+{
+"q": "Qual é a orientação sobre exposição solar para o navegante, do ponto de vista da medicina do tráfego aquaviária?",
+"alts": [
+"Proteção dispensável, pois a brisa marítima reduz a intensidade da radiação ultravioleta incidente",
+"Proteção necessária apenas ao meio-dia, sendo dispensável nos demais horários de navegação diurna",
+"Proteção necessária apenas para pessoas de pele clara, dispensada para os demais fototipos cutâneos",
+"Proteção necessária apenas em dias sem nuvens, dispensada com o céu parcialmente encoberto",
+"Proteção reforçada, pois a reflexão na água amplia a dose de radiação recebida pelo navegante"
+],
+"gab": 4,
+"tema": "aquaviaria",
+"sub": "Exposição solar no mar",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (proteção quanto às intempéries).",
+"coment": "A exposição solar no mar é mais intensa do que a mesma exposição em terra por dois motivos que se somam: a REFLEXÃO na superfície da água amplia a dose recebida, atingindo inclusive regiões normalmente protegidas pela sombra, como a face inferior do queixo e do nariz; e a brisa marítima produz sensação de frescor que MASCARA a percepção do calor e retarda a busca por sombra. Os riscos incluem queimadura solar, insolação, desidratação e lesões oculares agudas — fotoceratite — e crônicas. As medidas são protetor solar reaplicado, vestuário adequado com manga longa, chapéu de aba larga e óculos com proteção ultravioleta, além de hidratação regular e sombra a bordo.",
+"porAlt": [
+"A brisa não reduz a radiação: ela mascara a sensação de calor e retarda a proteção adotada.",
+"A radiação ultravioleta é relevante ao longo de boa parte do dia, e não apenas no horário do meio-dia.",
+"Todos os fototipos se beneficiam da proteção, ainda que o risco absoluto varie entre as pessoas.",
+"A nebulosidade parcial reduz pouco a radiação ultravioleta que efetivamente atinge a superfície.",
+"Correta: proteção reforçada, pois a reflexão na água amplia a dose de radiação recebida a bordo."
+]
+},
+{
+"q": "Qual é a orientação sobre hidratação para o viajante em destinos de clima quente e úmido?",
+"alts": [
+"Hidratação apenas quando surgir a sede, sinal fisiológico precoce e confiável da necessidade real",
+"Restrição hídrica deliberada, para reduzir a sudorese e a consequente perda de eletrólitos pelo suor",
+"Hidratação exclusivamente com bebidas alcoólicas geladas, que repõem líquidos e aliviam o calor",
+"Hidratação regular e antecipada, sem esperar a sede, que é sinal tardio de perda hídrica instalada",
+"Hidratação exclusivamente ao final do dia, concentrando toda a ingestão em um único período noturno"
+],
+"gab": 3,
+"tema": "viajante",
+"sub": "Hidratação em clima quente",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças relacionadas às mudanças geográficas).",
+"coment": "A sede é sinal TARDIO de desidratação: quando ela aparece, já houve perda hídrica relevante e queda mensurável de desempenho físico e cognitivo. Em destinos quentes e úmidos, a sudorese é abundante e a alta umidade prejudica a evaporação, reduzindo a eficiência da termorregulação e aumentando o risco de exaustão pelo calor e de intermação. A orientação é hidratar-se de forma regular e antecipada, monitorando a cor da urina como indicador prático, e evitar álcool e cafeína em excesso pelo efeito diurético. Para o viajante que dirige no destino, a desidratação soma-se ao jet lag e à fadiga de viagem, com prejuízo do alerta e do tempo de reação.",
+"porAlt": [
+"A sede é sinal tardio, e não precoce, da desidratação já instalada no organismo do viajante.",
+"A restrição hídrica agrava a desidratação e não é medida adequada para reduzir a perda de eletrólitos.",
+"O álcool tem efeito diurético e agrava a desidratação em vez de repor os líquidos perdidos.",
+"Correta: hidratação regular e antecipada, pois a sede é sinal tardio de perda hídrica já instalada.",
+"Concentrar a ingestão ao final do dia não previne a desidratação que se instala durante ele."
+]
+},
+{
+"q": "Qual é o risco específico da exposição a altitudes elevadas para o viajante não aclimatado?",
+"alts": [
+"Doença descompressiva por formação de bolhas de nitrogênio, idêntica à observada no mergulho",
+"Doença aguda das montanhas, com cefaleia, náusea e insônia por hipóxia hipobárica progressiva",
+"Barotrauma de ouvido médio exclusivo, sem qualquer repercussão sistêmica sobre o organismo",
+"Intoxicação por monóxido de carbono, pela menor dispersão do gás em atmosfera rarefeita de altitude",
+"Nenhum risco específico, pois a aclimatação ocorre de forma imediata em qualquer altitude alcançada"
+],
+"gab": 1,
+"tema": "viajante",
+"sub": "Doença aguda das montanhas",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (altitudes elevadas, doenças relacionadas às mudanças geográficas).",
+"coment": "A ascensão rápida a altitudes elevadas expõe o viajante à hipóxia hipobárica, e o quadro mais comum é a doença aguda das montanhas: cefaleia, náusea, anorexia, tontura, insônia e fadiga, instalando-se tipicamente horas após a chegada. As formas graves — edema pulmonar e edema cerebral de altitude — são emergências e exigem descida imediata. A prevenção é a ascensão gradual, permitindo aclimatação, com atenção especial a quem tem doença cardiopulmonar prévia. O item integra o programa da medicina do viajante, que inclui as altitudes elevadas entre os fatores a considerar na decisão sobre viagens, ao lado de endemias e dos limites da assistência médica local.",
+"porAlt": [
+"A doença descompressiva é fenômeno da lei de Henry, típico do mergulho e da despressurização.",
+"Correta: doença aguda das montanhas, com cefaleia, náusea e insônia por hipóxia hipobárica.",
+"O barotrauma é fenômeno de cavidades aeradas, sem a repercussão sistêmica do quadro descrito.",
+"A intoxicação por monóxido não é o risco específico da exposição à altitude elevada descrita.",
+"A aclimatação não é imediata: ela exige dias e depende da velocidade de ascensão realizada."
+]
+},
+{
+"q": "Qual é a orientação para o viajante com doença cardiopulmonar que pretende visitar destino de altitude elevada?",
+"alts": [
+"Liberação automática, pois a altitude não repercute sobre pacientes com doença cardiopulmonar",
+"Proibição absoluta de qualquer viagem, independentemente do grau de comprometimento funcional",
+"Suspensão de toda a medicação cardiopulmonar durante a permanência no destino de altitude elevada",
+"Substituição da avaliação clínica por teste de esforço realizado apenas após o retorno da viagem",
+"Avaliação prévia da reserva funcional, pois a hipóxia de altitude descompensa quadros limítrofes"
+],
+"gab": 4,
+"tema": "viajante",
+"sub": "Cardiopatia e altitude",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças pré-existentes, altitudes elevadas).",
+"coment": "A altitude reduz a pressão parcial inspirada de oxigênio e impõe ao organismo uma demanda adicional: taquicardia, aumento do débito cardíaco e hiperventilação compensatória. Quem tem reserva funcional limitada — insuficiência cardíaca, doença coronariana, doença pulmonar obstrutiva com hipoxemia, hipertensão pulmonar, anemia importante — pode descompensar. A conduta é a avaliação prévia da reserva funcional na consulta pré-viagem, com decisão individualizada sobre altitude máxima, velocidade de ascensão, necessidade de oxigênio suplementar e ajuste de medicações. Nem liberação automática, nem proibição absoluta: o programa do edital fala em avaliar doenças preexistentes e os limites da assistência médica local.",
+"porAlt": [
+"A altitude repercute sim sobre pacientes com doença cardiopulmonar, exigindo avaliação individual.",
+"Não há proibição absoluta: a decisão depende do grau de comprometimento funcional apurado.",
+"Suspender a medicação cardiopulmonar no destino é conduta perigosa e sem qualquer respaldo.",
+"O teste de esforço após o retorno não substitui a avaliação prévia que orienta a decisão de viajar.",
+"Correta: avaliação prévia da reserva funcional, pois a hipóxia de altitude descompensa quadros limítrofes."
+]
+},
+{
+"q": "Qual é a razão de a medicina do viajante incluir a avaliação dos limites da assistência médica no destino?",
+"alts": [
+"A assistência médica é idêntica em qualquer destino, o que torna a avaliação meramente formal",
+"Uma intercorrência tratável em centro urbano pode ser fatal em local sem recurso disponível",
+"A avaliação serve apenas para calcular o valor do seguro-viagem a ser contratado pelo viajante",
+"A avaliação serve apenas para definir quais vacinas serão aplicadas antes do embarque do viajante",
+"A avaliação serve apenas para escolher o meio de transporte mais adequado ao roteiro pretendido"
+],
+"gab": 1,
+"tema": "viajante",
+"sub": "Limites da assistência no destino",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante; Diretriz ABRAMET sobre gravidez e puerpério.",
+"coment": "O mesmo evento clínico tem desfechos radicalmente diferentes conforme o recurso disponível: um infarto agudo do miocárdio em capital com hemodinâmica é situação tratável, e o mesmo evento em área remota sem transporte aeromédico frequentemente é fatal. Por isso a consulta pré-viagem avalia distância até serviço de referência, disponibilidade de hemoderivados e de terapia intensiva, acesso a medicamentos e existência de seguro-viagem com cobertura de remoção. A Diretriz ABRAMET sobre gravidez adota exatamente esse raciocínio ao mandar considerar, além da distância, a região visitada, a exposição a endemias e altitude, e os limites da assistência médica local — liberando somente após o parto quando houver riscos.",
+"porAlt": [
+"A assistência médica varia enormemente entre destinos, o que torna a avaliação indispensável.",
+"Correta: uma intercorrência tratável em centro urbano pode ser fatal onde não há recurso disponível.",
+"O cálculo do seguro é consequência possível, mas não a razão clínica da avaliação realizada.",
+"A definição das vacinas depende do perfil epidemiológico, e não dos limites da assistência local.",
+"A escolha do meio de transporte não é a finalidade dessa avaliação na consulta pré-viagem."
+]
+},
+{
+"q": "Qual é a orientação sobre profilaxia da malária para o viajante que vai a área de transmissão?",
+"alts": [
+"Apenas quimioprofilaxia, dispensando qualquer medida de barreira contra a picada do mosquito vetor",
+"Apenas medidas de barreira, pois não existe quimioprofilaxia disponível contra a malária atualmente",
+"Medidas de barreira contra o mosquito somadas à quimioprofilaxia quando indicada para o destino",
+"Vacinação obrigatória contra a malária, exigida como condição de entrada em todos esses destinos",
+"Nenhuma medida preventiva, pois o tratamento após o diagnóstico é sempre suficiente e curativo"
+],
+"gab": 2,
+"tema": "viajante",
+"sub": "Prevenção da malária",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças infectocontagiosas prevalentes no destino).",
+"coment": "A prevenção da malária no viajante combina duas frentes. As MEDIDAS DE BARREIRA reduzem a exposição à picada do Anopheles, de hábito predominantemente crepuscular e noturno: repelente adequado, roupas cobrindo braços e pernas ao entardecer, mosquiteiro impregnado e telas. A QUIMIOPROFILAXIA é indicada conforme o destino, a intensidade da transmissão e o perfil de resistência local, com esquema iniciado antes da exposição e mantido após o retorno pelo tempo previsto. Nenhuma das duas é infalível, o que reforça a regra de ouro da consulta pós-viagem: febre em retornante de área endêmica exige investigar malária com urgência. Não há vacina de uso rotineiro para o viajante.",
+"porAlt": [
+"As medidas de barreira são essenciais e não devem ser dispensadas pela quimioprofilaxia adotada.",
+"Existe quimioprofilaxia disponível, indicada conforme o destino e o padrão local de resistência.",
+"Correta: medidas de barreira contra o mosquito somadas à quimioprofilaxia quando ela for indicada.",
+"Não há vacinação obrigatória contra malária exigida como condição de entrada nesses destinos.",
+"A prevenção é necessária: a malária grave pode evoluir para desfecho fatal em poucas horas."
+]
+},
+{
+"q": "Qual é a importância do Certificado Internacional de Vacinação ou Profilaxia para o viajante?",
+"alts": [
+"É documento meramente informativo, sem qualquer exigência por parte de países de destino",
+"É documento que substitui integralmente o passaporte em viagens entre países do mesmo bloco",
+"É exigido por diversos países como condição de entrada, sobretudo quanto à febre amarela",
+"É documento que atesta a ausência de doenças infectocontagiosas no viajante que o apresenta",
+"É documento emitido apenas após o retorno da viagem, para fins de vigilância epidemiológica"
+],
+"gab": 2,
+"tema": "viajante",
+"sub": "Certificado internacional de vacinação",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (imunização para viagens nacionais e internacionais).",
+"coment": "O Certificado Internacional de Vacinação ou Profilaxia é documento oficial exigido por diversos países como condição de entrada, principalmente para comprovar vacinação contra a FEBRE AMARELA — seja porque o país é de risco, seja porque teme a reintrodução da doença por viajantes procedentes de áreas endêmicas. A vacina deve ser aplicada com antecedência mínima de 10 dias, prazo que também rege a validade do certificado na primeira dose. O documento não atesta ausência de doenças nem substitui outros documentos de viagem: ele comprova especificamente a imunização exigida. Verificar as exigências do destino é parte da consulta pré-viagem, e a falta do certificado pode impedir o embarque ou a entrada.",
+"porAlt": [
+"O documento não é meramente informativo: sua falta pode impedir o embarque ou a entrada no país.",
+"O certificado não substitui o passaporte nem qualquer outro documento de viagem internacional.",
+"Correta: é exigido por diversos países como condição de entrada, sobretudo quanto à febre amarela.",
+"O certificado comprova imunização específica, e não a ausência de doenças infectocontagiosas.",
+"O certificado é emitido antes da viagem, e não após o retorno para fins de vigilância."
+]
+},
+{
+"q": "Qual é a conduta correta quando o viajante apresenta contraindicação à vacina de febre amarela mas o destino a exige?",
+"alts": [
+"Aplicar a vacina de qualquer modo, pois a exigência do destino prevalece sobre a contraindicação clínica",
+"Cancelar a viagem obrigatoriamente, sem qualquer alternativa possível diante da contraindicação existente",
+"Aplicar meia dose da vacina, esquema que elimina as contraindicações mantendo a proteção conferida",
+"Avaliar risco real de exposição e considerar isenção documentada, decidindo caso a caso com o viajante",
+"Substituir a vacina por antibiótico profilático de amplo espectro durante toda a permanência no destino"
+],
+"gab": 3,
+"tema": "viajante",
+"sub": "Contraindicação à vacina",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (imunização, doenças pré-existentes).",
+"coment": "A vacina de febre amarela é de vírus vivo atenuado e tem contraindicações reais — imunossupressão significativa, alergia grave a componentes, e cautela em gestantes, lactantes de crianças pequenas e idosos na primeira dose. Diante da contraindicação, a conduta é ponderar o RISCO REAL DE EXPOSIÇÃO no roteiro concreto: uma escala aérea em país de risco difere de semanas em área de mata. Quando o risco é baixo e a exigência é apenas documental, cabe avaliar a isenção formalmente documentada por médico, que alguns países aceitam. É decisão individualizada, tomada com o viajante, e que pode incluir a alteração do roteiro. Não se aplica vacina viva contra contraindicação, nem existe meia dose que elimine contraindicações.",
+"porAlt": [
+"Não se aplica vacina de vírus vivo contra contraindicação clínica formal do próprio viajante.",
+"O cancelamento não é a única alternativa: há isenção documentada e alteração de roteiro possíveis.",
+"Não existe esquema de meia dose que elimine as contraindicações da vacina de vírus vivo atenuado.",
+"Correta: avaliar o risco real de exposição e considerar a isenção documentada, decidindo caso a caso.",
+"O antibiótico profilático não substitui a vacina nem previne a febre amarela, que é doença viral."
+]
+},
+{
+"q": "Qual é o cuidado específico com o viajante idoso na consulta pré-viagem?",
+"alts": [
+"Revisar polifarmácia, reserva funcional e imunizações, com atenção ao risco tromboembólico maior",
+"Dispensar a consulta, pois o idoso já acumulou imunidade natural contra as doenças do destino",
+"Aplicar todas as vacinas disponíveis, independentemente do destino e do estado imunológico dele",
+"Recomendar a suspensão de toda a medicação de uso contínuo durante o período da viagem realizada",
+"Restringir a viagem a destinos nacionais, ficando vedado qualquer deslocamento internacional ao idoso"
+],
+"gab": 0,
+"tema": "viajante",
+"sub": "Viajante idoso",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças pré-existentes, imunização, prescrição de medicamentos).",
+"coment": "O viajante idoso concentra várias das preocupações da medicina do viajante ao mesmo tempo. A POLIFARMÁCIA exige revisão do esquema, ajuste de horários aos fusos e transporte adequado na bagagem de mão, com atenção a fármacos de janela terapêutica estreita, como anticoagulantes. A RESERVA FUNCIONAL cardiopulmonar precisa ser avaliada frente à hipóxia relativa de cabine e à eventual altitude do destino. As IMUNIZAÇÕES devem ser revistas, lembrando que vacinas de vírus vivo exigem mais cautela e que a resposta imune pode ser menor. E o RISCO TROMBOEMBÓLICO em voos longos é maior, o que reforça deambulação, hidratação, exercícios de panturrilha e meias de compressão quando indicadas.",
+"porAlt": [
+"Correta: revisar polifarmácia, reserva funcional e imunizações, atentando ao risco tromboembólico.",
+"A imunidade natural acumulada não dispensa a avaliação nem as imunizações indicadas ao destino.",
+"Não se aplicam todas as vacinas indiscriminadamente: a indicação depende do destino e do paciente.",
+"Suspender a medicação de uso contínuo durante a viagem é conduta perigosa e sem respaldo algum.",
+"Não há vedação de viagem internacional ao idoso: a avaliação é individualizada e não proibitiva."
+]
+},
+{
+"q": "Qual é a relação entre a medicina do viajante e a medicina do tráfego aeroespacial, no conteúdo programático do edital?",
+"alts": [
+"São áreas idênticas, sendo a distinção do edital meramente formal e sem qualquer consequência prática",
+"São áreas antagônicas, com recomendações opostas quanto ao manejo do passageiro em voo comercial",
+"A medicina do viajante trata apenas de viagens terrestres, sem qualquer interface com o transporte aéreo",
+"São áreas complementares: uma cuida do viajante e a outra cuida do ambiente e da fisiologia do voo",
+"A medicina aeroespacial trata apenas de astronautas, sem interface com a aviação civil de passageiros"
+],
+"gab": 3,
+"tema": "viajante",
+"sub": "Interface entre as duas áreas",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante e Medicina do Tráfego Aeroespacial.",
+"coment": "As duas áreas são distintas no edital, mas se sobrepõem em vários pontos, e reconhecer isso ajuda a estudar. A MEDICINA DO VIAJANTE parte da pessoa: planejamento da viagem, doenças preexistentes, imunização, doenças do destino, medicamentos e as consultas pré e pós-viagem. A MEDICINA AEROESPACIAL parte do ambiente: fisiologia de altitude, hipóxia, leis dos gases, disbarismo, forças G, desorientação espacial, fatores ambientais de cabine, emergências a bordo e transporte aeromédico. Temas como o tromboembolismo de voos longos, o jet lag, as contraindicações à viagem aérea e o manejo do paciente com doença pulmonar em cabine pressurizada pertencem naturalmente às duas.",
+"porAlt": [
+"As áreas não são idênticas: o edital as separa com objetos e conteúdos programáticos distintos.",
+"As áreas não são antagônicas: suas recomendações convergem e se complementam no manejo.",
+"A medicina do viajante alcança expressamente o transporte aéreo e suas contraindicações clínicas.",
+"Correta: são complementares — uma parte da pessoa que viaja, a outra do ambiente e da fisiologia.",
+"A medicina aeroespacial do edital trata amplamente da aviação civil e das emergências a bordo."
+]
+},
+{
+"q": "Qual é a orientação sobre atividade física logo após a chegada a destino com fuso muito diferente?",
+"alts": [
+"Exercício leve em horário adequado ajuda a sincronizar o relógio biológico ao novo fuso local",
+"Exercício intenso imediato é a medida mais eficaz para eliminar por completo os sintomas do jet lag",
+"Repouso absoluto por setenta e duas horas é a única forma de permitir a adaptação circadiana correta",
+"Atividade física é contraindicada em qualquer intensidade durante toda a permanência no novo destino",
+"Atividade física só deve ser feita durante a madrugada local, horário de menor demanda metabólica"
+],
+"gab": 0,
+"tema": "viajante",
+"sub": "Atividade física e adaptação circadiana",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (jet lag) e Aeroespacial (ciclo circadiano).",
+"coment": "A adaptação ao novo fuso depende de sincronizadores externos, e os principais são a LUZ e, secundariamente, a atividade física, os horários de refeição e o padrão social. Exercício leve a moderado realizado no horário adequado do destino — evitando as horas imediatamente anteriores ao sono pretendido — contribui para deslocar o relógio biológico e reforçar o novo padrão de vigília. Repouso absoluto prolongado tende a atrasar a adaptação, porque priva o organismo justamente desses sincronizadores. Exercício intenso imediato após voo longo, por sua vez, soma-se à fadiga de viagem e à desidratação. E atividade na madrugada local reforça o padrão errado, atrasando ainda mais a sincronização.",
+"porAlt": [
+"Correta: exercício leve em horário adequado ajuda a sincronizar o relógio biológico ao novo fuso.",
+"O exercício intenso imediato soma-se à fadiga e à desidratação, sem eliminar os sintomas do jet lag.",
+"O repouso absoluto priva o organismo dos sincronizadores externos e tende a atrasar a adaptação.",
+"A atividade física não é contraindicada: ela é um dos sincronizadores úteis quando bem posicionada.",
+"O exercício na madrugada local reforça o padrão errado e atrasa ainda mais a sincronização."
+]
+},
+{
 "q": "Segundo a Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', qual é a conclusão sobre a existência de uma concentração alcoólica segura para conduzir?",
 "alts": [
 "Existe segurança abaixo de 0,2 g/l, faixa em que as habilidades de condução ficam preservadas ao volante",
