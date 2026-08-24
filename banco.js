@@ -1032,5 +1032,291 @@ window.BANCO=[
 "A Junta Médica Especial destina-se ao candidato com deficiência física, não à queixa otoneurológica.",
 "A norma não permite prosseguir sem investigação: a solicitação do exame é expressamente determinada."
 ]
+},
+{
+"q": "Segundo a Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', qual é a conclusão sobre a existência de uma concentração alcoólica segura para conduzir?",
+"alts": [
+"Existe segurança abaixo de 0,2 g/l, faixa em que as habilidades de condução ficam preservadas ao volante",
+"Existe segurança abaixo de 0,5 g/l, limite adotado pela maioria dos países europeus como referência",
+"Não existe concentração segura, sendo a alcoolemia zero o único padrão de dirigibilidade sem riscos",
+"Existe segurança abaixo de 0,6 g/l, valor que corresponde ao limiar penal do ordenamento pátrio",
+"Não existe consenso, cabendo ao perito arbitrar caso a caso a concentração tolerável para cada condutor"
+],
+"gab": 2,
+"tema": "alcool",
+"sub": "Alcoolemia segura",
+"base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', conclusão.",
+"coment": "A diretriz encerra afirmando que, diante da grande variabilidade dos efeitos por suscetibilidade individual — sexo, peso, etnia, hábito ou não de consumir bebidas —, NÃO EXISTE concentração segura, sendo a alcoolemia zero o único padrão proposto de dirigibilidade sem riscos. O argumento é sustentado por dois dados: já a partir de 0,2 g/l ficam prejudicadas habilidades necessárias à condução, como atenção dividida, funções visuais e acompanhamento de movimento; e a NHTSA relatou que 13% dos condutores alcoolizados mortos em acidentes estavam com alcoolemia positiva porém ABAIXO do limite legal máximo permitido. Ou seja, o limite legal é instrumento de fiscalização, não um atestado de segurança — distinção que a prova costuma explorar.",
+"porAlt": [
+"A partir de 0,2 g/l já há prejuízo de atenção dividida, funções visuais e acompanhamento de movimento.",
+"O valor de 0,5 g/l é referência legal em vários países, mas a diretriz não o considera seguro.",
+"Correta: a diretriz conclui que só a alcoolemia zero corresponde a dirigibilidade sem riscos.",
+"O limiar penal brasileiro é de 6 decigramas por litro de sangue, e não representa faixa de segurança.",
+"A diretriz firma posição clara sobre o tema, não remetendo a decisão ao arbítrio individual do perito."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET/AMB/CFM sobre alcoolemia, o risco de envolvimento em acidente fatal para condutores com alcoolemia entre 0,2 e 0,5 g/l, comparado ao de um condutor sóbrio, é aproximadamente:",
+"alts": [
+"De 1,2 a 1,8 vezes maior, subindo para 2 a 3 vezes na faixa de alcoolemia entre 0,5 e 0,7 g/l",
+"De 2,6 a 4,6 vezes maior, subindo para 4 a 10 vezes na faixa de alcoolemia entre 0,5 e 0,7 g/l",
+"De 8 a 12 vezes maior, subindo para 20 a 25 vezes na faixa de alcoolemia entre 0,5 e 0,7 g/l",
+"De 2,6 a 4,6 vezes maior, mantendo-se estável mesmo nas faixas de alcoolemia acima de 0,7 g/l",
+"Praticamente igual, pois o aumento de risco relevante só começa a partir da alcoolemia de 1,0 g/l"
+],
+"gab": 1,
+"tema": "alcool",
+"sub": "Risco relativo por faixa de alcoolemia",
+"base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 2.",
+"coment": "A diretriz quantifica a escalada de risco: condutores com alcoolemia igual ou superior a 0,2 g/l já ficam com habilidades prejudicadas (atenção dividida, funções visuais, acompanhamento de movimento); na faixa de 0,2 a 0,5 g/l o risco de envolvimento em acidente fatal é de 2,6 a 4,6 vezes maior que o do condutor sóbrio; e na faixa de 0,5 a 0,7 g/l o risco relativo salta para 4 a 10 vezes. A diretriz acrescenta que a deterioração de funções cruciais, como o processamento de informações, começa com alcoolemias baixas, e que a maioria dos indivíduos está significativamente debilitada com 0,5 g/l. Note a curva exponencial — é o fundamento científico da política de tolerância zero adotada no Brasil.",
+"porAlt": [
+"Os valores estão muito subestimados frente aos números apresentados no texto da diretriz médica.",
+"Correta: 2,6 a 4,6 vezes na faixa de 0,2 a 0,5 g/l e 4 a 10 vezes na faixa de 0,5 a 0,7 g/l.",
+"Os valores estão superestimados: a diretriz não descreve riscos dessa magnitude nessas duas faixas.",
+"O risco não se mantém estável: a própria diretriz mostra a escalada na faixa seguinte de alcoolemia.",
+"O prejuízo de habilidades já se manifesta a partir de 0,2 g/l, e não somente a partir de 1,0 g/l."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET, qual é a estimativa de vítimas de trauma atendidas em sala de emergência de São Paulo que apresentaram alcoolemia positiva?",
+"alts": [
+"Cerca de 28,9% das vítimas de trauma atendidas apresentaram resultado positivo para alcoolemia",
+"Cerca de 5,4% das vítimas de trauma atendidas apresentaram resultado positivo para a alcoolemia",
+"Cerca de 62,7% das vítimas de trauma atendidas apresentaram resultado positivo para a alcoolemia",
+"Cerca de 80,2% das vítimas de trauma atendidas apresentaram resultado positivo para a alcoolemia",
+"Cerca de 15,1% das vítimas de trauma atendidas apresentaram resultado positivo para a alcoolemia"
+],
+"gab": 0,
+"tema": "alcool",
+"sub": "Prevalência de alcoolemia em vítimas de trauma",
+"base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+"coment": "A diretriz cita estudo realizado em sala de emergência de São Paulo mostrando que 28,9% das vítimas de trauma atendidas apresentaram alcoolemia positiva. Outros números da mesma seção são igualmente cobráveis: a prevalência de condutores que dirigem acima do limite legal varia de 19,8% em amostra geral a 47,0% entre vítimas FATAIS de acidentes de trânsito; a América Latina tem 26,1 mortes por 100 mil habitantes, o dobro da média mundial; o Brasil registra 6,3 acidentes por 10 mil veículos; e estudo brasileiro apontou que 38% dos condutores dirigiam sob efeito do álcool, sendo 18% com valores inferiores ao limite legal, enquanto 22,9% acreditavam que a bebida não prejudicava sua capacidade de dirigir — sobretudo se adotassem medidas 'protetoras' como tomar café e dirigir com mais cautela.",
+"porAlt": [
+"Correta: o estudo citado pela diretriz encontrou 28,9% de alcoolemia positiva nas vítimas de trauma.",
+"O valor está muito abaixo do encontrado no estudo brasileiro que a diretriz médica reproduz.",
+"O valor está acima do descrito; 47,0% é a cifra referente especificamente a vítimas fatais de acidentes.",
+"O valor está muito acima de qualquer das cifras apresentadas na seção epidemiológica da diretriz.",
+"O valor está abaixo do encontrado no estudo de sala de emergência citado pela diretriz médica."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET/AMB/CFM sobre uso de benzodiazepínicos e risco de acidente de trânsito, qual é a recomendação central dirigida ao médico?",
+"alts": [
+"Suspender formalmente o direito de dirigir do paciente durante todo o período de uso do fármaco",
+"Solicitar dosagem sérica periódica do benzodiazepínico para liberar ou não a condução veicular",
+"Substituir sistematicamente o benzodiazepínico por antidepressivo antes de liberar a condução",
+"Encaminhar o paciente ao órgão de trânsito para reavaliação pericial a cada ajuste posológico",
+"Dialogar com o paciente e alertá-lo quanto ao risco de dirigir no início do tratamento instituído"
+],
+"gab": 4,
+"tema": "drogas",
+"sub": "Benzodiazepínicos e direção",
+"base": "Diretriz ABRAMET/AMB/CFM 'Uso de benzodiazepínicos e risco de acidente de trânsito', recomendação.",
+"coment": "A recomendação da diretriz nasce de uma limitação prática que ela mesma explicita: é difícil determinar um meio eficaz e simples, exequível pelos órgãos de fiscalização de trânsito, para dosar a quantidade de benzodiazepínico segura para dirigir. Somando-se a isso a responsabilização do médico quanto à decisão sobre a capacidade de dirigir, torna-se IMPERATIVO o diálogo entre médico e paciente, alertando-o quanto ao risco de dirigir NO INÍCIO DO TRATAMENTO — período de maior sedação, antes da tolerância parcial aos efeitos. O ponto cobrável é que a diretriz não propõe dosagem laboratorial nem suspensão automática do direito de dirigir: desloca o eixo para a orientação clínica e o registro dessa orientação.",
+"porAlt": [
+"A diretriz não propõe suspensão formal do direito de dirigir durante todo o uso do medicamento.",
+"A própria diretriz aponta a dificuldade de dosar quantidade segura como razão da recomendação.",
+"A substituição sistemática por outra classe não é a recomendação apresentada no texto da diretriz.",
+"Não há previsão de reavaliação pericial a cada ajuste de dose do benzodiazepínico prescrito.",
+"Correta: a diretriz torna imperativo o diálogo e o alerta sobre o risco no início do tratamento."
+]
+},
+{
+"q": "Homem de 58 anos com diabetes tipo 2 bem controlado apenas com dieta e antidiabéticos orais, sem episódios de hipoglicemia, pretende renovar a CNH categoria D. Segundo a Diretriz ABRAMET sobre diabetes, qual é a conduta?",
+"alts": [
+"Apto apenas para as categorias A e B, pois o transporte de passageiros exige ausência total de diabetes",
+"Apto para qualquer categoria, mas obrigatoriamente com prazo de validade do exame reduzido a doze meses",
+"Inapto temporário até que o endocrinologista assistente documente hemoglobina glicada abaixo de sete pontos",
+"Apto para qualquer categoria, com a restrição de vedação de dirigir após o pôr do sol registrada na CNH",
+"Apto para qualquer categoria, sem restrições vinculadas à doença, dado o baixo risco de hipoglicemia grave"
+],
+"gab": 4,
+"tema": "sistemicas",
+"sub": "Diabetes tipo 2 sem insulina",
+"base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular', fundamentos para o perito.",
+"coment": "A diretriz organiza a decisão pelo RISCO DE HIPOGLICEMIA GRAVE, não pelo diagnóstico em si. Portadores de diabetes tipo 2 bem controlados por dieta ou pela combinação de dieta e antidiabéticos orais têm baixo risco de hipoglicemia grave e podem ser considerados aptos para a direção de veículos de QUALQUER CATEGORIA, sem restrições vinculadas a essa doença. Já os diabéticos que necessitam de insulina, quando sob acompanhamento médico adequado, bem controlados e sem eventos hipoglicêmicos nos últimos 12 meses, podem ser considerados aptos para qualquer categoria, porém COM diminuição do prazo de validade do exame pericial. E devem ser considerados inaptos temporariamente os condutores que apresentaram episódios de hipoglicemia grave com perda de consciência nos últimos 12 meses. A diretriz preconiza avaliação criteriosa e individualizada, considerando sempre a maior exposição ao risco no transporte de cargas e passageiros.",
+"porAlt": [
+"A diretriz não exclui o diabético do transporte de passageiros quando o risco de hipoglicemia é baixo.",
+"A redução do prazo de validade é prevista para o diabético em uso de insulina, não para este caso.",
+"Não cabe inaptidão temporária: a diretriz não usa a hemoglobina glicada como critério de corte.",
+"A vedação de dirigir após o pôr do sol é o código U e não guarda relação com o controle glicêmico.",
+"Correta: diabetes tipo 2 controlado por dieta e orais é de baixo risco e libera qualquer categoria."
+]
+},
+{
+"q": "Mulher de 44 anos com diabetes tipo 1 em uso de insulina apresentou, há 5 meses, episódio de hipoglicemia grave com perda de consciência. Segundo a Diretriz ABRAMET sobre diabetes, qual é a conduta pericial?",
+"alts": [
+"Apta para qualquer categoria, com diminuição do prazo de validade do exame pericial de saúde dela",
+"Apta restrita às categorias A e B, com reavaliação semestral pelo endocrinologista assistente dela",
+"Inapta em definitivo, pois o uso de insulina é incompatível com a condução segura de qualquer veículo",
+"Inapta temporariamente, pois houve hipoglicemia grave com perda de consciência nos últimos doze meses",
+"Apta sem restrições, desde que ela realize glicemia capilar uma hora antes de iniciar a condução"
+],
+"gab": 3,
+"tema": "sistemicas",
+"sub": "Hipoglicemia grave e aptidão",
+"base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular', fundamentos para o perito.",
+"coment": "A diretriz é explícita: devem ser considerados INAPTOS TEMPORARIAMENTE os condutores que apresentaram episódios de hipoglicemia grave que produziram perda de consciência nos últimos 12 meses. O evento de 5 meses atrás enquadra a candidata nessa hipótese. A perda de consciência é o desfecho que importa para a segurança viária, porque suprime abruptamente o controle do veículo sem pródromo confiável. Passados os 12 meses e mantido o bom controle sob acompanhamento médico adequado, ela poderá ser considerada apta para qualquer categoria, com diminuição do prazo de validade do exame. A diretriz também orienta que motoristas profissionais realizem glicemia capilar 1 hora antes de dirigir e cerca de 4 horas após direção contínua, não iniciando ou interrompendo a direção quando a glicemia estiver abaixo de 70 mg/dl.",
+"porAlt": [
+"Essa é a conduta do diabético insulinizado bem controlado e sem eventos hipoglicêmicos recentes.",
+"A diretriz não cria essa categoria intermediária de aptidão restrita com seguimento semestral fixo.",
+"O uso de insulina não gera inaptidão definitiva: bem controlado, libera qualquer categoria do documento.",
+"Correta: hipoglicemia grave com perda de consciência nos últimos doze meses gera inaptidão temporária.",
+"A automonitorização é orientação prática relevante, mas não afasta a inaptidão temporária deste caso."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre diabetes, qual orientação deve ser dada ao motorista profissional quanto à monitorização glicêmica?",
+"alts": [
+"Testar a glicemia capilar 6 horas antes de dirigir e novamente ao término de cada jornada",
+"Testar a glicemia capilar 1 hora antes de dirigir e cerca de 4 horas após direção contínua",
+"Testar a glicemia capilar apenas quando surgirem sintomas adrenérgicos sugestivos de hipoglicemia",
+"Testar a glicemia capilar uma vez por semana, registrando os valores em caderneta própria dele",
+"Testar a glicemia capilar somente em viagens superiores a oito horas de condução continuada"
+],
+"gab": 1,
+"tema": "sistemicas",
+"sub": "Monitorização glicêmica do motorista profissional",
+"base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular', orientações ao condutor.",
+"coment": "A diretriz recomenda que motoristas profissionais sejam orientados a realizar testes de glicemia capilar 1 hora ANTES de dirigir e aproximadamente 4 horas APÓS direção contínua, não iniciando ou interrompendo a direção quando a glicemia estiver abaixo de 70 mg/dl. O limiar de 70 mg/dl é o mesmo valor de alerta clínico usado na prática endocrinológica, e a lógica do intervalo de 4 horas é capturar a queda glicêmica que se instala ao longo da jornada. A diretriz acrescenta que o perito deve orientar o candidato sobre a hipoglicemia — dever de informação que se soma à decisão pericial — e antecipa que, no futuro, candidatos com maior risco de hipoglicemia grave poderão ser encaminhados a centros especializados em treinamento na prevenção e no reconhecimento de episódios hipoglicêmicos.",
+"porAlt": [
+"O intervalo de seis horas antes não corresponde ao recomendado, que é de uma hora antes de dirigir.",
+"Correta: uma hora antes de dirigir e cerca de quatro horas após direção contínua, com corte de 70 mg/dl.",
+"A monitorização não deve ser reativa a sintomas: a hipoglicemia pode instalar-se sem pródromo claro.",
+"A periodicidade semanal é insuficiente para a proteção pretendida durante a jornada de condução.",
+"A recomendação não se restringe a viagens longas, aplicando-se à rotina do motorista profissional."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre portadores de doença renal crônica dialítica e condução veicular, qual é a recomendação para pacientes que iniciaram o tratamento há menos de três meses?",
+"alts": [
+"Liberação plena da direção veicular, desde que o nefrologista assistente emita relatório favorável",
+"Liberação da direção veicular apenas nos dias em que não houver sessão de hemodiálise previamente marcada",
+"Suspensão temporária da direção veicular, pela maior frequência de intercorrências clínicas nessa fase",
+"Suspensão definitiva da direção veicular, dada a irreversibilidade da doença renal em fase terminal",
+"Liberação da direção veicular com a restrição de conduzir somente em vias urbanas de baixa velocidade"
+],
+"gab": 2,
+"tema": "sistemicas",
+"sub": "Doença renal crônica dialítica",
+"base": "Diretriz ABRAMET 'Portadores de doença renal crônica dialítica e condução veicular', conclusões.",
+"coment": "A diretriz recomenda a SUSPENSÃO TEMPORÁRIA da direção veicular para pacientes que iniciaram o tratamento recentemente, ou seja, há menos de 3 meses, em razão da maior frequência de intercorrências clínicas nessa fase e da inabilidade desses pacientes para identificar e manejar sinais e sintomas adversos, com consequente interferência na capacidade de condução. Outros pontos cobráveis: é DEVER do profissional que realiza o exame de aptidão física e mental desaconselhar a condução veicular principalmente nos DIAS de tratamento hemodialítico e REGISTRAR EM PRONTUÁRIO o fornecimento dessa orientação; normalmente não é necessária a solicitação de exames laboratoriais adicionais; e o hiperparatireoidismo secundário, em fases avançadas, provoca alterações ósseas que podem reduzir amplitude e mobilidade de membros, com necessidade de adaptação veicular.",
+"porAlt": [
+"O relatório do nefrologista não afasta a recomendação específica para a fase inicial do tratamento.",
+"Desaconselhar a direção nos dias de diálise é orientação distinta da suspensão dos três meses iniciais.",
+"Correta: nos primeiros três meses de tratamento a diretriz recomenda a suspensão temporária da direção.",
+"A diretriz não recomenda suspensão definitiva; a suspensão proposta é expressamente temporária.",
+"A restrição de vias não é a medida prevista pela diretriz para a fase inicial do tratamento dialítico."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre doença renal crônica dialítica, qual é o dever específico do médico que realiza o exame de aptidão física e mental?",
+"alts": [
+"Solicitar rotineiramente exames laboratoriais adicionais para estimar a reserva funcional do candidato",
+"Desaconselhar a condução nos dias de hemodiálise e registrar em prontuário o fornecimento da orientação",
+"Encaminhar todos os pacientes dialíticos à Junta Médica Especial, independentemente da classe funcional",
+"Comunicar o órgão de trânsito para bloqueio automático do cadastro nacional de todo paciente dialítico",
+"Exigir laudo de ecocardiograma e de eletroneuromiografia antes de qualquer conclusão sobre a aptidão"
+],
+"gab": 1,
+"tema": "sistemicas",
+"sub": "Dever de orientação e registro na DRC",
+"base": "Diretriz ABRAMET 'Portadores de doença renal crônica dialítica e condução veicular', conclusões.",
+"coment": "A diretriz afirma ser DEVER do profissional que realiza o exame de aptidão física e mental desaconselhar a condução veicular principalmente em dias de tratamento hemodialítico e registrar em prontuário o fornecimento dessa orientação. O registro é parte da conduta, não um detalhe burocrático: documenta o cumprimento do dever de informação e protege o perito. A diretriz esclarece ainda que, normalmente, a solicitação de exames laboratoriais adicionais NÃO é necessária, e destaca a importância do especialista em medicina de tráfego, já que o condutor com DRC em terapia renal substitutiva precisa ser melhor avaliado e orientado quanto aos riscos antes e depois de uma sessão de hemodiálise. Por fim, alerta órgãos de saúde e de trânsito para a necessidade de legislação específica sobre o tema.",
+"porAlt": [
+"A diretriz afirma justamente que a solicitação de exames laboratoriais adicionais não costuma ser necessária.",
+"Correta: desaconselhar a condução em dias de diálise e registrar essa orientação no prontuário do paciente.",
+"O encaminhamento à Junta Médica Especial não é regra geral para todos os pacientes em diálise.",
+"O bloqueio do cadastro decorre da inaptidão declarada, não do simples diagnóstico de doença renal.",
+"A diretriz não condiciona a conclusão pericial a esses exames complementares específicos citados."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre doença renal crônica dialítica, qual complicação pode exigir adaptação veicular por reduzir a amplitude e a mobilidade dos membros?",
+"alts": [
+"Anemia da doença renal crônica, que em fases avançadas provoca fadiga muscular progressiva e dor",
+"Acidose metabólica crônica, que em fases avançadas provoca contraturas articulares irreversíveis",
+"Hiperparatireoidismo secundário, que em fases avançadas provoca alterações ósseas incapacitantes",
+"Hipercalemia recorrente, que em fases avançadas provoca fraqueza muscular flácida e permanente",
+"Neuropatia autonômica urêmica, que em fases avançadas provoca hipotensão postural incapacitante"
+],
+"gab": 2,
+"tema": "sistemicas",
+"sub": "Hiperparatireoidismo secundário e adaptação veicular",
+"base": "Diretriz ABRAMET 'Portadores de doença renal crônica dialítica e condução veicular', conclusões.",
+"coment": "A diretriz destaca o hiperparatireoidismo secundário como doença pertinente a alguns pacientes com DRC que, em fases avançadas, provoca alterações ósseas capazes de reduzir a amplitude e a mobilidade de membros, com consequente necessidade de adaptação veicular. É um elo importante entre a avaliação clínica e a avaliação do aparelho locomotor: o achado desloca o candidato para a lógica da NBR 14970 e, se houver deficiência física caracterizada, para a Junta Médica Especial prevista no art. 4º, §1º da Resolução 927/2022. Reforça também por que a diretriz insiste na avaliação individualizada e no papel do especialista em medicina de tráfego: o paciente dialítico acumula riscos de naturezas distintas — hemodinâmico nas horas seguintes à sessão, ósseo e articular ao longo dos anos.",
+"porAlt": [
+"A anemia da doença renal é relevante clinicamente, mas não é a causa das alterações ósseas descritas.",
+"A acidose metabólica contribui para a doença óssea, mas não é a complicação nomeada pela diretriz.",
+"Correta: o hiperparatireoidismo secundário é a complicação apontada pela diretriz para esse desfecho.",
+"A hipercalemia é urgência metabólica aguda, não a causa de limitação crônica de amplitude articular.",
+"A neuropatia autonômica repercute sobre a pressão arterial, não sobre a mobilidade dos membros."
+]
+},
+{
+"q": "Durante fiscalização, condutor apresenta sinais evidentes de alteração da capacidade psicomotora, mas o etilômetro registra 0,18 mg de álcool por litro de ar alveolar. Qual é o enquadramento correto?",
+"alts": [
+"Não cabe o crime nem a infração, pois o valor aferido está abaixo do limiar penal de 0,3 mg por litro",
+"Cabe apenas a infração administrativa, pois o crime exige exclusivamente a comprovação por dosagem",
+"Cabe apenas advertência, pois valores abaixo de 0,3 mg por litro configuram consumo social tolerado",
+"Cabe o crime do art. 306 pelo inciso II, pois os sinais de alteração psicomotora também o constatam",
+"Cabe o crime do art. 306, mas somente após confirmação por exame de sangue com valor superior a 6 dg"
+],
+"gab": 3,
+"tema": "alcool",
+"sub": "Constatação do crime por sinais psicomotores",
+"base": "CTB, art. 306, §1º, I e II, e §2º (redação das Leis nº 12.760/2012 e nº 12.971/2014).",
+"coment": "O §1º do art. 306 traz DUAS vias alternativas de constatação da conduta: o inciso I, pela concentração igual ou superior a 6 decigramas por litro de sangue ou igual ou superior a 0,3 mg por litro de ar alveolar; e o inciso II, por SINAIS que indiquem, na forma disciplinada pelo CONTRAN, alteração da capacidade psicomotora. São caminhos independentes — o crime pode configurar-se pelo inciso II mesmo quando a dosagem fica abaixo do corte do inciso I. O §2º reforça essa amplitude ao admitir teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito à contraprova. No plano administrativo, a infração do art. 165 independe de patamar mínimo: basta a comprovação de que o condutor dirigia sob influência de álcool.",
+"porAlt": [
+"O limiar do inciso I não é a única via: os sinais psicomotores constituem hipótese autônoma de constatação.",
+"O crime admite constatação por sinais clínicos, e não apenas por dosagem em ar alveolar ou sangue.",
+"Não existe faixa de consumo social tolerado no ordenamento brasileiro para a condução de veículos.",
+"Correta: o inciso II permite constatar o crime por sinais de alteração psicomotora disciplinados pelo CONTRAN.",
+"O exame de sangue é uma das provas possíveis, mas não é condição para o reconhecimento do delito."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre alcoolemia, qual é o retorno estimado das campanhas de prevenção e fiscalização do motorista embriagado?",
+"alts": [
+"Economia de aproximadamente seis dólares para cada dólar investido nas ações de prevenção",
+"Economia de aproximadamente dois dólares para cada dólar investido nas ações de prevenção",
+"Economia de aproximadamente vinte dólares para cada dólar investido nas ações de prevenção",
+"Nenhuma economia mensurável, pois o custo das campanhas supera o benefício obtido com elas",
+"Economia de aproximadamente cem dólares para cada dólar investido nas ações de prevenção"
+],
+"gab": 0,
+"tema": "epidemiologia",
+"sub": "Custo-efetividade das campanhas",
+"base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 1.",
+"coment": "A diretriz registra que campanhas de prevenção e de fiscalização do motorista embriagado resultam em economia de seis dólares para cada dólar investido, com grau de recomendação A. Na mesma seção há outros dados econômicos e epidemiológicos frequentemente cobrados: os custos anuais dos acidentes de trânsito nos Estados Unidos somaram cerca de US$ 230,6 bilhões no ano 2000, com 41.821 mortes, 5,3 milhões de feridos e 28 milhões de veículos danificados, cabendo ao álcool 46% dos custos decorrentes de mortes; no Brasil, dados do IPEA mostram custo total dos acidentes em aglomerados urbanos de 5,3 bilhões de reais; e os custos de ferimentos no trânsito respondem por um quarto de todos os custos com empregados para as empresas americanas.",
+"porAlt": [
+"Correta: a diretriz aponta economia de seis dólares para cada dólar investido em prevenção e fiscalização.",
+"O retorno descrito pela diretriz é maior do que o dobro do valor investido nas ações preventivas.",
+"O valor está superestimado frente ao que a diretriz apresenta com grau de recomendação elevado.",
+"A diretriz demonstra retorno positivo mensurável, contrariando a afirmação de ausência de benefício.",
+"O valor está muito acima do descrito na diretriz para o retorno das campanhas de prevenção."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre alcoolemia, estratégias como suspensão da carteira, blitze de checagem, redução do limite máximo permitido e proibição de conduzir com qualquer concentração alcoólica podem reduzir as vítimas fatais em acidentes relacionados ao álcool em até:",
+"alts": [
+"62%, desde que as leis sejam divulgadas e fiscalizadas de forma constante ao longo do tempo",
+"15%, desde que as leis sejam divulgadas e fiscalizadas de forma constante ao longo do tempo",
+"90%, desde que as leis sejam divulgadas e fiscalizadas de forma constante ao longo do tempo",
+"30%, desde que as leis sejam divulgadas e fiscalizadas de forma constante ao longo do tempo",
+"45%, desde que as leis sejam divulgadas e fiscalizadas de forma constante ao longo do tempo"
+],
+"gab": 0,
+"tema": "alcool",
+"sub": "Eficácia das intervenções",
+"base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', item 2.1.",
+"coment": "A diretriz descreve que estratégias como suspensão da carteira, ações coercitivas policiais (blitze de checagem de alcoolemia), diminuição do limite máximo permitido e proibição da condução com qualquer concentração alcoólica têm efeito de reduzir em até 62% o número de vítimas fatais em acidentes relacionados ao álcool. Um alerta importante do texto: as leis não devem ser apenas promulgadas, mas divulgadas e fiscalizadas de forma constante — mesmo um efeito considerável pode ser ANULADO após certo tempo se houver percepção pública de impunidade ou desconhecimento da lei vigente. A diretriz observa ainda que, embora as leis desencorajem mais fortemente os 'bebedores sociais', há também efeito sobre os 'bebedores pesados', com diminuição de acidentes envolvendo alcoolemias mais altas.",
+"porAlt": [
+"Correta: a diretriz aponta redução de até 62% nas vítimas fatais com esse conjunto de estratégias.",
+"O percentual está muito abaixo do descrito para o conjunto de intervenções apresentado na diretriz.",
+"O percentual está acima do descrito, que é de até sessenta e dois por cento das vítimas fatais.",
+"O percentual está abaixo do descrito para o efeito conjunto dessas estratégias de enfrentamento.",
+"O percentual está abaixo do valor apresentado pela diretriz para essas intervenções combinadas."
+]
 }
 ];
