@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Qual é a finalidade da NBR 14970 da ABNT no processo de habilitação da pessoa com deficiência física?",
+  "alts": [
+   "Definir os requisitos de acessibilidade das edificações e do mobiliário urbano das cidades brasileiras",
+   "Estabelecer os limites de emissão de poluentes dos veículos adaptados que circulam no território",
+   "Orientar a avaliação da dirigibilidade, as adaptações veiculares e a acessibilidade do condutor",
+   "Fixar as dimensões mínimas das salas de exame das entidades médicas credenciadas pelo órgão estadual",
+   "Definir o currículo dos cursos de formação de condutores oferecidos às pessoas com deficiência física"
+  ],
+  "gab": 2,
+  "tema": "locomotor",
+  "sub": "Objeto da NBR 14970",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, §2º; Diretrizes ABRAMET de Parkinson e de esclerose múltipla.",
+  "coment": "A NBR 14970 trata da avaliação da dirigibilidade, das adaptações e da acessibilidade veicular para pessoas com deficiência, e é ela que orienta as Juntas Médicas Especiais no exame desses candidatos, por determinação do art. 4º, §2º da Resolução 927/2022. Suas partes cobrem a avaliação do condutor, os requisitos das adaptações e a caracterização do veículo adaptado. As diretrizes ABRAMET de doença de Parkinson e de esclerose múltipla remetem a ela quando encaminham o candidato à Junta Médica Especial. Não confundir com a NBR 9050, que trata da acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos e é exigida das instalações da entidade credenciada.",
+  "porAlt": [
+   "A acessibilidade de edificações e do mobiliário urbano é objeto da NBR 9050, e não da NBR 14970.",
+   "Os limites de emissão de poluentes são objeto de outra regulamentação, alheia ao processo pericial.",
+   "Correta: orienta a avaliação da dirigibilidade, as adaptações veiculares e a acessibilidade do condutor.",
+   "As dimensões das salas de exame constam do art. 17 da resolução, e não dessa norma técnica citada.",
+   "O currículo dos cursos de formação de condutores não é o objeto da norma técnica mencionada."
+  ]
+ },
+ {
+  "q": "Qual é a composição e a designação da Junta Médica Especial que examina o candidato com deficiência física?",
+  "alts": [
+   "Designada pelo Conselho Regional de Medicina do Estado onde o candidato mantém a residência dele",
+   "Designada pelo Diretor do órgão executivo de trânsito do Estado ou do Distrito Federal para esse fim",
+   "Designada pela entidade médica credenciada, entre os peritos que compõem o seu próprio quadro técnico",
+   "Designada pelo Conselho Estadual de Trânsito, que a constitui com no mínimo cinco médicos peritos",
+   "Designada pelo órgão máximo executivo de trânsito da União, com abrangência sobre todo o território"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Designação da Junta Médica Especial",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, §1º.",
+  "coment": "O §1º do art. 4º determina que o exame de aptidão física e mental do candidato com deficiência física seja realizado por Junta Médica Especial designada pelo DIRETOR do órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal. É importante não confundir as três juntas da Resolução: a Junta Médica ESPECIAL (art. 4º, §1º) examina o candidato com deficiência física e segue a NBR 14970; a Junta MÉDICA revisora (art. 12) reavalia o resultado a pedido do candidato, com três médicos peritos ou especialistas em medicina de tráfego; e a Junta ESPECIAL DE SAÚDE (art. 15) é designada pelo CETRAN ou CONTRANDIFE para julgar recurso, com no mínimo três médicos, sendo dois especialistas.",
+  "porAlt": [
+   "O Conselho Regional de Medicina não designa juntas no processo de habilitação de condutores.",
+   "Correta: designada pelo Diretor do órgão executivo de trânsito do Estado ou do Distrito Federal.",
+   "A entidade credenciada não designa a Junta Médica Especial, que é constituída pelo órgão de trânsito.",
+   "O CETRAN designa a Junta Especial de Saúde para julgar recurso, e não a Junta Médica Especial.",
+   "O órgão máximo da União normatiza o sistema, mas não designa juntas médicas estaduais específicas."
+  ]
+ },
+ {
+  "q": "Segundo o art. 7º da Resolução CONTRAN nº 927/2022, como deve ser conduzida a avaliação psicológica do candidato com deficiência física?",
+  "alts": [
+   "De acordo com as condições físicas do candidato, adaptando-se os instrumentos e a aplicação ao caso",
+   "De forma idêntica à dos demais candidatos, sem qualquer adaptação dos instrumentos ou da aplicação",
+   "Dispensada integralmente, já que a Junta Médica Especial substitui a avaliação psicológica prevista",
+   "Realizada exclusivamente por psicólogo integrante da própria Junta Médica Especial designada ao caso",
+   "Substituída por entrevista com familiar acompanhante, quando a deficiência dificultar a comunicação"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Avaliação psicológica adaptada",
+  "base": "Resolução CONTRAN nº 927/2022, art. 7º.",
+  "coment": "O art. 7º é curto e importante: a avaliação psicológica do candidato com deficiência física deverá ser realizada DE ACORDO COM AS SUAS CONDIÇÕES FÍSICAS. Isso significa adaptar instrumentos, forma de resposta e tempo de aplicação para que se avalie efetivamente o processo psíquico pretendido, e não a limitação motora do candidato — um teste que exige preensão fina ou velocidade de escrita mediria a deficiência, e não a atenção ou a tomada de decisão. É a mesma lógica do art. 147-A do CTB, que assegura acessibilidade de comunicação ao candidato com deficiência auditiva em todas as etapas, e do item 1.3.2 do Anexo VIII, que remete os valores da dinamometria à Junta Médica Especial.",
+  "porAlt": [
+   "Correta: a avaliação é conduzida de acordo com as condições físicas do candidato examinado.",
+   "A aplicação idêntica mediria a limitação motora, e não o processo psíquico que se pretende avaliar.",
+   "A avaliação psicológica não é dispensada, e a Junta Médica Especial não a substitui no processo.",
+   "A norma não exige que o psicólogo integre a Junta Médica Especial designada para o caso.",
+   "A entrevista com familiar não substitui a avaliação psicológica adaptada do próprio candidato."
+  ]
+ },
+ {
+  "q": "Qual é o objetivo da avaliação da amplitude articular no exame do aparelho locomotor do candidato?",
+  "alts": [
+   "Estimar a idade biológica do candidato a partir da comparação com valores populacionais de referência",
+   "Calcular o índice de massa corpórea exigido para o rastreamento de distúrbios do sono na renovação",
+   "Determinar a força de preensão manual em quilograma-força para os candidatos às categorias C, D e E",
+   "Diagnosticar doenças reumatológicas sistêmicas que exijam encaminhamento ao especialista da área",
+   "Verificar se os movimentos necessários à condução são executáveis, do volante aos pontos cegos"
+  ],
+  "gab": 4,
+  "tema": "locomotor",
+  "sub": "Amplitude articular e tarefa de dirigir",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, alínea e, e Anexo VIII.",
+  "coment": "A alínea e do art. 4º, III manda explorar a integridade e a funcionalidade de cada membro e da coluna vertebral, buscando malformações, agenesias ou amputações, ASSIM COMO O GRAU DE AMPLITUDE ARTICULAR DOS MOVIMENTOS. A finalidade é funcional e concreta: verificar se o candidato consegue executar os movimentos que a condução exige — girar o volante em toda a excursão, alcançar e acionar os pedais, operar câmbio e comandos, e sobretudo ROTACIONAR A COLUNA CERVICAL para checar pontos cegos e realizar manobras de ré. Uma limitação cervical importante é frequentemente subestimada e tem repercussão direta na segurança, podendo indicar adaptações como retrovisores adicionais.",
+  "porAlt": [
+   "A idade biológica não é objeto da avaliação da amplitude articular no exame de aptidão física.",
+   "O índice de massa corpórea é calculado por peso e altura, e não pela amplitude articular medida.",
+   "A força de preensão é aferida por dinamometria, item distinto da avaliação da amplitude articular.",
+   "O diagnóstico reumatológico não é a finalidade da avaliação pericial da amplitude dos movimentos.",
+   "Correta: verificar se os movimentos necessários à condução são executáveis pelo candidato avaliado."
+  ]
+ },
+ {
+  "q": "Qual é a repercussão de uma limitação importante da rotação cervical para a condução veicular?",
+  "alts": [
+   "Não repercute sobre a condução, já que os espelhos retrovisores substituem integralmente a rotação",
+   "Repercute apenas sobre a condução de motocicletas, sendo irrelevante para os automóveis de passeio",
+   "Repercute apenas em manobras de estacionamento, sem qualquer risco durante o deslocamento normal",
+   "Repercute apenas na condução noturna, quando a visibilidade lateral já está naturalmente reduzida",
+   "Dificulta a checagem dos pontos cegos e as manobras de ré, podendo exigir adaptação com retrovisores"
+  ],
+  "gab": 4,
+  "tema": "locomotor",
+  "sub": "Rotação cervical e pontos cegos",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, alínea e; Anexo XV.",
+  "coment": "A rotação cervical é o movimento que permite a checagem direta do ponto cego antes de mudar de faixa — manobra que os espelhos não substituem integralmente, justamente porque existe uma região lateral posterior que eles não cobrem. Limitação importante da rotação compromete essa checagem e as manobras de ré, com risco concreto de colisão lateral e de atropelamento de ciclista ou motociclista que trafegue ao lado. A avaliação da amplitude cervical integra expressamente o exame do aparelho locomotor, e a resposta pericial pode incluir adaptações — retrovisores adicionais de maior campo, por exemplo — registradas como restrição, ou a redução do prazo de validade quando a limitação for progressiva.",
+  "porAlt": [
+   "Os espelhos não cobrem integralmente o ponto cego, que exige a checagem direta pela rotação.",
+   "A limitação repercute também na condução de automóveis, e não apenas na de motocicletas.",
+   "O risco não se restringe ao estacionamento: mudanças de faixa em deslocamento são críticas.",
+   "A limitação repercute em qualquer horário, e não apenas durante a condução no período noturno.",
+   "Correta: dificulta a checagem dos pontos cegos e a ré, podendo exigir adaptação com retrovisores."
+  ]
+ },
+ {
+  "q": "Um candidato com amputação de membro inferior direito busca habilitação. Qual é o encaminhamento correto?",
+  "alts": [
+   "Reprovação automática, pois a amputação de membro inferior impede o acionamento seguro dos pedais",
+   "Aprovação automática, pois a amputação isolada não repercute sobre a capacidade de conduzir veículos",
+   "Encaminhamento ao Conselho Estadual de Trânsito, que decide sobre a habilitação de amputados",
+   "Junta Médica Especial, com avaliação pela NBR 14970 e possível adaptação registrada no Anexo XV",
+   "Avaliação pelo perito da entidade credenciada, sem qualquer participação de junta médica no processo"
+  ],
+  "gab": 3,
+  "tema": "locomotor",
+  "sub": "Amputação e adaptação veicular",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, §§1º e 2º, e Anexo XV.",
+  "coment": "A amputação caracteriza deficiência física, o que desloca o exame para a JUNTA MÉDICA ESPECIAL designada pelo Diretor do órgão de trânsito, com avaliação segundo a NBR 14970 da ABNT. A conduta não é reprovar nem aprovar automaticamente: é avaliar a dirigibilidade com a adaptação adequada. Para amputação de membro inferior direito, as soluções típicas envolvem transmissão automática (código D) e acelerador à esquerda (código C), ou acelerador e freio manuais (código H) — todas registradas na CNH como observações codificadas do Anexo XV, na forma do art. 8º, II, que define o resultado 'apto com restrições'. A dinamometria, nesse candidato, tem valores definidos pela própria Junta.",
+  "porAlt": [
+   "A reprovação automática contraria o desenho da norma, que prevê avaliação com adaptação veicular.",
+   "A aprovação automática ignora a necessidade de avaliar a dirigibilidade e definir as adaptações.",
+   "O CETRAN é instância de recurso, e não a via ordinária de avaliação do candidato com deficiência.",
+   "Correta: Junta Médica Especial, avaliação pela NBR 14970 e adaptação registrada pelos códigos do anexo.",
+   "O perito isolado não avalia o candidato com deficiência física, que segue para a Junta Especial."
+  ]
+ },
+ {
+  "q": "Qual é a diferença conceitual entre 'restrição ao condutor' e 'adaptação veicular' no resultado apto com restrições?",
+  "alts": [
+   "A restrição modifica o veículo conduzido; a adaptação limita a conduta do próprio condutor habilitado",
+   "A restrição limita a conduta ou o uso de dispositivo pelo condutor; a adaptação modifica o veículo",
+   "São conceitos idênticos, sendo indiferente qual dos dois se registre na habilitação do condutor",
+   "A restrição é temporária e a adaptação é permanente, independentemente da condição clínica avaliada",
+   "A restrição aplica-se apenas às categorias A e B; a adaptação aplica-se apenas às categorias C, D e E"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Restrição e adaptação",
+  "base": "Resolução CONTRAN nº 927/2022, art. 8º, II e parágrafo único, e Anexo XV.",
+  "coment": "O inciso II do art. 8º define 'apto com restrições' como a situação em que há necessidade de registro na CNH de qualquer restrição referente AO CONDUTOR ou de ADAPTAÇÃO VEICULAR. A distinção aparece na própria tabela do Anexo XV: os códigos A e B — lentes corretivas e prótese auditiva — são restrições ao condutor, que precisa usar determinado dispositivo; os códigos C a S descrevem adaptações do veículo, de acelerador à esquerda a manopla de motocicleta; e os códigos T e U são restrições de circunstância, vedando rodovias e a condução após o pôr do sol. Todas constam da habilitação como observações codificadas, e a categorização ajuda a escolher a resposta pericial proporcional.",
+  "porAlt": [
+   "Os conceitos estão invertidos: é a adaptação que modifica o veículo conduzido pelo habilitado.",
+   "Correta: a restrição limita a conduta ou exige dispositivo do condutor; a adaptação modifica o veículo.",
+   "Não são idênticos: a própria tabela do anexo distingue as duas naturezas de observação registrada.",
+   "A distinção não é de temporalidade: ambas podem ser permanentes conforme a condição avaliada.",
+   "A distinção não depende da categoria pretendida pelo candidato no processo de habilitação."
+  ]
+ },
+ {
+  "q": "Na perícia de dano corporal, qual é a importância de registrar a DOMINÂNCIA do membro acometido?",
+  "alts": [
+   "A dominância define o valor da apólice contratada e o percentual da tabela a ser aplicado ao caso",
+   "A dominância determina o prazo de consolidação da lesão, que é sempre maior no membro dominante",
+   "A dominância é dado meramente estatístico, sem qualquer repercussão sobre a graduação da sequela",
+   "A dominância define a competência do juízo para julgar a ação de reparação proposta pela vítima",
+   "A mesma sequela repercute de forma distinta conforme acometa o membro dominante ou o contralateral"
+  ],
+  "gab": 4,
+  "tema": "securitaria",
+  "sub": "Dominância na avaliação do dano",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (avaliação do dano corporal, tabelas e baremos).",
+  "coment": "A dominância é variável funcional de primeira ordem: uma limitação de mão que comprometa preensão fina repercute muito mais na mão dominante, usada para escrever, manusear instrumentos e executar tarefas de precisão, do que na contralateral. Por isso a maioria dos baremos atribui percentuais distintos conforme o segmento acometido seja dominante ou não, e o perito precisa registrar expressamente a dominância no laudo, verificando-a no exame e não apenas no relato. Vale notar que a dominância pode ter mudado após a lesão, por adaptação — o que também merece registro, pois demonstra o grau de compensação funcional efetivamente alcançado pelo periciado.",
+  "porAlt": [
+   "A dominância é dado clínico-funcional e não define o valor da apólice contratada pelo segurado.",
+   "A dominância não determina o prazo de consolidação da lesão avaliada pelo perito examinador.",
+   "A dominância tem repercussão direta sobre a graduação, não sendo dado meramente estatístico.",
+   "A competência do juízo é matéria processual, sem relação com a dominância do membro acometido.",
+   "Correta: a mesma sequela repercute de modo distinto no membro dominante e no contralateral."
+  ]
+ },
+ {
+  "q": "Qual é a conduta correta do perito diante de sequela cuja causa pode ser tanto o sinistro quanto uma condição preexistente?",
+  "alts": [
+   "Atribuir integralmente a sequela ao sinistro, pois a dúvida deve sempre favorecer a vítima acidentada",
+   "Discutir o nexo causal de forma fundamentada, distinguindo o que preexistia do que o evento agravou",
+   "Atribuir integralmente a sequela à condição preexistente, afastando qualquer indenização devida",
+   "Omitir a discussão do nexo causal, matéria estritamente jurídica e alheia ao objeto da perícia médica",
+   "Encaminhar a definição do nexo causal ao médico assistente que acompanhou a vítima após o evento"
+  ],
+  "gab": 1,
+  "tema": "securitaria",
+  "sub": "Nexo causal e preexistência",
+  "base": "Lei nº 6.194/1974, art. 3º, §1º ('diretamente decorrentes do acidente'); conteúdo programático do Edital nº 2446.",
+  "coment": "A lei exige que as lesões enquadradas sejam DIRETAMENTE DECORRENTES DO ACIDENTE, o que faz do nexo causal parte central do trabalho pericial — e não matéria alheia a ele. A postura correta é discutir o nexo de forma fundamentada, com base na compatibilidade entre o mecanismo do trauma e a lesão, na documentação médica anterior e posterior ao evento, e nos achados de imagem que possam distinguir alteração degenerativa crônica de lesão aguda. Frequentemente a conclusão não é binária: existe condição preexistente que o evento AGRAVOU, e cabe ao perito descrever essa distinção. Presumir em qualquer das duas direções, sem elementos, compromete a técnica do laudo.",
+  "porAlt": [
+   "Presumir a favor da vítima sem elementos técnicos compromete a imparcialidade do laudo pericial.",
+   "Correta: discutir o nexo de forma fundamentada, separando o preexistente do que o evento agravou.",
+   "Atribuir tudo à preexistência sem elementos é o erro simétrico e igualmente indefensável tecnicamente.",
+   "O nexo causal é objeto central da perícia médica, e não matéria estritamente jurídica alheia a ela.",
+   "A definição do nexo é atribuição do perito, e não do médico assistente que tratou a vítima."
+  ]
+ },
+ {
+  "q": "Qual é a diferença entre incapacidade LABORATIVA e invalidez para fins de avaliação do dano corporal?",
+  "alts": [
+   "A laborativa refere-se à perda anatômica; a invalidez, exclusivamente ao exercício de uma profissão",
+   "São conceitos idênticos, avaliados pelo mesmo baremo e com os mesmos percentuais em qualquer caso",
+   "A laborativa refere-se ao exercício de uma profissão; a invalidez, à perda anatômica ou funcional",
+   "A laborativa é sempre permanente; a invalidez é sempre temporária, independentemente da sequela",
+   "A laborativa é avaliada por médico; a invalidez é avaliada exclusivamente por perito judicial não médico"
+  ],
+  "gab": 2,
+  "tema": "securitaria",
+  "sub": "Incapacidade laborativa e invalidez",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária; Lei nº 6.194/1974, art. 3º, §1º.",
+  "coment": "São conceitos distintos e frequentemente confundidos. A INVALIDEZ, na lógica da Lei nº 6.194/1974 e dos baremos, é a perda anatômica ou funcional de um segmento, enquadrada em tabela e graduada pela repercussão — é uma medida do dano em si, independente da ocupação da pessoa. A INCAPACIDADE LABORATIVA refere-se à impossibilidade de exercer determinada atividade profissional, e depende do que aquela profissão exige: a perda de uma falange do quinto dedo é sequela leve para a maioria das pessoas e potencialmente incapacitante para um instrumentista. Por isso é essencial que o perito saiba qual pergunta lhe foi feita e qual baremo ou critério se aplica ao caso.",
+  "porAlt": [
+   "Os conceitos estão invertidos em relação às definições usadas na avaliação do dano corporal.",
+   "Não são idênticos, e podem ser avaliados por critérios e baremos inteiramente distintos entre si.",
+   "Correta: a laborativa refere-se ao exercício profissional; a invalidez, à perda anatômica ou funcional.",
+   "Ambas podem ser temporárias ou permanentes, conforme a evolução e a consolidação da sequela.",
+   "A avaliação de ambas é médica, e não atribuída a perito não médico em nenhuma das hipóteses."
+  ]
+ },
+ {
+  "q": "Qual é a importância de descrever a extensão, a localização e a visibilidade nas cicatrizes durante a perícia?",
+  "alts": [
+   "São parâmetros exigidos apenas para fins estatísticos, sem repercussão sobre a conclusão pericial",
+   "São parâmetros que definem o prazo de consolidação da lesão cutânea avaliada pelo perito médico",
+   "São os parâmetros que fundamentam a graduação do dano estético e a sua repercussão social e pessoal",
+   "São parâmetros que determinam o valor exato da indenização, calculado diretamente por eles no laudo",
+   "São parâmetros que substituem a avaliação funcional do segmento corporal em que a cicatriz se localiza"
+  ],
+  "gab": 2,
+  "tema": "securitaria",
+  "sub": "Descrição do dano estético",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (danos estéticos e do sistema cutâneo).",
+  "coment": "O dano estético integra expressamente os campos listados pelo conteúdo programático, e sua avaliação depende de descrição objetiva. A LOCALIZAÇÃO importa porque uma cicatriz em face ou pescoço é permanentemente exposta, ao contrário de uma em região habitualmente coberta. A EXTENSÃO e as características — largura, relevo, retração, hipercromia ou hipocromia, aderência — determinam o quanto ela se destaca. A VISIBILIDADE em situações sociais habituais fecha o quadro. Esses parâmetros fundamentam a graduação e a repercussão sobre a vida de relação. Quando a cicatriz é retrátil, há dano estético e funcional simultâneos, e os dois devem ser descritos separadamente.",
+  "porAlt": [
+   "Os parâmetros têm repercussão direta sobre a conclusão pericial, e não finalidade estatística.",
+   "Esses parâmetros não definem o prazo de consolidação da lesão cutânea avaliada no exame.",
+   "Correta: são os parâmetros que fundamentam a graduação do dano estético e a repercussão social.",
+   "O perito descreve e gradua; o valor da indenização decorre das regras legais ou contratuais.",
+   "A descrição estética não substitui a avaliação funcional, que é feita de forma independente."
+  ]
+ },
+ {
+  "q": "Qual é a razão de a perícia de dano corporal em geral aguardar o esgotamento da reabilitação?",
+  "alts": [
+   "A reabilitação é exigência formal das seguradoras, sem qualquer repercussão sobre a técnica pericial",
+   "A reabilitação define o valor da apólice contratada, que precisa estar quitada antes da perícia médica",
+   "A reabilitação impede a realização do exame físico, que só pode ocorrer após a alta do fisioterapeuta",
+   "Enquanto houver ganho funcional possível, a sequela não é definitiva e a graduação seria prematura",
+   "A reabilitação altera a dominância do membro acometido, o que precisa estar definido antes do laudo"
+  ],
+  "gab": 3,
+  "tema": "securitaria",
+  "sub": "Reabilitação e consolidação",
+  "base": "Lei nº 6.194/1974, art. 3º, §1º ('não suscetíveis de amenização proporcionada por qualquer medida terapêutica').",
+  "coment": "A lei exige que as lesões enquadradas na tabela sejam não suscetíveis de amenização proporcionada por qualquer medida terapêutica — o que inclui a reabilitação. Enquanto houver ganho funcional possível, a sequela ainda não está consolidada e qualquer graduação será prematura, tendendo a superestimar o dano e a produzir indenização incompatível com o estado final do periciado. Daí a prática de aguardar o esgotamento das possibilidades terapêuticas antes de graduar. Vale registrar no laudo quando essa condição não se verifica: se há tratamento pendente com expectativa razoável de ganho, o perito deve dizê-lo, ainda que seja instado a concluir.",
+  "porAlt": [
+   "A exigência decorre do texto legal, e não de formalidade contratual imposta pelas seguradoras.",
+   "O valor da apólice é matéria contratual, sem relação com o momento adequado da avaliação pericial.",
+   "A reabilitação não impede o exame físico, que pode inclusive documentar a evolução do quadro.",
+   "Correta: havendo ganho funcional possível, a sequela não é definitiva e a graduação seria prematura.",
+   "A eventual mudança de dominância é dado a registrar, mas não a razão de aguardar a consolidação."
+  ]
+ },
+ {
+  "q": "Qual é o conteúdo mínimo que o relatório pericial de dano corporal deve conter?",
+  "alts": [
+   "Identificação, histórico, exame físico, exames, nexo causal, sequela e graduação bem fundamentada",
+   "Apenas a conclusão sobre o percentual apurado, sem necessidade de descrever o exame ou o raciocínio",
+   "Apenas a transcrição integral do prontuário hospitalar da vítima, sem qualquer análise adicional feita",
+   "Apenas o valor da indenização calculado pelo perito, com base na tabela e na apólice do periciado",
+   "Apenas a data do sinistro e a identificação das partes envolvidas no evento de trânsito avaliado"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "Conteúdo do relatório pericial",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (formulação de relatórios, tabelas ou baremos).",
+  "coment": "O relatório precisa permitir que um terceiro qualificado refaça o raciocínio do perito e chegue à mesma conclusão — esse é o teste prático da sua qualidade. Para isso, deve conter identificação do periciado e do solicitante; histórico do evento e da evolução clínica; exame físico detalhado, com medidas objetivas; os exames complementares considerados; a discussão do nexo causal entre o evento e a sequela; a descrição da sequela consolidada; o enquadramento no baremo aplicável; e a graduação da repercussão com justificativa explícita. Conclusão sem fundamentação é o defeito mais comum e o mais facilmente atacável em revisão ou em juízo.",
+  "porAlt": [
+   "Correta: identificação, histórico, exame, exames, nexo, sequela e graduação devidamente fundamentada.",
+   "A conclusão sem fundamentação é o defeito mais comum e o mais atacável em revisão do laudo.",
+   "A transcrição do prontuário não substitui o exame do periciado nem a análise técnica do perito.",
+   "O perito não calcula o valor da indenização, que decorre das regras legais ou contratuais aplicáveis.",
+   "Data e identificação das partes são dados iniciais, insuficientes como conteúdo do laudo pericial."
+  ]
+ },
+ {
+  "q": "Qual é a postura correta do perito quando é instado a responder quesito que extrapola sua competência técnica?",
+  "alts": [
+   "Responder mesmo assim, com base no bom senso, para não deixar nenhum quesito sem resposta",
+   "Recusar-se a elaborar o laudo inteiro, devolvendo o caso ao solicitante sem qualquer manifestação",
+   "Delegar a resposta ao médico assistente da vítima, que conhece melhor o histórico clínico completo",
+   "Registrar que o quesito extrapola o objeto da perícia médica e indicar a especialidade competente",
+   "Solicitar ao periciado que responda diretamente ao quesito, registrando a resposta dele no laudo"
+  ],
+  "gab": 3,
+  "tema": "securitaria",
+  "sub": "Quesitos fora da competência",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (formulação de relatórios).",
+  "coment": "É comum que quesitos apresentados ao perito médico envolvam matéria de engenharia — velocidade, dinâmica da colisão —, matéria jurídica — culpa, responsabilidade — ou cálculo indenizatório. A postura correta é responder integralmente ao que é médico e, quanto ao restante, REGISTRAR EXPRESSAMENTE que o quesito extrapola o objeto da perícia médica, indicando, quando cabível, a especialidade ou o profissional competente. Isso preserva a técnica do laudo e evita que uma opinião fora de área contamine a credibilidade das conclusões que estavam corretas. Responder por bom senso o que não se domina é o erro mais perigoso, porque produz afirmação sem fundamento com aparência pericial.",
+  "porAlt": [
+   "Responder por bom senso o que não se domina produz afirmação sem fundamento com ar de perícia.",
+   "Recusar o laudo inteiro é desproporcional: o que é médico deve ser respondido integralmente.",
+   "O médico assistente não substitui o perito, e a delegação comprometeria a imparcialidade exigida.",
+   "Correta: registrar que o quesito extrapola o objeto da perícia médica e indicar quem é competente.",
+   "O periciado é objeto da perícia, e não fonte de resposta técnica aos quesitos apresentados."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, o que significa o código X entre as restrições?",
+  "alts": [
+   "Outras restrições, cláusula aberta para hipóteses não contempladas pelas letras anteriores da tabela",
+   "Vedação total de conduzir veículos automotores, equivalente à inaptidão declarada pelo perito médico",
+   "Exigência de acompanhante habilitado em todos os deslocamentos realizados pelo condutor restrito",
+   "Obrigatoriedade de revisão anual do exame de aptidão física e mental, independentemente da idade",
+   "Restrição de velocidade máxima a sessenta quilômetros por hora em qualquer via percorrida pelo condutor"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Código X do Anexo XV",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XV.",
+  "coment": "A tabela do Anexo XV encerra com o código X — 'outras restrições' —, uma cláusula aberta que permite ao perito registrar limitações não contempladas pelas letras anteriores. É solução necessária porque nenhuma tabela fechada consegue antecipar todas as combinações possíveis de limitação funcional e adaptação veicular. A existência dessa cláusula reforça a lógica geral do Anexo XV: oferecer ao perito um repertório de respostas proporcionais entre a aptidão plena e a inaptidão, incluindo dispositivos do condutor (A e B), adaptações do veículo (C a S), restrições de circunstância (T e U) e, por fim, o que mais for tecnicamente justificável no caso concreto.",
+  "porAlt": [
+   "Correta: 'outras restrições', cláusula aberta para hipóteses não previstas nas letras anteriores.",
+   "A vedação total de conduzir corresponde à inaptidão, e não a um código de restrição da tabela.",
+   "A exigência de acompanhante habilitado não é o significado atribuído ao código X pela tabela.",
+   "A periodicidade do exame é definida pelo art. 147 do CTB, e não por código de restrição na CNH.",
+   "Não há na tabela restrição de velocidade máxima associada a qualquer um dos códigos previstos."
+  ]
+ }
+]
