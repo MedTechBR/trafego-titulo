@@ -8954,6 +8954,446 @@ window.BANCO=[
 ]
 },
 {
+"q": "Qual é a diferença entre equipamentos de segurança ativa e passiva, segundo a diretriz da ABRAMET sobre o cinto de segurança?",
+"alts": [
+"Os ativos reduzem as consequências do sinistro e os passivos impedem que ele venha a ocorrer",
+"Os ativos são obrigatórios por lei e os passivos ficam sempre a critério do proprietário do carro",
+"Os ativos evitam o sinistro e exigem ação do usuário; os passivos reduzem as consequências dele",
+"Os ativos equipam somente os veículos de carga, e os passivos apenas os de transporte de passageiros",
+"Os ativos atuam depois da colisão e os passivos atuam antes de o veículo entrar em conflito"
+],
+"gab": 2,
+"tema": "protecao",
+"sub": "Segurança ativa e segurança passiva",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 1.",
+"coment": "Equipamentos de segurança ATIVA contribuem para EVITAR o sinistro — freios, suspensão, faróis e lanternas, retrovisores, pneus, limpadores — e as estratégias de proteção ativa exigem uma determinada ação da pessoa para escapar da situação de risco. Equipamentos de segurança PASSIVA são projetados para reduzir as CONSEQUÊNCIAS do sinistro: cinto de segurança, airbag, apoio de cabeça, assentos infantis, barras nas portas. As estratégias passivas costumam ser implementadas por leis que normatizam condições de segurança ou obrigam certos comportamentos, e prescindem de ação, conhecimento ou colaboração das pessoas envolvidas — é justamente essa independência do comportamento que as torna tão eficazes.",
+"porAlt": [
+"A definição está invertida: são os passivos que reduzem as consequências do evento ocorrido.",
+"A obrigatoriedade legal não é o critério que separa os equipamentos ativos dos passivos.",
+"Correta: os ativos evitam o sinistro e exigem ação; os passivos reduzem as consequências.",
+"O tipo de veículo equipado não distingue a segurança ativa da segurança passiva veicular.",
+"O momento de atuação está trocado: os passivos é que atuam a partir da colisão ocorrida."
+]
+},
+{
+"q": "O que caracteriza a prevenção quaternária no contexto da segurança viária, segundo a diretriz?",
+"alts": [
+"Reabilitar a vítima para que ela volte ao potencial máximo que tinha antes do evento sofrido",
+"Filtrar e propagar na comunidade o conhecimento e as práticas de promoção da segurança",
+"Minimizar a gravidade das lesões quando não foi possível evitar o evento traumático ocorrido",
+"Impedir a ocorrência do sinistro antes que o evento potencialmente traumático aconteça",
+"Custear o tratamento das vítimas por meio do seguro obrigatório previsto na legislação"
+],
+"gab": 1,
+"tema": "protecao",
+"sub": "Níveis de prevenção e a prevenção quaternária",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 2.",
+"coment": "A diretriz organiza quatro níveis. Primária: medidas que evitam a ocorrência do sinistro, impedindo o evento potencialmente traumático. Secundária: minimizar a gravidade das lesões quando o evento não pôde ser evitado, incluindo um sistema efetivo de atendimento aos feridos, com emergência eficaz, estabilização, transferência rápida a centro especializado e cuidados intensivos. Terciária: reabilitação, para que a vítima retorne ao potencial máximo anterior com o menor grau de deficiência possível. E a quaternária, conceito mais recente que atravessa os três níveis, considera fortemente os determinantes sociais e a equidade, e consiste em filtrar e propagar na comunidade o conhecimento e as práticas de promoção da segurança.",
+"porAlt": [
+"A reabilitação da vítima para o potencial anterior corresponde ao nível terciário de prevenção.",
+"Correta: filtrar e propagar na comunidade o conhecimento e as práticas de segurança viária.",
+"Minimizar a gravidade das lesões após o evento corresponde ao nível secundário de prevenção.",
+"Impedir a ocorrência do evento traumático corresponde ao nível primário de prevenção viária.",
+"O custeio do tratamento pelo seguro obrigatório não define nenhum dos níveis de prevenção."
+]
+},
+{
+"q": "Em qual das três colisões sofridas pelo ocupante não retido ocorre a maior parte das lesões?",
+"alts": [
+"Na primeira, quando a estrutura do veículo se deforma progressivamente ao absorver o impacto",
+"Na segunda, quando o corpo do ocupante se choca contra as estruturas internas do veículo",
+"Na terceira, quando os órgãos internos impactam a estrutura óssea que vem desacelerando",
+"Na quarta, quando o veículo já parado é atingido por outro veículo que vinha logo atrás dele",
+"Em nenhuma delas, pois as três colisões produzem exatamente o mesmo número de lesões"
+],
+"gab": 1,
+"tema": "protecao",
+"sub": "As três colisões e a atuação do cinto",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 4.",
+"coment": "Na primeira colisão o veículo passa de 50 km/h a zero em cerca de 120 milésimos de segundo, deformando-se para absorver a energia. Na segunda, o ocupante não retido continua na velocidade anterior e cada parte do corpo atinge as estruturas internas em momentos diferentes, num tempo em torno de um décimo de segundo — e é NELA que ocorre a maior parte das lesões. Na terceira, os órgãos internos impactam a estrutura óssea em desaceleração, com roturas e hemorragias internas. O cinto atua predominantemente na segunda e na terceira colisões: limita o deslocamento e alonga o tempo de desaceleração do corpo.",
+"porAlt": [
+"Na primeira é o veículo que se deforma, e não o ocupante que sofre a maior parte das lesões.",
+"Correta: na segunda, quando o corpo se choca contra as estruturas internas do veículo.",
+"A terceira produz roturas e hemorragias internas, mas não a maior parte das lesões sofridas.",
+"A diretriz descreve três colisões, e não uma quarta como a que a alternativa apresenta.",
+"As três colisões não produzem o mesmo número de lesões, e a segunda concentra a maioria."
+]
+},
+{
+"q": "Qual é a eficácia do cinto de segurança na redução de morte e ferimentos graves segundo as metanálises citadas na diretriz?",
+"alts": [
+"Dez por cento para ocupantes do banco dianteiro e vinte e cinco para os do banco traseiro",
+"Noventa por cento para ocupantes do banco dianteiro e oitenta e cinco para os do traseiro",
+"Cinco por cento para ocupantes do banco dianteiro e três por cento para os do banco traseiro",
+"Cem por cento para os dois bancos, desde que o veículo também disponha de airbag frontal",
+"Sessenta por cento para ocupantes do banco dianteiro e quarenta e quatro para os do traseiro"
+],
+"gab": 4,
+"tema": "protecao",
+"sub": "Eficácia por posição no veículo",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 3.2.",
+"coment": "Metanálises concluíram que os cintos reduzem o risco de morte e ferimentos graves em 60% para ocupantes do banco da frente e em 44% para os do banco traseiro, e cerca de 50% dessa eficácia se deve à prevenção da ejeção do ocupante. A diferença entre as posições se explica porque os ocupantes dianteiros estão mais expostos ao contato com painel e volante e têm cerca de 60% mais risco de morte ou ferimento grave do que os do traseiro — logo, há mais risco a evitar. Outros números da diretriz: redução de mortes de 41 ± 4% (Evans) e 43% (NHTSA), caindo para 27% e 32% no cinto de dois pontos do banco de trás.",
+"porAlt": [
+"Dez e vinte e cinco por cento subestimam muito a eficácia apurada nas metanálises citadas.",
+"Noventa e oitenta e cinco por cento superam com folga a eficácia apurada nesses estudos.",
+"Cinco e três por cento não correspondem a nenhuma estimativa de eficácia já publicada.",
+"Nenhum dispositivo confere proteção integral, nem mesmo o cinto associado ao airbag frontal.",
+"Correta: sessenta por cento no banco dianteiro e quarenta e quatro por cento no traseiro."
+]
+},
+{
+"q": "A que fator se deve cerca de metade da eficácia do cinto de segurança na redução de mortes?",
+"alts": [
+"À redução da velocidade do veículo nos instantes que antecedem o impacto contra o obstáculo",
+"À prevenção da ejeção do ocupante para fora do habitáculo durante o evento de trânsito",
+"À melhora do comportamento do condutor, que passa a conduzir com mais prudência na via",
+"Ao acionamento automático do airbag frontal, que depende do travamento prévio do cinto",
+"À sinalização sonora que o veículo emite quando o cinto não está afivelado pelo ocupante"
+],
+"gab": 1,
+"tema": "protecao",
+"sub": "Prevenção da ejeção",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 3.2.",
+"coment": "Cerca de 50% da eficácia dos cintos se deve à prevenção da ejeção de ocupantes. O dado explica por que até o cinto de dois pontos, que não impede a flexão do tronco sobre o abdome nem o choque da cabeça contra as estruturas do veículo, ainda assim é muito preferível a nenhum cinto: a mortalidade está muito aumentada nos casos de ejeção. É também o que sustenta o alerta sobre o capotamento, em que o ocupante sem cinto pode colidir com qualquer parte do habitáculo e, se ejetado, corre risco muito maior. Estudo na Noruega encontrou risco 8,3 vezes maior de sinistro fatal e 5,2 vezes de ferimento grave entre motoristas sem cinto.",
+"porAlt": [
+"O cinto não reduz a velocidade do veículo nos instantes anteriores ao impacto sofrido.",
+"Correta: à prevenção da ejeção do ocupante para fora do habitáculo no evento de trânsito.",
+"A mudança de comportamento do condutor não é o mecanismo de proteção do dispositivo.",
+"O airbag não depende do travamento do cinto, e não é ele que responde por essa fração.",
+"O alerta sonoro é apenas um lembrete, e não o mecanismo que confere a proteção medida."
+]
+},
+{
+"q": "Qual é a limitação do cinto de dois pontos, também chamado subabdominal ou pélvico, em relação ao de três pontos?",
+"alts": [
+"Retém só o ombro e permite que o quadril deslize livremente para a frente durante o impacto",
+"Não retém parte alguma do corpo e serve apenas para acionar o sensor eletrônico do airbag",
+"Retém o corpo inteiro, mas se rompe com facilidade em qualquer colisão acima de trinta por hora",
+"Retém o tórax e a pelve, sendo por isso equivalente ao cinto de três pontos em toda colisão",
+"Retém só o quadril e não impede a flexão do tronco sobre o abdome durante a colisão sofrida"
+],
+"gab": 4,
+"tema": "protecao",
+"sub": "Cinto de dois pontos e suas limitações",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 5.",
+"coment": "O cinto de dois pontos retém somente o quadril e não evita que o ocupante flexione o tórax sobre o abdome na colisão, o que pode acarretar lesões internas por aumento excessivo da pressão intra-abdominal e, no rebote, lesões da coluna vertebral; também não impede que cabeça e tórax se choquem contra volante, painel ou vidros. Ainda assim, é preferível usá-lo a não usar nenhum, pela mortalidade associada à ejeção. É comum no assento central traseiro e nos assentos dianteiros de picapes. Trocar o cinto abdominal pelo de três pontos na posição central traseira reduz as lesões em cerca de 25%.",
+"porAlt": [
+"A retenção do dois pontos é pélvica, e não do ombro, que fica livre por não haver faixa diagonal.",
+"O dispositivo retém efetivamente o quadril e não tem função de acionar o sensor do airbag.",
+"O cinto não se rompe nessa faixa de velocidade, e a limitação descrita não é de resistência.",
+"O dois pontos não retém o tórax e não é equivalente ao de três pontos em nenhuma colisão.",
+"Correta: retém apenas o quadril e não impede a flexão do tronco sobre o abdome na colisão."
+]
+},
+{
+"q": "Qual lesão o cinto de segurança tem menor papel em prevenir, nas colisões traseiras com encosto de cabeça mal posicionado?",
+"alts": [
+"As decorrentes da ejeção do ocupante para fora do habitáculo no momento do capotamento",
+"As decorrentes do choque do tórax contra o volante durante a colisão frontal do veículo",
+"As decorrentes do choque da cabeça contra o para-brisa em uma colisão frontal em rodovia",
+"As decorrentes do efeito chicote, com hiperflexão e hiperextensão cervical e lesão medular",
+"As decorrentes da rotura de órgãos internos pela desaceleração brusca do corpo do ocupante"
+],
+"gab": 3,
+"tema": "protecao",
+"sub": "Efeito chicote e o encosto de cabeça",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, itens 4 e 7.",
+"coment": "Na colisão traseira o tronco é projetado para a frente acelerado junto com o veículo; se o encosto de cabeça não estiver devidamente posicionado ou não existir, ocorre movimento brusco da cabeça para a frente e para trás, com hiperflexão e hiperextensão do pescoço — o efeito chicote —, podendo resultar em fratura da coluna cervical e lesão medular. O cinto tem papel MENOR na prevenção dessas lesões, e a diretriz as classifica como as mais importantes que o cinto não previne. Na colisão lateral, do mesmo modo, o cinto tem pouco efeito sobre as lesões por compressão do tronco e da pelve e por rotação contralateral da cabeça e do pescoço.",
+"porAlt": [
+"A ejeção no capotamento é justamente o que o cinto de segurança previne com mais eficácia.",
+"O choque do tórax contra o volante é evitado pela faixa transversal do cinto de três pontos.",
+"O choque da cabeça contra o para-brisa é evitado pela retenção que o dispositivo promove.",
+"Correta: as do efeito chicote, com hiperflexão e hiperextensão cervical e lesão medular.",
+"A rotura de órgãos por desaceleração é atenuada pelo alongamento do tempo de frenagem."
+]
+},
+{
+"q": "Como se define a chamada síndrome do cinto de segurança, descrita em 1962?",
+"alts": [
+"Pela associação de fratura de clavícula com luxação do ombro do lado da faixa transversal",
+"Pela associação de contusão pulmonar com fratura de arcos costais do lado do impacto",
+"Pela associação de trauma cranioencefálico com fratura de ossos da face e do maxilar",
+"Pela associação de fratura de fêmur com luxação do quadril no ocupante do banco dianteiro",
+"Pela associação de lesões abdominais com fraturas da coluna vertebral no mesmo paciente"
+],
+"gab": 4,
+"tema": "curativa",
+"sub": "Síndrome do cinto de segurança",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 8.",
+"coment": "A síndrome do cinto de segurança foi descrita em 1962 e definida como a associação de lesões abdominais com fraturas da coluna. As lesões abdominais podem incluir roturas de duodeno, intestino delgado, cólon, baço, pâncreas, útero grávido e musculatura da parede abdominal. A ela se associa a fratura de Chance, provocada por mecanismo de distração e flexão, com fratura transversa de vértebras torácicas ou lombares. O posicionamento incorreto da faixa subabdominal, com aumento súbito da pressão intra-abdominal, já foi relacionado a quilotórax, transecção pancreática e rotura de bexiga.",
+"porAlt": [
+"A fratura de clavícula com luxação do ombro decorre da faixa transversal, mas não é a síndrome.",
+"A contusão pulmonar com fratura de costelas não compõe a definição clássica dessa síndrome.",
+"O trauma cranioencefálico com fratura de face não integra a definição da síndrome descrita.",
+"A fratura de fêmur com luxação do quadril não compõe a definição clássica da síndrome citada.",
+"Correta: associação de lesões abdominais com fraturas da coluna vertebral no mesmo doente."
+]
+},
+{
+"q": "Qual é a conduta indicada diante do chamado sinal do cinto de segurança em vítima de sinistro de trânsito?",
+"alts": [
+"Levantar a suspeita de lesão intra-abdominal e investigar o doente de forma dirigida a ela",
+"Descartar de imediato qualquer lesão interna, já que a marca comprova a retenção adequada",
+"Tratar apenas a lesão de pele com curativo local e liberar o paciente do serviço de emergência",
+"Encaminhar o caso à perícia securitária antes de qualquer avaliação clínica ou de imagem",
+"Solicitar avaliação dermatológica de urgência para graduar a extensão do dano estético"
+],
+"gab": 0,
+"tema": "curativa",
+"sub": "Sinal do cinto de segurança",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 8.",
+"coment": "O sinal do cinto de segurança, também chamado tatuagem do cinto, é a marca de contusão torácica e ou abdominal deixada pelas faixas. A diretriz é direta: após o sinistro, a presença desse sinal deve LEVANTAR A SUSPEITA de lesão intra-abdominal. É um dos achados de exame físico mais úteis do atendimento inicial, porque indica a magnitude da energia transferida e aponta o compartimento a investigar, mesmo em paciente inicialmente estável. O raciocínio se completa com a busca ativa de fratura de coluna, pela associação que define a síndrome do cinto de segurança.",
+"porAlt": [
+"Correta: levantar a suspeita de lesão intra-abdominal e investigar o doente de modo dirigido.",
+"A marca não descarta lesão interna; ao contrário, é justamente o que a torna mais provável.",
+"Tratar só a pele e liberar o paciente ignora o risco de lesão intra-abdominal oculta e grave.",
+"A avaliação securitária não antecede a investigação clínica e de imagem do paciente ferido.",
+"A avaliação do dano estético não tem prioridade sobre a busca de lesão interna no momento."
+]
+},
+{
+"q": "Que risco decorre de posicionar a faixa transversal do cinto por debaixo do braço ou atrás das costas?",
+"alts": [
+"Nenhum, desde que a faixa subabdominal esteja corretamente apoiada nas cristas ilíacas",
+"Apenas desconforto local, sem qualquer repercussão sobre a proteção conferida pelo cinto",
+"Somente o acionamento indevido do airbag frontal do lado em que o ocupante se encontra",
+"Pode causar lesões de muita gravidade, por perder o apoio no tórax superior e na clavícula",
+"Apenas a perda da garantia do fabricante quanto ao mecanismo retrátil do próprio cinto"
+],
+"gab": 3,
+"tema": "protecao",
+"sub": "Faixa transversal mal posicionada",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, itens 8 e 9.2.",
+"coment": "A colocação da faixa transversal por debaixo do braço ou atrás das costas pode causar lesões de muita gravidade. A explicação é biomecânica: a região torácica superior e a crista ilíaca superior são as áreas esqueléticas mais adequadas para conter as forças do impacto, e é sobre elas que o cinto deve se apoiar — a faixa transversal cruzando o meio do ombro, no terço médio da clavícula, e a subabdominal ao longo dos quadris e na parte superior das coxas. Retirar a faixa do tórax transfere a carga para estruturas que não a suportam. A diretriz lista, entre as lesões da faixa transversal mal posicionada, rotura de aorta, fratura de esterno, fratura de clavícula, luxação do ombro e lesões cervicais.",
+"porAlt": [
+"O apoio correto da faixa inferior não compensa a retirada da faixa transversal do tórax.",
+"Não se trata de mero desconforto: a proteção conferida pelo dispositivo fica comprometida.",
+"O acionamento do airbag não depende da posição em que a faixa transversal foi colocada.",
+"Correta: pode causar lesões graves, por perder o apoio no tórax superior e na clavícula.",
+"A questão não é contratual: o risco descrito é de lesão corporal grave no evento de trânsito."
+]
+},
+{
+"q": "Que erro de ajuste da faixa subabdominal é descrito, e como o índice de massa corporal o agrava?",
+"alts": [
+"A faixa fica baixa e recuada, deslocando-se para trás cerca de dez centímetros nos obesos avaliados",
+"A faixa fica bem ajustada em todos os ocupantes, independentemente do peso corporal que tenham",
+"A faixa fica alta e à frente, com sete vírgula dois e quatro vírgula cinco centímetros no obeso",
+"A faixa se desloca lateralmente, saindo do quadril direito para o esquerdo durante a marcha",
+"A faixa se afrouxa por completo, deixando de tocar o corpo do ocupante em qualquer das posições"
+],
+"gab": 2,
+"tema": "grupos",
+"sub": "Obesidade e posicionamento do cinto",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, itens 9.2 e 9.5.",
+"coment": "Estudos mostram que os ocupantes muitas vezes não ajustam adequadamente o cinto subabdominal, colocando-o em média 5,0 cm para cima e 3,5 cm para a frente. O índice de massa corporal mais alto associou-se fortemente a posicionamento ainda pior: em média 7,2 cm acima e 4,5 cm à frente, sem que se observasse o mesmo desvio na faixa transversal. A obesidade eleva o risco de lesões em sinistros justamente pela alteração do posicionamento do cinto em relação às estruturas esqueléticas: a cada aumento de 10 kg/m² no IMC, a faixa se afasta 43 mm anteriormente e 21 mm superiormente da crista ilíaca anterossuperior, com aumento de 130 mm no comprimento da faixa subabdominal.",
+"porAlt": [
+"O desvio descrito é para cima e para a frente, e não para baixo e para trás como se afirma.",
+"O ajuste não é adequado na média dos ocupantes, e piora com o aumento do índice corporal.",
+"Correta: fica alta e à frente, com sete vírgula dois e quatro vírgula cinco no obeso avaliado.",
+"O desvio descrito não é lateral de um quadril para o outro durante a condução do veículo.",
+"A faixa não deixa de tocar o corpo: ela se desloca de sua posição óssea de apoio ideal."
+]
+},
+{
+"q": "Por que o ocupante do banco traseiro sem cinto ameaça também os ocupantes dos bancos dianteiros?",
+"alts": [
+"Porque é arremessado contra eles, com grande ganho de massa por deslocar-se em alta velocidade",
+"Porque impede o acionamento dos airbags dianteiros ao alterar o peso registrado nos assentos",
+"Porque desloca o centro de gravidade do veículo e provoca o capotamento durante a frenagem",
+"Porque obstrui o campo visual do condutor pelo espelho retrovisor interno durante o trajeto",
+"Porque aumenta o consumo de combustível e reduz a eficiência do sistema de freios do carro"
+],
+"gab": 0,
+"tema": "protecao",
+"sub": "Ocupante traseiro como projétil",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 9.",
+"coment": "Estudo com dados do instituto japonês de pesquisa e análise de sinistros concluiu que, se os ocupantes do banco traseiro estivessem usando o cinto, quase 80% das mortes de ocupantes dianteiros que USAVAM cinto poderiam ter sido evitadas — o ocupante traseiro solto é arremessado violentamente contra os da frente, transformando-se em ameaça real pelo grande ganho de massa de um corpo em alta velocidade. A diretriz sintetiza: não usar o cinto no banco de trás aumenta em cinco vezes o risco de morte do ocupante do banco da frente. Ao próprio ocupante traseiro sem cinto, o corpo se projeta para cima contra o teto e para a frente contra o encosto dianteiro, com hiperextensão cervical.",
+"porAlt": [
+"Correta: é arremessado contra eles, com grande ganho de massa por estar em alta velocidade.",
+"O ocupante solto não impede o acionamento dos airbags dianteiros por alteração de peso.",
+"O deslocamento do centro de gravidade pelo ocupante não é a causa do risco aqui descrito.",
+"A obstrução do retrovisor interno não é o mecanismo de dano descrito para essa situação.",
+"O consumo de combustível e a eficiência dos freios não guardam relação com esse risco."
+]
+},
+{
+"q": "Qual é o enquadramento legal de deixar de usar o cinto de segurança, previsto no artigo 167 do CTB?",
+"alts": [
+"Infração leve, com aplicação de advertência escrita na primeira abordagem feita ao condutor",
+"Infração média, com multa e suspensão imediata do direito de dirigir por doze meses seguidos",
+"Infração grave, com multa e retenção do veículo até a colocação do cinto pelo próprio infrator",
+"Infração gravíssima, com multa multiplicada por dez e recolhimento do documento de habilitação",
+"Conduta atípica, punível apenas quando dela resultar lesão corporal em sinistro de trânsito"
+],
+"gab": 2,
+"tema": "legislacao",
+"sub": "Artigo 167 do CTB",
+"base": "CTB, arts. 65, 105, I, e 167; Diretriz ABRAMET sobre o cinto de segurança, item 9.1.",
+"coment": "O art. 65 do CTB torna obrigatório o uso do cinto para condutor e passageiros em todas as vias do território nacional, salvo situações regulamentadas pelo CONTRAN; o art. 105, I, o inclui entre os equipamentos obrigatórios dos veículos, com exceção dos destinados a transporte de passageiros em percursos em que seja permitido viajar em pé; e o art. 167 define que deixar de usá-lo é infração GRAVE, com penalidade de multa e medida administrativa de retenção do veículo até a colocação do cinto pelo infrator. Repare que a retenção não é apreensão: cessa assim que o cinto é colocado.",
+"porAlt": [
+"A natureza não é leve, e a legislação não prevê advertência escrita para essa conduta apurada.",
+"A natureza não é média, e não há suspensão automática do direito de dirigir nessa hipótese.",
+"Correta: infração grave, com multa e retenção do veículo até a colocação do cinto pelo infrator.",
+"A natureza não é gravíssima, e não há recolhimento do documento de habilitação por essa conduta.",
+"A conduta é típica e sancionada, independentemente de haver ou não lesão corporal no evento."
+]
+},
+{
+"q": "O que a Resolução CONTRAN nº 951, de 28 de março de 2022, proíbe expressamente quanto ao cinto de segurança?",
+"alts": [
+"A utilização de dispositivos que travem, afrouxem ou modifiquem o funcionamento normal dele",
+"A utilização do cinto de três pontos nos assentos traseiros dos veículos de passeio nacionais",
+"A utilização de qualquer ancoragem do tipo ISOFIX nos assentos do banco traseiro do veículo",
+"A utilização do apoio de cabeça em conjunto com o cinto nos assentos dianteiros do veículo",
+"A utilização do cinto por passageiros em veículos onde seja permitido viajar em pé no percurso"
+],
+"gab": 0,
+"tema": "legislacao",
+"sub": "Resolução CONTRAN nº 951/2022",
+"base": "Resolução CONTRAN nº 951, de 28/03/2022, art. 5º; Diretriz ABRAMET sobre o cinto de segurança, item 9.1.",
+"coment": "O art. 5º da Resolução 951/2022 proíbe a utilização de dispositivos no cinto de segurança que travem, afrouxem ou modifiquem o seu funcionamento normal — são os clipes e prendedores vendidos como acessório de conforto, que anulam a folga calculada do sistema e transformam o cinto em fonte de lesão. A mesma resolução exige a instalação de cinto de três pontos com retrator e apoio de cabeça em TODAS as posições de assento e determina que automóveis, camionetas e utilitários tenham ao menos uma ancoragem inferior ISOFIX e uma do tirante superior, ou uma posição LATCH, para fixação de dispositivo de retenção infantil no banco traseiro.",
+"porAlt": [
+"Correta: dispositivos que travem, afrouxem ou modifiquem o funcionamento normal do cinto.",
+"O cinto de três pontos no banco traseiro é exigido pela resolução, e não proibido por ela.",
+"A ancoragem ISOFIX é exigida no banco traseiro, e não proibida pela resolução em questão.",
+"O apoio de cabeça é exigido em todas as posições de assento, e não vedado pela resolução.",
+"A dispensa nos percursos com passageiros em pé decorre do CTB, e não é proibição do cinto."
+]
+},
+{
+"q": "Qual é o posicionamento correto das faixas do cinto de três pontos em um ocupante adulto?",
+"alts": [
+"Transversal sobre o pescoço e subabdominal sobre a cicatriz umbilical do ocupante do carro",
+"Transversal sob a axila do lado do fecho e subabdominal acima da protuberância abdominal",
+"Transversal atrás das costas e subabdominal cruzando a linha média do abdome do ocupante",
+"Transversal no terço médio da clavícula e subabdominal nos quadris e na parte alta das coxas",
+"Transversal sobre o esterno e subabdominal apoiada no rebordo costal inferior do ocupante"
+],
+"gab": 3,
+"tema": "protecao",
+"sub": "Posicionamento correto das faixas",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, itens 5 e 9.2.",
+"coment": "Os cintos só são efetivos quando usados corretamente. A região torácica superior e a crista ilíaca superior são as áreas esqueléticas mais adequadas para conter as forças do impacto: a faixa transversal deve cruzar o meio do ombro, no terço médio da clavícula, poupando o pescoço, e descer em diagonal até a crista ilíaca contralateral, onde fica o fecho; a subabdominal deve ficar abaixo, ao longo dos quadris e na parte superior das coxas, tendo as cristas ilíacas como ponto ósseo de suporte. Esse posicionamento reduz o deslocamento do quadril para a frente e a probabilidade de deslizamento do cinto sobre o abdome, que é a origem das lesões viscerais.",
+"porAlt": [
+"A faixa transversal deve poupar o pescoço, e a inferior não se apoia na cicatriz umbilical.",
+"Passar a faixa sob a axila e a inferior sobre o abdome é justamente o erro que causa lesões.",
+"A faixa transversal atrás das costas anula a proteção torácica e pode causar lesão grave.",
+"Correta: transversal no terço médio da clavícula e subabdominal nos quadris e nas coxas.",
+"O rebordo costal não é ponto de apoio da faixa inferior, que deve se apoiar nas cristas ilíacas."
+]
+},
+{
+"q": "Qual tipo de cinto se recomenda para a gestante, e com que fundamento experimental?",
+"alts": [
+"O de dois pontos, por não exercer pressão alguma sobre a região torácica da mulher que está grávida",
+"Nenhum cinto, pois a gestante consta do rol de dispensas médicas previsto na legislação vigente",
+"O de quatro pontos, já validado como o mais seguro para a gestante nas colisões de tipo frontal",
+"O de três pontos, cuja faixa diagonal elevou a sobrevivência fetal de cinquenta para noventa e dois",
+"O cinto abdominal apoiado acima do útero, de modo a evitar qualquer contato com a região da pelve"
+],
+"gab": 3,
+"tema": "grupos",
+"sub": "Tipo de cinto na gestação",
+"base": "Diretriz ABRAMET sobre cinto de segurança e gravidez, itens 3 e 8.",
+"coment": "Série experimental de colisões concluiu que o cinto de três pontos confere proteção superior à mãe e ao feto quando comparado ao subabdominal. Na desaceleração brusca, o tronco projetado para a frente comprime fortemente o útero, com aumento de 550 mmHg, e o cinto de três pontos elimina esse acréscimo de pressão pela ação da faixa diagonal, que evita a flexão do corpo materno sobre a pelve. Em estudos experimentais, a faixa diagonal aumentou a sobrevivência fetal de 50% para 92%; a tensão uterina superava os limites de resistência tecidual a 35 km/h sem cinto e apenas a 45 e 55 km/h com o de três pontos. O cinto de quatro pontos ainda tem questões não resolvidas quanto à gestante em colisão frontal.",
+"porAlt": [
+"O de dois pontos não impede a flexão do tronco e não protege o útero da compressão gerada.",
+"A gravidez não está entre as condições que justificam exceção ao uso do cinto de segurança.",
+"O de quatro pontos ainda tem questões não resolvidas quanto ao risco em colisão frontal.",
+"Correta: o de três pontos, cuja faixa diagonal elevou a sobrevivência fetal a noventa e dois.",
+"Apoiar a faixa acima do útero é exatamente o erro que transmite a força ao conteúdo uterino."
+]
+},
+{
+"q": "Como devem ser posicionadas as faixas do cinto de segurança na gestante?",
+"alts": [
+"Subabdominal sobre o ponto mais alto do útero e diagonal cruzando o fundo uterino da grávida",
+"Subabdominal abaixo da protuberância e diagonal entre as mamas e lateral ao útero gravídico",
+"Subabdominal na cintura e diagonal apoiada sob o braço do lado em que se encontra o fecho",
+"Subabdominal acima da cicatriz umbilical e diagonal apoiada por trás do tórax da gestante",
+"Subabdominal na altura do rebordo costal e diagonal cruzando a base do pescoço da gestante"
+],
+"gab": 1,
+"tema": "grupos",
+"sub": "Posicionamento do cinto na gestante",
+"base": "Diretriz ABRAMET sobre cinto de segurança e gravidez, itens 4 e 8.",
+"coment": "A diretriz recomenda: faixa subabdominal posicionada o mais abaixo possível da protuberância abdominal, ao longo dos quadris e na parte superior das coxas; e faixa diagonal cruzando o meio do ombro, no terço médio da clavícula, passando entre as mamas e lateralmente ao abdome, NUNCA sobre o útero. Acrescenta duas proibições expressas: jamais colocar a faixa superior por trás do tórax, sob o braço ou na axila; e jamais sentar-se sobre a faixa inferior para usar somente a diagonal. O médico do tráfego deve alertar a gestante candidata ou já condutora — e também na condição de ocupante — sobre os riscos e a forma correta de proteger a si e ao concepto.",
+"porAlt": [
+"Apoiar a faixa inferior sobre o útero transmite a força diretamente ao conteúdo uterino.",
+"Correta: subabdominal abaixo da protuberância e diagonal entre as mamas e lateral ao útero.",
+"A faixa diagonal sob o braço é expressamente proibida pela diretriz por risco de lesão grave.",
+"A faixa inferior acima do umbigo e a diagonal atrás do tórax reúnem os dois erros vedados.",
+"O rebordo costal e a base do pescoço não são pontos de apoio adequados para as faixas."
+]
+},
+{
+"q": "Qual é a orientação da diretriz quanto ao airbag em veículo conduzido ou ocupado por gestante?",
+"alts": [
+"Deve ser desconectado em toda gestação, pela proximidade do útero com o módulo do airbag",
+"Deve ser mantido, mas com o banco aproximado ao volante para reduzir o curso do impacto",
+"Deve ser desconectado apenas no terceiro trimestre, quando o útero atinge o maior volume",
+"Deve ser substituído por modelo lateral, único autorizado para gestantes pela norma vigente",
+"Não deve ser desconectado, bastando usar o cinto corretamente e afastar o banco para trás"
+],
+"gab": 4,
+"tema": "grupos",
+"sub": "Airbag e gestação",
+"base": "Diretriz ABRAMET sobre cinto de segurança e gravidez, item 6.",
+"coment": "Os benefícios do airbag na gravidez superam os riscos, desde que a gestante use corretamente o cinto e afaste o banco para trás o máximo possível, até o limite que permita o perfeito contato com volante e pedais quando estiver na direção. A diretriz é explícita: o airbag NÃO deve ser desconectado para mulheres grávidas. Os relatos que associam o acionamento a descolamento prematuro de placenta com óbito fetal, rotura uterina ou lesões menores são apenas relatos de casos. Vale lembrar a hierarquia de proteção: usados isoladamente, o cinto reduz a mortalidade em 65% contra 8% do airbag; combinados, chegam a cerca de 68%.",
+"porAlt": [
+"A desconexão do airbag na gestação não é recomendada em nenhum momento da gravidez.",
+"Aproximar o banco do volante é o oposto do recomendado, que é afastá-lo o máximo possível.",
+"Não há recomendação de desconexão restrita ao terceiro trimestre da gestação da paciente.",
+"Não existe exigência normativa de substituição do airbag frontal por modelo lateral.",
+"Correta: não deve ser desconectado, bastando usar o cinto e afastar o banco para trás."
+]
+},
+{
+"q": "Quais desfechos são mais frequentes em gestantes que não usam o cinto de segurança e se envolvem em sinistros?",
+"alts": [
+"A metade das hemorragias no parto e óbito fetal duas vezes menos frequente do que nas demais",
+"Nenhuma diferença de desfecho materno ou fetal em relação às gestantes que usam o cinto",
+"O dobro de hemorragias no parto e óbito fetal duas vírgula oito vezes mais frequente nelas",
+"Apenas fraturas de membros inferiores, sem qualquer repercussão obstétrica documentada",
+"Somente lesões cutâneas superficiais na parede abdominal, de resolução espontânea rápida"
+],
+"gab": 2,
+"tema": "grupos",
+"sub": "Desfechos obstétricos sem o cinto",
+"base": "Diretriz ABRAMET sobre cinto de segurança e gravidez, item 2.",
+"coment": "Gestantes que não usam cinto apresentam duas vezes mais hemorragias no parto, e os óbitos fetais são 2,8 vezes mais frequentes em caso de sinistro; as consequências são as mesmas quando o uso é inapropriado, independentemente da posição ocupada no veículo. A lista de eventos adversos mais frequentes inclui óbito fetal, baixo peso ao nascer, prematuridade, descolamento prematuro de placenta, hemorragias no parto e rotura uterina — sendo o descolamento a complicação mais frequente. Na gravidez, os sinistros de trânsito são a etiologia mais frequente de trauma, com mais de 60%, e a principal causa de óbito fetal ligado a trauma materno, com mais de 80%. Gestantes que usam o cinto não têm risco fetal significativamente maior do que as que não se envolvem em sinistros.",
+"porAlt": [
+"Os desfechos são piores, e não melhores, entre as gestantes que deixam de usar o dispositivo.",
+"Existe diferença relevante de desfecho materno e fetal entre usar e não usar o cinto na gravidez.",
+"Correta: o dobro de hemorragias no parto e óbito fetal duas vírgula oito vezes mais frequente.",
+"As repercussões obstétricas estão documentadas e não se limitam a fraturas de membros.",
+"As lesões descritas vão muito além do plano cutâneo e incluem óbito fetal e rotura uterina."
+]
+},
+{
+"q": "Qual é a recomendação da diretriz quanto à manutenção e substituição do cinto de segurança?",
+"alts": [
+"Manutenção pelo menos anual e troca quando houver fadiga do recolhimento ou faixa desfiada",
+"Manutenção a cada dez anos e troca apenas quando o veículo mudar de proprietário registrado",
+"Nenhuma manutenção, pois o dispositivo é vitalício e independe do uso que dele se faça",
+"Manutenção mensal obrigatória em oficina credenciada pelo órgão executivo de trânsito local",
+"Troca obrigatória a cada seis meses, independentemente do estado de conservação das faixas"
+],
+"gab": 0,
+"tema": "protecao",
+"sub": "Manutenção do cinto de segurança",
+"base": "Diretriz ABRAMET sobre o cinto de segurança, item 6.",
+"coment": "Recomenda-se manutenção pelo menos anual, com substituição quando o sistema de recolhimento apresentar fadiga ou quando as faixas estiverem desfiadas — condições que reduzem a resistência ou causam falha no mecanismo de retração. Além do envelhecimento natural, aceleram o desgaste a exposição à poeira fina e à radiação solar excessiva, o tensionamento anormal ou repetitivo das faixas e a frequência de afivelar e desafivelar. É um item que costuma passar despercebido na inspeção veicular e que o médico do tráfego pode incluir na orientação ao condutor, ao lado do posicionamento correto e do ajuste do apoio de cabeça.",
+"porAlt": [
+"Correta: manutenção ao menos anual e troca com fadiga do recolhimento ou faixa desfiada.",
+"O intervalo decenal e a troca por mudança de proprietário não constam da recomendação.",
+"O dispositivo não é vitalício e sofre desgaste com o uso, o sol e a poeira fina do ambiente.",
+"A manutenção mensal em oficina credenciada não é exigida por norma nem pela diretriz.",
+"A troca semestral compulsória, sem avaliação do estado das faixas, não é recomendada."
+]
+},
+{
 "q": "Segundo a Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', qual é a conclusão sobre a existência de uma concentração alcoólica segura para conduzir?",
 "alts": [
 "Existe segurança abaixo de 0,2 g/l, faixa em que as habilidades de condução ficam preservadas ao volante",
