@@ -181,7 +181,7 @@
    "O corpo é projetado sobre o painel por excesso de tensão da faixa diagonal; previne-se afrouxando o cinto",
    "O corpo gira lateralmente por falha do pré-tensionador; previne-se desativando esse dispositivo do veículo",
    "O corpo desliza sob a faixa subabdominal frouxa ou mal posicionada; previne-se com ajuste e postura corretos",
-   "O corpo é comprimido pelo airbag antes de o cinto atuar; previne-se desativando o airbag do passageiro",
+   "O corpo é comprimido pelo airbag antes de o cinto atuar; previne-se desativando o airbag frontal do passageiro",
    "O corpo é lançado para trás pelo encosto de cabeça; previne-se removendo o apoio de cabeça do banco dianteiro"
   ],
   "gab": 2,
@@ -224,7 +224,7 @@
   "alts": [
    "Ativa evita o sinistro, como o sistema de freios; passiva reduz a lesão quando ele ocorre, como o airbag",
    "Ativa reduz a lesão quando o sinistro ocorre, como o airbag; passiva evita o sinistro, como os freios",
-   "Ativa depende do condutor, como o cinto; a passiva independe dele, como a estrutura do habitáculo",
+   "Ativa depende do condutor, como o cinto; já a passiva independe dele, como a estrutura do habitáculo",
    "Ativa é obrigatória por lei, como o cinto; passiva é opcional de fábrica, como o controle de estabilidade",
    "Ativa atua antes da colisão, como o airbag; passiva atua depois dela, como o sistema antitravamento"
   ],
