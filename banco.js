@@ -4972,6 +4972,336 @@ window.BANCO=[
 ]
 },
 {
+"q": "Na perícia de dano corporal, o que caracteriza o conceito de CONSOLIDAÇÃO das lesões e por que ele é decisivo?",
+"alts": [
+"É o momento em que a vítima recebe alta hospitalar, quando a graduação da invalidez já pode ser feita",
+"É o instante da ocorrência do sinistro, marco a partir do qual a invalidez permanente é sempre presumida",
+"É o estado em que a sequela não melhora mais com tratamento, e só então a invalidez pode ser graduada",
+"É a data de emissão do boletim de ocorrência, documento que fixa formalmente a extensão do dano sofrido",
+"É o prazo de trinta dias após o evento, findo o qual toda sequela é considerada definitiva pela legislação"
+],
+"gab": 2,
+"tema": "securitaria",
+"sub": "Consolidação das lesões",
+"base": "Lei nº 6.194/1974, art. 3º, §1º ('não suscetíveis de amenização proporcionada por qualquer medida terapêutica').",
+"coment": "A lei exige que as lesões enquadradas na tabela sejam diretamente decorrentes do acidente e NÃO SUSCETÍVEIS DE AMENIZAÇÃO proporcionada por qualquer medida terapêutica — é essa expressão que traduz a consolidação. Enquanto houver tratamento clínico, cirúrgico ou de reabilitação capaz de melhorar a função, a sequela ainda não é definitiva e qualquer graduação será prematura e provavelmente superestimada. Na prática, o perito precisa saber se o tratamento se esgotou, se a reabilitação foi conduzida adequadamente e se há intervenção pendente com expectativa razoável de ganho funcional antes de aplicar a tabela.",
+"porAlt": [
+"A alta hospitalar não significa consolidação: a reabilitação pode prosseguir por meses depois dela.",
+"A invalidez permanente não é presumida a partir do sinistro, e sim apurada após a consolidação.",
+"Correta: a sequela deixou de responder a tratamento, e só nesse ponto a invalidez pode ser graduada.",
+"O boletim de ocorrência não fixa a extensão do dano corporal, que depende de avaliação médica.",
+"A lei não estabelece prazo fixo de trinta dias para considerar definitiva qualquer sequela apurada."
+]
+},
+{
+"q": "Um periciado apresenta limitação funcional de ombro após fratura consolidada. Que elementos o perito deve reunir para fundamentar a graduação da repercussão?",
+"alts": [
+"Apenas o relato subjetivo de dor do periciado, suficiente para graduar a repercussão em intensa ou leve",
+"Amplitude articular medida, força, dominância do membro, repercussão nas atividades e exames de imagem",
+"Apenas o tempo decorrido desde o sinistro, parâmetro objetivo que define diretamente a graduação devida",
+"Apenas a idade do periciado, já que a repercussão funcional é sempre proporcional à faixa etária dele",
+"Apenas o valor da apólice contratada, que determina o percentual a ser aplicado ao segmento acometido"
+],
+"gab": 1,
+"tema": "securitaria",
+"sub": "Fundamentação da graduação",
+"base": "Lei nº 6.194/1974, art. 3º, §1º, II; conteúdo programático do Edital nº 2446 (formulação de relatórios, tabelas e baremos).",
+"coment": "A graduação em repercussão intensa (75%), média (50%), leve (25%) ou sequela residual (10%) não pode ser arbitrada por impressão. O perito precisa documentar a amplitude articular medida com goniômetro e comparada ao lado contralateral e aos valores de referência, a força muscular, a DOMINÂNCIA do membro acometido — que altera substancialmente a repercussão funcional —, o impacto nas atividades de vida diária e laborais, e a correlação com os exames de imagem, verificando se o achado anatômico explica a limitação relatada. É essa documentação que sustenta o percentual escolhido e que permite a revisão do laudo por terceiros.",
+"porAlt": [
+"O relato de dor é dado relevante, mas insuficiente e não objetivável para graduar sozinho a repercussão.",
+"Correta: amplitude, força, dominância, repercussão nas atividades e correlação com exames de imagem.",
+"O tempo desde o sinistro importa para a consolidação, mas não define a graduação da repercussão.",
+"A idade é uma variável de contexto, e não o determinante direto da repercussão funcional apurada.",
+"O valor da apólice é matéria contratual e não influencia a graduação médica da sequela existente."
+]
+},
+{
+"q": "Qual é a diferença entre dano estético e dano funcional na avaliação do dano corporal?",
+"alts": [
+"O estético repercute sobre a aparência e a vida de relação; o funcional, sobre a capacidade de agir",
+"O estético repercute sobre a capacidade laboral; o funcional, apenas sobre a autoestima do periciado",
+"São sinônimos na prática pericial brasileira, sendo indiferente a distinção entre os dois conceitos",
+"O estético só existe em lesões de face; o funcional só existe em lesões de membros inferiores do corpo",
+"O estético é indenizável apenas em mulheres; o funcional é indenizável em qualquer pessoa acidentada"
+],
+"gab": 0,
+"tema": "securitaria",
+"sub": "Dano estético versus funcional",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (danos estéticos e do sistema cutâneo, entre outros).",
+"coment": "O conteúdo programático lista expressamente os danos estéticos e do sistema cutâneo ao lado dos neurológicos, ortopédicos, psiquiátricos e de membros inferiores. O DANO FUNCIONAL diz respeito à perda de capacidade de executar ações — mobilidade, força, coordenação, sensibilidade, cognição. O DANO ESTÉTICO diz respeito à alteração permanente da aparência, com repercussão sobre a vida de relação, a autoimagem e, muitas vezes, sobre oportunidades sociais e profissionais. São autônomos e podem coexistir: uma cicatriz retrátil de queimadura, por exemplo, produz simultaneamente limitação de amplitude articular e desfiguração. O perito descreve os dois separadamente, com localização, extensão, cor e visibilidade.",
+"porAlt": [
+"Correta: o estético alcança aparência e vida de relação; o funcional, a capacidade de agir.",
+"Os conceitos estão invertidos: o funcional é que repercute diretamente sobre a capacidade laboral.",
+"Não são sinônimos: são categorias autônomas de dano, que podem inclusive coexistir no mesmo caso.",
+"O dano estético não se restringe à face, nem o funcional aos membros inferiores do periciado.",
+"O dano estético é indenizável independentemente do sexo da pessoa acidentada no sinistro."
+]
+},
+{
+"q": "Segundo a Lei nº 6.194/1974, a indenização por morte tinha natureza distinta da indenização por invalidez permanente. Qual é essa diferença?",
+"alts": [
+"A morte tinha teto de R$ 13.500, proporcional às circunstâncias; a invalidez tinha valor sempre fixo",
+"Ambas tinham valor fixo idêntico, sem qualquer proporcionalidade aplicada ao caso concreto avaliado",
+"Ambas tinham teto variável conforme a idade da vítima, com redução progressiva a partir dos sessenta anos",
+"A morte tinha valor fixo de R$ 27.000; a invalidez tinha teto de R$ 13.500 aplicado de forma proporcional",
+"A morte tinha valor fixo de R$ 13.500; a invalidez tinha teto de R$ 13.500, proporcional ao grau apurado"
+],
+"gab": 4,
+"tema": "securitaria",
+"sub": "Valor fixo versus teto proporcional",
+"base": "Lei nº 6.194/1974, art. 3º, I e II (redação da Lei nº 11.482/2007).",
+"coment": "A redação do artigo distingue as duas coberturas justamente pela preposição usada. O inciso I diz 'R$ 13.500,00 no caso de morte' — valor FIXO, sem gradação, porque a morte não comporta graus. O inciso II diz 'ATÉ R$ 13.500,00 no caso de invalidez permanente' — TETO, do qual se apura o valor devido pelo enquadramento na tabela anexa e pela graduação da repercussão. O inciso III também usa 'até', com R$ 2.700,00 como reembolso das despesas de assistência médica e suplementares devidamente comprovadas. Reter essa diferença de redação evita o erro clássico de tratar as três coberturas como se fossem todas tetos ou todas valores fixos.",
+"porAlt": [
+"A natureza está invertida: quem tinha valor fixo era a indenização decorrente da morte da vítima.",
+"As naturezas são distintas: uma é valor fixo e a outra é teto sujeito a graduação proporcional.",
+"A lei não previa variação dos valores conforme a idade da vítima acidentada no sinistro de trânsito.",
+"O valor da indenização por morte era de treze mil e quinhentos reais, e não de vinte e sete mil.",
+"Correta: a morte tinha valor fixo, e a invalidez, teto proporcional ao grau apurado pela tabela."
+]
+},
+{
+"q": "Qual é a implicação prática, para o especialista em medicina do tráfego, da extinção do seguro obrigatório de danos pessoais?",
+"alts": [
+"A avaliação do dano corporal deixa de existir como campo de atuação do especialista em medicina do tráfego",
+"A avaliação do dano passa a ser feita exclusivamente por peritos do Instituto Médico Legal de cada estado",
+"A avaliação do dano passa a depender exclusivamente de laudo emitido por junta médica do órgão de trânsito",
+"A avaliação do dano passa a seguir integralmente a tabela da Previdência Social para todos os casos novos",
+"A avaliação do dano migra da tabela da Lei nº 6.194 para baremos contratuais e critérios processuais"
+],
+"gab": 4,
+"tema": "securitaria",
+"sub": "Consequência prática da extinção do seguro",
+"base": "Lei Complementar nº 211/2024; conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária.",
+"coment": "Extinto o seguro obrigatório, deixa de haver a via administrativa padronizada em que a tabela anexa à Lei nº 6.194/1974 era o baremo aplicável por definição. A avaliação do dano corporal não desaparece — ela migra para outros contextos: apólices de seguro privado, cada uma com seu próprio baremo contratual; ações cíveis de reparação, em que o juízo define os quesitos e o perito responde; e benefícios previdenciários, com critérios próprios. Isso reforça uma exigência técnica que o perito já tinha: identificar QUAL baremo se aplica ao caso antes de graduar, porque aplicar a tabela errada produz resultado errado por construção.",
+"porAlt": [
+"O campo não desaparece: ele se desloca para o seguro privado, a esfera cível e a previdenciária.",
+"A avaliação não passa a ser exclusiva do Instituto Médico Legal, que tem atribuição criminal própria.",
+"A junta médica do órgão de trânsito avalia aptidão para conduzir, e não dano corporal indenizável.",
+"A tabela previdenciária tem critérios próprios e não se aplica automaticamente a todos os casos.",
+"Correta: a avaliação migra da tabela legal para baremos contratuais e critérios processuais diversos."
+]
+},
+{
+"q": "Homem de 63 anos, motorista de aplicativo, tem diabetes tipo 2 em uso de insulina, bem controlado, sem hipoglicemia nos últimos 12 meses. Qual é a conduta pericial?",
+"alts": [
+"Inapto temporário até que ele substitua a insulina por antidiabéticos orais de menor risco glicêmico",
+"Apto sem qualquer ressalva, com prazo de validade integral conforme a faixa etária em que se encontra",
+"Inapto para a atividade remunerada, mantida a aptidão apenas para a condução particular do veículo",
+"Apto para qualquer categoria, com diminuição do prazo de validade do exame pericial de saúde dele",
+"Apto apenas na categoria B, com prazo de validade limitado ao período máximo de seis meses corridos"
+],
+"gab": 3,
+"tema": "sistemicas",
+"sub": "Diabético insulinizado bem controlado",
+"base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular', fundamentos para o perito.",
+"coment": "A diretriz é explícita: diabéticos que necessitam de INSULINA, quando sob acompanhamento médico adequado, bem controlados e SEM EVENTOS HIPOGLICÊMICOS NOS ÚLTIMOS 12 MESES, poderão ser considerados aptos para QUALQUER CATEGORIA, com diminuição do prazo de validade do exame pericial de saúde. O candidato do enunciado cumpre os três requisitos. A redução do prazo é a contrapartida proporcional: permite reavaliar antes do vencimento normal a manutenção do controle e a ausência de eventos. Como ele exerce atividade remunerada, aplicam-se ainda as orientações de automonitorização — glicemia capilar 1 hora antes de dirigir e cerca de 4 horas após direção contínua, com corte em 70 mg/dl.",
+"porAlt": [
+"A diretriz não exige substituição da insulina, que muitas vezes sequer é clinicamente possível.",
+"A aptidão vem acompanhada da redução do prazo de validade, não do prazo integral da faixa etária.",
+"A diretriz não veda a atividade remunerada ao diabético insulinizado bem controlado e sem eventos.",
+"Correta: apto para qualquer categoria, com diminuição do prazo de validade do exame pericial.",
+"A diretriz libera qualquer categoria nessa situação, sem fixar prazo rígido de seis meses."
+]
+},
+{
+"q": "Qual complicação crônica do diabetes tem repercussão mais direta sobre os parâmetros do Anexo II da Resolução CONTRAN nº 927/2022?",
+"alts": [
+"A nefropatia diabética, que compromete diretamente a acuidade visual central medida no exame pericial",
+"A retinopatia diabética, que compromete a acuidade visual central e o campo visual do candidato",
+"A gastroparesia diabética, que compromete diretamente o campo visual periférico durante a condução",
+"A dermopatia diabética, que compromete diretamente a visão cromática avaliada pelo perito examinador",
+"A dislipidemia associada, que compromete diretamente a recuperação visual após ofuscamento direto"
+],
+"gab": 1,
+"tema": "sistemicas",
+"sub": "Retinopatia e parâmetros visuais",
+"base": "Diretriz ABRAMET sobre diabetes; Resolução CONTRAN nº 927/2022, Anexo II.",
+"coment": "A retinopatia diabética é a complicação microvascular com impacto direto sobre exatamente os parâmetros que o Anexo II mede: o edema macular compromete a ACUIDADE VISUAL CENTRAL, e a fotocoagulação panretiniana, tratamento consagrado da forma proliferativa, reduz o CAMPO VISUAL PERIFÉRICO e a visão noturna. Um candidato pode, portanto, ser reprovado pelos critérios do Anexo II por consequência do diabetes, ainda que seu controle glicêmico atual esteja adequado e não haja risco relevante de hipoglicemia. É por isso que a diretriz manda considerar as formas graves de microangiopatia e macroangiopatia na avaliação — o diabetes é avaliado pelas suas repercussões, e não apenas pela glicemia.",
+"porAlt": [
+"A nefropatia tem repercussões sistêmicas relevantes, mas não afeta diretamente a acuidade visual.",
+"Correta: a retinopatia compromete a acuidade visual central e o campo visual exigidos pelo anexo.",
+"A gastroparesia é complicação digestiva e não compromete o campo visual periférico do condutor.",
+"A dermopatia é manifestação cutânea e não guarda relação com a avaliação da visão cromática.",
+"A dislipidemia é fator de risco associado e não compromete diretamente a recuperação ao ofuscamento."
+]
+},
+{
+"q": "Qual complicação do diabetes pode produzir hipoglicemia assintomática, e por que isso agrava o risco na condução?",
+"alts": [
+"A retinopatia proliferativa, que suprime os sintomas adrenérgicos de alerta durante o episódio agudo",
+"A nefropatia incipiente, que suprime os sintomas adrenérgicos por acúmulo de escórias nitrogenadas",
+"A doença arterial periférica, que suprime os sintomas adrenérgicos por redução do fluxo em extremidades",
+"A dermopatia diabética, que suprime os sintomas adrenérgicos por comprometimento das fibras cutâneas",
+"A neuropatia autonômica, que suprime os sintomas adrenérgicos de alerta que antecedem a hipoglicemia"
+],
+"gab": 4,
+"tema": "sistemicas",
+"sub": "Hipoglicemia assintomática",
+"base": "Diretriz ABRAMET sobre diabetes (formas graves de microangiopatia e risco de hipoglicemia).",
+"coment": "Os sintomas de alerta da hipoglicemia — tremor, sudorese, palpitação, ansiedade — são adrenérgicos e dependem da resposta autonômica contrarreguladora. Na neuropatia autonômica, comum no diabetes de longa duração, essa resposta se perde e o paciente passa da normalidade direto para os sintomas neuroglicopênicos: confusão, alteração do comportamento, visão turva e rebaixamento de consciência, já sem tempo hábil para reconhecer e corrigir. Ao volante, isso significa perder a capacidade de decidir parar. É justamente esse cenário que justifica a orientação de glicemia capilar 1 hora antes de dirigir e a cada cerca de 4 horas de direção contínua, com corte em 70 mg/dl, independentemente de haver sintomas.",
+"porAlt": [
+"A retinopatia compromete a visão, mas não suprime a resposta adrenérgica contrarreguladora.",
+"A nefropatia altera o metabolismo da insulina, mas não é a causa da hipoglicemia assintomática.",
+"A doença arterial periférica não suprime a percepção dos sintomas adrenérgicos de alerta.",
+"A dermopatia é manifestação cutânea e não interfere na percepção dos sintomas da hipoglicemia.",
+"Correta: a neuropatia autonômica suprime os sintomas adrenérgicos de alerta da hipoglicemia."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre doença renal crônica, por que a condução nos dias de hemodiálise merece desaconselhamento específico?",
+"alts": [
+"Pela elevação da pressão arterial após a sessão, com risco de encefalopatia hipertensiva no trajeto",
+"Pela instabilidade hemodinâmica pós-sessão, com hipotensão, cãibras e tontura no período seguinte",
+"Pela hipercalemia acentuada que se instala imediatamente ao término de cada sessão de hemodiálise",
+"Pelo efeito sedativo prolongado da heparina utilizada no circuito extracorpóreo durante a sessão",
+"Pela hipoglicemia grave que decorre obrigatoriamente do jejum exigido antes de cada sessão realizada"
+],
+"gab": 1,
+"tema": "sistemicas",
+"sub": "Condução em dia de diálise",
+"base": "Diretriz ABRAMET 'Portadores de doença renal crônica dialítica e condução veicular', conclusões.",
+"coment": "A diretriz estabelece como DEVER do profissional que realiza o exame de aptidão desaconselhar a condução veicular principalmente nos dias de tratamento hemodialítico, registrando em prontuário o fornecimento dessa orientação. O fundamento é a instabilidade hemodinâmica que se segue à sessão: a ultrafiltração remove volume rapidamente, e o paciente pode apresentar hipotensão, tontura, cãibras, fraqueza e, ocasionalmente, síncope nas horas seguintes. Somam-se a fadiga pós-diálise e as variações eletrolíticas. É um risco previsível e periódico — e justamente por ser previsível, comporta orientação preventiva simples e eficaz.",
+"porAlt": [
+"A tendência após a sessão é à hipotensão pela ultrafiltração, e não à elevação pressórica descrita.",
+"Correta: instabilidade hemodinâmica após a sessão, com hipotensão, cãibras e tontura no período.",
+"A hemodiálise corrige a hipercalemia, e não a produz ao término de cada sessão realizada.",
+"A heparina do circuito é anticoagulante e não tem efeito sedativo prolongado sobre o paciente.",
+"Não há jejum obrigatório com hipoglicemia grave decorrente do procedimento de hemodiálise."
+]
+},
+{
+"q": "Qual é a relação entre hiperparatireoidismo secundário na doença renal crônica e a avaliação do aparelho locomotor?",
+"alts": [
+"As alterações ósseas elevam a densidade mineral, o que aumenta a resistência a fraturas nos impactos",
+"As alterações ósseas comprometem apenas a coluna cervical, sem repercussão sobre os membros do paciente",
+"As alterações ósseas reduzem amplitude e mobilidade de membros, podendo exigir adaptação veicular",
+"As alterações ósseas produzem hipermobilidade articular, com ganho de amplitude nos grandes movimentos",
+"Não há relação descrita entre o hiperparatireoidismo secundário e a avaliação do aparelho locomotor"
+],
+"gab": 2,
+"tema": "sistemicas",
+"sub": "Osteodistrofia renal e adaptação",
+"base": "Diretriz ABRAMET sobre doença renal crônica dialítica, conclusões.",
+"coment": "A diretriz destaca que o hiperparatireoidismo secundário é doença pertinente a alguns pacientes com DRC e que, em fases avançadas, PROVOCA ALTERAÇÕES ÓSSEAS QUE PODEM REDUZIR A AMPLITUDE E A MOBILIDADE DE MEMBROS, com consequente necessidade de adaptação veicular. É o elo entre a avaliação clínica sistêmica e a do aparelho locomotor prevista no art. 4º, III, e da Resolução 927/2022, que manda explorar a integridade e a funcionalidade de cada membro e da coluna, incluindo o grau de amplitude articular dos movimentos. Caracterizada deficiência física, o candidato segue para a Junta Médica Especial e para a avaliação pela NBR 14970 da ABNT.",
+"porAlt": [
+"A osteodistrofia renal fragiliza o osso, não elevando a resistência a fraturas nos impactos sofridos.",
+"O comprometimento não se restringe à coluna cervical, alcançando a mobilidade dos membros.",
+"Correta: as alterações ósseas reduzem amplitude e mobilidade, podendo exigir adaptação do veículo.",
+"A alteração descrita reduz a amplitude de movimento, e não produz hipermobilidade articular.",
+"A diretriz descreve expressamente essa relação e a consequente necessidade de adaptação veicular."
+]
+},
+{
+"q": "Qual é a orientação da Diretriz ABRAMET quanto ao paciente com doença renal crônica que iniciou hemodiálise há dois meses?",
+"alts": [
+"Liberação plena da direção, uma vez que dois meses já superam o período crítico descrito pela diretriz",
+"Suspensão definitiva da direção, dada a irreversibilidade do quadro renal em estágio dialítico terminal",
+"Suspensão temporária da direção, retomada após o período inicial de maior instabilidade do tratamento",
+"Liberação da direção condicionada apenas à apresentação de exames laboratoriais mensais atualizados",
+"Encaminhamento imediato à Junta Médica Especial, que decidirá sobre a suspensão temporária da direção"
+],
+"gab": 2,
+"tema": "sistemicas",
+"sub": "Primeiros três meses de diálise",
+"base": "Diretriz ABRAMET sobre doença renal crônica dialítica, conclusões.",
+"coment": "A diretriz recomenda a SUSPENSÃO TEMPORÁRIA da direção veicular para pacientes que iniciaram o tratamento recentemente, definidos como aqueles com MENOS DE 3 MESES de diálise, em razão da maior frequência de intercorrências clínicas nessa fase e da inabilidade do paciente para identificar e manejar os sinais e sintomas adversos. Com dois meses, o paciente está dentro desse período. A suspensão é expressamente TEMPORÁRIA — a diretriz não propõe restrição definitiva, e após a fase inicial o paciente volta a ser avaliado, mantendo-se então a orientação de desaconselhar a condução especificamente nos dias de sessão hemodialítica.",
+"porAlt": [
+"O período crítico descrito é de três meses, e o paciente do enunciado está com apenas dois meses.",
+"A diretriz propõe suspensão expressamente temporária, e não definitiva, para esses pacientes.",
+"Correta: suspensão temporária, retomada após o período inicial de maior instabilidade do tratamento.",
+"Os exames laboratoriais adicionais, segundo a própria diretriz, em geral não são necessários.",
+"A Junta Médica Especial destina-se ao candidato com deficiência física, não a essa decisão clínica."
+]
+},
+{
+"q": "Qual é a razão pela qual a Diretriz ABRAMET sobre diabetes considera baixo o risco do paciente tipo 2 tratado apenas com dieta e antidiabéticos orais?",
+"alts": [
+"Porque esse esquema terapêutico elimina por completo qualquer complicação crônica da doença de base",
+"Porque esse esquema terapêutico dispensa o acompanhamento médico regular do paciente com diabetes",
+"Porque esse esquema terapêutico impede o surgimento de retinopatia e de neuropatia ao longo do tempo",
+"Porque esse esquema terapêutico apresenta baixo risco de hipoglicemia grave com perda de consciência",
+"Porque esse esquema terapêutico normaliza a hemoglobina glicada em todos os pacientes que o utilizam"
+],
+"gab": 3,
+"tema": "sistemicas",
+"sub": "Risco de hipoglicemia por esquema terapêutico",
+"base": "Diretriz ABRAMET sobre diabetes, fundamentos para o perito.",
+"coment": "A diretriz organiza toda a decisão em torno do RISCO DE HIPOGLICEMIA GRAVE, porque é a perda súbita de consciência ou de julgamento ao volante que ameaça a segurança viária — e não a hiperglicemia crônica, cujo dano é de longo prazo. Portadores de diabetes tipo 2 bem controlados por dieta ou pela combinação de dieta e antidiabéticos orais têm baixo risco de hipoglicemia grave e podem ser considerados aptos para qualquer categoria, SEM RESTRIÇÕES vinculadas a essa doença. Isso não significa ausência de complicações crônicas: retinopatia, neuropatia e macroangiopatia continuam a ser avaliadas por suas repercussões nos respectivos anexos da Resolução.",
+"porAlt": [
+"O esquema não elimina as complicações crônicas, que seguem sendo avaliadas por suas repercussões.",
+"O acompanhamento médico regular permanece necessário em qualquer esquema terapêutico adotado.",
+"O esquema não impede o surgimento de retinopatia nem de neuropatia ao longo da evolução da doença.",
+"Correta: esse esquema tem baixo risco de hipoglicemia grave com perda de consciência ao volante.",
+"A normalização da hemoglobina glicada não ocorre em todos os pacientes com esse esquema adotado."
+]
+},
+{
+"q": "Um perito avalia periciado com sequela neurológica de traumatismo cranioencefálico. Qual domínio, frequentemente subvalorizado, deve integrar a avaliação?",
+"alts": [
+"O cognitivo e comportamental, com memória, atenção, funções executivas e alterações de personalidade",
+"Apenas a força muscular dos quatro membros, único domínio mensurável de forma objetiva na perícia",
+"Apenas a amplitude articular da coluna cervical, medida com goniômetro durante o exame realizado",
+"Apenas a acuidade visual para longe, aferida pela tabela de optotipos no consultório do perito médico",
+"Apenas a integridade da pele do couro cabeludo, com descrição das cicatrizes cirúrgicas remanescentes"
+],
+"gab": 0,
+"tema": "securitaria",
+"sub": "Sequela cognitiva do TCE",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (danos neurológicos e psiquiátricos).",
+"coment": "As sequelas cognitivas e comportamentais do traumatismo cranioencefálico são frequentemente as mais incapacitantes e as menos documentadas: déficits de memória e de atenção, lentificação do processamento, comprometimento das funções executivas — planejamento, flexibilidade, controle inibitório — e alterações de personalidade, com desinibição ou apatia. Elas comprometem a autonomia e a capacidade laboral mesmo em pessoas que recuperaram integralmente a motricidade e que, ao exame físico superficial, parecem íntegras. O conteúdo programático inclui expressamente os danos neurológicos e psiquiátricos entre os campos da medicina do tráfego securitária, e a avaliação frequentemente exige testagem neuropsicológica formal.",
+"porAlt": [
+"Correta: o domínio cognitivo e comportamental, com memória, atenção, executivas e personalidade.",
+"A força muscular é apenas um domínio, e a avaliação não se limita ao que é motor e visível.",
+"A amplitude cervical é dado ortopédico e não esgota a avaliação da sequela neurológica apurada.",
+"A acuidade visual é um dos parâmetros possíveis, mas não o domínio subvalorizado em questão.",
+"A descrição de cicatrizes integra o dano estético, e não a avaliação da sequela neurológica."
+]
+},
+{
+"q": "Qual é a conduta correta do perito quando os achados do exame físico não guardam correspondência com as queixas do periciado?",
+"alts": [
+"Acolher integralmente as queixas relatadas, já que a dor é subjetiva e não comporta verificação alguma",
+"Concluir automaticamente pela simulação e recomendar a negativa integral da indenização pretendida",
+"Suspender a perícia e devolver o caso ao solicitante, por impossibilidade técnica de emitir a conclusão",
+"Registrar objetivamente a discrepância e fundamentar a conclusão nos achados que puder documentar",
+"Solicitar ao periciado que assine termo de veracidade e adotar suas queixas como achados do exame"
+],
+"gab": 3,
+"tema": "securitaria",
+"sub": "Discrepância entre queixa e achado",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (formulação de relatórios).",
+"coment": "A postura correta é técnica e descritiva: registrar objetivamente o que foi encontrado, o que foi relatado e onde há discrepância, sem adjetivar o periciado. O perito documenta amplitude medida, força testada, presença ou ausência de atrofia, sinais de uso do membro, coerência entre a limitação alegada e os achados de imagem, e a consistência do comportamento ao longo do exame. Conclui pelo que consegue fundamentar. Acolher a queixa sem correspondência objetiva e concluir pela simulação sem elementos são erros simétricos: o primeiro superestima o dano, o segundo prejulga a pessoa. Nos dois casos o laudo perde sustentação técnica diante de revisão por terceiros.",
+"porAlt": [
+"Acolher integralmente a queixa sem correspondência objetiva superestima o dano e fragiliza o laudo.",
+"Concluir por simulação sem elementos objetivos é prejulgamento e compromete a técnica pericial.",
+"A perícia não deve ser suspensa: cabe ao perito concluir com base no que conseguir documentar.",
+"Correta: registrar objetivamente a discrepância e fundamentar a conclusão nos achados documentáveis.",
+"O termo de veracidade não transforma queixa subjetiva em achado objetivo do exame realizado."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre diabetes, qual conduta o perito deve adotar independentemente do resultado da avaliação de aptidão?",
+"alts": [
+"Orientar o candidato sobre a hipoglicemia, medida de bom alvitre para reduzir riscos na condução",
+"Prescrever o ajuste do esquema de insulina para reduzir o risco de eventos durante os deslocamentos",
+"Encaminhar o candidato a endocrinologista credenciado pelo órgão executivo de trânsito estadual",
+"Solicitar hemoglobina glicada trimestral e arquivar os resultados no prontuário da entidade credenciada",
+"Comunicar o diagnóstico ao empregador do candidato quando ele exercer atividade remunerada ao veículo"
+],
+"gab": 0,
+"tema": "sistemicas",
+"sub": "Dever de orientação no diabetes",
+"base": "Diretriz ABRAMET sobre diabetes, fundamentos para o perito.",
+"coment": "A diretriz registra que, apesar da controvérsia existente na literatura, será de BOM ALVITRE, haja vista a possibilidade de diminuir riscos, QUE O PERITO ORIENTE O CANDIDATO A CONDUTOR SOBRE A HIPOGLICEMIA. É uma conduta que independe do desfecho da avaliação e atribui ao exame pericial um valor educativo, e não apenas classificatório — a mesma lógica que aparece na diretriz de DRC dialítica, onde a orientação sobre os dias de diálise é dever expresso, e no conteúdo programático do edital, que manda adequar o aconselhamento às peculiaridades de cada examinado. Prescrever tratamento, por outro lado, não cabe ao perito, e comunicar o diagnóstico ao empregador violaria o sigilo médico.",
+"porAlt": [
+"Correta: orientar o candidato sobre a hipoglicemia, conduta descrita como de bom alvitre pela diretriz.",
+"Prescrever ajuste de esquema terapêutico não cabe ao perito, e sim ao médico assistente do paciente.",
+"O encaminhamento a especialista credenciado pelo órgão de trânsito não é a conduta prevista.",
+"A solicitação de hemoglobina glicada trimestral não é exigência prevista pela diretriz médica.",
+"Comunicar o diagnóstico ao empregador violaria o sigilo médico devido ao candidato examinado."
+]
+},
+{
 "q": "Segundo a Diretriz ABRAMET 2025 de avaliação de candidatos e condutores com epilepsia, pessoa com critérios diagnósticos de epilepsia em uso de fármaco anticrise, sem crises há 18 meses, que pretende a categoria B COM atividade remunerada ao veículo, deve ser considerada:",
 "alts": [
 "Apta para essa finalidade, pois o intervalo de doze meses sem crises já foi superado pelo candidato",
