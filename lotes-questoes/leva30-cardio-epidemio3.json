@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Qual é a razão de a Diretriz ABRAMET/SBC/SOBRAC ser mais permissiva que o Anexo VII no bloqueio atrioventricular de 2º grau tipo I assintomático?",
+  "alts": [
+   "Porque esse bloqueio é sempre transitório e desaparece espontaneamente em poucos dias de observação",
+   "Porque esse bloqueio impede fisiologicamente a ocorrência de qualquer síncope no portador afetado",
+   "Porque esse bloqueio costuma ser benigno e suprahissiano, sem risco relevante de progressão súbita",
+   "Porque esse bloqueio se converte automaticamente em ritmo sinusal durante o esforço físico intenso",
+   "Porque esse bloqueio acomete exclusivamente atletas jovens, população de baixíssimo risco cardiovascular"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "BAV de 2º grau tipo I",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.2.2; Resolução CONTRAN nº 927/2022, Anexo VII.",
+  "coment": "O bloqueio de 2º grau tipo I, ou Wenckebach, tem topografia habitualmente suprahissiana, no nó atrioventricular, onde o tecido tem recuperação rápida e o ritmo de escape é alto e confiável. Por isso, quando assintomático, não desqualifica o condutor nem para a direção profissional — exigindo apenas avaliação clínica periódica com Holter anual, para acompanhar sintomas e progressão. Já o tipo II e o bloqueio total adquirido têm topografia infrahissiana, com escape lento e instável e risco real de assistolia, e desqualificam em qualquer condição até tratamento eficaz. O Anexo VII, mais antigo e genérico, trata BAV de 2º e 3º graus em bloco como inaptidão temporária.",
+  "porAlt": [
+   "O bloqueio não é necessariamente transitório, e a diretriz exige acompanhamento com Holter anual.",
+   "O bloqueio não impede fisiologicamente a síncope; o que o distingue é o baixo risco de assistolia.",
+   "Correta: é bloqueio habitualmente benigno e suprahissiano, sem risco relevante de progressão súbita.",
+   "A melhora ao esforço é achado sugestivo de benignidade, mas não é conversão automática garantida.",
+   "O bloqueio ocorre em atletas, mas não exclusivamente, e essa não é a razão da permissividade."
+  ]
+ },
+ {
+  "q": "Qual é o parâmetro que a Diretriz ABRAMET/SBC/SOBRAC utiliza para separar a direção privada da direção profissional?",
+  "alts": [
+   "A cilindrada do veículo conduzido, medida que separa objetivamente as duas modalidades previstas",
+   "O exercício de atividade remunerada ao veículo, e não a categoria da habilitação isoladamente",
+   "O número de horas ao volante por semana, com corte fixado em vinte horas semanais de condução",
+   "A idade do condutor avaliado, com corte fixado nos cinquenta anos completos para as duas colunas",
+   "O tipo de via percorrida, separando os condutores urbanos dos que trafegam em rodovias federais"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Critério das colunas da diretriz",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, Figs. 1 a 3.",
+  "coment": "As tabelas da diretriz trazem, no cabeçalho de cada coluna, exatamente essa definição: 'restrição para direção privada (condutor que NÃO exerce atividade remunerada ao veículo) — ACC, A, B' e 'restrição para direção profissional (condutor que EXERCE atividade remunerada ao veículo) — ACC, A, B, C, D, E'. O critério, portanto, é o exercício de atividade remunerada, e não a categoria isolada: um condutor de categoria B que trabalha como motorista de aplicativo está na coluna profissional, ainda que dirija um automóvel comum. É a mesma lógica que a Diretriz de epilepsia 2025 adota ao separar a categoria B com e sem atividade remunerada, e que a pergunta nº 9 do Anexo I identifica.",
+  "porAlt": [
+   "A cilindrada do veículo não é o parâmetro adotado pelas tabelas da diretriz para separar as colunas.",
+   "Correta: o critério é o exercício de atividade remunerada ao veículo, e não a categoria isolada.",
+   "O número de horas semanais ao volante não é o critério previsto nas tabelas da diretriz médica.",
+   "A idade do condutor não separa as colunas, que se distinguem pela atividade remunerada exercida.",
+   "O tipo de via percorrida não é o parâmetro utilizado para separar as duas colunas da diretriz."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, quais são as quatro condições comuns exigidas de todo portador de dispositivo cardíaco para dirigir?",
+  "alts": [
+   "Sem prejuízo da consciência, captura e sensibilidade normais, sem mau funcionamento e controles regulares",
+   "Fração de ejeção normal, ausência de arritmia, teste ergométrico negativo e ecocardiograma sem alterações",
+   "Ausência de comorbidades, idade inferior a sessenta anos, peso adequado e prática regular de exercícios",
+   "Uso de betabloqueador, uso de anticoagulante, controle pressórico e acompanhamento nutricional periódico",
+   "Residência próxima a serviço de emergência, telefone celular ativo, acompanhante e veículo com rastreador"
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Condições comuns dos dispositivos",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, notas das Figs. 1, 2 e 3.",
+  "coment": "As três tabelas — marca-passo, ressincronizador e cardiodesfibrilador — trazem a mesma nota de rodapé, com quatro exigências cumulativas que se somam ao prazo mínimo de cada linha: nenhum prejuízo no nível de consciência após o implante; captura e sensibilidade normais ao eletrocardiograma; nenhuma evidência de mau funcionamento do sistema; e controles clínico e eletrônico regulares. A lógica é que o prazo sozinho não basta — ele apenas garante a cicatrização e a estabilização do sistema, enquanto essas quatro condições atestam que o dispositivo está efetivamente funcionando e sendo acompanhado. O último item é o mais fácil de negligenciar e o mais dependente da adesão do paciente.",
+  "porAlt": [
+   "Correta: consciência preservada, captura e sensibilidade normais, sem mau funcionamento e controles regulares.",
+   "Esses exames podem integrar a avaliação, mas não são as quatro condições listadas nas tabelas.",
+   "Idade, peso e prática de exercícios não constam das condições comuns exigidas pelas três tabelas.",
+   "O uso desses fármacos não integra as quatro condições comuns previstas nas notas das tabelas.",
+   "Esses itens logísticos não constam das condições comuns exigidas pela diretriz médica citada."
+  ]
+ },
+ {
+  "q": "Um paciente recusou o implante de cardiodesfibrilador indicado por prevenção PRIMÁRIA. Segundo a Diretriz ABRAMET/SBC/SOBRAC, qual é a restrição na direção privada?",
+  "alts": [
+   "Restrição de seis meses, igual à prevista para quem recusou o implante indicado por prevenção secundária",
+   "Restrição permanente, idêntica à aplicada na coluna da direção profissional em todas as linhas do quadro",
+   "Restrição de três meses, contados da data em que o paciente formalizou a recusa ao implante indicado",
+   "Restrição de doze meses, contados da data em que o cardiologista assistente indicou o implante recusado",
+   "Nenhuma restrição, situação distinta da recusa por prevenção secundária, que exige seis meses de espera"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Recusa ao implante de CDI",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, Fig. 3.",
+  "coment": "A tabela do CDI traz duas linhas específicas para quem recusa o implante. Na recusa por PREVENÇÃO PRIMÁRIA — indicação em paciente que ainda não teve arritmia maligna documentada —, a coluna privada registra 'nenhuma restrição', porque o risco arrítmico é estimado, não demonstrado. Na recusa por PREVENÇÃO SECUNDÁRIA — indicação em quem já sobreviveu a arritmia maligna —, a restrição é de 6 meses na direção privada, coerente com o risco de recorrência de um evento já ocorrido. Nas duas hipóteses, a coluna profissional traz restrição permanente, como em todas as linhas do quadro do cardiodesfibrilador.",
+  "porAlt": [
+   "Os seis meses correspondem à recusa do implante indicado por prevenção secundária, e não primária.",
+   "A restrição permanente é a da coluna profissional, e não a prevista para a direção privada aqui.",
+   "O prazo de três meses não consta dessa linha específica do quadro do cardiodesfibrilador.",
+   "O prazo de doze meses não consta de nenhuma das linhas do quadro do cardiodesfibrilador.",
+   "Correta: nenhuma restrição na prevenção primária, ao contrário dos seis meses da secundária."
+  ]
+ },
+ {
+  "q": "Qual é a diferença entre prevenção primária e secundária na indicação de cardiodesfibrilador implantável?",
+  "alts": [
+   "Na primária já houve arritmia maligna documentada; na secundária o risco é apenas estimado sem evento",
+   "Na primária o implante é feito em jovens; na secundária o implante é reservado a pacientes idosos",
+   "Na primária o dispositivo é temporário; na secundária o dispositivo implantado é sempre definitivo",
+   "Não há diferença conceitual: os termos são intercambiáveis na indicação do dispositivo cardíaco usado",
+   "Na primária o risco é estimado sem evento prévio; na secundária já houve arritmia maligna documentada"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Prevenção primária e secundária",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, Fig. 3.",
+  "coment": "A distinção é a mesma de toda a medicina preventiva, aplicada à morte súbita arrítmica. Na prevenção PRIMÁRIA, o dispositivo é implantado em paciente que ainda NÃO apresentou arritmia ventricular maligna, com base em risco estimado — tipicamente disfunção ventricular significativa em cardiopatia estrutural. Na prevenção SECUNDÁRIA, o paciente JÁ sobreviveu a um evento: fibrilação ventricular ou taquicardia ventricular sustentada com repercussão. Essa diferença de risco demonstrado versus estimado explica todos os prazos assimétricos da tabela: 4 semanas no implante por prevenção primária contra 3 meses na secundária, e nenhuma restrição contra 6 meses nas respectivas recusas.",
+  "porAlt": [
+   "Os conceitos estão invertidos: é na secundária que já houve o evento arrítmico documentado.",
+   "A idade não é o critério que distingue prevenção primária de prevenção secundária no implante.",
+   "A distinção não se refere à permanência do dispositivo, que é definitivo em ambas as indicações.",
+   "Há diferença conceitual clara, com repercussão direta sobre os prazos previstos pela diretriz.",
+   "Correta: na primária o risco é estimado sem evento prévio; na secundária já houve arritmia maligna."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, qual é a conduta para bradicardia sinusal com frequência igual ou inferior a 40 bpm?",
+  "alts": [
+   "Implante imediato de marca-passo definitivo, independentemente da presença de sintomas associados",
+   "Desqualificação permanente para a condução veicular, em qualquer categoria de habilitação pretendida",
+   "Liberação sem qualquer investigação, pois a bradicardia isolada nunca produz repercussão hemodinâmica",
+   "Avaliação cardíaca não invasiva inicial para definir a existência de doença do nó sinusal no paciente",
+   "Encaminhamento direto para estudo eletrofisiológico invasivo, exame obrigatório em todos esses casos"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Bradicardia sinusal",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.2.1.",
+  "coment": "A diretriz reconhece que a bradicardia sinusal é comum na população geral e frequentemente assintomática — em atletas, por exemplo, decorre de adaptação vagal fisiológica. Ainda assim, portadores com frequência igual ou inferior a 40 bpm devem passar por AVALIAÇÃO CARDÍACA NÃO INVASIVA inicialmente, para definir a existência de doença do nó sinusal. Alguns desses pacientes podem precisar de avaliação eletrofisiológica invasiva, situação que a própria diretriz descreve como BEM RARA. Havendo sintomas atribuídos à bradiarritmia, a liberação para dirigir só ocorre após as devidas correções e o controle adequado; e se a correção exigir marca-passo, valem os prazos daquele dispositivo.",
+  "porAlt": [
+   "O marca-passo não é indicado de imediato: ele entra quando a correção da bradiarritmia o exigir.",
+   "Não há desqualificação permanente prevista para a bradicardia sinusal isolada nessa faixa.",
+   "A liberação sem investigação é inadequada nessa faixa de frequência cardíaca segundo a diretriz.",
+   "Correta: avaliação cardíaca não invasiva inicial para definir a existência de doença do nó sinusal.",
+   "O estudo eletrofisiológico invasivo é descrito como necessário em situações bem raras apenas."
+  ]
+ },
+ {
+  "q": "Qual é a conduta prevista pela Diretriz ABRAMET/SBC/SOBRAC quando há sintomas atribuídos a pausas sinusais ou bradicardia?",
+  "alts": [
+   "A liberação para dirigir ocorre de imediato, pois os sintomas não repercutem sobre a condução",
+   "A liberação para dirigir só ocorre após as devidas correções e o controle adequado do quadro",
+   "A liberação para dirigir fica vedada em definitivo, sem possibilidade de reavaliação posterior",
+   "A liberação para dirigir depende exclusivamente do resultado do teste ergométrico máximo realizado",
+   "A liberação para dirigir depende apenas do tempo decorrido desde o primeiro episódio sintomático"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Bradiarritmia sintomática",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.2.1.",
+  "coment": "A diretriz distingue com precisão o achado assintomático do sintomático. Pausas sinusais com duração inferior a 4 segundos, infrequentes e assintomáticas, em indivíduo sem cardiopatia aparente, devem apenas ser ACOMPANHADAS CLINICAMENTE. Já na PRESENÇA DE SINTOMAS atribuídos a essas alterações — tontura, pré-síncope, síncope, fadiga desproporcional —, a liberação para dirigir só poderá ser obtida após as devidas correções e/ou controle adequado. É a mesma lógica que percorre toda a diretriz: o que restringe a condução não é o achado eletrocardiográfico em si, mas o risco de perda súbita ou parcial da consciência ao volante.",
+  "porAlt": [
+   "Os sintomas atribuídos à bradiarritmia repercutem sim sobre a segurança da condução veicular.",
+   "Correta: a liberação só ocorre após as devidas correções e o controle adequado do quadro sintomático.",
+   "Não há vedação definitiva: corrigido e controlado o quadro, a liberação torna-se possível.",
+   "O teste ergométrico pode integrar a avaliação, mas não é o critério exclusivo de liberação.",
+   "O tempo desde o primeiro episódio não é o critério previsto para a liberação nesses casos."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, como é a conduta no bloqueio atrioventricular de 1º grau que normaliza durante o esforço físico?",
+  "alts": [
+   "Desqualifica para toda condução até o implante de marca-passo definitivo com controle eletrônico regular",
+   "Desqualifica apenas para a direção profissional, mantendo-se liberada a condução de caráter privado",
+   "Não desqualifica e dispensa qualquer forma de acompanhamento clínico ou eletrocardiográfico posterior",
+   "Desqualifica temporariamente por seis meses, com reavaliação eletrofisiológica invasiva ao fim do prazo",
+   "Não desqualifica, inclusive para a direção profissional, exigindo avaliação periódica com Holter anual"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "BAV de 1º grau",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.2.2.",
+  "coment": "A diretriz agrupa o BAV de 1º grau estável ou que NORMALIZA DURANTE O ESFORÇO FÍSICO com o BAV de 2º grau tipo I: quando assintomáticos, essas condições NÃO desqualificam o indivíduo para conduzir veículos, mesmo profissionalmente. A normalização ao esforço é sinal de topografia nodal e de resposta preservada ao estímulo simpático, o que afasta a suspeita de doença do sistema de condução distal. A ressalva, contudo, permanece: exige-se avaliação clínica periódica com realização ANUAL DE HOLTER, para acompanhar o surgimento de sintomas e a progressão do quadro arrítmico ao longo do tempo. Liberação não significa alta do acompanhamento.",
+  "porAlt": [
+   "O marca-passo é a via dos bloqueios de 2º grau tipo II e do bloqueio atrioventricular total.",
+   "A diretriz não restringe a direção profissional nessa condição quando ela é assintomática.",
+   "O acompanhamento é exigido: avaliação clínica periódica com realização anual do exame de Holter.",
+   "Não há desqualificação temporária nem exigência de estudo eletrofisiológico invasivo nesse caso.",
+   "Correta: não desqualifica nem profissionalmente, exigindo avaliação periódica com Holter anual."
+  ]
+ },
+ {
+  "q": "Qual é o dado que a Diretriz ABRAMET/SBC/SOBRAC utiliza para ponderar o rigor regulatório internacional sobre arritmias e condução?",
+  "alts": [
+   "A informação sobre a contribuição das arritmias já está integralmente estabelecida em todos os países",
+   "A informação sobre a contribuição das arritmias para os sinistros permanece incerta na literatura",
+   "A informação demonstra que as arritmias são a principal causa isolada de sinistros de trânsito no mundo",
+   "A informação demonstra que arritmias jamais contribuíram para qualquer sinistro de trânsito registrado",
+   "A informação depende exclusivamente de estudos brasileiros, sem correspondência na literatura mundial"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Incerteza sobre a contribuição das arritmias",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.",
+  "coment": "A diretriz observa que, embora as agências de regulação dos Estados Unidos e da Europa desqualifiquem o motorista com doença cardiovascular atual acompanhada de sintomas de síncope, dispneia, colapso ou insuficiência cardíaca congestiva, a INFORMAÇÃO SOBRE A FREQUÊNCIA COM QUE ARRITMIAS CONTRIBUEM PARA OS ACIDENTES AUTOMOBILÍSTICOS É AINDA INCERTA. Sustenta a ponderação com o estudo do departamento de trânsito da Virgínia, no qual apenas 6% dos sinistros foram considerados relacionados a doença cardiovascular e, desses, somente 14% associados a arritmias. É um alerta contra restringir por diagnóstico em vez de restringir por risco funcional demonstrado.",
+  "porAlt": [
+   "A diretriz afirma justamente o contrário: a informação disponível permanece incerta na literatura.",
+   "Correta: a diretriz registra que a contribuição das arritmias para os sinistros segue incerta.",
+   "A diretriz cita estudo em que apenas 6% dos sinistros se relacionaram a doença cardiovascular.",
+   "A diretriz não nega a contribuição das arritmias: ela aponta incerteza sobre a sua magnitude.",
+   "A diretriz cita estudo norte-americano, e não apenas dados de origem exclusivamente brasileira."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, qual obra da ABRAMET trata da dimensão e do impacto dos sinistros no Brasil?",
+  "alts": [
+   "'Medicina do Tráfego — Aspectos Médicos da Aptidão Para Conduzir', publicada pela Evangraf em 2025",
+   "'Medicina do Tráfego — 300 Perguntas e Respostas', publicada pela editora Evangraf também em 2025",
+   "'Dimensão e impacto dos sinistros de trânsito no Brasil', publicada pela ABRAMET no ano de 2020",
+   "'O Exame de Aptidão Física e Mental para pessoas com deficiência', publicada pela Evangraf em 2023",
+   "'Medicina de Tráfego: transporte seguro de crianças', publicada pelo Conselho Federal de Medicina"
+  ],
+  "gab": 2,
+  "tema": "epidemiologia",
+  "sub": "Bibliografia epidemiológica do edital",
+  "base": "Bibliografia do Edital nº 2446 — 'Dimensão e impacto dos sinistros de trânsito no Brasil', ABRAMET, 2020.",
+  "coment": "A bibliografia do edital lista 'Dimensão e impacto dos sinistros de trânsito no Brasil: características gerais e descrição de indicadores', publicada pela ABRAMET em 2020 — é a obra especificamente voltada ao panorama epidemiológico nacional. As demais alternativas também constam da bibliografia, mas com objetos distintos: o 'Aspectos Médicos da Aptidão Para Conduzir', de Adura, é a obra de referência geral da especialidade; o '300 Perguntas e Respostas' é o formato de revisão; o de Diniz e Adura trata do exame da pessoa com deficiência; e o do CFM trata do transporte seguro de crianças. Conhecer o recorte de cada uma ajuda a organizar o estudo.",
+  "porAlt": [
+   "Essa é a obra de referência geral da especialidade sobre aspectos médicos da aptidão para conduzir.",
+   "Essa é a obra em formato de perguntas e respostas, voltada à revisão do conteúdo da especialidade.",
+   "Correta: é a obra da ABRAMET de 2020 voltada ao panorama epidemiológico nacional dos sinistros.",
+   "Essa obra trata especificamente do exame de aptidão da pessoa com deficiência física avaliada.",
+   "Essa publicação do Conselho Federal de Medicina trata do transporte seguro de crianças."
+  ]
+ },
+ {
+  "q": "Qual documento internacional consta da bibliografia do edital como referência de indicadores de segurança viária?",
+  "alts": [
+   "O relatório anual da Organização Mundial do Comércio sobre barreiras técnicas ao comércio de veículos",
+   "O anuário estatístico da Organização Meteorológica Mundial sobre condições climáticas e sinistralidade",
+   "O Road Safety Annual Report de 2022, publicado no âmbito da OCDE pelo fórum internacional de transporte",
+   "O relatório anual da Organização Internacional do Trabalho sobre acidentes de trajeto em todo o mundo",
+   "O boletim anual da Organização das Nações Unidas para a Alimentação sobre transporte rodoviário de cargas"
+  ],
+  "gab": 2,
+  "tema": "epidemiologia",
+  "sub": "Referência internacional do edital",
+  "base": "Bibliografia do Edital nº 2446 — Road Safety Annual Report 2022 (IRTAD/ITF-OCDE).",
+  "coment": "A bibliografia do edital inclui o Road Safety Annual Report 2022, produzido no âmbito do International Transport Forum da OCDE pelo grupo IRTAD — International Traffic Safety Data and Analysis Group. É a principal fonte comparativa internacional de indicadores de segurança viária, reunindo mortes por 100 mil habitantes, por veículo e por quilômetro percorrido, além da distribuição por tipo de usuário e por faixa etária em dezenas de países. A presença dessa referência ao lado das obras nacionais sinaliza que o edital espera do candidato a capacidade de situar os números brasileiros no contexto internacional — o que a diretriz de alcoolemia faz ao apontar a América Latina com o dobro da média mundial.",
+  "porAlt": [
+   "A Organização Mundial do Comércio não figura na bibliografia do edital com esse relatório.",
+   "A Organização Meteorológica Mundial não consta da bibliografia do edital com esse anuário.",
+   "Correta: o Road Safety Annual Report de 2022, do fórum internacional de transporte da OCDE.",
+   "O relatório citado é o de segurança viária da OCDE, e não o da Organização do Trabalho.",
+   "A organização voltada à alimentação não figura na bibliografia do edital com esse boletim."
+  ]
+ },
+ {
+  "q": "Qual é o objetivo do Projeto Diretrizes, no âmbito do qual foram produzidas as diretrizes ABRAMET/AMB/CFM?",
+  "alts": [
+   "Estabelecer tabelas de honorários médicos aplicáveis aos procedimentos periciais em todo o território",
+   "Definir o currículo mínimo dos programas de residência médica reconhecidos pela comissão nacional",
+   "Fiscalizar o exercício profissional dos médicos peritos examinadores credenciados pelos órgãos estaduais",
+   "Conciliar informações médicas para padronizar condutas que auxiliem o raciocínio e a decisão clínica",
+   "Publicar estatísticas mensais de morbimortalidade por sinistros de trânsito em todas as capitais do país"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Projeto Diretrizes",
+  "base": "Diretrizes ABRAMET/AMB/CFM — apresentação do Projeto Diretrizes (AMB e CFM, 2000).",
+  "coment": "As diretrizes da ABRAMET integram o Projeto Diretrizes, iniciativa conjunta da Associação Médica Brasileira e do Conselho Federal de Medicina criada no ano 2000 com o objetivo de CONCILIAR INFORMAÇÕES MÉDICAS PARA PADRONIZAR CONDUTAS que auxiliem o raciocínio e a decisão do médico. É esse desenho que explica a estrutura padronizada dos documentos — revisão da literatura, graus de recomendação e níveis de evidência indicados por letras, e recomendações objetivas ao final — e também sua natureza: são instrumentos de apoio à decisão clínica, e não normas de cumprimento obrigatório como as Resoluções do CONTRAN, ainda que várias delas sejam expressamente incorporadas por elas.",
+  "porAlt": [
+   "O projeto não trata de honorários médicos nem de tabelas aplicáveis a procedimentos periciais.",
+   "O currículo dos programas de residência é definido por outra instância, e não pelo projeto citado.",
+   "A fiscalização do exercício profissional cabe aos conselhos, não ao projeto de elaboração de diretrizes.",
+   "Correta: conciliar informações médicas para padronizar condutas e auxiliar a decisão do médico.",
+   "A publicação de estatísticas mensais não é o objetivo descrito para o projeto de diretrizes médicas."
+  ]
+ },
+ {
+  "q": "Qual é a diferença de força normativa entre uma diretriz ABRAMET e uma Resolução do CONTRAN?",
+  "alts": [
+   "A resolução é norma de cumprimento obrigatório; a diretriz é instrumento técnico de apoio à decisão",
+   "A diretriz é norma de cumprimento obrigatório; a resolução é apenas recomendação técnica facultativa",
+   "Ambas têm força normativa idêntica, sendo indiferente qual delas se invoque na fundamentação pericial",
+   "Ambas são meramente indicativas, sem qualquer caráter obrigatório para o médico perito examinador",
+   "A diretriz revoga automaticamente a resolução sempre que for publicada em data posterior a esta"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Diretriz versus resolução",
+  "base": "CTB, art. 12; Resolução CONTRAN nº 927/2022; Projeto Diretrizes AMB/CFM.",
+  "coment": "A Resolução do CONTRAN é ato normativo com base legal no CTB e vincula o perito examinador: os prazos, critérios e procedimentos da Resolução 927/2022 são de cumprimento obrigatório. A diretriz médica é documento técnico-científico produzido pela sociedade de especialidade, que consolida evidência e padroniza condutas — orienta e fundamenta, mas não vincula por si só. Na prática, contudo, a distinção se atenua por dois caminhos: a própria Resolução INCORPORA diretrizes por remissão, como faz o Anexo V ao mandar observar o consenso da ABRAMET; e o perito que se afasta da melhor evidência disponível sem justificativa técnica assume risco ético e jurídico relevante.",
+  "porAlt": [
+   "Correta: a resolução é obrigatória; a diretriz é instrumento técnico de apoio à decisão do médico.",
+   "Os papéis estão invertidos: a resolução é que tem força normativa vinculante para o perito.",
+   "As forças normativas não são idênticas, ainda que a resolução incorpore diretrizes por remissão.",
+   "A resolução tem caráter obrigatório, não sendo meramente indicativa para o perito examinador.",
+   "A diretriz não revoga resolução: são instrumentos de naturezas e hierarquias inteiramente distintas."
+  ]
+ },
+ {
+  "q": "Como o perito deve proceder quando a diretriz da sociedade de especialidade é mais restritiva que a Resolução do CONTRAN?",
+  "alts": [
+   "Ignorar a diretriz, pois apenas a resolução tem relevância na fundamentação do laudo pericial emitido",
+   "Ignorar a resolução, pois a diretriz mais recente sempre prevalece sobre o ato normativo anterior",
+   "Suspender o exame e encaminhar a dúvida ao Conselho Estadual de Trânsito para decisão vinculante",
+   "Observar a resolução como piso e fundamentar tecnicamente eventual restrição adicional adotada",
+   "Alternar entre os dois documentos conforme a preferência manifestada pelo candidato durante o exame"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Conflito entre norma e diretriz",
+  "base": "Resolução CONTRAN nº 927/2022; Diretrizes ABRAMET; conteúdo programático do Edital nº 2446.",
+  "coment": "A situação é real e frequente — a Diretriz ABRAMET 2025 de epilepsia, por exemplo, é bem mais detalhada e em alguns pontos mais restritiva que o Anexo VIII da Resolução 927/2022. A postura correta é tratar a norma como PISO de exigência, cumprindo-a integralmente, e fundamentar tecnicamente eventual restrição adicional que a melhor evidência recomende — inclusive valendo-se de instrumentos que a própria norma oferece, como a redução do prazo de validade do art. 147, §4º do CTB e os códigos de restrição do Anexo XV. O que não se admite é decidir sem fundamentação, nem ignorar a evidência científica disponível, dado que a responsabilidade pelo resultado é exclusiva do perito.",
+  "porAlt": [
+   "A diretriz é fundamento técnico legítimo e relevante para a decisão do perito no laudo emitido.",
+   "A resolução não pode ser ignorada: ela é norma de cumprimento obrigatório para o examinador.",
+   "Não há suspensão do exame para consulta vinculante ao Conselho Estadual de Trânsito local.",
+   "Correta: observar a resolução como piso e fundamentar tecnicamente a restrição adicional adotada.",
+   "A escolha do documento aplicável não é decidida pela preferência manifestada pelo candidato."
+  ]
+ },
+ {
+  "q": "Qual é a implicação de a Resolução CONTRAN nº 927/2022 prever, no Anexo V, que 'a diretriz médica pertinente passará a ser utilizada quando da sua elaboração'?",
+  "alts": [
+   "A norma incorpora por antecipação futuras diretrizes, tornando-as aplicáveis quando publicadas",
+   "A norma proíbe expressamente o uso de qualquer diretriz médica na fundamentação do laudo pericial",
+   "A norma revoga todas as diretrizes médicas existentes na data de sua publicação no diário oficial",
+   "A norma condiciona a validade das futuras diretrizes à aprovação prévia do Conselho de Medicina",
+   "A norma determina que as diretrizes médicas sejam elaboradas exclusivamente pelo próprio CONTRAN"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Incorporação de diretrizes futuras",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, item 2.",
+  "coment": "O item 2 do Anexo V determina que o candidato portador de doença cardiovascular capaz de causar perda de consciência ou insuficiência cardíaca congestiva seja avaliado observando-se o consenso estabelecido pela ABRAMET, reproduzido no Anexo VII, e acrescenta que 'a diretriz médica pertinente passará a ser utilizada quando da sua elaboração'. É uma cláusula de incorporação por antecipação: a norma reconhece que o conhecimento médico evolui mais rápido que o processo normativo e abre caminho para que a diretriz específica, uma vez publicada, seja aplicada. Foi exatamente esse dispositivo que abriu espaço para a Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos e arritmias.",
+  "porAlt": [
+   "Correta: a norma incorpora por antecipação as futuras diretrizes, aplicáveis quando publicadas.",
+   "A norma não proíbe o uso de diretrizes: ela expressamente as incorpora à avaliação pericial.",
+   "A norma não revoga as diretrizes existentes, e sim remete a elas na avaliação cardiovascular.",
+   "A norma não condiciona a validade das diretrizes à aprovação prévia do Conselho de Medicina.",
+   "A elaboração das diretrizes cabe às sociedades de especialidade, e não ao próprio CONTRAN."
+  ]
+ }
+]
