@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Segundo a diretriz da ABRAMET sobre telefone celular, que fração das atividades que resultam em falha de atenção ao conduzir cabe ao aparelho?",
+  "alts": [
+   "Menos de cinco por cento delas, sendo a conversa com passageiros a causa amplamente maior",
+   "A totalidade delas, já que nenhuma outra atividade desvia a atenção do condutor na via",
+   "Quase metade delas, num contexto em que cerca de um terço dos motoristas dirige distraído",
+   "Cerca de noventa por cento delas, restando parcela mínima para as demais fontes de desvio",
+   "Fração desprezível delas, porque o aparelho só distrai quando é usado com uma das mãos"
+  ],
+  "gab": 2,
+  "tema": "epidemiologia",
+  "sub": "Peso do celular entre as causas de distração",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 1.",
+  "coment": "A diretriz registra que cerca de um terço dos motoristas dirige distraído — interagindo com outros ocupantes, conversando ao telefone, enviando mensagens — e que o telefone celular responde por quase 50% das atividades que resultam em falha de atenção ao conduzir (FAC). A sigla FAC é a terminologia que a ABRAMET adota em lugar de distração, e ela aparece em todo o texto. A OMS lista, entre os fatores comportamentais de risco, velocidade, alcoolemia, baixa visibilidade, não uso de capacete, de cinto e de dispositivos de retenção infantil, acrescidos mais recentemente de condições médicas, medicamentos, substâncias psicoativas, fadiga e a falta de atenção pelo uso da telefonia celular.",
+  "porAlt": [
+   "Menos de cinco por cento subestima drasticamente a participação do aparelho nas falhas.",
+   "A totalidade é falsa: passageiros e outras atividades também produzem falhas de atenção.",
+   "Correta: quase metade, com cerca de um terço dos motoristas dirigindo de forma distraída.",
+   "Noventa por cento supera a fração descrita e não corresponde ao dado da própria diretriz.",
+   "A distração não depende de o aparelho ser segurado, pois o componente cognitivo persiste."
+  ]
+ },
+ {
+  "q": "Quanto tempo o condutor permanece, em média, sem prestar atenção na via ao digitar uma mensagem de texto?",
+  "alts": [
+   "Cerca de meio segundo, intervalo curto demais para qualquer repercussão prática na condução",
+   "Cerca de quatro segundos e meio, podendo percorrer até cem metros completamente desatento",
+   "Cerca de trinta segundos, tempo em que o veículo percorreria mais de um quilômetro de via",
+   "Cerca de dois minutos, período em que o condutor mantém o olhar totalmente fora da via",
+   "Cerca de dez minutos, considerando o tempo completo de uma conversa por aplicativo comum"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Tempo de olhar fora da via ao digitar",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 1.",
+  "coment": "Digitar uma mensagem faz o veículo ser conduzido por diversos metros sem o olhar atento do condutor, que fica em média 4,5 segundos sem prestar atenção na via e, dependendo da velocidade, pode percorrer até 100 metros absolutamente desatento — tempo e distância suficientes para atropelar pedestres, ciclistas e colidir com outros veículos. A diretriz traduz o número numa imagem que costuma ser cobrada: enviar mensagens pelo WhatsApp conduzindo a 80 km/h equivale a dirigir de olhos vendados por um percurso das dimensões de um campo de futebol oficial.",
+  "porAlt": [
+   "Meio segundo não corresponde ao tempo médio medido de desvio do olhar para o aparelho.",
+   "Correta: cerca de quatro segundos e meio, com até cem metros percorridos sem atenção.",
+   "Trinta segundos superestima o tempo médio descrito para a digitação de uma mensagem.",
+   "Dois minutos não é o intervalo médio de desvio do olhar descrito na diretriz da entidade.",
+   "Dez minutos corresponderia a uma conversa inteira, e não ao desvio médio do olhar medido."
+  ]
+ },
+ {
+  "q": "O que a diretriz denomina \"efeito pós-chamada\" no uso do telefone celular ao volante?",
+  "alts": [
+   "A atividade mental que persiste cerca de três segundos depois de a mensagem ser enviada",
+   "A sonolência reativa que se instala nas duas horas seguintes ao fim de qualquer chamada",
+   "A perda auditiva transitória provocada pelo volume do alto-falante junto do ouvido do usuário",
+   "O aumento da frequência cardíaca observado apenas durante o toque de chamada do aparelho",
+   "A elevação da pressão arterial que se mantém por todo o restante do trajeto após a ligação"
+  ],
+  "gab": 0,
+  "tema": "epidemiologia",
+  "sub": "Efeito pós-chamada",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 2.",
+  "coment": "Uma conversa ao celular mantém a atividade mental direcionada à chamada mesmo após o término da ligação, permanecendo o risco de sinistro em média por três segundos depois do envio de uma mensagem de texto. Se o veículo estiver a 100 km/h, percorrerá mais de 90 metros sob esse efeito pós-chamada. O achado é decisivo contra o argumento de que basta encerrar a ligação para retomar a atenção plena: o custo cognitivo se prolonga. É o mesmo raciocínio que sustenta a crítica ao viva-voz, que resolve o componente manual mas não o cognitivo da falha de atenção.",
+  "porAlt": [
+   "Correta: a atividade mental persiste cerca de três segundos após o envio da mensagem.",
+   "A sonolência reativa por duas horas não é o fenômeno descrito com esse nome na diretriz.",
+   "A perda auditiva transitória pelo volume do aparelho não é o efeito assim denominado.",
+   "O aumento de frequência cardíaca durante o toque não corresponde ao conceito descrito.",
+   "A elevação pressórica sustentada não é o fenômeno cognitivo que o termo designa no texto."
+  ]
+ },
+ {
+  "q": "No estudo de ressonância magnética funcional citado, o que aconteceu com a ativação do lobo parietal durante a dupla tarefa?",
+  "alts": [
+   "Subiu cerca de setenta por cento, compensando integralmente a demanda da segunda tarefa",
+   "Permaneceu idêntica, demonstrando que o cérebro soma áreas novas a cada tarefa exigida",
+   "Migrou por completo para o lobo occipital, que assumiu sozinho o processamento espacial",
+   "Foi abolida por completo, com interrupção total do processamento visual durante a tarefa",
+   "Caiu cerca de trinta e sete por cento quando o voluntário ouvia frases enquanto dirigia"
+  ],
+  "gab": 4,
+  "tema": "epidemiologia",
+  "sub": "Base neurofisiológica da dupla tarefa",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 2.",
+  "coment": "Participantes dirigiram por uma estrada virtual curva sem perturbação ou enquanto julgavam verdadeiras ou falsas frases faladas. A dupla tarefa produziu imprecisão significativa na direção e a ativação do lobo parietal associada ao processamento espacial caiu 37% quando havia escuta simultânea. O princípio geral que a diretriz enuncia é que o cérebro tem capacidade finita de disponibilizar neurônios para atividades que exigem atenção e NÃO soma áreas novas quando duas tarefas concorrem — uma ou mais tarefas em execução concomitante serão parcialmente negligenciadas. É a razão pela qual o viva-voz não resolve o problema.",
+  "porAlt": [
+   "Não houve aumento compensatório: o recrutamento neural não cresce com a segunda tarefa.",
+   "A ativação não permaneceu idêntica, e o cérebro não soma áreas a cada tarefa acrescentada.",
+   "Não houve migração do processamento espacial para o lobo occipital durante a experiência.",
+   "A ativação diminuiu de forma expressiva, mas não foi abolida por completo na experiência.",
+   "Correta: caiu cerca de trinta e sete por cento na condição de escuta simultânea de frases."
+  ]
+ },
+ {
+  "q": "Segundo estudo publicado no New England Journal of Medicine e citado na diretriz, qual é o risco de colisão durante chamadas breves ao celular?",
+  "alts": [
+   "Fica reduzido à metade, porque o condutor compensa diminuindo a velocidade de percurso",
+   "Fica inalterado, desde que a chamada dure menos de sessenta segundos ao todo no trajeto",
+   "Fica cem vezes maior, superando qualquer outro fator de risco descrito para o trânsito",
+   "Fica maior somente entre condutores com mais de sessenta e cinco anos de idade completos",
+   "Fica quadruplicado, prejuízo equivalente ao do consumo de álcool dentro do limite legal"
+  ],
+  "gab": 4,
+  "tema": "epidemiologia",
+  "sub": "Quadruplicação do risco em chamadas breves",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 4.",
+  "coment": "A diretriz cita o achado de que a falha de atenção pelo uso do celular quadriplica o risco de colisão durante chamadas breves, taxa equivalente ao prejuízo causado pelo consumo de bebida alcoólica dentro do limite legalmente estabelecido — conclusão a que também chegou relatório da NHTSA. A escala piora com os aplicativos de mensagem: o risco sobe 400% ao checar mensagens e chega a 23 vezes quando elas são digitadas. Digitar é a forma mais grave de falha de atenção porque combina, ao mesmo tempo, distração manual, visual e cognitiva.",
+  "porAlt": [
+   "Não há redução do risco: a diminuição de velocidade não compensa o prejuízo atencional.",
+   "O risco não permanece inalterado nas chamadas breves, que foi justamente a situação medida.",
+   "Cem vezes maior não corresponde à magnitude descrita para as chamadas breves ao celular.",
+   "O aumento de risco não se restringe aos condutores com mais de sessenta e cinco anos.",
+   "Correta: quadruplicado, com prejuízo comparável ao do álcool dentro do limite legalmente fixado."
+  ]
+ },
+ {
+  "q": "Qual é o incremento de risco descrito quando o condutor digita mensagens de texto ao dirigir?",
+  "alts": [
+   "Chega a duas vezes, valor idêntico ao da simples checagem visual da mensagem recebida",
+   "Chega a cem vezes, sendo a checagem da mensagem bem mais perigosa do que a sua digitação",
+   "Chega a dez por cento, incremento pequeno diante dos demais fatores de risco no trânsito",
+   "Chega a vinte e três vezes, contra quatrocentos por cento na simples checagem da mensagem",
+   "Chega a três vezes, número igual ao que se encontrou nas conversas por sistema viva-voz"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Digitar mensagens e magnitude do risco",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 4.",
+  "coment": "Com a disseminação dos aplicativos de troca de mensagens, os riscos de se envolver em sinistro sobem para 400% quando se checa mensagens de texto e para 23 vezes quando elas são digitadas. O envio de mensagens é a causa mais grave de falha de atenção porque envolve distração manual, visual e cognitiva simultaneamente — as três modalidades ao mesmo tempo, ao contrário da conversa por viva-voz, que compromete sobretudo a cognitiva. A diretriz acrescenta que dirigir utilizando o telefone celular ocasiona reações equivalentes às da condução com 1 g/L de alcoolemia.",
+  "porAlt": [
+   "Duas vezes subestima o risco de digitar e iguala indevidamente digitar e apenas checar.",
+   "Cem vezes não é o valor descrito, e checar é menos perigoso do que digitar a mensagem.",
+   "Dez por cento é incremento incompatível com a magnitude medida nos estudos que se citam.",
+   "Correta: até vinte e três vezes ao digitar, contra quatrocentos por cento ao apenas checar.",
+   "Três vezes não corresponde ao risco de digitar nem ao descrito para o uso do viva-voz."
+  ]
+ },
+ {
+  "q": "Como a diretriz avalia os sistemas de viva-voz, bluetooth e comandos no volante quanto à segurança da condução?",
+  "alts": [
+   "Eliminam por completo o risco, por manterem as duas mãos do condutor sempre sobre o volante",
+   "Reduzem a distração manual, mas não tornam o uso do aparelho substancialmente mais seguro",
+   "Aumentam o risco em relação ao aparelho segurado na mão, por exigirem comandos adicionais",
+   "São irrelevantes, pois nenhum estudo comparou o uso manual com o uso por sistema integrado",
+   "São recomendados como forma segura de conversar em qualquer velocidade durante o trajeto"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Viva-voz e o componente cognitivo",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 2.",
+  "coment": "Sistemas integrados — viva-voz, bluetooth, software de voz, comandos no volante, microfones e alto-falantes — possibilitam manter as duas mãos no volante e minimizam a distração se comparados a dispositivos controlados manualmente, MAS não são substancialmente mais seguros, porque o uso do celular traz risco relevante ao desempenho independentemente do modo de utilização. A explicação está no componente cognitivo e psicológico: não há como reduzir o efeito perturbador da conversa nem programar previamente o seu curso, e colóquios que envolvam emoção e afeto alteram a capacidade de administrar a condução. Segurar o aparelho entre a cabeça e o ombro mantém o risco, pois dificulta a mobilidade cervical e prejudica o campo visual.",
+  "porAlt": [
+   "Não eliminam o risco: o componente cognitivo da conversa permanece integralmente presente.",
+   "Correta: reduzem a distração manual, mas não tornam o uso substancialmente mais seguro.",
+   "Não aumentam o risco em relação ao aparelho segurado, embora também não o eliminem.",
+   "Existem estudos comparativos, e foram justamente eles que sustentaram essa conclusão.",
+   "A diretriz não os recomenda como forma segura de conversar durante a condução veicular."
+  ]
+ },
+ {
+  "q": "Qual foi a participação da falha de atenção ao conduzir nos sinistros com vítimas em rodovias federais brasileiras entre 2007 e 2016?",
+  "alts": [
+   "Cerca de três por cento deles, participação pequena diante da alcoolemia e da velocidade",
+   "Cerca de setenta por cento deles, superando a soma de todos os demais fatores conhecidos",
+   "Cerca de noventa por cento deles, o que faz da distração a causa isolada quase exclusiva",
+   "Participação desconhecida, pois o sistema da Polícia Rodoviária Federal não registra a causa",
+   "Cerca de trinta por cento deles, com dezoito feridos não fatais para cada vítima que morre"
+  ],
+  "gab": 4,
+  "tema": "epidemiologia",
+  "sub": "Falha de atenção nas rodovias federais",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 3.",
+  "coment": "Entre 2007 e 2016 ocorreram 643.231 sinistros com vítimas nas rodovias federais, dos quais 194.203 (30,2%) tiveram como causa a falha de atenção ao conduzir; para cada vítima fatal por essa causa há, em média, pelo menos 18 outras com lesões não fatais. A diretriz destaca que o Sistema de Informação da PRF é hoje o ÚNICO que permite dimensionar o problema em nível nacional — a contribuição específica do telefone celular não é calculável no Brasil por causa do modelo de registro dos sinistros, e inquéritos como a PNS e a PeNSE abordam comportamentos de risco no trânsito mas não contemplam a falha de atenção pelo uso do aparelho.",
+  "porAlt": [
+   "Três por cento subestima em muito a participação apurada no período pela série da PRF.",
+   "Setenta por cento supera com folga a fração efetivamente apurada no período analisado.",
+   "Noventa por cento não corresponde ao dado apurado e transformaria a distração em causa única.",
+   "O sistema da PRF registra a causa e é justamente a fonte que permitiu esse dimensionamento.",
+   "Correta: cerca de trinta por cento, com dezoito feridos não fatais para cada vítima fatal."
+  ]
+ },
+ {
+  "q": "Qual é o perfil de maior prevalência do uso do telefone celular durante a condução, segundo a diretriz?",
+  "alts": [
+   "Período da madrugada e condutores com mais de setenta anos de idade completos apenas",
+   "Períodos da tarde e da noite e condutores com menos de trinta anos de idade completos",
+   "Início da manhã e condutores das categorias profissionais de transporte de carga pesada",
+   "Finais de semana e condutores recém-habilitados na categoria de motocicleta em cidades",
+   "Horário do almoço e condutores que dirigem exclusivamente em vias rurais não pavimentadas"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Perfil de prevalência do uso ao volante",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 3.",
+  "coment": "O uso é mais prevalente nos períodos da tarde e da noite e na faixa etária inferior aos 30 anos. Investigação de 34.439 sinistros fatais nos Estados Unidos identificou 444 envolvendo falha de atenção por conversa ou manuseio do aparelho, com as faixas de 20 a 29 anos (35%), 30 a 39 anos (22%) e 40 a 49 anos (15%) liderando. Motoristas jovens se comunicam mais quando na presença de amigos com comportamento semelhante, relatam sentir-se perdidos e desconfortáveis sem o aparelho e — dado que costuma cair — consideram aceitável intervir quando alguém dirige alcoolizado, mas não quando está enviando mensagens de texto.",
+  "porAlt": [
+   "A madrugada e a faixa acima de setenta anos não são o perfil de maior prevalência descrito.",
+   "Correta: períodos da tarde e da noite e condutores com menos de trinta anos de idade.",
+   "O início da manhã e os condutores profissionais de carga não compõem o perfil apontado.",
+   "Os finais de semana e os recém-habilitados de motocicleta não são o perfil que se descreveu.",
+   "O horário do almoço e a via rural não pavimentada não correspondem ao perfil identificado."
+  ]
+ },
+ {
+  "q": "Que contradição de percepção a diretriz aponta entre a crença dos motoristas e o comportamento efetivo?",
+  "alts": [
+   "Vinte por cento julgam a combinação perigosa, e todos eles deixam de usar o aparelho ao dirigir",
+   "Nenhum motorista reconhece o perigo, o que explica a alta prevalência do uso durante o trajeto",
+   "Setenta por cento julgam a combinação perigosa, mas apenas vinte por cento dela se privam",
+   "Todos reconhecem o perigo e, por isso, o uso ao volante já é raro entre os condutores do país",
+   "Os motoristas jovens desconfiam de si mesmos, mas confiam plenamente nos demais condutores"
+  ],
+  "gab": 2,
+  "tema": "epidemiologia",
+  "sub": "Superestimação do próprio desempenho",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), itens 3 e 7.",
+  "coment": "Cerca de 70% dos motoristas acreditam que direção e telefone celular não combinam, mas somente cerca de 20% se privam dessa combinação. O item 7 completa o retrato: muitos jovens se sentem capazes de usar o aparelho e dirigir com segurança, mas NÃO confiam em outros motoristas fazendo o mesmo — as pessoas estão cientes do efeito da distração, porém superestimam o próprio desempenho. A diretriz acrescenta, logo na introdução, que motoristas com maiores níveis de confiança em lidar com a distração têm pior desempenho, o que inverte a intuição de que a experiência protegeria o condutor.",
+  "porAlt": [
+   "A proporção está invertida, e o reconhecimento do perigo não se converte em mudança real.",
+   "O perigo é reconhecido pela maioria, e não ignorado pelo conjunto dos condutores do país.",
+   "Correta: setenta por cento julgam perigoso e apenas vinte por cento evitam a combinação.",
+   "O reconhecimento existe, mas o uso ao volante permanece frequente entre os condutores.",
+   "A desconfiança dos jovens recai sobre os outros condutores, e não sobre eles próprios."
+  ]
+ },
+ {
+  "q": "No teste realizado pela ABRAMET com o Instituto de Ortopedia no autódromo de Interlagos, o que se observou nos voluntários?",
+  "alts": [
+   "Manutenção precisa da trajetória e da velocidade em todas as tarefas propostas no circuito",
+   "Aceleração progressiva acima do limite do circuito durante o envio das mensagens de texto",
+   "Guinadas bruscas no volante e queda de noventa para sessenta quilômetros por hora na conversa",
+   "Melhora do tempo de reação diante dos cones no momento em que o aparelho estava na mão",
+   "Ausência de qualquer alteração mensurável no desempenho ao longo das chamadas telefônicas"
+  ],
+  "gab": 2,
+  "tema": "epidemiologia",
+  "sub": "Teste de Interlagos",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 2.",
+  "coment": "Com o telefone na mão, os voluntários realizaram guinadas bruscas no volante e curvas exageradas em manobras simples para percorrer uma fileira de cones; conduzindo a 90 km/h, reduziram a velocidade para 60 km/h durante a conversa e quase pararam na pista ao enviar mensagens. Nos testes com barreiras de cones só desviavam em cima da hora, demonstrando a dificuldade de dirigir com atenção dividida, principalmente quando é preciso decidir rápido para evitar um sinistro. A redução involuntária de velocidade é ela própria um achado de risco, e não um mecanismo de proteção: gera diferencial de velocidade e comportamento imprevisível para os demais.",
+  "porAlt": [
+   "A trajetória e a velocidade não se mantiveram precisas durante as tarefas com o aparelho.",
+   "Não houve aceleração progressiva: os voluntários quase pararam ao enviar as mensagens.",
+   "Correta: guinadas bruscas e queda de noventa para sessenta quilômetros por hora na conversa.",
+   "O tempo de reação piorou, e os desvios diante dos cones ocorreram apenas em cima da hora.",
+   "Houve alterações mensuráveis e expressivas no desempenho durante as chamadas realizadas."
+  ]
+ },
+ {
+  "q": "Como se altera a distribuição da atenção visual do condutor que usa o telefone celular ao dirigir?",
+  "alts": [
+   "Passa a varrer com mais frequência os espelhos retrovisores e os pontos cegos do automóvel",
+   "Distribui a atenção de forma homogênea entre todos os campos visuais ao longo de todo o percurso",
+   "Concentra o olhar exclusivamente na traseira do veículo, abandonando a via que tem à frente",
+   "Passa mais tempo olhando para a frente e reduz a atenção com a traseira e as laterais do carro",
+   "Amplia o campo visual periférico por efeito compensatório da própria conversa ao telefone celular"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Estreitamento da varredura visual",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular na condução de veículos automotores (2021), item 4.",
+  "coment": "Os motoristas em falha de atenção pelo uso do celular permanecem olhando para a frente por mais tempo e têm menos atenção visual com a traseira e os lados do veículo. O padrão é o do olhar fixo, empobrecido de varredura: o condutor parece atento porque encara a via, mas deixou de checar retrovisores e laterais, que é justamente onde nasce o conflito nas mudanças de faixa, nas conversões e na aproximação de motociclistas. Some-se a isso que motoristas distraídos por conversas reagem de forma insegura, reduzem a velocidade inesperadamente, têm dificuldade em manter o posicionamento na via e apresentam tempo de reação para frenagem aumentado.",
+  "porAlt": [
+   "A varredura de espelhos e pontos cegos diminui, e não aumenta, durante o uso do aparelho.",
+   "A distribuição não permanece homogênea: o padrão descrito é o de olhar fixo à frente.",
+   "O condutor não abandona a via à frente; ao contrário, é para ela que o olhar se concentra.",
+   "Correta: mais tempo olhando à frente e menos atenção com a traseira e as laterais do carro.",
+   "Não há ampliação compensatória do campo periférico durante a conversa ao telefone celular."
+  ]
+ },
+ {
+  "q": "Qual foi o efeito da Portaria DENATRAN nº 48, de 29 de agosto de 2002, quanto ao fone de ouvido monoauricular?",
+  "alts": [
+   "Tornou sem efeito a portaria anterior que havia permitido o seu uso na condução do veículo",
+   "Passou a permitir o seu uso, desde que o condutor mantivesse as duas mãos sobre o volante",
+   "Restringiu o seu uso apenas aos condutores das categorias profissionais C, D e E do país",
+   "Autorizou o seu uso exclusivamente dentro dos perímetros urbanos dos municípios brasileiros",
+   "Delegou aos órgãos estaduais de trânsito a decisão sobre permitir ou proibir o seu emprego"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Portaria DENATRAN nº 48/2002",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular (2021), item 5; Portaria DENATRAN nº 48, de 29/08/2002.",
+  "coment": "Considerando estudo técnico da própria ABRAMET sobre a falha de atenção pelo uso do celular, o DENATRAN publicou em 29 de agosto de 2002 a Portaria nº 48, que tornou sem efeito a Portaria nº 24, de 23 de abril de 2002 — esta última é que permitia o uso de fone de ouvido do tipo monoauricular ao conduzir. A motivação declarada é conceitual e vale para a prova: a questão não se restringe ao uso das mãos para segurar e discar, mas principalmente à exigência de que a cognição do condutor esteja voltada ao tema da conversa, sendo que o interlocutor não está no veículo e desconhece as condições de conflito do deslocamento.",
+  "porAlt": [
+   "Correta: tornou sem efeito a portaria anterior, que havia permitido o fone monoauricular.",
+   "A portaria não passou a permitir o uso; ela revogou justamente a permissão anteriormente dada.",
+   "Não houve restrição do uso apenas às categorias profissionais previstas na habilitação.",
+   "Não houve autorização limitada ao perímetro urbano dos municípios brasileiros pela portaria.",
+   "A decisão não foi delegada aos órgãos estaduais de trânsito por meio da portaria citada."
+  ]
+ },
+ {
+  "q": "Qual é a natureza da infração do inciso VI do artigo 252 do CTB, que proíbe dirigir utilizando fones nos ouvidos ou telefone celular?",
+  "alts": [
+   "Infração de natureza leve, aplicável somente quando o aparelho está preso entre ombro e cabeça",
+   "Infração de natureza grave, aplicável apenas quando há passageiro transportado no veículo",
+   "Infração de natureza gravíssima, aplicável exclusivamente nas rodovias federais brasileiras",
+   "Infração de natureza média, aplicável inclusive quando o aparelho é usado em modo viva-voz",
+   "Conduta atípica, que apenas gera advertência escrita do agente de trânsito ao condutor"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Artigo 252, inciso VI, do CTB",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular (2021), item 5; CTB, art. 252, VI.",
+  "coment": "O inciso VI do art. 252 do CTB proíbe dirigir utilizando-se de fones nos ouvidos conectados a aparelhagem sonora ou de telefone celular, e a infração é de natureza MÉDIA. A diretriz esclarece que o inciso abrange duas condutas: a utilização de fones nos ouvidos, que pressupõe conexão a aparelhagem sonora, ainda que virtual por bluetooth; e a utilização de telefone celular, pouco importando se com fone, segurando em uma das mãos, apoiado no ombro ou até mesmo no viva-voz — ressalvada, neste caso, a óbvia dificuldade de fiscalização. É por isso que o viva-voz não está fora do alcance da norma.",
+  "porAlt": [
+   "A natureza não é leve, e a conduta não se restringe ao aparelho apoiado no ombro do condutor.",
+   "A natureza não é grave, e a infração independe de haver passageiro transportado no veículo.",
+   "A natureza do inciso VI não é gravíssima e a regra não se restringe às rodovias federais.",
+   "Correta: infração média, que alcança inclusive o uso do aparelho em modo de viva-voz.",
+   "A conduta é típica e sancionada, e não mera hipótese de advertência escrita do agente."
+  ]
+ },
+ {
+  "q": "Qual foi a mudança trazida pela Lei nº 13.281/2016 quanto ao condutor que segura ou manuseia telefone celular ao dirigir?",
+  "alts": [
+   "Passou a enquadrá-lo no inciso V do artigo 252, como infração gravíssima com agravante",
+   "Passou a enquadrá-lo apenas como infração leve, com aplicação de simples advertência escrita",
+   "Passou a exonerá-lo de penalidade quando o veículo estivesse parado no semáforo fechado",
+   "Passou a exigir prova pericial da distração para que a autuação fosse considerada válida",
+   "Passou a permitir a conduta em veículos que tenham transmissão automática e piloto automático"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Lei 13.281/2016 e o inciso V",
+  "base": "Diretriz ABRAMET, Riscos do uso do telefone celular (2021), item 5; CTB, art. 252, V e parágrafo único.",
+  "coment": "A Lei 13.281/2016, em vigor desde 1º de novembro de 2016, alterou o inciso V do art. 252 do CTB para caracterizar como infração GRAVÍSSIMA dirigir com apenas uma das mãos — ressalvadas as hipóteses de sinais regulamentares de braço, mudança de marcha ou acionamento de equipamentos e acessórios — no caso de o condutor estar segurando ou manuseando telefone celular. A diretriz sintetiza a consequência prática: a partir daquela data, se o aparelho está sendo usado para enviar mensagem ou ler informações, a infração deixa de ser a do inciso VI, de natureza média, para se enquadrar no inciso V, com a agravante do parágrafo único.",
+  "porAlt": [
+   "Correta: passou ao inciso V do artigo 252, como infração gravíssima com a agravante prevista.",
+   "A conduta não foi rebaixada a infração leve nem passou a comportar simples advertência.",
+   "Não houve exoneração de penalidade para o veículo parado diante do semáforo fechado.",
+   "A norma não passou a exigir prova pericial da distração para validar a autuação lavrada.",
+   "A transmissão automática não autoriza a conduta, e manusear o aparelho segue prejudicando."
+  ]
+ }
+]
