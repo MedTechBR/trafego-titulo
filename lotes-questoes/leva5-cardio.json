@@ -1,0 +1,288 @@
+[
+ {
+  "q": "Homem de 62 anos, taxista, implantou marca-passo definitivo há 3 semanas por doença do nó sinusal. Está assintomático, com captura e sensibilidade normais ao eletrocardiograma e controles regulares. Segundo a Diretriz ABRAMET/SBC/SOBRAC, ele pode voltar a dirigir profissionalmente?",
+  "alts": [
+   "Sim, pois duas semanas após o implante já bastam para liberar qualquer modalidade de condução",
+   "Não, pois o portador de marca-passo fica permanentemente desqualificado da direção profissional",
+   "Não, pois a direção profissional exige quatro semanas após o implante do marca-passo definitivo",
+   "Sim, pois o controle eletrônico normal dispensa a exigência de intervalo mínimo após o implante",
+   "Não, pois a direção profissional exige três meses completos após o implante do marca-passo cardíaco"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Marca-passo e retorno à direção",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC 'Recomendações brasileiras para direção veicular em portadores de dispositivos cardíacos eletrônicos implantáveis e arritmias cardíacas', Fig. 1.",
+  "coment": "A diretriz separa direção PRIVADA (ACC, A e B, sem atividade remunerada) de direção PROFISSIONAL (ACC, A, B, C, D e E, com atividade remunerada ao veículo). Para o marca-passo: implante — 2 semanas na privada e 4 semanas na profissional; troca de gerador — 1 semana e 2 semanas; troca de eletrodo — 2 semanas e 4 semanas. Em todos os casos exigem-se ainda quatro condições cumulativas: nenhum prejuízo no nível de consciência após o implante, captura e sensibilidade normais ao eletrocardiograma, nenhuma evidência de mau funcionamento do sistema e controles clínico e eletrônico regulares. O taxista exerce atividade remunerada, portanto está na coluna profissional e precisa completar 4 semanas.",
+  "porAlt": [
+   "O prazo de duas semanas é o da direção privada, que não alcança quem exerce atividade remunerada.",
+   "O marca-passo não desqualifica permanentemente: essa coluna é a do CDI na direção profissional.",
+   "Correta: a coluna profissional exige quatro semanas após o implante, e ele está com apenas três.",
+   "As condições clínicas são exigências somadas ao prazo mínimo, e não substitutas desse intervalo.",
+   "O prazo de três meses corresponde ao implante de ressincronizador na direção privada, não ao marca-passo."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, qual é a recomendação para a direção PROFISSIONAL do portador de cardiodesfibrilador implantável (CDI)?",
+  "alts": [
+   "Restrição de três meses, contados do implante, liberando-se a condução após esse período mínimo",
+   "Restrição permanente, qualquer que seja a indicação do implante ou o tempo decorrido desde ele",
+   "Restrição de seis meses, contados do implante, liberando-se a condução após esse período mínimo",
+   "Restrição de quatro semanas quando o implante for por prevenção primária de morte súbita cardíaca",
+   "Restrição de doze meses, contados da última terapia apropriada registrada pela memória do aparelho"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "CDI e direção profissional",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, Fig. 3.",
+  "coment": "Na tabela do CDI (e do CDI associado a ressincronizador), TODAS as linhas da coluna profissional trazem restrição PERMANENTE: implante por prevenção primária, implante por prevenção secundária, após terapia apropriada, após terapia inapropriada, troca de gerador, troca de eletrodo e mesmo os pacientes que recusaram o implante. O racional é que o portador de CDI tem, por definição, risco elevado de arritmia maligna e de choque com repercussão sobre a consciência, incompatível com o transporte de cargas e passageiros. Na direção PRIVADA os prazos variam: 4 semanas no implante por prevenção primária, 3 meses na prevenção secundária, 3 meses após terapia apropriada, 1 semana na troca de gerador, 4 semanas na troca de eletrodo; quem recusou o implante por prevenção primária não tem restrição, e quem recusou por prevenção secundária aguarda 6 meses.",
+  "porAlt": [
+   "O prazo de três meses corresponde à direção privada nas hipóteses de prevenção secundária.",
+   "Correta: todas as linhas da coluna profissional do CDI trazem restrição permanente na diretriz.",
+   "O prazo de seis meses é o de quem recusou o implante por prevenção secundária, na direção privada.",
+   "As quatro semanas correspondem à direção privada no implante por prevenção primária de morte súbita.",
+   "Não há liberação profissional após doze meses: a restrição é permanente em todas as hipóteses."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, o portador de ressincronizador cardíaco pode dirigir profissionalmente?",
+  "alts": [
+   "Não, salvo se ele for hiper-respondedor, hipótese em que valem os prazos da direção privada",
+   "Sim, decorridos três meses do implante, com controles clínico e eletrônico regulares mantidos",
+   "Não, em nenhuma hipótese, pois a ressincronização pressupõe insuficiência cardíaca avançada",
+   "Sim, decorridas quatro semanas do implante, desde que o eletrocardiograma esteja sem alterações",
+   "Sim, decorrida uma semana da troca de gerador, prazo idêntico ao previsto para a direção privada"
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Ressincronizador e hiper-respondedor",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, Fig. 2.",
+  "coment": "A tabela do ressincronizador traz, na coluna profissional, restrição permanente para implante, troca de gerador e troca de eletrodo — mas com um asterisco decisivo: EXCETO para o hiper-respondedor, cujos prazos passam a ser iguais aos da direção privada. Hiper-respondedor é o paciente cuja função ventricular se recupera de forma expressiva após a ressincronização, revertendo o substrato de risco. Na direção privada os prazos são: implante 3 meses, troca de gerador 1 semana e troca de eletrodo 4 semanas. Valem também as quatro condições comuns a todos os dispositivos: nenhum prejuízo do nível de consciência após o implante, captura e sensibilidade normais ao ECG, nenhuma evidência de mau funcionamento e controles clínico e eletrônico regulares.",
+  "porAlt": [
+   "Correta: a restrição profissional é permanente, com a exceção expressa do paciente hiper-respondedor.",
+   "Os três meses correspondem ao implante na direção privada, não à liberação da direção profissional.",
+   "A diretriz prevê exceção justamente para o hiper-respondedor, afastando a vedação absoluta afirmada.",
+   "As quatro semanas correspondem à troca de eletrodo na direção privada, não ao implante profissional.",
+   "A troca de gerador tem prazo de uma semana apenas na direção privada, sendo permanente na profissional."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, condutor com bloqueio atrioventricular de 2º grau tipo I (Wenckebach), assintomático, deve ser considerado:",
+  "alts": [
+   "Desqualificado para qualquer modalidade de condução até que se implante um marca-passo definitivo",
+   "Qualificado apenas para a direção privada, ficando vedada qualquer atividade remunerada ao veículo",
+   "Desqualificado temporariamente por seis meses, com nova avaliação eletrofisiológica ao fim do prazo",
+   "Qualificado sem qualquer necessidade de acompanhamento cardiológico periódico posterior programado",
+   "Qualificado inclusive para a direção profissional, com avaliação clínica periódica e Holter anual"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Bloqueios atrioventriculares",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.2.2.",
+  "coment": "A diretriz separa nitidamente os bloqueios. BAV de 1º grau estável ou que normaliza durante o esforço físico, e BAV de 2º grau tipo I, QUANDO ASSINTOMÁTICOS, não desqualificam o indivíduo para conduzir veículos, mesmo profissionalmente — porém exigem avaliação clínica periódica com realização ANUAL de Holter, para acompanhar o surgimento de sintomas e a progressão do quadro arrítmico. Já o BAV de 2º grau tipo II e o BAV total (3º grau) adquirido DESQUALIFICAM o portador para a direção veicular em qualquer condição, até que haja tratamento eficaz, normalmente com implante de marca-passo — momento em que passam a valer os prazos da tabela do dispositivo. Note o contraste com o Anexo VII da Resolução 927/2022, que trata o BAV de 2º e 3º graus genericamente como inaptidão temporária.",
+  "porAlt": [
+   "O implante de marca-passo é a via do BAV de 2º grau tipo II e do bloqueio atrioventricular total.",
+   "A diretriz não restringe esse bloqueio à direção privada: admite inclusive a atividade remunerada.",
+   "Não há previsão de desqualificação temporária de seis meses para esse tipo específico de bloqueio.",
+   "O acompanhamento é exigido: avaliação clínica periódica com Holter anual para seguir a progressão.",
+   "Correta: assintomático, o BAV de 2º grau tipo I não desqualifica, exigindo apenas Holter anual."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, pausas sinusais detectadas ao Holter ou ao teste ergométrico, com duração inferior a 4 segundos, infrequentes e assintomáticas, em indivíduo sem cardiopatia aparente, devem ser conduzidas como:",
+  "alts": [
+   "Indicação imediata de estudo eletrofisiológico invasivo antes de qualquer liberação para dirigir",
+   "Desqualificação temporária até o implante de marca-passo definitivo e observação do prazo dele",
+   "Restrição da condução ao período diurno até que novo Holter de 24 horas confirme a normalização",
+   "Desqualificação permanente para a direção profissional, mantida a liberação da direção privada",
+   "Apenas acompanhamento clínico, sem restrição imediata da condução de veículos automotores"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Bradiarritmias sinusais",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.2.1.",
+  "coment": "A diretriz estabelece que pausas sinusais com duração INFERIOR A 4 SEGUNDOS, infrequentes e assintomáticas, em indivíduos sem cardiopatia aparente, devem apenas ser acompanhadas clinicamente. Na presença de SINTOMAS atribuídos a essas alterações, a liberação para dirigir só poderá ser obtida após as devidas correções e/ou controle adequado. Já a bradicardia sinusal com frequência cardíaca igual ou inferior a 40 bpm exige avaliação cardíaca não invasiva inicial para definir a existência de doença do nó sinusal, podendo alguns pacientes necessitar de avaliação eletrofisiológica invasiva — condição descrita como rara. E quando a correção da bradiarritmia exigir implante de marca-passo, passam a valer as recomendações específicas daquele dispositivo.",
+  "porAlt": [
+   "O estudo eletrofisiológico invasivo é reservado a poucos casos de suspeita de doença do nó sinusal.",
+   "O marca-passo entra quando a bradiarritmia é sintomática e exige correção, o que não é o caso aqui.",
+   "A diretriz não prevê restrição de horário como conduta para pausas sinusais curtas assintomáticas.",
+   "Não há desqualificação permanente prevista para esse achado isolado em coração sem cardiopatia.",
+   "Correta: pausas curtas, infrequentes e assintomáticas sem cardiopatia pedem só acompanhamento clínico."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, condutor que apresentou fibrilação ventricular por causa NÃO reversível deve observar qual conduta?",
+  "alts": [
+   "Três meses de restrição na direção privada e seis meses de restrição na direção profissional",
+   "Doze meses de restrição na direção privada e doze meses de restrição na direção profissional",
+   "Quatro semanas de restrição na direção privada e três meses de restrição na direção profissional",
+   "Seis meses de restrição na direção privada e desqualificação para a direção profissional dele",
+   "Nenhuma restrição na direção privada e seis meses de restrição para a direção profissional dele"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Arritmias ventriculares malignas",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, tabela de arritmias ventriculares.",
+  "coment": "Para a fibrilação ventricular por causa NÃO reversível e para a taquicardia ventricular hemodinamicamente instável, a diretriz prevê 6 meses de restrição na direção privada e DESQUALIFICAÇÃO na direção profissional. Quando a TV ou a FV decorre de causa REVERSÍVEL — isquemia aguda corrigida, distúrbio hidroeletrolítico, efeito de fármaco —, os prazos são menores, porque o substrato arritmogênico foi removido. É o mesmo raciocínio que percorre toda a diretriz: o que define a conduta é o risco residual de perda súbita de consciência, e não o rótulo diagnóstico. A diretriz observa ainda que a maioria das diretrizes internacionais recomenda a revogação da licença para condutores profissionais que apresentaram arritmia causadora de síncope nos últimos dois anos.",
+  "porAlt": [
+   "Os prazos estão subestimados e a diretriz não admite liberação profissional nessa condição.",
+   "O prazo da direção privada é de seis meses, e a coluna profissional traz desqualificação.",
+   "Esses prazos correspondem a linhas da tabela de dispositivos, não à fibrilação ventricular.",
+   "Correta: seis meses na direção privada e desqualificação para quem exerce atividade remunerada.",
+   "A direção privada não fica livre de restrição: são exigidos seis meses após o evento arrítmico."
+  ]
+ },
+ {
+  "q": "Paciente teve episódio único de síncope vasovagal situacional, plenamente esclarecido, sem cardiopatia estrutural. Segundo a Diretriz ABRAMET/SBC/SOBRAC, qual é a conduta quanto à direção privada?",
+  "alts": [
+   "Apto após observação de três meses, com realização prévia de teste de inclinação ortostática",
+   "Apto após observação de uma semana, dispensada qualquer restrição adicional pelo episódio",
+   "Apto após observação de doze meses, prazo que se aplica também à síncope de origem indefinida",
+   "Inapto temporário por seis meses, com investigação eletrofisiológica antes da nova liberação",
+   "Apto imediatamente, sem qualquer período de observação, por se tratar de causa bem esclarecida"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Síncope e direção veicular",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, tabela de síncope.",
+  "coment": "A diretriz gradua a conduta pela previsibilidade de recorrência. Síncope vasovagal ÚNICA e situacional, com causa esclarecida: apto após observação de uma semana. Síncope de ORIGEM INEXPLICADA e síncope vasovagal RECORRENTE nos últimos 12 meses: aguardar uma semana para a direção privada e 12 MESES para a direção comercial. O texto reforça que, havendo risco de recorrência ou síncope de origem inexplicada, recomenda-se evitar a direção privada por uma semana e por 12 meses no caso da direção comercial, período em que a investigação diagnóstica deve ser conduzida. A assimetria entre privada e comercial é a marca de toda a diretriz: quem transporta cargas e passageiros responde por risco coletivo maior.",
+  "porAlt": [
+   "O prazo de três meses não corresponde a essa linha da tabela de síncope apresentada na diretriz.",
+   "Correta: síncope vasovagal única e situacional libera a direção privada após uma semana de observação.",
+   "Os doze meses aplicam-se à direção comercial na síncope inexplicada ou vasovagal recorrente.",
+   "A inaptidão de seis meses não é a conduta prevista para o episódio único situacional esclarecido.",
+   "A diretriz prevê um período de observação de uma semana, e não a liberação imediata do condutor."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET/SBC/SOBRAC, quais são as arritmias mais frequentemente detectadas nos exames utilizados na avaliação de motoristas?",
+  "alts": [
+   "Fibrilação atrial e flutter atrial, seguidos de bloqueio atrioventricular total e disfunção do nó sinusal",
+   "Taquicardia ventricular sustentada e fibrilação ventricular, seguidas das bradiarritmias sintomáticas",
+   "Extrassístoles ventriculares e supraventriculares, seguidas de fibrilação atrial e taquicardia paroxística",
+   "Pré-excitação ventricular e disfunção do nó sinusal, seguidas das extrassístoles supraventriculares isoladas",
+   "Bloqueios de ramo direito e esquerdo, seguidos das taquiarritmias supraventriculares por reentrada nodal"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Prevalência de arritmias na avaliação de motoristas",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.1.",
+  "coment": "A diretriz registra que as arritmias mais frequentes detectadas nos exames de avaliação de motoristas são as extrassístoles ventriculares e supraventriculares, seguidas da fibrilação atrial e da taquicardia paroxística supraventricular. Outros distúrbios — anormalidades no sistema de condução, pré-excitação ventricular e disfunção do nó sinusal — são menos prevalentes. Esse dado é útil para calibrar expectativas na prática pericial: a maioria dos achados arrítmicos no rastreamento é benigna e não exige restrição. A diretriz também relativiza o peso das arritmias na sinistralidade, citando estudo do departamento de trânsito da Virgínia segundo o qual apenas 6% dos acidentes foram considerados relacionados a doença cardiovascular e, desses, somente 14% associados a arritmias cardíacas.",
+  "porAlt": [
+   "A fibrilação atrial aparece em segundo plano, atrás das extrassístoles ventriculares e supraventriculares.",
+   "As arritmias ventriculares malignas são raras no rastreamento de rotina dos candidatos a condutor.",
+   "Correta: extrassístoles lideram, seguidas de fibrilação atrial e taquicardia paroxística supraventricular.",
+   "A pré-excitação e a disfunção do nó sinusal são expressamente descritas como menos prevalentes.",
+   "Os bloqueios de ramo não figuram como os achados mais frequentes nessa avaliação de motoristas."
+  ]
+ },
+ {
+  "q": "Segundo estudo do departamento de trânsito citado pela Diretriz ABRAMET/SBC/SOBRAC, qual proporção dos acidentes foi considerada relacionada a doença cardiovascular, e que fração destes se associou a arritmias?",
+  "alts": [
+   "Cerca de 26% dos acidentes relacionados a doença cardiovascular, sendo 40% deles ligados a arritmias",
+   "Cerca de 6% dos acidentes relacionados a doença cardiovascular, sendo 14% deles ligados a arritmias",
+   "Cerca de 46% dos acidentes relacionados a doença cardiovascular, sendo 60% deles ligados a arritmias",
+   "Cerca de 6% dos acidentes relacionados a doença cardiovascular, sendo 85% deles ligados a arritmias",
+   "Cerca de 15% dos acidentes relacionados a doença cardiovascular, sendo 50% deles ligados a arritmias"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Peso das arritmias na sinistralidade",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC sobre arritmias cardíacas, item 3.",
+  "coment": "A diretriz cita estudo do departamento de trânsito do Estado da Virgínia, nos Estados Unidos, mostrando que apenas 6% dos acidentes foram considerados relacionados a doença cardiovascular e, desses, apenas uma fração — 14% — foi associada a arritmias cardíacas. O dado é apresentado justamente para ponderar o rigor regulatório: embora as agências dos Estados Unidos e da Europa desqualifiquem o motorista com doença cardiovascular atual acompanhada de sintomas de síncope, dispneia, colapso ou insuficiência cardíaca congestiva, a informação sobre a frequência com que as arritmias efetivamente contribuem para acidentes automobilísticos permanece incerta. É um bom antídoto contra a tentação de restringir por diagnóstico em vez de restringir por risco funcional.",
+  "porAlt": [
+   "Os percentuais estão bastante acima dos números apresentados pelo estudo citado na diretriz.",
+   "Correta: 6% dos acidentes ligados a doença cardiovascular e 14% destes associados a arritmias.",
+   "Esses percentuais não correspondem ao estudo, que descreve participação bem mais modesta.",
+   "O primeiro número está certo, mas a fração associada a arritmias descrita é de apenas catorze por cento.",
+   "Ambos os percentuais estão acima dos valores efetivamente relatados pelo estudo mencionado."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, condutor com valvulopatia COM repercussão hemodinâmica deve ser considerado:",
+  "alts": [
+   "Apto com prazo reduzido na ACC e nas categorias A e B, e inapto nas categorias C, D e E pretendidas",
+   "Inapto temporário em todas as categorias, até a correção cirúrgica da lesão valvar encontrada",
+   "Inapto, tanto na ACC e nas categorias A e B quanto nas categorias C, D e E que forem pretendidas",
+   "Apto em todas as categorias, desde que haja relatório cardiológico favorável e controle anual",
+   "Inapto apenas nas categorias C, D e E, mantendo-se a aptidão na ACC e nas categorias A e B do documento"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Valvulopatias no Anexo VII",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII (quadro de valvulopatias).",
+  "coment": "No quadro de valvulopatias do Anexo VII, a divisão é feita pela repercussão hemodinâmica. COM repercussão hemodinâmica: INAPTO nas duas colunas, ou seja, tanto na ACC e categorias A e B quanto nas categorias C, D e E. SEM repercussão hemodinâmica: apto na coluna A/B, com diminuição do prazo de validade do exame a critério médico; e, na coluna C/D/E, aprovação condicionada a relatório cardiológico favorável, também com prazo reduzido. É importante contrastar com as demais linhas do mesmo anexo, que usam categorias diferentes de desfecho: angina, infarto, revascularização, angioplastia e marca-passo trabalham com intervalos de recuperação; arritmias com repercussão funcional, BAV de 2º e 3º graus, bradicardia acentuada, taquiarritmias e insuficiência cardíaca congestiva geram inaptidão temporária.",
+  "porAlt": [
+   "A aptidão com prazo reduzido corresponde à valvulopatia SEM repercussão hemodinâmica na coluna A/B.",
+   "O anexo classifica essa condição como inaptidão, e não como inaptidão temporária a ser reavaliada.",
+   "Correta: a valvulopatia com repercussão hemodinâmica gera inaptidão nas duas colunas do anexo.",
+   "O relatório cardiológico favorável é exigência da valvulopatia sem repercussão nas categorias C, D e E.",
+   "A inaptidão alcança também a ACC e as categorias A e B, não se limitando ao transporte profissional."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, o candidato com angina pectoris e sintomas controlados que pretende a categoria D deve ser:",
+  "alts": [
+   "Aprovado sem qualquer condicionante, desde que os sintomas estejam controlados pela medicação",
+   "Considerado inapto temporário até a realização de cinecoronariografia com resultado favorável",
+   "Considerado inapto definitivo, pois a angina é incompatível com o transporte de passageiros e cargas",
+   "Aprovado de forma condicionada a relatório cardiológico favorável, com prazo de validade reduzido",
+   "Aprovado com prazo integral de validade, pois o controle dos sintomas afasta o risco de evento"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Angina pectoris nas categorias C, D e E",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII (quadro de angina pectoris).",
+  "coment": "No quadro de angina pectoris, a coluna da ACC e das categorias A e B prevê 'apto com sintomas controlados' e diminuição do prazo de validade do exame a critério médico. Já a coluna das categorias C, D e E é mais restritiva: 'aprovação condicionada a relatório cardiológico favorável', também com diminuição do prazo de validade a critério médico. Essa assimetria se repete em todo o Anexo VII e é a chave para responder às questões do tema: quando a pergunta envolve categorias profissionais, procure o requisito adicional — relatório cardiológico favorável — e o prazo maior de recuperação, quando houver. A norma não exige exame específico como a cinecoronariografia; exige o relatório do cardiologista atestando a condição favorável.",
+  "porAlt": [
+   "O controle dos sintomas basta na coluna A/B; nas categorias profissionais exige-se o relatório.",
+   "O anexo não impõe cinecoronariografia como condição para a decisão pericial nesse quadro clínico.",
+   "A angina com sintomas controlados não gera inaptidão definitiva em nenhuma das duas colunas.",
+   "Correta: nas categorias C, D e E a aprovação é condicionada a relatório cardiológico favorável.",
+   "O prazo de validade é reduzido a critério médico, e não mantido integral como afirma a alternativa."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos, motorista de ônibus, foi submetido a angioplastia coronária eletiva, SEM infarto agudo do miocárdio, há 3 semanas, com boa recuperação e relatório cardiológico favorável. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Apto, pois o prazo exigido é de duas semanas, com diminuição do prazo de validade do exame",
+   "Inapto temporário, pois o prazo exigido nas categorias C, D e E é de doze semanas completas",
+   "Inapto temporário, pois o prazo exigido nas categorias C, D e E é de oito semanas completas",
+   "Apto sem redução do prazo de validade, pois a ausência de infarto dispensa qualquer ressalva",
+   "Inapto temporário, pois a angioplastia prévia impede em definitivo a condução profissional"
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Angioplastia sem infarto",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII (quadro de angioplastia).",
+  "coment": "No quadro de angioplastia, a norma distingue expressamente a situação SEM infarto agudo do miocárdio. Nessa hipótese, tanto na coluna da ACC e categorias A e B quanto na coluna das categorias C, D e E o prazo é de DUAS SEMANAS — apto quando clinicamente recuperado na coluna privada, e aprovação condicionada a relatório cardiológico favorável na coluna profissional, sempre com diminuição do prazo de validade do exame a critério médico. É o menor intervalo de todo o anexo, e contrasta com o infarto (8 semanas na coluna A/B e 12 semanas na C/D/E) e com a revascularização miocárdica (12 semanas em ambas as colunas). O erro comum é aplicar o prazo do infarto a toda intervenção coronária percutânea, sem atentar para a ressalva 'sem infarto agudo do miocárdio'.",
+  "porAlt": [
+   "Correta: sem infarto associado, a angioplastia exige apenas duas semanas, já cumpridas pelo candidato.",
+   "As doze semanas correspondem ao infarto do miocárdio e à revascularização nas categorias profissionais.",
+   "As oito semanas correspondem ao infarto do miocárdio na coluna da ACC e das categorias A e B.",
+   "A diminuição do prazo de validade a critério médico é prevista expressamente também nessa linha.",
+   "A angioplastia não gera impedimento definitivo à condução profissional segundo o texto do anexo."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo V da Resolução CONTRAN nº 927/2022, o que deve ser obrigatoriamente registrado no formulário RENACH na avaliação cardiorrespiratória?",
+  "alts": [
+   "O valor da pressão arterial aferida durante o exame de aptidão física e mental do candidato",
+   "O valor da frequência cardíaca de repouso aferida ao final do exame clínico do candidato",
+   "O resultado do eletrocardiograma de repouso realizado na própria entidade médica credenciada",
+   "O valor da saturação periférica de oxigênio medida por oximetria de pulso durante o exame",
+   "O resultado da ausculta pulmonar descrito por escrito no laudo entregue ao próprio candidato"
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "Registro obrigatório no RENACH",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, item 1.1.",
+  "coment": "O Anexo V determina que sejam avaliadas a pressão arterial e realizadas as ausculta cardíaca e pulmonar, e especifica que a pressão arterial deve ser aferida nas condições preconizadas nas diretrizes estabelecidas pelas Sociedades Brasileiras de Hipertensão, Cardiologia e Nefrologia, e o seu valor registrado OBRIGATORIAMENTE no formulário RENACH. É o único parâmetro da avaliação cardiorrespiratória com registro obrigatório expresso — nem o eletrocardiograma (que sequer é equipamento exigido da entidade) nem a oximetria constam da norma. O item 1.5 acrescenta que o examinador pode valer-se de relatórios comprovadamente emitidos por médico assistente, dos quais constem o registro de medições de pressão arterial aferidas em outras ocasiões, recurso útil diante da suspeita de hipertensão do avental branco.",
+  "porAlt": [
+   "Correta: a pressão arterial é o parâmetro de registro obrigatório no formulário RENACH pela norma.",
+   "A frequência cardíaca não figura entre os registros obrigatórios previstos nesse anexo da resolução.",
+   "O eletrocardiograma não é exigido de rotina, nem consta dos equipamentos obrigatórios da entidade.",
+   "A oximetria de pulso não integra os procedimentos exigidos na avaliação cardiorrespiratória do anexo.",
+   "A ausculta pulmonar é exigida, mas a norma não determina esse registro específico no laudo pericial."
+  ]
+ }
+]
