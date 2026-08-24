@@ -4642,6 +4642,336 @@ window.BANCO=[
 ]
 },
 {
+"q": "Qual é o princípio geral que orienta a avaliação de qualquer transtorno psiquiátrico no exame de aptidão física e mental?",
+"alts": [
+"Reprovar todo candidato com diagnóstico psiquiátrico registrado em prontuário nos últimos cinco anos",
+"Aprovar todo candidato psiquiátrico que esteja em uso regular de qualquer medicação prescrita ao caso",
+"Avaliar a repercussão funcional sobre a tarefa de dirigir, e não o rótulo diagnóstico isoladamente",
+"Delegar integralmente a decisão ao psicólogo perito examinador, que aplica os testes psicológicos",
+"Condicionar a decisão exclusivamente ao número de internações psiquiátricas prévias do candidato"
+],
+"gab": 2,
+"tema": "psiq",
+"sub": "Princípio da avaliação psiquiátrica",
+"base": "Diretrizes ABRAMET de esquizofrenia, TEA e TDAH; Resolução CONTRAN nº 927/2022, art. 4º, II, b.",
+"coment": "As três diretrizes psiquiátricas da ABRAMET convergem no mesmo princípio: o diagnóstico por si só não determina a inaptidão. O que se avalia são as repercussões FUNCIONAIS sobre a tarefa de dirigir — atenção sustentada e dividida, velocidade de processamento, funções executivas e controle inibitório, juízo crítico da realidade, impulsividade — somadas à estabilidade do quadro, à adesão ao tratamento, aos efeitos colaterais dos fármacos em uso e ao parecer do médico assistente. Coerentemente, o art. 4º, II, b da Resolução manda o próprio médico perito observar humor, contactuação, percepção, atenção, orientação, memória e controle de impulsos dentro do exame físico geral.",
+"porAlt": [
+"A reprovação por diagnóstico contraria o princípio funcional adotado por todas as diretrizes.",
+"O uso de medicação não basta: exige-se estabilidade, adesão e ausência de sintomas incapacitantes.",
+"Correta: avalia-se a repercussão funcional sobre a condução, e não o rótulo diagnóstico isolado.",
+"A avaliação psicológica é complementar e não substitui a decisão médica sobre a aptidão física.",
+"O número de internações é um dado entre vários, insuficiente isoladamente para decidir a aptidão."
+]
+},
+{
+"q": "Qual é a diferença entre o efeito de um transtorno psiquiátrico e o efeito do seu tratamento sobre a condução veicular?",
+"alts": [
+"A doença nunca prejudica a condução; apenas o fármaco produz efeitos relevantes para a segurança viária",
+"A doença ativa prejudica por sintomas; o fármaco pode prejudicar por sedação, ambos avaliados à parte",
+"O fármaco nunca prejudica a condução; apenas os sintomas da doença ativa importam para a avaliação",
+"Ambos produzem exatamente o mesmo efeito clínico, sendo indiferente distingui-los durante o exame",
+"A doença prejudica apenas condutores profissionais; o fármaco prejudica apenas condutores particulares"
+],
+"gab": 1,
+"tema": "psiq",
+"sub": "Doença versus tratamento",
+"base": "Diretriz ABRAMET de esquizofrenia; Diretriz ABRAMET sobre benzodiazepínicos; conteúdo programático do Edital nº 2446.",
+"coment": "São dois vetores independentes que o perito precisa avaliar separadamente. A DOENÇA ATIVA prejudica pelos sintomas: delírios e alucinações comprometem o juízo de realidade, a depressão grave reduz a atenção e a velocidade de processamento, a mania eleva a impulsividade e a assunção de risco. O TRATAMENTO pode prejudicar por sedação, lentificação psicomotora, sintomas extrapiramidais, hipotensão postural e turvação visual anticolinérgica. Daí a diretriz de esquizofrenia listar expressamente os efeitos colaterais dos fármacos entre os elementos de avaliação, e a de benzodiazepínicos concentrar a recomendação no início do tratamento — momento de maior sedação e ainda sem tolerância parcial.",
+"porAlt": [
+"A doença ativa prejudica sim a condução, sobretudo quando há comprometimento do juízo crítico.",
+"Correta: a doença ativa prejudica por sintomas e o fármaco por sedação, avaliados separadamente.",
+"O fármaco prejudica sim, sendo os efeitos colaterais expressamente citados pelas diretrizes.",
+"Os efeitos são distintos e exigem avaliação separada pelo perito durante o exame de aptidão.",
+"Nem a doença nem o fármaco têm efeito restrito a uma categoria específica de condutores."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre esquizofrenia, qual dado do relatório do médico assistente indica a estabilidade recente do quadro?",
+"alts": [
+"Ausência de surtos psicóticos ou de internação nos últimos seis meses de acompanhamento do paciente",
+"Ausência de qualquer sintoma psicótico ao longo de toda a vida do paciente que está sendo avaliado",
+"Presença de dosagem sérica do antipsicótico dentro da faixa terapêutica no mês anterior ao exame",
+"Ausência de qualquer consulta psiquiátrica nos últimos doze meses que antecederam o exame pericial",
+"Presença de eletroencefalograma sem alterações realizado nos últimos noventa dias antes do exame"
+],
+"gab": 0,
+"tema": "psiq",
+"sub": "Estabilidade recente na esquizofrenia",
+"base": "Diretriz ABRAMET/AMB/CFM 'Esquizofrenia e direção veicular', relatório do médico assistente.",
+"coment": "O relatório padronizado enviado ao assistente pergunta três coisas objetivas: se há seguimento regular com boa aderência ao tratamento há pelo menos 12 meses; se houve surtos psicóticos ou intercorrências com necessidade de internação ou hospitalização nos últimos 6 MESES; e se o parecer é favorável ao ato de dirigir veículos da categoria B sob o ponto de vista clínico e farmacológico. A ausência de descompensação nos últimos seis meses é, portanto, o marcador de estabilidade RECENTE, enquanto os doze meses de aderência marcam a estabilidade do TRATAMENTO. Note o contrassenso da alternativa que pede ausência de consultas: seguimento regular é justamente o que se exige.",
+"porAlt": [
+"Correta: ausência de surto psicótico ou de internação nos últimos seis meses de acompanhamento.",
+"Ausência de sintomas ao longo de toda a vida seria incompatível com o próprio diagnóstico feito.",
+"A dosagem sérica do antipsicótico não é o parâmetro exigido no relatório padronizado da diretriz.",
+"A ausência de consultas indicaria abandono do seguimento, o contrário do que a diretriz exige.",
+"O eletroencefalograma não é exame previsto no relatório padronizado para a esquizofrenia avaliada."
+]
+},
+{
+"q": "Qual é a repercussão dos sintomas extrapiramidais induzidos por antipsicóticos sobre a tarefa de conduzir?",
+"alts": [
+"Rigidez e bradicinesia melhoram a estabilidade do volante, com ganho de precisão nas manobras",
+"Os sintomas extrapiramidais afetam apenas a fala, sem qualquer repercussão sobre a condução veicular",
+"Os sintomas extrapiramidais afetam apenas a deglutição, sem repercussão sobre a atividade de dirigir",
+"Os sintomas extrapiramidais elevam o tônus e reduzem a fadiga muscular em viagens de longa duração",
+"Rigidez e bradicinesia lentificam a resposta motora, prejudicando manobras rápidas ao volante"
+],
+"gab": 4,
+"tema": "psiq",
+"sub": "Sintomas extrapiramidais e condução",
+"base": "Diretriz ABRAMET de esquizofrenia (efeitos colaterais dos fármacos); conteúdo programático do Edital nº 2446.",
+"coment": "Os antipsicóticos, sobretudo os de primeira geração, produzem sintomas extrapiramidais por bloqueio dopaminérgico na via nigroestriatal: rigidez, bradicinesia, tremor e acatisia. Para a condução, a bradicinesia é o achado mais relevante — ela lentifica a iniciação e a execução do movimento, alongando o intervalo entre perceber o obstáculo e efetivamente frear ou desviar. A rigidez limita a amplitude de movimentos, inclusive a rotação cervical para checar pontos cegos, e a acatisia produz inquietação que compromete a permanência na tarefa. É por isso que a diretriz de esquizofrenia inclui expressamente os efeitos colaterais dos fármacos entre os elementos que o perito deve avaliar.",
+"porAlt": [
+"A rigidez não melhora a precisão: ela limita a amplitude e a velocidade dos movimentos necessários.",
+"Os sintomas extrapiramidais afetam a motricidade global, e não apenas a articulação da fala.",
+"A deglutição pode ser afetada, mas a repercussão relevante aqui é motora e alcança a condução.",
+"Os sintomas extrapiramidais não reduzem fadiga: aumentam o esforço necessário para cada movimento.",
+"Correta: rigidez e bradicinesia lentificam a resposta motora e prejudicam manobras rápidas."
+]
+},
+{
+"q": "Qual classe de antidepressivos tende a produzir maior prejuízo à condução por efeito sedativo e anticolinérgico?",
+"alts": [
+"Os inibidores seletivos de recaptação de serotonina, cuja sedação supera a dos antidepressivos tricíclicos",
+"Os inibidores da monoaminoxidase, cujo efeito estimulante compromete a atenção sustentada ao volante",
+"Os antidepressivos duais, cujo efeito anticolinérgico é o mais intenso entre todas as classes existentes",
+"Nenhuma classe de antidepressivo produz efeito relevante sobre a condução de veículos automotores no país",
+"Os tricíclicos, cuja sedação e efeito anticolinérgico superam os dos inibidores seletivos de recaptação"
+],
+"gab": 4,
+"tema": "drogas",
+"sub": "Antidepressivos e condução",
+"base": "Conteúdo programático do Edital nº 2446 — principais medicamentos que interferem na condução veicular; Diretriz ABRAMET sobre MPPCVA.",
+"coment": "Os antidepressivos tricíclicos — amitriptilina, nortriptilina, imipramina, clomipramina — combinam bloqueio histaminérgico, que produz sedação importante, com bloqueio muscarínico, responsável por turvação visual por prejuízo da acomodação, boca seca, retenção urinária e prejuízo cognitivo, sobretudo em idosos. O conjunto compromete a atenção, o tempo de reação e a visão de perto. Os inibidores seletivos de recaptação de serotonina têm perfil bem mais favorável nesse aspecto, embora possam causar sonolência ou insônia individualmente. Como sempre, o período de maior risco é o do início do tratamento e o das mudanças de dose, quando o perito deve orientar cautela redobrada.",
+"porAlt": [
+"Os inibidores seletivos têm perfil mais favorável que o dos tricíclicos quanto à sedação produzida.",
+"Os inibidores da monoaminoxidase têm outro perfil de risco, e não o descrito nessa alternativa.",
+"Os duais não são a classe com efeito anticolinérgico mais intenso entre os antidepressivos.",
+"Diversas classes de antidepressivos produzem efeitos relevantes para a segurança na condução.",
+"Correta: os tricíclicos somam sedação e efeito anticolinérgico, com maior prejuízo à condução."
+]
+},
+{
+"q": "Qual é a preocupação específica com relaxantes musculares de ação central em candidatos a condutor?",
+"alts": [
+"Produzem excitação psicomotora com aumento da velocidade praticada nas vias de trânsito mais rápido",
+"Produzem midríase persistente com fotofobia intensa nos ambientes de alta luminosidade solar direta",
+"Produzem hipertensão arterial grave, com risco de encefalopatia durante os deslocamentos mais longos",
+"Produzem sedação e prejuízo da atenção, muitas vezes sem que o paciente relacione o sintoma ao fármaco",
+"Não produzem qualquer efeito central, pois sua ação se restringe à placa motora do músculo estriado"
+],
+"gab": 3,
+"tema": "drogas",
+"sub": "Relaxantes musculares",
+"base": "Conteúdo programático do Edital nº 2446 — medicamentos que interferem na condução; Diretriz ABRAMET sobre MPPCVA.",
+"coment": "Relaxantes musculares de ação central — como a ciclobenzaprina, o carisoprodol e a orfenadrina — atuam no sistema nervoso central e produzem sedação, lentificação e prejuízo da atenção. A ciclobenzaprina, aliás, tem estrutura tricíclica e efeito anticolinérgico associado. A preocupação específica é que se trata de prescrição extremamente comum para lombalgia e cervicalgia — queixas frequentes justamente entre motoristas profissionais, pela postura sentada prolongada e pela vibração de corpo inteiro — e que o paciente raramente atribui a sonolência ao 'remédio para a dor nas costas'. Cabe ao perito perguntar ativamente na anamnese e orientar sobre o período de maior risco.",
+"porAlt": [
+"Os relaxantes de ação central produzem sedação, e não excitação psicomotora com mais velocidade.",
+"A midríase com fotofobia não é o efeito característico dessa classe de fármacos na condução.",
+"A hipertensão grave não é o efeito característico dos relaxantes musculares de ação central.",
+"Correta: produzem sedação e prejuízo da atenção, sem que o paciente relacione o sintoma ao fármaco.",
+"Os relaxantes de ação central atuam justamente no sistema nervoso central, e não só na placa motora."
+]
+},
+{
+"q": "Qual é o efeito da cocaína sobre o comportamento do condutor, segundo o conteúdo programático do edital?",
+"alts": [
+"Redução da impulsividade com aumento da cautela, o que reduz a velocidade média praticada na via",
+"Aumento da impulsividade e da assunção de risco, com superestimativa da própria capacidade de dirigir",
+"Efeito exclusivamente sedativo, com sonolência intensa e risco elevado de microssonos ao volante",
+"Efeito exclusivamente motor, com tremor de extremidades e nenhuma repercussão comportamental descrita",
+"Ausência de efeitos sobre a condução, dada a curta meia-vida plasmática da substância no organismo"
+],
+"gab": 1,
+"tema": "drogas",
+"sub": "Cocaína e comportamento ao volante",
+"base": "Conteúdo programático do Edital nº 2446 — Diretriz ABRAMET/AMB/CFM sobre efeito do uso de drogas sobre o comportamento e a cognição de motoristas.",
+"coment": "A cocaína é estimulante e produz, na fase de intoxicação, euforia, desinibição, aumento da impulsividade e superestimativa da própria capacidade — combinação que se traduz em velocidade excessiva, ultrapassagens arriscadas, desrespeito à sinalização e agressividade no trânsito. Somam-se efeitos cardiovasculares relevantes, com risco de arritmia e de evento coronariano agudo mesmo em jovens. Na fase de 'fissura' e abstinência, o quadro se inverte: fadiga, humor deprimido, irritabilidade e sonolência de rebote. A diretriz específica do edital cobre cannabis, anfetaminas, cocaína, opiáceos e alucinógenos, cada um com perfil próprio de comprometimento.",
+"porAlt": [
+"A cocaína aumenta, e não reduz, a impulsividade e a velocidade praticada pelo condutor na via.",
+"Correta: aumento da impulsividade e da assunção de risco, com superestimativa da própria capacidade.",
+"O efeito na intoxicação é estimulante; a sonolência aparece na fase de rebote e abstinência.",
+"O efeito não é exclusivamente motor: a repercussão comportamental é o achado mais relevante.",
+"A curta meia-vida não elimina os efeitos comportamentais durante o período de intoxicação aguda."
+]
+},
+{
+"q": "Qual é o risco específico da fase de abstinência ou 'rebote' após o uso de estimulantes pelo motorista profissional?",
+"alts": [
+"Elevação sustentada do estado de alerta por vários dias, sem qualquer prejuízo ao desempenho na via",
+"Melhora paradoxal da atenção dividida, com ganho de desempenho na tarefa de conduzir qualquer veículo",
+"Aumento da acuidade visual noturna, com benefício já comprovado para as jornadas da madrugada",
+"Ausência de qualquer repercussão, pois o efeito estimulante cessa sem fenômeno de rebote associado",
+"Sonolência intensa e fadiga de rebote, frequentemente instaladas em plena estrada durante a jornada"
+],
+"gab": 4,
+"tema": "drogas",
+"sub": "Rebote após estimulantes",
+"base": "Conteúdo programático do Edital nº 2446 — drogas ilícitas e trânsito; sono, fadiga e segurança no trânsito.",
+"coment": "O uso de anfetamínicos e congêneres para prolongar a jornada apenas SUPRIME a percepção da sonolência sem repor o débito de sono acumulado. Quando o efeito cessa, o débito cobra o seu preço de uma vez: sonolência intensa, fadiga e microssonos, frequentemente com o condutor já em plena estrada e longe de local seguro para parar. É um dos mecanismos que explicam a concentração de sinistros graves com veículos de carga na madrugada. Somam-se os efeitos adversos do próprio estimulante — irritabilidade, agressividade, taquiarritmias, hipertensão e, no uso crônico, sintomas psicóticos —, e é esse conjunto que fundamenta a exigência do exame toxicológico de larga janela nas categorias C, D e E.",
+"porAlt": [
+"O estado de alerta não se sustenta por dias: o débito de sono acumulado cobra o seu preço.",
+"Não há melhora paradoxal da atenção na fase de rebote, e sim deterioração acentuada dela.",
+"Não há ganho de acuidade visual noturna decorrente do uso de estimulantes pelo condutor.",
+"O fenômeno de rebote é justamente o que caracteriza essa fase após o término do efeito.",
+"Correta: sonolência intensa e fadiga de rebote, muitas vezes instaladas em plena estrada."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, qual é a preocupação com os alucinógenos na condução veicular?",
+"alts": [
+"Sedação profunda com perda de consciência imediata, o que impede o próprio início da condução do veículo",
+"Distorção da percepção sensorial e do juízo de realidade, incompatível com a interpretação do ambiente viário",
+"Efeito exclusivamente periférico sobre a musculatura estriada, sem repercussão sobre a percepção do ambiente",
+"Elevação da acuidade visual e da percepção das cores, o que melhoraria a leitura da sinalização vertical",
+"Ausência de efeito relevante, pois a duração da ação não ultrapassa alguns poucos minutos após o consumo"
+],
+"gab": 1,
+"tema": "drogas",
+"sub": "Alucinógenos e percepção",
+"base": "Conteúdo programático do Edital nº 2446 — Diretriz ABRAMET sobre efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos).",
+"coment": "Os alucinógenos produzem distorções perceptivas — alterações de forma, cor, movimento, profundidade e passagem do tempo — e comprometem o juízo de realidade, com possibilidade de despersonalização e de reações de pânico. Para a condução, o efeito é particularmente perigoso porque a tarefa depende inteiramente da leitura fidedigna do ambiente: julgar a distância do veículo à frente, interpretar a sinalização e antecipar o movimento de outros usuários. Um condutor sob efeito alucinógeno pode reagir a estímulos inexistentes ou deixar de reagir a estímulos reais, com duração de efeito de horas, não de minutos. O edital dedica diretriz específica ao conjunto dessas substâncias.",
+"porAlt": [
+"Os alucinógenos não produzem sedação profunda com perda imediata da consciência do usuário.",
+"Correta: distorção da percepção e do juízo de realidade, incompatível com a leitura do ambiente viário.",
+"O efeito é central e perceptivo, e não periférico e restrito à musculatura estriada esquelética.",
+"Não há melhora real da acuidade nem da leitura da sinalização: há distorção da percepção sensorial.",
+"A duração do efeito dos alucinógenos é de horas, e não de poucos minutos após o consumo."
+]
+},
+{
+"q": "Qual orientação deve ser dada ao paciente que inicia uso de anti-histamínico de primeira geração e precisa dirigir?",
+"alts": [
+"Manter o fármaco e dirigir normalmente, pois o efeito sedativo cessa em cerca de dez minutos após a dose",
+"Dobrar a dose do fármaco usado para acelerar o desenvolvimento da tolerância aos efeitos sedativos",
+"Preferir anti-histamínico de segunda geração, com menor penetração central, ou evitar dirigir sob o efeito",
+"Associar cafeína ao anti-histamínico, combinação capaz de neutralizar integralmente a sedação produzida",
+"Substituir o anti-histamínico por um benzodiazepínico, alternativa com menor efeito sobre a sua atenção"
+],
+"gab": 2,
+"tema": "drogas",
+"sub": "Anti-histamínicos e alternativas",
+"base": "Conteúdo programático do Edital nº 2446 — medicamentos que interferem na condução; Diretriz ABRAMET sobre MPPCVA.",
+"coment": "Os anti-histamínicos de primeira geração atravessam a barreira hematoencefálica e bloqueiam receptores H1 centrais, produzindo sedação, prejuízo da atenção e aumento do tempo de reação. A orientação correta tem duas vias: preferir os de SEGUNDA GERAÇÃO — loratadina, desloratadina, fexofenadina, bilastina —, que praticamente não penetram no sistema nervoso central; ou, mantendo o de primeira geração, evitar dirigir enquanto durar o efeito, tomando a dose à noite quando possível. Substituir por benzodiazepínico seria trocar um sedativo por outro mais potente, e a cafeína não neutraliza o prejuízo de desempenho, apenas atenua a percepção de sonolência.",
+"porAlt": [
+"O efeito sedativo dura horas, e não dez minutos, podendo inclusive ter componente residual no dia seguinte.",
+"Dobrar a dose agrava a sedação e não é conduta aceitável para acelerar qualquer tolerância.",
+"Correta: preferir os de segunda geração, com menor penetração central, ou não dirigir sob o efeito.",
+"A cafeína não neutraliza o prejuízo de desempenho: atenua apenas a percepção da sonolência.",
+"O benzodiazepínico é mais sedativo, e a substituição pioraria o efeito sobre a atenção do condutor."
+]
+},
+{
+"q": "Qual é a importância da primeira pergunta do questionário do Anexo I — sobre uso de remédio ou tratamento de saúde — para a segurança viária?",
+"alts": [
+"É a única pergunta cuja resposta positiva determina, por si só, a inaptidão temporária do candidato",
+"É pergunta de caráter meramente estatístico, sem qualquer desdobramento sobre a decisão pericial",
+"É a porta de entrada para identificar fármacos sedativos que o paciente sequer considera medicamento",
+"É pergunta destinada a identificar o plano de saúde do candidato para fins de faturamento do exame",
+"É pergunta que substitui integralmente o exame físico geral quando respondida de forma negativa"
+],
+"gab": 2,
+"tema": "drogas",
+"sub": "Pergunta 1 do questionário",
+"base": "Resolução CONTRAN nº 927/2022, Anexo I, pergunta 1; Diretriz ABRAMET sobre MPPCVA.",
+"coment": "A pergunta 1 — 'Você toma algum remédio, faz algum tratamento de saúde?' — é a porta de entrada de toda a avaliação farmacológica do candidato, e é justamente aí que mora a armadilha: o paciente frequentemente não considera 'remédio' o antialérgico comprado sem receita, o relaxante muscular para a dor nas costas, o indutor do sono ou o colírio. Cabe ao perito, no interrogatório complementar, perguntar ativamente por classe e por finalidade em vez de aceitar um 'não' genérico. A diretriz ABRAMET sobre medicamentos potencialmente prejudiciais ao condutor existe precisamente para dar suporte técnico a essa etapa, e a de benzodiazepínicos reforça o dever de orientar no início do tratamento.",
+"porAlt": [
+"A resposta positiva não determina inaptidão automática: ela desencadeia investigação adicional.",
+"A pergunta tem desdobramento direto sobre a decisão pericial, não sendo de caráter estatístico.",
+"Correta: é a porta de entrada para identificar sedativos que o paciente não considera medicamento.",
+"A pergunta não se destina a identificar plano de saúde nem tem finalidade administrativa alguma.",
+"A resposta negativa não dispensa o exame físico geral, que é etapa obrigatória e independente."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre TDAH, qual afirmação sobre ferramentas de avaliação de risco está correta?",
+"alts": [
+"Existe ferramenta validada e de uso obrigatório em todo exame de aptidão de candidato com o transtorno",
+"Existem três ferramentas validadas, cabendo ao perito escolher livremente qual delas aplicará no exame",
+"A ferramenta validada é a Escala de Sonolência de Epworth, adaptada para a avaliação desse transtorno",
+"Nenhuma ferramenta padronizada foi validada para orientar assistentes e peritos sobre esse risco",
+"A ferramenta validada é o índice de Mallampati, aplicado para estimar a impulsividade do condutor"
+],
+"gab": 3,
+"tema": "psiq",
+"sub": "Ausência de ferramenta validada no TDAH",
+"base": "Diretriz ABRAMET sobre TDAH, considerações finais.",
+"coment": "As considerações finais da diretriz são explícitas: a pesquisa sobre a relação entre o TDAH e a direção de veículos progrediu substancialmente nas últimas décadas, no entanto NENHUMA FERRAMENTA PADRONIZADA poderia ser considerada validada para orientar os médicos assistentes sobre o risco de direção veicular para seus pacientes e os médicos do tráfego para realizar o exame de aptidão. A diretriz conclui, ainda assim, que o TDAH é transtorno com tratamento e intervenções eficazes que possibilitam condução segura, e estabelece critérios baseados em evidências para a avaliação — sem, contudo, prometer um instrumento objetivo que não existe.",
+"porAlt": [
+"A diretriz afirma justamente o contrário: não há instrumento validado de uso obrigatório.",
+"A diretriz não apresenta três ferramentas validadas entre as quais o perito possa escolher.",
+"A escala de Epworth avalia sonolência diurna e não foi adaptada para essa finalidade específica.",
+"Correta: a diretriz afirma que nenhuma ferramenta padronizada foi validada para essa finalidade.",
+"O índice de Mallampati avalia a orofaringe no rastreio de apneia, sem relação com impulsividade."
+]
+},
+{
+"q": "Qual é o desdobramento prático, para o perito, de a diretriz de TDAH afirmar que não existe ferramenta validada de avaliação de risco?",
+"alts": [
+"A decisão apoia-se na avaliação clínica individualizada, no tratamento em curso e no parecer do assistente",
+"A decisão deve ser sempre pela inaptidão, dada a impossibilidade de mensurar objetivamente esse risco",
+"A decisão deve ser sempre pela aptidão plena, dada a ausência de instrumento que fundamente restrição",
+"A decisão passa a caber ao psicólogo perito examinador, que é o único habilitado a avaliar sem instrumento",
+"A decisão fica suspensa até que o CONTRAN publique um instrumento oficial validado para essa finalidade"
+],
+"gab": 0,
+"tema": "psiq",
+"sub": "Decisão sem instrumento validado",
+"base": "Diretriz ABRAMET sobre TDAH, considerações finais e recomendações.",
+"coment": "A ausência de instrumento validado não paralisa a perícia nem autoriza automatismos em qualquer direção. O que ela impõe é que a decisão se apoie na avaliação clínica individualizada: caracterização dos sintomas e de sua repercussão funcional sobre atenção sustentada, controle inibitório e velocidade de processamento; verificação do tratamento em curso e da adesão; identificação de comorbidades frequentes, como transtornos de ansiedade, uso de substâncias e distúrbios do sono; e o parecer do médico assistente. A própria diretriz conclui que o TDAH tem tratamento eficaz que possibilita condução segura, e oferece o programa escalonado de direção e as orientações práticas como ferramentas de manejo.",
+"porAlt": [
+"Correta: a decisão se apoia na avaliação clínica individualizada, no tratamento e no parecer do assistente.",
+"A inaptidão automática contraria a conclusão da diretriz de que o tratamento viabiliza a condução.",
+"A aptidão automática também é indevida: há apresentações com repercussão funcional relevante.",
+"A decisão sobre a aptidão física e mental é do médico perito, e não do psicólogo examinador.",
+"A perícia não fica suspensa à espera de instrumento oficial: a avaliação clínica é o caminho."
+]
+},
+{
+"q": "Qual é a razão para a Diretriz ABRAMET sobre TDAH recomendar que o recém-habilitado transporte o menor número possível de jovens?",
+"alts": [
+"O peso adicional dos passageiros compromete a frenagem e o comportamento dinâmico do veículo conduzido",
+"A presença de passageiros impede a checagem dos espelhos retrovisores durante as manobras realizadas",
+"O ruído dos passageiros mascara os alertas sonoros dos sistemas de assistência instalados no veículo",
+"A presença de pares aumenta a distração e o comportamento de risco, sobretudo entre condutores jovens",
+"A lei proíbe o transporte de passageiros por condutores habilitados há menos de dezoito meses no país"
+],
+"gab": 3,
+"tema": "psiq",
+"sub": "Efeito dos pares no condutor jovem",
+"base": "Diretriz ABRAMET sobre TDAH, orientações para conduzir; Diretriz ABRAMET sobre celular.",
+"coment": "A recomendação está entre as orientações práticas da diretriz de TDAH, dirigida ao recém-habilitado: no início da habilitação, procurar estar sempre acompanhado de um condutor experiente e transportar o menor número possível de jovens. O fundamento é bem documentado — a presença de pares da mesma faixa etária aumenta a distração e favorece o comportamento de risco, por dinâmica de aprovação social. A diretriz sobre celular converge com esse achado ao registrar que motoristas jovens tendem a se comunicar mais assiduamente por telefone quando na presença de amigos com comportamentos semelhantes. É o oposto do efeito protetor de um passageiro adulto experiente.",
+"porAlt": [
+"O peso dos passageiros não é o fundamento da recomendação apresentada pela diretriz médica.",
+"Os passageiros não impedem a checagem dos espelhos, e esse não é o fundamento da orientação.",
+"O ruído dos passageiros não é o mecanismo descrito pela diretriz para essa recomendação.",
+"Correta: a presença de pares aumenta a distração e o comportamento de risco entre os jovens.",
+"Não há proibição legal de transporte de passageiros por condutor recém-habilitado no país."
+]
+},
+{
+"q": "Um candidato relata uso de canabidiol prescrito para epilepsia e pergunta sobre a condução. Qual é a abordagem correta do perito?",
+"alts": [
+"Avaliar o controle das crises pela diretriz de epilepsia e os efeitos do fármaco sobre a atenção",
+"Considerá-lo inapto em definitivo, pois qualquer derivado da cannabis veda a condução veicular",
+"Considerá-lo apto sem investigação, pois se trata de medicamento prescrito e regularmente registrado",
+"Encaminhá-lo ao exame toxicológico de larga janela, cujo resultado positivo definirá a inaptidão dele",
+"Transferir a decisão ao psicólogo perito, por se tratar de substância com ação sobre o sistema nervoso"
+],
+"gab": 0,
+"tema": "drogas",
+"sub": "Canabidiol prescrito e epilepsia",
+"base": "Diretriz ABRAMET 2025 de epilepsia; conteúdo programático do Edital nº 2446 (medicamentos e drogas na condução).",
+"coment": "O caso reúne duas frentes que devem ser avaliadas em conjunto e sem automatismos. Pela DOENÇA, aplica-se integralmente a diretriz de epilepsia de 2025: importa o tempo sem crises, a categoria pretendida, a existência de atividade remunerada, a adesão e o parecer favorável do assistente. Pelo FÁRMACO, avalia-se a repercussão individual sobre atenção, sonolência e tempo de reação, como se faria com qualquer anticonvulsivante. O fato de ser derivado da cannabis não muda a lógica: o que importa é a prescrição regular, o controle da doença e o efeito observado no paciente — nem inaptidão automática pela origem da substância, nem aptidão automática por ser medicamento.",
+"porAlt": [
+"Correta: avaliar o controle das crises pela diretriz de epilepsia e os efeitos do fármaco na atenção.",
+"A inaptidão automática pela origem da substância não encontra respaldo nas diretrizes vigentes.",
+"A aptidão sem investigação ignora tanto o controle da epilepsia quanto os efeitos do fármaco.",
+"O toxicológico tem finalidade própria e seu resultado não define isoladamente a inaptidão pericial.",
+"A decisão sobre a aptidão física e mental compete ao médico perito, e não ao psicólogo examinador."
+]
+},
+{
 "q": "Segundo a Diretriz ABRAMET 2025 de avaliação de candidatos e condutores com epilepsia, pessoa com critérios diagnósticos de epilepsia em uso de fármaco anticrise, sem crises há 18 meses, que pretende a categoria B COM atividade remunerada ao veículo, deve ser considerada:",
 "alts": [
 "Apta para essa finalidade, pois o intervalo de doze meses sem crises já foi superado pelo candidato",
