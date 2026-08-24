@@ -1,0 +1,354 @@
+[
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre riscos do uso do telefone celular, dirigir utilizando o aparelho produz reações equivalentes a qual concentração de álcool no sangue?",
+  "alts": [
+   "Equivalentes a uma alcoolemia de aproximadamente 0,1 g/l, patamar bem abaixo do limite legal vigente",
+   "Equivalentes a uma alcoolemia de aproximadamente 0,2 g/l, patamar considerado irrelevante para a direção",
+   "Equivalentes a uma alcoolemia de aproximadamente 3 g/l, patamar compatível com o coma alcoólico grave",
+   "Não há equivalência descrita entre uso do celular e alcoolemia na literatura reunida por essa diretriz",
+   "Equivalentes a uma alcoolemia de aproximadamente 1 g/l, patamar muito acima do limite legal brasileiro"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Celular equivale a 1 g/l de alcoolemia",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Riscos do uso do telefone celular na condução de veículos automotores', conclusões.",
+  "coment": "A diretriz conclui que dirigir veículos automotores utilizando telefone celular e seus dispositivos ocasiona reações EQUIVALENTES À CONDUÇÃO COM 1 g/l DE ALCOOLEMIA. O dado é impactante porque 1 g/l é mais do que o triplo do limiar penal brasileiro do art. 306 (6 dg/l no sangue) — ou seja, o comportamento socialmente tolerado de atender o telefone produz prejuízo comparável ao de uma embriaguez que configuraria crime. A diretriz reforça a comparação ao registrar que cerca de 70% dos motoristas acreditam que direção e telefone celular não combinam, mas somente cerca de 20% efetivamente se privam dessa combinação.",
+  "porAlt": [
+   "O valor está muito abaixo do descrito pela diretriz para a equivalência com o uso do celular.",
+   "O valor está muito abaixo do descrito e não corresponde à comparação apresentada pela diretriz.",
+   "O valor está acima do descrito; três gramas por litro corresponderia a intoxicação muito grave.",
+   "A diretriz apresenta expressamente essa equivalência entre uso do celular e alcoolemia elevada.",
+   "Correta: a diretriz descreve reações equivalentes à condução com um grama por litro de alcoolemia."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, em quanto aumenta o risco de sinistro ao CHECAR mensagens de texto e ao DIGITÁ-LAS, respectivamente?",
+  "alts": [
+   "Sobe para 50% ao checar mensagens e para duas vezes quando elas são efetivamente digitadas ao volante",
+   "Sobe para 400% ao checar mensagens e permanece nesse mesmo patamar quando elas são digitadas depois",
+   "Sobe para 100% ao checar mensagens e para cinco vezes quando elas são efetivamente digitadas ali",
+   "Não há diferença mensurável entre checar e digitar mensagens quanto ao risco de sinistro de trânsito",
+   "Sobe para 400% ao checar mensagens e para vinte e três vezes quando elas são efetivamente digitadas"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Risco de checar versus digitar mensagens",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz é explícita: os riscos de se envolver em sinistros de trânsito sobem vertiginosamente para 400% quando se CHECA mensagens de texto e para VINTE E TRÊS VEZES quando elas são DIGITADAS. A diferença de magnitude entre ler e escrever é o dado mais importante: digitar soma os três tipos de distração — manual, visual e cognitiva — de forma simultânea e prolongada, e por isso a diretriz classifica o envio de mensagens como a causa de falta de atenção na condução mais grave de todas. É também o comportamento com maior potencial de prevenção por lei e fiscalização.",
+  "porAlt": [
+   "Os valores estão muito abaixo dos descritos pela diretriz para essas duas condutas ao volante.",
+   "Há diferença expressiva: digitar eleva o risco muito além do patamar de checar as mensagens.",
+   "Os valores estão abaixo dos apresentados pela diretriz para checar e para digitar mensagens.",
+   "A diretriz descreve diferença expressiva de magnitude entre as duas condutas analisadas.",
+   "Correta: 400% ao checar mensagens e vinte e três vezes maior quando elas são digitadas pelo condutor."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, a que equivale enviar mensagens pelo WhatsApp conduzindo um veículo a 80 km/h?",
+  "alts": [
+   "A dirigir com os olhos vendados por um percurso equivalente ao comprimento de um automóvel comum",
+   "A dirigir com os olhos vendados por um percurso das dimensões de um campo de futebol oficial",
+   "A dirigir com os olhos vendados por um percurso equivalente a dez quilômetros de rodovia federal",
+   "A dirigir com um dos olhos fechados por um percurso equivalente a uma quadra urbana de esquina",
+   "A dirigir normalmente, pois a digitação preditiva compensa a distração visual"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Analogia do campo de futebol",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz usa essa analogia para tornar tangível o tempo de desvio do olhar: enviar mensagens pelo WhatsApp conduzindo a 80 km/h equivale a dirigir com os olhos VENDADOS por um percurso das dimensões de um CAMPO DE FUTEBOL OFICIAL. O cálculo é direto — a 80 km/h o veículo percorre cerca de 22 metros por segundo, e os poucos segundos que a digitação exige somam mais de 100 metros percorridos sem qualquer informação visual da via. É a tradução prática do porquê de o envio de mensagens ser classificado como a forma mais grave de falta de atenção na condução.",
+  "porAlt": [
+   "A distância descrita é muito maior do que o comprimento de um automóvel comum de passeio.",
+   "Correta: equivale a percorrer, de olhos vendados, a distância de um campo de futebol oficial.",
+   "A distância descrita pela diretriz é de um campo de futebol, e não de dez quilômetros de rodovia.",
+   "A analogia é de olhos vendados, e a distância descrita supera em muito uma quadra urbana.",
+   "A digitação preditiva não compensa a distração visual, manual e cognitiva descrita na diretriz."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, os sistemas de viva-voz e bluetooth tornam o uso do telefone substancialmente mais seguro na direção?",
+  "alts": [
+   "Não, pois o risco persiste independentemente do modo de utilização, apesar de liberarem as mãos",
+   "Sim, pois eliminam integralmente a distração ao permitirem que as mãos fiquem sempre no volante",
+   "Sim, pois reduzem em cerca de noventa por cento o risco de envolvimento em sinistros de trânsito",
+   "Não, pois aumentam o risco em relação ao manuseio direto do aparelho durante a condução veicular",
+   "Sim, desde que o veículo conduzido pelo motorista disponha de transmissão do tipo automática"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "Viva-voz não elimina o risco",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz reconhece que sistemas integrados de comunicação — viva-voz, bluetooth, microfones e alto-falantes — possibilitam que os motoristas mantenham as duas mãos no volante e minimizem a distração, MAS NÃO SÃO SUBSTANCIALMENTE MAIS SEGUROS, uma vez que o uso do celular na direção traz substancial risco ao desempenho seguro do condutor INDEPENDENTEMENTE DO MODO DE UTILIZAÇÃO. E acrescenta a frase mais categórica do documento: não há nada que se possa fazer para diminuir o efeito perturbador que uma simples conversa telefônica exerce sobre os efeitos perceptivos do motorista. A diretriz observa ainda que manusear o aparelho prejudica a condução mesmo em veículos com transmissão automática.",
+  "porAlt": [
+   "Correta: o risco persiste independentemente do modo de uso, ainda que as mãos fiquem livres.",
+   "A distração cognitiva não é eliminada: ela persiste mesmo com as duas mãos sobre o volante.",
+   "A diretriz não descreve redução dessa magnitude com o uso de sistemas integrados de comunicação.",
+   "A diretriz não afirma que o viva-voz seja pior que o manuseio, e sim que não é substancialmente melhor.",
+   "A transmissão automática não torna seguro o uso do celular durante a condução do veículo."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, qual é a discrepância descrita entre a percepção e o comportamento dos motoristas?",
+  "alts": [
+   "Cerca de 20% acham que celular e direção não combinam, mas cerca de 70% se privam da combinação",
+   "Cerca de 95% acham que celular e direção não combinam, e praticamente todos se privam do seu uso",
+   "Cerca de 30% acham que celular e direção não combinam, e esse mesmo grupo se priva integralmente",
+   "Cerca de 70% acham que celular e direção não combinam, mas só cerca de 20% se privam da combinação",
+   "Não há discrepância descrita: percepção de risco e comportamento efetivo coincidem entre motoristas"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Discrepância entre percepção e conduta",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz registra que cerca de 70% dos motoristas acreditam que direção e telefone celular não combinam, mas somente cerca de 20% se privam dessa perigosa combinação. É um dado precioso para a prática preventiva porque desloca o alvo da intervenção: o problema não é falta de informação — a maioria já sabe que o comportamento é perigoso —, e sim a distância entre saber e agir. A diretriz complementa com dois achados sobre jovens: eles tendem a se comunicar mais assiduamente por celular quando na presença de amigos com comportamentos semelhantes, e consideram aceitável intervir quando alguém dirige alcoolizado, mas NÃO quando está enviando mensagens de texto.",
+  "porAlt": [
+   "Os percentuais estão invertidos em relação ao que a diretriz efetivamente apresenta no texto.",
+   "O percentual dos que se privam é muito menor que o dos que reconhecem o risco envolvido.",
+   "O percentual de quem reconhece o risco é bem maior, e ele não coincide com o de quem se priva.",
+   "Correta: cerca de 70% reconhecem o risco, mas apenas cerca de 20% deixam efetivamente de usar.",
+   "A diretriz descreve justamente uma discrepância expressiva entre percepção de risco e conduta."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, qual é a peculiaridade descrita do comportamento dos motoristas JOVENS quanto à intervenção entre pares?",
+  "alts": [
+   "Consideram aceitável intervir com quem envia mensagens, mas não com quem dirige alcoolizado ao volante",
+   "Consideram inaceitável qualquer intervenção entre pares, seja por álcool, seja por uso de celular",
+   "Consideram aceitável intervir com quem dirige alcoolizado, mas não com quem envia mensagens de texto",
+   "Consideram aceitável intervir em ambas as situações, com igual frequência e igual eficácia observada",
+   "Consideram aceitável intervir apenas quando o condutor é do sexo oposto ao do próprio passageiro"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "Norma social entre jovens",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz registra que motoristas jovens consideram aceitável intervir quando alguém está dirigindo alcoolizado, mas NÃO quando está enviando mensagens de texto. O achado é relevante porque revela que décadas de campanhas contra o beber e dirigir construíram uma norma social — 'amigo não deixa amigo dirigir bêbado' — que ainda não existe para o celular, apesar de o prejuízo ao desempenho ser comparável ao de 1 g/l de alcoolemia. A diretriz complementa observando que jovens tendem a usar mais o celular na presença de amigos com comportamentos semelhantes, e que leis proibindo mensagens ao volante reduzem significativamente a conduta, sobretudo entre jovens, desde que as penas não sejam percebidas como brandas.",
+  "porAlt": [
+   "O padrão está invertido: a norma social construída é a do álcool, não a do uso do celular.",
+   "A diretriz descreve que a intervenção é considerada aceitável na situação de embriaguez ao volante.",
+   "Correta: intervêm com quem dirige alcoolizado, mas não com quem está enviando mensagens de texto.",
+   "A diretriz descreve justamente uma assimetria entre as duas situações analisadas entre os jovens.",
+   "O sexo do condutor não é a variável descrita pela diretriz para a intervenção entre pares."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, qual órgão internacional aponta a falta de atenção pelo uso de telefonia entre os principais fatores de risco comportamentais para sinistros?",
+  "alts": [
+   "A Organização Internacional do Trabalho, que a inclui entre os riscos ocupacionais do transporte",
+   "A Organização Mundial da Saúde, que a inclui entre os principais fatores comportamentais de risco",
+   "A Organização das Nações Unidas para a Educação, que a inclui entre os temas do ensino de trânsito",
+   "A Organização Mundial do Comércio, que a inclui entre as barreiras técnicas ao comércio de veículos",
+   "A Organização Meteorológica Mundial, que a inclui entre os fatores ambientais de risco no trânsito"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "OMS e fatores comportamentais",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz registra que a falta de atenção ao conduzir pelo uso da telefonia celular e de dispositivos de mensagens está entre os principais fatores de risco COMPORTAMENTAIS para a ocorrência de sinistros de trânsito, de acordo com a Organização Mundial da Saúde. Os fatores comportamentais clássicos reconhecidos pela OMS são a velocidade excessiva, o álcool e outras substâncias psicoativas, o não uso de dispositivos de segurança — cinto, capacete e retenção infantil — e a distração, na qual o celular hoje ocupa posição central. A diretriz conclui que a díade celular e direção é determinante para o aumento da ocorrência de sinistros.",
+  "porAlt": [
+   "A Organização Internacional do Trabalho não é o órgão citado pela diretriz nesse ponto do texto.",
+   "Correta: a Organização Mundial da Saúde inclui a distração entre os fatores comportamentais.",
+   "A organização citada pela diretriz é a da saúde, e não a voltada à educação e à cultura.",
+   "A Organização Mundial do Comércio não trata de fatores de risco para sinistros de trânsito.",
+   "A Organização Meteorológica Mundial não é o órgão citado nesse ponto da diretriz médica."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre o condutor idoso, como deve ser iniciado o exame de aptidão física e mental desse candidato?",
+  "alts": [
+   "Com a aplicação imediata de bateria de testes neuropsicológicos formais antes de qualquer anamnese clínica",
+   "Com o questionário do Anexo I respondido na presença do médico perito especialista em medicina do tráfego",
+   "Com o exame físico geral, deixando a anamnese para o final, quando já houver impressão clínica formada",
+   "Com a solicitação de exames laboratoriais de rotina, cujos resultados orientarão toda a avaliação seguinte",
+   "Com a entrevista de um familiar acompanhante, cujo relato substitui as respostas do próprio candidato"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Início do exame no condutor idoso",
+  "base": "Diretriz ABRAMET 'Mobilidade e condução veicular da pessoa idosa', item 7.1.",
+  "coment": "A diretriz determina que o exame de aptidão do candidato idoso seja iniciado com ele respondendo ao questionário — o mesmo modelo preconizado pela Resolução nº 927 do CONTRAN, com as nove perguntas do Anexo I — NA PRESENÇA do médico perito examinador, especialista em medicina do tráfego. O detalhe de ser respondido na presença do perito não é burocrático: permite observar hesitações, incoerências e dificuldades de compreensão que sinalizam alteração cognitiva. Em seguida, a diretriz prevê o interrogatório complementar, com especial atenção aos dados apontados no questionário, priorizando informações sobre a sintomatologia pertinente às condições de saúde do condutor.",
+  "porAlt": [
+   "A bateria neuropsicológica formal não é o passo inicial previsto pela diretriz para esse exame.",
+   "Correta: começa pelo questionário do Anexo I respondido na presença do perito especialista.",
+   "A anamnese precede o exame físico geral na sequência prevista pela resolução e pela diretriz.",
+   "Os exames laboratoriais de rotina não são o ponto de partida da avaliação do condutor idoso.",
+   "O relato do familiar pode complementar, mas não substitui as respostas do próprio candidato."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre o condutor idoso, quais itens compõem a avaliação de fragilidade autorreferida?",
+  "alts": [
+   "Perda de peso involuntária, fadiga, baixa atividade física, redução de força e de velocidade de marcha",
+   "Perda auditiva, catarata, incontinência urinária, osteoporose e polifarmácia com mais de cinco fármacos",
+   "Hipertensão, diabetes, dislipidemia, obesidade abdominal e história familiar de doença cardiovascular",
+   "Insônia, ansiedade, humor deprimido, isolamento social e queixa subjetiva de perda da memória recente",
+   "Tontura postural, quedas prévias, uso de bengala, dor articular crônica e limitação de amplitude cervical"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "Fragilidade autorreferida no idoso",
+  "base": "Diretriz ABRAMET 'Mobilidade e condução veicular da pessoa idosa', item 7.2.1.",
+  "coment": "A diretriz incorpora ao exame de aptidão um instrumento de rastreio de FRAGILIDADE AUTORREFERIDA com cinco itens: perda de peso involuntária, fadiga, baixa atividade física, redução de força e redução da velocidade de marcha. São os componentes clássicos do fenótipo de fragilidade, aqui obtidos por autorrelato para viabilizar a aplicação em ambiente pericial. A justificativa da diretriz é direta e vale reter: alterações do estado mental podem se tornar aparentes nas respostas do idoso, mas os sinais podem ser SUTIS E DIFÍCEIS DE DETECTAR sem testes cognitivos formais — de modo que o instrumento funciona como gatilho para aprofundar a investigação.",
+  "porAlt": [
+   "Correta: perda de peso involuntária, fadiga, baixa atividade física, redução de força e de marcha.",
+   "Esses itens compõem um rastreio geriátrico amplo, mas não o instrumento de fragilidade citado.",
+   "Esses são fatores de risco cardiovascular, e não os componentes do fenótipo de fragilidade.",
+   "Esses itens compõem rastreio de humor e cognição, distinto do instrumento de fragilidade descrito.",
+   "Esses itens compõem avaliação de risco de queda, e não o instrumento de fragilidade autorreferida."
+  ]
+ },
+ {
+  "q": "Qual é a justificativa apresentada pela Diretriz ABRAMET para incluir instrumentos de rastreio no exame do condutor idoso?",
+  "alts": [
+   "O idoso tende a omitir deliberadamente informações, o que torna o questionário inteiramente inútil",
+   "A legislação obriga a aplicação de testes cognitivos formais em todos os candidatos acima de 60 anos",
+   "Alterações do estado mental podem ser sutis e difíceis de detectar sem testes formais aplicados",
+   "Os instrumentos substituem integralmente a anamnese e o exame físico na avaliação do idoso candidato",
+   "A idade cronológica por si só já define a inaptidão, cabendo aos testes apenas documentar essa decisão"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "Justificativa do rastreio no idoso",
+  "base": "Diretriz ABRAMET 'Mobilidade e condução veicular da pessoa idosa', item 7.2.1.",
+  "coment": "A diretriz é explícita: alterações do estado mental podem se tornar aparentes nas respostas do idoso, no entanto os SINAIS PODEM SER SUTIS E DIFÍCEIS DE DETECTAR SEM TESTES COGNITIVOS FORMAIS. É a justificativa para instrumentar a avaliação em vez de confiar apenas na impressão clínica — sobretudo porque o comprometimento cognitivo leve preserva a fachada social e a conversa de consultório, mas já compromete atenção dividida, funções executivas e orientação visuoespacial, que são exatamente as funções da tarefa de dirigir. Nada disso significa que a idade defina a aptidão: a diretriz preconiza avaliação funcional individualizada, e os instrumentos são meios para torná-la mais sensível.",
+  "porAlt": [
+   "A diretriz não parte da premissa de omissão deliberada, e o questionário permanece parte do exame.",
+   "Não há obrigação legal de teste cognitivo formal universal a partir dos sessenta anos de idade.",
+   "Correta: os sinais de alteração mental podem ser sutis e escapar sem a aplicação de testes formais.",
+   "Os instrumentos complementam a anamnese e o exame físico, sem substituí-los na avaliação pericial.",
+   "A idade cronológica não define a aptidão, que decorre da avaliação funcional individualizada."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET, o que caracteriza o interrogatório complementar no exame do condutor idoso?",
+  "alts": [
+   "Repetir integralmente as nove perguntas do questionário, agora na presença de um familiar acompanhante",
+   "Investigar exclusivamente o histórico de infrações de trânsito registradas na habilitação do candidato",
+   "Aprofundar os dados apontados no questionário, priorizando a sintomatologia das condições de saúde",
+   "Registrar apenas o número de anos de habilitação e a quilometragem média percorrida a cada semana",
+   "Aplicar o teste do relógio e o miniexame do estado mental, dispensando qualquer outra investigação"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "Interrogatório complementar",
+  "base": "Diretriz ABRAMET 'Mobilidade e condução veicular da pessoa idosa', item 7.2.",
+  "coment": "A diretriz determina que seja realizado interrogatório complementar com ESPECIAL ATENÇÃO AOS DADOS APONTADOS PELO CANDIDATO NO QUESTIONÁRIO, priorizando informações sobre a sintomatologia pertinente às condições de saúde do condutor. É o mesmo desenho previsto no art. 4º, I da Resolução 927/2022, que estrutura a anamnese em questionário mais interrogatório complementar. Na prática, é o momento de transformar um 'sim' genérico do questionário em informação útil: que remédio, em que dose, desde quando, com que efeito colateral; que tontura, em que circunstância, com que frequência; que doença, com que controle e sob acompanhamento de quem.",
+  "porAlt": [
+   "O interrogatório complementar não é uma repetição do questionário na presença de familiar.",
+   "O histórico de infrações não é o objeto do interrogatório complementar previsto na diretriz.",
+   "Correta: aprofundar os dados do questionário, priorizando a sintomatologia das condições de saúde.",
+   "O tempo de habilitação e a quilometragem não são o foco do interrogatório complementar previsto.",
+   "Os testes cognitivos são etapa distinta e não dispensam o interrogatório complementar do candidato."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, qual é o efeito das leis que proíbem o envio de mensagens ao volante?",
+  "alts": [
+   "Não produzem qualquer efeito mensurável sobre a conduta nem sobre a frequência dos sinistros de trânsito",
+   "Produzem efeito apenas sobre condutores idosos, faixa que já apresenta menor adesão ao uso do aparelho",
+   "Produzem aumento paradoxal da conduta, pois os condutores passam a esconder o aparelho abaixo do volante",
+   "Produzem efeito apenas quando associadas à instalação de bloqueadores de sinal nas vias urbanas movimentadas",
+   "Associam-se a redução significativa dessa conduta e dos sinistros, sobretudo entre os condutores jovens"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Efeito da legislação sobre mensagens",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz registra que leis proibindo o envio de mensagens de texto na direção se associam a uma significativa redução na frequência dessa conduta e dos sinistros de trânsito, impactando PRINCIPALMENTE OS JOVENS — que continuarão a se envolver em comportamentos de risco enquanto acreditarem que seus atos serão tolerados ou punidos por penas brandas. A ressalva final é a mesma que aparece na diretriz de alcoolemia: o efeito da norma depende da percepção de risco de punição, e não apenas de sua existência formal. Daí a recomendação de combinar legislação, fiscalização visível e iniciativas educacionais.",
+  "porAlt": [
+   "A diretriz descreve efeito mensurável e significativo das leis sobre a conduta e a sinistralidade.",
+   "O impacto descrito é principalmente sobre os jovens, e não restrito aos condutores mais idosos.",
+   "A diretriz não descreve aumento paradoxal da conduta em razão da vigência dessas leis específicas.",
+   "O efeito descrito não depende de bloqueadores de sinal, medida que sequer é citada pela diretriz.",
+   "Correta: associam-se a redução significativa da conduta e dos sinistros, sobretudo entre jovens."
+  ]
+ },
+ {
+  "q": "Qual é a razão pela qual a conversa ao telefone difere, em risco, da conversa com um passageiro presente no veículo?",
+  "alts": [
+   "O passageiro fala mais alto que o interlocutor remoto, o que exige maior esforço auditivo do condutor",
+   "O passageiro ocupa fisicamente o campo de visão lateral, o que compensa a distração cognitiva gerada",
+   "O interlocutor remoto fala mais devagar, o que prolonga a duração total da conversa e a distração",
+   "O passageiro percebe o trânsito e modula a conversa; o interlocutor remoto não tem essa percepção",
+   "Não há diferença alguma de risco entre as duas situações descritas na literatura sobre o assunto"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Conversa ao telefone versus com passageiro",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular; conteúdo programático do Edital nº 2446.",
+  "coment": "A diferença central é a consciência situacional compartilhada: o passageiro enxerga a via, percebe quando o trânsito exige atenção e naturalmente interrompe ou desacelera a conversa — e frequentemente ainda funciona como observador adicional, alertando sobre riscos. O interlocutor ao telefone não tem acesso a nenhuma dessas informações e mantém o ritmo da conversa em manobras críticas, além de gerar pressão social para respostas imediatas e para preencher silêncios. Isso ajuda a entender por que a diretriz afirma que não há nada que se possa fazer para diminuir o efeito perturbador que uma simples conversa telefônica exerce sobre os efeitos perceptivos do motorista.",
+  "porAlt": [
+   "O volume da voz não é o fator que explica a diferença de risco entre as duas situações descritas.",
+   "A presença física do passageiro não compensa distração; o ponto é a consciência situacional dele.",
+   "A velocidade da fala não é o mecanismo que explica a diferença de risco entre as duas situações.",
+   "Correta: o passageiro percebe o trânsito e modula a conversa, ao contrário do interlocutor remoto.",
+   "Há diferença descrita: a conversa telefônica é mais perturbadora que a conversa com o passageiro."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre celular, por que o envio de mensagens é classificado como a forma mais grave de falta de atenção na condução?",
+  "alts": [
+   "Porque envolve distração manual, visual e cognitiva de forma simultânea durante vários segundos",
+   "Porque envolve apenas distração manual, mas de duração muito superior à das demais formas descritas",
+   "Porque envolve apenas distração visual, com desvio do olhar por fração de segundo a cada palavra",
+   "Porque envolve apenas distração cognitiva, sem qualquer desvio do olhar ou das mãos do volante",
+   "Porque envolve distração auditiva intensa, com prejuízo da percepção de sirenes e buzinas na via"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "As três distrações simultâneas",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre uso do telefone celular, conclusões.",
+  "coment": "A diretriz afirma que o envio de mensagens de texto é a causa de falta de atenção na condução mais grave, envolvendo distração MANUAL, VISUAL E COGNITIVA SIMULTANEAMENTE. É a única modalidade que soma os três componentes ao mesmo tempo e por vários segundos consecutivos: as mãos deixam o volante para digitar, os olhos deixam a via para ler a tela e a atenção deixa a tarefa de dirigir para compor a mensagem. Daí decorre tanto a analogia do campo de futebol percorrido de olhos vendados a 80 km/h quanto o risco vinte e três vezes maior de sinistro documentado para essa conduta específica.",
+  "porAlt": [
+   "Correta: envolve distração manual, visual e cognitiva de forma simultânea e por vários segundos.",
+   "O componente manual é apenas um dos três envolvidos simultaneamente nessa conduta ao volante.",
+   "O componente visual é apenas um dos três, e o desvio do olhar dura muito mais que uma fração.",
+   "O componente cognitivo é apenas um dos três, havendo também desvio do olhar e das mãos.",
+   "A distração auditiva não é o mecanismo descrito pela diretriz para o envio de mensagens de texto."
+  ]
+ },
+ {
+  "q": "Qual é a conduta correta do médico do tráfego diante de condutor idoso com comprometimento cognitivo leve, ainda sem repercussão evidente na condução?",
+  "alts": [
+   "Reprovar em definitivo, pois o comprometimento cognitivo leve é progressivo e sempre incapacitante",
+   "Aprovar pelo prazo integral da faixa etária, pois ainda não há repercussão evidente sobre a condução",
+   "Encaminhar imediatamente ao CETRAN para julgamento colegiado sobre a manutenção da habilitação",
+   "Aprovar com prazo de validade reduzido, permitindo reavaliação antes do vencimento normal do exame",
+   "Transferir a decisão ao familiar acompanhante, que conhece melhor o desempenho do idoso ao volante"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Comprometimento cognitivo leve",
+  "base": "CTB, art. 147, §4º; Diretriz ABRAMET 'Mobilidade e condução veicular da pessoa idosa'.",
+  "coment": "O comprometimento cognitivo leve é exatamente a situação para a qual o §4º do art. 147 do CTB foi desenhado: havendo indícios de deficiência mental ou de PROGRESSIVIDADE de doença que possa diminuir a capacidade de conduzir, os prazos de validade podem ser diminuídos por proposta do perito examinador. A resposta não é reprovar quem ainda dirige com segurança nem aprovar por dez ou cinco anos alguém cuja condição pode evoluir em meses. Reduzir o prazo preserva a mobilidade — que na pessoa idosa é determinante de autonomia, participação social e saúde mental — sem abrir mão do controle. Os códigos T e U do Anexo XV oferecem restrições intermediárias adicionais.",
+  "porAlt": [
+   "A reprovação definitiva não se justifica em quem ainda mantém desempenho seguro na condução.",
+   "O prazo integral ignora a progressividade da condição, que é justamente o risco a ser controlado.",
+   "O CETRAN é instância de recurso, e não de decisão inicial sobre a aptidão do candidato avaliado.",
+   "Correta: aprovar com prazo reduzido, trazendo o condutor para reavaliação antes do prazo normal.",
+   "A decisão pericial é técnica e do médico, não podendo ser transferida ao familiar acompanhante."
+  ]
+ },
+ {
+  "q": "Qual conjunto de funções deve ser priorizado na avaliação funcional do condutor idoso?",
+  "alts": [
+   "Visão, audição, cognição, tempo de reação, amplitude cervical e força, além dos fármacos em uso",
+   "Apenas a acuidade visual e a pressão arterial, parâmetros suficientes para decidir sobre a aptidão",
+   "Apenas a força de preensão manual medida por dinamometria e a amplitude articular dos ombros",
+   "Apenas a memória de longo prazo e a orientação temporal, avaliadas por perguntas de rotina clínica",
+   "Apenas o índice de massa corpórea e a circunferência abdominal, marcadores de risco metabólico"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "Domínios da avaliação funcional do idoso",
+  "base": "Diretriz ABRAMET 'Mobilidade e condução veicular da pessoa idosa'; Resolução CONTRAN nº 927/2022, art. 4º.",
+  "coment": "A avaliação funcional do condutor idoso é necessariamente multidimensional, porque a tarefa de dirigir também é. Os domínios prioritários são: VISÃO — acuidade, campo, sensibilidade ao contraste e recuperação ao ofuscamento, todos afetados pelo envelhecimento; AUDIÇÃO; COGNIÇÃO — atenção dividida, funções executivas, orientação visuoespacial e velocidade de processamento; TEMPO DE REAÇÃO; AMPLITUDE CERVICAL, necessária para checar pontos cegos; FORÇA e mobilidade; e a revisão dos FÁRMACOS em uso, já que a polifarmácia com agentes sedativos é frequente nessa faixa. É a soma desses achados, e não a idade, que fundamenta aptidão, restrição ou redução de prazo.",
+  "porAlt": [
+   "Correta: visão, audição, cognição, tempo de reação, amplitude cervical, força e fármacos em uso.",
+   "Acuidade e pressão arterial são insuficientes para fundamentar a decisão sobre o condutor idoso.",
+   "A força e a amplitude são apenas dois dos domínios que compõem a avaliação funcional do idoso.",
+   "Memória e orientação são parte da cognição, mas não esgotam os domínios a serem avaliados.",
+   "Índice de massa e circunferência são marcadores metabólicos, não os domínios funcionais da condução."
+  ]
+ }
+]
