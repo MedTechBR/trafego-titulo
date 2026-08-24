@@ -5962,6 +5962,336 @@ window.BANCO=[
 ]
 },
 {
+"q": "Qual é o mecanismo pelo qual o cinto de segurança de três pontos reduz a mortalidade em colisões frontais?",
+"alts": [
+"Aumenta a rigidez do tronco do ocupante, impedindo qualquer deformação da caixa torácica no impacto",
+"Reduz a velocidade do veículo antes do impacto, ao acionar automaticamente o sistema de frenagem",
+"Retém o ocupante no assento e distribui a força sobre estruturas ósseas, prolongando a desaceleração",
+"Absorve integralmente a energia cinética do impacto, tornando desnecessária a zona de deformação",
+"Impede a abertura do airbag frontal, evitando as lesões que o próprio dispositivo poderia produzir"
+],
+"gab": 2,
+"tema": "protecao",
+"sub": "Mecanismo do cinto de três pontos",
+"base": "Diretriz ABRAMET 'Cinto de segurança: eficácia, ações, posicionamento e recomendações'; conteúdo programático do Edital nº 2446.",
+"coment": "O cinto atua por três mecanismos que se somam. Primeiro, RETÉM o ocupante no assento, impedindo a ejeção — que é o fator isolado de maior letalidade — e a colisão contra volante, painel, para-brisa e demais ocupantes. Segundo, DISTRIBUI a força de desaceleração sobre estruturas ósseas resistentes, a pelve e a caixa torácica com a clavícula, poupando vísceras e abdome. Terceiro, PROLONGA o tempo de desaceleração do corpo, acoplando-o à deformação programada do veículo — e como a força é proporcional à variação de velocidade dividida pelo tempo, alongar esse intervalo reduz a força transmitida. É o mesmo princípio do airbag e do capacete.",
+"porAlt": [
+"O cinto não enrijece o tronco: ele distribui a força sobre estruturas capazes de suportá-la melhor.",
+"O cinto não atua sobre a velocidade do veículo nem aciona qualquer sistema de frenagem automática.",
+"Correta: retém o ocupante e distribui a força sobre o osso, prolongando o tempo de desaceleração.",
+"O cinto não absorve integralmente a energia, atuando em conjunto com a estrutura deformável.",
+"O cinto e o airbag são complementares: o airbag é projetado para atuar com o cinto em uso."
+]
+},
+{
+"q": "Qual é a consequência biomecânica de o ocupante não utilizar o cinto em veículo equipado com airbag frontal?",
+"alts": [
+"O airbag compensa por completo a ausência do cinto, sendo indiferente o uso do dispositivo de retenção",
+"O corpo avança antes da abertura completa da bolsa, e o impacto contra ela produz lesões graves",
+"O airbag deixa de ser acionado automaticamente quando o sensor detecta o cinto desafivelado no assento",
+"O corpo é projetado para trás pelo airbag, com risco exclusivo de lesão da coluna cervical do ocupante",
+"O airbag reduz sua pressão de abertura pela metade, compensando a ausência de retenção pelo cinto"
+],
+"gab": 1,
+"tema": "protecao",
+"sub": "Airbag sem cinto",
+"base": "Diretriz ABRAMET sobre cinto de segurança; conteúdo programático do Edital nº 2446 (equipamentos de segurança ativa e passiva).",
+"coment": "O airbag é um sistema SUPLEMENTAR de retenção — a sigla SRS significa exatamente isso —, projetado para atuar EM CONJUNTO com o cinto, e não em substituição a ele. Sem o cinto, o corpo começa a se deslocar para a frente imediatamente após o impacto e encontra a bolsa ainda em fase de inflação, quando ela se expande a velocidades muito altas. O resultado é o impacto contra um dispositivo em movimento rápido, com risco de lesões graves de face, pescoço e tórax. O cinto existe justamente para manter o ocupante em posição até que a bolsa esteja completamente inflada e começando a esvaziar, quando então funciona como superfície de absorção.",
+"porAlt": [
+"O airbag é suplementar ao cinto e não compensa a ausência do dispositivo primário de retenção.",
+"Correta: sem o cinto o corpo avança antes da inflação completa e colide com a bolsa em expansão.",
+"O acionamento do airbag não é cancelado pela ausência do cinto afivelado no assento do ocupante.",
+"O corpo é projetado para a frente no impacto frontal, e as lesões não se restringem à coluna cervical.",
+"A pressão de abertura não é reduzida pela ausência do cinto de segurança no assento do ocupante."
+]
+},
+{
+"q": "Qual é a lesão característica associada ao uso incorreto apenas da faixa subabdominal do cinto, sem a faixa diagonal?",
+"alts": [
+"Lesão de vísceras ocas e fratura por flexão-distração da coluna lombar, a chamada fratura de Chance",
+"Lesão isolada da clavícula por compressão direta da faixa sobre a articulação esternoclavicular",
+"Lesão exclusiva de partes moles da parede abdominal, sem repercussão sobre vísceras ou coluna vertebral",
+"Lesão do plexo braquial por estiramento durante a projeção do ombro contra a coluna de direção do carro",
+"Lesão de menisco por hiperflexão do joelho contra o painel, sem qualquer repercussão abdominal associada"
+],
+"gab": 0,
+"tema": "protecao",
+"sub": "Síndrome do cinto de segurança",
+"base": "Diretrizes ABRAMET sobre cinto de segurança e sobre transporte veicular de crianças.",
+"coment": "A chamada síndrome do cinto de segurança decorre do uso apenas da faixa subabdominal, ou do posicionamento da faixa sobre o abdome em vez da pelve óssea. Sem a faixa diagonal, o tronco continua a se projetar para a frente enquanto a pelve é retida, produzindo hiperflexão sobre um ponto de apoio anterior: a faixa comprime as vísceras contra a coluna, com lesão de intestino delgado, mesentério, pâncreas e duodeno, e gera fratura por flexão-distração das vértebras lombares — a fratura de Chance. É exatamente essa a lesão que o assento de elevação previne na criança, ao reposicionar o cinto de três pontos sobre as estruturas corretas.",
+"porAlt": [
+"Correta: lesão de vísceras ocas e fratura de Chance por flexão-distração da coluna lombar.",
+"A lesão de clavícula relaciona-se à faixa diagonal, e não ao uso isolado da faixa subabdominal.",
+"O comprometimento não se restringe às partes moles: há lesão visceral e vertebral documentada.",
+"O plexo braquial não é a estrutura acometida no mecanismo descrito para essa lesão específica.",
+"A lesão de menisco não integra o quadro descrito como síndrome do cinto de segurança."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET, qual é o efeito da ejeção do ocupante em colisões automobilísticas?",
+"alts": [
+"É evento de baixa letalidade, pois a projeção para fora do veículo afasta o ocupante das deformações",
+"É evento indiferente para o desfecho, pois a energia já foi integralmente dissipada antes da ejeção",
+"É evento que só ocorre em capotamentos, sendo impossível em colisões frontais ou laterais do veículo",
+"É evento que o airbag previne integralmente, tornando dispensável o uso do cinto por todos os ocupantes",
+"É o fator isolado que mais eleva a letalidade, e o cinto de segurança é a principal medida que a impede"
+],
+"gab": 4,
+"tema": "protecao",
+"sub": "Ejeção do ocupante",
+"base": "Diretriz ABRAMET sobre cinto de segurança; conteúdo programático do Edital nº 2446 (proteções para ocupantes de veículos).",
+"coment": "A ejeção multiplica dramaticamente a letalidade, e o motivo é biomecânico: fora do veículo, o ocupante perde toda a proteção da célula de sobrevivência e das zonas de deformação programada, sofre impacto direto contra o solo ou contra objetos fixos, e ainda pode ser atropelado pelo próprio veículo ou por terceiros. A principal medida preventiva é o cinto de segurança, que retém o ocupante no assento — e é justamente por isso que a eficácia do cinto na redução da morbimortalidade é objeto de diretriz específica da ABRAMET. O airbag não previne a ejeção: ele atua como superfície de absorção para o ocupante retido pelo cinto.",
+"porAlt": [
+"A ejeção é de altíssima letalidade: fora do veículo o ocupante perde toda a proteção estrutural.",
+"A energia não está dissipada: o ocupante ejetado sofre impacto direto contra o solo ou objetos.",
+"A ejeção ocorre também em colisões frontais e laterais, e não apenas em capotamentos do veículo.",
+"O airbag não previne a ejeção nem torna dispensável o uso do cinto pelos ocupantes do veículo.",
+"Correta: é o fator que mais eleva a letalidade, e o cinto é a principal medida que a impede."
+]
+},
+{
+"q": "Qual é a função da célula de sobrevivência na estrutura do veículo moderno?",
+"alts": [
+"Deformar-se ao máximo durante o impacto, absorvendo toda a energia cinética envolvida na colisão",
+"Aumentar a massa total do veículo, o que reduz a desaceleração sofrida pelos ocupantes no impacto",
+"Isolar acusticamente o habitáculo, reduzindo a fadiga auditiva dos ocupantes em viagens prolongadas",
+"Permitir o desacoplamento do motor durante a colisão, deslocando-o para o interior do habitáculo",
+"Manter rígido o compartimento dos ocupantes, preservando o espaço de sobrevivência contra intrusão"
+],
+"gab": 4,
+"tema": "protecao",
+"sub": "Célula de sobrevivência",
+"base": "Conteúdo programático do Edital nº 2446 — equipamentos de segurança ativa e passiva; Diretriz ABRAMET sobre tolerância humana a impactos.",
+"coment": "O veículo moderno combina duas estratégias estruturais aparentemente opostas. As EXTREMIDADES são deformáveis, com zonas de absorção programada que se amassam de modo controlado, prolongando o tempo de desaceleração e reduzindo a força transmitida. O CENTRO, ao redor dos ocupantes, é rígido: a célula de sobrevivência preserva o espaço vital e impede a intrusão de estruturas — motor, coluna de direção, painel, longarinas — no compartimento. Sem esse espaço preservado, nenhum dispositivo de retenção adianta, porque o ocupante é esmagado pela deformação. A coluna de direção colapsável e o deslocamento programado do motor para BAIXO do habitáculo complementam o desenho.",
+"porAlt": [
+"Quem se deforma são as extremidades: a célula de sobrevivência é justamente a parte rígida.",
+"O aumento da massa não é a função da célula de sobrevivência na estrutura do veículo moderno.",
+"O isolamento acústico é atributo de conforto, e não a função estrutural de proteção descrita.",
+"O motor é deslocado para baixo do habitáculo, e não para o seu interior, durante a colisão.",
+"Correta: mantém rígido o compartimento dos ocupantes, preservando o espaço contra a intrusão."
+]
+},
+{
+"q": "Qual é a razão de a Diretriz ABRAMET considerar o motociclista usuário vulnerável mesmo com uso correto de capacete?",
+"alts": [
+"O capacete transfere integralmente a energia do impacto à coluna cervical, agravando o traumatismo",
+"O capacete só protege contra impactos laterais, deixando a região frontal do crânio inteiramente exposta",
+"A vulnerabilidade decorre apenas da menor visibilidade da motocicleta pelos demais condutores da via",
+"Não dispõe de estrutura deformável ao redor do corpo, e a energia excede a capacidade do capacete",
+"A vulnerabilidade decorre apenas da instabilidade do veículo de duas rodas em piso molhado ou irregular"
+],
+"gab": 3,
+"tema": "grupos",
+"sub": "Vulnerabilidade do motociclista",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025), seção sobre motociclistas.",
+"coment": "A vulnerabilidade do motociclista é sobretudo estrutural: ele não dispõe de célula de sobrevivência, zonas de deformação programada, cinto ou airbag — o corpo é a própria interface do impacto. A diretriz quantifica: a 60 km/h, a energia cinética de um motociclista de 80 kg equivale à queda livre de um edifício de cinco andares, e em impactos acima de 50 km/h a probabilidade de traumatismo cranioencefálico grave supera 70%. O capacete é medida individual valiosa e reduz muito a gravidade em quedas e impactos de baixa energia, mas foi projetado dentro de limites que a colisão com veículo motorizado em velocidade urbana média ultrapassa. Daí a ênfase na gestão da velocidade e na infraestrutura.",
+"porAlt": [
+"O capacete reduz a transmissão de energia ao crânio, não a transferindo integralmente à coluna.",
+"O capacete integral protege também a região frontal, e a limitação descrita não é a correta.",
+"A visibilidade contribui, mas a vulnerabilidade central é a ausência de proteção estrutural.",
+"Correta: falta estrutura deformável ao redor do corpo, e a energia excede a capacidade do capacete.",
+"A instabilidade contribui, mas não é a razão central da vulnerabilidade descrita pela diretriz."
+]
+},
+{
+"q": "Qual é a orientação correta sobre o uso do capacete pelo motociclista, do ponto de vista da medicina do tráfego?",
+"alts": [
+"Capacete usado apenas em rodovias, sendo dispensável nos deslocamentos urbanos de curta distância",
+"Capacete certificado e devidamente afivelado, com viseira íntegra, usado em todo e qualquer trajeto",
+"Capacete apoiado na cabeça sem afivelar, o que facilita a retirada rápida em caso de emergência",
+"Capacete de qualquer procedência, desde que cubra a região occipital durante os deslocamentos feitos",
+"Capacete com viseira escurecida em qualquer horário, para reduzir o ofuscamento durante a condução"
+],
+"gab": 1,
+"tema": "grupos",
+"sub": "Uso correto do capacete",
+"base": "Conteúdo programático do Edital nº 2446 — orientações ao condutor motociclista; Diretriz ABRAMET sobre tolerância humana a impactos.",
+"coment": "A orientação reúne quatro elementos. CERTIFICAÇÃO: o capacete deve ser homologado, pois só o produto ensaiado garante a absorção de energia projetada. AFIVELAMENTO: o capacete não afivelado se desprende no primeiro impacto e deixa de proteger exatamente quando é necessário — é um dos erros mais comuns e mais graves. VISEIRA ÍNTEGRA: protege contra projéteis, insetos e vento, e a viseira riscada degrada a visão, sobretudo à noite; a escurecida é contraindicada no período noturno, quando reduz criticamente a luminosidade percebida. E USO UNIVERSAL: a maior parte dos sinistros ocorre em trajetos curtos e familiares, de modo que a distância percorrida não é critério de dispensa.",
+"porAlt": [
+"A maior parte dos sinistros ocorre em trajetos curtos e urbanos, o que afasta qualquer dispensa.",
+"Correta: capacete certificado, afivelado, com viseira íntegra e usado em qualquer trajeto percorrido.",
+"O capacete não afivelado se desprende no impacto e deixa de proteger justamente quando é preciso.",
+"A procedência importa: só o capacete certificado garante a absorção de energia que foi projetada.",
+"A viseira escurecida é contraindicada à noite, quando reduz criticamente a luminosidade percebida."
+]
+},
+{
+"q": "Qual é o risco específico da prática de circular entre as faixas de veículos, conhecida como corredor?",
+"alts": [
+"O motociclista fica mais visível aos demais condutores, o que reduz o risco em relação à faixa própria",
+"O risco decorre apenas do desgaste dos pneus pela irregularidade do pavimento entre as faixas da via",
+"O risco decorre apenas da possibilidade de autuação por infração administrativa de trânsito na via",
+"Não há risco específico descrito, desde que a velocidade praticada seja inferior a quarenta quilômetros",
+"O motociclista ocupa o ponto cego dos veículos e reduz o espaço disponível para manobras evasivas"
+],
+"gab": 4,
+"tema": "grupos",
+"sub": "Circulação em corredor",
+"base": "Conteúdo programático do Edital nº 2446 — orientações ao condutor motociclista; 'A motocicleta no Brasil do século XXI' (ABRAMET, 2021).",
+"coment": "Circular entre as faixas expõe o motociclista a uma combinação desfavorável. Ele passa boa parte do trajeto no PONTO CEGO dos veículos ao lado, invisível nos retrovisores no exato momento em que um deles pode decidir mudar de faixa. O espaço lateral disponível para manobra evasiva é mínimo, de modo que qualquer deslocamento inesperado — abertura de porta, desvio de buraco, mudança de faixa — não deixa margem de escape. E a diferença de velocidade em relação ao fluxo reduz o tempo de percepção e reação de todos. É prática de altíssima exposição, e o aconselhamento ao motociclista deve abordá-la explicitamente.",
+"porAlt": [
+"O motociclista fica menos visível no corredor, e não mais visível aos demais condutores da via.",
+"O desgaste dos pneus não é o risco relevante descrito para essa prática de circulação na via.",
+"A autuação administrativa é consequência possível, mas não é o risco clínico central em causa.",
+"Há risco específico documentado, que não é eliminado pela redução da velocidade praticada.",
+"Correta: ocupa o ponto cego dos veículos e reduz o espaço disponível para manobras evasivas."
+]
+},
+{
+"q": "Segundo o conteúdo programático de Medicina do Tráfego Ocupacional, o que deve ser considerado quanto ao assento do motorista profissional?",
+"alts": [
+"Rigidez máxima do assento, sem qualquer suspensão, para transmitir integralmente a sensação de pista",
+"Suspensão e ajustes adequados, com apoio lombar, para reduzir a vibração e a sobrecarga da coluna",
+"Inclinação superior a sessenta graus do encosto, posição que reduz a pressão discal ao longo do dia",
+"Ausência de apoio lombar, para permitir a livre movimentação do tronco durante toda a jornada",
+"Altura fixa do assento, padronizada de fábrica, sem possibilidade de regulagem pelo condutor do veículo"
+],
+"gab": 1,
+"tema": "ocupacional",
+"sub": "Ergonomia do assento",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (aspectos ergonômicos no exercício da profissão).",
+"coment": "O assento é o principal ponto de contato entre o motorista e as forças mecânicas da atividade, e sua adequação é medida ergonômica de primeira linha. A SUSPENSÃO do assento atenua a vibração de corpo inteiro transmitida pelo veículo, um dos determinantes da degeneração discal precoce. O APOIO LOMBAR preserva a lordose fisiológica, reduzindo a pressão intradiscal da postura sentada prolongada. E os AJUSTES — altura, distância, inclinação do encosto e do assento — permitem adequar o posto de trabalho à antropometria de cada condutor, o que é essencial numa função ocupada por pessoas de estaturas muito distintas. Somam-se a regulagem do volante e dos pedais e as pausas programadas com alongamento.",
+"porAlt": [
+"A rigidez máxima transmite integralmente a vibração, que é justamente o que se quer atenuar.",
+"Correta: suspensão e ajustes adequados, com apoio lombar, para reduzir vibração e sobrecarga.",
+"A inclinação excessiva do encosto compromete o alcance dos comandos e a visão da via percorrida.",
+"A ausência de apoio lombar retifica a lordose e eleva a pressão intradiscal na postura sentada.",
+"A altura fixa impede a adequação do posto de trabalho à antropometria de cada condutor."
+]
+},
+{
+"q": "Qual é a repercussão da vibração de corpo inteiro sobre a saúde do motorista profissional?",
+"alts": [
+"Perda auditiva neurossensorial isolada, sem qualquer repercussão sobre a coluna do condutor",
+"Redução da pressão arterial sistêmica, com hipotensão postural ao término de cada jornada realizada",
+"Degeneração discal precoce e lombalgia crônica, com risco aumentado de hérnia de disco lombar",
+"Aumento da densidade mineral óssea da coluna, com efeito protetor contra a osteoporose de idade",
+"Nenhuma repercussão documentada, pois a suspensão do veículo elimina integralmente a vibração"
+],
+"gab": 2,
+"tema": "ocupacional",
+"sub": "Vibração de corpo inteiro",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (aspectos ergonômicos, prevenção das doenças dos motoristas).",
+"coment": "A vibração de corpo inteiro, transmitida pelo assento ao longo de jornadas prolongadas, é fator de risco reconhecido para degeneração discal precoce, lombalgia crônica e hérnia de disco lombar. O mecanismo combina a carga estática da postura sentada — que já eleva a pressão intradiscal em relação à posição de pé — com a carga dinâmica oscilatória, que fadiga o anel fibroso e compromete a nutrição do disco, dependente de variação cíclica de pressão. Some-se a limitação de pausas, e tem-se o quadro que faz da lombalgia a queixa musculoesquelética mais prevalente da categoria. A suspensão do assento atenua, mas não elimina, a exposição.",
+"porAlt": [
+"A perda auditiva relaciona-se ao ruído, e a vibração tem repercussão sobre a coluna vertebral.",
+"A vibração não produz redução sustentada da pressão arterial com hipotensão ao fim da jornada.",
+"Correta: degeneração discal precoce e lombalgia crônica, com risco aumentado de hérnia lombar.",
+"A vibração não tem efeito protetor sobre a densidade mineral óssea da coluna do motorista.",
+"A suspensão atenua, mas não elimina a vibração transmitida ao corpo durante a jornada."
+]
+},
+{
+"q": "Qual é a orientação sobre pausas durante jornadas prolongadas de condução profissional?",
+"alts": [
+"Pausas apenas quando o condutor sentir sono, momento em que o organismo sinaliza a real necessidade",
+"Pausas apenas para o abastecimento do veículo, evitando a interrupção da jornada de trabalho",
+"Pausas programadas com deambulação e alongamento, e não apenas quando surgir o cansaço percebido",
+"Pausas de no máximo dois minutos, tempo suficiente para restaurar integralmente o estado de alerta",
+"Pausas somente ao final da jornada, concentrando o descanso em um único período contínuo mais longo"
+],
+"gab": 2,
+"tema": "ocupacional",
+"sub": "Pausas programadas",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional; sono, fadiga e segurança no trânsito.",
+"coment": "As pausas devem ser PROGRAMADAS, e não reativas — esperar o cansaço aparecer significa esperar o desempenho já ter caído, e a sonolência, quando percebida, frequentemente já vem acompanhada de microssonos. As pausas eficazes envolvem sair do veículo, deambular e alongar, restaurando a circulação e aliviando a carga estática da coluna e dos membros inferiores; e, quando há débito de sono, incluir cochilo de 15 a 30 minutos, que é a única medida que efetivamente restaura o alerta. Concentrar todo o descanso ao final da jornada não previne a fadiga acumulada durante ela, e pausas de dois minutos não têm efeito restaurador relevante.",
+"porAlt": [
+"Esperar o sono aparecer significa esperar o desempenho já ter caído, com risco de microssonos.",
+"Restringir as pausas ao abastecimento ignora a finalidade fisiológica do descanso programado.",
+"Correta: pausas programadas com deambulação e alongamento, e não apenas quando surge o cansaço.",
+"Dois minutos não restauram o alerta nem aliviam a carga estática acumulada durante a jornada.",
+"Concentrar o descanso ao final não previne a fadiga que se acumula ao longo da própria jornada."
+]
+},
+{
+"q": "Qual é o risco ocupacional auditivo específico do motorista profissional, e como preveni-lo?",
+"alts": [
+"Perda condutiva por variação da pressão da cabine; previne-se com manobras de equalização periódicas",
+"Perda súbita idiopática por vibração do assento; previne-se com uso contínuo de protetor auricular no volante",
+"Otite externa de repetição pelo uso de fone; previne-se com a proibição de qualquer dispositivo auricular",
+"Perda induzida por ruído do motor e da estrada; previne-se com isolamento acústico e audiometrias seriadas",
+"Não há qualquer risco auditivo ocupacional descrito para a atividade de condução profissional de veículos"
+],
+"gab": 3,
+"tema": "ocupacional",
+"sub": "Perda auditiva induzida por ruído",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (prevenção das doenças dos motoristas).",
+"coment": "A exposição prolongada ao ruído do motor, do rolamento dos pneus e do vento é fator de risco reconhecido para perda auditiva induzida por ruído, tipicamente neurossensorial, bilateral, simétrica e com entalhe inicial nas frequências de 4 a 6 kHz. A prevenção é ambiental — isolamento acústico da cabine, manutenção do veículo, controle do volume do som interno — e o acompanhamento se faz por audiometrias seriadas nos exames periódicos. A relevância dobra na medicina do tráfego: além do dano ocupacional, a perda auditiva repercute diretamente no exame de aptidão, cujo Anexo III fixa o corte de 40 dB na média de 500, 1000 e 2000 Hz na orelha melhor.",
+"porAlt": [
+"A variação de pressão de cabine é fenômeno do voo, e não da condução de veículos terrestres.",
+"A perda súbita idiopática não é o risco ocupacional descrito para a atividade de conduzir veículos.",
+"A otite externa por fone não é o risco auditivo ocupacional característico dessa categoria profissional.",
+"Correta: perda induzida por ruído, prevenida por isolamento acústico e seguida por audiometrias.",
+"Há risco auditivo ocupacional documentado e relevante para a categoria dos motoristas profissionais."
+]
+},
+{
+"q": "Qual é a relação entre o exame periódico ocupacional e o exame de aptidão física e mental do motorista profissional?",
+"alts": [
+"São exames distintos, com finalidades próprias, e um não substitui nem dispensa a realização do outro",
+"São exames idênticos, bastando a realização de um deles para satisfazer as duas exigências previstas",
+"O exame ocupacional substitui o de aptidão sempre que realizado por especialista em medicina do tráfego",
+"O exame de aptidão substitui o ocupational quando o condutor exercer atividade remunerada ao veículo",
+"Ambos são dispensáveis quando o condutor apresenta atestado de saúde emitido pelo médico assistente"
+],
+"gab": 0,
+"tema": "ocupacional",
+"sub": "Exame ocupacional e exame pericial",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional; CTB, art. 147.",
+"coment": "São dois exames com finalidades, marcos legais e destinatários diferentes. O exame de APTIDÃO FÍSICA E MENTAL do art. 147 do CTB é pericial, destina-se ao órgão de trânsito e responde a uma pergunta única: o candidato reúne condições de saúde para conduzir na categoria pretendida? O exame OCUPACIONAL — admissional, periódico ou demissional — destina-se à relação de trabalho, acompanha a saúde do trabalhador ao longo do vínculo e detecta agravos relacionados à atividade. Podem coincidir no tempo e no profissional que os realiza, mas não se substituem: cada um tem periodicidade, registro e consequências próprias.",
+"porAlt": [
+"Correta: são exames distintos, com finalidades próprias, e um não dispensa a realização do outro.",
+"Os exames não são idênticos: têm finalidades, destinatários e consequências inteiramente distintas.",
+"O exame ocupacional não substitui o pericial, ainda que realizado pelo mesmo especialista.",
+"O exame pericial não substitui o ocupacional, nem mesmo em quem exerce atividade remunerada.",
+"O atestado do médico assistente não dispensa nenhum dos dois exames legalmente exigidos."
+]
+},
+{
+"q": "Qual é a importância da alimentação e da hidratação na prevenção de agravos no motorista profissional?",
+"alts": [
+"Alimentação e hidratação não têm repercussão documentada sobre a saúde ou sobre o desempenho do motorista",
+"A restrição hídrica é recomendada, pois reduz as paradas e mantém a continuidade da jornada de trabalho",
+"A alimentação hipercalórica é recomendada, pois sustentaria o estado de alerta ao longo de toda a jornada",
+"Alimentação de estrada e restrição hídrica favorecem síndrome metabólica, litíase e sonolência pós-prandial",
+"A alimentação só importa nos condutores diabéticos, sendo indiferente para todos os demais profissionais"
+],
+"gab": 3,
+"tema": "ocupacional",
+"sub": "Alimentação e hidratação na estrada",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (prevenção das doenças dos motoristas).",
+"coment": "O padrão alimentar da estrada — refeições hipercalóricas, ricas em gordura e sódio, em horários irregulares — soma-se ao sedentarismo da função e à escala irregular para produzir o perfil clássico de sobrepeso, obesidade central e síndrome metabólica da categoria, que por sua vez alimenta a apneia obstrutiva do sono e a hipertensão. A restrição deliberada de líquidos para evitar paradas favorece a litíase urinária e a desidratação, com prejuízo de atenção. E a refeição volumosa produz sonolência pós-prandial que se soma ao vale circadiano do início da tarde, justamente um dos picos de sinistros por sonolência. São todos alvos legítimos da orientação preventiva.",
+"porAlt": [
+"Há repercussão documentada e relevante sobre a saúde e o desempenho do motorista profissional.",
+"A restrição hídrica favorece litíase e desidratação, com prejuízo da atenção durante a condução.",
+"A refeição hipercalórica produz sonolência pós-prandial, e não sustentação do estado de alerta.",
+"Correta: alimentação de estrada e restrição hídrica favorecem síndrome metabólica e sonolência.",
+"A alimentação importa a todos os motoristas, e não apenas aos que têm diagnóstico de diabetes."
+]
+},
+{
+"q": "Qual é a orientação sobre o transporte de objetos soltos no habitáculo do veículo?",
+"alts": [
+"Devem ser fixados ou guardados, pois na desaceleração tornam-se projéteis com energia proporcional à massa",
+"Podem permanecer soltos no banco traseiro, posição em que não oferecem risco aos ocupantes dianteiros",
+"Podem permanecer soltos desde que o veículo trafegue abaixo de sessenta quilômetros por hora em via urbana",
+"Devem ser colocados sobre o painel, posição que os mantém sob supervisão visual constante do condutor",
+"Não oferecem risco algum, pois a inércia dos objetos é sempre desprezível diante da massa total do veículo"
+],
+"gab": 0,
+"tema": "protecao",
+"sub": "Objetos soltos no habitáculo",
+"base": "Conteúdo programático do Edital nº 2446 — proteções para ocupantes de veículos; Diretriz ABRAMET sobre transporte de animais.",
+"coment": "Vale para objetos a mesma física que vale para ocupantes e animais: qualquer massa não contida continua em movimento na desaceleração, e sua energia é proporcional à massa e ao quadrado da velocidade. Uma ferramenta, um notebook ou uma garrafa deixados soltos tornam-se projéteis capazes de causar lesão grave nos ocupantes. O banco traseiro não é abrigo seguro — o objeto ali projetado atinge quem está à frente —, e o painel é a pior posição possível, já que o objeto é lançado diretamente contra o rosto dos ocupantes dianteiros e pode interferir na abertura do airbag. A orientação é guardar no porta-malas ou fixar adequadamente.",
+"porAlt": [
+"Correta: devem ser fixados ou guardados, pois viram projéteis proporcionais à massa e à velocidade.",
+"O objeto solto no banco traseiro é projetado para a frente e atinge os ocupantes dianteiros.",
+"A física do impacto não desaparece abaixo de sessenta quilômetros por hora de velocidade.",
+"O painel é a pior posição: o objeto é lançado contra o rosto e pode interferir no airbag.",
+"A inércia do objeto não é desprezível: ele mantém a velocidade do veículo no momento do impacto."
+]
+},
+{
 "q": "Segundo a Diretriz ABRAMET 2025 de avaliação de candidatos e condutores com epilepsia, pessoa com critérios diagnósticos de epilepsia em uso de fármaco anticrise, sem crises há 18 meses, que pretende a categoria B COM atividade remunerada ao veículo, deve ser considerada:",
 "alts": [
 "Apta para essa finalidade, pois o intervalo de doze meses sem crises já foi superado pelo candidato",
