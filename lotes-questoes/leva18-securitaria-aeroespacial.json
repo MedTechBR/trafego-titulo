@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Na avaliação do dano corporal, qual é a diferença entre invalidez permanente parcial COMPLETA e INCOMPLETA, segundo a Lei nº 6.194/1974?",
+  "alts": [
+   "Na completa reduz-se o percentual da tabela pela metade; na incompleta aplica-se o percentual integral dela",
+   "Na completa a perda é bilateral e na incompleta é unilateral, sem qualquer diferença de cálculo entre elas",
+   "Na completa aplica-se direto o percentual da tabela; na incompleta reduz-se esse percentual pela repercussão",
+   "Na completa a perda é anatômica e na incompleta é funcional, aplicando-se sempre o mesmo percentual final",
+   "Na completa a indenização é integral e na incompleta não há indenização alguma devida ao segurado acidentado"
+  ],
+  "gab": 2,
+  "tema": "securitaria",
+  "sub": "Parcial completa versus incompleta",
+  "base": "Lei nº 6.194/1974, art. 3º, §1º, I e II (redação da Lei nº 11.945/2009).",
+  "coment": "Na invalidez permanente parcial COMPLETA, a perda anatômica ou funcional é enquadrada diretamente em um dos segmentos orgânicos ou corporais previstos na tabela anexa, e a indenização corresponde ao valor resultante da aplicação do percentual ali estabelecido ao valor máximo da cobertura. Na parcial INCOMPLETA, faz-se primeiro o mesmo enquadramento e, EM SEGUIDA, procede-se à redução proporcional da indenização: 75% para as perdas de repercussão intensa, 50% para as de média repercussão, 25% para as de leve repercussão e 10% nos casos de sequelas residuais. É um cálculo em duas etapas, e é exatamente essa segunda etapa que o perito fundamenta em seu relatório.",
+  "porAlt": [
+   "O raciocínio está invertido: é na incompleta que se procede à redução proporcional da indenização.",
+   "A distinção não é entre bilateral e unilateral, e há sim diferença expressa no modo de calcular.",
+   "Correta: na completa aplica-se o percentual da tabela; na incompleta ele é reduzido pela repercussão.",
+   "A tabela abrange perdas anatômicas e funcionais em ambos os casos, com cálculos diferentes entre si.",
+   "A invalidez parcial incompleta gera indenização, apenas reduzida conforme o grau de repercussão."
+  ]
+ },
+ {
+  "q": "Segundo a Lei nº 6.194/1974, quais lesões podem ser enquadradas na tabela anexa para fins de indenização por invalidez permanente?",
+  "alts": [
+   "Quaisquer lesões preexistentes agravadas pelo acidente, ainda que passíveis de correção cirúrgica futura",
+   "As diretamente decorrentes do acidente e não suscetíveis de amenização por qualquer medida terapêutica",
+   "Apenas as lesões que exijam internação hospitalar superior a setenta e duas horas após o evento ocorrido",
+   "Apenas as lesões que produzam afastamento laboral superior a noventa dias contados da data do sinistro",
+   "Quaisquer lesões constatadas no exame pericial, independentemente do nexo causal com o evento ocorrido"
+  ],
+  "gab": 1,
+  "tema": "securitaria",
+  "sub": "Critérios de enquadramento na tabela",
+  "base": "Lei nº 6.194/1974, art. 3º, §1º (redação da Lei nº 11.945/2009).",
+  "coment": "O §1º do art. 3º exige dois requisitos cumulativos para o enquadramento na tabela anexa: as lesões devem ser DIRETAMENTE DECORRENTES DO ACIDENTE — isto é, com nexo causal estabelecido — e NÃO SUSCETÍVEIS DE AMENIZAÇÃO proporcionada por qualquer medida terapêutica. O segundo requisito traduz a noção de consolidação do dano: enquanto houver tratamento capaz de melhorar a função, a sequela não é definitiva e a avaliação é prematura. Essa exigência é a razão pela qual a perícia de dano corporal em geral aguarda o esgotamento das possibilidades terapêuticas e da reabilitação antes de graduar a invalidez.",
+  "porAlt": [
+   "Lesões passíveis de correção não são consideradas definitivas para fins de enquadramento na tabela.",
+   "Correta: lesões diretamente decorrentes do acidente e não amenizáveis por qualquer medida terapêutica.",
+   "O tempo de internação não é o critério legal para o enquadramento das lesões na tabela anexa.",
+   "O tempo de afastamento laboral não é o critério legal adotado para essa finalidade indenizatória.",
+   "O nexo causal com o evento é requisito expresso e não pode ser dispensado na avaliação pericial."
+  ]
+ },
+ {
+  "q": "Um paciente com sequela de trauma raquimedular é avaliado para fins de dano corporal. Qual é a postura correta do perito quanto à extensão de sua conclusão?",
+  "alts": [
+   "Descrever e graduar a sequela com fundamentação técnica, sem julgar culpa nem arbitrar a indenização",
+   "Descrever a sequela e indicar o valor exato da indenização devida, substituindo a decisão judicial",
+   "Descrever a sequela e apontar o responsável pelo sinistro, com base na dinâmica relatada pela vítima",
+   "Descrever a sequela e prescrever o tratamento de reabilitação que deverá ser custeado pela seguradora",
+   "Descrever a sequela e estimar a expectativa de vida do periciado para o cálculo do valor da pensão"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "Limites da conclusão pericial",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (formulação de relatórios, tabelas ou baremos).",
+  "coment": "O perito descreve, gradua e fundamenta — e para aí. Julgar culpa é matéria jurídica; arbitrar o valor final da indenização decorre da aplicação do percentual apurado às regras legais ou contratuais e cabe ao juízo ou à seguradora; prescrever tratamento é papel do médico assistente, e assumi-lo compromete a imparcialidade pericial; e reconstituir a dinâmica do sinistro é objeto de perícia de engenharia. O relatório deve conter identificação, histórico do evento, exame físico detalhado, exames complementares considerados, discussão do nexo causal, descrição da sequela, enquadramento na tabela ou baremo aplicável e a graduação da repercussão, com justificativa explícita de cada escolha.",
+  "porAlt": [
+   "Correta: descrever e graduar com fundamentação, sem julgar culpa nem arbitrar o valor indenizatório.",
+   "O perito apura o grau; o valor final decorre das regras legais ou contratuais aplicáveis ao caso.",
+   "A atribuição de culpa é matéria jurídica e escapa completamente ao objeto da perícia médica.",
+   "Prescrever tratamento é papel do assistente e compromete a imparcialidade do exame pericial.",
+   "A estimativa de expectativa de vida não integra a conclusão médica sobre o dano corporal apurado."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático do edital, quais campos do dano corporal integram a Medicina do Tráfego Securitária?",
+  "alts": [
+   "Apenas danos ortopédicos e neurológicos, por serem os únicos objetivamente mensuráveis pelo perito",
+   "Apenas danos estéticos e do sistema cutâneo, por serem os de mais fácil documentação fotográfica",
+   "Apenas danos psiquiátricos, por dependerem exclusivamente de avaliação médica especializada prévia",
+   "Apenas danos de membros inferiores, por serem os que mais repercutem sobre a capacidade de dirigir",
+   "Danos neurológicos, ortopédicos, psiquiátricos, de membros inferiores, estéticos e do sistema cutâneo"
+  ],
+  "gab": 4,
+  "tema": "securitaria",
+  "sub": "Campos do dano corporal",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária.",
+  "coment": "O programa é explícito ao listar os campos: dominar os procedimentos para avaliação do dano corporal — danos neurológicos, ortopédicos, psiquiátricos, dos membros inferiores, estéticos e do sistema cutâneo e outros danos —, formulando relatórios, tabelas ou baremos e outras. A amplitude é deliberada: o dano corporal indenizável não se resume ao que é visível ou mensurável por goniômetro. O dano estético tem repercussão social e psíquica reconhecida, e o dano psiquiátrico pós-traumático — transtorno de estresse pós-traumático, fobia de dirigir, quadros depressivos — é consequência frequente e frequentemente subvalorizada dos sinistros de trânsito.",
+  "porAlt": [
+   "O programa não restringe os campos aos danos ortopédicos e neurológicos objetivamente mensuráveis.",
+   "Os danos estéticos e cutâneos são apenas dois dos campos listados no conteúdo programático do edital.",
+   "Os danos psiquiátricos são um dos campos, e não o único objeto da avaliação securitária prevista.",
+   "Os danos de membros inferiores são um dos campos, e não o único previsto no programa do edital.",
+   "Correta: neurológicos, ortopédicos, psiquiátricos, de membros inferiores, estéticos e do sistema cutâneo."
+  ]
+ },
+ {
+  "q": "Qual é a relevância do conceito de 'baremo' na avaliação do dano corporal?",
+  "alts": [
+   "É o documento que registra a dinâmica do sinistro reconstituída pela perícia técnica da engenharia local",
+   "É o formulário de notificação compulsória dos sinistros de trânsito ao sistema de vigilância em saúde",
+   "É o registro de antecedentes de infrações do condutor mantido pelo órgão executivo de trânsito estadual",
+   "É o laudo de necropsia padronizado utilizado nas mortes decorrentes de sinistros de trânsito no país",
+   "É a tabela que atribui percentuais a segmentos corporais, dando objetividade e comparabilidade à perícia"
+  ],
+  "gab": 4,
+  "tema": "securitaria",
+  "sub": "Conceito de baremo",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (relatórios, tabelas ou baremas).",
+  "coment": "Baremo é a tabela que atribui percentuais de incapacidade a segmentos orgânicos ou corporais, permitindo converter uma sequela clínica em um número comparável entre casos e entre peritos. A tabela anexa à Lei nº 6.194/1974 é o exemplo brasileiro mais conhecido no âmbito do seguro obrigatório, mas existem outros baremos, com finalidades e percentuais distintos, usados em seguros privados, na Previdência e em ações cíveis. A importância prática é dupla: dá objetividade e reprodutibilidade à conclusão pericial e reduz a discricionariedade — mas exige do perito saber QUAL baremo se aplica ao caso, já que aplicar a tabela errada produz resultado errado por construção.",
+  "porAlt": [
+   "A reconstituição da dinâmica é objeto de perícia de engenharia, e não do baremo de dano corporal.",
+   "O baremo não é instrumento de notificação compulsória de agravos ao sistema de vigilância em saúde.",
+   "O registro de infrações do condutor não guarda relação com o conceito de baremo na perícia médica.",
+   "O baremo não é laudo de necropsia, e sim tabela de percentuais de incapacidade por segmento.",
+   "Correta: é a tabela que atribui percentuais a segmentos corporais, dando objetividade à perícia médica."
+  ]
+ },
+ {
+  "q": "Qual é o efeito prático da inexistência de seguro obrigatório de danos pessoais no Brasil, após a revogação do SPVAT, para a vítima de sinistro de trânsito?",
+  "alts": [
+   "A vítima passa a ser indenizada diretamente pelo órgão executivo de trânsito do Estado de residência",
+   "A vítima passa a ser indenizada pelo Sistema Único de Saúde, que assume as coberturas antes previstas",
+   "A vítima mantém integralmente as coberturas anteriores, agora custeadas pelo orçamento geral da União",
+   "A vítima sem seguro privado perde a indenização automática, restando as vias cível e securitária privada",
+   "A vítima passa a ter indenização vinculada exclusivamente à apuração de culpa feita na esfera criminal"
+  ],
+  "gab": 3,
+  "tema": "securitaria",
+  "sub": "Consequência da extinção do seguro obrigatório",
+  "base": "Lei Complementar nº 211/2024 (revoga a LC nº 207/2024); Lei nº 6.194/1974.",
+  "coment": "Com a extinção do DPVAT e a revogação da LC nº 207/2024 pela LC nº 211/2024, deixou de existir a indenização automática por morte, invalidez permanente e despesas de assistência médica que independia de apuração de culpa — característica central do antigo seguro obrigatório. A vítima que não disponha de seguro privado passa a depender das vias cível e securitária privada, com necessidade de demonstrar responsabilidade, e a assistência médica segue a cargo do SUS. Para o médico do tráfego, a consequência prática é que a avaliação do dano corporal se desloca do enquadramento na tabela da Lei nº 6.194/1974 para os baremos e critérios aplicáveis a cada contrato ou processo.",
+  "porAlt": [
+   "O órgão executivo de trânsito não assume o papel de pagador de indenizações às vítimas de sinistros.",
+   "O SUS presta assistência à saúde, mas não assume as coberturas indenizatórias antes previstas.",
+   "As coberturas não foram mantidas: o diploma que instituíra o seguro sucessor foi expressamente revogado.",
+   "Correta: sem seguro privado, perde-se a indenização automática, restando as vias cível e privada.",
+   "A indenização não passou a depender exclusivamente da apuração de culpa na esfera criminal do país."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Aeroespacial, o que caracteriza a descompressão de cabine em altitude e qual é a sua principal consequência imediata?",
+  "alts": [
+   "Perda gradual da temperatura de cabine, com hipotermia progressiva dos ocupantes em poucos minutos",
+   "Perda súbita da pressurização, com queda abrupta do tempo de consciência útil dos ocupantes",
+   "Aumento súbito da pressurização, com barotrauma de ouvido médio em todos os ocupantes da aeronave",
+   "Perda gradual da umidade da cabine, com desidratação sintomática dos ocupantes ao longo do voo",
+   "Aumento gradual da concentração de gás carbônico, com acidose respiratória em todos os ocupantes"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "Descompressão de cabine",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (descompressão de cabine em altitude e disbarismo).",
+  "coment": "A descompressão de cabine é a perda da pressurização, que pode ser lenta ou rápida (explosiva). A consequência imediata mais crítica é a queda abrupta do TEMPO DE CONSCIÊNCIA ÚTIL — o intervalo entre a exposição e a perda da capacidade de tomar ação corretiva —, que se encurta drasticamente com a altitude e é ainda menor na descompressão rápida do que na exposição gradual à mesma altitude, porque a queda súbita da pressão inverte o gradiente alveolar e provoca perda de oxigênio dos pulmões para o ambiente. Daí a regra de colocar a própria máscara antes de auxiliar outra pessoa. Somam-se a expansão de gases pela lei de Boyle, o risco de doença descompressiva pela lei de Henry, o frio e o ruído.",
+  "porAlt": [
+   "A perda de temperatura ocorre, mas a consequência imediata crítica é a hipóxia por despressurização.",
+   "Correta: perda súbita da pressurização, com queda abrupta do tempo de consciência útil dos ocupantes.",
+   "A descompressão é perda, e não aumento, da pressurização mantida no interior da cabine da aeronave.",
+   "A baixa umidade é característica permanente da cabine, e não o fenômeno da descompressão descrito.",
+   "A descompressão não se caracteriza por acúmulo de gás carbônico com acidose nos ocupantes."
+  ]
+ },
+ {
+  "q": "Por que se orienta que o ocupante coloque a própria máscara de oxigênio antes de auxiliar outra pessoa em caso de descompressão?",
+  "alts": [
+   "Porque a máscara do acompanhante só é liberada após o acionamento da máscara do próprio ocupante",
+   "Porque o tempo de consciência útil é curto e o socorrista incapacitado não consegue ajudar ninguém",
+   "Porque o fluxo de oxigênio disponível é limitado e deve ser priorizado pelo passageiro mais próximo",
+   "Porque a pressão do sistema exige que todas as máscaras sejam acionadas na sequência das fileiras",
+   "Porque o oxigênio suplementar perde eficácia quando a máscara permanece pendurada por muito tempo"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "Tempo de consciência útil e máscara",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (hipóxia, descompressão de cabine).",
+  "coment": "A razão é fisiológica e não logística: nas altitudes de cruzeiro, o tempo de consciência útil após uma descompressão é de poucos segundos a poucos minutos, e a hipóxia compromete primeiro o julgamento e a coordenação motora fina — exatamente as funções necessárias para ajustar a máscara em outra pessoa. Um adulto que tenta ajudar a criança antes de se proteger provavelmente perderá a capacidade de fazê-lo e deixará ambos sem oxigênio. É um exemplo perfeito da natureza insidiosa da hipóxia hipobárica: a pessoa não percebe o próprio declínio, sente-se capaz e falha na tarefa. Colocada a própria máscara, o oxigênio restaura em segundos a capacidade de auxiliar os demais.",
+  "porAlt": [
+   "As máscaras são liberadas simultaneamente pelo sistema, sem essa dependência de acionamento prévio.",
+   "Correta: o tempo de consciência útil é curto e o socorrista hipóxico perde a capacidade de auxiliar.",
+   "O fluxo não é o fator limitante, e a orientação não decorre de priorização entre os passageiros.",
+   "Não há exigência técnica de acionamento sequencial das máscaras por fileiras dentro da cabine.",
+   "O oxigênio suplementar não perde eficácia por a máscara permanecer pendurada durante o evento."
+  ]
+ },
+ {
+  "q": "Qual é a diferença fisiopatológica entre a doença descompressiva e o barotrauma de ouvido médio?",
+  "alts": [
+   "A descompressiva expande gás em cavidade fechada; o barotrauma forma bolhas a partir de gás dissolvido",
+   "Ambas decorrem exclusivamente da hipóxia hipobárica, diferindo apenas quanto ao órgão que é acometido",
+   "A descompressiva forma bolhas de gás dissolvido (Henry); o barotrauma expande gás em cavidade (Boyle)",
+   "Ambas decorrem exclusivamente da variação de temperatura da cabine durante a subida e também a descida",
+   "A descompressiva decorre de acúmulo de gás carbônico; o barotrauma decorre de excesso de oxigênio"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Henry versus Boyle",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (disbarismo, lei dos gases).",
+  "coment": "São dois fenômenos distintos governados por leis distintas. A DOENÇA DESCOMPRESSIVA obedece à lei de HENRY, que relaciona a solubilidade de um gás à pressão: com a queda da pressão ambiente, o nitrogênio dissolvido nos tecidos sai da solução e forma bolhas, produzindo dor articular, sintomas neurológicos e cutâneos. O BAROTRAUMA obedece à lei de BOYLE: o gás já existente em cavidade fechada — ouvido médio, seios da face, trato gastrointestinal, dente com cárie — expande na subida ou é comprimido na descida, e a incapacidade de equalizar produz dor e lesão tecidual. A distinção orienta a conduta: o barotrauma se previne com equalização e descongestionantes, enquanto a doença descompressiva pode exigir oxigênio e câmara hiperbárica.",
+  "porAlt": [
+   "Os mecanismos estão invertidos entre as duas condições descritas na alternativa apresentada.",
+   "Nenhuma das duas decorre da hipóxia hipobárica, e sim das variações de pressão sobre os gases.",
+   "Correta: a descompressiva segue a lei de Henry e o barotrauma segue a lei de Boyle dos gases.",
+   "A variação de temperatura não é o mecanismo de nenhuma das duas condições descritas no enunciado.",
+   "Nem o acúmulo de gás carbônico nem o excesso de oxigênio explicam as duas condições citadas."
+  ]
+ },
+ {
+  "q": "Quais são as condições ambientais de cabine, além da hipóxia, que a medicina aeroespacial identifica como fatores de risco relevantes?",
+  "alts": [
+   "Apenas a baixa umidade do ar, único fator ambiental com repercussão clínica documentada em voo",
+   "Apenas o ruído da turbina, responsável isolado pelas queixas clínicas relatadas pelos tripulantes",
+   "Apenas o estresse térmico da cabine, cuja variação supera as demais exposições ambientais do voo",
+   "Baixa umidade, ruído, vibração, variação de pressão, estresse térmico e alterações de fuso horário",
+   "Apenas a radiação cósmica em altitude, fator que dispensa a avaliação dos demais riscos ambientais"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "Fatores ambientais de cabine",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (fatores de riscos ambientais).",
+  "coment": "O programa lista, entre os fatores de risco ambientais do ambiente aeroespacial: ruído e vibração; variação de pressão; microgravidade; estresse térmico; radiação e irradiações; força G e acelerações; turbulências; ar e contaminantes em suas concentrações e a lei dos gases; alterações de umidade; e fusos horários e coordenadas geográficas. É um rol amplo, e o ponto conceitual é que esses fatores se SOMAM: a baixa umidade favorece desidratação e ressecamento de mucosas, que se agrava com a imobilidade e contribui para o risco tromboembólico; o ruído e a vibração produzem fadiga; e a travessia de fusos desorganiza o ritmo circadiano, com prejuízo do alerta.",
+  "porAlt": [
+   "A baixa umidade é apenas um dos fatores ambientais listados no conteúdo programático do edital.",
+   "O ruído é um dos fatores listados, mas não responde isoladamente pelas queixas dos tripulantes.",
+   "O estresse térmico é um dos fatores, e não o único nem o predominante entre os riscos ambientais.",
+   "Correta: umidade, ruído, vibração, pressão, estresse térmico e fusos compõem o rol do programa.",
+   "A radiação é um dos fatores citados, mas não dispensa a avaliação dos demais riscos ambientais."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Aeroespacial, qual é o escopo do transporte aeromédico como área de competência do especialista?",
+  "alts": [
+   "Transporte e resgate aéreo de pacientes e vítimas, com protocolos de evacuação e sobrevivência",
+   "Apenas o transporte eletivo de pacientes estáveis entre hospitais situados em cidades diferentes",
+   "Apenas o resgate de vítimas em áreas de difícil acesso, excluído o transporte inter-hospitalar",
+   "Apenas a avaliação médica dos tripulantes envolvidos na operação de aeronaves de asas rotativas",
+   "Apenas a certificação de aeronavegabilidade dos equipamentos médicos instalados a bordo do avião"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Transporte aeromédico",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (transporte aeromédico, resgate aeromédico, protocolos de evacuação e sobrevivência).",
+  "coment": "O programa lista, nessa seção, protocolos de evacuações e sobrevivência aeromédicas, transporte aeromédico, resgate aeromédico e transporte e resgate aéreo de pacientes e vítimas — abrangendo tanto a remoção inter-hospitalar quanto o resgate primário. As particularidades médicas do transporte aéreo somam-se às da assistência: a altitude reduz a oferta de oxigênio e expande gases (atenção a pneumotórax, balonetes de tubo e sondas, e à altitude de cabine restrita quando indicado); a vibração e o ruído dificultam a monitorização clínica; o espaço exíguo limita procedimentos; e a estabilização deve ser feita ANTES da decolagem, porque intervir em voo é substancialmente mais difícil.",
+  "porAlt": [
+   "Correta: transporte e resgate aéreo de pacientes e vítimas, com protocolos de evacuação e sobrevivência.",
+   "O escopo não se limita ao transporte eletivo de pacientes estáveis entre hospitais distintos.",
+   "O resgate em área de difícil acesso é parte do escopo, que inclui também o transporte inter-hospitalar.",
+   "A avaliação dos tripulantes é outra frente da área, distinta do transporte aeromédico propriamente dito.",
+   "A certificação de equipamentos é matéria técnica e regulatória, não o escopo médico do transporte."
+  ]
+ },
+ {
+  "q": "Passageiro com pneumotórax drenado há três dias pergunta se pode viajar de avião. Qual é a orientação, e qual o fundamento?",
+  "alts": [
+   "Deve aguardar a resolução completa e o intervalo recomendado, pela expansão do gás residual em altitude",
+   "Pode viajar imediatamente, pois a drenagem torácica resolve por completo o risco que é associado ao voo",
+   "Pode viajar imediatamente, desde que mantenha o dreno torácico aberto durante todo o tempo de voo dele",
+   "Deve aguardar apenas vinte e quatro horas após a retirada do dreno, prazo suficiente em qualquer caso",
+   "Não poderá viajar de avião em nenhum momento futuro, pela recorrência inevitável do pneumotórax dele"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Pneumotórax e viagem aérea",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças que contraindicam viagem aérea) e Aeroespacial (lei dos gases).",
+  "coment": "O fundamento é a lei de Boyle: na subida ao nível de cruzeiro, com a pressão de cabine equivalente a 1.800-2.400 metros, o gás confinado expande cerca de 25 a 30%. Um pneumotórax residual, ainda que pequeno, pode aumentar de volume em voo e evoluir para pneumotórax hipertensivo em ambiente sem recursos e a horas do solo — daí o pneumotórax não resolvido ser contraindicação clássica à viagem aérea comercial. A orientação é aguardar a resolução radiológica completa e o intervalo recomendado após a retirada do dreno, com avaliação individualizada. O mesmo raciocínio vale para cirurgia oftalmológica com gás intraocular, pós-operatório abdominal ou torácico recente e íleo.",
+  "porAlt": [
+   "Correta: aguardar resolução completa e o intervalo recomendado, pela expansão do gás em altitude.",
+   "A drenagem não elimina imediatamente o risco: gás residual pode expandir na altitude de cabine.",
+   "Viajar com dreno aberto não é a orientação padrão e não afasta o risco descrito na literatura.",
+   "O prazo de vinte e quatro horas não é adequado nem suficiente em qualquer caso de pneumotórax.",
+   "Não há vedação permanente à viagem aérea após pneumotórax resolvido adequadamente pelo tratamento."
+  ]
+ }
+]
