@@ -1166,6 +1166,336 @@ window.BANCO=[
 ]
 },
 {
+"q": "O questionário do Anexo I da Resolução CONTRAN nº 927/2022 traz uma advertência sobre a prestação de declaração falsa pelo candidato. Qual é o dispositivo legal e a pena indicados?",
+"alts": [
+"Art. 297 do Código Penal — falsificação de documento público, com pena de reclusão de dois a seis anos",
+"Art. 171 do Código Penal — estelionato, com pena de reclusão de um a cinco anos e multa cumulativa",
+"Art. 299 do Código Penal — falsidade ideológica, com pena de reclusão de um a três anos e multa",
+"Art. 306 do Código de Trânsito — embriaguez ao volante, com detenção de seis meses a três anos e multa",
+"Art. 312 do Código Penal — peculato, com pena de reclusão de dois a doze anos e multa cumulativamente"
+],
+"gab": 2,
+"tema": "legislacao",
+"sub": "Declaração falsa no questionário",
+"base": "Resolução CONTRAN nº 927/2022, Anexo I (observação ao final do questionário); Código Penal, art. 299.",
+"coment": "A observação impressa ao final do questionário do Anexo I é expressa: constitui crime previsto no art. 299 do Código Penal prestar declaração falsa com o fim de criar obrigação ou alterar a verdade sobre fato juridicamente relevante, com pena de reclusão de um a três anos e multa. O candidato assina o questionário 'sob pena de responsabilidade', e o art. 2º, §2º da Resolução reforça que as informações prestadas pelo candidato são de SUA responsabilidade. A advertência tem função prática relevante para o perito: ela desloca para o candidato a responsabilidade pela omissão de condições que ele deliberadamente esconda.",
+"porAlt": [
+"O art. 297 trata de falsificação de documento público, hipótese distinta da declaração falsa prestada.",
+"O art. 171 tipifica o estelionato, que não é o dispositivo citado na observação do questionário.",
+"Correta: o art. 299 do Código Penal, com reclusão de um a três anos e multa, é o citado no anexo.",
+"O art. 306 do CTB trata da embriaguez ao volante, sem relação com a veracidade das declarações.",
+"O art. 312 tipifica o peculato, crime funcional sem relação com o questionário do candidato."
+]
+},
+{
+"q": "Quais são as nove perguntas do questionário do Anexo I da Resolução CONTRAN nº 927/2022 que o candidato deve responder?",
+"alts": [
+"Remédios, tabagismo, etilismo, psiquiatria, doenças, cirurgias, drogas, sinistro prévio e atividade remunerada",
+"Remédios, deficiência, tonturas, psiquiatria, doenças, cirurgias, drogas, sinistro prévio e atividade remunerada",
+"Remédios, deficiência, tonturas, psiquiatria, doenças, cirurgias, alergias, antecedentes familiares e profissão",
+"Remédios, deficiência, tonturas, sono, doenças, cirurgias, drogas, escolaridade e atividade remunerada usual",
+"Remédios, deficiência, audição, visão, doenças, cirurgias, drogas, sinistro prévio e atividade remunerada usual"
+],
+"gab": 1,
+"tema": "aptidao",
+"sub": "Conteúdo do questionário do Anexo I",
+"base": "Resolução CONTRAN nº 927/2022, Anexo I.",
+"coment": "As nove perguntas são: 1) Você toma algum remédio, faz algum tratamento de saúde? 2) Você tem alguma deficiência física? 3) Você já sofreu de tonturas, desmaios, convulsões ou vertigens? 4) Você já necessitou de tratamento psiquiátrico? 5) Você tem diabetes, epilepsia, doença cardíaca, neurológica, pulmonar ou outras? 6) Você já foi operado? 7) Você faz uso de drogas ilícitas? 8) Você já sofreu acidente de trânsito? 9) Você exerce atividade remunerada como condutor? Cada uma tem consequência prática: a de número 3 aciona o exame otoneurológico; a 5, os protocolos de epilepsia e diabetes; e a 9 é decisiva nas diretrizes que separam a categoria B com e sem atividade remunerada.",
+"porAlt": [
+"O questionário não pergunta sobre tabagismo nem sobre etilismo entre os seus nove itens.",
+"Correta: é exatamente a sequência das nove perguntas que compõem o questionário do anexo.",
+"O questionário não indaga alergias, antecedentes familiares nem a profissão do candidato avaliado.",
+"O questionário não pergunta sobre sono nem sobre escolaridade entre os nove itens previstos.",
+"Audição e visão são objeto do exame específico, não de perguntas próprias no questionário."
+]
+},
+{
+"q": "Qual pergunta do questionário do Anexo I, quando respondida afirmativamente, é decisiva para aplicar corretamente a Diretriz ABRAMET 2025 de epilepsia?",
+"alts": [
+"A pergunta nº 9, sobre exercício de atividade remunerada como condutor, que define os prazos exigidos",
+"A pergunta nº 8, sobre sinistro de trânsito prévio, que define o prazo mínimo sem crises epilépticas",
+"A pergunta nº 6, sobre cirurgias prévias, que define a necessidade de relatório do médico assistente",
+"A pergunta nº 4, sobre tratamento psiquiátrico, que define a categoria de habilitação a ser concedida",
+"A pergunta nº 2, sobre deficiência física, que define o encaminhamento à Junta Médica Especial devida"
+],
+"gab": 0,
+"tema": "neuro",
+"sub": "Atividade remunerada e critérios de epilepsia",
+"base": "Diretriz ABRAMET 2025 de epilepsia (nota sobre a pergunta nº 9 do Anexo I); Resolução CONTRAN nº 927/2022, Anexo I.",
+"coment": "A Diretriz de 2025 organiza os critérios de epilepsia em três colunas: categoria B SEM atividade remunerada, categoria B COM atividade remunerada (EAR) e ACC/A/C/D/E. Como a diferença entre a primeira e a segunda coluna chega a ser de 12 meses contra 5 anos sem crises, saber se o candidato exerce atividade remunerada como condutor é determinante. A própria diretriz orienta o perito a observar a pergunta nº 9 do questionário do Anexo I e adverte: caso o candidato responda afirmativamente, indicando que exerce atividade remunerada como condutor, ele deverá ser considerado inapto ou inapto temporário quando não cumprir os prazos daquela coluna.",
+"porAlt": [
+"Correta: a pergunta nº 9, sobre atividade remunerada, define qual coluna de prazos será aplicada.",
+"O sinistro prévio é informação útil na anamnese, mas não define os prazos da diretriz de epilepsia.",
+"As cirurgias prévias não determinam a exigência do relatório, que decorre da declaração de epilepsia.",
+"O tratamento psiquiátrico aciona outras diretrizes, e não os critérios específicos da epilepsia.",
+"A deficiência física aciona a Junta Médica Especial, questão distinta dos critérios de epilepsia."
+]
+},
+{
+"q": "Segundo o Anexo XVII da Resolução CONTRAN nº 927/2022, o mapa estatístico mensal do exame de aptidão física e mental deve discriminar os resultados em quais categorias?",
+"alts": [
+"Apto e inapto apenas, por categoria pretendida e por município de realização do exame pericial",
+"Apto, inapto temporário e inapto, sem discriminar a categoria de habilitação que foi pretendida",
+"Aprovado e reprovado, discriminados apenas por sexo e por faixa etária dos candidatos examinados",
+"Apto, apto com ressalva e inapto, discriminados apenas por entidade credenciada no mesmo estado",
+"Apto, apto com restrições, inapto temporário e inapto, por categoria e por tipo de processo"
+],
+"gab": 4,
+"tema": "aptidao",
+"sub": "Mapa estatístico mensal",
+"base": "Resolução CONTRAN nº 927/2022, Anexo XVII.",
+"coment": "O Anexo XVII estrutura o mapa estatístico mensal do exame de aptidão física e mental com as quatro conclusões do art. 8º — apto, apto com restrições, inapto temporário e inapto —, em número e percentual, cruzadas com a habilitação pretendida (ACC, A, B, C, D, E e combinações) e com o tipo de processo: exame inicial, renovação, adição e mudança de categoria. É assinado pelo médico perito examinador ou especialista em medicina de tráfego. O Anexo XVI é o mapa equivalente da avaliação psicológica, com apenas três colunas de resultado, coerente com o art. 9º, que não prevê 'apto com restrições' para o psicólogo.",
+"porAlt": [
+"O mapa discrimina as quatro conclusões possíveis, e não apenas apto e inapto de forma binária.",
+"A categoria pretendida é justamente um dos eixos de discriminação exigidos pelo anexo citado.",
+"A norma não organiza o mapa por sexo e faixa etária, mas por categoria e tipo de processo.",
+"Não existe a conclusão 'apto com ressalva' entre os resultados previstos pela resolução vigente.",
+"Correta: as quatro conclusões do art. 8º, cruzadas com categoria pretendida e tipo de processo."
+]
+},
+{
+"q": "Segundo os Anexos XVIII e XIX da Resolução CONTRAN nº 927/2022, qual é a ordem em que os candidatos devem ser citados na relação mensal enviada ao órgão de trânsito?",
+"alts": [
+"Inaptos primeiro, depois inaptos temporários, aptos com restrições, aptos e, por fim, os casos em andamento",
+"Ordem alfabética estrita dos nomes, independentemente do resultado que foi obtido por cada um dos candidatos",
+"Ordem cronológica de realização dos exames, independentemente do resultado que foi obtido por cada candidato",
+"Ordem crescente por categoria pretendida, independentemente do resultado que foi obtido por cada candidato",
+"Aptos primeiro, depois aptos com restrições, inaptos temporários, inaptos e, por fim, os casos em andamento"
+],
+"gab": 4,
+"tema": "aptidao",
+"sub": "Relação mensal de candidatos",
+"base": "Resolução CONTRAN nº 927/2022, Anexos XVIII e XIX (observações).",
+"coment": "Os dois anexos trazem observação expressa sobre a ordem de citação. No Anexo XIX, relativo ao exame de aptidão física e mental, devem ser citados em primeiro lugar os candidatos considerados aptos, em seguida os aptos com restrições, depois os inaptos temporários e os inaptos e, finalmente, os casos em andamento. No Anexo XVIII, da avaliação psicológica, a sequência é análoga, mas sem a categoria 'apto com restrições', que não existe naquele exame: primeiro os aptos, depois os inaptos temporários e inaptos e, por fim, os casos em andamento. Cada relação é assinada pelo respectivo perito examinador.",
+"porAlt": [
+"A ordem prevista começa pelos aptos, e não pelos inaptos, conforme a observação dos dois anexos.",
+"A norma define a ordem pelo resultado obtido, e não pela ordem alfabética dos nomes dos candidatos.",
+"A norma não adota a ordem cronológica de realização dos exames na relação mensal encaminhada.",
+"A norma não organiza a relação por categoria pretendida, mas pelo resultado de cada candidato.",
+"Correta: aptos, aptos com restrições, inaptos temporários, inaptos e, ao final, os casos em andamento."
+]
+},
+{
+"q": "Segundo o art. 4º da Resolução CONTRAN nº 927/2022, o que o médico perito examinador deve observar no exame físico geral quanto ao comportamento e à atitude do candidato?",
+"alts": [
+"Apenas a fala e a orientação temporal, únicos parâmetros mentais exigidos no exame físico geral",
+"Apenas o humor e a aparência, deixando os demais aspectos para a avaliação do psicólogo perito",
+"Apenas a presença de indícios de uso de substâncias psicoativas, foco exclusivo dessa parte do exame",
+"Humor, aparência, fala, contactuação, percepção, atenção, orientação, memória e uso de psicoativos",
+"Apenas a memória recente e o controle de impulsos, avaliados por instrumento padronizado específico"
+],
+"gab": 3,
+"tema": "aptidao",
+"sub": "Exame físico geral e estado mental",
+"base": "Resolução CONTRAN nº 927/2022, art. 4º, II, alínea b.",
+"coment": "A alínea b do art. 4º, II é surpreendentemente detalhada e coloca um exame do estado mental dentro do exame físico geral do médico: comportamento e atitude frente ao examinador, humor, aparência, fala, contactuação e compreensão, perturbações da percepção e atenção, orientação, memória e concentração, controle de impulsos e indícios do uso de substâncias psicoativas. Não se confunde com a avaliação psicológica do psicólogo perito. A alínea a exige a observação do tipo morfológico, e a alínea c manda avaliar estado geral, fácies, trofismo, nutrição, hidratação, coloração da pele e mucosas, deformidades e cicatrizes, visando à detecção de enfermidades que constituam risco para a direção veicular.",
+"porAlt": [
+"O rol da norma é bem mais amplo do que apenas a fala e a orientação temporal do candidato.",
+"O médico avalia todos esses aspectos; a avaliação psicológica do psicólogo é procedimento distinto.",
+"Os indícios de uso de psicoativos são apenas um dos itens do rol previsto expressamente na norma.",
+"Correta: a norma lista humor, aparência, fala, contactuação, percepção, atenção, orientação e memória.",
+"A norma não exige instrumento padronizado específico e lista muitos outros parâmetros a observar."
+]
+},
+{
+"q": "Segundo o art. 4º da Resolução CONTRAN nº 927/2022, o que deve ser observado na alínea relativa ao estado geral do candidato durante o exame físico?",
+"alts": [
+"Apenas o peso e a altura, para o cálculo do índice de massa corpórea exigido no rastreamento do sono",
+"Fácies, trofismo, nutrição, hidratação, pele e mucosas, deformidades e cicatrizes, buscando enfermidades",
+"Apenas a presença de cicatrizes cirúrgicas, que indicam procedimentos prévios que devem ser investigados",
+"Apenas a coloração da pele e das mucosas, suficiente para detectar anemia e insuficiência respiratória",
+"Apenas o tipo morfológico do candidato, parâmetro que resume adequadamente o seu estado geral atual"
+],
+"gab": 1,
+"tema": "aptidao",
+"sub": "Estado geral no exame físico",
+"base": "Resolução CONTRAN nº 927/2022, art. 4º, II, alínea c.",
+"coment": "A alínea c determina observar estado geral, fácies, trofismo, nutrição, hidratação, coloração da pele e mucosas, deformidades e cicatrizes, visando à DETECÇÃO DE ENFERMIDADES QUE POSSAM CONSTITUIR RISCO PARA A DIREÇÃO VEICULAR — a finalidade está escrita na própria norma e orienta a leitura de todo o exame. O tipo morfológico é objeto da alínea a, e a balança antropométrica figura entre os equipamentos obrigatórios da entidade, permitindo o cálculo do IMC exigido no rastreamento de distúrbios do sono. A lógica do artigo é escalonada: anamnese com questionário, exame físico geral e, então, os exames específicos por aparelho.",
+"porAlt": [
+"Peso e altura servem ao cálculo do IMC, mas o rol da alínea é bem mais amplo do que isso.",
+"Correta: fácies, trofismo, nutrição, hidratação, pele e mucosas, deformidades e cicatrizes.",
+"As cicatrizes são apenas um dos itens listados expressamente pela alínea da resolução vigente.",
+"A coloração de pele e mucosas é apenas um dos itens do rol previsto na alínea mencionada.",
+"O tipo morfológico é objeto de alínea distinta e não resume o estado geral do candidato avaliado."
+]
+},
+{
+"q": "Segundo o art. 2º da Resolução CONTRAN nº 927/2022, de quem é a responsabilidade pelo preenchimento dos formulários RENACH com o resultado do exame de aptidão física e mental?",
+"alts": [
+"Do próprio candidato, que declara os resultados obtidos e assume a responsabilidade pela informação",
+"Do órgão máximo executivo de trânsito da União, responsável pela consolidação nacional dos dados",
+"Do Conselho Regional de Medicina do estado onde o perito examinador mantém a sua inscrição ativa",
+"Do centro de formação de condutores onde o candidato realiza as aulas teóricas e práticas do processo",
+"Das entidades credenciadas pelos órgãos executivos de trânsito dos Estados e do Distrito Federal"
+],
+"gab": 4,
+"tema": "aptidao",
+"sub": "Responsabilidade pelo preenchimento do RENACH",
+"base": "Resolução CONTRAN nº 927/2022, art. 2º, §§1º e 2º.",
+"coment": "O art. 2º institui o formulário RENACH — Registro Nacional de Condutores Habilitados — destinado à coleta de dados dos candidatos à ACC e à CNH e aos processos de renovação, adição e mudança de categoria, determinando aos órgãos executivos de trânsito dos Estados e do DF a sua utilização. O §1º atribui o preenchimento dos formulários com o RESULTADO do exame de aptidão física e mental e da avaliação psicológica às ENTIDADES CREDENCIADAS pelos órgãos executivos de trânsito. Já o §2º esclarece que as INFORMAÇÕES PRESTADAS PELO CANDIDATO são de sua responsabilidade — distinção que separa quem responde pelo dado declarado de quem responde pelo registro do resultado.",
+"porAlt": [
+"O candidato responde pelas informações que presta, mas não pelo preenchimento do resultado do exame.",
+"O órgão da União normatiza o sistema, mas não é o responsável pelo preenchimento dos formulários.",
+"O Conselho Regional de Medicina não tem atribuição de preenchimento no processo de habilitação.",
+"O centro de formação de condutores não preenche o resultado do exame de aptidão física e mental.",
+"Correta: o preenchimento do resultado cabe às entidades credenciadas pelos órgãos de trânsito estaduais."
+]
+},
+{
+"q": "Perito examinador conclui pela aptidão de candidato que necessita de adaptação veicular. Qual é o desdobramento formal correto dessa conclusão?",
+"alts": [
+"Resultado 'apto', com a adaptação registrada apenas no prontuário arquivado na entidade credenciada",
+"Resultado 'apto com restrições', com as observações codificadas do Anexo XV registradas na habilitação",
+"Resultado 'inapto temporário', até que o candidato comprove a aquisição de um veículo já adaptado",
+"Resultado 'apto', com encaminhamento obrigatório ao CETRAN para homologação da adaptação indicada",
+"Resultado 'apto com ressalva', categoria criada para as hipóteses de necessidade de adaptação veicular"
+],
+"gab": 1,
+"tema": "locomotor",
+"sub": "Aptidão com restrição por adaptação veicular",
+"base": "Resolução CONTRAN nº 927/2022, art. 8º, II e parágrafo único; Anexo XV.",
+"coment": "O inciso II do art. 8º define 'apto com restrições' exatamente como a situação em que há necessidade de registro na CNH de qualquer restrição referente ao CONDUTOR ou de ADAPTAÇÃO VEICULAR. O parágrafo único completa: no resultado 'apto com restrições' constarão da CNH as observações codificadas no Anexo XV — as letras de A a X, que incluem acelerador à esquerda (C), transmissão automática (D), empunhadura no volante (E), direção hidráulica (F), acelerador e freio manual (H) e adaptações de motocicleta (M a S). Não existe 'apto com ressalva' entre os resultados possíveis, e a adaptação não gera inaptidão temporária nem exige homologação do CETRAN.",
+"porAlt": [
+"O registro no prontuário não basta: a norma exige que a restrição conste da própria habilitação.",
+"Correta: o resultado é 'apto com restrições', com as observações codificadas do Anexo XV na CNH.",
+"A necessidade de adaptação não gera inaptidão temporária, e sim aptidão com restrição registrada.",
+"Não há encaminhamento ao CETRAN para homologar a adaptação indicada pelo perito examinador.",
+"Não existe a categoria 'apto com ressalva' entre os quatro resultados possíveis do exame pericial."
+]
+},
+{
+"q": "Segundo o art. 9º da Resolução CONTRAN nº 927/2022, o que ocorre quando o candidato apresenta distúrbio psicológico temporariamente sob controle?",
+"alts": [
+"É considerado inapto temporário, com prazo de inaptidão consignado na planilha RENACH pelo psicólogo",
+"É considerado inapto, cabendo requerer Junta Psicológica no prazo de trinta dias do conhecimento",
+"É considerado apto, com diminuição do prazo de validade da avaliação, o que consta da planilha RENACH",
+"É considerado apto com restrições, com registro do código X do Anexo XV na sua habilitação emitida",
+"É considerado apto sem qualquer ressalva, pois o controle do distúrbio afasta o risco para a condução"
+],
+"gab": 2,
+"tema": "aptidao",
+"sub": "Distúrbio psicológico sob controle",
+"base": "Resolução CONTRAN nº 927/2022, art. 9º, §2º.",
+"coment": "O §2º do art. 9º é específico: quando apresentar distúrbios ou comprometimentos psicológicos que estejam TEMPORARIAMENTE SOB CONTROLE, o candidato será considerado APTO, com diminuição do prazo de validade da avaliação, que constará da planilha RENACH. É o equivalente psicológico da lógica do §4º do art. 147 do CTB e das várias linhas do Anexo VII: quando o risco é real mas não atual, a resposta não é a reprovação, e sim o encurtamento do intervalo até a reavaliação. Distinga do §1º, que trata do resultado inapto temporário, este sim com prazo de inaptidão consignado, findo o qual o candidato faz nova avaliação.",
+"porAlt": [
+"A inaptidão temporária é hipótese do §1º, aplicável a quem não apresenta desempenho condizente.",
+"A inaptidão e a Junta Psicológica são caminhos distintos do previsto para o distúrbio sob controle.",
+"Correta: apto com diminuição do prazo de validade da avaliação, registrada na planilha RENACH.",
+"Não existe 'apto com restrições' na avaliação psicológica, que tem apenas três resultados possíveis.",
+"A norma prevê expressamente a redução do prazo, não sendo o caso de aptidão sem qualquer ressalva."
+]
+},
+{
+"q": "Segundo o art. 9º da Resolução CONTRAN nº 927/2022, em que prazo o resultado da avaliação psicológica deve ser disponibilizado pelo psicólogo?",
+"alts": [
+"Em até cinco dias úteis, conforme determina expressamente o parágrafo do artigo que trata do tema",
+"Em até quinze dias corridos, conforme determina o artigo que trata dos prazos do processo pericial",
+"Em até dois dias úteis, conforme determina expressamente o parágrafo do artigo que trata do tema",
+"Em até trinta dias corridos, prazo idêntico ao previsto para a Junta proferir o resultado da revisão",
+"No mesmo dia da avaliação, sem prazo adicional previsto na norma para a liberação desse resultado"
+],
+"gab": 2,
+"tema": "aptidao",
+"sub": "Prazo do resultado psicológico",
+"base": "Resolução CONTRAN nº 927/2022, art. 9º, §3º.",
+"coment": "O §3º do art. 9º determina que o resultado da avaliação psicológica seja disponibilizado pelo psicólogo no prazo de DOIS DIAS ÚTEIS. É um dos vários prazos da Resolução, e vale organizá-los em conjunto: 30 dias para o candidato requerer Junta Médica ou Psicológica, contados do conhecimento do resultado; 15 dias úteis para o órgão designar a Junta; 30 dias para a Junta proferir o resultado, contados da designação; 30 dias para recorrer ao CETRAN ou CONTRANDIFE; e 20 dias úteis para a remessa dos documentos ao Conselho. No plano do credenciamento, a vigência é de 1 ano e a comprovação dos requisitos, a cada 2 anos.",
+"porAlt": [
+"O prazo de cinco dias úteis não consta da norma para a disponibilização desse resultado ao candidato.",
+"O prazo de quinze dias úteis é o da designação da Junta pelo órgão executivo de trânsito estadual.",
+"Correta: o prazo previsto para disponibilizar o resultado da avaliação psicológica é de dois dias úteis.",
+"O prazo de trinta dias é o da Junta para proferir resultado, e não o da liberação da avaliação.",
+"A norma prevê prazo expresso de dois dias úteis, e não a liberação obrigatória no mesmo dia."
+]
+},
+{
+"q": "Quais são as duas dimensões mínimas de sala exigidas pelo art. 17 da Resolução CONTRAN nº 927/2022 para as entidades médicas e para o atendimento psicológico individual?",
+"alts": [
+"Sala médica de 3,0 m por 3,0 m e sala psicológica individual de 4,0 m por 4,0 m, no mínimo",
+"Sala médica de 6,0 m por 4,0 m e sala psicológica individual de 3,0 m por 3,0 m, no mínimo",
+"Sala médica de 2,0 m por 2,0 m e sala psicológica individual de 4,5 m por 3,0 m, no mínimo",
+"Sala médica de 4,5 m por 3,0 m e sala psicológica individual de 2,0 m por 2,0 m, no mínimo",
+"Sala médica de 5,0 m por 5,0 m e sala psicológica individual de 2,5 m por 2,5 m, no mínimo"
+],
+"gab": 3,
+"tema": "aptidao",
+"sub": "Dimensões mínimas das instalações",
+"base": "Resolução CONTRAN nº 927/2022, art. 17, II, alínea a, e III, alínea a.",
+"coment": "A sala de exame médico deve ter dimensões mínimas de 4,5 m × 3,0 m, COM AUXÍLIO DE ESPELHOS — a ressalva existe porque o teste de acuidade visual exige distância padronizada até a tabela de optotipos, e o espelho permite obtê-la em ambiente menor. A sala de atendimento psicológico individual deve ter no mínimo 2,0 m × 2,0 m, e a de atendimento coletivo, 1,20 m × 1,00 m por candidato. Todas as entidades devem ainda possuir licenças de funcionamento e sanitária e alvará da vigilância sanitária local, cumprir a NBR 9050 da ABNT sobre acessibilidade e dispor de recursos de informática com acesso à internet, observando os critérios de acessibilidade.",
+"porAlt": [
+"As dimensões estão trocadas e não correspondem às previstas para nenhuma das duas salas exigidas.",
+"As dimensões apresentadas são maiores que as efetivamente exigidas pela norma para as duas salas.",
+"As dimensões das duas salas estão invertidas em relação ao que a resolução efetivamente exige.",
+"Correta: sala médica de 4,5 m por 3,0 m e sala psicológica individual de 2,0 m por 2,0 m.",
+"As dimensões apresentadas não correspondem às previstas na norma para nenhuma das duas salas."
+]
+},
+{
+"q": "Um condutor de 51 anos, sem atividade remunerada, renova a CNH categoria B com exame inteiramente normal. Qual prazo de validade deve ser registrado?",
+"alts": [
+"Cinco anos, pois ele está na faixa de idade igual ou superior a 50 e inferior a 70 anos completos",
+"Dez anos, pois a faixa decenal alcança todos os condutores que não exercem atividade remunerada",
+"Três anos, pois a faixa trienal passou a alcançar os condutores a partir dos cinquenta anos de idade",
+"Cinco anos, mas apenas porque o exame foi inteiramente normal, sem qualquer alteração identificada",
+"Dez anos, pois a categoria B sem atividade remunerada tem prazo decenal independentemente da idade"
+],
+"gab": 0,
+"tema": "legislacao",
+"sub": "Faixa etária intermediária de validade",
+"base": "CTB, art. 147, §2º, II (Lei nº 14.071/2020).",
+"coment": "As três faixas do §2º são definidas EXCLUSIVAMENTE pela idade: menos de 50 anos, 10 anos; idade igual ou superior a 50 e inferior a 70 anos, 5 anos; 70 anos ou mais, 3 anos. Com 51 anos, o condutor está na faixa intermediária, e o prazo é de 5 anos. Repare em dois pontos que costumam confundir: a normalidade do exame não altera o prazo, que é fixado por lei conforme a idade; e a atividade remunerada não muda a periodicidade do exame médico — ela repercute na exigência de avaliação psicológica a cada renovação (§3º) e na observação registrada na CNH (§5º). Só o §4º permite ao perito PROPOR prazo menor, diante de indício de deficiência ou de doença progressiva.",
+"porAlt": [
+"Correta: aos 51 anos ele está na faixa dos 50 aos 69 anos, cujo prazo legal é de cinco anos.",
+"A faixa decenal alcança apenas quem tem menos de 50 anos, independentemente da atividade exercida.",
+"A faixa trienal começa aos 70 anos de idade, e não aos cinquenta anos como afirma a alternativa.",
+"O prazo decorre da faixa etária, e não do fato de o exame ter sido inteiramente normal.",
+"A categoria não define o prazo de validade do exame, que é determinado pela idade do condutor."
+]
+},
+{
+"q": "Segundo o art. 148 do CTB, qual é a exigência sobre a formação de condutores que precede os exames de habilitação?",
+"alts": [
+"Deve incluir obrigatoriamente curso de mecânica básica e de manutenção preventiva do veículo",
+"Deve incluir obrigatoriamente estágio supervisionado de trinta horas em via de trânsito rápido",
+"Deve incluir obrigatoriamente curso de suporte avançado de vida no trauma para todos os candidatos",
+"Deve incluir obrigatoriamente curso de direção defensiva e noções de proteção ao meio ambiente",
+"Deve incluir obrigatoriamente treinamento em simulador de direção homologado pelo órgão da União"
+],
+"gab": 3,
+"tema": "legislacao",
+"sub": "Conteúdo obrigatório da formação de condutores",
+"base": "CTB, art. 148, §1º.",
+"coment": "O §1º do art. 148 determina que a formação de condutores inclua OBRIGATORIAMENTE curso de direção defensiva e de conceitos básicos de proteção ao meio ambiente relacionados com o trânsito. O caput do artigo permite que os exames de habilitação, EXCETO os de direção veicular, sejam aplicados por entidades públicas ou privadas credenciadas pelo órgão executivo de trânsito dos Estados e do DF, conforme normas do CONTRAN — e é nesse artigo que a Lei nº 15.428/2026 inseriu os novos §§6º e 7º, sobre a autorização dos peritos examinadores pelo órgão máximo da União e sobre o preço público dos exames corrigido pelo IPCA. O §2º prevê a Permissão para Dirigir ao candidato aprovado.",
+"porAlt": [
+"A mecânica básica não integra o conteúdo obrigatório previsto no parágrafo do artigo citado.",
+"Não há previsão de estágio supervisionado em via de trânsito rápido na formação de condutores.",
+"O curso exigido é o de noções de primeiros socorros, previsto no art. 147, e não suporte avançado.",
+"Correta: direção defensiva e conceitos básicos de proteção ao meio ambiente ligados ao trânsito.",
+"O treinamento em simulador não é exigência legal do conteúdo obrigatório da formação de condutores."
+]
+},
+{
+"q": "Segundo o art. 147 do CTB, onde deve ser realizado o exame de aptidão física e mental do candidato?",
+"alts": [
+"No local de residência ou domicílio do examinado, conforme redação expressa do parágrafo respectivo",
+"Na capital do Estado em que o candidato mantém a sua inscrição eleitoral regular e ativa no momento",
+"Em qualquer unidade da Federação escolhida livremente pelo candidato, sem restrição territorial alguma",
+"Na sede do órgão executivo de trânsito estadual, vedada a realização em entidade privada credenciada",
+"No local de trabalho do candidato, quando ele exercer atividade remunerada como condutor de veículo"
+],
+"gab": 0,
+"tema": "legislacao",
+"sub": "Local de realização do exame",
+"base": "CTB, art. 147, §2º (redação da Lei nº 14.071/2020).",
+"coment": "O §2º do art. 147 estabelece que o exame de aptidão física e mental, A SER REALIZADO NO LOCAL DE RESIDÊNCIA OU DOMICÍLIO DO EXAMINADO, será preliminar e renovável com a periodicidade das três faixas etárias. Duas palavras merecem atenção: 'preliminar', porque o exame antecede os demais do processo — é o primeiro do rol do art. 147 —, e 'renovável', que introduz a periodicidade. A vinculação ao domicílio é coerente com o art. 14 da Resolução 927/2022, que manda apresentar o requerimento de Junta e o recurso ao CETRAN no órgão executivo de trânsito do Estado onde residir ou estiver domiciliado o interessado.",
+"porAlt": [
+"Correta: o texto legal determina a realização no local de residência ou domicílio do examinado.",
+"A inscrição eleitoral não é o critério adotado pela lei para definir o local de realização do exame.",
+"A lei vincula o exame ao domicílio, não permitindo a escolha livre de qualquer unidade da Federação.",
+"O exame pode ser aplicado por entidades credenciadas, públicas ou privadas, conforme o art. 148.",
+"O local de trabalho não é o critério legal, ainda que o candidato exerça atividade remunerada."
+]
+},
+{
 "q": "Segundo o art. 9º da Resolução CONTRAN nº 927/2022, quais são os resultados possíveis da avaliação psicológica do candidato à habilitação?",
 "alts": [
 "Apto, apto com restrições, inapto temporário e inapto — os mesmos quatro resultados do exame médico",
