@@ -1,0 +1,288 @@
+[
+ {
+  "q": "Segundo a Lei nº 6.194/1974, com a redação da Lei nº 11.482/2007, quais eram os valores das coberturas do seguro DPVAT por pessoa vitimada?",
+  "alts": [
+   "R$ 13.500 por morte, até R$ 27.000 por invalidez permanente e até R$ 5.400 de reembolso por despesas médicas",
+   "R$ 27.000 por morte, até R$ 13.500 por invalidez permanente e até R$ 2.700 de reembolso por despesas médicas",
+   "R$ 13.500 por morte, até R$ 13.500 por invalidez permanente e até R$ 2.700 de reembolso por despesas médicas",
+   "R$ 40.000 por morte, até R$ 20.000 por invalidez permanente e até R$ 5.000 de reembolso por despesas médicas",
+   "R$ 13.500 por morte, até R$ 13.500 por invalidez permanente e até R$ 13.500 de reembolso por despesas médicas"
+  ],
+  "gab": 2,
+  "tema": "securitaria",
+  "sub": "Coberturas do DPVAT",
+  "base": "Lei nº 6.194/1974, art. 3º, I a III, com a redação dada pela Lei nº 11.482/2007.",
+  "coment": "O art. 3º fixava três coberturas por pessoa vitimada: R$ 13.500,00 no caso de MORTE; ATÉ R$ 13.500,00 no caso de INVALIDEZ PERMANENTE, valor proporcional ao grau apurado pela tabela anexa à lei; e ATÉ R$ 2.700,00 como reembolso de DESPESAS DE ASSISTÊNCIA MÉDICA E SUPLEMENTARES devidamente comprovadas. Repare na diferença de redação: a indenização por morte é um valor fixo, enquanto as outras duas são tetos. Um detalhe frequentemente cobrado está no §2º: o seguro NÃO contempla despesas decorrentes de atendimento médico ou hospitalar efetuado em estabelecimento credenciado ao SUS, mesmo que em caráter privado, sendo vedado o pagamento de qualquer indenização nesses casos.",
+  "porAlt": [
+   "Os tetos de invalidez e de despesas médicas estão dobrados em relação aos previstos no texto legal.",
+   "O valor da indenização por morte não é de vinte e sete mil reais, e sim de treze mil e quinhentos.",
+   "Correta: R$ 13.500 por morte, até R$ 13.500 por invalidez permanente e até R$ 2.700 por despesas médicas.",
+   "Nenhum dos três valores corresponde aos fixados pela redação dada ao artigo pela Lei nº 11.482/2007.",
+   "O teto de despesas de assistência médica e suplementares é de dois mil e setecentos reais apenas."
+  ]
+ },
+ {
+  "q": "Segundo a Lei nº 6.194/1974, na invalidez permanente parcial INCOMPLETA, quais são os percentuais de redução proporcional da indenização conforme a repercussão da perda?",
+  "alts": [
+   "90% para repercussão intensa, 60% para média, 30% para leve e 15% para as sequelas residuais",
+   "75% para repercussão intensa, 50% para média, 25% para leve e 10% para as sequelas residuais",
+   "50% para repercussão intensa, 30% para média, 15% para leve e 5% para as sequelas residuais",
+   "80% para repercussão intensa, 60% para média, 40% para leve e 20% para as sequelas residuais",
+   "70% para repercussão intensa, 40% para média, 20% para leve e 10% para as sequelas residuais"
+  ],
+  "gab": 1,
+  "tema": "securitaria",
+  "sub": "Graduação da invalidez permanente parcial",
+  "base": "Lei nº 6.194/1974, art. 3º, §1º, II (redação da Lei nº 11.945/2009).",
+  "coment": "A lei estrutura a invalidez permanente em total ou parcial, subdividindo a parcial em COMPLETA e INCOMPLETA. Na parcial COMPLETA, a perda anatômica ou funcional é enquadrada diretamente em um dos segmentos orgânicos ou corporais da tabela anexa, e a indenização corresponde ao percentual ali estabelecido aplicado ao valor máximo da cobertura. Na parcial INCOMPLETA, faz-se primeiro o enquadramento na tabela e, em seguida, a redução proporcional: 75% para as perdas de repercussão INTENSA, 50% para as de MÉDIA repercussão, 25% para as de LEVE repercussão e 10% nos casos de SEQUELAS RESIDUAIS. Essa graduação em quatro degraus é a base do raciocínio do perito na avaliação do dano corporal, e a lei exige ainda que as lesões enquadradas sejam diretamente decorrentes do acidente e não suscetíveis de amenização por qualquer medida terapêutica.",
+  "porAlt": [
+   "Os percentuais estão todos acima dos previstos na graduação estabelecida pelo texto legal vigente.",
+   "Correta: 75%, 50%, 25% e 10% para repercussão intensa, média, leve e sequelas residuais.",
+   "Os percentuais estão todos abaixo dos previstos na graduação estabelecida pelo texto legal vigente.",
+   "Os percentuais não correspondem à graduação legal, que parte de setenta e cinco por cento no topo.",
+   "Os dois primeiros percentuais não correspondem aos previstos, que são de 75% e 50% respectivamente."
+  ]
+ },
+ {
+  "q": "Qual é a situação jurídica do seguro obrigatório de danos pessoais causados por veículos automotores no Brasil, considerando a Lei Complementar nº 211, de 30 de dezembro de 2024?",
+  "alts": [
+   "A LC 211/2024 revogou a LC 207/2024, que havia instituído o SPVAT, sucessor do extinto DPVAT no país",
+   "A LC 211/2024 restabeleceu integralmente o DPVAT nos moldes originais da Lei nº 6.194/1974 vigente",
+   "A LC 211/2024 manteve o SPVAT e apenas transferiu sua administração para a Caixa Econômica Federal",
+   "A LC 211/2024 criou o SPVAT em substituição ao DPVAT, com início de cobrança previsto para 2026",
+   "A LC 211/2024 ampliou as coberturas do SPVAT, elevando a indenização por morte para o dobro do valor"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "Extinção do SPVAT",
+  "base": "Lei Complementar nº 211, de 30/12/2024, ementa e art. de revogação; Lei Complementar nº 207/2024.",
+  "coment": "A trajetória é a seguinte: o DPVAT, criado pela Lei nº 6.194/1974, teve sua cobrança encerrada a partir de 2021; a Lei Complementar nº 207, de 16 de maio de 2024, instituiu o SPVAT — Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito — como sucessor; e a Lei Complementar nº 211, de 30 de dezembro de 2024, REVOGOU expressamente a LC 207/2024, extinguindo o SPVAT antes que a cobrança se efetivasse. Para o especialista em medicina do tráfego, a consequência prática é relevante: a vítima de sinistro que não disponha de seguro privado deixa de contar com a indenização automática por morte, invalidez permanente e despesas médicas que o antigo DPVAT assegurava, o que desloca a discussão do dano corporal para as esferas cível e securitária privada.",
+  "porAlt": [
+   "Correta: a LC 211/2024 revogou a LC 207/2024, que havia instituído o SPVAT como sucessor do DPVAT.",
+   "A lei complementar não restabeleceu o DPVAT, cuja cobrança havia sido encerrada anos antes disso.",
+   "O SPVAT não foi mantido: a lei complementar de dezembro de 2024 revogou o diploma que o instituíra.",
+   "Quem instituiu o SPVAT foi a LC 207/2024; a LC 211/2024 fez exatamente o movimento contrário disso.",
+   "Não houve ampliação de coberturas, e sim a revogação integral do diploma que criara o novo seguro."
+  ]
+ },
+ {
+  "q": "Você é o médico da equipe de suporte avançado em um sinistro com múltiplas vítimas e aplica o método START para triagem. Vítima que deambula espontaneamente deve ser classificada como:",
+  "alts": [
+   "Vermelha, categoria prioritária, pois a deambulação não afasta lesão interna grave subjacente",
+   "Amarela, categoria intermediária, que exige reavaliação a cada dez minutos até o transporte",
+   "Preta, categoria dos não salváveis, reservada às vítimas sem chance real de sobrevivência",
+   "Azul, categoria expectante, criada para as vítimas com lesões de altíssima complexidade cirúrgica",
+   "Verde, categoria dos feridos leves, que podem aguardar atendimento e transporte com segurança"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Triagem pelo método START",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (atendimento a múltiplas vítimas, método START).",
+  "coment": "O método START (Simple Triage and Rapid Treatment) organiza a triagem em incidentes com múltiplas vítimas a partir de quatro perguntas sequenciais, na ordem: o paciente DEAMBULA? Se sim, é classificado como VERDE (menor prioridade, ferido leve). Se não deambula, avalia-se a RESPIRAÇÃO: ausente após abertura de vias aéreas, classifica-se como PRETO (morto ou não salvável); presente com frequência muito elevada, classifica-se como VERMELHO. Depois avalia-se a PERFUSÃO (enchimento capilar ou pulso radial) e, por fim, o ESTADO NEUROLÓGICO (obedece a comandos simples). O objetivo é fazer a classificação em cerca de 60 segundos por vítima, sem tratar — a única intervenção admitida durante a triagem é abrir a via aérea e conter hemorragia exsanguinante. A lógica do sistema é maximizar o número de sobreviventes com recursos limitados, e não dedicar recursos escassos à vítima mais grave.",
+  "porAlt": [
+   "A classificação vermelha é destinada a quem não deambula e apresenta alterações de respiração ou perfusão.",
+   "A categoria amarela abrange vítimas que não deambulam mas mantêm parâmetros fisiológicos estáveis.",
+   "A categoria preta é reservada às vítimas sem respiração após a abertura das vias aéreas superiores.",
+   "A categoria azul não integra o método START, que trabalha com quatro cores de classificação apenas.",
+   "Correta: a deambulação espontânea classifica a vítima como verde, de menor prioridade no START."
+  ]
+ },
+ {
+  "q": "Na avaliação primária do politraumatizado no local do sinistro, qual é a sequência correta e o que se busca em cada etapa?",
+  "alts": [
+   "Respiração, via aérea com controle cervical, circulação, exposição com prevenção de hipotermia e neurológico",
+   "Circulação com controle de hemorragia, via aérea, respiração, exposição da vítima e avaliação neurológica",
+   "Avaliação neurológica, via aérea com controle cervical, respiração, circulação e exposição da vítima ferida",
+   "Exposição da vítima, via aérea com controle cervical, respiração, circulação e avaliação neurológica final",
+   "Via aérea com controle cervical, respiração, circulação com controle de hemorragia, neurológico e exposição"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Avaliação primária ABCDE",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (avaliação primária e secundária).",
+  "coment": "A avaliação primária segue o mnemônico ABCDE, e a ordem não é arbitrária: reflete a rapidez com que cada problema mata. A — via aérea com restrição do movimento da coluna cervical, buscando obstrução, corpo estranho, trauma de face; B — respiração e ventilação, buscando pneumotórax hipertensivo, pneumotórax aberto e hemotórax maciço; C — circulação com controle de hemorragia, buscando choque hemorrágico e identificando os cinco locais de sangramento capazes de matar (tórax, abdome, retroperitônio/pelve, ossos longos e externo); D — avaliação neurológica pela escala de coma de Glasgow e pupilas; E — exposição completa com prevenção ativa da hipotermia. Em cenários com hemorragia exsanguinante visível, a contenção do sangramento antecede a via aérea, sequência que muitos protocolos designam por XABCDE. A avaliação secundária, que vem depois, é o exame da cabeça aos pés somado à história AMPLA.",
+  "porAlt": [
+   "A respiração vem depois da via aérea: não adianta ventilar por uma via aérea que está obstruída.",
+   "A circulação é a terceira etapa; iniciar por ela deixaria uma via aérea obstruída sem tratamento.",
+   "A avaliação neurológica é a quarta etapa, posterior à estabilização de via aérea, respiração e circulação.",
+   "A exposição é a última etapa, justamente por não representar ameaça imediata à vida da vítima.",
+   "Correta: via aérea com controle cervical, respiração, circulação, neurológico e exposição, nessa ordem."
+  ]
+ },
+ {
+  "q": "Vítima de colisão frontal apresenta desvio de traqueia para a esquerda, turgência jugular, ausência de murmúrio vesicular à direita, hipotensão e insuficiência respiratória progressiva. Qual é a conduta imediata no local?",
+  "alts": [
+   "Intubação orotraqueal imediata e ventilação com pressão positiva, para reverter a insuficiência",
+   "Expansão volêmica agressiva com cristaloide aquecido, para corrigir a hipotensão antes de tudo",
+   "Radiografia de tórax de urgência no hospital, para confirmar o diagnóstico antes de qualquer conduta",
+   "Descompressão torácica imediata à direita, pois o quadro corresponde a pneumotórax hipertensivo",
+   "Pericardiocentese imediata por via subxifoide, pois o quadro corresponde a tamponamento cardíaco"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Pneumotórax hipertensivo",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de tórax, controle de vias aéreas e ventilação no trauma).",
+  "coment": "O quadro descrito é o pneumotórax hipertensivo, emergência do 'B' da avaliação primária: ar entra na cavidade pleural e não sai, colapsa o pulmão, desloca o mediastino para o lado contralateral e comprime as veias cavas, reduzindo o retorno venoso. Daí a tríade desvio de traqueia para o lado oposto, turgência jugular e ausência de murmúrio vesicular no lado acometido, somada a hipotensão. O diagnóstico é CLÍNICO e o tratamento é imediato: descompressão torácica do lado acometido, seguida de drenagem pleural definitiva. Esperar radiografia é erro grave — o paciente morre antes. Atenção às duas armadilhas do enunciado: intubar e ventilar com pressão positiva AGRAVA o pneumotórax hipertensivo, e o tamponamento cardíaco compartilha hipotensão e turgência jugular, mas cursa com bulhas abafadas e SEM desvio de traqueia ou abolição unilateral do murmúrio.",
+  "porAlt": [
+   "A ventilação com pressão positiva agrava o pneumotórax hipertensivo antes de qualquer benefício.",
+   "A hipotensão é obstrutiva, e não hipovolêmica: volume isolado não resolve a compressão das cavas.",
+   "Aguardar confirmação radiológica é inaceitável em quadro de diagnóstico clínico e evolução rápida.",
+   "Correta: o quadro é pneumotórax hipertensivo, cujo tratamento é a descompressão torácica imediata.",
+   "O tamponamento cursa com bulhas abafadas, sem desvio de traqueia nem abolição unilateral do murmúrio."
+  ]
+ },
+ {
+  "q": "Motociclista vítima de queda apresenta hemorragia externa profusa em membro inferior, com sangramento pulsátil que não cede à compressão direta. Qual é a conduta correta no atendimento pré-hospitalar?",
+  "alts": [
+   "Manter apenas a compressão direta prolongada, pois o torniquete produz perda inevitável do membro",
+   "Aplicar torniquete proximal à lesão, registrando o horário da aplicação para a equipe hospitalar",
+   "Elevar o membro acima do nível do coração e aguardar a hemostasia espontânea durante o transporte",
+   "Aplicar compressão sobre os pontos arteriais proximais, técnica que substitui o uso do torniquete",
+   "Iniciar expansão volêmica imediata e adiar a hemostasia para o ambiente hospitalar mais adequado"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Controle de hemorragia externa",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (controle de hemorragias externas).",
+  "coment": "Diante de hemorragia externa exsanguinante em extremidade que não cede à compressão direta, a conduta é o torniquete aplicado PROXIMALMENTE à lesão, apertado até cessar o sangramento, com REGISTRO DO HORÁRIO de aplicação — informação essencial para a equipe hospitalar decidir sobre a retirada e antecipar a síndrome de reperfusão. A visão antiga de que o torniquete condenava o membro foi revista pela experiência militar recente: o benefício de interromper a hemorragia supera amplamente o risco isquêmico nas primeiras horas, e a morte por exsanguinação é evento de minutos. Vale lembrar que a hemorragia exsanguinante é a única situação que precede a via aérea na avaliação primária, dando origem à sequência XABCDE.",
+  "porAlt": [
+   "A noção de perda inevitável do membro foi revista: a exsanguinação mata em minutos, e o torniquete salva.",
+   "Correta: torniquete proximal à lesão, com registro do horário de aplicação para a equipe hospitalar.",
+   "A elevação do membro é insuficiente diante de sangramento arterial pulsátil de grande volume.",
+   "A compressão de pontos arteriais proximais é ineficaz e não substitui a aplicação de um torniquete.",
+   "Adiar a hemostasia para o hospital é inaceitável: sem controle da fonte, o volume infundido se perde."
+  ]
+ },
+ {
+  "q": "Gestante de 32 semanas é vítima de colisão e chega ao atendimento pré-hospitalar consciente, com sinais de choque. Qual é a medida específica que deve ser adotada durante o transporte?",
+  "alts": [
+   "Posicionar a gestante em decúbito ventral, para reduzir a pressão intra-abdominal sobre o útero gravídico",
+   "Elevar os membros inferiores acima do nível do tórax, com o objetivo de aumentar o retorno venoso central",
+   "Deslocar o útero para a esquerda ou lateralizar a prancha, evitando a compressão da veia cava inferior",
+   "Manter a gestante sentada durante todo o trajeto, posição que melhora a expansibilidade do diafragma",
+   "Restringir a oferta de oxigênio, pois a hiperóxia materna reduz a perfusão da unidade uteroplacentária"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Trauma na gestante",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (avaliação inicial da gestante).",
+  "coment": "A partir da segunda metade da gestação, o útero gravídico comprime a veia cava inferior quando a gestante está em decúbito dorsal, reduzindo o retorno venoso em até 30% e podendo produzir hipotensão supina — que, na vítima de trauma, se soma ao choque hemorrágico e mascara a gravidade. A medida é deslocar manualmente o útero para a esquerda ou lateralizar a prancha rígida cerca de 15 a 30 graus para a esquerda, mantendo a restrição do movimento da coluna. Dois princípios complementares orientam a assistência: a melhor forma de tratar o feto é tratar bem a mãe, com oxigênio suplementar generoso, já que a gestante tolera perdas volêmicas maiores antes de manifestar hipotensão às custas da perfusão uterina; e toda gestante vítima de trauma deve ser avaliada em ambiente hospitalar, ainda que o trauma pareça leve, pelo risco de descolamento prematuro de placenta.",
+  "porAlt": [
+   "O decúbito ventral é incompatível com a restrição de movimento da coluna e com a via aérea da vítima.",
+   "A elevação de membros inferiores não resolve a compressão mecânica da cava pelo útero gravídico.",
+   "Correta: deslocar o útero para a esquerda evita a compressão da cava e a hipotensão supina.",
+   "Manter a gestante sentada não é compatível com a imobilização da coluna na vítima de trauma.",
+   "A oferta de oxigênio deve ser generosa, e não restringida, para proteger a perfusão fetal."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Curativa, qual é o princípio que orienta o tempo de permanência da equipe na cena em vítimas de trauma grave?",
+  "alts": [
+   "Estabilizar completamente a vítima em cena, iniciando o transporte apenas após normalizar os sinais vitais",
+   "Minimizar o tempo em cena, realizando fora dela tudo o que não for indispensável à estabilização inicial",
+   "Aguardar em cena a chegada de equipe cirúrgica avançada, que decidirá sobre a necessidade de transporte",
+   "Prolongar a permanência em cena para completar a avaliação secundária detalhada antes do transporte",
+   "Transportar imediatamente sem qualquer intervenção, pois todo procedimento em cena atrasa o atendimento"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Tempo em cena e transporte",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (estabilização e transporte do paciente).",
+  "coment": "O princípio é o da 'hora de ouro': no trauma grave, o desfecho depende de o paciente chegar ao recurso definitivo — em geral o centro cirúrgico — dentro de um intervalo curto após a lesão. A equipe pré-hospitalar deve realizar em cena apenas o que for indispensável à sobrevivência imediata (controle de hemorragia exsanguinante, abertura de via aérea, descompressão de pneumotórax hipertensivo, imobilização) e executar o restante durante o transporte. Note o equilíbrio entre os dois extremos errados: nem permanecer em cena tentando estabilizar completamente um sangramento que só o cirurgião controla, nem transportar sem nenhuma intervenção quando há obstrução de via aérea ou hemorragia contível. A escolha do destino também importa: a vítima com trauma grave deve seguir para hospital com recurso cirúrgico, com comunicação prévia à unidade receptora.",
+  "porAlt": [
+   "Normalizar sinais vitais em cena é impossível quando a fonte de sangramento exige controle cirúrgico.",
+   "Correta: minimizar o tempo em cena, deixando para o trajeto tudo o que não for indispensável ali.",
+   "Não se aguarda equipe cirúrgica em cena: é a vítima que deve ser levada ao recurso definitivo.",
+   "A avaliação secundária detalhada pode e deve ser realizada durante o transporte da vítima ao hospital.",
+   "Algumas intervenções são indispensáveis em cena, como via aérea e controle de hemorragia externa."
+  ]
+ },
+ {
+  "q": "Vítima de sinistro apresenta queimaduras de segundo grau em todo o membro superior direito e em toda a face anterior do tórax e abdome. Pela regra dos nove, qual é a superfície corporal queimada aproximada em adulto?",
+  "alts": [
+   "Cerca de 18%, somando 9% do membro superior e 9% da face anterior do tronco que foi acometida",
+   "Cerca de 36%, somando 18% do membro superior e 18% da face anterior do tronco que foi acometida",
+   "Cerca de 27%, somando 9% do membro superior e 18% da face anterior do tronco que foi acometida",
+   "Cerca de 45%, somando 9% do membro superior e 36% da face anterior do tronco que foi acometida",
+   "Cerca de 13,5%, somando 4,5% do membro superior e 9% da face anterior do tronco que foi acometida"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Regra dos nove nas queimaduras",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (atendimento ao queimado).",
+  "coment": "A regra dos nove no adulto atribui: cabeça e pescoço 9%; cada membro superior 9%; face anterior do tronco 18%; face posterior do tronco 18%; cada membro inferior 18%; e períneo 1%. No caso descrito, um membro superior inteiro (9%) somado à face anterior do tronco, que inclui tórax e abdome (18%), resulta em 27% de superfície corporal queimada. O cálculo importa porque orienta a reposição volêmica e o critério de encaminhamento a centro especializado. Duas ressalvas úteis: as queimaduras de primeiro grau NÃO entram no cômputo da superfície queimada, e na criança as proporções diferem — a cabeça representa fração maior e os membros inferiores, menor. No pré-hospitalar, além da reposição, valem a interrupção do processo de queimadura, a remoção de adornos, a prevenção da hipotermia e a atenção à lesão de via aérea por inalação.",
+  "porAlt": [
+   "O valor subestima a face anterior do tronco, que corresponde a dezoito por cento no adulto.",
+   "O membro superior corresponde a 9%, e não a dezoito por cento da superfície corporal do adulto.",
+   "Correta: 9% do membro superior somados aos 18% da face anterior do tronco resultam em 27%.",
+   "A face anterior do tronco corresponde a 18%, e não a trinta e seis por cento da superfície corporal.",
+   "Os valores correspondem à metade dos previstos pela regra dos nove aplicada ao paciente adulto."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Curativa, qual é a conduta correta na suspeita de trauma raquimedular em vítima de sinistro de trânsito?",
+  "alts": [
+   "Realizar flexão cervical suave para avaliar a presença de dor antes de decidir sobre a imobilização",
+   "Aguardar a realização de radiografias de coluna antes de qualquer manipulação ou remoção da vítima",
+   "Imobilizar apenas as vítimas que apresentem déficit motor evidente no exame neurológico realizado",
+   "Restringir o movimento da coluna desde o primeiro contato, mantendo alinhamento durante toda a remoção",
+   "Transportar a vítima em decúbito lateral esquerdo, posição que protegeria a medula de novas lesões"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Trauma de coluna e medula",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma da coluna e da medula).",
+  "coment": "O princípio é restringir o movimento da coluna desde o primeiro contato com a vítima, mantendo o alinhamento neutro durante toda a remoção e o transporte, para evitar a conversão de uma lesão óssea instável em lesão medular. A restrição não depende da presença de déficit neurológico: mecanismos de alta energia, dor cervical, alteração do nível de consciência, intoxicação e lesões distratoras já indicam a medida, e a ausência de déficit no primeiro exame não exclui instabilidade. Manobras de teste ativo ou passivo do pescoço são contraindicadas. A tendência atual privilegia a restrição do movimento com colar cervical e transferência em bloco, com uso criterioso da prancha rígida, que é dispositivo de transferência e não de transporte prolongado, pelo risco de lesão por pressão.",
+  "porAlt": [
+   "Testar a flexão cervical é contraindicado, pois pode converter lesão óssea instável em lesão medular.",
+   "Aguardar radiografias no pré-hospitalar é inviável e retarda perigosamente o cuidado da vítima.",
+   "A ausência de déficit motor não exclui instabilidade: o mecanismo de trauma já indica a restrição.",
+   "Correta: restringir o movimento da coluna desde o primeiro contato, mantendo o alinhamento neutro.",
+   "O decúbito lateral não é a posição de transporte indicada na suspeita de trauma raquimedular."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Securitária, qual é o objeto central da avaliação do dano corporal pelo perito?",
+  "alts": [
+   "Quantificar as sequelas anatômicas e funcionais decorrentes do evento, formulando relatório fundamentado",
+   "Estabelecer a culpa do condutor envolvido no sinistro, atribuindo responsabilidade civil pelo evento ocorrido",
+   "Definir o valor monetário da indenização devida à vítima, substituindo a decisão do juízo competente",
+   "Identificar o tratamento médico mais adequado à vítima, prescrevendo a reabilitação a ser seguida por ela",
+   "Determinar a velocidade do veículo no momento do impacto, a partir da gravidade das lesões observadas"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "Objeto da avaliação do dano corporal",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Securitária (avaliação do dano corporal, relatórios, tabelas e baremos).",
+  "coment": "A avaliação do dano corporal tem por objeto quantificar as sequelas anatômicas e funcionais decorrentes do evento e traduzi-las em relatório fundamentado, valendo-se de tabelas ou baremos — instrumentos que atribuem percentuais a segmentos orgânicos e corporais, como faz a tabela anexa à Lei nº 6.194/1974. O perito descreve e gradua; não julga culpa, que é matéria jurídica, nem arbitra o valor final da indenização, que decorre da aplicação do percentual apurado às regras do contrato ou da lei. Também não lhe cabe assumir o papel do médico assistente prescrevendo tratamento, nem estimar a dinâmica do sinistro, objeto de perícia de engenharia. O conteúdo programático do edital detalha os campos avaliados: danos neurológicos, ortopédicos, psiquiátricos, de membros inferiores, estéticos e do sistema cutâneo, entre outros.",
+  "porAlt": [
+   "Correta: quantificar sequelas anatômicas e funcionais e traduzi-las em relatório fundamentado.",
+   "A atribuição de culpa é matéria jurídica e não integra o objeto da avaliação médica do dano corporal.",
+   "O perito apura o grau da sequela; o valor final decorre da aplicação das regras legais ou contratuais.",
+   "Prescrever tratamento é papel do médico assistente, distinto da função pericial de avaliar o dano.",
+   "A reconstituição da dinâmica do sinistro é objeto de perícia de engenharia, não de avaliação médica."
+  ]
+ },
+ {
+  "q": "Segundo a Lei nº 6.194/1974, o seguro DPVAT contemplava as despesas de atendimento médico realizado em estabelecimento credenciado ao Sistema Único de Saúde?",
+  "alts": [
+   "Não, sendo vedado o pagamento de qualquer indenização nesses casos, mesmo se em caráter privado",
+   "Sim, com reembolso integral das despesas comprovadas, independentemente do estabelecimento utilizado",
+   "Sim, desde que o atendimento tenha ocorrido em caráter privado dentro do estabelecimento credenciado",
+   "Não, salvo quando o atendimento tenha sido prestado em unidade de terapia intensiva do hospital",
+   "Sim, com reembolso limitado à metade do teto previsto para as despesas de assistência médica"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "Vedação de reembolso em atendimento pelo SUS",
+  "base": "Lei nº 6.194/1974, art. 3º, §2º (incluído pela Medida Provisória nº 451/2008).",
+  "coment": "O §2º do art. 3º é expresso: o seguro não contempla as despesas decorrentes do atendimento médico ou hospitalar efetuado em estabelecimento ou em hospital CREDENCIADO AO SUS, MESMO QUE EM CARÁTER PRIVADO, sendo vedado o pagamento de qualquer indenização nesses casos. A razão é evitar a dupla remuneração pelo mesmo atendimento, já que o hospital credenciado é remunerado pelo próprio sistema público. A cobertura de despesas de assistência médica e suplementares, limitada a R$ 2.700,00, operava por REEMBOLSO à vítima, mediante comprovação — diferentemente da indenização por morte, de valor fixo, e da indenização por invalidez permanente, apurada por enquadramento na tabela anexa e graduada conforme a repercussão da perda.",
+  "porAlt": [
+   "Correta: a lei veda expressamente o pagamento de indenização nessa hipótese, mesmo em caráter privado.",
+   "O reembolso não é integral nem indiferente ao estabelecimento: há vedação legal específica no caso.",
+   "A ressalva do caráter privado é justamente o que a lei afasta ao vedar o pagamento nessa hipótese.",
+   "A vedação não comporta a exceção da terapia intensiva mencionada, sendo aplicável de forma ampla.",
+   "Não há previsão de reembolso parcial: a lei veda qualquer indenização na hipótese descrita no enunciado."
+  ]
+ }
+]
