@@ -1604,5 +1604,335 @@ window.BANCO=[
 "A oximetria de pulso não integra os procedimentos exigidos na avaliação cardiorrespiratória do anexo.",
 "A ausculta pulmonar é exigida, mas a norma não determina esse registro específico no laudo pericial."
 ]
+},
+{
+"q": "Segundo a Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária', qual é aproximadamente a probabilidade de morte de um pedestre atropelado a 30 km/h e a 50 km/h, respectivamente?",
+"alts": [
+"Cerca de 35% a 30 km/h e acima de 60% a 50 km/h, evidenciando a escalada linear da energia cinética envolvida",
+"Cerca de 5% a 30 km/h e cerca de 25% a 50 km/h, o que demonstra tolerância humana ampla nessas velocidades",
+"Cerca de 10% a 30 km/h e acima de 80% a 50 km/h, evidenciando a escalada exponencial da energia cinética",
+"Cerca de 50% a 30 km/h e praticamente 100% a 50 km/h, o que torna letal qualquer atropelamento urbano",
+"Cerca de 10% a 30 km/h e cerca de 20% a 50 km/h, faixa em que a proteção do pedestre segue preservada"
+],
+"gab": 2,
+"tema": "protecao",
+"sub": "Curva de letalidade do pedestre",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos: implicações para a segurança viária' (2025), tabela de probabilidade por velocidade de impacto.",
+"coment": "A diretriz apresenta a curva de letalidade do pedestre por velocidade de impacto: 20 km/h — menos de 5% de morte e 10% de lesão grave; 30 km/h — 10% e 25%; 40 km/h — 35% e 50%; 50 km/h — 80% e 95%; 60 km/h — mais de 90% e cerca de 100%. Em outra passagem, com os valores usados por OMS, OCDE/ITF, SWOV e NHTSA, a probabilidade de morte é de aproximadamente 10% a 30 km/h, 50% a 45 km/h e acima de 80% a 50 km/h — sendo ainda mais críticos para idosos e crianças. É esse salto entre 30 e 50 km/h que fundamenta a recomendação de limites de 30 km/h em áreas com pedestres e ciclistas: a energia liberada cresce exponencialmente com a velocidade e, ao ultrapassar os limites biomecânicos do corpo humano, torna a sobrevivência improvável.",
+"porAlt": [
+"O crescimento é exponencial, e não linear, e os valores não correspondem aos da tabela da diretriz.",
+"Os valores estão muito subestimados: a 50 km/h a letalidade do pedestre já supera oitenta por cento.",
+"Correta: cerca de 10% a 30 km/h e mais de 80% a 50 km/h, com crescimento exponencial da energia.",
+"A letalidade a 30 km/h é de cerca de 10%, e não de metade dos pedestres atropelados nessa velocidade.",
+"O valor para 50 km/h está muito abaixo do descrito, que ultrapassa oitenta por cento de mortalidade."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, qual é a distância TOTAL de parada de um veículo a 50 km/h, somando a distância percorrida durante o tempo de reação e a distância de frenagem?",
+"alts": [
+"Cerca de 18 metros, sendo aproximadamente 12 metros no tempo de reação e 6 metros de frenagem efetiva",
+"Cerca de 41 metros, sendo aproximadamente 21 metros no tempo de reação e 20 metros de frenagem efetiva",
+"Cerca de 28 metros, sendo aproximadamente 17 metros no tempo de reação e 11 metros de frenagem efetiva",
+"Cerca de 58 metros, sendo aproximadamente 25 metros no tempo de reação e 33 metros de frenagem efetiva",
+"Cerca de 86 metros, sendo aproximadamente 33 metros no tempo de reação e 53 metros de frenagem efetiva"
+],
+"gab": 1,
+"tema": "protecao",
+"sub": "Distância de parada por velocidade",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025), tabela de distância de parada.",
+"coment": "A tabela de distâncias da diretriz é altamente cobrável porque explicita que a distância de frenagem cresce muito mais rápido que a de reação. Os valores são: 30 km/h — 12 m de reação, 6 m de frenagem, 18 m no total; 40 km/h — 17 m, 11 m e 28 m; 50 km/h — 21 m, 20 m e 41 m; 60 km/h — 25 m, 33 m e 58 m; 80 km/h — 33 m, 53 m e 86 m. Repare que, ao dobrar a velocidade de 30 para 60 km/h, a distância de reação apenas dobra (12 para 25 m), mas a de frenagem quintuplica (6 para 33 m) — porque a energia cinética varia com o quadrado da velocidade. Esse é o argumento biomecânico central para a gestão científica da velocidade defendida pela diretriz.",
+"porAlt": [
+"Os valores de 12, 6 e 18 metros correspondem à velocidade de 30 km/h na tabela apresentada.",
+"Correta: a 50 km/h são cerca de 21 metros de reação mais 20 de frenagem, totalizando 41 metros.",
+"Os valores de 17, 11 e 28 metros correspondem à velocidade de 40 km/h na tabela apresentada.",
+"Os valores de 25, 33 e 58 metros correspondem à velocidade de 60 km/h na tabela apresentada.",
+"Os valores de 33, 53 e 86 metros correspondem à velocidade de 80 km/h na tabela apresentada."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, a energia cinética de um motociclista de 80 kg trafegando a 60 km/h equivale aproximadamente à:",
+"alts": [
+"Queda livre a partir de um edifício de cinco andares, o que explica a alta letalidade nessa velocidade",
+"Queda livre a partir de um edifício de dois andares, energia ainda compatível com a sobrevivência",
+"Queda livre a partir de um edifício de vinte andares, energia sempre incompatível com a sobrevivência",
+"Queda livre a partir da altura de um meio-fio urbano, energia facilmente absorvida pelo capacete usado",
+"Queda livre a partir de um edifício de dez andares, energia raramente compatível com a sobrevivência"
+],
+"gab": 0,
+"tema": "grupos",
+"sub": "Energia cinética do motociclista",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025), seção sobre motociclistas.",
+"coment": "A diretriz usa essa analogia para tornar tangível a energia envolvida: a 60 km/h, a energia cinética de um motociclista de 80 kg equivale à queda livre de um edifício de cinco andares. A comparação explica a alta letalidade do motociclista mesmo em velocidades intermediárias — ele não dispõe de estrutura deformável ao redor do corpo que absorva energia, ao contrário do ocupante de automóvel, protegido por zonas de deformação programada, cinto e airbag. A mesma diretriz registra que, em impactos entre veículos e bicicletas a aproximadamente 40 km/h, há alta probabilidade de traumatismo cranioencefálico grave mesmo com uso de capacete, e que em impactos acima de 50 km/h a probabilidade de TCE grave supera 70%.",
+"porAlt": [
+"Correta: a analogia da diretriz é com a queda livre de um edifício de cinco andares a 60 km/h.",
+"A analogia da diretriz envolve energia bem maior do que a de uma queda de dois andares apenas.",
+"A comparação apresentada pela diretriz é com cinco andares, e não com vinte andares de altura.",
+"A energia descrita é muito superior à de uma queda da altura de um meio-fio de via urbana.",
+"A analogia usada no texto da diretriz refere cinco andares, e não dez andares de altura."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET 'Segurança no transporte veicular de crianças — Parte II', qual dispositivo de retenção é indicado para criança de 2 anos e 14 kg, e como deve ser instalado?",
+"alts": [
+"Assento infantil tipo concha, instalado no sentido inverso ao da posição normal do banco do veículo",
+"Assento de elevação do tipo booster, ajustado ao banco traseiro e fixado com o cinto de três pontos",
+"Cinto de segurança de três pontos do próprio veículo, com a criança sentada no banco traseiro central",
+"Assento conversível semirreclinado, instalado com a face da criança voltada para trás do veículo",
+"Cadeirinha de segurança, instalada na posição vertical de frente para o painel, no banco traseiro"
+],
+"gab": 4,
+"tema": "protecao",
+"sub": "Seleção do dispositivo de retenção",
+"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3.",
+"coment": "A tabela 3 da diretriz organiza os dispositivos por massa, idade e estatura. Assento infantil (grupo de massa 0): até 9 kg e até 12 meses, instalado no sentido INVERSO ao da posição normal do banco, mantida a posição central do banco traseiro sempre que possível. Assento conversível (grupos 0 e 0+): até 13 kg e até 12 meses, acomodando crianças de peso maior que ainda não completaram 1 ano, com a face voltada para trás. Cadeirinha de segurança (grupos 0+ e I): de 9 kg a 18 kg, de 1 a 4 anos, instalada na posição VERTICAL DE FRENTE PARA O PAINEL, mantida a posição central do banco traseiro sempre que possível. Assento de elevação ou booster (grupos II e III): de 18 kg a 36 kg, de 4 a 10 anos, fixado com cinto de três pontos. Cinto do veículo: acima de 36 kg, mínimo de 1,45 m e a partir dos 10 anos. Com 2 anos e 14 kg, a criança está na faixa da cadeirinha.",
+"porAlt": [
+"O assento infantil tipo concha destina-se a crianças de até 9 kg e até doze meses de idade.",
+"O assento de elevação começa aos 18 kg e a partir dos 4 anos, faixa acima da criança do enunciado.",
+"O cinto do veículo isolado só é indicado acima de 36 kg, com 1,45 m e a partir dos dez anos.",
+"O assento conversível voltado para trás atende crianças de até 13 kg que ainda não completaram um ano.",
+"Correta: 14 kg e 2 anos correspondem à cadeirinha, voltada para o painel, no banco traseiro."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, a partir de que parâmetros a criança pode usar apenas o cinto de segurança do veículo, sem dispositivo de retenção específico?",
+"alts": [
+"Mais de 18 kg, estatura mínima de 1,20 m e idade a partir dos 7 anos, conforme a tabela da diretriz",
+"Mais de 25 kg, estatura mínima de 1,30 m e idade a partir dos 8 anos, conforme a tabela da diretriz",
+"Mais de 40 kg, estatura mínima de 1,50 m e idade a partir dos 12 anos, conforme a tabela da diretriz",
+"Mais de 30 kg, estatura mínima de 1,35 m e idade a partir dos 9 anos, conforme a tabela da diretriz",
+"Mais de 36 kg, estatura mínima de 1,45 m e idade a partir dos 10 anos, conforme a tabela da diretriz"
+],
+"gab": 4,
+"tema": "protecao",
+"sub": "Transição para o cinto do veículo",
+"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3.",
+"coment": "A tabela estabelece que o cinto de segurança do próprio veículo passa a ser suficiente acima de 36 kg, com estatura mínima de 1,45 m e a partir dos 10 anos de idade. A diretriz explica também o posicionamento correto: a faixa transversal deve passar sobre o ombro e diagonalmente pelo tórax, e a faixa subabdominal deve ficar apoiada nas saliências ósseas do quadril ou sobre a porção superior das coxas. Esse detalhe é a razão biomecânica da estatura mínima — em criança baixa demais, a faixa diagonal cruza o pescoço e a subabdominal sobe para o abdome, produzindo, na desaceleração, lesões de vísceras ocas e da coluna lombar (a chamada síndrome do cinto de segurança). O assento de elevação existe exatamente para reposicionar a criança até que ela alcance essa estatura.",
+"porAlt": [
+"Os 18 kg marcam o início da faixa do assento de elevação, e não a dispensa do dispositivo.",
+"Esses parâmetros não constam da tabela e ficariam aquém da estatura necessária ao cinto do veículo.",
+"Os parâmetros estão acima dos exigidos pela tabela, que fixa 36 kg, 1,45 m e dez anos de idade.",
+"Esses parâmetros não correspondem aos da tabela, que exige estatura mínima de um metro e quarenta e cinco.",
+"Correta: acima de 36 kg, com 1,45 m e a partir dos dez anos, o cinto do veículo já é suficiente."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, qual é a distribuição aproximada da probabilidade de ocorrência dos impactos frontal, lateral e traseiro?",
+"alts": [
+"Frontal cerca de 31%, lateral cerca de 65% e traseiro cerca de 3,5% das colisões que são registradas",
+"Frontal cerca de 45%, lateral cerca de 45% e traseiro cerca de 10% das colisões que são registradas",
+"Frontal cerca de 80%, lateral cerca de 15% e traseiro cerca de 5% das colisões que são registradas",
+"Frontal cerca de 65%, lateral cerca de 31% e traseiro cerca de 3,5% das colisões que são registradas",
+"Frontal cerca de 50%, lateral cerca de 25% e traseiro cerca de 25% das colisões que são registradas"
+],
+"gab": 3,
+"tema": "protecao",
+"sub": "Distribuição dos tipos de impacto",
+"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte I', Tabela 2.",
+"coment": "A diretriz apresenta a probabilidade de ocorrência por tipo de impacto: frontal 65%, lateral 31% e traseiro 3,5%. Esse dado é decisivo para responder ao principal contra-argumento sobre o banco traseiro. A diretriz reconhece que o acidente com impacto traseiro é a ÚNICA circunstância em que a criança transportada no banco de trás está mais exposta ao risco — mas justamente esse tipo de impacto responde por apenas 3,5% das colisões, enquanto frontais e laterais, nos quais o banco traseiro protege, somam 96%. Daí a recomendação categórica de transportar a criança atrás. A diretriz acrescenta que a segurança é ainda maior no CENTRO do banco traseiro, não havendo diferença significativa de risco entre os lados direito e esquerdo.",
+"porAlt": [
+"Os valores de frontal e lateral estão invertidos em relação aos apresentados pela diretriz médica.",
+"A distribuição não é equilibrada entre frontal e lateral, e o impacto traseiro é bem mais raro.",
+"O impacto frontal não chega a oitenta por cento, e o lateral é bem mais frequente que quinze por cento.",
+"Correta: frontal 65%, lateral 31% e traseiro 3,5%, conforme a tabela da diretriz médica.",
+"O impacto traseiro é muito mais raro do que o afirmado, respondendo por apenas 3,5% das colisões."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, qual é o ganho de sobrevivência do transporte no banco traseiro para crianças de 1 a 4 anos e de 5 a 12 anos, respectivamente?",
+"alts": [
+"Cerca de 7% maior probabilidade de sobrevivência nas de 1 a 4 anos e cerca de 12% nas de 5 a 12 anos",
+"Cerca de 12% maior probabilidade de sobrevivência nas de 1 a 4 anos e cerca de 7% nas de 5 a 12 anos",
+"Cerca de 40% maior probabilidade de sobrevivência nas de 1 a 4 anos e cerca de 30% nas de 5 a 12 anos",
+"Cerca de 3% maior probabilidade de sobrevivência nas de 1 a 4 anos e cerca de 2% nas de 5 a 12 anos",
+"Cerca de 25% maior probabilidade de sobrevivência nas de 1 a 4 anos e cerca de 20% nas de 5 a 12 anos"
+],
+"gab": 1,
+"tema": "protecao",
+"sub": "Benefício do banco traseiro por faixa etária",
+"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte I'.",
+"coment": "A diretriz registra que, transportadas no banco traseiro, crianças de 1 a 4 anos têm 12% maior probabilidade de sobrevivência e as de 5 a 12 anos, 7%. Complementarmente: se estiverem utilizando dispositivo de retenção apropriado, terão o mais baixo risco de morte nos acidentes fatais; terão redução do risco de morte e ferimentos mesmo se NÃO estiverem utilizando esses dispositivos; e apresentarão menor risco de ferimentos graves e de necessidade de internação hospitalar. A Tabela 1 detalha ainda reduções de risco absoluto por estudo — por exemplo, 42% de redução de ferimentos em crianças que não utilizam sistema de retenção, e 26% de redução na morte de passageiros à direita.",
+"porAlt": [
+"Os valores estão invertidos entre as duas faixas etárias descritas pela diretriz médica citada.",
+"Correta: 12% para a faixa de 1 a 4 anos e 7% para a faixa de 5 a 12 anos, conforme a diretriz.",
+"Os valores estão muito acima dos descritos pela diretriz para o benefício do banco traseiro.",
+"Os valores estão muito abaixo dos descritos pela diretriz para o benefício do banco traseiro.",
+"Os valores estão acima dos apresentados na diretriz para essas duas faixas etárias específicas."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, qual é o risco específico de transportar criança no banco dianteiro de veículo equipado com airbag para o passageiro?",
+"alts": [
+"Crianças até 6 anos têm risco moderado de ferimentos leves, dispensando qualquer restrição etária",
+"Crianças acima de 10 anos correm o maior risco, por atingirem a altura da bolsa inflável",
+"Crianças de qualquer idade ficam mais protegidas, pois o airbag complementa o cinto de três pontos",
+"Crianças até 2 anos correm risco apenas quando transportadas de costas para o painel do veículo",
+"Crianças até 14 anos têm alto risco de ferimentos sérios em colisões frontais nessa posição"
+],
+"gab": 4,
+"tema": "protecao",
+"sub": "Airbag e criança no banco dianteiro",
+"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte I'.",
+"coment": "A diretriz alerta que atenção especial deve ser dada ao transporte de crianças em veículos dotados de airbag para o passageiro: a abertura da bolsa inflável pode causar ferimentos graves em crianças sentadas no banco da frente, e, na ocorrência de colisões frontais, crianças ATÉ OS 14 ANOS têm alto risco de sofrer sérios ferimentos nessa posição. O mecanismo é a velocidade de deflagração do dispositivo, projetado para o tórax de um adulto: numa criança, de menor estatura e com esqueleto imaturo, a bolsa atinge preferencialmente a cabeça e o pescoço. Esse risco é especialmente grave quando o dispositivo de retenção está instalado no sentido inverso — o bebê-conforto voltado para trás fica diretamente na trajetória de abertura do airbag.",
+"porAlt": [
+"O risco não é moderado nem restrito aos seis anos: a diretriz o estende até os quatorze anos.",
+"O risco é maior nas crianças menores, não nas maiores, dada a desproporção com o dispositivo.",
+"O airbag foi dimensionado para o adulto e agrava, e não reduz, o risco da criança nessa posição.",
+"O risco alcança faixa etária muito mais ampla do que os dois primeiros anos de vida da criança.",
+"Correta: a diretriz aponta alto risco de ferimentos sérios em crianças até quatorze anos de idade."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, qual é a proporção aproximada da energia transferida ao corpo do pedestre que provém da velocidade, em colisões entre veículos e pedestres?",
+"alts": [
+"Cerca de 50% da energia transferida ao corpo do pedestre provém da velocidade do veículo envolvido",
+"Cerca de 90% da energia transferida ao corpo do pedestre provém da velocidade do veículo envolvido",
+"Cerca de 25% da energia transferida ao corpo do pedestre provém da velocidade do veículo envolvido",
+"Cerca de 10% da energia transferida ao corpo do pedestre provém da velocidade do veículo envolvido",
+"Cerca de 65% da energia transferida ao corpo do pedestre provém da velocidade do veículo envolvido"
+],
+"gab": 1,
+"tema": "protecao",
+"sub": "Peso da velocidade na energia do impacto",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025).",
+"coment": "A diretriz registra que, em colisões entre veículos e pedestres, cerca de 90% da energia transferida ao corpo provém da velocidade — o que decorre diretamente da física do problema, já que a energia cinética varia com o QUADRADO da velocidade e apenas linearmente com a massa. É esse fato que sustenta a tese central do documento: a velocidade é o fator isolado mais determinante da gravidade dos sinistros, e o gerenciamento da velocidade deve ser o pilar central de qualquer estratégia séria de prevenção. A diretriz observa ainda que traumatismos torácicos e cranianos fatais em pedestres se tornam especialmente frequentes acima de 40 km/h, e que veículos do tipo SUV, acima de 30 km/h, apresentam risco significativamente maior de lesões graves em pedestres em razão do desenho frontal mais alto e vertical.",
+"porAlt": [
+"O peso da velocidade é bem maior do que metade da energia transferida ao corpo do pedestre.",
+"Correta: cerca de 90% da energia transferida ao pedestre decorre da velocidade do veículo.",
+"O valor está muito abaixo do descrito: a velocidade responde pela quase totalidade da energia.",
+"O valor está muito abaixo do descrito pela diretriz para a contribuição da velocidade no impacto.",
+"O valor está abaixo do descrito, que aponta cerca de noventa por cento da energia transferida."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, os equipamentos de mobilidade individual autopropelidos (EMIA), como os patinetes elétricos, são regulados pela Resolução CONTRAN nº 996/2023 com quais limites de velocidade?",
+"alts": [
+"Máximo de 20 km/h em calçadas e de 32 km/h em ciclovias e ciclofaixas, permitidas as vias de trânsito rápido",
+"Máximo de 10 km/h em calçadas e de 25 km/h em ciclovias e ciclofaixas, vedadas apenas as rodovias federais",
+"Máximo de 6 km/h em calçadas e de 20 km/h em ciclovias e ciclofaixas, vedadas as vias de trânsito rápido",
+"Máximo de 6 km/h em calçadas e de 32 km/h em ciclovias e ciclofaixas, permitidas as rodovias estaduais",
+"Máximo de 15 km/h em calçadas e de 30 km/h em ciclovias e ciclofaixas, vedadas as vias de trânsito rápido"
+],
+"gab": 2,
+"tema": "grupos",
+"sub": "Patinetes elétricos e EMIA",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025), seção sobre EMIA; Resolução CONTRAN nº 996/2023.",
+"coment": "A diretriz descreve o EMIA como equipamento de propulsão elétrica de pequeno porte com velocidade máxima de fabricação não superior a 32 km/h, e resume as regras da Resolução CONTRAN nº 996/2023: velocidade máxima de 6 km/h em áreas de circulação de pedestres (calçadas) e de 20 km/h em ciclovias e ciclofaixas, proibida a circulação em vias de trânsito rápido e rodovias, com idade mínima de 16 anos. Do ponto de vista médico, a diretriz cita estudo observacional de hospital universitário alemão mostrando que, mesmo com limite de 20 km/h, usuários de patinetes apresentaram proporção significativamente maior de lesões graves de cabeça, e destaca que reduzir a velocidade do patinete de 25 para 15 km/h pode fazer o risco de traumatismo cranioencefálico em pedestres cair pela metade.",
+"porAlt": [
+"Os limites estão muito acima dos previstos, e a circulação em vias rápidas é expressamente vedada.",
+"Os limites não correspondem aos da resolução, e a vedação não se restringe às rodovias federais.",
+"Correta: 6 km/h em calçadas, 20 km/h em ciclovias e ciclofaixas, vedadas vias rápidas e rodovias.",
+"O limite em ciclovias é de 20 km/h; 32 km/h é a velocidade máxima de fabricação do equipamento.",
+"Os limites estão acima dos previstos pela resolução para calçadas e para ciclovias e ciclofaixas."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, em impactos entre veículos e bicicletas a aproximadamente 40 km/h, o que se observa quanto ao traumatismo cranioencefálico?",
+"alts": [
+"Há baixa probabilidade de TCE grave quando o ciclista utiliza capacete, que absorve toda a energia",
+"Há alta probabilidade de TCE grave apenas quando o ciclista não utiliza capacete durante o trajeto",
+"Há alta probabilidade de TCE grave mesmo quando o ciclista utiliza capacete, pela magnitude da energia",
+"Há probabilidade desprezível de TCE em qualquer situação, pela baixa massa envolvida na bicicleta",
+"Há alta probabilidade de TCE leve, sendo excepcionais as lesões encefálicas graves nessa velocidade"
+],
+"gab": 2,
+"tema": "grupos",
+"sub": "Ciclistas e limites do capacete",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025), seção sobre ciclistas.",
+"coment": "A diretriz é explícita ao afirmar que, em impactos entre veículos e bicicletas a aproximadamente 40 km/h, há alta probabilidade de traumatismo cranioencefálico grave MESMO quando o ciclista utiliza capacete, devido à magnitude da energia envolvida. O ponto é conceitualmente importante: o capacete reduz a gravidade das lesões, mas não é um passe livre — ele foi projetado para dissipar a energia de quedas e impactos de baixa velocidade, não a de uma colisão com veículo motorizado em velocidade urbana média. É por isso que a diretriz insiste que a proteção do ciclista depende sobretudo da gestão da velocidade e da infraestrutura cicloviária segregada, e não apenas do equipamento individual de proteção.",
+"porAlt": [
+"O capacete atenua, mas não absorve toda a energia de uma colisão com veículo a essa velocidade.",
+"A diretriz afirma o risco elevado mesmo na presença do capacete, e não apenas na sua ausência.",
+"Correta: mesmo com capacete a probabilidade de TCE grave é alta nessa faixa de velocidade.",
+"A energia envolvida é elevada porque provém sobretudo da velocidade do veículo, e não da bicicleta.",
+"A diretriz descreve alta probabilidade de lesão GRAVE, e não de traumatismo cranioencefálico leve."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, em impactos acima de 50 km/h a probabilidade de traumatismo cranioencefálico grave:",
+"alts": [
+"Situa-se em torno de 20%, sendo raras as lesões axonais difusas descritas na literatura consultada",
+"Situa-se em torno de 40%, com predomínio de fraturas cranianas simples sem repercussão encefálica",
+"Supera 95%, sendo praticamente impossível a sobrevivência do ocupante em qualquer circunstância",
+"Supera 70%, com predomínio de hematomas subdurais e lesões axonais difusas nos casos descritos",
+"Situa-se em torno de 55%, com predomínio de concussões leves e ausência de lesões estruturais"
+],
+"gab": 3,
+"tema": "protecao",
+"sub": "TCE grave por velocidade de impacto",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025).",
+"coment": "A diretriz registra que, em impactos acima de 50 km/h, a probabilidade de traumatismo cranioencefálico grave supera 70%, com predomínio de hematomas subdurais e lesões axonais difusas. O mecanismo explica o padrão de lesão: nessas velocidades a desaceleração é tão abrupta que o encéfalo, com inércia própria, desliza em relação à calota craniana, rompendo veias-ponte (hematoma subdural) e produzindo cisalhamento da substância branca nas interfaces de densidade diferente (lesão axonal difusa). São exatamente as lesões de pior prognóstico funcional, frequentemente incompatíveis com o retorno à condução veicular — o que fecha o círculo entre a prevenção primária, defendida pela diretriz, e a avaliação pericial de aptidão que o especialista fará depois.",
+"porAlt": [
+"O valor está muito abaixo do descrito, e as lesões axonais difusas são justamente predominantes.",
+"O valor está abaixo do descrito, e o padrão predominante não é o de fraturas cranianas simples.",
+"A diretriz aponta risco superior a 70%, sem afirmar impossibilidade absoluta de sobrevivência.",
+"Correta: acima de 50 km/h o risco de TCE grave supera 70%, com subdurais e lesão axonal difusa.",
+"O valor está abaixo do descrito, e o padrão predominante envolve lesões estruturais, não concussões."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, qual é a posição MAIS segura para o transporte da criança dentro do veículo?",
+"alts": [
+"O centro do banco traseiro, sem diferença significativa de risco entre os lados direito e esquerdo",
+"O lado direito do banco traseiro, por ficar mais distante do fluxo oposto em colisões frontais",
+"O lado esquerdo do banco traseiro, por permitir vigilância direta pelo condutor durante o trajeto",
+"O banco dianteiro do passageiro, desde que o airbag correspondente esteja previamente desativado",
+"O centro do banco dianteiro, em veículos que dispõem de três lugares na fileira frontal de assentos"
+],
+"gab": 0,
+"tema": "protecao",
+"sub": "Posição mais segura no veículo",
+"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte I'.",
+"coment": "A diretriz afirma que a segurança é ainda maior quando a criança é transportada no CENTRO do banco traseiro, não havendo diferença significativa de risco entre o posicionamento nos lados direito ou esquerdo desse banco. A vantagem do centro é geométrica: é a posição mais distante de qualquer superfície de intrusão em colisões laterais, que respondem por 31% dos impactos. Uma ressalva prática importante, porém, é que o assento central de muitos veículos dispõe apenas de cinto subabdominal de dois pontos, insuficiente para fixar corretamente o assento de elevação, que a própria diretriz manda fixar com cinto de três pontos — de modo que a escolha do centro depende de haver ancoragem adequada naquele veículo específico.",
+"porAlt": [
+"Correta: o centro do banco traseiro é o mais seguro, sem diferença relevante entre os dois lados.",
+"A diretriz não encontra diferença significativa de risco entre o lado direito e o lado esquerdo.",
+"A vigilância pelo condutor não é critério de segurança adotado pela diretriz para essa escolha.",
+"O banco dianteiro é desaconselhado para a criança, mesmo com o airbag do passageiro desativado.",
+"O banco dianteiro central não é recomendado, pois a criança deve ser transportada atrás."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, o assento infantil tipo concha instalado no sentido inverso ao da posição normal do banco protege principalmente contra:",
+"alts": [
+"Traumas do abdome, ao concentrar as forças do impacto frontal sobre as saliências ósseas do quadril",
+"Traumas de membros inferiores, ao impedir a projeção das pernas contra o painel durante a colisão",
+"Traumas torácicos, ao permitir que o cinto de três pontos apoie diretamente sobre o esterno infantil",
+"Traumas da coluna cervical, ao distribuir as forças do impacto frontal por ampla superfície corporal",
+"Traumas faciais, ao afastar a cabeça da criança da zona de abertura do airbag frontal do passageiro"
+],
+"gab": 3,
+"tema": "protecao",
+"sub": "Biomecânica do assento voltado para trás",
+"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', item 2.1.",
+"coment": "A diretriz explica que, enquanto a criança não conseguir sentar-se e manter o equilíbrio da cabeça, deve ser usado assento tipo concha instalado com leve inclinação no sentido INVERSO ao da posição normal do banco do veículo — o que evita que a cabeça seja submetida a impactos em caso de freadas e colisões, DIMINUINDO O RISCO DE TRAUMAS DA COLUNA CERVICAL. E acrescenta o mecanismo: nos impactos frontais, as forças serão distribuídas pela maior parte da superfície corporal. O fundamento é a desproporção cefálica do lactente, cuja cabeça representa fração muito maior da massa corporal do que no adulto, sobre um pescoço com musculatura e ligamentos imaturos. O dispositivo é usado desde o nascimento até a criança completar um ano e atingir aproximadamente 9 kg.",
+"porAlt": [
+"A concentração de forças sobre o quadril descreve o cinto subabdominal, não o assento voltado para trás.",
+"A proteção de membros inferiores não é o fundamento biomecânico apresentado pela diretriz médica.",
+"O cinto de três pontos apoiado no esterno descreve a fase posterior, do cinto do próprio veículo.",
+"Correta: protege a coluna cervical distribuindo as forças do impacto por ampla superfície corporal.",
+"O afastamento do airbag é consequência de transportar atrás, e não a razão da instalação invertida."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, veículos do tipo SUV apresentam risco significativamente maior de provocar lesões graves em pedestres a partir de que faixa de velocidade, e por qual razão?",
+"alts": [
+"Acima de 30 km/h, em razão do desenho frontal mais alto e vertical desses veículos utilitários",
+"Acima de 60 km/h, em razão da maior massa desses veículos em comparação com automóveis comuns",
+"Acima de 80 km/h, em razão da menor eficiência dos freios desses veículos em pisos molhados",
+"Acima de 15 km/h, em razão do maior raio de giro desses veículos em manobras urbanas lentas",
+"Acima de 45 km/h, em razão da menor visibilidade lateral proporcionada por esses veículos ao condutor"
+],
+"gab": 0,
+"tema": "protecao",
+"sub": "Desenho frontal e risco ao pedestre",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025).",
+"coment": "A diretriz registra que, em velocidades moderadas, acima de 30 km/h, os SUVs apresentam risco significativamente maior de provocar lesões graves em pedestres devido ao DESENHO FRONTAL. A explicação biomecânica é o ponto de contato: no automóvel de perfil baixo, o para-choque atinge a perna e o pedestre tende a ser projetado sobre o capô, com o corpo absorvendo energia progressivamente; no SUV, de frente alta e vertical, o impacto inicial atinge a pelve ou o tórax e o pedestre é projetado para a frente e para baixo, sob o veículo, com risco de atropelamento secundário. É um exemplo de como o parque veicular — e não apenas o comportamento do condutor — condiciona a gravidade dos sinistros, tema que a diretriz relaciona à frota heterogênea dos países de baixa e média renda.",
+"porAlt": [
+"Correta: acima de 30 km/h, e a razão apontada é o desenho frontal mais alto e vertical do veículo.",
+"A massa contribui, mas a razão que a diretriz destaca é o desenho frontal, e a faixa é bem menor.",
+"A eficiência de frenagem não é o fator apontado, e a faixa de velocidade está muito acima da descrita.",
+"O raio de giro não guarda relação com a gravidade das lesões produzidas no pedestre atropelado.",
+"A visibilidade lateral não é o fator citado, e a faixa de velocidade não corresponde à da diretriz."
+]
 }
 ];
