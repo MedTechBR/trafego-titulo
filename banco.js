@@ -2816,6 +2816,270 @@ window.BANCO=[
 ]
 },
 {
+"q": "Candidato à categoria E apresenta acuidade visual de 20/30 no olho direito e 20/30 no esquerdo, visão binocular de 20/30 e campo horizontal de 130º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, ele atende ao exigido?",
+"alts": [
+"Sim, pois a acuidade de 20/30 em cada olho já satisfaz integralmente o padrão dessas categorias",
+"Sim, pois o campo visual de 130º em cada olho compensa a binocularidade aquém do padrão exigido",
+"Não, pois a visão binocular exigida é de no mínimo 20/25 nas categorias C, D e E pretendidas",
+"Não, pois a acuidade exigida em cada olho nessas categorias é de no mínimo 20/25 monocular",
+"Sim, pois a binocularidade só é exigida dos candidatos que apresentem estrabismo ou ambliopia"
+],
+"gab": 2,
+"tema": "oftalmo",
+"sub": "Visão binocular nas categorias C, D e E",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.1.1.",
+"coment": "Para as categorias C, D e E, o item 1.1.1 exige TRÊS parâmetros simultâneos: acuidade visual central igual ou superior a 20/30 em cada olho (ou 20/30 em um e ao menos 20/40 no outro); VISÃO BINOCULAR MÍNIMA de 20/25; e campo horizontal de pelo menos 120º em cada olho. O candidato do enunciado cumpre a acuidade monocular e o campo, mas falha na binocularidade — 20/30 é inferior a 20/25. A binocularidade é o parâmetro mais esquecido do anexo, exatamente por não existir na exigência das categorias A e B, e não é compensável por bom campo visual. A conduta é encaminhar para avaliação oftalmológica: sendo corrigível, inaptidão temporária; não sendo, avaliar as categorias A e B, cujo piso é 20/40 em cada olho.",
+"porAlt": [
+"A acuidade monocular está adequada, mas a norma exige também a binocularidade mínima de 20/25.",
+"O campo visual é exigência somada, e não um parâmetro capaz de compensar a binocularidade.",
+"Correta: a binocularidade mínima de 20/25 não é atingida, e ela é exigência autônoma dessas categorias.",
+"A acuidade monocular exigida é de 20/30, e não de 20/25, que é o valor da visão binocular.",
+"A binocularidade é exigida de todos os candidatos às categorias C, D e E, sem essa restrição."
+]
+},
+{
+"q": "Segundo o Anexo III da Resolução CONTRAN nº 927/2022, qual referência bibliográfica é citada para o cálculo da média audiométrica utilizada na avaliação do candidato?",
+"alts": [
+"Snellen, de 1862, para a média das frequências de 500, 1000 e 2000 Hz medidas pela via aérea",
+"Davis e Silverman, de 1970, para a média das frequências de 500, 1000 e 2000 Hz da via aérea",
+"Mallampati, de 1985, para a média das frequências de 500, 1000 e 2000 Hz medidas pela via óssea",
+"Epworth, de 1991, para a média das frequências de 250, 500 e 1000 Hz medidas pela via aérea",
+"Hohen e Yahr, de 1967, para a média das frequências de 1000, 2000 e 4000 Hz da via aérea"
+],
+"gab": 1,
+"tema": "orl",
+"sub": "Referência do cálculo audiométrico",
+"base": "Resolução CONTRAN nº 927/2022, Anexo III, item 1.4.",
+"coment": "O item 1.4 do Anexo III é literal ao citar a referência: os candidatos com média aritmética em decibéis nas frequências de 500, 1000 e 2000 Hz da VIA AÉREA (Davis & Silverman, 1970) na orelha MELHOR que apresentarem perda inferior a 40 dB serão considerados aptos para qualquer categoria. As demais referências citadas na alternativa pertencem a outros instrumentos da mesma Resolução: Snellen é a tabela de optotipos da avaliação oftalmológica; Mallampati é o índice do Anexo XII, usado no rastreamento de distúrbios do sono; Epworth é a escala de sonolência do Anexo XI; e Hoehn & Yahr é a escala de estadiamento adotada pela Diretriz ABRAMET de doença de Parkinson.",
+"porAlt": [
+"Snellen é a referência da tabela de optotipos usada na avaliação da acuidade visual do candidato.",
+"Correta: Davis e Silverman, 1970, para a média de 500, 1000 e 2000 Hz aferidas pela via aérea.",
+"Mallampati é o índice de visualização orofaríngea usado no rastreamento de distúrbios do sono.",
+"Epworth é a escala de sonolência do Anexo XI, e as frequências citadas também estão incorretas.",
+"Hoehn e Yahr é a escala de estadiamento da doença de Parkinson, sem relação com a audiometria."
+]
+},
+{
+"q": "Segundo o Anexo III da Resolução CONTRAN nº 927/2022, quem pode realizar a audiometria solicitada ao candidato reprovado na prova da voz coloquial?",
+"alts": [
+"Médico ou fonoaudiólogo, conforme as resoluções dos respectivos Conselhos Federais de cada profissão",
+"Exclusivamente médico otorrinolaringologista com título de especialista registrado no Conselho de Medicina",
+"Exclusivamente fonoaudiólogo, por ser o profissional habilitado para a realização de exames auditivos",
+"Exclusivamente o próprio médico perito examinador de trânsito da entidade credenciada pelo órgão",
+"Exclusivamente técnico em audiometria com registro no conselho profissional da respectiva categoria"
+],
+"gab": 0,
+"tema": "orl",
+"sub": "Quem realiza a audiometria",
+"base": "Resolução CONTRAN nº 927/2022, Anexo III, item 1.3.",
+"coment": "O item 1.3 estabelece que a audiometria deverá ser realizada por MÉDICO OU FONOAUDIÓLOGO, conforme estabelecido nas Resoluções dos Conselhos Federais de Medicina e de Fonoaudiologia, respectivamente. A norma não restringe a especialidade médica nem exclui o fonoaudiólogo, remetendo a competência às regras próprias de cada profissão. O fluxo completo do Anexo III é: prova da voz coloquial pelo perito; se reprovado, solicitação de audiometria tonal aérea; e então a decisão pelo corte de 40 dB na média de 500, 1000 e 2000 Hz da orelha melhor, com os desdobramentos de aptidão plena, inaptidão temporária, aptidão com prótese ou restrição às categorias A e B.",
+"porAlt": [
+"Correta: médico ou fonoaudiólogo, conforme as resoluções dos respectivos Conselhos Federais.",
+"A norma não restringe a realização ao otorrinolaringologista com título de especialista registrado.",
+"O fonoaudiólogo pode realizar o exame, mas a norma admite igualmente a realização por médico.",
+"O perito examinador aplica a prova da voz coloquial; a audiometria é exame complementar solicitado.",
+"A norma cita médico e fonoaudiólogo, não atribuindo a realização a técnico em audiometria."
+]
+},
+{
+"q": "Candidato permanece com média audiométrica de 45 dB na orelha melhor mesmo após tratamento e uso de prótese. Qual é a condição adicional exigida pelo Anexo III da Resolução CONTRAN nº 927/2022 quanto ao veículo?",
+"alts": [
+"O veículo deverá estar equipado com sensor de proximidade traseiro e câmera de ré instalada de fábrica",
+"O veículo deverá estar equipado com alerta sonoro de mudança de faixa homologado pelo órgão de trânsito",
+"O veículo deverá estar equipado com transmissão automática, registrada com o código D na habilitação dele",
+"O veículo deverá estar equipado com para-brisa panorâmico ampliado que elimine os pontos cegos frontais",
+"O veículo deverá estar equipado com espelhos retrovisores nas laterais, além do exame otoneurológico normal"
+],
+"gab": 4,
+"tema": "orl",
+"sub": "Retrovisores laterais na perda auditiva",
+"base": "Resolução CONTRAN nº 927/2022, Anexo III, item 1.7.",
+"coment": "O item 1.7 trata da hipótese em que, mesmo após tratamento e/ou indicação de prótese auditiva, a perda permanece igual ou superior a 40 dB na média de 500, 1000 e 2000 Hz da via aérea na orelha melhor. Nesse caso, o candidato somente poderá dirigir veículos enquadrados na ACC e nas categorias A e B, COM EXAME OTONEUROLÓGICO NORMAL, e os veículos por ele dirigidos, não passíveis de correção, DEVERÃO ESTAR EQUIPADOS COM ESPELHOS RETROVISORES NAS LATERAIS. A lógica é compensar a perda auditiva com informação visual: quem não escuta a buzina ou a sirene precisa ampliar o campo de visão sobre o entorno do veículo.",
+"porAlt": [
+"Sensor de proximidade e câmera de ré não são as exigências previstas no texto do anexo citado.",
+"O alerta sonoro seria inútil justamente para quem apresenta perda auditiva significativa residual.",
+"A transmissão automática atende a limitação motora, e não à perda auditiva do candidato avaliado.",
+"O para-brisa panorâmico não é a exigência prevista pela norma para essa situação específica.",
+"Correta: espelhos retrovisores nas laterais, somados ao exame otoneurológico normal do candidato."
+]
+},
+{
+"q": "Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, como é avaliada a coordenação do candidato?",
+"alts": [
+"Por meio da dinamometria manual bilateral, com valores mínimos definidos conforme a categoria",
+"Por meio da pesquisa dos reflexos miotáticos com martelo, item obrigatório da entidade credenciada",
+"Por meio da sensibilidade cinético-postural e vibratória, avaliadas em membros superiores e inferiores",
+"Por meio da avaliação da percepção visual de formas, espaços e objetos durante o exame realizado",
+"Por meio do equilíbrio estático e dinâmico, conforme o item específico do anexo que trata do tema"
+],
+"gab": 4,
+"tema": "locomotor",
+"sub": "Avaliação da coordenação",
+"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 1.2.",
+"coment": "O item 1.2 do Anexo VIII é curto e direto: a coordenação será avaliada através do EQUILÍBRIO ESTÁTICO E DINÂMICO. Cada uma das demais alternativas corresponde a outro item do mesmo anexo, o que torna a questão um bom teste de organização: a dinamometria integra a avaliação da FORÇA MUSCULAR (item 1.3, com pisos de 20 e 30 kgf conforme a categoria); os reflexos miotáticos são a MOBILIDADE REFLEXA (item 1.1.3); a sensibilidade cinético-postural e vibratória compõe a avaliação da SENSIBILIDADE superficial e profunda (item 1.4); e a percepção visual de formas, espaços e objetos pertence ao item de LINGUAGEM E PERCEPÇÕES (item 1.5.2).",
+"porAlt": [
+"A dinamometria integra a avaliação da força muscular, tratada em item distinto do mesmo anexo.",
+"Os reflexos miotáticos correspondem à mobilidade reflexa, e não à avaliação da coordenação motora.",
+"A sensibilidade cinético-postural e vibratória é objeto do item sobre sensibilidade do anexo.",
+"A percepção visual de formas e espaços pertence ao item de linguagem e percepções do anexo.",
+"Correta: a coordenação é avaliada pelo equilíbrio estático e dinâmico, conforme o item do anexo."
+]
+},
+{
+"q": "Candidato com deficiência física é avaliado pela Junta Médica Especial. Qual é o parâmetro que orienta a exigência de força na dinamometria nesse caso?",
+"alts": [
+"Mantém-se o piso de 20 kgf em cada mão, idêntico ao exigido dos demais candidatos às categorias A e B",
+"Mantém-se o piso de 30 kgf em cada mão, idêntico ao exigido dos demais candidatos às categorias C, D e E",
+"Reduz-se automaticamente à metade do piso previsto para a categoria pretendida pelo candidato avaliado",
+"Fica a critério da Junta Médica Especial, conforme prevê o próprio anexo da resolução em vigor no país",
+"Dispensa-se integralmente a dinamometria, por ser incompatível com a avaliação da pessoa com deficiência"
+],
+"gab": 3,
+"tema": "locomotor",
+"sub": "Dinamometria na pessoa com deficiência",
+"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 1.3.2.",
+"coment": "O item 1.3.2 é expresso: para o portador de deficiência física, os valores exigidos na dinamometria FICARÃO A CRITÉRIO DA JUNTA MÉDICA ESPECIAL. A razão é que a adaptação veicular muda a demanda de força necessária à condução segura — direção hidráulica, comandos manuais, empunhadura no volante e transmissão automática reduzem substancialmente o esforço exigido —, de modo que aplicar um piso fixo desenhado para o veículo convencional seria arbitrário e excludente. É coerente com o art. 4º, §§1º e 2º, que atribui o exame do candidato com deficiência física à Junta Médica Especial e manda seguir a NBR 14970 da ABNT, e com o art. 7º, que adapta também a avaliação psicológica às suas condições físicas.",
+"porAlt": [
+"O piso de 20 kgf é o dos demais candidatos e não se aplica automaticamente à pessoa com deficiência.",
+"O piso de 30 kgf é o das categorias profissionais e também não se aplica automaticamente aqui.",
+"A norma não prevê redução automática à metade, e sim a definição pela Junta Médica Especial.",
+"Correta: os valores ficam a critério da Junta Médica Especial, conforme o próprio texto do anexo.",
+"A dinamometria não é dispensada: seus valores é que passam a ser definidos pela Junta Especial."
+]
+},
+{
+"q": "Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, quais códigos correspondem às adaptações específicas de MOTOCICLETA?",
+"alts": [
+"As letras de A a F, incluindo lentes corretivas, prótese auditiva e comandos manuais adaptados",
+"As letras de M a S, incluindo pedal de câmbio, freio traseiro, manopla e carro lateral ou triciclo",
+"As letras de T a X, incluindo vedação de rodovias, vedação noturna e outras restrições diversas",
+"As letras de G a L, incluindo embreagem automatizada, acelerador manual e prolongadores de pedais",
+"As letras de C a H, incluindo acelerador à esquerda, transmissão automática e direção hidráulica"
+],
+"gab": 1,
+"tema": "locomotor",
+"sub": "Códigos de adaptação de motocicleta",
+"base": "Resolução CONTRAN nº 927/2022, Anexo XV.",
+"coment": "As letras M a S da tabela do Anexo XV cobrem as adaptações de veículos de duas rodas: M — motocicleta com pedal de câmbio adaptado; N — motocicleta com pedal do freio traseiro adaptado; O — motocicleta com manopla do freio dianteiro adaptada; P — motocicleta com manopla de embreagem adaptada; Q — motocicleta com carro lateral ou triciclo; R — motoneta com carro lateral ou triciclo; e S — motocicleta com automação de troca de marchas. As letras A e B tratam de lentes corretivas e prótese auditiva; de C a L, das adaptações de automóvel; e T, U e X são as restrições de via, de horário e as demais restrições.",
+"porAlt": [
+"As letras iniciais tratam de lentes, prótese auditiva e adaptações de automóvel, não de motocicleta.",
+"Correta: as letras de M a S cobrem as adaptações específicas de motocicleta e de motoneta.",
+"As letras finais são vedações de via e de horário, além do código genérico de outras restrições.",
+"As letras de G a L tratam de adaptações de automóvel, e não das específicas de motocicleta.",
+"As letras de C a H tratam de comandos e características de automóvel, não de veículos de duas rodas."
+]
+},
+{
+"q": "Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, qual restrição corresponde ao código T e em que situação clínica ela costuma ser aplicada?",
+"alts": [
+"Vedado dirigir após o pôr do sol, útil em limitações da visão noturna e da recuperação ao ofuscamento",
+"Vedado dirigir em rodovias e vias de trânsito rápido, útil em limitações que se agravam em alta velocidade",
+"Obrigatório o uso de lentes corretivas, útil sempre que a acuidade exigida for obtida com correção óptica",
+"Obrigatório o uso de prótese auditiva, útil quando a média audiométrica melhora abaixo de 40 decibéis",
+"Obrigatório o uso de veículo com direção hidráulica, útil em limitações de força de membros superiores"
+],
+"gab": 1,
+"tema": "locomotor",
+"sub": "Código T de restrição",
+"base": "Resolução CONTRAN nº 927/2022, Anexo XV.",
+"coment": "O código T corresponde a 'vedado dirigir em rodovias e vias de trânsito rápido'. É uma das duas restrições de natureza ambiental da tabela — a outra é o código U, 'vedado dirigir após o pôr do sol' — e ambas oferecem ao perito uma alternativa intermediária entre a aptidão plena e a inaptidão. O código T é útil quando a limitação do candidato se agrava com a velocidade e a demanda de reação rápida, situação típica de reduções discretas de campo visual, de tempo de reação ou de capacidade de processamento em idosos e em portadores de doenças neurológicas leves, preservando a mobilidade urbana sem expor o condutor ao ambiente de maior exigência.",
+"porAlt": [
+"A vedação de dirigir após o pôr do sol corresponde ao código U da tabela de restrições do anexo.",
+"Correta: o código T veda rodovias e vias de trânsito rápido, útil em limitações agravadas pela velocidade.",
+"O uso obrigatório de lentes corretivas corresponde ao código A da tabela do anexo da resolução.",
+"O uso obrigatório de prótese auditiva corresponde ao código B da tabela do anexo da resolução.",
+"O uso de veículo com direção hidráulica corresponde ao código F da tabela do anexo da resolução."
+]
+},
+{
+"q": "Qual norma técnica da ABNT rege a avaliação do candidato com deficiência física pela Junta Médica Especial, e qual rege a acessibilidade das instalações da entidade credenciada?",
+"alts": [
+"NBR 9050 para a avaliação do condutor com deficiência; NBR 14970 para a acessibilidade das instalações",
+"NBR 14970 para ambas as finalidades, sendo a única norma técnica citada na resolução vigente do CONTRAN",
+"NBR 14970 para a avaliação do condutor com deficiência; NBR 9050 para a acessibilidade das instalações",
+"NBR 9050 para ambas as finalidades, sendo a única norma técnica citada na resolução do CONTRAN vigente",
+"NBR 15570 para a avaliação do condutor com deficiência; NBR 9050 para a acessibilidade das instalações"
+],
+"gab": 2,
+"tema": "locomotor",
+"sub": "NBR 14970 versus NBR 9050",
+"base": "Resolução CONTRAN nº 927/2022, art. 4º, §2º, e art. 17, I, alínea b.",
+"coment": "São duas normas técnicas distintas citadas pela Resolução, e trocá-las é erro clássico. A NBR 14970 da ABNT rege a avaliação do condutor com deficiência física pelas Juntas Médicas Especiais (art. 4º, §2º) e trata da avaliação da dirigibilidade, das adaptações e da acessibilidade veicular. A NBR 9050 trata da acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos, e é exigida das INSTALAÇÕES das entidades credenciadas (art. 17, I, b), ao lado de licenças de funcionamento e sanitária e de recursos de informática com acesso à internet. As diretrizes ABRAMET de Parkinson e de esclerose múltipla também remetem à NBR 14970 quando encaminham o candidato à Junta Médica Especial.",
+"porAlt": [
+"As duas normas estão trocadas entre si em relação ao que a resolução efetivamente determina.",
+"São duas normas distintas: a resolução cita tanto a NBR 14970 quanto a NBR 9050 da ABNT.",
+"Correta: NBR 14970 para o condutor com deficiência e NBR 9050 para a acessibilidade das instalações.",
+"São duas normas distintas com finalidades diferentes dentro do texto da resolução do CONTRAN.",
+"A norma da avaliação do condutor com deficiência é a NBR 14970, e não a NBR 15570 citada."
+]
+},
+{
+"q": "Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a combinação alternativa de acuidade admitida para a ACC e as categorias A e B, quando um dos olhos tem desempenho superior?",
+"alts": [
+"20/30 em um dos olhos, com pelo menos 20/40 no olho contralateral do candidato que foi avaliado",
+"20/25 em um dos olhos, com pelo menos 20/50 no olho contralateral do candidato que foi avaliado",
+"20/20 em um dos olhos, sem qualquer exigência quanto ao olho contralateral do candidato avaliado",
+"20/30 em um dos olhos, com pelo menos percepção luminosa no olho contralateral do candidato",
+"20/40 em um dos olhos, com pelo menos percepção luminosa no olho contralateral do candidato"
+],
+"gab": 3,
+"tema": "oftalmo",
+"sub": "Combinação alternativa nas categorias A e B",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.2.1.",
+"coment": "O item 1.2.1 admite duas combinações para a ACC e as categorias A e B: acuidade visual central igual ou superior a 20/40 (0,50) em CADA um dos olhos; OU igual ou superior a 20/30 (0,66) em UM dos olhos, com pelo menos PERCEPÇÃO LUMINOSA (PL) no outro. A segunda combinação é bastante permissiva e reflete o reconhecimento de que a condução em categorias não profissionais pode ser feita com visão essencialmente monocular, desde que o olho dominante tenha bom desempenho. Não confundir com a combinação alternativa das categorias C, D e E (item 1.1.1), que exige 20/30 em um olho e pelo menos 20/40 no outro — muito mais rigorosa.",
+"porAlt": [
+"Essa combinação é a das categorias C, D e E, mais rigorosa que a das categorias A e B do documento.",
+"Esses valores não constam do texto da norma para nenhuma das categorias de habilitação previstas.",
+"A norma não dispensa qualquer exigência quanto ao olho contralateral do candidato examinado.",
+"Correta: 20/30 em um olho com pelo menos percepção luminosa no olho contralateral avaliado.",
+"O valor de 20/40 é o exigido em cada olho na primeira combinação, e não nessa via alternativa."
+]
+},
+{
+"q": "Um candidato com perda auditiva de 35 dB na média de 500, 1000 e 2000 Hz na orelha melhor, sem tratamento prévio, pretende a categoria D. Qual é a conduta?",
+"alts": [
+"Apto para qualquer categoria, pois a perda é inferior a 40 dB na média da via aérea da orelha melhor",
+"Inapto temporário, pois qualquer perda auditiva detectada exige tratamento antes da liberação pericial",
+"Apto restrito às categorias A e B, pois a perda auditiva veda as categorias de transporte profissional",
+"Apto com a observação de uso obrigatório de prótese auditiva registrada na habilitação do candidato",
+"Inapto definitivo para a categoria D, pois a perda auditiva impede o transporte coletivo de passageiros"
+],
+"gab": 0,
+"tema": "orl",
+"sub": "Perda auditiva abaixo do limiar",
+"base": "Resolução CONTRAN nº 927/2022, Anexo III, item 1.4.",
+"coment": "O item 1.4 é o critério de aptidão plena: os candidatos com média aritmética nas frequências de 500, 1000 e 2000 Hz da via aérea, na orelha MELHOR, que apresentarem perda INFERIOR a 40 dB serão considerados aptos para a condução de veículo em QUALQUER CATEGORIA. Com 35 dB o candidato está abaixo do limiar e é apto para a categoria D, sem restrição por esse motivo e sem exigência de prótese — a observação do código B só entra quando a média cai abaixo de 40 dB graças ao uso da prótese. Note que a norma trabalha sempre com a ORELHA MELHOR: uma perda profunda unilateral, com a outra orelha preservada, não impede a aptidão plena pelo critério audiométrico.",
+"porAlt": [
+"Correta: abaixo de 40 dB na média da orelha melhor, o candidato é apto para qualquer categoria.",
+"A inaptidão temporária começa em 40 dB ou mais; abaixo disso não há reprovação por esse critério.",
+"A restrição às categorias A e B aplica-se a quem permanece com 40 dB ou mais após tratamento.",
+"A observação de prótese só é registrada quando a média cai abaixo de 40 dB graças ao seu uso.",
+"Não há inaptidão definitiva por perda auditiva nesse patamar, que está abaixo do limiar da norma."
+]
+},
+{
+"q": "Qual é o significado prático da exigência de que o campo visual seja medido na ISÓPTERA HORIZONTAL, conforme o Anexo II da Resolução CONTRAN nº 927/2022?",
+"alts": [
+"Mede-se a extensão do campo no plano horizontal, o mais relevante para a percepção do tráfego lateral",
+"Mede-se a extensão do campo no plano vertical, o mais relevante para a leitura da sinalização suspensa",
+"Mede-se a área total do campo visual somando todos os planos, sem privilegiar qualquer direção específica",
+"Mede-se apenas o campo central de dez graus, região de maior densidade de cones na retina examinada",
+"Mede-se a diferença entre o campo do olho direito e o do esquerdo, para estimar a visão binocular obtida"
+],
+"gab": 0,
+"tema": "oftalmo",
+"sub": "Isóptera horizontal",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.2, 1.2.2 e 2.1.2.",
+"coment": "A isóptera horizontal é a linha que delimita a extensão do campo visual no plano HORIZONTAL, e é justamente esse plano que importa para a tarefa de dirigir: nele estão os veículos que se aproximam pelas laterais, os pedestres que entram na via, as motocicletas que ultrapassam pelo corredor e o tráfego em cruzamentos. A norma exige 120º em cada olho para as categorias C, D e E; 60º em cada olho, ou 120º em um deles, para a ACC e as categorias A e B; e 120º em pelo menos um olho nos casos de estrabismo e de ausência de percepção luminosa unilateral. A perda de campo periférico é especialmente perigosa por ser silenciosa: o condutor não percebe o que não vê.",
+"porAlt": [
+"Correta: mede-se o campo no plano horizontal, o mais relevante para perceber o tráfego lateral.",
+"O plano vertical não é o adotado pela norma, que se refere expressamente à isóptera horizontal.",
+"A norma não pede a área total somando todos os planos, e sim a extensão no plano horizontal.",
+"O campo central de dez graus não é o parâmetro exigido pela norma para a habilitação do candidato.",
+"A isóptera horizontal não mede diferença entre olhos, que é objeto da avaliação da binocularidade."
+]
+},
+{
 "q": "Segundo o art. 9º da Resolução CONTRAN nº 927/2022, quais são os resultados possíveis da avaliação psicológica do candidato à habilitação?",
 "alts": [
 "Apto, apto com restrições, inapto temporário e inapto — os mesmos quatro resultados do exame médico",
