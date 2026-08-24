@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Homem de 47 anos, sem doenças conhecidas, comparece para renovação da CNH categoria B. Considerando a redação do art. 147 do Código de Trânsito Brasileiro dada pela Lei nº 14.071/2020, qual é a periodicidade do exame de aptidão física e mental a ser registrada?",
+  "alts": [
+   "A cada 3 anos, porque a periodicidade trienal do exame passou a valer para todos os condutores da categoria B",
+   "A cada 5 anos, porque a periodicidade quinquenal se aplica aos condutores com idade abaixo dos 50 anos completos",
+   "A cada 10 anos, porque a periodicidade decenal se aplica aos condutores com idade inferior a 50 anos de idade",
+   "A cada 2 anos, porque a periodicidade bienal foi fixada para os condutores que não exercem atividade remunerada",
+   "A cada 5 anos, porque a periodicidade decenal foi reservada apenas aos condutores das categorias A e B somadas"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Validade do exame de aptidão física e mental",
+  "base": "CTB, art. 147, §2º, I a III, com a redação da Lei nº 14.071/2020.",
+  "coment": "A Lei nº 14.071/2020 substituiu a antiga regra (5 anos até 65 anos e 3 anos acima disso) por três faixas etárias: a cada 10 anos para condutores com idade inferior a 50 anos; a cada 5 anos para os de 50 a 69 anos (idade igual ou superior a 50 e inferior a 70); e a cada 3 anos para os de 70 anos ou mais. O candidato do enunciado tem 47 anos, portanto está na faixa decenal. Atenção: o §4º do mesmo artigo permite ao perito examinador PROPOR a diminuição desses prazos quando houver indícios de deficiência física ou mental, ou de doença progressiva que possa reduzir a capacidade de conduzir — a periodicidade legal é o teto, não uma garantia.",
+  "porAlt": [
+   "O prazo de 3 anos existe, mas é o da faixa de 70 anos ou mais, não uma regra geral por categoria.",
+   "O prazo de 5 anos existe, mas corresponde à faixa dos 50 aos 69 anos, e não aos menores de 50.",
+   "Correta: com 47 anos o condutor está na faixa de idade inferior a 50 anos, cujo prazo é decenal.",
+   "Não existe periodicidade bienal no art. 147; a atividade remunerada muda a exigência psicológica, não o prazo.",
+   "Inverte as faixas: a decenal vale por idade (menores de 50 anos), sem relação com a categoria pretendida."
+  ]
+ },
+ {
+  "q": "Perito examinador de trânsito avalia candidata de 71 anos à renovação da CNH categoria B. Ela é hígida, sem queixas, e todos os parâmetros do exame estão dentro da normalidade. Qual prazo de validade deve ser aplicado ao exame de aptidão física e mental?",
+  "alts": [
+   "Cinco anos, uma vez que a faixa quinquenal alcança todos os condutores idosos sem doença incapacitante detectada",
+   "Três anos, uma vez que a faixa trienal alcança os condutores com idade igual ou superior a 70 anos de idade",
+   "Dez anos, uma vez que a ausência de doença detectada devolve o condutor idoso à faixa decenal de renovação",
+   "Dois anos, uma vez que a faixa bienal foi criada pela lei para os condutores acima dos setenta anos de idade",
+   "Um ano, uma vez que o exame do condutor idoso passa a ser obrigatoriamente anual após os setenta anos de idade"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Validade do exame no condutor idoso",
+  "base": "CTB, art. 147, §2º, III (Lei nº 14.071/2020).",
+  "coment": "A partir dos 70 anos completos o prazo legal é de 3 anos, independentemente de o exame ter sido inteiramente normal. As faixas do §2º são definidas exclusivamente pela idade: menos de 50 anos (10 anos), de 50 a 69 anos (5 anos) e 70 anos ou mais (3 anos). A ausência de doença não promove o condutor para uma faixa mais longa — o que a lei permite, pelo §4º, é o movimento contrário: encurtar o prazo por proposta do perito quando houver indício de deficiência ou de doença progressiva. Vale lembrar que a Diretriz ABRAMET sobre mobilidade e condução da pessoa idosa orienta avaliar função (visão, cognição, tempo de reação), e não a idade isoladamente.",
+  "porAlt": [
+   "O prazo de 5 anos corresponde à faixa dos 50 aos 69 anos e não se estende aos 70 anos ou mais.",
+   "Correta: aos 70 anos ou mais a lei fixa a renovação trienal, mesmo com exame inteiramente normal.",
+   "O exame normal não devolve o condutor à faixa decenal, reservada a quem tem menos de 50 anos.",
+   "Não existe faixa bienal no art. 147; a lei prevê apenas os prazos de dez, cinco e três anos.",
+   "Não há previsão legal de exame anual por idade; o encurtamento depende de proposta do perito."
+  ]
+ },
+ {
+  "q": "Candidato de 34 anos à primeira habilitação na categoria B apresenta acuidade visual central de 20/40 no olho direito e 20/40 no olho esquerdo, com correção óptica. O campo visual na isóptera horizontal é de 130º em ambos os olhos. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual deve ser a conduta do perito?",
+  "alts": [
+   "Considerá-lo apto com restrição, registrando na CNH a observação de uso obrigatório das lentes corretoras empregadas",
+   "Considerá-lo inapto temporariamente, pois a acuidade de 20/40 bilateral fica abaixo do mínimo exigido para a categoria B",
+   "Considerá-lo inapto definitivo, pois a dependência de correção óptica impede a habilitação nas categorias A e B",
+   "Considerá-lo apto sem qualquer restrição, pois a correção óptica dispensa o registro de observação no documento",
+   "Considerá-lo apto com restrição de dirigir somente durante o dia, pois a acuidade de 20/40 limita a visão noturna"
+  ],
+  "gab": 0,
+  "tema": "oftalmo",
+  "sub": "Acuidade visual mínima nas categorias A e B",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.2.1, 1.2.2 e 1.4.",
+  "coment": "Para a ACC e as categorias A e B, a exigência é acuidade visual central igual ou superior a 20/40 (0,50) em cada olho, ou 20/30 (0,66) em um olho com pelo menos percepção luminosa no outro; a visão periférica na isóptera horizontal deve ser de pelo menos 60º em cada olho, ou 120º em um deles. O candidato cumpre os dois critérios. O item 1.4 permite que os valores sejam alcançados com ou sem correção óptica, mas, quando obtidos com correção, é obrigatório constar da CNH a observação 'obrigatório o uso de lentes corretoras' (código A do Anexo XV). A exceção do próprio item 1.4 são as lentes intraoculares, que não geram essa obrigatoriedade. Cuidado para não confundir com o padrão das categorias C, D e E, mais exigente: 20/30 em cada olho (ou 20/30 e 20/40), visão binocular mínima de 20/25 e campo de 120º em cada olho.",
+  "porAlt": [
+   "Correta: cumpre os parâmetros com correção, o que obriga a observação de uso de lentes corretoras.",
+   "O mínimo para a categoria B é justamente 20/40 em cada olho — o candidato atinge o exigido pela norma.",
+   "Usar correção óptica não gera inaptidão; a norma expressamente admite valores obtidos com correção.",
+   "A aptidão está certa, mas a norma obriga o registro da observação quando se usa correção óptica.",
+   "A restrição de dirigir após o pôr do sol é o código U e não decorre automaticamente da acuidade de 20/40."
+  ]
+ },
+ {
+  "q": "Motorista profissional de 45 anos busca renovação da CNH categoria D. A avaliação oftalmológica mostra acuidade visual central de 20/30 no olho direito e 20/50 no olho esquerdo, com visão binocular de 20/25 e campo visual de 130º em cada olho. Qual é a conclusão correta segundo o Anexo II da Resolução CONTRAN nº 927/2022?",
+  "alts": [
+   "Está dentro do exigido, pois a visão binocular de 20/25 compensa isoladamente o déficit observado no olho esquerdo",
+   "Está dentro do exigido, pois para a categoria D basta que um dos olhos alcance a acuidade central de 20/30",
+   "Não atende ao exigido, pois a categoria D passou a demandar acuidade central de 20/25 em ambos os olhos avaliados",
+   "Está dentro do exigido, pois o campo visual de 130º em cada olho supre o déficit de acuidade central medido",
+   "Não atende ao exigido, pois o pior olho precisa alcançar no mínimo 20/40 quando o melhor olho apresenta 20/30"
+  ],
+  "gab": 4,
+  "tema": "oftalmo",
+  "sub": "Acuidade visual nas categorias C, D e E",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1 e 1.1.2.",
+  "coment": "Para as categorias C, D e E a norma admite duas combinações: 20/30 (0,66) em cada olho, OU 20/30 em um olho e pelo menos 20/40 (0,50) no outro — sempre com visão binocular mínima de 20/25 (0,80) e visão periférica na isóptera horizontal de pelo menos 120º em cada olho. Aqui o melhor olho tem 20/30, mas o pior tem 20/50, abaixo do piso de 20/40 da segunda combinação. Como não há norma que permita compensar acuidade central deficiente com bom campo visual ou boa binocularidade, o candidato não atende ao padrão da categoria D. A conduta é encaminhar para avaliação oftalmológica e, se a perda for corrigível, classificar como inapto temporário; se irreversível para essa categoria, cabe reavaliar aptidão para categorias A e B, cujo piso é 20/40 em cada olho.",
+  "porAlt": [
+   "A binocularidade de 20/25 é requisito adicional obrigatório, e não um crédito que compense o pior olho.",
+   "Não basta um olho em 20/30: a norma exige simultaneamente um piso definido para o olho contralateral.",
+   "O padrão de 20/25 é o da visão binocular mínima, e não a exigência de acuidade para cada olho isolado.",
+   "O campo visual de 120º é exigência somada à acuidade, e não um parâmetro que a substitua ou compense.",
+   "Correta: com 20/30 no melhor olho, o outro precisa de no mínimo 20/40, e 20/50 fica abaixo desse piso."
+  ]
+ },
+ {
+  "q": "Candidato de 38 anos à renovação da CNH categoria C é reprovado na prova da voz coloquial e realiza audiometria tonal aérea. A média aritmética nas frequências de 500, 1000 e 2000 Hz, na via aérea da orelha melhor, é de 46 dB. Ainda não houve tratamento nem indicação de prótese. Qual é a conduta correta?",
+  "alts": [
+   "Considerá-lo apto para qualquer categoria, registrando a observação de uso obrigatório de prótese auditiva na CNH",
+   "Considerá-lo apto restrito à ACC e às categorias A e B, desde que o exame otoneurológico se apresente inteiramente normal",
+   "Considerá-lo inapto definitivamente, pois a perda auditiva acima de 40 decibéis é irreversível e incompatível com a direção",
+   "Considerá-lo apto sem qualquer restrição, pois o limiar auditivo só é exigido dos condutores das categorias D e E",
+   "Considerá-lo inapto temporariamente e encaminhá-lo para avaliação complementar específica da perda auditiva detectada"
+  ],
+  "gab": 4,
+  "tema": "orl",
+  "sub": "Limiar auditivo e conduta pericial",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.2, 1.4, 1.5, 1.6 e 1.7.",
+  "coment": "A sequência do Anexo III é: prova da voz coloquial (a dois metros, em ambas as orelhas, sem leitura labial); se reprovado, audiometria tonal aérea. Perda INFERIOR a 40 dB na média de 500, 1000 e 2000 Hz na orelha melhor: apto para qualquer categoria. Perda IGUAL OU SUPERIOR a 40 dB na orelha melhor: inapto temporário, com encaminhamento para avaliação complementar específica — que é exatamente o caso dos 46 dB deste candidato. Só DEPOIS do tratamento e/ou da indicação de prótese é que se define o desfecho: se a média cair abaixo de 40 dB, apto para qualquer categoria com a observação 'obrigatório o uso de prótese auditiva' (código B); se permanecer em 40 dB ou mais, o condutor fica restrito à ACC e às categorias A e B, com exame otoneurológico normal e veículo equipado com retrovisores laterais. O erro clássico é saltar direto para o desfecho final sem passar pela inaptidão temporária.",
+  "porAlt": [
+   "Esse desfecho só é possível depois do tratamento, se a média auditiva cair abaixo do limiar de 40 decibéis.",
+   "Essa restrição é o desfecho de quem permanece com 40 dB ou mais após tratamento, e não a conduta inicial.",
+   "A inaptidão definitiva não cabe: a norma prevê tratamento e prótese antes de qualquer decisão permanente.",
+   "O limiar auditivo é exigido em todas as categorias, e não apenas para os condutores das categorias D e E.",
+   "Correta: com 40 dB ou mais e sem tratamento prévio, a norma determina inaptidão temporária e reavaliação."
+  ]
+ },
+ {
+  "q": "Durante o exame de aptidão física e mental de candidato de 52 anos à renovação da categoria E, a pressão arterial é aferida em 172 x 104 mmHg, confirmada em nova medida. O restante do exame é normal. Segundo o Anexo V da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Considerá-lo inapto temporariamente até que a pressão arterial seja controlada e documentada pelo assistente",
+   "Considerá-lo apto sem qualquer ressalva, pois os níveis pressóricos aferidos ainda não alcançam o limiar de risco",
+   "Considerá-lo inapto definitivamente para a categoria E, com reavaliação apenas para as categorias A e B",
+   "Considerá-lo apto, com diminuição do prazo de validade do exame de aptidão a critério do médico examinador",
+   "Considerá-lo apto com restrição de conduzir somente durante o dia, dado o risco cardiovascular identificado"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Hipertensão arterial na perícia de trânsito",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, itens 1.2 a 1.4, e Anexo VII (quadro de hipertensão arterial).",
+  "coment": "A norma estabelece três faixas pressóricas, iguais para todas as categorias: sistólica abaixo de 160 e diastólica abaixo de 100 mmHg — apto; sistólica de 160 a 179 e/ou diastólica de 100 a 109 mmHg — apto, COM diminuição do prazo de validade do exame a critério médico; sistólica igual ou superior a 180 e/ou diastólica igual ou superior a 110 mmHg — inapto temporário. Com 172 x 104 mmHg o candidato cai na faixa intermediária: é aprovado, mas com prazo encurtado, o que na prática o traz de volta para reavaliação antes do vencimento normal. O item 1.5 ainda permite ao examinador valer-se de relatórios do médico assistente com registro de aferições feitas em outras ocasiões, útil quando se suspeita de hipertensão do jaleco branco. A aferição deve seguir as diretrizes das sociedades brasileiras e ser obrigatoriamente registrada no formulário RENACH.",
+  "porAlt": [
+   "A inaptidão temporária começa em 180 de sistólica e/ou 110 de diastólica, acima dos valores medidos aqui.",
+   "Os valores já ultrapassam a faixa de aptidão plena, que exige sistólica abaixo de 160 e diastólica abaixo de 100.",
+   "Não há previsão de inaptidão definitiva por hipertensão nessa faixa, tampouco rebaixamento automático de categoria.",
+   "Correta: a faixa de 160-179 e/ou 100-109 mmHg gera aptidão com prazo de validade reduzido a critério médico.",
+   "A vedação de dirigir após o pôr do sol é o código U do Anexo XV e não decorre de níveis pressóricos elevados."
+  ]
+ },
+ {
+  "q": "Candidato de 29 anos declara no questionário ser portador de epilepsia e estar em uso regular de lamotrigina. Traz relatório do neurologista que o acompanha há três anos, favorável, informando 18 meses sem crises e boa aderência. Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, qual é a conduta correta?",
+  "alts": [
+   "Apto para todas as categorias pretendidas, pois o intervalo de 18 meses sem crises supera o exigido pela norma",
+   "Apto exclusivamente para a categoria B, com diminuição do prazo de validade do exame na primeira habilitação",
+   "Inapto temporariamente, pois o candidato em uso de medicação antiepiléptica exige dois anos completos sem crises",
+   "Inapto definitivamente, pois o uso continuado de medicação antiepiléptica é incompatível com a direção veicular",
+   "Apto para as categorias C, D e E, desde que o neurologista assistente reavalie o quadro a cada seis meses"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Epilepsia e habilitação",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, itens 2.1 a 2.7; Diretriz ABRAMET/AMB/CFM de avaliação de condutores com epilepsia.",
+  "coment": "Quem declara epilepsia ou uso de antiepiléptico deve receber, como PRIMEIRO resultado, 'necessita de exames complementares ou especializados' e trazer o relatório padronizado do Anexo IX, preenchido por médico assistente que o acompanhe há pelo menos um ano. A norma separa dois grupos: grupo I (em uso de medicação), que exige 1 ano sem crise, parecer favorável do assistente e plena aderência; e grupo II (em retirada de medicação), que exige não ser portador de epilepsia mioclônica juvenil, no mínimo 2 anos sem crise, retirada com duração mínima de seis meses e pelo menos seis meses sem crises após a retirada. Este candidato é grupo I e cumpre os três requisitos. Aprovado, valem as restrições do item 2.7: aptidão SOMENTE para a categoria B, prazo de validade reduzido a critério médico na primeira habilitação, repetição dos procedimentos a cada renovação e — no grupo I — prazo reduzido também na primeira renovação, normalizando-se nas seguintes.",
+  "porAlt": [
+   "O tempo é suficiente, mas a aprovação na epilepsia é restrita à categoria B, sem alcançar as demais categorias.",
+   "Correta: grupo I com um ano sem crises e parecer favorável é apto, porém restrito à categoria B e com prazo menor.",
+   "O prazo de dois anos sem crises é do grupo II, em retirada de medicação, e não do grupo I, em uso regular.",
+   "O uso de medicação não gera inaptidão definitiva; a norma prevê expressamente a aprovação do grupo I.",
+   "As categorias C, D e E são vedadas ao candidato com epilepsia aprovado, qualquer que seja o seguimento clínico."
+  ]
+ },
+ {
+  "q": "Motorista de 48 anos, IMC de 33 kg/m², perímetro cervical de 47 cm e pressão arterial de 136 x 88 mmHg, comparece para mudança de categoria de B para D. A Escala de Sonolência de Epworth resulta em 8 pontos. Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é a interpretação correta?",
+  "alts": [
+   "Não apresenta nenhum indício relevante, pois a pontuação obtida na escala de Epworth ficou abaixo do ponto de corte",
+   "Apresenta apenas um indício objetivo isolado, insuficiente para justificar a solicitação de exame complementar agora",
+   "Deve ser considerado inapto definitivamente para a categoria D, dada a combinação de obesidade e cervical aumentada",
+   "Está dispensado da avaliação do sono, pois esse rastreamento só é exigido dos candidatos à primeira habilitação na categoria B",
+   "Apresenta três indícios objetivos de distúrbio do sono, o que autoriza aprovação temporária ou pedido de polissonografia"
+  ],
+  "gab": 4,
+  "tema": "sono",
+  "sub": "Rastreamento de SAOS nas categorias C, D e E",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.1 a 1.3, e Anexo XI (Escala de Epworth).",
+  "coment": "A avaliação de distúrbios do sono é exigida na renovação, adição e mudança para as categorias C, D e E — exatamente o caso. Os parâmetros OBJETIVOS de indício são: pressão sistólica acima de 130 e diastólica acima de 85 mmHg; IMC acima de 30 kg/m²; perímetro cervical, medido na altura da cartilagem cricoide, acima de 45 cm em homens e de 38 cm em mulheres; e Mallampati modificado classe 3 ou 4. O parâmetro SUBJETIVO é a Escala de Epworth. Este candidato soma três indícios objetivos (PA 136x88, IMC 33 e cervical 47 cm), e a norma prevê que, com Epworth alto e/ou DOIS OU MAIS indícios objetivos, o candidato possa, a critério médico, ser aprovado temporariamente ou encaminhado para avaliação específica com polissonografia. Note que o gatilho é alternativo: um Epworth normal não afasta a investigação quando os achados objetivos se acumulam.",
+  "porAlt": [
+   "O Epworth baixo não encerra o rastreamento, porque os indícios objetivos configuram gatilho independente.",
+   "São três os parâmetros objetivos alterados neste candidato, e não apenas um achado isolado sem repercussão.",
+   "A norma não prevê inaptidão definitiva por esses achados: a conduta é investigar e reavaliar o candidato.",
+   "O rastreamento é exigido justamente na renovação, adição e mudança para as categorias C, D e E.",
+   "Correta: PA, IMC e perímetro cervical alterados somam três indícios objetivos, e dois já bastam para agir."
+  ]
+ },
+ {
+  "q": "Candidato de 41 anos à primeira habilitação na categoria C realiza dinamometria manual com resultado de 26 kgf na mão direita e 28 kgf na mão esquerda. Não há deficiência física. Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende plenamente ao exigido, pois o piso de força para todas as categorias é de 20 kgf em cada uma das mãos",
+   "Não atende ao exigido para a categoria C, cujo piso de força é de 30 kgf em cada uma das mãos avaliadas",
+   "Atende ao exigido, pois basta que a soma da força das duas mãos ultrapasse cinquenta quilograma-força",
+   "Não atende ao exigido, pois a categoria C requer força mínima de 40 kgf em cada uma das mãos examinadas",
+   "Atende ao exigido, pois o valor de referência da dinamometria fica sempre a critério do médico examinador"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Dinamometria manual",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, itens 1.3.1 e 1.3.2.",
+  "coment": "A dinamometria manual integra a avaliação da força muscular dentro do exame neurológico. Os pisos são: 20 kgf em cada mão para a ACC e as categorias A e B; e 30 kgf em cada mão para as categorias C, D e E. O candidato pretende a categoria C e não alcança o piso em nenhuma das mãos, de modo que não atende ao exigido. Há uma exceção relevante: para o portador de deficiência física, o item 1.3.2 remete os valores exigidos ao critério da Junta Médica Especial, justamente porque a NBR 14970 e as adaptações veiculares mudam a demanda de força necessária para a condução segura. O dinamômetro para força manual, aliás, é item obrigatório de equipamento das entidades médicas credenciadas.",
+  "porAlt": [
+   "O piso de 20 kgf existe, mas vale apenas para a ACC e para as categorias A e B, não para a categoria C.",
+   "Correta: o piso das categorias C, D e E é de 30 kgf em cada mão, e o candidato não o alcança em nenhuma.",
+   "A norma exige o valor mínimo em CADA mão isoladamente, e não a soma da força obtida nas duas mãos.",
+   "O valor de 40 kgf não consta da norma; o piso das categorias C, D e E é de trinta quilograma-força.",
+   "O critério médico só flexibiliza os valores no caso do candidato com deficiência física, pela Junta Especial."
+  ]
+ },
+ {
+  "q": "Candidato considerado inapto no exame de aptidão física e mental deseja contestar o resultado. Segundo o Capítulo III da Resolução CONTRAN nº 927/2022, qual é o caminho e a composição correta da instância revisora?",
+  "alts": [
+   "Requerer, em até quinze dias, revisão diretamente ao CETRAN, que designará dois médicos peritos para reexaminar o caso",
+   "Requerer, em até sessenta dias, nova perícia à entidade credenciada, que designará um segundo médico perito examinador",
+   "Requerer, em até trinta dias, Junta Médica ao órgão executivo de trânsito, constituída por três médicos peritos examinadores",
+   "Requerer, em até dez dias, reavaliação ao Conselho Regional de Medicina, que indicará três especialistas para o reexame",
+   "Requerer, em até noventa dias, recurso ao órgão máximo executivo de trânsito da União, que reavalia o laudo já emitido"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Junta Médica e recurso ao CETRAN",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 12 a 15.",
+  "coment": "O art. 12 assegura ao candidato, INDEPENDENTEMENTE do resultado, requerer no prazo de 30 dias — contados do conhecimento — a instauração de Junta Médica e/ou Psicológica ao órgão ou entidade executivo de trânsito do Estado ou do DF. A Junta Médica é constituída por três profissionais médicos peritos examinadores de trânsito ou especialistas em medicina de tráfego (a Junta Psicológica, por três psicólogos). Mantida a inaptidão permanente, cabe recurso ao CETRAN ou ao CONTRANDIFE em novos 30 dias (art. 13); para julgá-lo, o Conselho designa Junta Especial de Saúde, com no mínimo três médicos, sendo DOIS especialistas em medicina de tráfego (art. 15). Prazos administrativos correlatos: 15 dias úteis para designar a Junta, 20 dias úteis para remeter documentos ao CETRAN e 30 dias para a Junta proferir o resultado. Não confundir a Junta Médica revisora com a Junta Médica Especial do art. 4º, §1º, que examina o candidato com deficiência física.",
+  "porAlt": [
+   "O CETRAN é a instância de recurso posterior, e a Junta Médica é composta por três profissionais, não dois.",
+   "A revisão não se faz por nova perícia na entidade credenciada, mas por Junta instaurada pelo órgão de trânsito.",
+   "Correta: prazo de trinta dias, requerimento ao órgão executivo de trânsito e Junta com três médicos peritos.",
+   "O Conselho Regional de Medicina não é instância revisora do resultado pericial no processo de habilitação.",
+   "O órgão máximo executivo de trânsito da União não julga esse recurso, que cabe ao CETRAN ou ao CONTRANDIFE."
+  ]
+ },
+ {
+  "q": "Em fiscalização de trânsito, condutor é submetido a etilômetro e o aparelho registra 0,36 mg de álcool por litro de ar alveolar. Considerando o Código de Trânsito Brasileiro, qual é o enquadramento correto?",
+  "alts": [
+   "Configura somente a infração administrativa do art. 165, pois o crime exige concentração superior a 0,5 mg por litro",
+   "Configura somente o crime do art. 306, pois a tipificação penal absorve integralmente a infração administrativa prevista",
+   "Configura o crime do art. 306, além da infração administrativa gravíssima do art. 165, com as respectivas penalidades",
+   "Não configura crime nem infração, pois há margem de tolerância legal para o resultado obtido no etilômetro usado",
+   "Configura apenas advertência por escrito, pois a primeira autuação por alcoolemia não gera multa nem suspensão alguma"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Limiares administrativo e penal da alcoolemia",
+  "base": "CTB, art. 165 (Lei nº 11.705/2008 e nº 12.760/2012) e art. 306, §1º, I (Lei nº 12.760/2012).",
+  "coment": "O CTB opera em dois planos independentes e cumulativos. No plano ADMINISTRATIVO, o art. 165 pune dirigir sob influência de álcool: infração gravíssima, multa multiplicada por dez, suspensão do direito de dirigir por 12 meses, recolhimento da CNH e retenção do veículo — a multa é aplicada em dobro se houver reincidência em até 12 meses. Qualquer concentração comprovada já basta nesse plano. No plano PENAL, o art. 306 exige capacidade psicomotora alterada, constatada por concentração igual ou superior a 6 decigramas de álcool por litro de sangue OU igual ou superior a 0,3 mg de álcool por litro de ar alveolar, ou ainda por sinais de alteração da capacidade psicomotora disciplinados pelo CONTRAN. Com 0,36 mg/L o condutor ultrapassa o limiar penal, respondendo simultaneamente pelo crime e pela infração administrativa. Vale lembrar que recusar-se ao teste é, por si só, infração gravíssima autônoma (art. 165-A), com as mesmas penalidades do art. 165.",
+  "porAlt": [
+   "O limiar penal do ar alveolar é de 0,3 mg/L, e não de 0,5 mg/L, de modo que o crime está configurado.",
+   "A responsabilização penal não afasta a infração administrativa: as duas esferas incidem de forma independente.",
+   "Correta: 0,36 mg/L supera o limiar penal de 0,3 mg/L, e as esferas administrativa e penal são cumulativas.",
+   "Não há margem de tolerância que descaracterize a conduta em um resultado dessa magnitude no etilômetro.",
+   "A advertência por escrito não é penalidade prevista para a alcoolemia, que é infração de natureza gravíssima."
+  ]
+ },
+ {
+  "q": "Segundo o art. 8º da Resolução CONTRAN nº 927/2022, o candidato reprovado no exame de aptidão física e mental por motivo passível de tratamento ou correção deve ser classificado como:",
+  "alts": [
+   "Inapto, categoria aplicada sempre que houver qualquer contraindicação atual para a condução de veículo automotor",
+   "Apto com restrições, categoria aplicada quando a limitação encontrada admite tratamento clínico ou correção",
+   "Inaptidão condicional, categoria que autoriza a direção enquanto o tratamento indicado estiver em andamento",
+   "Inapto temporário, categoria reservada às situações em que a causa da reprovação pode ser tratada ou corrigida",
+   "Apto com ressalva, categoria que permite conduzir por prazo reduzido enquanto se aguarda a correção do quadro"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Classificação do resultado pericial",
+  "base": "Resolução CONTRAN nº 927/2022, art. 8º, I a IV, e parágrafo único; art. 10, §2º.",
+  "coment": "O art. 8º prevê exatamente quatro resultados possíveis no exame de aptidão física e mental: apto (sem contraindicação para a categoria pretendida); apto com restrições (quando há necessidade de registrar na CNH restrição ao condutor ou adaptação veicular, com os códigos do Anexo XV); inapto temporário (quando o motivo da reprovação é passível de tratamento ou correção); e inapto (quando o motivo é irreversível, sem possibilidade de tratamento ou correção). Não existem no rol categorias como 'inaptidão condicional' ou 'apto com ressalva'. Consequência prática importante: pelo art. 10, §2º, tanto na inaptidão temporária quanto na definitiva o perito deve comunicar o resultado aos setores médico e psicológico do órgão executivo de trânsito, ou à circunscrição do local de credenciamento, para imediato bloqueio do cadastro nacional — o desbloqueio, no vencimento do prazo, compete ao órgão.",
+  "porAlt": [
+   "A inaptidão sem qualificação é reservada ao motivo irreversível, sem possibilidade de tratamento ou correção.",
+   "A aptidão com restrições pressupõe que o candidato possa dirigir já, mediante restrição ou adaptação do veículo.",
+   "A norma não prevê a figura da inaptidão condicional entre os quatro resultados possíveis do exame pericial.",
+   "Correta: a inaptidão temporária é definida justamente pela possibilidade de tratar ou corrigir a causa.",
+   "A norma não prevê a figura do apto com ressalva; o que existe é a diminuição do prazo de validade do exame."
+  ]
+ },
+ {
+  "q": "A Lei nº 15.428, de 5 de junho de 2026, incluiu o §7º no art. 268-A do Código de Trânsito Brasileiro, tratando da renovação automática da habilitação para condutores cadastrados no RNPC. Qual é o efeito dessa regra sobre o exame de aptidão física e mental?",
+  "alts": [
+   "O condutor fica dispensado dos procedimentos do art. 147, mas o exame de aptidão física e mental permanece exigível",
+   "O condutor fica dispensado de todos os procedimentos do art. 147, incluindo integralmente o exame de aptidão física",
+   "O condutor fica dispensado apenas do exame escrito de legislação, mantendo todos os demais exames obrigatórios",
+   "O condutor fica dispensado do exame de aptidão física e mental do trânsito, mantendo obrigatória a avaliação psicológica",
+   "O condutor fica dispensado dos exames somente enquanto não completar cinquenta anos de idade, quando tudo é retomado"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Renovação automática da CNH (Lei nº 15.428/2026)",
+  "base": "CTB, art. 268-A, §7º, incluído pela Lei nº 15.428/2026 (conversão da MP nº 1.327/2025).",
+  "coment": "A Lei nº 15.428/2026 é a norma mais recente a impactar diretamente a prática do perito examinador. O novo §7º do art. 268-A determina que o condutor que, ao término da validade da CNH ou da ACC, estiver cadastrado no RNPC (Registro Nacional Positivo de Condutores) terá a habilitação renovada automaticamente e ficará dispensado dos procedimentos do art. 147 — COM EXCEÇÃO DOS EXAMES DE APTIDÃO FÍSICA E MENTAL. Ou seja: a chamada 'renovação automática' não elimina a perícia médica, que continua sendo a barreira sanitária do processo. A mesma lei alterou o art. 148, cujo novo §6º passa a exigir que os exames sejam realizados por médicos e psicólogos peritos examinadores AUTORIZADOS pelo órgão máximo executivo de trânsito da União, com titulação de especialista em medicina do tráfego e em psicologia do trânsito, e cujo §7º submete os exames a preço público fixado por esse mesmo órgão, corrigido anualmente pelo IPCA. Os §§6º e 7º do art. 147 foram expressamente revogados.",
+  "porAlt": [
+   "Correta: a lei dispensa os procedimentos do art. 147, mas ressalva expressamente o exame de aptidão física e mental.",
+   "A dispensa não é integral: o texto legal excetua justamente a perícia médica de aptidão física e mental.",
+   "A dispensa alcança os procedimentos do art. 147 em bloco, e não apenas o exame escrito sobre legislação.",
+   "A regra é o inverso: preserva-se o exame de aptidão física e mental, que é a exceção escrita na própria lei.",
+   "O texto do §7º não condiciona a dispensa a uma faixa etária específica de cinquenta anos de idade."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, candidato à renovação da CNH categoria D, sofreu infarto agudo do miocárdio há nove semanas e apresenta boa recuperação clínica, com relatório cardiológico favorável. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Apto com prazo de validade reduzido, pois o intervalo de oito semanas já foi cumprido com folga pelo candidato",
+   "Apto sem restrições, pois o relatório cardiológico favorável dispensa a exigência de intervalo mínimo de espera",
+   "Inapto definitivamente para a categoria D, pois o infarto prévio impede em definitivo a atividade remunerada",
+   "Inapto temporariamente, pois nas categorias C, D e E exige-se recuperação clínica de no mínimo doze semanas",
+   "Apto condicionado apenas à realização de teste ergométrico, sem qualquer exigência de intervalo desde o evento"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Infarto do miocárdio e retorno à direção profissional",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII (quadro de infarto do miocárdio).",
+  "coment": "O Anexo VII trabalha com duas colunas: ACC e categorias A e B de um lado; categorias C, D e E de outro — estas últimas sempre mais restritivas, por envolverem transporte de cargas e de passageiros. No infarto do miocárdio, a coluna A/B admite aptidão com recuperação clínica após OITO semanas, com diminuição do prazo de validade a critério médico; já a coluna C/D/E exige recuperação clínica após DOZE semanas, condicionada a relatório cardiológico favorável, também com prazo reduzido. Com nove semanas o candidato ainda não cumpriu o intervalo da categoria D, e o relatório favorável não substitui esse requisito temporal — ele é exigência somada, não alternativa. A conduta correta é a inaptidão temporária, com retorno após completar as doze semanas. Como referência dos demais quadros do mesmo anexo: revascularização miocárdica exige doze semanas em ambas as colunas; angioplastia sem infarto, duas semanas; marca-passo, duas semanas em A/B e seis semanas em C/D/E.",
+  "porAlt": [
+   "O intervalo de oito semanas é o da ACC e das categorias A e B, e não o das categorias C, D e E.",
+   "O relatório cardiológico favorável é exigência adicional ao intervalo mínimo, e não uma forma de dispensá-lo.",
+   "O infarto prévio não gera inaptidão definitiva; a norma prevê retorno após o período de recuperação clínica.",
+   "Correta: a categoria D exige doze semanas de recuperação, e o candidato está com apenas nove semanas.",
+   "A norma não condiciona o retorno a um exame específico, mas ao intervalo mínimo somado ao relatório favorável."
+  ]
+ },
+ {
+  "q": "Um candidato com deficiência física comparece ao processo de habilitação e será submetido ao exame de aptidão física e mental. Segundo a Resolução CONTRAN nº 927/2022, como esse exame deve ser conduzido?",
+  "alts": [
+   "Por Junta Médica Especial designada pelo dirigente do órgão executivo de trânsito, seguindo a NBR 14970 da ABNT",
+   "Pelo médico perito examinador da entidade credenciada, seguindo os mesmos parâmetros aplicados aos demais candidatos",
+   "Por Junta Médica Especial designada pelo Conselho Estadual de Trânsito, seguindo a NBR 9050 sobre acessibilidade",
+   "Pelo médico perito examinador, com posterior homologação obrigatória pelo Conselho Regional de Medicina do estado",
+   "Por Junta Especial de Saúde constituída pelo CETRAN, com no mínimo dois especialistas em medicina do tráfego"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Junta Médica Especial e NBR 14970",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, §§1º e 2º; art. 7º.",
+  "coment": "O art. 4º, §1º determina que o exame de aptidão física e mental do candidato com deficiência física seja realizado por JUNTA MÉDICA ESPECIAL designada pelo Diretor do órgão ou entidade executivo de trânsito do Estado ou do DF. O §2º manda que essas Juntas sigam a NBR 14970 da ABNT, que trata da avaliação da dirigibilidade, das adaptações e da acessibilidade veicular para pessoas com deficiência — não confundir com a NBR 9050, que trata de acessibilidade a edificações e é exigida das instalações das entidades credenciadas (art. 17). Complementarmente, o art. 7º determina que a avaliação psicológica do candidato com deficiência física seja realizada de acordo com as suas condições físicas. Também é distinta da Junta Médica revisora do art. 12 (recurso do resultado) e da Junta Especial de Saúde do art. 15 (julgamento de recurso no CETRAN).",
+  "porAlt": [
+   "Correta: Junta Médica Especial designada pelo Diretor do órgão de trânsito, orientada pela NBR 14970 da ABNT.",
+   "A avaliação do candidato com deficiência física não é feita pelo perito isolado, mas por Junta Médica Especial.",
+   "A designação cabe ao órgão executivo de trânsito, e a norma aplicável é a NBR 14970, não a NBR 9050.",
+   "Não há homologação do Conselho Regional de Medicina no processo de habilitação do candidato com deficiência.",
+   "A Junta Especial de Saúde é instância de julgamento de recurso no CETRAN, e não a avaliadora inicial."
+  ]
+ }
+]

@@ -1,0 +1,1161 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#F7F6F3">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<title>TráfegoTítulo</title>
+<style>
+:root{--bg:#F7F6F3;--pan:#FFFFFF;--pan2:#F1EFEA;--line:#E3E0D8;--ink:#1C2733;--mut:#5B6B7B;--brand:#2563EB;--brand2:#1D4ED8;--ok:#15803D;--err:#B91C1C;--warn:#B45309;--r:10px}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 Inter,-apple-system,"Segoe UI",Roboto,sans-serif;min-height:100dvh;padding-bottom:env(safe-area-inset-bottom)}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+input,select,textarea{font-size:16px;font-family:inherit;background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+input:focus,select:focus,textarea:focus{outline:2px solid #A8C3F5;outline-offset:0;border-color:var(--brand)}
+input[type=checkbox]{width:18px;height:18px;accent-color:var(--brand)}
+a{color:var(--brand2)}
+svg.ic{width:18px;height:18px;stroke:currentColor;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round;flex:none}
+#faixas{position:sticky;top:0;z-index:50}
+.faixa{display:flex;gap:10px;align-items:flex-start;padding:10px 14px;font-size:13.5px;border-bottom:1px solid var(--line)}
+.faixa.ok{background:#EAF6EE;color:#14532D}.faixa.erro{background:#FBECEC;color:#7F1D1D}.faixa.info{background:#EAF1FC;color:#1E3A8A}
+.faixa button{margin-left:auto;color:inherit;opacity:.6;font-size:16px;padding:0 4px}
+header{position:sticky;top:0;z-index:40;background:rgba(247,246,243,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.topo{display:flex;align-items:center;gap:10px;padding:10px 14px 6px}
+.topo h1{font-size:16.5px;font-weight:700;letter-spacing:.2px}
+.topo .sub{color:var(--mut);font-size:11.5px;margin-left:auto;text-align:right}
+nav{display:flex;gap:2px;overflow-x:auto;padding:0 8px 0;scrollbar-width:none}
+nav::-webkit-scrollbar{display:none}
+nav button{display:flex;align-items:center;gap:6px;padding:9px 12px;color:var(--mut);font-size:13.5px;border-bottom:2px solid transparent;white-space:nowrap;min-height:42px}
+nav button:hover{color:var(--ink)}
+nav button.on{color:var(--brand2);border-bottom-color:var(--brand);font-weight:600}
+main{max-width:860px;margin:0 auto;padding:14px 12px 60px}
+section{display:none}section.on{display:block}
+.cartao{background:var(--pan);border:1px solid var(--line);border-radius:var(--r);padding:14px;margin-bottom:12px}
+.cartao h2{font-size:12.5px;color:var(--mut);font-weight:600;margin-bottom:10px;text-transform:uppercase;letter-spacing:.6px}
+.linha{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:7px;background:var(--brand);color:#fff;border-radius:8px;padding:10px 16px;font-weight:600;font-size:14px;min-height:42px;transition:background .15s}
+.btn:hover{background:var(--brand2)}
+.btn.fant{background:#fff;border:1px solid var(--line);color:#3D4B59;font-weight:500}
+.btn.fant:hover{background:var(--pan2)}
+.btn.perigo{background:var(--err);color:#fff}
+.btn:active{transform:translateY(1px)}
+.btn[disabled]{opacity:.45;pointer-events:none}
+.chip{display:inline-flex;align-items:center;padding:2px 9px;border:1px solid #D9D5CC;border-radius:99px;font-size:11.5px;color:var(--mut);background:#FBFAF8}
+.chip.real{color:#14532D;border-color:#A7DDBA;background:#EAF6EE}
+.chip.aut{color:var(--mut)}
+.mut{color:var(--mut)}.peq{font-size:12.5px}.gd{font-size:22px;font-weight:700}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th{color:var(--mut);text-align:left;font-weight:600;font-size:11.5px;padding:6px 8px;border-bottom:1px solid var(--line);text-transform:uppercase;letter-spacing:.4px}
+td{padding:7px 8px;border-bottom:1px solid #EEEBE4;vertical-align:top}
+tr.clic{cursor:pointer}tr.clic:hover{background:#FBFAF7}
+.vermelho{color:var(--err)}.verde{color:var(--ok)}.ambar{color:var(--warn)}
+.rolagem{overflow-x:auto}
+/* questões */
+.q-topo{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
+.q-enun{font-size:15.5px;margin:10px 0 12px;white-space:pre-wrap;line-height:1.65}
+.alt{display:flex;gap:10px;align-items:flex-start;width:100%;text-align:left;border:1px solid var(--line);border-radius:9px;padding:11px 12px;margin-bottom:8px;background:#FDFCFA;font-size:14.5px;touch-action:pan-y;position:relative;transition:border-color .15s,background .15s}
+.alt:hover{border-color:#BFD0F0}
+.alt .letra{flex:none;width:26px;height:26px;border-radius:50%;border:1px solid #CFCAC0;display:flex;align-items:center;justify-content:center;font-size:12.5px;color:var(--mut);background:#fff}
+.alt.sel{border-color:var(--brand);background:#EDF3FE}
+.alt.sel .letra{background:var(--brand);border-color:var(--brand);color:#fff}
+.alt.certa{border-color:#57B078;background:#EFF9F1}
+.alt.certa .letra{background:var(--ok);border-color:var(--ok);color:#fff}
+.alt.errada{border-color:#DE8B8B;background:#FCF0F0}
+.alt.errada .letra{background:var(--err);border-color:var(--err);color:#fff}
+.alt.riscada .txt{text-decoration:line-through;opacity:.45}
+.alt .risco{margin-left:auto;flex:none;color:var(--mut);opacity:.45;padding:2px}
+.alt .risco:hover{opacity:.9}
+.alt .risco svg{width:15px;height:15px}
+.coment{border-left:3px solid var(--brand);background:#F6F8FC;border-radius:0 9px 9px 0;padding:12px;margin-top:12px;font-size:14px}
+.coment .porq{margin-top:8px;padding-top:8px;border-top:1px solid #DFE6F2}
+.coment .porq div{margin-bottom:5px}
+.navq{display:flex;gap:8px;margin-top:14px;align-items:center}
+/* simulado */
+.gradeSim{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:6px}
+.gradeSim button{border:1px solid var(--line);border-radius:8px;padding:8px 0;font-size:13px;color:var(--mut);background:#fff}
+.gradeSim button.resp{background:#EDF3FE;color:var(--brand2);border-color:#9DB9EE}
+.gradeSim button.atual{outline:2px solid var(--brand);outline-offset:1px}
+.gradeSim button.certa{background:#EFF9F1;color:var(--ok);border-color:#57B078}
+.gradeSim button.errada{background:#FCF0F0;color:var(--err);border-color:#DE8B8B}
+#cronSim{font-variant-numeric:tabular-nums;font-size:20px;font-weight:700}
+/* painel */
+.cardsMini{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;margin-bottom:12px}
+.mini{background:var(--pan);border:1px solid var(--line);border-radius:var(--r);padding:12px}
+.mini .rot{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.5px}
+.mini .gd{font-variant-numeric:tabular-nums}
+.barra{height:7px;background:#ECE9E2;border-radius:99px;overflow:hidden;margin-top:4px}
+.barra i{display:block;height:100%;background:var(--brand)}
+.heat{display:grid;grid-auto-flow:column;grid-template-rows:repeat(7,11px);gap:3px;overflow-x:auto;padding-bottom:4px}
+.heat i{width:11px;height:11px;border-radius:3px;background:#ECE9E2}
+.heat i.h1{background:#C6D8F8}.heat i.h2{background:#7FA6F0}.heat i.h3{background:#3B76E8}.heat i.h4{background:#1D4ED8}
+/* flashcards */
+.flash{min-height:220px;display:flex;flex-direction:column;gap:14px;align-items:center;justify-content:center;text-align:center;padding:18px}
+.flash .frente{font-size:17px;font-weight:600;max-width:600px}
+.flash .verso{font-size:15px;color:var(--ink);max-width:640px;white-space:pre-wrap;text-align:left;background:#F6F8FC;border:1px solid #DFE6F2;border-radius:9px;padding:12px 14px}
+/* imagens */
+#quadroImg{height:calc(100dvh - 170px);min-height:420px;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:#0B0F14}
+#quadroImg iframe{width:100%;height:100%;border:0}
+/* lightbox */
+#luz{position:fixed;inset:0;z-index:90;background:rgba(12,16,22,.93);display:none;flex-direction:column}
+#luz.on{display:flex}
+#luz .fecha{position:absolute;top:10px;right:10px;z-index:2;background:#fff;border:1px solid var(--line);border-radius:8px;padding:8px 12px;color:var(--ink)}
+#luz iframe{flex:1;border:0}
+/* erros */
+#tbErros input,#tbErros textarea{width:100%;border:none;background:transparent;padding:2px;font-size:13.5px;border-radius:4px}
+#tbErros textarea{resize:vertical;min-height:34px}
+#tbErros input:focus,#tbErros textarea:focus{background:#EDF3FE;outline:1px solid var(--brand)}
+/* base legal da questão */
+.coment .base{margin-top:8px;padding-top:8px;border-top:1px solid #DFE6F2;font-size:12.5px;color:var(--mut)}
+.coment .base b{color:#3D4B59}
+/* prova teórico-prática */
+.casoLin{display:flex;gap:10px;align-items:center;width:100%;text-align:left;border:1px solid var(--line);border-radius:9px;padding:11px 12px;margin-bottom:8px;background:#FDFCFA}
+.casoLin:hover{border-color:#BFD0F0;background:#fff}
+.casoLin .tit{font-weight:600;font-size:14.5px}
+.casoLin .nt{margin-left:auto;flex:none;font-weight:700;font-variant-numeric:tabular-nums}
+.cenario{white-space:pre-wrap;line-height:1.7;background:#F6F8FC;border:1px solid #DFE6F2;border-radius:9px;padding:13px 14px;margin:10px 0}
+.perg{margin:10px 0 4px;padding-left:20px}
+.perg li{margin-bottom:5px}
+#prtResp{width:100%;min-height:180px;line-height:1.6;resize:vertical}
+.espelho{border-left:3px solid var(--ok);background:#F3FAF5;border-radius:0 9px 9px 0;padding:12px 14px;margin-top:12px}
+.pchave{display:flex;gap:10px;align-items:flex-start;padding:7px 0;border-bottom:1px solid #DDEFE3;font-size:14px}
+.pchave:last-child{border-bottom:none}
+.pchave input{margin-top:2px;flex:none}
+.pchave .pz{margin-left:auto;flex:none;color:var(--mut);font-size:11.5px;white-space:nowrap}
+#prtNota{font-variant-numeric:tabular-nums}
+/* nota final */
+.notaG{display:grid;grid-template-columns:1fr auto;gap:6px 12px;align-items:center;font-size:14px}
+.notaG .vl{font-variant-numeric:tabular-nums;font-weight:600}
+.notaFim{margin-top:10px;padding-top:10px;border-top:1px solid var(--line);font-size:15px}
+@media(max-width:560px){.topo .sub{display:none}}
+</style>
+</head>
+<body>
+<div id="faixas"></div>
+<header>
+  <div class="topo">
+    <svg class="ic" viewBox="0 0 24 24" style="width:22px;height:22px;color:var(--brand)"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3.2"/><path d="M12 3v5.8M4.2 16.5l5-2.9M19.8 16.5l-5-2.9"/></svg>
+    <h1>TráfegoTítulo</h1>
+    <div class="sub" id="subTopo">prova de título AMB/ABRAMET</div>
+  </div>
+  <nav id="abas"></nav>
+</header>
+<main>
+  <section id="sec-questoes"></section>
+  <section id="sec-simulado"></section>
+  <section id="sec-pratica"></section>
+  <section id="sec-painel"></section>
+  <section id="sec-cartoes"></section>
+  <section id="sec-erros"></section>
+  <section id="sec-plano"></section>
+  <section id="sec-ajustes"></section>
+</main>
+
+<script src="taxonomia.js"></script>
+<script src="banco.js"></script>
+<script src="flash.js"></script>
+<script src="pratica.js"></script>
+<script>
+"use strict";
+/* ================== TráfegoTítulo v1 ================== */
+const V="1.0.0";
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const dataISO=(d=new Date())=>{const p=n=>String(n).padStart(2,"0");return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`};
+const addDiasISO=(iso,n)=>{const d=new Date(iso+"T12:00:00");d.setDate(d.getDate()+n);return dataISO(d)};
+const novoIdLinha=()=>Date.now().toString(36)+Math.random().toString(36).slice(2,7);
+const LETRAS="ABCDE";
+
+/* ---------- 2.1 chave estável por conteúdo (djb2+FNV, Math.imul) ---------- */
+function hashTxt(s){
+  let h1=5381, h2=0x811c9dc5;
+  for(let i=0;i<s.length;i++){
+    const c=s.charCodeAt(i);
+    h1=((h1<<5)+h1+c)>>>0;
+    h2=Math.imul(h2^c, 0x01000193)>>>0;
+  }
+  return (h1.toString(36)+h2.toString(36)).slice(0,10);
+}
+function chaveTxt(t){
+  t=String(t||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]/g,"");
+  return hashTxt(t);
+}
+function chaveQ(q){ return chaveTxt(q.q); }
+
+const BANCO=window.BANCO||[], TAXONOMIA=window.TAXONOMIA||[], FLASH=window.FLASH||[], PRATICA=window.PRATICA||[];
+const QIDX=new Map(); BANCO.forEach(q=>{const ch=chaveQ(q); if(QIDX.has(ch))console.warn("COLISÃO de chave:",ch,q.q.slice(0,60)); QIDX.set(ch,q); q._ch=ch;});
+const TNOME=Object.fromEntries(TAXONOMIA.map(t=>[t.id,t.nome]));
+
+/* ---------- UI: faixas de aviso ---------- */
+const UI={
+  banner(tipo,msg,fixa){
+    const d=document.createElement("div");d.className="faixa "+tipo;
+    d.innerHTML=`<span>${esc(msg)}</span><button aria-label="fechar">✕</button>`;
+    d.querySelector("button").onclick=()=>d.remove();
+    $("#faixas").appendChild(d);
+    if(!fixa)setTimeout(()=>d.remove(),12000);
+  }
+};
+
+/* ---------- 2.2 blindagem de armazenamento ---------- */
+const TTKEYS=["tt_resp","tt_riscos","tt_fav","tt_flash","tt_erros","tt_plano","tt_meta","tt_cfg","tt_sim","tt_simativo","tt_pos","tt_treino","tt_atividade","tt_syncmeta"];
+const ARM={
+  db:null, travas:{}, persistOK:null, tsBackup:0, recuperado:null,
+  async boot(){
+    // timeout de segurança: IDB preso (aba antiga/modo privado) não pode travar o boot
+    this.db=await Promise.race([new Promise(res=>setTimeout(()=>res(null),2500)),new Promise(res=>{
+      try{
+        const rq=indexedDB.open("tt-db",1);
+        rq.onupgradeneeded=()=>{const d=rq.result;
+          if(!d.objectStoreNames.contains("espelho"))d.createObjectStore("espelho");
+          if(!d.objectStoreNames.contains("backups"))d.createObjectStore("backups",{autoIncrement:true});
+        };
+        rq.onsuccess=()=>res(rq.result); rq.onerror=()=>res(null); rq.onblocked=()=>res(null);
+      }catch(e){res(null)}
+    })]);
+    // recuperação: canário sumiu do localStorage mas o espelho IDB tem dados?
+    let canario=null; try{canario=localStorage.getItem("tt_canary")}catch(e){}
+    if(!canario&&this.db){
+      const esp=await this.idbTudo("espelho");
+      const chaves=Object.keys(esp).filter(k=>TTKEYS.includes(k));
+      if(chaves.length){
+        chaves.forEach(k=>{try{localStorage.setItem(k,esp[k])}catch(e){}});
+        this.recuperado={n:chaves.length,quando:esp.__quando||"data desconhecida"};
+      }
+    }
+    try{localStorage.setItem("tt_canary",new Date().toISOString())}catch(e){}
+    this.idbPut("__quando",new Date().toISOString());
+    if(navigator.storage&&navigator.storage.persist){
+      try{this.persistOK=await navigator.storage.persist()}catch(e){this.persistOK=false}
+    }
+  },
+  idbPut(k,v){ if(!this.db)return;
+    try{this.db.transaction("espelho","readwrite").objectStore("espelho").put(v,k)}catch(e){} },
+  idbTudo(loja){ return new Promise(res=>{ if(!this.db)return res({});
+    try{const out={},cur=this.db.transaction(loja,"readonly").objectStore(loja).openCursor();
+      cur.onsuccess=()=>{const c=cur.result;if(c){out[c.key]=c.value;c.continue()}else res(out)};
+      cur.onerror=()=>res({});
+    }catch(e){res({})} }) },
+  load(k,fb){
+    let raw=null, falhou=false;
+    try{raw=localStorage.getItem(k)}catch(e){falhou=true;this.travas[k]="leitura falhou: "+e.message}
+    if(raw===null&&!falhou)return fb;          // nunca gravada: fallback é seguro
+    if(!falhou){ try{return JSON.parse(raw)}catch(e){this.travas[k]="JSON corrompido"} }
+    UI.banner("erro",`Falha ao ler ${k}. Gravação BLOQUEADA nessa chave para não apagar dados — exporte o backup em Ajustes.`,true);
+    return fb;
+  },
+  save(k,v){
+    if(this.travas[k]){UI.banner("erro",`Não gravei ${k}: a leitura falhou neste boot (proteção contra sobrescrita).`);return false}
+    let s; try{s=JSON.stringify(v)}catch(e){return false}
+    try{localStorage.setItem(k,s)}catch(e){UI.banner("erro","Armazenamento cheio/indisponível: "+e.message,true);return false}
+    this.idbPut(k,s);
+    const ag=Date.now();
+    if(ag-this.tsBackup>10*60*1000){this.tsBackup=ag;this.snapshot("auto")}
+    return true;
+  },
+  snapshot(motivo){ return new Promise(res=>{ if(!this.db)return res(false);
+    const foto={__quando:new Date().toISOString(),__motivo:motivo||"manual"};
+    TTKEYS.forEach(k=>{try{const v=localStorage.getItem(k);if(v!==null)foto[k]=v}catch(e){}});
+    try{
+      const tx=this.db.transaction("backups","readwrite"),st=tx.objectStore("backups");
+      st.add(foto);
+      const rq=st.getAllKeys();
+      rq.onsuccess=()=>{const ks=rq.result;
+        if(ks.length>12){const tx2=this.db.transaction("backups","readwrite");
+          ks.slice(0,ks.length-12).forEach(k=>tx2.objectStore("backups").delete(k))}
+        res(true)};
+      rq.onerror=()=>res(false);
+    }catch(e){res(false)} }) },
+  listaBackups(){ return new Promise(res=>{ if(!this.db)return res([]);
+    try{const out=[],cur=this.db.transaction("backups","readonly").objectStore("backups").openCursor();
+      cur.onsuccess=()=>{const c=cur.result;
+        if(c){out.push({id:c.key,quando:c.value.__quando,motivo:c.value.__motivo,
+          n:Object.keys(c.value).filter(k=>k.startsWith("rt_")).length});c.continue()}
+        else res(out.reverse())};
+      cur.onerror=()=>res([]);
+    }catch(e){res([])} }) },
+  restaura(id){ return new Promise(res=>{ if(!this.db)return res(false);
+    try{const rq=this.db.transaction("backups","readonly").objectStore("backups").get(id);
+      rq.onsuccess=async()=>{const foto=rq.result;if(!foto)return res(false);
+        await this.snapshot("antes-de-restaurar");
+        Object.keys(foto).filter(k=>k.startsWith("rt_")).forEach(k=>{try{localStorage.setItem(k,foto[k])}catch(e){}});
+        res(true)};
+      rq.onerror=()=>res(false);
+    }catch(e){res(false)} }) },
+  exporta(){ const out={__app:"trafego-titulo",__v:V,__quando:new Date().toISOString()};
+    TTKEYS.forEach(k=>{try{const v=localStorage.getItem(k);if(v!==null)out[k]=v}catch(e){}});
+    return out },
+  async importa(obj){ if(!obj||obj.__app!=="trafego-titulo")return null;
+    await this.snapshot("antes-de-importar");
+    let n=0;
+    TTKEYS.forEach(k=>{ if(typeof obj[k]==="string"){
+      try{JSON.parse(obj[k])}catch(e){return}
+      try{localStorage.setItem(k,obj[k]);this.idbPut(k,obj[k]);n++}catch(e){} }});
+    return n }
+};
+
+/* ---------- estado ---------- */
+let ST={};
+function carregaEstado(){
+  ST={
+    resp:ARM.load("tt_resp",{}), riscos:ARM.load("tt_riscos",{}), fav:ARM.load("tt_fav",{}),
+    flash:ARM.load("tt_flash",{}), erros:ARM.load("tt_erros",[]), plano:ARM.load("tt_plano",[]),
+    meta:ARM.load("tt_meta",{}), cfg:ARM.load("tt_cfg",{}), sim:ARM.load("tt_sim",[]),
+    simativo:ARM.load("tt_simativo",null), pos:ARM.load("tt_pos",{}), treino:ARM.load("tt_treino",{}),
+    atividade:ARM.load("tt_atividade",{})
+  };
+}
+function atividade(n){const d=dataISO();ST.atividade[d]=(ST.atividade[d]||0)+n;ARM.save("tt_atividade",ST.atividade)}
+function registraResposta(q,alt,ok,modo){
+  const ch=q._ch, r=ST.resp[ch]||(ST.resp[ch]={hist:[]});
+  r.hist.push({d:dataISO(),ok,alt,m:modo,ts:Date.now()});
+  if(r.hist.length>60)r.hist=r.hist.slice(-60);
+  ARM.save("tt_resp",ST.resp); atividade(1);
+}
+const respostaDe=q=>ST.resp[q._ch];
+const taxaAcerto=hist=>hist.length?hist.filter(h=>h.ok).length/hist.length:null;
+
+/* ---------- abas ---------- */
+const ABAS=[
+  ["questoes","Questões",'<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/>'],
+  ["simulado","Simulado",'<circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6"/>'],
+  ["pratica","Prática",'<path d="M4 4h11l5 5v11a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1z"/><path d="M14 4v6h6M8 14h6M8 17.5h4"/>'],
+  ["painel","Painel",'<path d="M3 3v18h18M7 14v4M12 10v8M17 6v12"/>'],
+  ["cartoes","Cartões",'<rect x="2" y="6" width="16" height="12" rx="2"/><path d="M22 4v12M6 10h8M6 14h5"/>'],
+  ["erros","Erros",'<path d="M12 9v4M12 17h.01M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/>'],
+  ["plano","Plano",'<rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/>'],
+  ["ajustes","Ajustes",'<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33h0a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51h0a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82v0a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>']
+];
+let abaAtual="";
+function montaAbas(){
+  $("#abas").innerHTML=ABAS.map(([id,nome,ic])=>
+    `<button data-aba="${id}"><svg class="ic" viewBox="0 0 24 24">${ic}</svg>${nome}</button>`).join("");
+  $("#abas").querySelectorAll("button").forEach(b=>b.onclick=()=>irAba(b.dataset.aba));
+}
+function irAba(id,semHash){
+  abaAtual=id;
+  document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.aba===id));
+  document.querySelectorAll("main section").forEach(s=>s.classList.toggle("on",s.id==="sec-"+id));
+  if(!semHash&&location.hash!=="#"+id)history.replaceState(null,"","#"+id);
+  ST.pos.aba=id;ARM.save("tt_pos",ST.pos);
+  ({questoes:montaQuestoes,simulado:montaSimulado,pratica:montaPratica,painel:montaPainel,
+    cartoes:montaCartoes,erros:montaErros,plano:montaPlano,ajustes:montaAjustes}[id]||(()=>{}))();
+}
+addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(ABAS.some(a=>a[0]===h))irAba(h,true)});
+
+/* ================== QUESTÕES ================== */
+const QST={lista:[],idx:0,respondida:false,selecionada:null};
+function filtrosQ(){
+  const f=ST.pos.fq||{};
+  return {tema:f.tema||"",status:f.status||"todas",real:!!f.real};
+}
+function aplicaFiltroQ(){
+  const f=filtrosQ();
+  QST.lista=BANCO.filter(q=>{
+    if(f.tema&&q.tema!==f.tema)return false;
+    if(f.real&&!q.fonte)return false;
+    const r=respostaDe(q);
+    if(f.status==="nao"&&r)return false;
+    if(f.status==="erradas"&&!(r&&r.hist.length&&!r.hist[r.hist.length-1].ok))return false;
+    if(f.status==="favoritas"&&!ST.fav[q._ch])return false;
+    return true;
+  });
+}
+function montaQuestoes(){
+  const f=filtrosQ();
+  const sec=$("#sec-questoes");
+  sec.innerHTML=`
+  <div class="cartao">
+    <div class="linha">
+      <select id="fqTema"><option value="">Todos os temas</option>
+        ${TAXONOMIA.map(t=>`<option value="${t.id}" ${f.tema===t.id?"selected":""}>${esc(t.nome)}</option>`).join("")}</select>
+      <select id="fqStatus">
+        <option value="todas" ${f.status==="todas"?"selected":""}>Todas</option>
+        <option value="nao" ${f.status==="nao"?"selected":""}>Não respondidas</option>
+        <option value="erradas" ${f.status==="erradas"?"selected":""}>Que errei</option>
+        <option value="favoritas" ${f.status==="favoritas"?"selected":""}>Favoritas</option>
+      </select>
+      <label class="linha peq mut" style="gap:5px"><input type="checkbox" id="fqReal" ${f.real?"checked":""}> só prova real</label>
+      <button class="btn fant" id="fqEmbaralha" title="Embaralhar"><svg class="ic" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
+    </div>
+  </div>
+  <div id="qCorpo"></div>`;
+  $("#fqTema").onchange=e=>{ST.pos.fq={...filtrosQ(),tema:e.target.value};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
+  $("#fqStatus").onchange=e=>{ST.pos.fq={...filtrosQ(),status:e.target.value};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
+  $("#fqReal").onchange=e=>{ST.pos.fq={...filtrosQ(),real:e.target.checked};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
+  $("#fqEmbaralha").onclick=()=>{QST.lista.sort(()=>Math.random()-0.5);QST.idx=0;desenhaQuestao()};
+  aplicaFiltroQ();
+  // continuar de onde parei — por CHAVE, nunca por índice
+  if(ST.pos.chq){const i=QST.lista.findIndex(q=>q._ch===ST.pos.chq);if(i>=0)QST.idx=i}
+  if(QST.idx>=QST.lista.length)QST.idx=0;
+  desenhaQuestao();
+}
+function desenhaQuestao(){
+  const box=$("#qCorpo");
+  if(!QST.lista.length){box.innerHTML=`<div class="cartao mut">Nenhuma questão com esses filtros.</div>`;return}
+  const q=QST.lista[QST.idx];
+  QST.respondida=false;QST.selecionada=null;
+  ST.pos.chq=q._ch;ARM.save("tt_pos",ST.pos);
+  const riscos=ST.riscos[q._ch]||[];
+  const selo=q.fonte?`<span class="chip real">${esc(q.fonte.banca)} ${esc(q.fonte.ano)}</span>`:`<span class="chip aut">autoral</span>`;
+  box.innerHTML=`<div class="cartao">
+    <div class="q-topo">
+      <span class="chip">${esc(TNOME[q.tema]||q.tema)}</span>${q.sub?`<span class="chip">${esc(q.sub)}</span>`:""}${selo}
+      <span class="mut peq" style="margin-left:auto">${QST.idx+1} / ${QST.lista.length}</span>
+      <button id="qFav" title="Favoritar" style="color:${ST.fav[q._ch]?"var(--warn)":"var(--mut)"}">
+        <svg class="ic" viewBox="0 0 24 24" ${ST.fav[q._ch]?'fill="currentColor"':""}><path d="M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></svg></button>
+    </div>
+    <div class="q-enun">${esc(q.q)}</div>
+    <div id="qAlts">${q.alts.map((a,i)=>`
+      <button class="alt ${riscos.includes(i)?"riscada":""}" data-i="${i}">
+        <span class="letra">${LETRAS[i]}</span><span class="txt">${esc(a)}</span>
+        <span class="risco" title="Riscar alternativa"><svg viewBox="0 0 24 24" class="ic"><path d="M4 12h16M9 5l6 14"/></svg></span>
+      </button>`).join("")}</div>
+    <div class="navq">
+      <button class="btn fant" id="qAnt">‹ Anterior</button>
+      <button class="btn" id="qResp" disabled>Responder</button>
+      <button class="btn fant" id="qProx" style="margin-left:auto">Próxima ›</button>
+    </div>
+    <div id="qFeed"></div>
+  </div>`;
+  $("#qFav").onclick=()=>{if(ST.fav[q._ch])delete ST.fav[q._ch];else ST.fav[q._ch]=1;ARM.save("tt_fav",ST.fav);desenhaQuestao()};
+  $("#qAnt").onclick=()=>{if(QST.idx>0){QST.idx--;desenhaQuestao()}};
+  $("#qProx").onclick=()=>{if(QST.idx<QST.lista.length-1){QST.idx++;desenhaQuestao()}};
+  $("#qResp").onclick=()=>respondeQuestao(q);
+  box.querySelectorAll(".alt").forEach(el=>ligaAlternativa(el,q));
+}
+function ligaAlternativa(el,q){
+  const i=+el.dataset.i;
+  el.querySelector(".risco").onclick=e=>{e.stopPropagation();toggleRisco(q,i)};
+  // arrastar para o lado risca (toque e mouse); clique seleciona
+  let x0=null,y0=null,arrastou=false;
+  el.addEventListener("pointerdown",e=>{x0=e.clientX;y0=e.clientY;arrastou=false});
+  el.addEventListener("pointermove",e=>{
+    if(x0===null||QST.respondida)return;
+    if(Math.abs(e.clientX-x0)>56&&Math.abs(e.clientY-y0)<28&&!arrastou){arrastou=true;toggleRisco(q,i)}
+  });
+  el.addEventListener("pointerup",()=>{setTimeout(()=>{x0=null},0)});
+  el.addEventListener("click",()=>{
+    if(arrastou||QST.respondida)return;
+    if((ST.riscos[q._ch]||[]).includes(i))return;
+    QST.selecionada=i;
+    document.querySelectorAll("#qAlts .alt").forEach(a=>a.classList.toggle("sel",+a.dataset.i===i));
+    $("#qResp").disabled=false;
+  });
+}
+function toggleRisco(q,i){
+  const r=ST.riscos[q._ch]||(ST.riscos[q._ch]=[]);
+  const p=r.indexOf(i);
+  if(p>=0)r.splice(p,1);else{r.push(i);if(QST.selecionada===i){QST.selecionada=null;$("#qResp").disabled=true}}
+  if(!r.length)delete ST.riscos[q._ch];
+  ARM.save("tt_riscos",ST.riscos);
+  const el=document.querySelector(`#qAlts .alt[data-i="${i}"]`);
+  if(el){el.classList.toggle("riscada",p<0);el.classList.remove("sel")}
+}
+function respondeQuestao(q){
+  if(QST.selecionada===null||QST.respondida)return;
+  QST.respondida=true;
+  const ok=QST.selecionada===q.gab;
+  registraResposta(q,QST.selecionada,ok,"estudo");
+  document.querySelectorAll("#qAlts .alt").forEach(el=>{
+    const i=+el.dataset.i;
+    if(i===q.gab)el.classList.add("certa");
+    else if(i===QST.selecionada)el.classList.add("errada");
+  });
+  $("#qResp").disabled=true;
+  $("#qFeed").innerHTML=`<div class="coment">
+    <b class="${ok?"verde":"vermelho"}">${ok?"Acertou.":"Errou — gabarito "+LETRAS[q.gab]+"."}</b>
+    <div style="margin-top:6px">${esc(q.coment)}</div>
+    ${q.porAlt?`<div class="porq">${q.porAlt.map((p,i)=>`<div><b>${LETRAS[i]})</b> ${esc(p)}</div>`).join("")}</div>`:""}
+    ${q.base?`<div class="base"><b>Base:</b> ${esc(q.base)}</div>`:""}
+    ${ok?"":`<div style="margin-top:10px"><button class="btn fant" id="qLog">Anotar no log de erros</button></div>`}
+  </div>`;
+  const bl=$("#qLog");
+  if(bl)bl.onclick=()=>{
+    ST.erros.unshift({id:novoIdLinha(),d:dataISO(),tema:q.tema,ref:q._ch,oque:(q.sub||q.tema)+": "+q.q.slice(0,80)+"…",porque:"",licao:""});
+    ARM.save("tt_erros",ST.erros);
+    UI.banner("info","Anotado no log de erros — complete o motivo e a lição na aba Erros.");
+    bl.disabled=true;
+  };
+}
+
+/* ================== SIMULADO ================== */
+let cronSimId=null;
+function montaSimulado(){
+  clearInterval(cronSimId);
+  const s=ST.simativo;
+  if(s&&!s.fim){desenhaSimAtivo();return}
+  const sec=$("#sec-simulado");
+  const hist=ST.sim.slice(-10).reverse();
+  sec.innerHTML=`
+  <div class="cartao">
+    <h2>Novo simulado</h2>
+    <p class="peq mut" style="margin-bottom:10px">Formato oficial (Edital AMB/ABRAMET nº 2446): 50 questões de múltipla escolha com 5 alternativas, peso 6 na nota final; a teórico-prática descritiva tem peso 3 e a análise curricular peso 1. As duas provas somam 3h. É preciso tirar <b>no mínimo 6,0 na teórica</b> — e média ponderada ≥ 6,0. Sem gabarito durante a execução.</p>
+    <div class="linha">
+      <label class="peq mut">Questões <input id="simN" type="number" min="5" max="50" value="${Math.min(50,BANCO.length)}" style="width:80px"></label>
+      <label class="peq mut">Minutos <input id="simMin" type="number" min="5" max="240" value="110" style="width:80px"></label>
+      <select id="simTema"><option value="">Todos os temas</option>
+        ${TAXONOMIA.map(t=>`<option value="${t.id}">${esc(t.nome)}</option>`).join("")}</select>
+      <button class="btn" id="simComeca">Começar</button>
+    </div>
+    <p class="peq mut" id="simAviso" style="margin-top:8px"></p>
+  </div>
+  ${hist.length?`<div class="cartao"><h2>Histórico</h2><div class="rolagem"><table>
+    <tr><th>Data</th><th>Questões</th><th>Nota</th><th></th></tr>
+    ${hist.map((h,i)=>`<tr><td>${esc(h.quando)}</td><td>${h.detalhes.length}</td>
+      <td class="${h.nota>=60?"verde":"vermelho"}">${h.nota.toFixed(0)}%</td>
+      <td><button class="btn fant peq" data-rev="${ST.sim.length-1-i}">rever</button></td></tr>`).join("")}
+  </table></div></div>`:""}`;
+  $("#simComeca").onclick=()=>{
+    const n=+$("#simN").value||50, min=+$("#simMin").value||110, tema=$("#simTema").value;
+    let pool=BANCO.filter(q=>!tema||q.tema===tema);
+    if(pool.length<n)$("#simAviso").textContent=`Só há ${pool.length} questões nesse filtro — o simulado vai usar todas.`;
+    const qs=pool.sort(()=>Math.random()-0.5).slice(0,n).map(q=>q._ch);
+    if(!qs.length)return;
+    ST.simativo={qs,resp:{},ini:Date.now(),min,pos:0};
+    ARM.save("tt_simativo",ST.simativo);
+    desenhaSimAtivo();
+  };
+  sec.querySelectorAll("[data-rev]").forEach(b=>b.onclick=()=>desenhaRevisao(+b.dataset.rev,0));
+}
+function desenhaSimAtivo(){
+  const s=ST.simativo, sec=$("#sec-simulado");
+  const qs=s.qs.map(ch=>QIDX.get(ch)).filter(Boolean);
+  if(!qs.length){ST.simativo=null;ARM.save("tt_simativo",null);montaSimulado();return}
+  if(s.pos>=qs.length)s.pos=0;
+  const q=qs[s.pos];
+  sec.innerHTML=`
+  <div class="cartao">
+    <div class="linha" style="justify-content:space-between">
+      <span id="cronSim">--:--</span>
+      <span class="mut peq">${Object.keys(s.resp).length}/${qs.length} respondidas</span>
+      <button class="btn perigo" id="simFim">Entregar</button>
+    </div>
+    <div class="gradeSim" style="margin-top:10px">
+      ${qs.map((qq,i)=>`<button class="${s.resp[qq._ch]!=null?"resp":""} ${i===s.pos?"atual":""}" data-i="${i}">${i+1}</button>`).join("")}
+    </div>
+  </div>
+  <div class="cartao">
+    <div class="q-topo"><span class="chip">${esc(TNOME[q.tema]||q.tema)}</span>
+      <span class="mut peq" style="margin-left:auto">questão ${s.pos+1} de ${qs.length}</span></div>
+    <div class="q-enun">${esc(q.q)}</div>
+    <div id="simAlts">${q.alts.map((a,i)=>`
+      <button class="alt ${s.resp[q._ch]===i?"sel":""}" data-i="${i}">
+        <span class="letra">${LETRAS[i]}</span><span class="txt">${esc(a)}</span></button>`).join("")}</div>
+    <div class="navq">
+      <button class="btn fant" id="simAnt">‹</button>
+      <button class="btn fant" id="simProx" style="margin-left:auto">›</button>
+    </div>
+  </div>`;
+  sec.querySelectorAll(".gradeSim button").forEach(b=>b.onclick=()=>{s.pos=+b.dataset.i;ARM.save("tt_simativo",s);desenhaSimAtivo()});
+  sec.querySelectorAll("#simAlts .alt").forEach(b=>b.onclick=()=>{
+    s.resp[q._ch]=+b.dataset.i;ARM.save("tt_simativo",s);
+    if(s.pos<qs.length-1){s.pos++;ARM.save("tt_simativo",s)}
+    desenhaSimAtivo();
+  });
+  $("#simAnt").onclick=()=>{if(s.pos>0){s.pos--;ARM.save("tt_simativo",s);desenhaSimAtivo()}};
+  $("#simProx").onclick=()=>{if(s.pos<qs.length-1){s.pos++;ARM.save("tt_simativo",s);desenhaSimAtivo()}};
+  $("#simFim").onclick=()=>{
+    const faltam=qs.length-Object.keys(s.resp).length;
+    if(faltam&&!confirm(`Ainda faltam ${faltam} questões. Entregar mesmo assim?`))return;
+    finalizaSim(qs);
+  };
+  clearInterval(cronSimId);
+  const tick=()=>{
+    const rest=s.ini+s.min*60000-Date.now();
+    if(rest<=0){clearInterval(cronSimId);UI.banner("info","Tempo esgotado — simulado entregue.");finalizaSim(qs);return}
+    const mm=Math.floor(rest/60000),ss=Math.floor(rest%60000/1000);
+    const el=$("#cronSim");if(el)el.textContent=`${mm}:${String(ss).padStart(2,"0")}`;
+  };
+  tick();cronSimId=setInterval(tick,1000);
+}
+function finalizaSim(qs){
+  clearInterval(cronSimId);
+  const s=ST.simativo;if(!s)return;
+  const detalhes=qs.map(q=>{const alt=s.resp[q._ch];const ok=alt===q.gab;
+    if(alt!=null)registraResposta(q,alt,ok,"sim");
+    return {ch:q._ch,alt:alt==null?null:alt,ok:alt==null?false:ok}});
+  const acertos=detalhes.filter(d=>d.ok).length;
+  const nota=acertos/detalhes.length*100;
+  ST.sim.push({id:Date.now().toString(36),quando:dataISO(),nota,acertos,detalhes});
+  ARM.save("tt_sim",ST.sim);
+  ST.simativo=null;ARM.save("tt_simativo",null);
+  ARM.snapshot("fim-de-simulado");
+  desenhaRevisao(ST.sim.length-1,0,true);
+}
+function desenhaRevisao(iSim,pos,recem){
+  const sm=ST.sim[iSim];if(!sm){montaSimulado();return}
+  const sec=$("#sec-simulado");
+  const det=sm.detalhes.filter(d=>QIDX.has(d.ch)); // chave sumida do banco: descarta em silêncio
+  const d=det[Math.min(pos,det.length-1)],q=QIDX.get(d.ch);
+  sec.innerHTML=`
+  <div class="cartao">
+    <div class="linha" style="justify-content:space-between">
+      <div><div class="gd ${sm.nota>=60?"verde":"vermelho"}">${sm.nota.toFixed(0)}%</div>
+        <div class="peq mut">${sm.acertos}/${sm.detalhes.length} acertos • ${sm.nota>=60?"acima":"abaixo"} do corte de 60% • ${esc(sm.quando)}</div></div>
+      <button class="btn fant" id="revVoltar">Fechar revisão</button>
+    </div>
+    ${recem?`<p class="peq mut" style="margin-top:6px">Revisão navegável: clique na questão para revê-la com o comentário.</p>`:""}
+    <div class="gradeSim" style="margin-top:10px">
+      ${det.map((dd,i)=>`<button class="${dd.alt==null?"":dd.ok?"certa":"errada"} ${i===pos?"atual":""}" data-i="${i}">${i+1}</button>`).join("")}
+    </div>
+  </div>
+  <div class="cartao">
+    <div class="q-topo"><span class="chip">${esc(TNOME[q.tema]||q.tema)}</span>
+      ${q.fonte?`<span class="chip real">${esc(q.fonte.banca)} ${esc(q.fonte.ano)}</span>`:`<span class="chip aut">autoral</span>`}</div>
+    <div class="q-enun">${esc(q.q)}</div>
+    ${q.alts.map((a,i)=>`<div class="alt ${i===q.gab?"certa":""} ${d.alt===i&&i!==q.gab?"errada":""}">
+      <span class="letra">${LETRAS[i]}</span><span class="txt">${esc(a)}</span></div>`).join("")}
+    <div class="coment"><div>${esc(q.coment)}</div>
+      ${q.porAlt?`<div class="porq">${q.porAlt.map((p,i)=>`<div><b>${LETRAS[i]})</b> ${esc(p)}</div>`).join("")}</div>`:""}
+    ${q.base?`<div class="base"><b>Base:</b> ${esc(q.base)}</div>`:""}</div>
+    <div class="navq">
+      <button class="btn fant" id="revAnt">‹ Anterior</button>
+      <button class="btn fant" id="revProx" style="margin-left:auto">Próxima ›</button>
+    </div>
+  </div>`;
+  $("#revVoltar").onclick=()=>montaSimulado();
+  $("#revAnt").onclick=()=>{if(pos>0)desenhaRevisao(iSim,pos-1)};
+  $("#revProx").onclick=()=>{if(pos<det.length-1)desenhaRevisao(iSim,pos+1)};
+  sec.querySelectorAll(".gradeSim button").forEach(b=>b.onclick=()=>desenhaRevisao(iSim,+b.dataset.i));
+}
+
+/* ================== IMAGENS (iframe lazy) ================== */
+let frameImg=null;
+
+/* ================== PRÁTICA (teórico-prática descritiva, peso 3) ================== */
+const PRT={id:null,mostrou:false};
+function notaCaso(c,marcados){
+  const tot=c.espelho.reduce((a,p)=>a+p.peso,0);
+  if(!tot)return 0;
+  const got=c.espelho.reduce((a,p,i)=>a+(marcados.includes(i)?p.peso:0),0);
+  return Math.round(got/tot*100)/10;   // escala 0–10, uma casa
+}
+function montaPratica(){
+  if(PRT.id)return desenhaCaso();
+  const sec=$("#sec-pratica");
+  const f=ST.pos.fp||(ST.pos.fp={tema:"",status:"todos"});
+  let lista=PRATICA.filter(c=>!f.tema||c.tema===f.tema);
+  if(f.status==="pend")lista=lista.filter(c=>!ST.treino[c.id]);
+  else if(f.status==="feitos")lista=lista.filter(c=>ST.treino[c.id]);
+  const feitos=PRATICA.filter(c=>ST.treino[c.id]);
+  const med=feitos.length?feitos.reduce((a,c)=>a+(ST.treino[c.id].nota||0),0)/feitos.length:null;
+  sec.innerHTML=`
+  <div class="cartao">
+    <h2>Prova teórico-prática descritiva</h2>
+    <p class="peq mut">Cenários e casos da especialidade, respondidos por escrito — peso 3 na nota final (30%). Escreva a resposta sem olhar, depois abra o espelho de correção e marque item a item o que você realmente escreveu. A nota do caso sai do peso dos pontos-chave cobertos.</p>
+    <div class="linha" style="margin-top:10px">
+      <select id="prtTema"><option value="">Todos os temas</option>
+        ${TAXONOMIA.map(t=>`<option value="${t.id}" ${f.tema===t.id?"selected":""}>${esc(t.nome)}</option>`).join("")}</select>
+      <select id="prtStatus">
+        <option value="todos" ${f.status==="todos"?"selected":""}>Todos</option>
+        <option value="pend" ${f.status==="pend"?"selected":""}>Não feitos</option>
+        <option value="feitos" ${f.status==="feitos"?"selected":""}>Já feitos</option>
+      </select>
+      <span class="mut peq" style="margin-left:auto">${feitos.length}/${PRATICA.length} feitos${med===null?"":" • média "+med.toFixed(1)}</span>
+    </div>
+  </div>
+  <div class="cartao">
+    ${lista.length?lista.map(c=>{
+      const r=ST.treino[c.id];
+      const cor=!r?"mut":r.nota>=7?"verde":r.nota>=6?"ambar":"vermelho";
+      return `<button class="casoLin" data-caso="${esc(c.id)}">
+        <span><span class="tit">${esc(c.titulo)}</span><br><span class="chip">${esc(TNOME[c.tema]||c.tema)}</span></span>
+        <span class="nt ${cor}">${r?r.nota.toFixed(1):"—"}</span></button>`}).join("")
+      :'<p class="mut peq">Nenhum caso com esse filtro.</p>'}
+  </div>`;
+  const salva=()=>{ST.pos.fp={tema:$("#prtTema").value,status:$("#prtStatus").value};ARM.save("tt_pos",ST.pos);montaPratica()};
+  $("#prtTema").onchange=salva;$("#prtStatus").onchange=salva;
+  sec.querySelectorAll("[data-caso]").forEach(b=>b.onclick=()=>{PRT.id=b.dataset.caso;PRT.mostrou=false;desenhaCaso()});
+}
+function desenhaCaso(){
+  const sec=$("#sec-pratica");
+  const c=PRATICA.find(x=>x.id===PRT.id);
+  if(!c){PRT.id=null;return montaPratica()}
+  const r=ST.treino[c.id];
+  const marcados=(r&&r.marcados)||[];
+  const rascunho=(r&&r.resp)||"";
+  sec.innerHTML=`
+  <div class="cartao">
+    <div class="q-topo">
+      <span class="chip">${esc(TNOME[c.tema]||c.tema)}</span>
+      ${r?`<span class="chip real">nota ${r.nota.toFixed(1)} em ${esc(r.d)}</span>`:""}
+      <button class="btn fant peq" id="prtVolta" style="margin-left:auto">‹ Voltar</button>
+    </div>
+    <h3 style="font-size:16px;margin-top:4px">${esc(c.titulo)}</h3>
+    <div class="cenario">${esc(c.cenario)}</div>
+    <b class="peq">Responda:</b>
+    <ol class="perg">${c.perguntas.map(p=>`<li>${esc(p)}</li>`).join("")}</ol>
+    <textarea id="prtResp" placeholder="Escreva aqui a sua resposta, como faria na prova…">${esc(rascunho)}</textarea>
+    <div class="navq">
+      <button class="btn" id="prtVer">${PRT.mostrou||r?"Espelho de correção":"Terminei — ver espelho de correção"}</button>
+      <span class="mut peq" id="prtAviso"></span>
+    </div>
+    <div id="prtEsp"></div>
+  </div>`;
+  $("#prtVolta").onclick=()=>{guardaRascunho(c);PRT.id=null;montaPratica()};
+  $("#prtResp").oninput=()=>{clearTimeout(PRT.t);PRT.t=setTimeout(()=>guardaRascunho(c),700)};
+  $("#prtVer").onclick=()=>{PRT.mostrou=true;guardaRascunho(c);desenhaEspelho(c,marcados)};
+  if(PRT.mostrou||r)desenhaEspelho(c,marcados);
+}
+function guardaRascunho(c){
+  const el=$("#prtResp");if(!el)return;
+  const t=ST.treino[c.id]||(ST.treino[c.id]={nota:0,marcados:[],d:dataISO()});
+  t.resp=el.value;t.ts=Date.now();
+  ARM.save("tt_treino",ST.treino);
+}
+function desenhaEspelho(c,marcados){
+  const box=$("#prtEsp");if(!box)return;
+  const nota=notaCaso(c,marcados);
+  box.innerHTML=`<div class="espelho">
+    <b>Espelho de correção — marque o que você escreveu</b>
+    <div style="margin-top:8px">
+      ${c.espelho.map((p,i)=>`<label class="pchave">
+        <input type="checkbox" data-p="${i}" ${marcados.includes(i)?"checked":""}>
+        <span>${esc(p.p)}</span><span class="pz">${p.peso} pt</span></label>`).join("")}
+    </div>
+    <div class="notaFim linha">
+      <b>Nota do caso: <span id="prtNota" class="${nota>=7?"verde":nota>=6?"ambar":"vermelho"}">${nota.toFixed(1)}</span></b>
+      <button class="btn" id="prtSalva" style="margin-left:auto">Registrar nota</button>
+    </div>
+    ${c.ref?`<div class="peq mut" style="margin-top:10px"><b>Base:</b> ${esc(c.ref)}</div>`:""}
+  </div>`;
+  box.querySelectorAll("[data-p]").forEach(cb=>cb.onchange=()=>{
+    const i=+cb.dataset.p, p=marcados.indexOf(i);
+    if(cb.checked&&p<0)marcados.push(i); else if(!cb.checked&&p>=0)marcados.splice(p,1);
+    const n=notaCaso(c,marcados), el=$("#prtNota");
+    el.textContent=n.toFixed(1);
+    el.className=n>=7?"verde":n>=6?"ambar":"vermelho";
+  });
+  $("#prtSalva").onclick=()=>{
+    const t=ST.treino[c.id]||(ST.treino[c.id]={});
+    const novo=!t.d||t.nota===undefined;
+    t.nota=notaCaso(c,marcados);t.marcados=marcados.slice();t.d=dataISO();t.ts=Date.now();
+    t.resp=($("#prtResp")||{}).value||t.resp||"";
+    ARM.save("tt_treino",ST.treino);
+    atividade(2);
+    UI.banner("ok",`Caso registrado com nota ${t.nota.toFixed(1)}.`);
+    PRT.id=null;PRT.mostrou=false;montaPratica();
+  };
+}
+
+/* ================== PAINEL ================== */
+function incidencia(){
+  const reais=BANCO.filter(q=>q.fonte);
+  if(reais.length<10)return {uniforme:true,map:Object.fromEntries(TAXONOMIA.map(t=>[t.id,1/TAXONOMIA.length]))};
+  const m={};TAXONOMIA.forEach(t=>m[t.id]=reais.filter(q=>q.tema===t.id).length/reais.length);
+  return {uniforme:false,map:m};
+}
+function statsTema(){
+  const por={};
+  for(const [ch,r] of Object.entries(ST.resp)){
+    const q=QIDX.get(ch);if(!q)continue;          // chave órfã: ignora (falha segura)
+    (por[q.tema]=por[q.tema]||[]).push(...r.hist);
+  }
+  return por;
+}
+function revisaoTemas(){
+  const por=statsTema();
+  return TAXONOMIA.map(t=>{
+    const hs=(por[t.id]||[]).slice().sort((a,b)=>a.d<b.d?-1:1);
+    if(!hs.length)return {t,nunca:true};
+    const ult=hs[hs.length-1].d,u20=hs.slice(-20);
+    const acc=u20.filter(h=>h.ok).length/u20.length;
+    const iv=Math.max(1,Math.min(15,Math.round(1+14*acc*acc)));
+    const due=addDiasISO(ult,iv);
+    return {t,ult,acc,iv,due,atrasado:due<dataISO()};
+  });
+}
+function ofensiva(){
+  let d=new Date(),n=0;
+  if(!ST.atividade[dataISO(d)])d.setDate(d.getDate()-1);
+  while(ST.atividade[dataISO(d)]){n++;d.setDate(d.getDate()-1)}
+  return n;
+}
+function montaPainel(){
+  const sec=$("#sec-painel");
+  const inc=incidencia(),por=statsTema(),nf=notaSimulada();
+  const totalResp=Object.values(ST.resp).reduce((a,r)=>a+r.hist.length,0);
+  const unicas=Object.keys(ST.resp).filter(ch=>QIDX.has(ch)).length;
+  const todasH=Object.values(por).flat();
+  const accG=taxaAcerto(todasH);
+  // prioridade
+  const linhas=TAXONOMIA.map(t=>{
+    const hs=por[t.id]||[],acc=taxaAcerto(hs);
+    const erro=acc===null?0.7:1-acc;
+    return {t,acc,erro,inc:inc.map[t.id]||0,pri:(inc.map[t.id]||0)*erro,semDados:acc===null};
+  }).sort((a,b)=>b.pri-a.pri);
+  const maxPri=Math.max(...linhas.map(l=>l.pri),0.0001);
+  // meta
+  const m=ST.meta;
+  let metaTxt="";
+  if(m.dataProva&&m.alvo){
+    const dias=Math.max(0,Math.ceil((new Date(m.dataProva+"T12:00:00")-new Date())/86400000));
+    const faltam=Math.max(0,m.alvo-totalResp);
+    metaTxt=dias>0?`faltam <b>${faltam}</b> questões em <b>${dias}</b> dias → <b>~${Math.ceil(faltam/dias)}</b>/dia`:`a prova é hoje — reta final`;
+  }
+  // heatmap 26 semanas
+  const hoje=new Date();const celulas=[];
+  const ini=new Date();ini.setDate(hoje.getDate()-(25*7+hoje.getDay()));
+  for(let i=0;i<26*7;i++){const d=new Date(ini);d.setDate(ini.getDate()+i);
+    if(d>hoje)break;
+    const n=ST.atividade[dataISO(d)]||0;
+    const nv=n===0?0:n<5?1:n<15?2:n<30?3:4;
+    celulas.push(`<i class="h${nv}" title="${dataISO(d)}: ${n}"></i>`)}
+  // cobertura do banco
+  const cob=TAXONOMIA.map(t=>({t,n:BANCO.filter(q=>q.tema===t.id).length}));
+  // prática descritiva
+  const pr=Object.values(ST.treino);
+  const prN=pr.length, prMed=prN?pr.reduce((a,v)=>a+(v.nota||0),0)/prN:null;
+  sec.innerHTML=`
+  <div class="cardsMini">
+    <div class="mini"><div class="rot">Respostas</div><div class="gd">${totalResp}</div><div class="peq mut">${unicas} questões únicas</div></div>
+    <div class="mini"><div class="rot">Acerto geral</div><div class="gd">${accG===null?"—":Math.round(accG*100)+"%"}</div><div class="peq mut">todas as tentativas</div></div>
+    <div class="mini"><div class="rot">Ofensiva</div><div class="gd">${ofensiva()} d</div><div class="peq mut">dias seguidos</div></div>
+    <div class="mini"><div class="rot">Teórico-prática</div><div class="gd">${prMed===null?"—":prMed.toFixed(1)}</div><div class="peq mut">${prN} de ${PRATICA.length} casos feitos</div></div>
+  </div>
+  <div class="cartao">
+    <h2>Meta até a prova</h2>
+    <div class="linha">
+      <label class="peq mut">Data da prova <input type="date" id="metaData" value="${esc(m.dataProva||"")}"></label>
+      <label class="peq mut">Alvo de questões <input type="number" id="metaAlvo" min="50" step="50" value="${esc(m.alvo||"")}" style="width:100px"></label>
+    </div>
+    <p style="margin-top:8px" id="metaTxt">${metaTxt||'<span class="mut peq">defina a data e o alvo</span>'}</p>
+  </div>
+  <div class="cartao">
+    <h2>Nota final projetada — 6 teórica + 3 prática + 1 currículo</h2>
+    <div class="notaG">
+      <span>Teórica (média dos últimos simulados)</span><span class="vl">${nf.teor===null?'<span class="mut">sem dados</span>':nf.teor.toFixed(1)}</span>
+      <span>Teórico-prática (média dos casos corrigidos)</span><span class="vl">${nf.prat===null?'<span class="mut">sem dados</span>':nf.prat.toFixed(1)}</span>
+      <span>Currículo (${nf.pontos} pts do Anexo I)</span><span class="vl">${nf.cur.toFixed(1)}</span>
+    </div>
+    <div class="notaFim">
+      ${nf.fim===null
+        ?'<span class="mut peq">Faça pelo menos um simulado e um caso da aba Prática para projetar a nota.</span>'
+        :`<b>Média ponderada: <span class="${nf.fim>=6?"verde":"vermelho"}">${nf.fim.toFixed(1)}</span></b>
+          ${nf.teor!==null&&nf.teor<6?'<div class="vermelho peq" style="margin-top:4px">A teórica está abaixo de 6,0 — pelo item 9.4 do edital isso reprova mesmo com média ponderada suficiente.</div>':''}`}
+    </div>
+    <details style="margin-top:10px">
+      <summary class="peq mut" style="cursor:pointer">Preencher o currículo (Anexo I)</summary>
+      <div style="margin-top:10px">
+        ${CURRIC.map(g=>`<div class="linha" style="margin-bottom:7px">
+          <span class="peq" style="flex:1;min-width:200px">${esc(g.rot)}</span>
+          <select data-cur="${g.id}">${g.op.map(o=>`<option value="${o[0]}" ${(ST.cfg.curric||{})[g.id]===o[0]?"selected":""}>${esc(o[1])}${o[2]?" — "+o[2]+" pts":""}</option>`).join("")}</select>
+        </div>`).join("")}
+        <p class="peq mut" style="margin-top:8px">Total: <b>${nf.pontos}</b> de ${CURRIC_MAX} pontos possíveis. O edital não publica a régua de conversão dos pontos em nota de 0 a 10 — aqui usa-se proporção sobre o teto, então trate como comparação de cenários, não como a nota que a banca vai dar.</p>
+      </div>
+    </details>
+  </div>
+  <div class="cartao">
+    <h2>Prioridade de estudo — incidência × taxa de erro</h2>
+    ${inc.uniforme?`<p class="peq mut" style="margin-bottom:8px">Ainda sem questões de prova real suficientes para calcular a incidência — usando peso uniforme por enquanto. A incidência real entra quando as provas anteriores forem classificadas.</p>`:""}
+    <div class="rolagem"><table>
+      <tr><th>Tema</th><th>Incid.</th><th>Erro</th><th>Prioridade</th></tr>
+      ${linhas.map(l=>`<tr class="clic" data-tema="${l.t.id}">
+        <td>${esc(l.t.nome)}</td>
+        <td>${(l.inc*100).toFixed(0)}%</td>
+        <td>${l.semDados?'<span class="mut">sem dados</span>':Math.round(l.erro*100)+"%"}</td>
+        <td style="min-width:110px"><div class="barra"><i style="width:${(l.pri/maxPri*100).toFixed(0)}%"></i></div></td>
+      </tr>`).join("")}
+    </table></div>
+  </div>
+  <div class="cartao">
+    <h2>Revisão espaçada por tema</h2>
+    <div class="rolagem"><table>
+      <tr><th>Tema</th><th>Último estudo</th><th>Acerto (últ. 20)</th><th>Revisar</th></tr>
+      ${revisaoTemas().map(r=>r.nunca
+        ?`<tr class="clic" data-tema="${r.t.id}"><td>${esc(r.t.nome)}</td><td class="mut" colspan="2">nunca estudado</td><td class="ambar">começar</td></tr>`
+        :`<tr class="clic" data-tema="${r.t.id}"><td>${esc(r.t.nome)}</td><td>${esc(r.ult)}</td><td>${Math.round(r.acc*100)}%</td>
+           <td class="${r.atrasado?"vermelho":"verde"}">${r.atrasado?"atrasado ("+r.due+")":r.due}</td></tr>`).join("")}
+    </table></div>
+    <p class="peq mut" style="margin-top:6px">Intervalo de 1 a 15 dias conforme o desempenho — derivado do histórico.</p>
+  </div>
+  <div class="cartao">
+    <h2>Atividade (26 semanas)</h2>
+    <div class="heat">${celulas.join("")}</div>
+  </div>
+  <div class="cartao">
+    <h2>Cobertura do banco (alvo 30/tema)</h2>
+    <div class="rolagem"><table>${cob.map(c=>`<tr class="clic" data-tema="${c.t.id}"><td>${esc(c.t.nome)}</td>
+      <td style="width:56px;text-align:right" class="${c.n>=30?"verde":c.n?"ambar":"vermelho"}">${c.n}</td>
+      <td style="min-width:110px"><div class="barra"><i style="width:${Math.min(100,c.n/30*100)}%"></i></div></td></tr>`).join("")}
+    </table></div>
+  </div>`;
+  const salvaMeta=()=>{ST.meta={dataProva:$("#metaData").value||null,alvo:+$("#metaAlvo").value||null};ARM.save("tt_meta",ST.meta);montaPainel()};
+  sec.querySelectorAll("[data-cur]").forEach(sl=>sl.onchange=()=>{
+    const c=ST.cfg.curric||(ST.cfg.curric={});
+    c[sl.dataset.cur]=sl.value;ARM.save("tt_cfg",ST.cfg);montaPainel();
+    document.querySelector("#sec-painel details").open=true;
+  });
+  $("#metaData").onchange=salvaMeta;$("#metaAlvo").onchange=salvaMeta;
+  sec.querySelectorAll("tr.clic").forEach(tr=>tr.onclick=()=>{
+    ST.pos.fq={tema:tr.dataset.tema,status:"todas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes");
+  });
+}
+
+
+/* ---------- nota final: 0,6 teórica + 0,3 teórico-prática + 0,1 currículo ---------- */
+const CURRIC=[
+ {id:"atuacao",rot:"Atuação profissional em Medicina do Tráfego",op:[["nenhuma","Nenhuma",0],["ate4","Até 4 anos incompletos",5],["mais4","Acima de 4 anos",20]]},
+ {id:"eventos",rot:"Participação em eventos científicos (últimos 5 anos)",op:[["0","Nenhum",0],["1","1 participação (ou anteriores aos últimos 5 anos)",4],["2","2 participações",8],["3","3 participações",11],["4","4 participações",13],["5","5 ou mais",15]]},
+ {id:"pos",rot:"Pós-graduação (maior pontuação)",op:[["0","Nenhuma",0],["cap","Curso de Capacitação (Res. CONTRAN 80/98)",20],["rm","Residência médica em Medicina do Tráfego",50],["trein","Treinamento reconhecido pela ABRAMET",50]]},
+ {id:"outrotit",rot:"Residência/título de especialista em OUTRA especialidade",op:[["0","Não",0],["s","Sim",10]]},
+ {id:"stricto",rot:"Mestrado ou doutorado em Medicina",op:[["0","Não",0],["me","Mestrado",15],["dr","Doutorado",20]]},
+ {id:"concurso",rot:"Aprovação em concurso público em Medicina",op:[["0","Nenhuma",0],["1","1 aprovação",5],["2","2 ou mais",10]]},
+ {id:"didatica",rot:"Participação didática (palestras, organização, pôsteres)",op:[["0","Nenhuma",0],["1","1 atividade",5],["2","2 ou mais",10]]},
+ {id:"ead",rot:"EAD de Medicina do Tráfego reconhecido pela ABRAMET",op:[["0","Nenhum",0],["1","1 ciclo",10],["2","2 ou mais ciclos",20]]},
+ {id:"producao",rot:"Produção científica publicada",op:[["0","Nenhuma",0],["1","1 publicação",5],["2","2 ou mais",10]]},
+ {id:"assoc",rot:"Associação a sociedade médica da área",op:[["0","Não",0],["s","Sim",10]]}
+];
+const CURRIC_MAX=CURRIC.reduce((a,c)=>a+Math.max(...c.op.map(o=>o[2])),0);
+function pontosCurriculo(){
+  const c=ST.cfg.curric||{};
+  return CURRIC.reduce((a,g)=>{const v=c[g.id],o=g.op.find(x=>x[0]===v);return a+(o?o[2]:0)},0);
+}
+function notaSimulada(){
+  // teórica: acerto nos simulados recentes (ou geral, se não houver simulado)
+  const sims=ST.sim.slice(-3);
+  let teor=null;
+  if(sims.length)teor=sims.reduce((a,s)=>a+s.nota,0)/sims.length/10;
+  else{const h=Object.values(ST.resp).flatMap(r=>r.hist);if(h.length>=10)teor=h.filter(x=>x.ok).length/h.length*10}
+  // teórico-prática: média dos casos corrigidos
+  const cs=Object.values(ST.treino).filter(t=>t.d&&t.nota!==undefined);
+  const prat=cs.length?cs.reduce((a,t)=>a+t.nota,0)/cs.length:null;
+  // currículo: pontos convertidos para 0–10 (a régua oficial da banca não é publicada;
+  // aqui é proporção sobre o teto do Anexo I — serve para comparar cenários, não é a nota real)
+  const cur=CURRIC_MAX?Math.min(10,pontosCurriculo()/CURRIC_MAX*10):0;
+  const fim=(teor===null||prat===null)?null:(teor*0.6+prat*0.3+cur*0.1);
+  return {teor,prat,cur,fim,pontos:pontosCurriculo()};
+}
+/* ================== CARTÕES (SM-2 simplificado) ================== */
+function sm2(st,nota){
+  if(nota<3){st.reps=0;st.iv=1}
+  else{st.reps=(st.reps||0)+1;st.iv=st.reps===1?1:st.reps===2?6:Math.round((st.iv||1)*(st.ef||2.5))}
+  st.ef=Math.max(1.3,(st.ef||2.5)+(0.1-(5-nota)*(0.08+(5-nota)*0.02)));
+  st.due=addDiasISO(dataISO(),st.iv);
+  st.ts=Date.now();
+  return st;
+}
+function cartoesDeHoje(){
+  const hj=dataISO();
+  return FLASH.map(c=>({c,ch:chaveTxt(c.f),st:ST.flash[chaveTxtCache(c)]}))
+    .filter(x=>!x.st||x.st.due<=hj);
+}
+const _ctc={};function chaveTxtCache(c){return _ctc[c.f]||(_ctc[c.f]=chaveTxt(c.f))}
+function montaCartoes(){
+  const sec=$("#sec-cartoes");
+  const fila=cartoesDeHoje();
+  if(!fila.length){
+    const prox=Object.values(ST.flash).map(s=>s.due).sort()[0];
+    sec.innerHTML=`<div class="cartao flash"><div class="frente">Nenhum cartão para hoje.</div>
+      <div class="mut peq">${FLASH.length} cartões no total${prox?` — próxima revisão em ${esc(prox)}`:""}</div></div>`;
+    return;
+  }
+  const x=fila[0],c=x.c;
+  sec.innerHTML=`<div class="cartao">
+    <div class="linha peq mut" style="justify-content:space-between">
+      <span class="chip">${esc(TNOME[c.tema]||c.tema||"geral")}</span><span>${fila.length} para hoje</span></div>
+    <div class="flash">
+      <div class="frente">${esc(c.f)}</div>
+      <div class="verso" id="fcVerso" hidden>${esc(c.v)}</div>
+      <button class="btn" id="fcMostra">Mostrar resposta</button>
+      <div class="linha" id="fcNotas" hidden>
+        <button class="btn perigo" data-n="1">Errei</button>
+        <button class="btn fant" data-n="3">Difícil</button>
+        <button class="btn fant" data-n="4">Bom</button>
+        <button class="btn" data-n="5">Fácil</button>
+      </div>
+    </div></div>`;
+  $("#fcMostra").onclick=()=>{$("#fcVerso").hidden=false;$("#fcMostra").hidden=true;$("#fcNotas").hidden=false};
+  sec.querySelectorAll("#fcNotas button").forEach(b=>b.onclick=()=>{
+    const ch=chaveTxtCache(c);
+    ST.flash[ch]=sm2(ST.flash[ch]||{},+b.dataset.n);
+    ARM.save("tt_flash",ST.flash); atividade(1); montaCartoes();
+  });
+}
+
+/* ================== ERROS ================== */
+function montaErros(){
+  const sec=$("#sec-erros");
+  sec.innerHTML=`<div class="cartao">
+    <div class="linha" style="justify-content:space-between;margin-bottom:8px">
+      <h2 style="margin:0">Log de erros — editável</h2>
+      <div class="linha">
+        <button class="btn fant" id="errCSV">Exportar CSV</button>
+        <button class="btn" id="errAdd">Adicionar</button>
+      </div>
+    </div>
+    <div class="rolagem"><table id="tbErros">
+      <tr><th style="width:92px">Data</th><th style="width:150px">Tema</th><th>O que errei</th><th>Por quê</th><th>Lição</th><th></th></tr>
+      ${ST.erros.map((e,i)=>`<tr>
+        <td><input data-i="${i}" data-c="d" value="${esc(e.d)}"></td>
+        <td><select data-i="${i}" data-c="tema">${TAXONOMIA.map(t=>`<option value="${t.id}" ${e.tema===t.id?"selected":""}>${esc(t.nome)}</option>`).join("")}</select></td>
+        <td><textarea data-i="${i}" data-c="oque">${esc(e.oque)}</textarea></td>
+        <td><textarea data-i="${i}" data-c="porque">${esc(e.porque)}</textarea></td>
+        <td><textarea data-i="${i}" data-c="licao">${esc(e.licao)}</textarea></td>
+        <td><button data-del="${i}" title="Excluir" class="vermelho">✕</button></td>
+      </tr>`).join("")}
+    </table></div>
+    ${ST.erros.length?"":'<p class="mut peq" style="margin-top:8px">Vazio. Erros anotados nas questões caem aqui.</p>'}
+  </div>`;
+  sec.querySelectorAll("input[data-c],textarea[data-c],select[data-c]").forEach(el=>{
+    el.onchange=()=>{ST.erros[+el.dataset.i][el.dataset.c]=el.value;ARM.save("tt_erros",ST.erros)};
+  });
+  sec.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>{
+    if(!confirm("Excluir esta linha do log?"))return;
+    ST.erros.splice(+b.dataset.del,1);ARM.save("tt_erros",ST.erros);montaErros();
+  });
+  $("#errAdd").onclick=()=>{ST.erros.unshift({id:novoIdLinha(),d:dataISO(),tema:TAXONOMIA[0].id,oque:"",porque:"",licao:""});ARM.save("tt_erros",ST.erros);montaErros()};
+  $("#errCSV").onclick=()=>{
+    const cab="data;tema;o_que_errei;por_que;licao";
+    const li=ST.erros.map(e=>[e.d,TNOME[e.tema]||e.tema,e.oque,e.porque,e.licao]
+      .map(v=>'"'+String(v||"").replace(/"/g,'""')+'"').join(";"));
+    baixaArquivo("trafego-titulo-erros-"+dataISO()+".csv",[cab,...li].join("\n"),"text/csv");
+  };
+}
+
+/* ================== PLANO ================== */
+function montaPlano(){
+  const sec=$("#sec-plano");
+  const hj=dataISO();
+  const plano=ST.plano.slice().sort((a,b)=>a.d<b.d?-1:1);
+  sec.innerHTML=`<div class="cartao">
+    <div class="linha" style="justify-content:space-between;margin-bottom:8px">
+      <h2 style="margin:0">Cronograma vivo</h2>
+      <div class="linha">
+        <button class="btn fant" id="plGera">Gerar rascunho até a prova</button>
+        <button class="btn" id="plAdd">Adicionar dia</button>
+      </div>
+    </div>
+    ${plano.length?`<div class="rolagem"><table>
+      <tr><th style="width:110px">Data</th><th>Tema</th><th style="width:60px">Feito</th><th style="width:90px"></th><th></th></tr>
+      ${plano.map(p=>{const i=ST.plano.indexOf(p);
+        const cls=p.feito?"verde":(p.d<hj?"vermelho":(p.d===hj?"ambar":""));
+        return `<tr>
+        <td class="${cls}">${p.d===hj?"<b>hoje</b> ":""}${esc(p.d)}</td>
+        <td><select data-i="${i}" data-c="tema">${TAXONOMIA.map(t=>`<option value="${t.id}" ${p.tema===t.id?"selected":""}>${esc(t.nome)}</option>`).join("")}</select></td>
+        <td><input type="checkbox" data-i="${i}" data-c="feito" ${p.feito?"checked":""}></td>
+        <td><button class="btn fant peq" data-vai="${p.tema}">questões</button></td>
+        <td><button data-del="${i}" class="vermelho" title="Excluir">✕</button></td></tr>`}).join("")}
+    </table></div>`:'<p class="mut peq">Sem plano ainda. Defina a data da prova no Painel e gere o rascunho, ou adicione dias manualmente.</p>'}
+  </div>`;
+  $("#plAdd").onclick=()=>{ST.plano.push({id:novoIdLinha(),d:hj,tema:TAXONOMIA[0].id,feito:false});ARM.save("tt_plano",ST.plano);montaPlano()};
+  $("#plGera").onclick=()=>{
+    if(!ST.meta.dataProva){UI.banner("info","Defina a data da prova no Painel primeiro.");return}
+    if(ST.plano.length&&!confirm("Substituir o plano atual pelo rascunho gerado? (dias já feitos são preservados)"))return;
+    const inc=incidencia(),por=statsTema();
+    const ordem=TAXONOMIA.map(t=>{const acc=taxaAcerto(por[t.id]||[]);
+      return {id:t.id,pri:(inc.map[t.id]||0)*(acc===null?0.7:1-acc)}}).sort((a,b)=>b.pri-a.pri).map(x=>x.id);
+    const feitos=Object.fromEntries(ST.plano.filter(p=>p.feito).map(p=>[p.d+"|"+p.tema,true]));
+    const novo=[];let d=hj,i=0;
+    while(d<ST.meta.dataProva){novo.push({id:novoIdLinha(),d,tema:ordem[i%ordem.length],feito:!!feitos[d+"|"+ordem[i%ordem.length]]});d=addDiasISO(d,1);i++}
+    ST.plano=novo;ARM.save("tt_plano",ST.plano);montaPlano();
+  };
+  sec.querySelectorAll("select[data-c],input[data-c]").forEach(el=>{
+    el.onchange=()=>{const p=ST.plano[+el.dataset.i];
+      if(el.dataset.c==="feito")p.feito=el.checked;else p[el.dataset.c]=el.value;
+      ARM.save("tt_plano",ST.plano);montaPlano()};
+  });
+  sec.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>{ST.plano.splice(+b.dataset.del,1);ARM.save("tt_plano",ST.plano);montaPlano()});
+  sec.querySelectorAll("[data-vai]").forEach(b=>b.onclick=()=>{
+    ST.pos.fq={tema:b.dataset.vai,status:"todas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes")});
+}
+
+/* ================== AJUSTES ================== */
+async function montaAjustes(){
+  const sec=$("#sec-ajustes");
+  let uso="";
+  try{if(navigator.storage&&navigator.storage.estimate){const e=await navigator.storage.estimate();
+    uso=`${(e.usage/1048576).toFixed(1)} MB usados de ~${(e.quota/1048576).toFixed(0)} MB`}}catch(e){}
+  const bks=await ARM.listaBackups();
+  sec.innerHTML=`
+  <div id="slotSync"></div>
+  <div class="cartao"><h2>Proteção de dados</h2>
+    <table>
+      <tr><td>Armazenamento persistente</td><td>${ARM.persistOK===true?'<span class="verde">concedido</span>':ARM.persistOK===false?'<span class="ambar">negado pelo navegador (comum no iPhone) — o espelho IndexedDB e os backups cobrem</span>':"—"}</td></tr>
+      <tr><td>Espelho IndexedDB</td><td>${ARM.db?'<span class="verde">ativo</span>':'<span class="vermelho">indisponível</span>'}</td></tr>
+      <tr><td>Uso de armazenamento</td><td>${uso||"—"}</td></tr>
+      <tr><td>Chaves travadas</td><td>${Object.keys(ARM.travas).length?'<span class="vermelho">'+esc(Object.keys(ARM.travas).join(", "))+"</span>":'<span class="verde">nenhuma</span>'}</td></tr>
+    </table>
+    <div class="linha" style="margin-top:10px">
+      <button class="btn" id="ajExporta">Exportar backup (.json)</button>
+      <label class="btn fant" style="cursor:pointer">Importar backup<input type="file" id="ajImporta" accept=".json,application/json" hidden></label>
+      <button class="btn fant" id="ajSnap">Criar backup interno agora</button>
+    </div>
+  </div>
+  <div class="cartao"><h2>Backups internos (últimos ${bks.length})</h2>
+    ${bks.length?`<div class="rolagem"><table><tr><th>Quando</th><th>Motivo</th><th>Chaves</th><th></th></tr>
+      ${bks.map(b=>`<tr><td>${esc((b.quando||"").replace("T"," ").slice(0,16))}</td><td>${esc(b.motivo)}</td><td>${b.n}</td>
+        <td><button class="btn fant peq" data-rest="${b.id}">restaurar</button></td></tr>`).join("")}</table></div>`
+      :'<p class="mut peq">Nenhum ainda — são criados automaticamente durante o uso.</p>'}
+  </div>
+  <div class="cartao"><h2>Aplicativo</h2>
+    <table>
+      <tr><td>Versão</td><td>${V}</td></tr>
+      <tr><td>Banco</td><td>${BANCO.length} questões • ${FLASH.length} cartões • ${PRATICA.length} casos descritivos</td></tr>
+      <tr><td>Edital de referência</td><td><a href="docs/edital-2446-abramet-2026.pdf" target="_blank" rel="noopener">Edital nº 2446 — AMB/ABRAMET 2026</a></td></tr>
+      <tr><td>Norma-base do exame</td><td><a href="docs/contran-res-927-2022.pdf" target="_blank" rel="noopener">Resolução CONTRAN nº 927/2022</a></td></tr>
+    </table>
+    <div class="linha" style="margin-top:10px">
+      <button class="btn fant" id="ajAtualiza">Buscar atualização</button>
+    </div>
+  </div>`;
+  
+  $("#ajExporta").onclick=()=>baixaArquivo("trafego-titulo-backup-"+dataISO()+".json",JSON.stringify(ARM.exporta(),null,1),"application/json");
+  $("#ajImporta").onchange=async e=>{
+    const f=e.target.files[0];if(!f)return;
+    try{
+      const obj=JSON.parse(await f.text());
+      const n=await ARM.importa(obj);
+      if(n===null){UI.banner("erro","Esse arquivo não parece um backup do TráfegoTítulo.");return}
+      carregaEstado();UI.banner("ok",`Backup importado: ${n} chaves restauradas (o estado anterior virou backup interno).`);
+      montaAjustes();
+    }catch(err){UI.banner("erro","Não consegui ler o arquivo: "+err.message)}
+  };
+  $("#ajSnap").onclick=async()=>{await ARM.snapshot("manual");UI.banner("ok","Backup interno criado.");montaAjustes()};
+  sec.querySelectorAll("[data-rest]").forEach(b=>b.onclick=async()=>{
+    if(!confirm("Restaurar este backup? O estado atual vira um novo backup interno antes."))return;
+    const ok=await ARM.restaura(+b.dataset.rest);
+    if(ok){carregaEstado();UI.banner("ok","Backup restaurado.");montaAjustes()}else UI.banner("erro","Não consegui restaurar.");
+  });
+  $("#ajAtualiza").onclick=async()=>{
+    try{
+      const regs=await navigator.serviceWorker.getRegistrations();
+      await Promise.all(regs.map(r=>r.update()));
+      UI.banner("info","Verificação de atualização disparada — recarregando…");
+      setTimeout(()=>location.reload(),800);
+    }catch(e){location.reload()}
+  };
+}
+
+/* ---------- util ---------- */
+function baixaArquivo(nome,conteudo,tipo){
+  const a=document.createElement("a");
+  a.href=URL.createObjectURL(new Blob([conteudo],{type:tipo}));
+  a.download=nome;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),4000);
+}
+
+/* ---------- boot ---------- */
+(async function boot(){
+  await ARM.boot();
+  carregaEstado();
+  montaAbas();
+  $("#subTopo").textContent=`v${V} • ${BANCO.length} questões • ${PRATICA.length} casos`;
+  if(ARM.recuperado)UI.banner("ok",`Dados recuperados do espelho interno (IndexedDB): ${ARM.recuperado.n} chaves, último espelho de ${ARM.recuperado.quando.slice(0,16).replace("T"," ")}. O localStorage tinha sido apagado pelo navegador.`,true);
+  if(ARM.persistOK===false)console.warn("storage.persist() negado — comum no iOS; espelho IDB ativo.");
+  if(ST.simativo&&!ST.simativo.fim)UI.banner("info","Há um simulado em andamento — retome na aba Simulado.");
+  const h=location.hash.slice(1);
+  irAba(ABAS.some(a=>a[0]===h)?h:(ST.pos.aba&&ABAS.some(a=>a[0]===ST.pos.aba)?ST.pos.aba:"questoes"),false);
+  if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
+  ARM.snapshot("boot");
+  window.__ttPronto=true;window.dispatchEvent(new Event("tt-pronto"));
+})();
+
+/* ganchos de teste (verificação por DOM) */
+window.__tt={get ST(){return ST},ARM,chaveQ,chaveTxt,QIDX,irAba,registraResposta,V};
+</script>
+</body>
+</html>
