@@ -80,16 +80,27 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
 4. Só depois: commit/push e **bump do `CACHE` do sw.js**.
 
 ## Estado do conteúdo (24/08/2026)
-- **273 questões** em 21 levas (`lotes-questoes/leva*.json`), todos os 21 temas cobertos
+- **504 questões** em 36 levas (`lotes-questoes/leva*.json`), 504 chaves únicas, zero erros duros
+- Distribuição do gabarito: A 112 · B 108 · C 97 · D 94 · E 93
 - 24 cartões · 6 casos da teórico-prática
-- Alvo de cobertura do validador: 30 questões/tema — ainda não atingido em nenhum tema
-- **17 diretrizes ABRAMET baixadas e usadas** (em `/tmp/.../fontes/diretrizes`, reproduzir com
-  `urls.txt` + `chunk2.py`): alcoolemia, benzodiazepínicos, bicicletas, criança em ambulância,
-  transporte de crianças I e II, DCEI/arritmias, diabetes, DRC dialítica, **epilepsia 2025**,
-  esclerose múltipla, esquizofrenia, gravidez/puerpério, Parkinson, TDAH, TEA, tolerância a impactos.
-- **Faltam baixar** (o servidor da ABRAMET corta transferências longas): celular, cinto de segurança,
-  cinto e gravidez, drogas/efeitos, condutor idoso, MPPCVA (medicamentos), animais de companhia.
-  Receita que funciona: `chunk2.py` — baixa por faixas de bytes (Range) de 200 KB e remonta.
+- Levas 33–36 saíram das diretrizes ABRAMET de drogas ilícitas, telefone celular (FAC),
+  condutor idoso e cinto de segurança (+ cinto e gravidez)
+- **Faltam baixar** (o servidor da ABRAMET corta transferências longas): MPPCVA (medicamentos)
+  — único PDF que ainda abre com 0 caracteres. Receita: `chunk2.py`, faixas de bytes de 200 KB.
+- Diretrizes já baixadas E extraídas em `<scratchpad>/fontes/diretrizes`: alcoolemia, animais,
+  benzodiazepínicos, bicicletas, celular, cinto_gravidez, cinto_seguranca, crianca_ambulancia,
+  crianca_pt1/pt2, dcei_cardiaco, diabetes, drc_dialitica, drogas_efeitos, epilepsia2025,
+  esclerose_multipla, esquizofrenia, gravidez_puerperio, idoso, parkinson, tdah, tea,
+  tolerancia_impactos
+
+### Receita de fechamento de leva (usar sempre nesta ordem)
+1. Escrever a leva; `python3 checa_leva.py <arquivo>` aponta as alternativas fora de 95–108%.
+2. Quando o comprimento não fecha, calcular a JANELA da correta:
+   `L ∈ [max(outros)/1.08, min(outros)/0.95]` — se a janela for vazia, mexer nos distratores extremos.
+   Corrigir SEMPRE casando por PREFIXO de texto (índices mudam depois do equilíbrio).
+3. `python3 equilibra_gabarito.py <arquivo>` (uma única vez, antes de publicar).
+4. `python3 monta_banco.py` e conferir "OK: nenhum erro duro".
+5. Commit, bump do `CACHE` do sw.js e push.
 
 ## Achados normativos verificados em fonte primária
 - **Lei 15.428/2026**: renovação automática pelo RNPC dispensa o art. 147 EXCETO o exame de aptidão;
