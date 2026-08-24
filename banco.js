@@ -858,6 +858,314 @@ window.BANCO=[
 ]
 },
 {
+"q": "Segundo o conteúdo programático de Medicina do Tráfego Aquaviária, qual conjunto de fatores do ambiente físico das embarcações deve ser considerado na avaliação do navegante?",
+"alts": [
+"Apenas a exposição solar prolongada, único fator ambiental relevante para o navegante amador em lazer",
+"Apenas o ruído do motor da embarcação, principal responsável pelas doenças ocupacionais dos navegantes",
+"Movimento constante, exposição solar, umidade, ruído, vibração e isolamento de recursos assistenciais",
+"Apenas a umidade elevada do ambiente marítimo, causa isolada das enfermidades que acometem navegantes",
+"Apenas o isolamento geográfico, uma vez que os demais fatores são equivalentes aos do ambiente terrestre"
+],
+"gab": 2,
+"tema": "aquaviaria",
+"sub": "Ambiente físico das embarcações",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (ambiente físico das embarcações e proteção quanto às intempéries).",
+"coment": "O programa lista como objeto o ambiente físico das embarcações, as doenças que mais frequentemente afetam os navegantes, a proteção quanto às intempéries, medicamentos e o navegante, o atendimento médico nas embarcações e as emergências e resgates marítimos. Os fatores relevantes se somam: o movimento constante gera cinetose e aumenta o risco de quedas; a exposição solar intensa, agravada pela reflexão na água, eleva o risco de queimadura e de lesões oculares; umidade, ruído e vibração afetam conforto e desempenho; e o isolamento de recursos assistenciais transforma intercorrências banais em emergências.",
+"porAlt": [
+"A exposição solar é apenas um dos fatores relevantes do ambiente físico das embarcações avaliadas.",
+"O ruído do motor é um dos fatores, mas não o único responsável pelo adoecimento dos navegantes.",
+"Correta: movimento, sol, umidade, ruído, vibração e isolamento assistencial compõem o ambiente de bordo.",
+"A umidade contribui para o desconforto, mas não é causa isolada das enfermidades dos navegantes.",
+"O ambiente de bordo difere substancialmente do terrestre em movimento, exposição e acesso a recursos."
+]
+},
+{
+"q": "Qual é a principal implicação médica do isolamento assistencial durante a navegação de recreio para a avaliação do candidato a amador?",
+"alts": [
+"Condições clínicas instáveis perdem relevância, pois o mar oferece ambiente naturalmente mais tranquilo",
+"Condições clínicas instáveis ganham gravidade, pois o socorro pode demorar horas para alcançar a embarcação",
+"Condições clínicas instáveis são irrelevantes, pois toda embarcação de recreio dispõe de médico a bordo",
+"Condições clínicas instáveis exigem apenas que o candidato leve consigo os medicamentos habituais dele",
+"Condições clínicas instáveis impedem a habilitação amadora em qualquer categoria, sem exceção prevista"
+],
+"gab": 1,
+"tema": "aquaviaria",
+"sub": "Isolamento e risco clínico no mar",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária (atendimento médico nas embarcações, emergências e resgates marítimos).",
+"coment": "O isolamento é a variável que redimensiona o risco na navegação. Uma crise convulsiva, uma síncope ou uma hipoglicemia grave, que em terra seriam resolvidas em minutos, no mar podem evoluir sem socorro por horas — e ainda expõem o paciente à queda ao mar. Somam-se a instabilidade do convés, o balanço que agrava a cinetose e dificulta procedimentos, e a limitação de recursos e de comunicação. Por isso a avaliação do amador deve ponderar não só a capacidade de operar a embarcação, mas também a probabilidade de intercorrência clínica em ambiente sem retaguarda.",
+"porAlt": [
+"O ambiente marítimo não atenua o risco clínico: ele o agrava pela distância dos recursos de socorro.",
+"Correta: o socorro pode demorar horas, o que agrava o desfecho de qualquer intercorrência clínica.",
+"Embarcações de recreio não dispõem de equipe médica a bordo, ao contrário do que a alternativa supõe.",
+"Levar medicamentos é medida útil, mas insuficiente diante de intercorrência aguda em alto-mar.",
+"Não há vedação absoluta: a avaliação é individualizada e pondera estabilidade e tipo de navegação."
+]
+},
+{
+"q": "Viajante procura o médico antes de viagem a região de mata na Amazônia. Quais são as orientações essenciais quanto a acidentes com animais peçonhentos?",
+"alts": [
+"Uso de perneiras e calçado fechado, cautela ao manusear troncos e busca imediata de soro antiveneno",
+"Aplicação de torniquete no membro acometido e realização de incisão local para drenar o veneno inoculado",
+"Sucção do local da picada e aplicação de compressas quentes, que aceleram a neutralização do veneno",
+"Repouso absoluto no local por 24 horas antes do deslocamento, evitando qualquer movimentação do membro",
+"Administração profilática de soro antiofídico antes da viagem, dispensando o atendimento após a picada"
+],
+"gab": 0,
+"tema": "viajante",
+"sub": "Acidentes com animais peçonhentos",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (acidentes com animais peçonhentos prevalentes no percurso ou destino).",
+"coment": "A prevenção é comportamental: calçado fechado e perneiras, atenção ao caminhar e ao manusear troncos, pedras e folhagem, uso de luvas em atividades de campo e cuidado ao vestir calçados guardados. Diante do acidente, a conduta é manter a vítima em repouso, elevar ou manter o membro em posição neutra, hidratar e conduzir IMEDIATAMENTE ao serviço de saúde com soro antiveneno — que é o tratamento específico e deve ser instituído o mais cedo possível. Torniquete, incisão, sucção, compressas quentes e aplicação de substâncias no local são práticas contraindicadas: agravam a lesão local e retardam o atendimento definitivo. Não existe soroterapia profilática.",
+"porAlt": [
+"Correta: prevenção com perneiras e calçado fechado e busca imediata do soro antiveneno específico.",
+"Torniquete e incisão local são contraindicados: agravam a lesão e não impedem a difusão do veneno.",
+"Sucção e compressas quentes são práticas contraindicadas e retardam o atendimento definitivo.",
+"O repouso no local por 24 horas retarda o soro antiveneno, que deve ser aplicado o quanto antes.",
+"Não existe soroterapia profilática: o soro é tratamento específico administrado após o acidente."
+]
+},
+{
+"q": "Qual é o momento ideal para a consulta pré-viagem, e por quê?",
+"alts": [
+"Na véspera do embarque, quando o roteiro já está definido e as dúvidas do viajante estão consolidadas",
+"No dia do embarque, no próprio aeroporto, aproveitando os serviços de saúde ali disponibilizados",
+"Após o retorno da viagem, quando eventuais sintomas adquiridos no destino já podem ser avaliados",
+"Seis meses antes do embarque, prazo necessário para a soroconversão de todas as vacinas disponíveis",
+"De quatro a seis semanas antes do embarque, prazo que permite completar esquemas vacinais e ajustes"
+],
+"gab": 4,
+"tema": "viajante",
+"sub": "Momento da consulta pré-viagem",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (consultas pré e pós-viagem).",
+"coment": "A recomendação clássica é de 4 a 6 semanas de antecedência. O prazo não é arbitrário: permite completar esquemas vacinais que exigem mais de uma dose, respeitar o intervalo de 10 dias exigido para a proteção e para a validade do certificado internacional da febre amarela, iniciar quimioprofilaxias que precisam começar antes da exposição, avaliar doenças preexistentes e ajustar medicações de uso contínuo aos fusos do destino. A consulta pós-viagem também integra o escopo, voltada à investigação de febre, diarreia e lesões cutâneas no retorno — sempre considerando os períodos de incubação das doenças do destino.",
+"porAlt": [
+"A véspera não permite completar esquemas vacinais nem respeitar prazos de soroconversão exigidos.",
+"O dia do embarque é tarde demais para qualquer medida preventiva de eficácia comprovada.",
+"A consulta pós-viagem existe, mas não substitui a avaliação preventiva anterior ao embarque.",
+"Seis meses é prazo desnecessariamente longo e não corresponde à recomendação usual da especialidade.",
+"Correta: de quatro a seis semanas, prazo suficiente para vacinas, profilaxias e ajustes de medicação."
+]
+},
+{
+"q": "Quais são as condições que contraindicam a viagem aérea comercial, do ponto de vista da medicina do viajante?",
+"alts": [
+"Hipertensão arterial controlada, diabetes tipo 2 compensado e asma leve intermitente bem manejada",
+"Gestação de segundo trimestre sem intercorrências, artrose de joelho e hipotireoidismo compensado",
+"Enxaqueca episódica, rinite alérgica sazonal e refluxo gastroesofágico sob tratamento clínico",
+"Idade acima de setenta anos, isoladamente, independentemente do estado clínico do passageiro avaliado",
+"Pneumotórax não drenado, infarto muito recente e anemia grave, entre outras condições instáveis"
+],
+"gab": 4,
+"tema": "viajante",
+"sub": "Contraindicações à viagem aérea",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças que contraindicam viagem aérea comercial).",
+"coment": "As contraindicações reúnem condições em que a hipóxia relativa da cabine ou a expansão de gases pela lei de Boyle produzem risco. São exemplos clássicos: pneumotórax não resolvido ou não drenado; síndrome coronariana aguda recente sem estabilização; insuficiência cardíaca descompensada; anemia grave; doença pulmonar com hipoxemia significativa em repouso; pós-operatório recente de abdome, tórax ou neurocirurgia; cirurgia oftalmológica com gás intraocular; doença descompressiva recente; e doenças transmissíveis em fase de contágio. Condições crônicas COMPENSADAS, em regra, não contraindicam a viagem — apenas exigem planejamento.",
+"porAlt": [
+"Condições crônicas bem controladas não contraindicam o voo, exigindo apenas planejamento adequado.",
+"Gestação sem intercorrências no segundo trimestre é justamente o período mais seguro para viajar.",
+"Enxaqueca, rinite e refluxo sob tratamento não constituem contraindicação à viagem aérea comercial.",
+"A idade isolada não contraindica o voo: o que importa é a condição clínica e a reserva funcional.",
+"Correta: pneumotórax não drenado, infarto muito recente e anemia grave figuram entre as contraindicações."
+]
+},
+{
+"q": "Qual é a orientação correta sobre a prevenção da diarreia do viajante em destino de risco?",
+"alts": [
+"Uso profilático de antibiótico por todos os viajantes durante todo o período de permanência no destino",
+"Consumo exclusivo de alimentos crus, por preservarem melhor os nutrientes e reduzirem contaminação",
+"Ingestão de gelo apenas em bebidas alcoólicas, pois o álcool esteriliza a água congelada utilizada",
+"Cuidado com água e alimentos, preferindo bebidas industrializadas e alimentos cozidos e ainda quentes",
+"Suspensão da hidratação oral durante o quadro diarreico, para reduzir o volume das evacuações diárias"
+],
+"gab": 3,
+"tema": "viajante",
+"sub": "Diarreia do viajante",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (doenças infectocontagiosas prevalentes no percurso ou destino).",
+"coment": "A prevenção da diarreia do viajante é sobretudo comportamental, resumida na máxima de cozinhar, descascar ou descartar. Recomenda-se beber água engarrafada com lacre íntegro ou fervida, evitar gelo de procedência desconhecida, preferir alimentos bem cozidos e servidos ainda quentes, descascar as próprias frutas, evitar folhas cruas e laticínios não pasteurizados e higienizar as mãos. O tratamento é baseado em hidratação oral, que jamais deve ser suspensa — a desidratação é a principal causa de gravidade. Antibiótico profilático de rotina não é recomendado, ficando reservado a situações selecionadas; o álcool não esteriliza o gelo.",
+"porAlt": [
+"A profilaxia antibiótica de rotina não é recomendada e favorece resistência e efeitos adversos.",
+"Alimentos crus são justamente os de maior risco de contaminação em destinos com saneamento precário.",
+"O álcool da bebida não esteriliza o gelo, que deve ser evitado quando a procedência é desconhecida.",
+"Correta: cuidado com água e alimentos, preferindo bebidas industrializadas e alimentos bem cozidos.",
+"Suspender a hidratação é conduta perigosa: a desidratação é a principal causa de gravidade no quadro."
+]
+},
+{
+"q": "No exame admissional de motorista profissional, qual achado deve motivar investigação específica antes da liberação para a função?",
+"alts": [
+"Presença de tatuagens extensas, achado que sugere maior propensão a comportamento de risco no trânsito",
+"Roncos, sonolência diurna e obesidade central, tríade que sugere apneia obstrutiva do sono não tratada",
+"Estatura abaixo da média populacional, achado que limita a visibilidade sobre o painel do veículo pesado",
+"Antecedente de fratura consolidada há mais de dez anos, sem qualquer sequela funcional identificável",
+"Uso de lentes corretoras para correção de miopia leve, plenamente compensada durante o exame realizado"
+],
+"gab": 1,
+"tema": "ocupacional",
+"sub": "Exame admissional do motorista",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (exames admissionais, periódicos e demissionais).",
+"coment": "A apneia obstrutiva do sono é a condição de maior impacto na segurança do motorista profissional, porque produz sonolência excessiva diurna e microssonos ao volante. A tríade roncos, sonolência diurna e obesidade central é o alerta clássico e deve levar à aplicação da Escala de Epworth e à avaliação dos parâmetros objetivos do Anexo X — IMC, perímetro cervical, pressão arterial e Mallampati —, com encaminhamento para polissonografia quando indicado. Os demais achados listados ou não têm relação com risco (tatuagens, fratura antiga consolidada) ou são plenamente compensáveis com registro de restrição na CNH.",
+"porAlt": [
+"Tatuagens não têm qualquer valor preditivo de comportamento de risco na condução veicular.",
+"Correta: roncos, sonolência e obesidade central sugerem apneia obstrutiva do sono não tratada.",
+"A estatura é contornável por ajuste de assento e não constitui achado de investigação clínica.",
+"Fratura consolidada há dez anos sem sequela funcional não exige investigação adicional específica.",
+"A miopia leve compensada gera apenas o registro do código A, sem necessidade de investigação."
+]
+},
+{
+"q": "Qual é a finalidade do exame demissional do motorista profissional, na perspectiva da medicina do tráfego ocupacional?",
+"alts": [
+"Verificar a aptidão do trabalhador para uma nova função em outra empresa do mesmo ramo de atividade",
+"Renovar a Carteira Nacional de Habilitação do trabalhador que encerra o vínculo empregatício vigente",
+"Aplicar o exame toxicológico de larga janela exigido pelo Código de Trânsito Brasileiro na demissão",
+"Documentar o estado de saúde ao término do vínculo, permitindo identificar agravos ligados ao trabalho",
+"Estabelecer o grau de invalidez permanente do trabalhador para fins de indenização securitária devida"
+],
+"gab": 3,
+"tema": "ocupacional",
+"sub": "Exame demissional",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (procedimentos médicos nos exames admissionais, periódicos e demissionais).",
+"coment": "O exame demissional documenta o estado de saúde do trabalhador no encerramento do vínculo e cumpre dupla função: protege o trabalhador, ao registrar agravos eventualmente relacionados à atividade — lombalgia e discopatia, perda auditiva induzida por ruído, apneia do sono, hipertensão, transtornos ligados à escala irregular —, e protege o empregador, ao delimitar o que já existia e o que se instalou no período. É a contrapartida do admissional, que estabelece a linha de base, e dos periódicos, que acompanham a evolução. Não se confunde com avaliação de aptidão para dirigir nem com perícia de dano corporal.",
+"porAlt": [
+"A aptidão para nova função é objeto do exame admissional na empresa que vier a contratar.",
+"A renovação da habilitação é processo do órgão de trânsito, sem relação com o exame demissional.",
+"O toxicológico de larga janela é exigência do processo de habilitação, não do exame demissional.",
+"Correta: documentar o estado de saúde no encerramento do vínculo e identificar agravos ligados ao trabalho.",
+"A graduação de invalidez para fins securitários é objeto de perícia distinta do exame ocupacional."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, o que significa 'avaliar as condições inseguras do tráfego' como atribuição da medicina do tráfego ocupacional?",
+"alts": [
+"Vistoriar mecanicamente os veículos da frota, emitindo laudo técnico sobre as condições de rodagem deles",
+"Identificar fatores do ambiente e da organização do trabalho que elevam o risco de sinistro do motorista",
+"Projetar a sinalização das vias por onde circula a frota, definindo limites de velocidade adequados",
+"Autuar as empresas que descumprem as normas de segurança viária durante as jornadas de trabalho dele",
+"Investigar criminalmente os sinistros ocorridos durante a jornada, apurando a responsabilidade do condutor"
+],
+"gab": 1,
+"tema": "ocupacional",
+"sub": "Condições inseguras do tráfego",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (avaliar as condições inseguras do tráfego).",
+"coment": "A atribuição é de natureza médica e preventiva: identificar os fatores do ambiente e da organização do trabalho que elevam o risco de sinistro e adoecimento do motorista. Isso inclui jornadas excessivas e escalas que desrespeitam o ritmo circadiano, pressão por prazos que estimula excesso de velocidade e supressão de pausas, remuneração por produtividade, condições do veículo e do assento, exposição a ruído e vibração, e ausência de locais adequados para descanso e alimentação. Vistoria mecânica, projeto viário, autuação e investigação criminal são competências de outros profissionais e órgãos.",
+"porAlt": [
+"A vistoria mecânica da frota é atribuição de engenharia automotiva, e não do médico do tráfego.",
+"Correta: identificar fatores do ambiente e da organização do trabalho que elevam o risco do motorista.",
+"O projeto de sinalização e os limites de velocidade competem à engenharia de tráfego e ao órgão viário.",
+"A autuação de empresas é competência fiscalizatória de órgãos de trabalho e de trânsito.",
+"A investigação criminal de sinistros é atribuição da autoridade policial e da perícia criminal."
+]
+},
+{
+"q": "Qual é o principal problema da remuneração por produtividade para motoristas profissionais, do ponto de vista da segurança viária?",
+"alts": [
+"Reduz a renda do trabalhador, o que compromete a manutenção preventiva do veículo particular dele",
+"Aumenta a rotatividade da equipe, o que dificulta a realização dos exames periódicos pela empresa",
+"Incentiva jornadas prolongadas e supressão de pausas, ampliando fadiga e risco de sinistro na estrada",
+"Estimula o uso de rotas alternativas mais longas, elevando a exposição total ao tráfego rodoviário",
+"Dificulta o cálculo das contribuições previdenciárias, o que atrasa a concessão de eventuais benefícios"
+],
+"gab": 2,
+"tema": "ocupacional",
+"sub": "Remuneração por produtividade e fadiga",
+"base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Ocupacional (condições inseguras do tráfego, prevenção das doenças dos motoristas).",
+"coment": "A remuneração atrelada a quilometragem, número de entregas ou prazo de chegada transfere ao motorista o incentivo econômico para dirigir mais horas, suprimir pausas e reduzir o tempo de sono — os três determinantes diretos da fadiga ao volante. É por isso que a fadiga no transporte é entendida como problema de organização do trabalho, e não apenas de comportamento individual: nenhuma orientação sobre higiene do sono resiste a um sistema de pagamento que pune quem descansa. Some-se o estímulo ao uso de estimulantes para prolongar a jornada, que mascara a sonolência sem repor o débito de sono.",
+"porAlt": [
+"O problema não é a redução da renda, e sim o incentivo econômico a prolongar a jornada de trabalho.",
+"A rotatividade é consequência possível, mas não é o problema central de segurança viária apontado.",
+"Correta: incentiva jornadas longas e supressão de pausas, ampliando a fadiga e o risco de sinistro.",
+"O sistema estimula rotas mais rápidas, e não mais longas, justamente para elevar a produtividade.",
+"Questões previdenciárias são relevantes, mas não constituem o problema de segurança viária em causa."
+]
+},
+{
+"q": "Segundo o conteúdo programático do edital, quais são os componentes da Medicina do Tráfego enumerados como grandes áreas do exame de suficiência?",
+"alts": [
+"Preventiva, curativa e ocupacional apenas, sendo as demais consideradas áreas de atuação correlatas",
+"Preventiva, pericial e forense, organizadas segundo a finalidade jurídica da avaliação médica realizada",
+"Preventiva, curativa, ocupacional, do viajante, aeroespacial, aquaviária e securitária, sete ao todo",
+"Clínica, cirúrgica e de urgência, organizadas segundo o tipo de intervenção prestada à vítima do sinistro",
+"Preventiva, curativa, reabilitadora e paliativa, organizadas segundo a fase evolutiva do agravo tratado"
+],
+"gab": 2,
+"tema": "epidemiologia",
+"sub": "Grandes áreas da especialidade",
+"base": "Conteúdo programático do Edital nº 2446, item 15.",
+"coment": "O conteúdo programático organiza-se em SETE grandes divisões: Medicina do Tráfego Preventiva, que é a mais extensa e abrange o exame de aptidão física e mental e todas as diretrizes clínicas; Medicina do Tráfego Curativa, voltada ao atendimento pré-hospitalar e ao trauma; Medicina do Tráfego Ocupacional, dedicada ao motorista profissional; Medicina do Viajante; Medicina do Tráfego Aeroespacial; Medicina do Tráfego Aquaviária; e Medicina do Tráfego Securitária, centrada na avaliação do dano corporal. Conhecer essa estrutura ajuda a antecipar a distribuição das questões e a organizar o estudo.",
+"porAlt": [
+"As demais áreas integram o próprio conteúdo programático, e não são meras atuações correlatas.",
+"A divisão do edital não é feita segundo a finalidade jurídica da avaliação médica realizada.",
+"Correta: são sete áreas — preventiva, curativa, ocupacional, viajante, aeroespacial, aquaviária e securitária.",
+"A divisão do edital não segue o tipo de intervenção prestada à vítima de sinistro de trânsito.",
+"A divisão não segue a fase evolutiva do agravo, e não há área paliativa no conteúdo programático."
+]
+},
+{
+"q": "Por que a terminologia adotada pelas diretrizes recentes da ABRAMET substitui 'acidente de trânsito' por 'sinistro de trânsito'?",
+"alts": [
+"Porque 'sinistro' é o termo tecnicamente exigido pelo Código de Trânsito Brasileiro desde a sua edição",
+"Porque 'acidente' se aplica apenas a eventos com vítimas fatais, sendo inadequado aos demais casos",
+"Porque 'sinistro' designa exclusivamente os eventos cobertos por apólice de seguro privado contratada",
+"Porque 'acidente' sugere fatalidade imprevisível, enquanto os eventos de trânsito são evitáveis",
+"Porque 'acidente' é termo de uso exclusivo da medicina do trabalho, inadequado à área do tráfego"
+],
+"gab": 3,
+"tema": "epidemiologia",
+"sub": "Terminologia: sinistro e não acidente",
+"base": "Diretrizes ABRAMET recentes e conteúdo programático do Edital nº 2446, que adota 'sinistro de trânsito'.",
+"coment": "A mudança terminológica é deliberada e carrega conteúdo conceitual. 'Acidente' evoca acaso, fatalidade e imprevisibilidade — algo que simplesmente acontece e diante do qual pouco se pode fazer. Os eventos de trânsito, ao contrário, resultam de fatores identificáveis e majoritariamente modificáveis: velocidade, álcool, fadiga, ausência de dispositivos de retenção, desenho viário e condições do veículo. Chamá-los de 'sinistros' preserva a noção de evento indesejado sem carregar a ideia de inevitabilidade, e é coerente com a abordagem de saúde pública que sustenta a medicina do tráfego preventiva.",
+"porAlt": [
+"O Código de Trânsito Brasileiro não impôs essa terminologia desde a sua edição original de 1997.",
+"O termo 'acidente' nunca se restringiu aos eventos com vítimas fatais na literatura da área.",
+"'Sinistro' não designa exclusivamente eventos cobertos por apólice de seguro privado contratada.",
+"Correta: 'acidente' sugere fatalidade imprevisível, e os eventos de trânsito são majoritariamente evitáveis.",
+"O termo 'acidente' não é de uso exclusivo da medicina do trabalho, sendo amplamente empregado."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, qual é a conclusão sobre a definição de limites de velocidade nas vias?",
+"alts": [
+"É decisão técnica e sobretudo ética, pois deve refletir a preservação da vida e a tolerância humana",
+"É decisão exclusivamente técnica, definida pela capacidade de fluidez e pelo volume de tráfego da via",
+"É decisão exclusivamente administrativa, cabendo ao gestor local arbitrá-la conforme a conveniência",
+"É decisão exclusivamente econômica, calculada pelo custo de deslocamento da frota que utiliza a via",
+"É decisão exclusivamente policial, definida pela capacidade de fiscalização disponível em cada trecho"
+],
+"gab": 0,
+"tema": "protecao",
+"sub": "Gestão da velocidade como decisão ética",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025), conclusões.",
+"coment": "A diretriz conclui de forma explícita que definir limites de velocidade não é apenas uma decisão técnica ou administrativa: é, sobretudo, uma decisão ÉTICA. Quando esses limites refletem a preservação da vida e respeitam a tolerância humana a impactos, criam-se vias mais seguras para todos. O documento encerra com a formulação de que nenhuma fluidez viária pode se sobrepor ao valor inegociável da vida humana, e situa o médico do tráfego não apenas como avaliador de aptidão, mas como agente de promoção da segurança e da saúde pública, orientando condutores, gestores e a sociedade sobre os riscos da energia cinética excessiva.",
+"porAlt": [
+"Correta: a diretriz afirma que é decisão técnica e sobretudo ética, orientada pela preservação da vida.",
+"A fluidez e o volume de tráfego são critérios operacionais que a diretriz expressamente subordina à vida.",
+"A diretriz rejeita a redução do tema a conveniência administrativa do gestor local da via.",
+"O custo de deslocamento da frota não é o critério que a diretriz aponta para fixar limites de velocidade.",
+"A capacidade de fiscalização é meio de aplicação da norma, e não critério para definir o limite adequado."
+]
+},
+{
+"q": "Qual é o papel do médico do tráfego na promoção da segurança viária, segundo a Diretriz ABRAMET sobre tolerância humana a impactos?",
+"alts": [
+"Atuar como avaliador e também como agente de promoção da segurança, orientando condutores e gestores",
+"Atuar exclusivamente como avaliador de aptidão, sem envolvimento em ações de educação ou de políticas",
+"Atuar exclusivamente como assistente das vítimas de sinistros, no atendimento hospitalar de urgência",
+"Atuar exclusivamente como perito judicial, quantificando o dano corporal das vítimas em processos cíveis",
+"Atuar exclusivamente como fiscal do cumprimento dos limites de velocidade estabelecidos para cada via"
+],
+"gab": 0,
+"tema": "epidemiologia",
+"sub": "Papel do médico do tráfego",
+"base": "Diretriz ABRAMET 'Tolerância Humana a Impactos' (2025), conclusões.",
+"coment": "A diretriz afirma que o médico do tráfego atua não apenas como avaliador, mas como agente de promoção da segurança e da saúde pública, orientando condutores, gestores e a sociedade sobre os riscos associados à energia cinética excessiva. Acrescenta que, nos países de baixa e média renda — marcados por infraestrutura deficitária, frota heterogênea, fiscalização limitada e acesso desigual aos serviços de saúde —, é indispensável a articulação efetiva entre saúde, engenharia de tráfego e fiscalização, já que ações isoladas têm impacto limitado. É a formulação mais ampla da identidade da especialidade.",
+"porAlt": [
+"Correta: o médico do tráfego é avaliador e também agente de promoção da segurança e da saúde pública.",
+"A diretriz amplia expressamente o papel para além da avaliação pericial de aptidão dos condutores.",
+"O atendimento hospitalar de urgência é apenas uma das frentes, ligada à medicina do tráfego curativa.",
+"A perícia de dano corporal é uma frente da área securitária, e não a totalidade da atuação médica.",
+"A fiscalização de limites de velocidade não é atribuição do médico, e sim dos órgãos de trânsito."
+]
+},
+{
 "q": "Segundo o art. 9º da Resolução CONTRAN nº 927/2022, quais são os resultados possíveis da avaliação psicológica do candidato à habilitação?",
 "alts": [
 "Apto, apto com restrições, inapto temporário e inapto — os mesmos quatro resultados do exame médico",
