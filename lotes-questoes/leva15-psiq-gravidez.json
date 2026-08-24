@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esquizofrenia e direção veicular, quais são as três condições que devem ser satisfeitas para que o candidato seja considerado apto?",
+  "alts": [
+   "Aderência há 6 meses, ausência de surto ou internação em 12 meses e parecer favorável do assistente",
+   "Aderência há 24 meses, ausência de surto ou internação em 24 meses e laudo de dois psiquiatras distintos",
+   "Aderência há 12 meses, ausência de surto ou internação em 6 meses e parecer favorável do assistente",
+   "Aderência há 3 meses, ausência de surto ou internação em 3 meses e teste psicológico sem alterações",
+   "Aderência há 12 meses, ausência de surto ou internação em 6 meses e dosagem sérica do fármaco normal"
+  ],
+  "gab": 2,
+  "tema": "psiq",
+  "sub": "Critérios de aptidão na esquizofrenia",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Esquizofrenia e direção veicular', critérios e relatório do médico assistente (CID-10 F20).",
+  "coment": "A diretriz define três condições cumulativas, que constam do próprio relatório padronizado enviado ao médico assistente: seguimento regular com boa aderência ao tratamento há pelo menos 12 MESES; ausência de surtos psicóticos ou intercorrências com necessidade de internação ou hospitalização nos últimos 6 MESES; e posicionamento favorável ao ato de dirigir sob o ponto de vista clínico e farmacológico. Note a assimetria deliberada entre os prazos: exige-se mais tempo de estabilidade sob tratamento (12 meses) do que de intervalo desde a última descompensação (6 meses). A diretriz não pede dosagem sérica do fármaco nem laudo de dois psiquiatras.",
+  "porAlt": [
+   "Os prazos estão trocados entre si: são doze meses de aderência e seis meses sem descompensação.",
+   "Os prazos estão superestimados e a diretriz não exige laudo de dois psiquiatras distintos.",
+   "Correta: aderência há doze meses, sem surto ou internação em seis meses e parecer favorável.",
+   "Os prazos estão subestimados e o teste psicológico não substitui o parecer do médico assistente.",
+   "A dosagem sérica do fármaco não é exigida pela diretriz como critério para atestar a aptidão."
+  ]
+ },
+ {
+  "q": "Satisfeitas as condições da Diretriz ABRAMET, qual é o resultado preconizado para o exame de aptidão física e mental da pessoa com esquizofrenia?",
+  "alts": [
+   "Aptidão em todas as categorias, com validade de 1 a 2 anos na primeira habilitação e de 1 a 3 nas renovações",
+   "Aptidão somente na categoria B, com validade de 1 a 2 anos na primeira habilitação e de 1 a 3 nas renovações",
+   "Aptidão somente na categoria B, com validade integral conforme a faixa etária prevista no art. 147 do CTB",
+   "Aptidão somente na categoria A, com validade de 3 a 5 anos na primeira habilitação e nas renovações seguintes",
+   "Aptidão somente na categoria B, com validade fixa de 6 meses tanto na primeira habilitação quanto depois"
+  ],
+  "gab": 1,
+  "tema": "psiq",
+  "sub": "Categoria e validade na esquizofrenia",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Esquizofrenia e direção veicular'.",
+  "coment": "Satisfeitas as três condições, a diretriz preconiza aptidão SOMENTE PARA A CATEGORIA B, com validade de 1 a 2 anos na primeira habilitação e de 1 a 3 anos nas renovações, conforme o espectro de sintomas e o tempo de evolução sem agravamento. O relatório padronizado, aliás, pergunta ao assistente sobre parecer favorável especificamente para a categoria B, exemplificando com veículos de passeio, táxi e aplicativos. A diretriz recomenda ainda que a avaliação psicológica complementar seja amplamente considerada nas renovações, sobretudo para testagem das funções cognitivas — atenções, funções executivas, domínios visual, perceptivo e espacial, velocidade de processamento e memória.",
+  "porAlt": [
+   "A diretriz restringe expressamente a aptidão à categoria B, não alcançando as demais categorias.",
+   "Correta: somente categoria B, com um a dois anos na primeira habilitação e um a três nas renovações.",
+   "A validade não é integral: a diretriz fixa prazos reduzidos na primeira habilitação e nas renovações.",
+   "A categoria prevista é a B, e os prazos citados não correspondem aos estabelecidos pela diretriz.",
+   "A validade não é fixa em seis meses, variando de um a dois e de um a três anos conforme o caso."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esquizofrenia, qual é a razão para recomendar avaliação psicológica complementar nas renovações da CNH?",
+  "alts": [
+   "Testar funções cognitivas determinantes da condução, como atenção, funções executivas e memória",
+   "Confirmar o diagnóstico psiquiátrico do candidato, que não pode ser feito pelo médico assistente",
+   "Substituir a necessidade de relatório do médico assistente nas renovações posteriores da habilitação",
+   "Verificar a adesão do candidato ao tratamento farmacológico prescrito pelo seu psiquiatra assistente",
+   "Estabelecer o prazo de validade do exame de aptidão a ser registrado na habilitação do candidato"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "Avaliação psicológica complementar",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Esquizofrenia e direção veicular'.",
+  "coment": "A diretriz registra que estudos recenseados denotam a relevância dos testes psicológicos, sobretudo os cognitivos, na avaliação de motoristas com doença psiquiátrica — avaliando as atenções de vários tipos, as funções executivas, os domínios visual, perceptivo e espacial, a velocidade de processamento e a memória, reconhecidos como determinantes da capacidade de condução. Acrescenta que uma perícia psicológica que avalie de forma estruturada esses domínios, somada à avaliação da personalidade e de sintomas psicopatológicos, permitirá identificar indicadores que fundamentem o resultado de aptidão ou inaptidão. É complemento, e não substituto, do relatório do assistente.",
+  "porAlt": [
+   "Correta: testar funções cognitivas determinantes da condução, como atenção, executivas e memória.",
+   "A confirmação diagnóstica não é a finalidade: o diagnóstico vem do médico assistente do paciente.",
+   "A avaliação psicológica complementa, mas não substitui o relatório do médico assistente exigido.",
+   "A verificação de adesão consta do relatório do assistente, e não do exame psicológico complementar.",
+   "O prazo de validade é definido pelo médico perito, e não pela avaliação psicológica complementar."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre segurança no trânsito durante a gravidez e o puerpério, qual é a orientação quanto ao airbag do veículo conduzido pela gestante?",
+  "alts": [
+   "Deve ser desativado durante toda a gestação, pela força de abertura sobre o abdome gravídico",
+   "Deve ser desativado apenas no terceiro trimestre, quando o volume abdominal se aproxima do volante",
+   "Deve ser substituído por modelo de menor volume, disponível para adaptação em concessionárias",
+   "Deve ser mantido ligado apenas em veículos com transmissão automática, desativado nos demais casos",
+   "Deve permanecer sempre ligado e não deve ser modificado, funcionando em conjunto com o cinto"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Airbag e gestante condutora",
+  "base": "Diretriz ABRAMET 'Segurança no trânsito durante a gravidez e puerpério'.",
+  "coment": "A diretriz é explícita: os cintos de segurança e os airbags funcionam EM CONJUNTO para proporcionar adequada proteção à gestante, os airbags devem ser deixados SEMPRE LIGADOS e não devem ser modificados. A medida correta não é desativar o dispositivo, e sim afastar o banco: na direção de veículos dotados de airbag, além de utilizar apropriadamente o cinto, deve-se afastar o banco até o limite que permita o perfeito contato com volante e pedais, buscando a maior distância possível entre o abdome e o volante e evitando o contato direto. A diretriz também desestimula o uso de dispositivos que alterem o funcionamento original do cinto de segurança.",
+  "porAlt": [
+   "A diretriz não recomenda desativar o airbag: orienta afastar o banco para aumentar a distância.",
+   "A desativação também não é recomendada no terceiro trimestre, e sim o ajuste da posição do banco.",
+   "A diretriz não menciona substituição do airbag por modelo de menor volume como orientação.",
+   "O tipo de transmissão do veículo não guarda relação alguma com a manutenção do airbag ativo.",
+   "Correta: o airbag deve permanecer ligado e não modificado, atuando em conjunto com o cinto."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre gravidez e puerpério, qual é a orientação quanto ao retorno à condução após cesariana?",
+  "alts": [
+   "Prazo fixo de 30 dias, independentemente da avaliação do médico assistente e do uso de medicações",
+   "Prazo fixo de 6 meses, dado o risco de deiscência da cicatriz cirúrgica durante manobras ao volante",
+   "Retorno imediato após a alta hospitalar, pois a cesariana não impõe qualquer limitação à condução",
+   "Prazo fixo de 12 semanas, o mesmo previsto para o retorno após revascularização miocárdica cirúrgica",
+   "Em geral de 2 a 6 semanas, se o assistente a considerar capaz e sem medicação que prejudique a atenção"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Retorno à direção após cesariana",
+  "base": "Diretriz ABRAMET 'Segurança no trânsito durante a gravidez e puerpério', citando o RANZCOG.",
+  "coment": "A diretriz registra que o American College of Obstetricians and Gynecologists não fornece orientação formal sobre o prazo para voltar a dirigir após cesariana, e que o Royal Australian and New Zealand College of Obstetricians and Gynecologists reconhece que as evidências são limitadas, mas sugere que, EM GERAL, pode levar de 2 A 6 SEMANAS até que as mulheres estejam aptas a retomar a condução segura após cirurgia abdominal como a cesariana. A condução é possível desde que o médico assistente as considere física e emocionalmente capazes e desde que não estejam tomando medicamentos que prejudiquem a concentração e o tempo de reação — a decisão é individualizada, não um prazo rígido.",
+  "porAlt": [
+   "A diretriz não fixa prazo rígido: a orientação é individualizada conforme a avaliação do assistente.",
+   "O prazo de seis meses não consta da diretriz e é desproporcional ao risco descrito na literatura.",
+   "O retorno imediato desconsidera a recuperação de cirurgia abdominal e o uso de analgésicos sedativos.",
+   "O prazo de doze semanas é o do retorno após revascularização miocárdica, sem relação com a cesariana.",
+   "Correta: em geral de duas a seis semanas, condicionado à avaliação do assistente e à medicação em uso."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre gravidez e puerpério, qual grupo de gestantes é destacado como de maior risco no trânsito?",
+  "alts": [
+   "Gestantes de primeira gravidez, pela inexperiência no manejo dos sintomas do período gestacional",
+   "Gestantes acima de trinta e cinco anos, pela maior prevalência de comorbidades clínicas associadas",
+   "Gestantes residentes em área urbana, pela maior exposição ao tráfego intenso durante os deslocamentos",
+   "Trabalhadoras em turnos que se deslocam dirigindo, pela redução da atenção em jornadas noturnas",
+   "Gestantes que utilizam transporte por aplicativo, pela impossibilidade de ajustar o banco do veículo"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Gestante trabalhadora em turnos",
+  "base": "Diretriz ABRAMET 'Segurança no trânsito durante a gravidez e puerpério', considerações finais.",
+  "coment": "A diretriz destaca que as gestantes trabalhadoras em turnos, que se deslocam ao trabalho dirigindo, também pertencem ao grupo de maior risco, tendo em vista que as jornadas extensas e em períodos noturnos podem estar relacionadas à diminuição da capacidade de atenção e concentração no trânsito. É a interseção entre a medicina do tráfego preventiva e a ocupacional. As considerações finais reúnem ainda outras orientações: incluir informações sobre direção segura na rotina do PRÉ-NATAL; sensibilizar a gestante a informar o obstetra sobre qualquer medicamento em uso, para ajuste de dose, otimização de horário ou substituição; e decidir sobre viagens em conjunto com o médico assistente, considerando distância, endemias, altitude e limites da assistência médica local.",
+  "porAlt": [
+   "A primeira gestação não é o critério de risco apontado pela diretriz nas suas considerações finais.",
+   "A idade materna não é o recorte usado pela diretriz para identificar o grupo de maior risco.",
+   "A residência em área urbana não é o critério destacado pela diretriz para esse grupo de risco.",
+   "Correta: as trabalhadoras em turnos que dirigem ao trabalho são o grupo destacado pela diretriz.",
+   "O uso de transporte por aplicativo não é o recorte apontado, e a gestante ali não é a condutora."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre gravidez, qual é a conduta correta quando um medicamento em uso pela gestante prejudica a concentração e não pode ser ajustado nem substituído?",
+  "alts": [
+   "Manter a condução normalmente, pois o benefício do tratamento sempre supera o risco no trânsito",
+   "Orientar a gestante a evitar a condução veicular enquanto mantiver o uso daquele medicamento",
+   "Suspender o medicamento por conta própria nos dias em que a gestante precisar conduzir o veículo",
+   "Restringir a condução ao período noturno, quando o trânsito é menos intenso na maioria das cidades",
+   "Solicitar dosagem sérica do fármaco antes de cada deslocamento realizado pela gestante ao volante"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Medicamentos na gestante condutora",
+  "base": "Diretriz ABRAMET 'Segurança no trânsito durante a gravidez e puerpério', considerações finais.",
+  "coment": "A diretriz descreve uma escada de decisão: primeiro, sensibilizar a gestante a informar o obstetra sobre qualquer medicamento de uso rotineiro ou temporário, para que ele avalie os efeitos indesejáveis sobre a condução; em seguida, tentar ajustar as doses, otimizar o horário da medicação ou substituir o fármaco por outro com menos efeito colateral; e, nos casos em que nenhuma dessas medidas possa ser efetivada ou apresente resultado insatisfatório, a grávida deve ser ORIENTADA A EVITAR A CONDUÇÃO VEICULAR. Note que a suspensão do tratamento não figura entre as opções — o que se restringe é a direção, não a terapêutica necessária à gestação.",
+  "porAlt": [
+   "Manter a condução ignora o risco descrito e contraria a orientação expressa da diretriz médica.",
+   "Correta: orientar a gestante a evitar a condução enquanto mantiver o uso daquele medicamento.",
+   "Suspender o medicamento por conta própria é conduta perigosa e não figura entre as opções.",
+   "Restringir ao período noturno agrava o risco, somando fadiga e menor visibilidade ao efeito sedativo.",
+   "A dosagem sérica antes de cada deslocamento é inviável e não é recomendada pela diretriz médica."
+  ]
+ },
+ {
+  "q": "Em que momento da assistência a Diretriz ABRAMET recomenda incluir as informações sobre direção veicular segura para a gestante?",
+  "alts": [
+   "Apenas na consulta de revisão puerperal, quando a mulher já retomou plenamente as suas atividades",
+   "Na rotina do pré-natal, como parte das orientações regulares oferecidas durante o acompanhamento",
+   "Apenas quando a gestante apresentar queixa espontânea relacionada à condução de veículos automotores",
+   "Apenas no exame de aptidão física e mental, quando a gestante buscar a renovação da sua habilitação",
+   "Apenas na internação para o parto, momento em que a equipe pode orientar com maior tempo disponível"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Orientação no pré-natal",
+  "base": "Diretriz ABRAMET 'Segurança no trânsito durante a gravidez e puerpério', considerações finais.",
+  "coment": "A diretriz abre suas considerações finais afirmando que informações e orientações sobre direção veicular segura DEVEM SER INCLUÍDAS NA ROTINA DO PRÉ-NATAL. É uma recomendação de saúde pública com endereço claro: o obstetra e a equipe de pré-natal, e não apenas o médico do tráfego, devem abordar o tema — afinal, a maioria das gestantes não passará por exame pericial durante a gestação. As orientações incluem manter o foco durante a condução, evitar velocidade excessiva, obedecer à sinalização, usar corretamente cinto e airbag, informar medicamentos em uso e decidir sobre viagens em conjunto com o assistente.",
+  "porAlt": [
+   "A revisão puerperal é tardia demais para orientações que protegem a mulher durante a gestação.",
+   "Correta: a diretriz recomenda incluir as orientações na rotina regular do acompanhamento pré-natal.",
+   "A orientação deve ser oferecida de rotina, e não apenas mediante queixa espontânea da gestante.",
+   "A maioria das gestantes não passa por exame pericial durante a gestação, o que tornaria a orientação rara.",
+   "A internação para o parto é momento tardio e inadequado para as orientações de condução segura."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre gravidez, como deve ser decidida a realização de viagens longas pela gestante?",
+  "alts": [
+   "Livremente pela gestante, uma vez que a gravidez não impõe restrição a deslocamentos de qualquer distância",
+   "Vedada em qualquer circunstância a partir do segundo trimestre, pelo risco de trabalho de parto prematuro",
+   "Em conjunto com o médico assistente, considerando distância, endemias, altitude e assistência local",
+   "Autorizada apenas mediante declaração emitida pelo médico perito examinador de trânsito credenciado",
+   "Autorizada apenas em veículo próprio, ficando vedados o transporte coletivo e as viagens aéreas comerciais"
+  ],
+  "gab": 2,
+  "tema": "viajante",
+  "sub": "Viagens na gestação",
+  "base": "Diretriz ABRAMET 'Segurança no trânsito durante a gravidez e puerpério', considerações finais.",
+  "coment": "A diretriz determina que a decisão de viajar e a distância da viagem sejam tomadas CONJUNTAMENTE entre a grávida e o seu médico assistente. Além da distância máxima a ser percorrida, as recomendações devem levar em conta outros fatores, tais como a região a ser visitada e o potencial de exposição a doenças — endemias, epidemias, altitudes elevadas — e os limites da assistência médica local. E acrescenta uma orientação categórica: havendo riscos, liberar SOMENTE APÓS O PARTO. É a mesma lógica da medicina do viajante aplicada à gestação, somando risco obstétrico, risco infeccioso do destino e disponibilidade de retaguarda assistencial.",
+  "porAlt": [
+   "A diretriz recomenda decisão conjunta com o assistente, e não liberdade irrestrita de deslocamento.",
+   "Não há vedação absoluta a partir do segundo trimestre, que é justamente o período mais favorável.",
+   "Correta: decisão conjunta com o assistente, ponderando distância, endemias, altitude e assistência local.",
+   "A declaração do perito examinador de trânsito não é o instrumento previsto para autorizar viagens.",
+   "A diretriz não veda o transporte coletivo nem as viagens aéreas comerciais durante a gestação."
+  ]
+ },
+ {
+  "q": "Qual é a razão pela qual a Diretriz ABRAMET desestimula o uso de dispositivos que alteram o funcionamento original do cinto de segurança na gestante?",
+  "alts": [
+   "Aumentam o custo do equipamento, o que reduz a adesão das gestantes ao uso do cinto de segurança",
+   "Dificultam a saída rápida do veículo em situações de emergência, como incêndio após uma colisão",
+   "Impedem a leitura do sensor de presença do banco, o que desativa automaticamente o airbag frontal",
+   "Alteram a geometria de proteção do cinto, comprometendo a distribuição da força na desaceleração",
+   "Reduzem o conforto durante trajetos longos, o que leva a gestante a interromper o uso do dispositivo"
+  ],
+  "gab": 3,
+  "tema": "grupos",
+  "sub": "Adaptadores de cinto na gestação",
+  "base": "Diretriz ABRAMET 'Segurança no trânsito durante a gravidez e puerpério', considerações finais; Diretriz ABRAMET sobre cinto de segurança.",
+  "coment": "A diretriz é direta ao afirmar que o uso de dispositivos que alteram o funcionamento original do cinto de segurança deve ser desestimulado. O motivo é biomecânico: o cinto de três pontos foi projetado e homologado para distribuir a energia da desaceleração sobre estruturas ósseas específicas — pelve, tórax e clavícula — em uma geometria testada. Qualquer acessório que redirecione a faixa subabdominal, folgue o sistema ou reposicione o ponto de ancoragem altera essa geometria e pode transferir a força para o abdome, produzindo justamente a lesão que se pretende evitar. A orientação correta permanece simples: faixa subabdominal abaixo do abdome, sobre as cristas ilíacas, e faixa diagonal entre as mamas.",
+  "porAlt": [
+   "O custo do acessório não é a razão apontada pela diretriz para desestimular o seu uso pela gestante.",
+   "A dificuldade de saída em emergência não é o fundamento apresentado pela diretriz nesse ponto.",
+   "Os acessórios de cinto não atuam sobre o sensor de presença do banco nem desativam o airbag frontal.",
+   "Correta: alteram a geometria de proteção do cinto e a distribuição da força na desaceleração.",
+   "O desconforto em trajetos longos não é o fundamento técnico apresentado pela diretriz médica."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre TDAH, qual orientação prática é dada ao condutor quanto ao uso da medicação?",
+  "alts": [
+   "Não dirigir se não estiver medicado, pois o tratamento é parte do que viabiliza a condução segura",
+   "Suspender a medicação antes de dirigir, pois os estimulantes prejudicam o tempo de reação ao volante",
+   "Dobrar a dose da medicação em viagens longas, para manter o estado de alerta ao longo do trajeto",
+   "Alternar dias com e sem medicação, para evitar o desenvolvimento de tolerância ao efeito terapêutico",
+   "Usar a medicação apenas nos deslocamentos noturnos, quando a demanda atencional é comprovadamente maior"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "Medicação e condução no TDAH",
+  "base": "Diretriz ABRAMET 'Transtorno do Déficit de Atenção com Hiperatividade (TDAH) e condução de veículos automotores', orientações para conduzir.",
+  "coment": "Entre as orientações práticas da diretriz, a primeira da lista é 'não dirija se não estiver medicado'. A lógica inverte a intuição de quem associa psicofármaco a risco: no TDAH, o tratamento adequado MELHORA a atenção sustentada e o controle inibitório, reduzindo os comportamentos de risco ao volante. As demais orientações da lista são igualmente práticas: sintonizar previamente a música e manter o volume baixo, não se alimentar dirigindo, não usar telefone nem dispositivos de mensagens, guardar ou desligar o celular, não consumir álcool, conhecer as rotas de antemão, dar preferência a veículos com embreagem manual, evitar o piloto automático e, no início da habilitação, estar acompanhado de condutor experiente e transportar o menor número possível de jovens.",
+  "porAlt": [
+   "Correta: a diretriz orienta expressamente não dirigir se o condutor não estiver medicado.",
+   "A orientação é a oposta: o tratamento melhora a atenção e o controle inibitório na condução.",
+   "Dobrar a dose por conta própria não é orientação da diretriz e expõe a efeitos adversos sérios.",
+   "Alternar dias com e sem medicação não consta das orientações práticas apresentadas pela diretriz.",
+   "A diretriz não restringe o uso da medicação aos deslocamentos noturnos do condutor com TDAH."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre TDAH, por que se recomenda dar preferência a veículos com embreagem manual e evitar o piloto automático?",
+  "alts": [
+   "Porque exigem participação ativa do condutor, mantendo-o mais engajado na tarefa de dirigir",
+   "Porque reduzem o consumo de combustível, o que diminui a frequência de paradas durante a viagem",
+   "Porque diminuem a velocidade média do deslocamento, reduzindo a energia do impacto sofrido",
+   "Porque são mais baratos, o que amplia o acesso do condutor com o transtorno ao veículo particular",
+   "Porque exigem menor amplitude de movimento dos membros inferiores durante os trajetos mais longos"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "Engajamento na tarefa de dirigir",
+  "base": "Diretriz ABRAMET sobre TDAH, orientações para conduzir.",
+  "coment": "As duas orientações compartilham o mesmo fundamento: manter o condutor ATIVAMENTE ENGAJADO na tarefa. A embreagem manual exige coordenação contínua entre pé, mão e leitura do trânsito; o piloto automático, ao contrário, retira do condutor o controle da velocidade e favorece a divagação mental, o desengajamento atencional e o microssono — riscos especialmente relevantes em quem já tem dificuldade de atenção sustentada. É uma recomendação contraintuitiva se a pessoa pensar em conforto, mas coerente com a fisiologia da atenção: tarefas monótonas e de baixa demanda favorecem a queda do nível de alerta.",
+  "porAlt": [
+   "Correta: exigem participação ativa do condutor, mantendo-o mais engajado na tarefa de dirigir.",
+   "O consumo de combustível não é o fundamento apresentado pela diretriz para essas orientações.",
+   "A velocidade média não é reduzida pela transmissão manual nem pela ausência de piloto automático.",
+   "O custo do veículo não é o fundamento técnico da recomendação apresentada pela diretriz médica.",
+   "A amplitude de movimento dos membros inferiores é maior, e não menor, com embreagem manual."
+  ]
+ }
+]
