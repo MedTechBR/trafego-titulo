@@ -2484,5 +2484,247 @@ window.BANCO=[
 "Contar com a aquisição no destino é arriscado: apresentação, disponibilidade e regras variam por país.",
 "Suspender medicação de uso contínuo por causa da viagem não é conduta aceitável em nenhuma hipótese."
 ]
+},
+{
+"q": "Candidato de 31 anos perdeu a visão do olho esquerdo há 4 meses, ficando sem percepção luminosa (SPL) desse lado. O olho direito apresenta acuidade de 20/25 e campo horizontal de 140º. Pretende habilitar-se na categoria A. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+"alts": [
+"Inapto definitivo, pois a ausência de percepção luminosa em um olho veda a habilitação na categoria A",
+"Inapto temporário, pois o prazo mínimo exigido após a perda da visão é de um ano completo de adaptação",
+"Apto, com indicação no laudo de uso de capacete com viseira protetora sem limitação do campo visual",
+"Apto, sem qualquer observação adicional, já que o olho remanescente supera com folga todos os parâmetros",
+"Apto apenas na categoria B, pois a monocularidade é incompatível com a condução de motocicletas em via"
+],
+"gab": 2,
+"tema": "oftalmo",
+"sub": "Candidato sem percepção luminosa em um olho",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.3 e subitens 1.3.1 a 1.3.3.",
+"coment": "O item 1.3 abre uma via específica para o candidato sem percepção luminosa (SPL) em um dos olhos: ele PODE ser aprovado na ACC e nas categorias A e B, desde que observados três parâmetros. Primeiro, acuidade visual central igual ou superior a 20/30 (0,66) — o candidato tem 20/25, portanto cumpre. Segundo, visão periférica na isóptera horizontal igual ou superior a 120º — ele tem 140º, também cumpre. Terceiro, e é o detalhe mais cobrado: decorridos NO MÍNIMO NOVENTA DIAS da perda da visão, o laudo médico deverá indicar o uso de capacete de segurança com viseira protetora, sem limitação de campo visual. Com 4 meses, o prazo de 90 dias está cumprido. Note que as categorias C, D e E permanecem vedadas, pois exigem parâmetros em cada um dos olhos.",
+"porAlt": [
+"A norma admite expressamente a aprovação do candidato sem percepção luminosa nas categorias A e B.",
+"O prazo previsto na norma é de noventa dias após a perda da visão, e não de um ano de adaptação.",
+"Correta: cumpre acuidade, campo e o prazo de noventa dias, exigindo-se a indicação do capacete com viseira.",
+"A aprovação existe, mas o laudo deve indicar o uso de capacete com viseira sem limitação de campo.",
+"A norma inclui expressamente a categoria A entre as permitidas ao candidato sem percepção luminosa."
+]
+},
+{
+"q": "Candidato portador de estrabismo pretende habilitar-se. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, quais são os parâmetros e as categorias possíveis?",
+"alts": [
+"Todas as categorias, desde que a acuidade seja de 20/30 no melhor olho e o campo alcance 120º nos dois olhos",
+"Somente ACC e categorias A e B, com acuidade de 20/30 no melhor olho e campo de 120º em ao menos um olho",
+"Somente a categoria B, com acuidade de 20/40 no melhor olho e campo de 60º em pelo menos um dos olhos",
+"Somente ACC e categoria A, com acuidade de 20/25 no melhor olho e campo de 140º em ao menos um dos olhos",
+"Nenhuma categoria, pois o estrabismo compromete a estereopsia e veda a condução de veículo automotor"
+],
+"gab": 1,
+"tema": "oftalmo",
+"sub": "Estrabismo e habilitação",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 2.1 e subitens 2.1.1 e 2.1.2.",
+"coment": "O item 2 do Anexo II trata de motilidade ocular e tropia. Portadores de estrabismo poderão ser aprovados SOMENTE na ACC e nas categorias A e B, segundo dois parâmetros: acuidade visual central igual ou superior a 20/30 (0,66) NO MELHOR OLHO, e visão periférica na isóptera horizontal igual ou superior a 120º em PELO MENOS UM dos olhos. Repare que a norma se contenta com o desempenho do melhor olho, reconhecendo que a estereopsia comprometida pode ser compensada por pistas monoculares de profundidade — tamanho relativo, paralaxe de movimento, sobreposição — na tarefa de dirigir. As categorias profissionais permanecem vedadas, coerentemente com o padrão mais rigoroso que a norma exige do transporte de cargas e passageiros.",
+"porAlt": [
+"As categorias C, D e E permanecem vedadas ao portador de estrabismo pela literalidade da norma.",
+"Correta: somente ACC e categorias A e B, com 20/30 no melhor olho e 120º em pelo menos um dos olhos.",
+"Os parâmetros estão abaixo dos exigidos, que são de 20/30 no melhor olho e de 120º de campo visual.",
+"A categoria B também é permitida, e os parâmetros exigidos não correspondem aos citados na alternativa.",
+"O estrabismo não veda a habilitação: a norma prevê expressamente a aprovação nas categorias A e B."
+]
+},
+{
+"q": "Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a exigência quanto à visão cromática do candidato à habilitação?",
+"alts": [
+"Ser capaz de reconhecer as luzes semafóricas na posição padronizada prevista no Código de Trânsito",
+"Apresentar teste de Ishihara sem qualquer erro, o que exclui todas as formas de discromatopsia herdada",
+"Distinguir corretamente as cores primárias em teste de lã colorida aplicado sob iluminação artificial",
+"Apresentar visão cromática inteiramente normal quando pretender as categorias C, D e E do documento",
+"Reconhecer no mínimo doze das quinze pranchas pseudoisocromáticas aplicadas no exame de aptidão"
+],
+"gab": 0,
+"tema": "oftalmo",
+"sub": "Visão cromática",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 3.1.",
+"coment": "A norma adotou um critério FUNCIONAL, e não diagnóstico: o item 3.1 exige apenas que os candidatos sejam capazes do reconhecimento das luzes semafóricas em posição padronizada, prevista no CTB. Isso significa que o discromatópsico que identifica o sinal pela POSIÇÃO da luz — vermelho em cima, amarelo no meio, verde embaixo — atende à exigência, ainda que erre pranchas de um teste de Ishihara. A entidade credenciada é obrigada a dispor de material para identificação das cores verde, vermelha e amarela, exatamente as do semáforo. Trata-se de uma escolha coerente com a lógica de toda a Resolução: avaliar a capacidade de executar a tarefa de dirigir com segurança, e não rotular diagnósticos. Vale acrescentar que o item 4 exige do candidato visão em baixa luminosidade e recuperação após ofuscamento direto.",
+"porAlt": [
+"Correta: a exigência é funcional — reconhecer as luzes semafóricas na posição padronizada do CTB.",
+"A norma não exige teste de Ishihara sem erros nem exclui o candidato com discromatopsia herdada.",
+"O teste de lã colorida não é o parâmetro adotado pela norma para a avaliação da visão cromática.",
+"A exigência de visão cromática funcional vale para todas as categorias, e não só para as profissionais.",
+"A norma não estabelece número mínimo de pranchas pseudoisocromáticas a serem reconhecidas."
+]
+},
+{
+"q": "Segundo o Anexo IV da Resolução CONTRAN nº 927/2022, quais são as condições corretas para a realização da prova da voz coloquial?",
+"alts": [
+"Local silencioso, cinco metros de distância, uma orelha por vez, sem leitura labial, com palavras trissílabas",
+"Local com ruído ambiente, dois metros, ambas as orelhas, permitida a leitura labial, com palavras dissílabas",
+"Cabine acústica, um metro de distância, uma orelha por vez, sem leitura labial, com palavras monossílabas",
+"Local silencioso, três metros de distância, ambas as orelhas, permitida a leitura labial, com frases curtas",
+"Local silencioso, dois metros de distância, ambas as orelhas, sem leitura labial, com palavras dissílabas"
+],
+"gab": 4,
+"tema": "orl",
+"sub": "Prova da voz coloquial",
+"base": "Resolução CONTRAN nº 927/2022, Anexos III (item 1.1) e IV (itens 1 a 5).",
+"coment": "O Anexo IV detalha o procedimento com precisão incomum, e por isso é fonte fácil de questão. A prova deve realizar-se em local silencioso, onde não haja interferência de ruído de tráfego e que tenha pouca reverberação, com o examinador situado a DOIS METROS do candidato, testando AMBAS AS ORELHAS SIMULTANEAMENTE. O examinador deve pronunciar as palavras com calma e volume constante, e não deve inspirar profundamente antes de cada palavra — do contrário o início da emissão sai forte demais. As melhores palavras para a prova são as DISSÍLABAS, como casa, dama e tronco. Por fim, o examinador deve assegurar-se de que o candidato não veja seus lábios, pois a leitura labial falsearia o resultado. Reprovado nessa prova, o candidato segue para audiometria tonal aérea.",
+"porAlt": [
+"A distância prevista é de dois metros e o teste é feito nas duas orelhas simultaneamente, com dissílabos.",
+"O ruído ambiente deve ser evitado e a leitura labial precisa ser impedida durante toda a prova.",
+"A norma não exige cabine acústica, e as palavras indicadas são dissílabas, não monossílabas.",
+"A distância é de dois metros e a leitura labial deve ser impedida para não falsear o resultado.",
+"Correta: local silencioso, dois metros, ambas as orelhas, sem leitura labial e com palavras dissílabas."
+]
+},
+{
+"q": "Candidato com perda auditiva realizou tratamento e recebeu indicação de prótese. A audiometria em campo livre com a prótese mostra média de 32 dB nas frequências de 500, 1000 e 2000 Hz na orelha melhor. Qual é a conduta segundo o Anexo III da Resolução CONTRAN nº 927/2022?",
+"alts": [
+"Apto restrito à ACC e às categorias A e B, com exame otoneurológico normal e retrovisores laterais",
+"Inapto temporário, pois o uso de prótese não permite a aprovação para qualquer categoria pretendida",
+"Apto para qualquer categoria, sem qualquer observação, pois a média final ficou abaixo dos 40 decibéis",
+"Inapto definitivo para as categorias C, D e E, mantida a aptidão apenas para a ACC e as categorias A e B",
+"Apto para qualquer categoria, com a observação de uso obrigatório de prótese auditiva registrada na CNH"
+],
+"gab": 4,
+"tema": "orl",
+"sub": "Aptidão após prótese auditiva",
+"base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.6 e 1.7, e Anexo XV (código B).",
+"coment": "O item 1.6 é preciso: os candidatos que, após tratamento e/ou indicação de prótese auditiva, alcançarem na média aritmética das frequências de 500, 1000 e 2000 Hz na via aérea da orelha melhor perda INFERIOR a 40 dB serão considerados aptos para a condução de veículo em QUALQUER CATEGORIA. Essa média deve ser comprovada por audiometria tonal aérea após o tratamento ou por audiometria em campo livre com uso de prótese, quando indicada — exatamente o caso do enunciado. E, nessa hipótese, deverá constar a observação médica 'Obrigatório o uso de prótese auditiva', que é o código B do Anexo XV. Se a média permanecesse igual ou superior a 40 dB mesmo após tratamento e prótese (item 1.7), o candidato ficaria restrito à ACC e às categorias A e B, com exame otoneurológico normal e veículo equipado com retrovisores nas laterais.",
+"porAlt": [
+"Essa restrição vale para quem permanece com 40 dB ou mais mesmo após tratamento e uso de prótese.",
+"O uso de prótese não impede a aprovação: a norma prevê expressamente essa via de aptidão plena.",
+"A aptidão é correta, mas a observação de uso obrigatório de prótese deve constar da habilitação.",
+"Não há inaptidão definitiva para as categorias profissionais quando a média fica abaixo de 40 decibéis.",
+"Correta: abaixo de 40 dB após prótese, é apto para qualquer categoria com a observação de uso obrigatório."
+]
+},
+{
+"q": "Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, como devem ser avaliadas a mobilidade ativa e a mobilidade passiva do candidato?",
+"alts": [
+"Ativa: o examinador mobiliza os segmentos do candidato; passiva: o candidato executa os movimentos sozinho",
+"Ativa: pesquisa dos reflexos miotáticos com martelo; passiva: avaliação do equilíbrio estático e dinâmico",
+"Ativa: avaliação por dinamometria manual bilateral; passiva: avaliação da sensibilidade cinético-postural",
+"Ativa: o candidato executa os movimentos e agacha-se sem apoio; passiva: o examinador testa a resistência",
+"Ativa: marcha em linha reta com olhos fechados; passiva: teste de oposição de força contra resistência"
+],
+"gab": 3,
+"tema": "locomotor",
+"sub": "Mobilidade ativa, passiva e reflexa",
+"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, itens 1.1.1, 1.1.2 e 1.1.3.",
+"coment": "A norma define os três tipos de mobilidade com precisão operacional. Mobilidade ATIVA (1.1.1): o CANDIDATO deverá realizar movimentos do pescoço, braços, antebraços, pernas e coxa; fechar e abrir as mãos; fletir e estender os antebraços; agachar-se e levantar-se SEM APOIO. Mobilidade PASSIVA (1.1.2): o EXAMINADOR pesquisará os movimentos passivos dos diversos segmentos corporais do candidato, avaliando a resistência muscular. Mobilidade REFLEXA (1.1.3): pesquisa dos reflexos miotáticos — daí o martelo de Babinsky figurar entre os equipamentos obrigatórios da entidade médica. A coordenação, tratada em item separado (1.2), é avaliada por equilíbrio estático e dinâmico, e a força muscular (1.3) por provas de oposição de força e pela dinamometria manual.",
+"porAlt": [
+"Os papéis estão invertidos: quem executa na mobilidade ativa é o próprio candidato examinado.",
+"Os reflexos miotáticos correspondem à mobilidade reflexa, e o equilíbrio pertence à coordenação motora.",
+"A dinamometria integra a avaliação da força muscular, e a sensibilidade é item separado no anexo.",
+"Correta: na ativa o candidato executa os movimentos; na passiva o examinador avalia a resistência muscular.",
+"A marcha e a oposição de força pertencem à coordenação e à força, não à definição das mobilidades."
+]
+},
+{
+"q": "Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, qual código de restrição corresponde à observação 'obrigatório o uso de veículo com transmissão automática'?",
+"alts": [
+"Código A, distinto do código B, que se refere ao uso obrigatório de prótese auditiva pelo condutor",
+"Código D, distinto do código G, que se refere à embreagem manual ou com automação da embreagem",
+"Código C, distinto do código H, que se refere ao uso obrigatório de acelerador e de freio manuais",
+"Código F, distinto do código I, que se refere à adaptação dos comandos de painel para o volante",
+"Código T, distinto do código U, que se refere à vedação de dirigir após o pôr do sol na habilitação"
+],
+"gab": 1,
+"tema": "locomotor",
+"sub": "Códigos de restrição da CNH",
+"base": "Resolução CONTRAN nº 927/2022, Anexo XV.",
+"coment": "A tabela do Anexo XV converte as restrições em letras que constam da CNH. Os mais cobrados são: A — obrigatório o uso de lentes corretivas; B — prótese auditiva; C — acelerador à esquerda; D — transmissão automática; E — empunhadura, manopla ou pômo no volante; F — direção hidráulica; G — embreagem manual ou com automação de embreagem ou com transmissão automática; H — acelerador e freio manual; I — adaptação dos comandos de painel ao volante; J — adaptação dos comandos de painel para os membros inferiores e/ou outras partes do corpo; K e L — prolongamentos e almofadas de compensação; M a S — adaptações específicas de motocicleta e motoneta; T — vedado dirigir em rodovias e vias de trânsito rápido; U — vedado dirigir após o pôr do sol; X — outras restrições. Repare que D e G são próximos e costumam ser confundidos.",
+"porAlt": [
+"O código A refere-se às lentes corretivas, e não à exigência de transmissão automática no veículo.",
+"Correta: a transmissão automática é o código D, e o código G trata da embreagem manual ou automatizada.",
+"O código C refere-se ao acelerador à esquerda, e não à exigência de transmissão automática no veículo.",
+"O código F refere-se à direção hidráulica, e não à exigência de transmissão automática no veículo.",
+"Os códigos T e U são vedações de via e de horário, não exigências de adaptação do veículo conduzido."
+]
+},
+{
+"q": "Na avaliação do aparelho locomotor prevista no art. 4º da Resolução CONTRAN nº 927/2022, o que deve ser explorado pelo examinador?",
+"alts": [
+"Integridade e funcionalidade de cada membro e da coluna, malformações, agenesias, amputações e amplitude",
+"Apenas a força muscular medida por dinamometria manual, dispensada a avaliação da amplitude articular",
+"Apenas a presença de amputações de membros, que são as únicas condições capazes de exigir adaptação",
+"Apenas a mobilidade da coluna cervical, por ser a única relevante para a checagem dos pontos cegos do veículo",
+"Apenas a marcha e o equilíbrio, cuja normalidade permite presumir a integridade de todos os segmentos"
+],
+"gab": 0,
+"tema": "locomotor",
+"sub": "Escopo da avaliação do aparelho locomotor",
+"base": "Resolução CONTRAN nº 927/2022, art. 4º, III, alínea e.",
+"coment": "A alínea e do art. 4º, III determina a avaliação do aparelho locomotor, na qual serão exploradas a INTEGRIDADE e a FUNCIONALIDADE de cada membro e da coluna vertebral, buscando-se constatar a existência de malformações, agenesias ou amputações, ASSIM COMO o grau de amplitude articular dos movimentos. A redação combina dois eixos que costumam ser cobrados em conjunto: o anatômico (o que falta ou está malformado) e o funcional (quanto se move). Essa dupla perspectiva é o que permite ao perito decidir entre aptidão plena, aptidão com restrição por adaptação veicular (códigos do Anexo XV) e encaminhamento à Junta Médica Especial, que avaliará o candidato com deficiência física conforme a NBR 14970 da ABNT. É importante lembrar que amplitude articular reduzida pode limitar tanto quanto uma amputação, e às vezes é menos evidente à inspeção.",
+"porAlt": [
+"Correta: integridade e funcionalidade de membros e coluna, malformações, agenesias, amputações e amplitude.",
+"A dinamometria integra a avaliação neurológica da força, e a amplitude articular é expressamente exigida.",
+"As amputações são apenas uma das condições listadas, ao lado de malformações e de agenesias.",
+"A avaliação abrange cada membro e toda a coluna vertebral, não apenas o segmento cervical do candidato.",
+"Marcha e equilíbrio pertencem à coordenação e não permitem presumir a integridade de cada segmento."
+]
+},
+{
+"q": "Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a exceção expressa à obrigatoriedade de registrar na CNH a observação de uso de lentes corretoras?",
+"alts": [
+"As lentes de contato gelatinosas, dispensadas do registro por não serem removíveis durante a condução",
+"Os óculos de grau com correção inferior a duas dioptrias, considerados irrelevantes para a segurança",
+"As lentes intraoculares, que não se enquadram nessa obrigatoriedade de registro na habilitação",
+"As lentes fotossensíveis de escurecimento automático, por não alterarem a acuidade visual do condutor",
+"Os óculos utilizados apenas para leitura, por não influenciarem a acuidade visual para longe"
+],
+"gab": 2,
+"tema": "oftalmo",
+"sub": "Exceção das lentes intraoculares",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.4.",
+"coment": "O item 1.4 estabelece que os valores de acuidade visual exigidos poderão ser obtidos sem ou com correção óptica, devendo, neste último caso, constar da CNH a observação 'obrigatório o uso de lentes corretoras' — que é o código A do Anexo XV. E acrescenta a única exceção prevista: AS LENTES INTRAOCULARES NÃO ESTÃO ENQUADRADAS NESSA OBRIGATORIEDADE. A lógica é simples e vale a pena reter: a observação existe para garantir que o condutor esteja usando a correção no momento em que dirige, e a lente intraocular, sendo implantada cirurgicamente, não pode ser esquecida em casa nem removida — a correção é permanente. Para óculos e lentes de contato, ao contrário, o registro é obrigatório justamente porque o condutor pode dirigir sem eles.",
+"porAlt": [
+"As lentes de contato são removíveis e, por isso, sujeitam-se normalmente à obrigatoriedade do registro.",
+"A norma não estabelece limite de dioptrias que dispense o registro da observação na habilitação.",
+"Correta: a norma excetua expressamente as lentes intraoculares da obrigatoriedade desse registro.",
+"As lentes fotossensíveis não constituem a exceção prevista no texto do item da resolução citada.",
+"O parâmetro avaliado é a acuidade para longe, e a exceção prevista é a das lentes intraoculares."
+]
+},
+{
+"q": "Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a exigência de visão periférica na isóptera horizontal para a ACC e para as categorias A e B?",
+"alts": [
+"No mínimo 120º em cada um dos olhos, sem possibilidade de compensação pelo olho contralateral",
+"No mínimo 90º em cada um dos olhos, ou então no mínimo 140º em um dos olhos que for avaliado",
+"No mínimo 30º em cada um dos olhos, ou então no mínimo 60º em um dos olhos que for avaliado",
+"No mínimo 60º em cada um dos olhos, ou então no mínimo 120º em um dos olhos que for avaliado",
+"No mínimo 140º somados os dois olhos, independentemente da distribuição entre eles no exame"
+],
+"gab": 3,
+"tema": "oftalmo",
+"sub": "Campo visual nas categorias A e B",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.2 e 1.2.2.",
+"coment": "A norma trabalha com duas exigências distintas de campo visual. Para a ACC e as categorias A e B (item 1.2.2): visão periférica na isóptera horizontal igual ou superior a 60º EM CADA OLHO, OU igual ou superior a 120º EM UM OLHO — repare que a segunda hipótese admite compensação por um único olho, e é justamente ela que viabiliza a aprovação do candidato monocular do item 1.3. Para as categorias C, D e E (item 1.1.2): visão periférica na isóptera horizontal igual ou superior a 120º EM CADA UM DOS OLHOS, sem alternativa de compensação. A diferença é coerente com toda a lógica da Resolução: o transporte de cargas e passageiros exige margem de segurança maior, e a norma não admite ali as concessões que faz na condução privada.",
+"porAlt": [
+"A exigência de 120º em cada olho é a das categorias C, D e E, mais rigorosa que a das categorias A e B.",
+"Os valores de 90º e 140º não constam do texto da norma para nenhuma das categorias previstas.",
+"Os valores estão abaixo dos exigidos pela norma, que fixa sessenta graus em cada um dos olhos.",
+"Correta: 60º em cada olho, ou alternativamente 120º em um deles, para a ACC e as categorias A e B.",
+"A norma não trabalha com soma dos campos dos dois olhos, e sim com valores por olho avaliado."
+]
+},
+{
+"q": "Segundo o Anexo II da Resolução CONTRAN nº 927/2022, o que deve ser avaliado no teste de limiar de visão noturna e reação ao ofuscamento?",
+"alts": [
+"Se o candidato possui visão em baixa luminosidade e recuperação após o ofuscamento direto sofrido",
+"Se o candidato apresenta acuidade visual de 20/30 medida sob iluminação reduzida do ambiente do exame",
+"Se o candidato consegue identificar as cores do semáforo sob condições de baixa luminosidade noturna",
+"Se o candidato mantém o campo visual de 120º quando submetido a fonte luminosa direta e contínua",
+"Se o candidato apresenta reflexo fotomotor consensual preservado após estímulo luminoso direto forte"
+],
+"gab": 0,
+"tema": "oftalmo",
+"sub": "Visão noturna e ofuscamento",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1.",
+"coment": "O item 4.1 é sucinto e por isso mesmo cobrável na literalidade: o candidato deverá possuir visão em baixa luminosidade E recuperação após ofuscamento direto. São dois atributos distintos — o primeiro é a capacidade de enxergar no escuro, dependente da função dos bastonetes e da transparência dos meios; o segundo é o tempo de recuperação após um estímulo luminoso intenso, como o farol alto de um veículo em sentido contrário. A relevância prática é evidente na condução noturna em rodovia, e explica por que o equipamento para avaliação do campo visual, da estereopsia, do OFUSCAMENTO e da VISÃO NOTURNA integra a lista obrigatória de instrumentos da entidade médica credenciada. Quando há comprometimento, o Anexo XV oferece o código U — vedado dirigir após o pôr do sol.",
+"porAlt": [
+"Correta: avaliar a visão em baixa luminosidade e a recuperação após o ofuscamento direto sofrido.",
+"A norma não fixa valor de acuidade a ser medido sob iluminação reduzida nesse item específico.",
+"A visão cromática é objeto do item anterior e não se confunde com o teste de visão noturna.",
+"O campo visual é objeto do item 1 do anexo, e não do teste de visão noturna e de ofuscamento.",
+"O reflexo fotomotor consensual não é o parâmetro adotado pela norma nesse item da avaliação."
+]
 }
 ];
