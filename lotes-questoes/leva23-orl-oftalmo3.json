@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Qual é a sequência correta da avaliação otorrinolaringológica prevista na Resolução CONTRAN nº 927/2022?",
+  "alts": [
+   "Audiometria tonal aérea de rotina em todos; se alterada, prova da voz coloquial como exame confirmatório",
+   "Otoscopia de rotina em todos; se alterada, timpanometria; e somente depois a prova da voz coloquial",
+   "Prova da voz coloquial; se reprovado, audiometria tonal aérea; então decisão pelo corte de 40 decibéis",
+   "Exame otoneurológico de rotina em todos; se alterado, audiometria; e por fim a prova da voz coloquial",
+   "Audiometria vocal de rotina em todos; se alterada, audiometria tonal óssea como exame complementar"
+  ],
+  "gab": 2,
+  "tema": "orl",
+  "sub": "Fluxo da avaliação auditiva",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.1 a 1.7.",
+  "coment": "O Anexo III desenha um fluxo escalonado e econômico. Primeiro, a prova da voz coloquial, aplicada pelo próprio perito, a dois metros, em ambas as orelhas simultaneamente, sem leitura labial, com palavras dissílabas, em local silencioso. Só em caso de REPROVAÇÃO nessa prova é solicitada a audiometria tonal aérea, realizada por médico ou fonoaudiólogo. A decisão então se toma pelo corte de 40 dB na média de 500, 1000 e 2000 Hz da via aérea da orelha melhor. O exame otoneurológico não é de rotina: ele é acionado pela resposta positiva à pergunta 3 do questionário, sobre tonturas e vertigens, ou como condição para a aptidão restrita do item 1.7.",
+  "porAlt": [
+   "A audiometria não é exame de rotina: ela é solicitada apenas ao reprovado na voz coloquial.",
+   "A otoscopia e a timpanometria não integram o fluxo previsto no anexo da resolução vigente.",
+   "Correta: voz coloquial, depois audiometria se reprovado, e então o corte de quarenta decibéis.",
+   "O exame otoneurológico não é de rotina, sendo acionado pela queixa de tonturas ou vertigens.",
+   "A audiometria vocal não é o exame previsto pelo anexo, que se refere à audiometria tonal aérea."
+  ]
+ },
+ {
+  "q": "Por que a norma manda avaliar a média audiométrica na ORELHA MELHOR, e não na pior?",
+  "alts": [
+   "Porque a orelha pior sofre maior variação entre exames, o que tornaria o critério instável",
+   "Porque a orelha melhor determina a capacidade auditiva funcional efetiva do condutor na via",
+   "Porque a orelha melhor é sempre a contralateral ao lado do volante nos veículos nacionais",
+   "Porque a norma pretende reprovar o menor número possível de candidatos ao processo de habilitação",
+   "Porque a orelha pior costuma apresentar perda condutiva reversível na maioria absoluta dos casos"
+  ],
+  "gab": 1,
+  "tema": "orl",
+  "sub": "Critério da orelha melhor",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.4 a 1.7.",
+  "coment": "A norma adota consistentemente a ORELHA MELHOR como referência porque o que importa para a segurança viária é a capacidade auditiva FUNCIONAL do condutor — sua aptidão de perceber sirenes, buzinas, ruídos do próprio veículo e alertas sonoros. Um candidato com perda profunda unilateral e audição preservada do outro lado escuta adequadamente esses estímulos, ainda que perca a localização espacial da fonte sonora. É a mesma lógica funcional que o Anexo II aplica à visão, aceitando o melhor olho como referência no estrabismo e admitindo aptidão em categorias A e B para quem não tem percepção luminosa de um lado.",
+  "porAlt": [
+   "A variação de medida entre exames não é a razão descrita para a escolha da orelha de referência.",
+   "Correta: a orelha melhor é que determina a capacidade auditiva funcional efetiva do condutor.",
+   "A lateralidade do volante não guarda relação alguma com o critério adotado pela norma vigente.",
+   "O objetivo da norma é aferir a capacidade funcional, e não minimizar o número de reprovações.",
+   "A perda na orelha pior não é predominantemente condutiva nem reversível na maioria dos casos."
+  ]
+ },
+ {
+  "q": "Candidato relata que ouve bem, mas é reprovado na prova da voz coloquial realizada a dois metros. Qual é a interpretação mais provável do achado?",
+  "alts": [
+   "Há perda auditiva não percebida pelo candidato, comum na instalação lenta e simétrica da perda",
+   "Houve erro técnico obrigatório na prova, que deve ser desconsiderada em favor do relato do candidato",
+   "A prova da voz coloquial é inespecífica e sempre reprova candidatos com audição inteiramente normal",
+   "O candidato certamente simulou a perda auditiva para obter restrição de categoria na habilitação",
+   "A prova só é válida quando aplicada em cabine acústica, sendo nulo o resultado obtido no consultório"
+  ],
+  "gab": 0,
+  "tema": "orl",
+  "sub": "Perda auditiva não percebida",
+  "base": "Resolução CONTRAN nº 927/2022, Anexos III e IV.",
+  "coment": "A perda auditiva de instalação lenta e simétrica — como a presbiacusia e a perda induzida por ruído ocupacional, frequentes em motoristas profissionais — costuma passar despercebida pelo próprio portador, que adapta o comportamento sem se dar conta: aumenta o volume, pede repetições, evita ambientes ruidosos. A prova da voz coloquial existe justamente para detectar esse quadro em ambiente pericial, com condições padronizadas: local silencioso, dois metros, ambas as orelhas, palavras dissílabas, volume constante e sem leitura labial. Reprovado na prova, o passo seguinte é a audiometria tonal aérea, e não descartar o achado.",
+  "porAlt": [
+   "Correta: perda auditiva não percebida, típica da instalação lenta e simétrica ao longo dos anos.",
+   "O relato do candidato não prevalece sobre a prova padronizada aplicada em condições adequadas.",
+   "A prova não é inespecífica a ponto de reprovar sistematicamente quem tem audição normal.",
+   "A simulação de perda auditiva não é a interpretação mais provável nesse contexto pericial.",
+   "A norma não exige cabine acústica para a prova da voz coloquial, e sim local silencioso."
+  ]
+ },
+ {
+  "q": "Qual é a implicação funcional da perda auditiva unilateral profunda para a tarefa de dirigir, ainda que a norma admita a aptidão?",
+  "alts": [
+   "Perda completa da percepção de qualquer alerta sonoro, o que inviabiliza a condução com segurança",
+   "Perda da acuidade visual periférica, por conexão direta entre as vias auditiva e visual centrais",
+   "Perda do equilíbrio estático e dinâmico, com risco elevado de queda ao descer do veículo conduzido",
+   "Nenhuma implicação funcional, já que a audição não participa da tarefa de conduzir um automóvel",
+   "Perda da localização espacial da fonte sonora, o que dificulta identificar de onde vem a sirene"
+  ],
+  "gab": 4,
+  "tema": "orl",
+  "sub": "Localização espacial do som",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III; conteúdo programático do Edital nº 2446.",
+  "coment": "A localização espacial da fonte sonora depende da audição BINAURAL: o cérebro compara a diferença de tempo e de intensidade com que o som chega a cada orelha. Na perda unilateral profunda, essa comparação se perde, e o condutor passa a perceber que há uma sirene sem conseguir determinar de que direção ela vem — informação relevante em cruzamentos e na aproximação de veículos de emergência. Isso não inviabiliza a condução, e a norma corretamente adota a orelha melhor como referência, mas explica por que a orientação e a atenção visual redobrada aos espelhos são parte do aconselhamento a esse condutor.",
+  "porAlt": [
+   "A percepção do alerta sonoro é preservada pela orelha melhor, não havendo perda completa.",
+   "Não há perda de acuidade visual periférica decorrente da perda auditiva unilateral profunda.",
+   "O equilíbrio depende do sistema vestibular, que pode estar preservado na perda auditiva isolada.",
+   "Há implicação funcional relevante, ainda que compatível com a aptidão prevista na norma.",
+   "Correta: perde-se a localização espacial da fonte sonora, que depende da audição binaural."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual equivalência decimal corresponde às acuidades de 20/30, 20/40 e 20/25?",
+  "alts": [
+   "20/30 equivale a 0,50; 20/40 equivale a 0,66; e 20/25 equivale a 0,80 na escala decimal adotada",
+   "20/30 equivale a 0,80; 20/40 equivale a 0,66; e 20/25 equivale a 0,50 na escala decimal adotada",
+   "20/30 equivale a 0,30; 20/40 equivale a 0,40; e 20/25 equivale a 0,25 na escala decimal adotada",
+   "20/30 equivale a 0,75; 20/40 equivale a 0,60; e 20/25 equivale a 0,90 na escala decimal adotada",
+   "20/30 equivale a 0,66; 20/40 equivale a 0,50; e 20/25 equivale a 0,80 na escala decimal adotada"
+  ],
+  "gab": 4,
+  "tema": "oftalmo",
+  "sub": "Equivalência decimal das acuidades",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1, 1.2.1 e 1.3.1.",
+  "coment": "A norma sempre apresenta a acuidade em fração de Snellen seguida do equivalente decimal entre parênteses: 20/30 (0,66), 20/40 (0,50) e 20/25 (0,80). A conversão é simplesmente a divisão do numerador pelo denominador — 20 dividido por 30 é aproximadamente 0,66; 20 por 40 é 0,50; 20 por 25 é 0,80. Reter essa correspondência ajuda porque a mesma exigência pode ser cobrada em qualquer das duas notações. Os três valores organizam todo o Anexo II: 20/40 é o piso das categorias A e B; 20/30 é o piso das categorias C, D e E e o exigido do melhor olho nas situações especiais; e 20/25 é a visão binocular mínima das categorias profissionais.",
+  "porAlt": [
+   "Os equivalentes de 20/30 e 20/40 estão trocados entre si em relação ao texto da resolução.",
+   "Os equivalentes de 20/30 e 20/25 estão trocados entre si em relação ao texto da resolução.",
+   "A conversão não repete o numerador da fração: é a divisão do numerador pelo denominador.",
+   "Nenhum dos três valores corresponde às equivalências decimais citadas no texto do anexo.",
+   "Correta: 20/30 é 0,66; 20/40 é 0,50; e 20/25 é 0,80, conforme os valores citados pelo anexo."
+  ]
+ },
+ {
+  "q": "Qual é a razão clínica para a norma exigir avaliação da recuperação após ofuscamento na avaliação oftalmológica?",
+  "alts": [
+   "O ofuscamento altera de forma permanente a acuidade visual central medida pela tabela de optotipos",
+   "O ofuscamento é o principal marcador de discromatopsia adquirida na população de condutores idosos",
+   "O ofuscamento permite estimar o campo visual periférico sem necessidade de equipamento específico",
+   "O farol alto do veículo em sentido contrário ofusca e a recuperação lenta cega o condutor por segundos",
+   "O ofuscamento é usado para diagnosticar glaucoma de ângulo fechado durante o exame pericial de rotina"
+  ],
+  "gab": 3,
+  "tema": "oftalmo",
+  "sub": "Recuperação ao ofuscamento",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1.",
+  "coment": "O item 4.1 exige que o candidato possua visão em baixa luminosidade e RECUPERAÇÃO APÓS OFUSCAMENTO DIRETO. A situação-alvo é concreta: na condução noturna em pista de mão dupla, o farol do veículo em sentido contrário produz ofuscamento, e o tempo que o condutor leva para recuperar a visão útil determina por quantos segundos ele fica funcionalmente cego enquanto o veículo continua avançando. Esse tempo se prolonga com a idade, com opacidades do cristalino e com alterações da superfície ocular. Quando o comprometimento é significativo, o Anexo XV oferece o código U — vedado dirigir após o pôr do sol — como restrição intermediária.",
+  "porAlt": [
+   "O ofuscamento não altera de forma permanente a acuidade central aferida pela tabela de optotipos.",
+   "O ofuscamento não é marcador de discromatopsia adquirida na população avaliada pelo perito.",
+   "O campo visual periférico exige equipamento próprio e não é estimado pelo teste de ofuscamento.",
+   "Correta: o farol contrário ofusca, e a recuperação lenta deixa o condutor cego por alguns segundos.",
+   "O teste de ofuscamento não se destina ao diagnóstico de glaucoma no exame pericial de rotina."
+  ]
+ },
+ {
+  "q": "Qual é a implicação prática da exigência de estereopsia entre os equipamentos obrigatórios da entidade médica credenciada?",
+  "alts": [
+   "Permite medir a pressão intraocular, parâmetro exigido para todas as categorias de habilitação",
+   "Permite avaliar a percepção de profundidade, relevante para julgar distâncias em ultrapassagens",
+   "Permite avaliar a motilidade ocular extrínseca, dispensando o exame clínico do estrabismo pelo perito",
+   "Permite quantificar a discromatopsia congênita, substituindo o teste de reconhecimento das cores",
+   "Permite estimar a acuidade visual para perto, parâmetro exigido pela norma nas categorias C, D e E"
+  ],
+  "gab": 1,
+  "tema": "oftalmo",
+  "sub": "Estereopsia e percepção de profundidade",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, II, alínea k, e Anexo II.",
+  "coment": "O art. 17 exige, entre os equipamentos obrigatórios da entidade médica, aparelho para avaliação do campo visual, da ESTEREOPSIA, do ofuscamento e da visão noturna. A estereopsia é a percepção de profundidade obtida pela disparidade binocular — a diferença entre as imagens formadas em cada olho —, e sua relevância na condução está em julgar distâncias: a que separa o veículo à frente, a disponível para ultrapassar, a de aproximação em cruzamentos e a de estacionamento. Vale a ressalva que a própria norma incorpora ao aprovar estrabismo e monocularidade nas categorias A e B: a estereopsia comprometida pode ser parcialmente compensada por pistas monoculares de profundidade, como tamanho relativo, sobreposição e paralaxe de movimento.",
+  "porAlt": [
+   "A pressão intraocular não é parâmetro exigido pela norma nem aferida pelo teste de estereopsia.",
+   "Correta: avalia a percepção de profundidade, relevante para julgar distâncias em ultrapassagens.",
+   "A motilidade ocular é avaliada clinicamente e não é substituída pelo teste de estereopsia.",
+   "A discromatopsia é avaliada pelo reconhecimento das cores do semáforo, e não pela estereopsia.",
+   "A acuidade para perto não é parâmetro exigido pela norma para nenhuma das categorias previstas."
+  ]
+ },
+ {
+  "q": "Candidato à categoria B usa lentes de contato para atingir a acuidade exigida. Qual observação deve constar da CNH e por quê?",
+  "alts": [
+   "Nenhuma observação, porque as lentes de contato se equiparam às intraoculares para efeito da norma",
+   "Obrigatório o uso de veículo com transmissão automática, código D, como medida compensatória adicional",
+   "Vedado dirigir após o pôr do sol, código U, porque as lentes reduzem a tolerância ao ofuscamento noturno",
+   "Vedado dirigir em rodovias e vias rápidas, código T, porque a correção óptica limita o campo periférico",
+   "Obrigatório o uso de lentes corretoras, código A, porque a correção é removível pelo próprio condutor"
+  ],
+  "gab": 4,
+  "tema": "oftalmo",
+  "sub": "Lentes de contato e código A",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.4, e Anexo XV (código A).",
+  "coment": "O item 1.4 permite que a acuidade exigida seja obtida COM correção óptica, exigindo nesse caso que conste da CNH a observação 'obrigatório o uso de lentes corretoras' — código A do Anexo XV. A única exceção prevista são as LENTES INTRAOCULARES, que não se enquadram nessa obrigatoriedade. A lógica é a possibilidade de remoção: óculos e lentes de contato podem ser esquecidos ou deixados de lado, e a observação registra que aquele condutor só atinge o padrão visual usando a correção; a lente intraocular, implantada cirurgicamente, acompanha o condutor permanentemente. As demais restrições citadas destinam-se a limitações motoras e a comprometimento da visão noturna.",
+  "porAlt": [
+   "A exceção do anexo é das lentes intraoculares, e não das lentes de contato, que são removíveis.",
+   "A transmissão automática é o código D e atende a limitação motora, não à correção óptica usada.",
+   "A vedação noturna é o código U e depende de comprometimento específico da visão em baixa luz.",
+   "A vedação de rodovias é o código T e não decorre do uso de correção óptica pelo condutor.",
+   "Correta: código A, porque a correção óptica é removível e o padrão só é atingido com ela em uso."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo II, um candidato com acuidade de 20/40 em cada olho pode obter habilitação nas categorias C, D e E?",
+  "alts": [
+   "Sim, pois o piso de 20/40 em cada olho vale para todas as categorias previstas na resolução vigente",
+   "Não, pois essas categorias exigem no mínimo 20/30 em cada olho ou 20/30 em um e 20/40 no outro",
+   "Sim, desde que a visão binocular alcance 20/25 e o campo horizontal seja de 120º em cada um dos olhos",
+   "Não, pois essas categorias exigem no mínimo 20/25 em cada olho, com binocularidade de 20/20 aferida",
+   "Sim, desde que o candidato utilize correção óptica registrada com o código A na sua habilitação"
+  ],
+  "gab": 1,
+  "tema": "oftalmo",
+  "sub": "Piso visual das categorias profissionais",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1 e 1.2.1.",
+  "coment": "O piso de 20/40 (0,50) EM CADA OLHO é o das categorias A e B e da ACC. Para as categorias C, D e E, o item 1.1.1 exige 20/30 (0,66) em CADA olho, OU 20/30 em um olho e pelo menos 20/40 no outro — sempre somado à visão binocular mínima de 20/25 (0,80) e ao campo horizontal de pelo menos 120º em cada olho. Com 20/40 nos dois olhos, o candidato não alcança 20/30 em nenhum deles e, portanto, não satisfaz nenhuma das duas combinações admitidas. Nem a binocularidade adequada nem a correção óptica registrada suprem a acuidade monocular abaixo do piso exigido.",
+  "porAlt": [
+   "O piso de 20/40 em cada olho é o das categorias A e B, não valendo para as categorias C, D e E.",
+   "Correta: as categorias profissionais exigem 20/30 em cada olho, ou 20/30 em um e 20/40 no outro.",
+   "A binocularidade e o campo são exigências somadas, não substitutas da acuidade monocular mínima.",
+   "O piso monocular das categorias profissionais é 20/30, e a binocularidade mínima exigida é 20/25.",
+   "A correção óptica é admitida, mas o padrão a ser atingido com ela continua sendo o de 20/30."
+  ]
+ },
+ {
+  "q": "Qual achado do exame físico geral previsto no art. 4º da Resolução CONTRAN nº 927/2022 pode sinalizar doença sistêmica com repercussão sobre a condução?",
+  "alts": [
+   "Presença de tatuagens em membros superiores, marcador comportamental de propensão a assumir riscos",
+   "Uso de barba longa, achado que interfere na vedação de eventuais máscaras de oxigênio de emergência",
+   "Alteração da coloração da pele e das mucosas, que pode indicar anemia, icterícia ou hipoxemia crônica",
+   "Preferência manual esquerda, achado que exige adaptação obrigatória dos comandos do painel do veículo",
+   "Altura acima da média populacional, achado que compromete a visibilidade sobre o painel de instrumentos"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Exame físico geral e doença sistêmica",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, II, alínea c.",
+  "coment": "A alínea c manda observar estado geral, fácies, trofismo, nutrição, hidratação, COLORAÇÃO DA PELE E MUCOSAS, deformidades e cicatrizes, visando à detecção de enfermidades que possam constituir risco para a direção veicular — e a finalidade está escrita no próprio texto. A palidez sugere anemia, que compromete a tolerância ao esforço e pode agravar a hipóxia relativa; a icterícia aponta hepatopatia, com risco de encefalopatia; a cianose indica hipoxemia crônica, frequentemente de origem cardiopulmonar. Nenhum desses achados decide a aptidão isoladamente, mas todos direcionam o interrogatório complementar e a eventual solicitação de exames especializados a critério médico.",
+  "porAlt": [
+   "Tatuagens não têm valor preditivo de comportamento e não integram os achados do exame previsto.",
+   "A barba não é achado previsto no exame físico geral do candidato à habilitação veicular.",
+   "Correta: a coloração de pele e mucosas pode indicar anemia, icterícia ou hipoxemia crônica.",
+   "A preferência manual não exige adaptação de comandos nem integra os achados previstos na norma.",
+   "A altura acima da média não compromete a visibilidade nem consta dos achados previstos no artigo."
+  ]
+ },
+ {
+  "q": "Segundo a Resolução CONTRAN nº 927/2022, o que o perito deve fazer quando o candidato responde afirmativamente à pergunta 5 do questionário, sobre diabetes ou epilepsia?",
+  "alts": [
+   "Considerá-lo inapto temporário automaticamente, até apresentação de relatório do médico assistente",
+   "Desconsiderar a resposta se o exame físico geral estiver inteiramente normal no momento da avaliação",
+   "Aprofundar no interrogatório complementar e aplicar os protocolos específicos dessas condições clínicas",
+   "Encaminhá-lo diretamente à Junta Médica Especial, que decidirá sobre a aptidão para conduzir veículos",
+   "Registrar a informação no RENACH e prosseguir sem qualquer investigação adicional durante todo o exame"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Resposta positiva no questionário",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, I, e Anexos I, VIII e IX; Diretriz ABRAMET de diabetes.",
+  "coment": "A pergunta 5 do Anexo I — 'Você tem diabetes, epilepsia, doença cardíaca, neurológica, pulmonar ou outras?' — é um gatilho de investigação. O art. 4º, I estrutura a anamnese em questionário MAIS interrogatório complementar, e é neste que o perito aprofunda cada resposta positiva. Na epilepsia, o Anexo VIII determina que o primeiro resultado seja 'necessita de exames complementares ou especializados', com solicitação do relatório padronizado do Anexo IX ao assistente que acompanhe o candidato há pelo menos um ano. No diabetes, aplica-se a lógica da diretriz ABRAMET, centrada no risco de hipoglicemia grave e no tipo de tratamento em uso. Nem inaptidão automática, nem prosseguir sem investigar.",
+  "porAlt": [
+   "A inaptidão temporária automática não é a conduta: a norma manda investigar antes de decidir.",
+   "A resposta positiva não pode ser desconsiderada mesmo com exame físico geral inteiramente normal.",
+   "Correta: aprofundar no interrogatório complementar e aplicar os protocolos específicos de cada condição.",
+   "A Junta Médica Especial destina-se ao candidato com deficiência física, não a essas condições clínicas.",
+   "O registro isolado no RENACH não substitui a investigação exigida pelo interrogatório complementar."
+  ]
+ },
+ {
+  "q": "Qual é a função do martelo de Babinsky entre os equipamentos obrigatórios da entidade médica credenciada?",
+  "alts": [
+   "Testar a sensibilidade dolorosa superficial dos membros durante a avaliação neurológica do candidato",
+   "Aferir a força muscular por percussão dos grupos musculares dos membros superiores e dos inferiores",
+   "Avaliar a amplitude articular da coluna cervical durante o exame do aparelho locomotor do candidato",
+   "Pesquisar os reflexos miotáticos, item da mobilidade reflexa dentro da avaliação neurológica prevista",
+   "Verificar a integridade timpânica por percussão da mastoide durante a avaliação otorrinolaringológica"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Martelo de reflexos",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, II, alínea i, e Anexo VIII, item 1.1.3.",
+  "coment": "O martelo de Babinsky consta expressamente do rol de equipamentos obrigatórios da entidade médica, e sua finalidade está no Anexo VIII: o item 1.1.3 define a MOBILIDADE REFLEXA como a pesquisa dos reflexos miotáticos. É útil ver a correspondência entre os equipamentos exigidos e os exames que a norma manda fazer: tabela de Snellen ou projetor de optotipos para a acuidade visual; equipamento de campo visual, estereopsia, ofuscamento e visão noturna para os demais itens do Anexo II; estetoscópio e esfigmomanômetro para o Anexo V; dinamômetro para a força do Anexo VIII; balança antropométrica para o IMC do Anexo X; e material das cores verde, vermelha e amarela para a visão cromática.",
+  "porAlt": [
+   "A sensibilidade dolorosa não é avaliada com o martelo, e o anexo pede sensibilidade profunda.",
+   "A força muscular é avaliada por oposição de força e dinamometria, e não por percussão com martelo.",
+   "A amplitude articular é avaliada pela mobilidade ativa e passiva, sem uso do martelo de reflexos.",
+   "Correta: pesquisa dos reflexos miotáticos, que é a mobilidade reflexa do exame neurológico.",
+   "A integridade timpânica não é avaliada por percussão da mastoide com o martelo de reflexos."
+  ]
+ },
+ {
+  "q": "Qual é o significado da expressão 'preliminar e renovável' aplicada ao exame de aptidão física e mental no art. 147, §2º do CTB?",
+  "alts": [
+   "Preliminar por anteceder os demais exames do processo; renovável pela periodicidade das faixas etárias",
+   "Preliminar por ser aplicado antes da matrícula no centro de formação; renovável a cada mudança de categoria",
+   "Preliminar por ter validade provisória de trinta dias; renovável mediante simples requerimento do condutor",
+   "Preliminar por depender de confirmação posterior pela Junta Médica; renovável apenas em caso de recurso",
+   "Preliminar por ser realizado por médico não especialista; renovável quando houver especialista disponível"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Exame preliminar e renovável",
+  "base": "CTB, art. 147, caput e §2º (redação da Lei nº 14.071/2020).",
+  "coment": "O §2º determina que o exame de aptidão física e mental, a ser realizado no local de residência ou domicílio do examinado, será PRELIMINAR E RENOVÁVEL com a periodicidade das três faixas etárias. 'Preliminar' porque ele encabeça o rol do art. 147 e antecede os demais exames do processo — escrito sobre legislação, noções de primeiros socorros e direção veicular: não faz sentido submeter à formação e à prova prática quem não reúne condições de saúde para conduzir. 'Renovável' porque não se esgota na primeira habilitação, repetindo-se a cada 10, 5 ou 3 anos conforme a idade, ou em prazo menor por proposta do perito nos termos do §4º.",
+  "porAlt": [
+   "Correta: preliminar por anteceder os demais exames, e renovável pela periodicidade das faixas etárias.",
+   "A expressão não se refere à matrícula no centro de formação nem à mudança de categoria pretendida.",
+   "A norma não estabelece validade provisória de trinta dias para o exame de aptidão física e mental.",
+   "O exame não depende de confirmação posterior pela Junta, que é instância de revisão a requerimento.",
+   "O exame é realizado por perito com titulação de especialista, conforme o caput do próprio artigo."
+  ]
+ },
+ {
+  "q": "Um candidato à renovação apresenta queixa de visão noturna ruim e ofuscamento prolongado, mas acuidade e campo dentro do exigido. Qual é a conduta mais adequada?",
+  "alts": [
+   "Reprová-lo em definitivo, pois a queixa de visão noturna é incompatível com a condução de veículos",
+   "Aprová-lo sem qualquer restrição, pois acuidade e campo dentro do exigido esgotam a avaliação visual",
+   "Aprová-lo com a restrição do código T, vedando a condução em rodovias e em vias de trânsito rápido",
+   "Aprová-lo com a restrição do código U, vedando a condução após o pôr do sol, e orientar avaliação",
+   "Encaminhá-lo à Junta Médica Especial, única instância capaz de decidir sobre restrições de horário"
+  ],
+  "gab": 3,
+  "tema": "oftalmo",
+  "sub": "Restrição de condução noturna",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1, e Anexo XV (código U).",
+  "coment": "O Anexo II não se esgota em acuidade e campo: o item 4.1 exige que o candidato possua visão em baixa luminosidade e recuperação após ofuscamento direto, e a entidade é obrigada a dispor de equipamento para avaliar exatamente esses parâmetros. Confirmado o comprometimento, a resposta proporcional é o código U do Anexo XV — vedado dirigir após o pôr do sol —, que preserva a mobilidade diurna do condutor e retira a exposição ao ambiente em que ele efetivamente não tem desempenho seguro. É um exemplo de aptidão com restrições, prevista no art. 8º, II, e de por que o rol de códigos do Anexo XV oferece ao perito soluções intermediárias entre aprovar e reprovar.",
+  "porAlt": [
+   "A reprovação definitiva é desproporcional diante de comprometimento restrito ao período noturno.",
+   "A avaliação visual não se esgota em acuidade e campo: o anexo exige visão noturna e ofuscamento.",
+   "O código T veda rodovias e vias rápidas, e não atende especificamente à limitação da visão noturna.",
+   "Correta: aprovar com o código U, vedando a condução após o pôr do sol, e orientar avaliação oftalmológica.",
+   "A Junta Médica Especial destina-se ao candidato com deficiência física, não a essa decisão pericial."
+  ]
+ },
+ {
+  "q": "Qual é a relação entre a exigência de sala de exame médico de 4,5 m por 3,0 m e a avaliação oftalmológica?",
+  "alts": [
+   "A distância padronizada até os optotipos exige comprimento mínimo, admitido o auxílio de espelhos",
+   "A área mínima destina-se a acomodar a maca de exame clínico exigida para a avaliação neurológica",
+   "A área mínima destina-se a permitir a circulação de cadeira de rodas exigida pela acessibilidade",
+   "A largura mínima destina-se a comportar o equipamento de campo visual e a balança antropométrica",
+   "Não há relação alguma entre as dimensões da sala e a realização da avaliação oftalmológica do candidato"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Dimensões da sala e teste visual",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, II, alíneas a e b.",
+  "coment": "A alínea a exige sala de exame médico com dimensões mínimas de 4,5 m × 3,0 m, 'COM AUXÍLIO DE ESPELHOS', obedecendo aos critérios de acessibilidade. A ressalva dos espelhos revela o motivo da exigência de comprimento: o teste de acuidade visual com tabela de Snellen pressupõe distância padronizada entre o examinado e os optotipos, e o espelho permite dobrar opticamente o percurso em ambientes menores. Sem distância adequada, a medida de acuidade perde validade — e é justamente a acuidade que sustenta os pisos de 20/40, 20/30 e 20/25 de todo o Anexo II. A alínea b, na sequência, exige a tabela de Snellen ou o projetor de optotipos.",
+  "porAlt": [
+   "Correta: o teste de acuidade exige distância padronizada, e o espelho permite obtê-la em sala menor.",
+   "O divã para exame clínico é exigência distinta, prevista em outra alínea do mesmo artigo da norma.",
+   "A acessibilidade é exigida pela NBR 9050, mas não é o motivo do comprimento mínimo da sala.",
+   "O equipamento de campo visual e a balança não determinam o comprimento mínimo exigido da sala.",
+   "Há relação direta: a ressalva do auxílio de espelhos revela que a distância é o parâmetro em causa."
+  ]
+ }
+]
