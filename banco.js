@@ -5791,7 +5791,7 @@ window.BANCO=[
 "Compressão do gás pela elevação da pressão; previne-se com a retirada do dreno antes da decolagem",
 "Congelamento do selo d'água do sistema de drenagem; previne-se com aquecimento contínuo do frasco",
 "Perda da esterilidade do circuito de drenagem; previne-se com a troca do sistema durante o voo",
-"Nenhum risco específico, pois a cabine pressurizada equivale às condições do nível do mar",
+"Nenhum risco específico, pois a cabine pressurizada equivale plenamente ao nível do mar durante o voo",
 "Expansão do gás pela queda de pressão; previne-se com dreno funcionante e restrição da altitude"
 ],
 "gab": 4,
