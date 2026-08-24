@@ -80,17 +80,24 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
 4. Só depois: commit/push e **bump do `CACHE` do sw.js**.
 
 ## Estado do conteúdo (24/08/2026)
-- 15 questões (leva 1: aptidão, legislação, oftalmo, ORL, cardio, neuro, sono, locomotor, álcool)
+- **273 questões** em 21 levas (`lotes-questoes/leva*.json`), todos os 21 temas cobertos
 - 24 cartões · 6 casos da teórico-prática
-- **Faltam levas** nos eixos ainda descobertos: curativa (APH/trauma), ocupacional, viajante,
-  aeroespacial, aquaviária, securitária (dano corporal/DPVAT), epidemiologia, drogas, psiquiatria,
-  proteção veicular/crianças, grupos (idoso/gestante/motociclista/ciclista), sistêmicas.
-- Alvo de cobertura do validador: 30 questões/tema.
-- **Diretrizes ABRAMET ainda não baixadas** — o edital lista ~20 diretrizes nominalmente
-  (alcoolemia, benzodiazepínicos, drogas, epilepsia, DCEI/arritmias, Parkinson, TEA, TDAH,
-  esquizofrenia, DRC dialítica, diabetes, celular, idoso, gravidez, cinto, crianças partes 1 e 2,
-  tolerância a impactos, sono/fadiga, bicicletas, MPPCVA, esclerose múltipla, ambulâncias,
-  animais de companhia). Baixar da Revista ABRAMET antes de escrever as levas desses temas.
+- Alvo de cobertura do validador: 30 questões/tema — ainda não atingido em nenhum tema
+- **17 diretrizes ABRAMET baixadas e usadas** (em `/tmp/.../fontes/diretrizes`, reproduzir com
+  `urls.txt` + `chunk2.py`): alcoolemia, benzodiazepínicos, bicicletas, criança em ambulância,
+  transporte de crianças I e II, DCEI/arritmias, diabetes, DRC dialítica, **epilepsia 2025**,
+  esclerose múltipla, esquizofrenia, gravidez/puerpério, Parkinson, TDAH, TEA, tolerância a impactos.
+- **Faltam baixar** (o servidor da ABRAMET corta transferências longas): celular, cinto de segurança,
+  cinto e gravidez, drogas/efeitos, condutor idoso, MPPCVA (medicamentos), animais de companhia.
+  Receita que funciona: `chunk2.py` — baixa por faixas de bytes (Range) de 200 KB e remonta.
+
+## Achados normativos verificados em fonte primária
+- **Lei 15.428/2026**: renovação automática pelo RNPC dispensa o art. 147 EXCETO o exame de aptidão;
+  peritos passam a ser autorizados pela Senatran; preço público corrigido pelo IPCA.
+- **Diretriz ABRAMET 2025 de epilepsia**: substitui na prática o Anexo VIII, com tabela por categoria
+  E por atividade remunerada (a pergunta nº 9 do Anexo I define a coluna aplicável).
+- **SPVAT extinto**: LC 211/2024 (30/12/2024) revogou a LC 207/2024. DPVAT: R$13.500 morte,
+  até R$13.500 invalidez, até R$2.700 DAMS; graduação 75/50/25/10%.
 
 ## Hospedagem
 GitHub Pages, repo público `MedTechBR/trafego-titulo` — conteúdo 100% autoral, sem material
