@@ -6292,6 +6292,336 @@ window.BANCO=[
 ]
 },
 {
+"q": "Candidato de 40 anos teve um único episódio de crise epiléptica há 26 meses, sem critérios diagnósticos de epilepsia, e pretende a categoria B com atividade remunerada. Segundo a Diretriz ABRAMET 2025, qual é a conduta?",
+"alts": [
+"Inapto, pois a crise única sem diagnóstico de epilepsia exige 60 meses para a categoria B remunerada",
+"Apto, pois qualquer crise única libera todas as categorias após o prazo de 12 meses sem novo evento",
+"Apto, pois a crise única sem diagnóstico de epilepsia exige 24 meses para a categoria B remunerada",
+"Inapto, pois a crise única sem diagnóstico de epilepsia veda em definitivo a atividade remunerada",
+"Apto, mas restrito à categoria B comum, ficando vedada a modalidade com atividade remunerada dele"
+],
+"gab": 2,
+"tema": "neuro",
+"sub": "Crise única e categoria B remunerada",
+"base": "Diretriz ABRAMET 2025 de epilepsia, item 1 e quadro-resumo.",
+"coment": "A diretriz escalona três prazos para a crise ÚNICA não provocada sem critérios diagnósticos de epilepsia: 12 meses para a categoria B sem atividade remunerada; 24 MESES para a categoria B com atividade remunerada; e 5 anos para ACC e categorias A, C, D e E. Com 26 meses decorridos, o candidato ultrapassa os 24 meses exigidos para a modalidade remunerada da categoria B e pode ser considerado apto. Note o cuidado necessário para não confundir com os prazos da epilepsia diagnosticada em uso de fármaco anticrise, em que a categoria B remunerada exige 5 anos sem crises — a existência ou não de critérios diagnósticos muda tudo.",
+"porAlt": [
+"O prazo de 60 meses é o exigido para ACC e categorias A, C, D e E na hipótese de crise única.",
+"O prazo de 12 meses vale para a categoria B sem atividade remunerada, e não para todas elas.",
+"Correta: a crise única exige 24 meses para a categoria B com atividade remunerada ao veículo.",
+"Não há vedação definitiva: cumprido o prazo de 24 meses, a modalidade remunerada é liberada.",
+"A restrição à categoria B comum vale enquanto não completados os 24 meses exigidos pela diretriz."
+]
+},
+{
+"q": "Qual é a diferença essencial entre uma crise epiléptica PROVOCADA e uma crise NÃO PROVOCADA, para fins de avaliação da aptidão?",
+"alts": [
+"A provocada ocorre sempre durante o sono; já a não provocada ocorre apenas durante o período de vigília",
+"A provocada tem fator desencadeante identificável e removível; a não provocada indica risco de recorrência",
+"A provocada tem duração superior a cinco minutos; já a não provocada tem duração inferior a esse tempo",
+"A provocada acomete apenas adultos jovens; já a não provocada acomete apenas pessoas acima dos 60 anos",
+"Não há qualquer diferença conceitual relevante: as duas são tratadas de modo idêntico pela diretriz atual"
+],
+"gab": 1,
+"tema": "neuro",
+"sub": "Crise provocada versus não provocada",
+"base": "Diretriz ABRAMET 2025 de epilepsia, item 1 e justificativa (critérios da ILAE).",
+"coment": "A crise PROVOCADA — também chamada sintomática aguda — ocorre em relação temporal próxima a um insulto identificável: febre alta, traumatismo cranioencefálico agudo, distúrbio hidroeletrolítico, abstinência alcoólica, intoxicação, hipoglicemia. Removido o fator, o risco de recorrência aproxima-se do da população geral. Já a crise NÃO PROVOCADA ocorre sem fator desencadeante claro e sinaliza predisposição, com risco de recorrência que a própria diretriz estima em cerca de metade dos casos — motivo pelo qual ela pode indicar o início de um diagnóstico de epilepsia. É a crise não provocada que aciona os prazos escalonados de 12, 24 meses e 5 anos.",
+"porAlt": [
+"O momento de ocorrência não é o critério que distingue crise provocada de crise não provocada.",
+"Correta: a provocada tem fator desencadeante removível; a não provocada sinaliza risco de recorrência.",
+"A duração da crise não é o parâmetro que define a distinção conceitual descrita pela diretriz.",
+"A faixa etária não é o critério de distinção entre crise provocada e crise não provocada.",
+"Há diferença conceitual relevante, com repercussão direta sobre os prazos aplicáveis ao caso."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET 2025, por que a epilepsia generalizada idiopática é excluída da via de aptidão sem uso de fármaco anticrise?",
+"alts": [
+"Porque apresenta alto risco de recorrência sem o tratamento medicamentoso adequado ao caso",
+"Porque cursa sempre com comprometimento cognitivo grave, incompatível com a condução veicular",
+"Porque não responde a nenhum fármaco anticrise disponível no arsenal terapêutico atualmente",
+"Porque acomete exclusivamente crianças, faixa etária que não pode obter habilitação para dirigir",
+"Porque suas crises ocorrem exclusivamente durante o sono, o que impede a avaliação da vigília"
+],
+"gab": 0,
+"tema": "neuro",
+"sub": "Epilepsia generalizada idiopática",
+"base": "Diretriz ABRAMET 2025 de epilepsia, item 3.",
+"coment": "O item 3 trata da pessoa com critérios diagnósticos de epilepsia que NÃO faz uso de fármaco anticrise, seja porque a medicação não foi introduzida, seja porque foi suspensa. Ela pode ser considerada apta desde que fique 2 anos contínuos sem crises após a retirada completa da medicação, restrita à categoria B sem atividade remunerada — e NÃO sendo portadora de epilepsia generalizada idiopática, como a mioclônica juvenil, a ausência juvenil e as crises tônico-clônicas isoladas. A justificativa é explícita na diretriz: essas condições apresentam ALTO RISCO DE RECORRÊNCIA sem o tratamento medicamentoso adequado, de modo que a suspensão do fármaco não representa remissão da doença.",
+"porAlt": [
+"Correta: essas síndromes têm alto risco de recorrência quando o tratamento é suspenso ou omitido.",
+"O comprometimento cognitivo grave não é a característica que justifica a exclusão dessa via.",
+"Essas síndromes costumam responder bem ao tratamento; o problema é a recorrência sem ele.",
+"Elas se manifestam na infância e adolescência, mas acompanham o paciente na vida adulta.",
+"As crises não se restringem ao sono nessas síndromes generalizadas idiopáticas descritas."
+]
+},
+{
+"q": "Qual é a conduta correta quando o candidato com epilepsia apresenta relatório de médico assistente que o acompanha há apenas quatro meses?",
+"alts": [
+"Aceitar o relatório apresentado, pois a norma não estabelece tempo mínimo de acompanhamento algum",
+"Recusar qualquer relatório e decidir exclusivamente com base no exame clínico feito no consultório",
+"Considerar o candidato inapto em definitivo, pela insuficiência do acompanhamento neurológico dele",
+"Encaminhar o candidato à Junta Médica Especial, que dispensa a exigência de relatório do assistente",
+"Solicitar relatório de assistente que o acompanhe há pelo menos um ano, conforme exige a norma"
+],
+"gab": 4,
+"tema": "neuro",
+"sub": "Tempo mínimo de acompanhamento",
+"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 2.2, e Anexo IX; Diretriz ABRAMET 2025 de epilepsia.",
+"coment": "O item 2.2 do Anexo VIII é expresso: o questionário padronizado do Anexo IX deverá ser preenchido por médico assistente que acompanhe o candidato há, NO MÍNIMO, UM ANO. A exigência não é formalidade — o relatório precisa afirmar com segurança o tempo sem crises, a adesão ao tratamento e o parecer sobre a liberação, e nada disso é sustentável a partir de quatro meses de acompanhamento. A conduta é manter o primeiro resultado como 'necessita de exames complementares ou especializados' e solicitar relatório de assistente com o tempo mínimo exigido, ou aguardar que o acompanhamento atual complete um ano.",
+"porAlt": [
+"A norma estabelece expressamente o tempo mínimo de um ano de acompanhamento pelo assistente.",
+"O relatório do assistente é exigência da norma e não pode ser dispensado pelo perito examinador.",
+"A inaptidão definitiva é desproporcional: falta apenas a documentação adequada para decidir.",
+"A Junta Médica Especial destina-se ao candidato com deficiência física, não a essa hipótese.",
+"Correta: o relatório deve vir de assistente que acompanhe o candidato há no mínimo um ano."
+]
+},
+{
+"q": "Qual é o significado da orientação de que o candidato com epilepsia tenha como PRIMEIRO resultado 'necessita de exames complementares ou especializados'?",
+"alts": [
+"É um resultado definitivo de inaptidão, que só pode ser revisto por meio de recurso ao CETRAN local",
+"É um resultado de aptidão condicionada, que já permite ao candidato prosseguir no processo iniciado",
+"É um resultado equivalente à inaptidão temporária, com bloqueio imediato do cadastro nacional dele",
+"É um resultado meramente informativo, sem qualquer repercussão sobre o andamento do processo",
+"É um resultado provisório que suspende a decisão até a chegada do relatório do médico assistente"
+],
+"gab": 4,
+"tema": "neuro",
+"sub": "Resultado provisório na epilepsia",
+"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 2.1, e art. 4º, IV.",
+"coment": "O item 2.1 determina que o candidato que declare ser portador de epilepsia ou fazer uso de medicamento antiepiléptico tenha como PRIMEIRO RESULTADO 'necessita de exames complementares ou especializados', trazendo informações do médico assistente pelo questionário padronizado do Anexo IX. Trata-se de um estado provisório do processo, e não de uma das quatro conclusões do art. 8º: a decisão fica suspensa até que o perito disponha dos elementos necessários. Só depois, com o relatório em mãos e verificados os critérios da diretriz vigente, é que se define entre apto, apto com restrições, inapto temporário ou inapto. O art. 4º, IV é a base para essa solicitação de exames complementares ou especializados a critério médico.",
+"porAlt": [
+"Não é resultado definitivo de inaptidão: é etapa que antecede a conclusão do exame pericial.",
+"Não é aptidão condicionada: o processo fica suspenso até a apresentação da documentação exigida.",
+"Não equivale à inaptidão temporária, que é uma das quatro conclusões possíveis do artigo oitavo.",
+"Não é meramente informativo: ele efetivamente suspende o andamento do processo de habilitação.",
+"Correta: é resultado provisório que suspende a decisão até chegar o relatório do médico assistente."
+]
+},
+{
+"q": "Segundo a Diretriz ABRAMET 2025, uma pessoa com epilepsia resolvida pode exercer atividade remunerada como condutora?",
+"alts": [
+"Não, a epilepsia resolvida libera apenas a categoria B sem qualquer exercício de atividade remunerada",
+"Não, a epilepsia resolvida mantém a vedação permanente às categorias do transporte profissional de cargas",
+"Sim, mas apenas após um período adicional de cinco anos contados do reconhecimento formal da resolução",
+"Sim, a epilepsia resolvida libera todas as categorias, inclusive com exercício de atividade remunerada",
+"Sim, mas apenas nas categorias A e B, ficando vedadas as categorias C, D e E em qualquer hipótese"
+],
+"gab": 3,
+"tema": "neuro",
+"sub": "Epilepsia resolvida e categorias",
+"base": "Diretriz ABRAMET 2025 de epilepsia, item 4 e quadro-resumo.",
+"coment": "A epilepsia 'considerada resolvida' é a única linha do quadro-resumo em que todas as três colunas trazem APTO: categoria B sem atividade remunerada, categoria B com atividade remunerada e ACC com categorias A, C, D e E, inclusive com exercício de atividade remunerada. A definição é exigente e justifica a liberação ampla: a pessoa deve permanecer livre de crises por pelo menos 10 anos E sem uso de fármaco anticrise nos últimos 5 anos. A justificativa da diretriz é que, nessa população, o risco de recorrência de crise se aproxima do risco da população em geral — e é essa equivalência de risco que fundamenta o tratamento igualitário.",
+"porAlt": [
+"A restrição à categoria B aplica-se às demais situações, mas não à epilepsia considerada resolvida.",
+"Não há vedação permanente: a resolução equipara o risco ao da população geral segundo a diretriz.",
+"Não há período adicional após o reconhecimento: os prazos já estão embutidos na própria definição.",
+"Correta: a epilepsia resolvida libera todas as categorias, inclusive com atividade remunerada.",
+"As categorias C, D e E são liberadas na epilepsia resolvida, ao contrário das demais situações."
+]
+},
+{
+"q": "Qual é a repercussão prática de a Diretriz ABRAMET 2025 exigir Epworth inferior a 12 nas crises exclusivamente no sono?",
+"alts": [
+"Confirma o diagnóstico de epilepsia, que depende da pontuação obtida na escala de sonolência aplicada",
+"Afasta a sonolência diurna, que somada às crises noturnas elevaria muito o risco durante a condução",
+"Estima a frequência das crises noturnas, correlacionada de forma direta com a pontuação obtida ali",
+"Define a categoria de habilitação a ser concedida, que varia conforme a pontuação obtida na escala",
+"Substitui a necessidade do relatório do médico assistente exigido nas demais situações previstas"
+],
+"gab": 1,
+"tema": "sono",
+"sub": "Epworth nas crises do sono",
+"base": "Diretriz ABRAMET 2025 de epilepsia, item 5.",
+"coment": "Entre as condições cumulativas para a aptidão da pessoa com crises exclusivamente durante o sono, a diretriz exige o descarte obrigatório de condições que possam causar SONOLÊNCIA EXCESSIVA DIURNA, avaliada pela Escala de Epworth com pontuação inferior a 12 e pela investigação de SAOS conforme a Resolução 927. A razão é a soma de riscos: quem tem crises noturnas já convive com fragmentação do sono, e a diretriz registra que pessoas com epilepsia apresentam alta incidência de distúrbios do sono, com apneia obstrutiva afetando até um terço dos adultos com a forma refratária. Sonolência diurna somada a esse quadro elevaria substancialmente o risco ao volante.",
+"porAlt": [
+"O diagnóstico de epilepsia não depende da pontuação obtida na escala de sonolência aplicada.",
+"Correta: afasta a sonolência diurna, que somada às crises noturnas elevaria muito o risco.",
+"A escala não estima frequência de crises: ela mede a propensão subjetiva a adormecer durante o dia.",
+"A categoria é definida pelo tipo de crise e pelo tempo sem eventos, não pela pontuação da escala.",
+"A escala não substitui o relatório do médico assistente, que permanece exigido pela diretriz."
+]
+},
+{
+"q": "Por que a Diretriz ABRAMET 2025 registra que pessoas com epilepsia apresentam alta incidência de distúrbios do sono?",
+"alts": [
+"Porque os distúrbios do sono são a causa primária de todas as formas de epilepsia diagnosticadas",
+"Porque o tratamento anticrise elimina o sono profundo, o que causa insônia em todos os pacientes",
+"Porque a epilepsia impede o registro polissonográfico, o que impossibilita o diagnóstico do sono",
+"Porque os distúrbios do sono ocorrem apenas em pessoas com epilepsia, sendo raros na população geral",
+"Porque a privação de sono agrava o controle das crises, formando um círculo de piora recíproca"
+],
+"gab": 4,
+"tema": "sono",
+"sub": "Sono e controle das crises",
+"base": "Diretriz ABRAMET 2025 de epilepsia, justificativa do item 6.",
+"coment": "A diretriz registra que pessoas com epilepsia apresentam alta incidência de distúrbios do sono, entre os quais se destacam a sonolência excessiva diurna, a hipersonia e a apneia obstrutiva do sono — esta última uma comorbidade frequente, afetando até um terço dos adultos com a forma refratária da doença. E acrescenta o elo decisivo: a PRIVAÇÃO DE SONO AGRAVA O CONTROLE DAS CRISES, comprometendo a capacidade de condução segura. Forma-se assim um círculo de piora recíproca — a epilepsia perturba o sono, e o sono ruim descontrola a epilepsia —, o que justifica investigar e tratar o distúrbio do sono como parte do manejo da própria epilepsia.",
+"porAlt": [
+"Os distúrbios do sono não são a causa primária de todas as formas de epilepsia diagnosticadas.",
+"O tratamento anticrise não elimina o sono profundo nem causa insônia em todos os pacientes.",
+"A epilepsia não impede o registro polissonográfico nem inviabiliza o diagnóstico do distúrbio.",
+"Os distúrbios do sono são prevalentes também na população geral, e não exclusivos da epilepsia.",
+"Correta: a privação de sono agrava o controle das crises, formando um círculo de piora recíproca."
+]
+},
+{
+"q": "Um motorista de caminhão com IMC de 36 kg/m² e Epworth de 18 é encaminhado para polissonografia, que confirma apneia grave. Ele recusa o tratamento. Qual é a conduta pericial?",
+"alts": [
+"Apto com prazo reduzido, pois a recusa ao tratamento é decisão autônoma que não cabe ao perito avaliar",
+"Inapto temporário, pois a sonolência excessiva não tratada é incompatível com a condução profissional",
+"Apto sem restrições, pois o diagnóstico isolado de apneia não impede a condução profissional de veículos",
+"Inapto definitivo, pois a apneia obstrutiva do sono é condição irreversível em qualquer circunstância",
+"Encaminhamento à Junta Médica Especial, única instância capaz de decidir sobre distúrbios do sono"
+],
+"gab": 1,
+"tema": "sono",
+"sub": "Recusa de tratamento na SAOS",
+"base": "Resolução CONTRAN nº 927/2022, Anexo X; art. 8º, III; conteúdo programático do Edital nº 2446.",
+"coment": "O que fundamenta a decisão pericial não é o diagnóstico de apneia, e sim a SONOLÊNCIA EXCESSIVA DIURNA não controlada, que é fator de risco direto para microssonos e sinistros graves — sobretudo num condutor profissional em jornada longa. Com Epworth de 18, IMC de 36 e apneia grave confirmada, sem tratamento, o risco é atual e mensurável. Como a condição é PASSÍVEL DE TRATAMENTO, o enquadramento correto no art. 8º é o inciso III, inaptidão temporária, e não a inaptidão definitiva do inciso IV. A autonomia do paciente para recusar tratamento é legítima, mas não obriga o perito a atestar aptidão que ele não tem — e o laudo deve registrar a orientação prestada.",
+"porAlt": [
+"A autonomia para recusar o tratamento não obriga o perito a atestar uma aptidão inexistente.",
+"Correta: inaptidão temporária, pois a sonolência não tratada é incompatível com a condução profissional.",
+"O que importa não é o diagnóstico isolado, e sim a sonolência excessiva diurna não controlada.",
+"A apneia é passível de tratamento, o que afasta a inaptidão definitiva do inciso quarto do artigo.",
+"A Junta Médica Especial destina-se ao candidato com deficiência física, não a essa decisão pericial."
+]
+},
+{
+"q": "Qual é a relação entre apneia obstrutiva do sono e hipertensão arterial, relevante para o exame pericial?",
+"alts": [
+"São condições sem qualquer relação entre si, avaliadas de modo inteiramente independente no exame",
+"A apneia reduz a pressão arterial, funcionando como fator protetor cardiovascular no condutor obeso",
+"São comorbidades que se reforçam, e ambas figuram entre os parâmetros avaliados pela mesma resolução",
+"A hipertensão impede o diagnóstico de apneia, por interferir no registro polissonográfico realizado",
+"A apneia só ocorre em pacientes normotensos, o que exclui os hipertensos do rastreamento previsto"
+],
+"gab": 2,
+"tema": "sono",
+"sub": "SAOS e hipertensão",
+"base": "Resolução CONTRAN nº 927/2022, Anexos V e X.",
+"coment": "A apneia obstrutiva do sono e a hipertensão arterial se reforçam mutuamente: os episódios repetidos de hipóxia e microdespertares ativam o sistema simpático, elevando a pressão arterial, sobretudo a noturna e a de difícil controle. A Resolução 927 reflete essa relação em dois anexos com finalidades distintas: o Anexo V usa a pressão para decidir a APTIDÃO em si, com as faixas abaixo de 160/100, entre 160-179 e/ou 100-109, e a partir de 180 e/ou 110; e o Anexo X usa a pressão acima de 130/85 como INDÍCIO OBJETIVO de distúrbio do sono. Um mesmo candidato pode, portanto, ser apto pelo critério pressórico e ainda assim somar indício de apneia no rastreamento.",
+"porAlt": [
+"Há relação fisiopatológica bem estabelecida entre apneia obstrutiva do sono e hipertensão arterial.",
+"A apneia eleva a pressão arterial e não funciona como fator protetor cardiovascular no obeso.",
+"Correta: reforçam-se mutuamente e ambas figuram entre os parâmetros da mesma resolução vigente.",
+"A hipertensão não impede o diagnóstico nem interfere no registro polissonográfico realizado.",
+"A apneia é mais prevalente justamente entre hipertensos, e não restrita aos normotensos."
+]
+},
+{
+"q": "Qual é a razão fisiopatológica para a obesidade central ser fator de risco para apneia obstrutiva do sono?",
+"alts": [
+"O acúmulo de gordura abdominal eleva a temperatura corporal, o que acaba fragmentando o sono profundo",
+"O acúmulo de gordura reduz a produção de melatonina, o que impede o início do sono a cada noite",
+"O acúmulo de gordura cervical e faríngea estreita a via aérea, que colapsa mais facilmente no sono",
+"O acúmulo de gordura aumenta a rigidez da caixa torácica, o que impede qualquer episódio de apneia",
+"Não há relação entre distribuição de gordura corporal e ocorrência de apneia obstrutiva do sono"
+],
+"gab": 2,
+"tema": "sono",
+"sub": "Obesidade e colapsabilidade faríngea",
+"base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.2.2 e 1.2.3.",
+"coment": "O mecanismo é predominantemente mecânico. O acúmulo de tecido adiposo nas paredes laterais da faringe e na região cervical reduz o calibre da via aérea superior e aumenta sua colapsabilidade; durante o sono, com a queda do tônus da musculatura dilatadora, o segmento colaba e produz a apneia. A obesidade abdominal contribui adicionalmente ao reduzir o volume pulmonar e a tração caudal que estabiliza a via aérea. É exatamente por isso que a Resolução adota como indícios objetivos tanto o IMC acima de 30 kg/m² quanto o perímetro cervical acima de 45 cm em homens e de 38 cm em mulheres — dois marcadores complementares do mesmo fenômeno.",
+"porAlt": [
+"A temperatura corporal não é o mecanismo pelo qual a obesidade central favorece a apneia do sono.",
+"A produção de melatonina não é o mecanismo descrito para a associação entre obesidade e apneia.",
+"Correta: a gordura cervical e faríngea estreita a via aérea, que colapsa mais facilmente no sono.",
+"A rigidez torácica não impede a apneia, que decorre do colapso da via aérea superior no sono.",
+"Há relação bem estabelecida entre distribuição de gordura corporal e apneia obstrutiva do sono."
+]
+},
+{
+"q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, quais são as duas condutas possíveis diante de indícios de distúrbio do sono?",
+"alts": [
+"Reprovar em definitivo ou encaminhar à Junta Médica Especial, conforme a gravidade dos indícios achados",
+"Aprovar sem qualquer ressalva ou reprovar em definitivo, sem possibilidade de conduta intermediária",
+"Solicitar audiometria ou encaminhar ao otorrinolaringologista para avaliação da via aérea superior",
+"Aprovar temporariamente ou encaminhar para avaliação específica com polissonografia, a critério médico",
+"Suspender o processo por doze meses ou encaminhar o candidato ao Conselho Estadual de Trânsito local"
+],
+"gab": 3,
+"tema": "sono",
+"sub": "Condutas diante de indícios de SAOS",
+"base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.3.",
+"coment": "O item 1.3 é a chave operacional do rastreamento: o candidato que apresentar escore alto na Escala de Epworth E/OU dois ou mais indícios objetivos de distúrbio do sono poderá, A CRITÉRIO MÉDICO, ser APROVADO TEMPORARIAMENTE ou ser ENCAMINHADO PARA AVALIAÇÃO MÉDICA ESPECÍFICA E REALIZAÇÃO DE POLISSONOGRAFIA. São duas condutas alternativas, e o gatilho é alternativo também — o Epworth alto basta, assim como bastam dois indícios objetivos, ainda que o Epworth esteja normal. A norma não impõe reprovação automática nem exige a polissonografia em todos os casos, deixando margem de julgamento clínico ao perito examinador.",
+"porAlt": [
+"A norma não prevê reprovação definitiva nem encaminhamento à Junta Médica Especial nessa hipótese.",
+"Há conduta intermediária expressa: a aprovação temporária prevista no próprio item do anexo.",
+"A audiometria pertence ao Anexo III e não é a conduta prevista diante de indícios de apneia.",
+"Correta: aprovar temporariamente ou encaminhar para avaliação específica com polissonografia.",
+"Não há previsão de suspensão do processo nem de encaminhamento ao Conselho Estadual de Trânsito."
+]
+},
+{
+"q": "Qual é o problema de o rastreamento de distúrbios do sono ser exigido apenas na renovação, adição e mudança para as categorias C, D e E?",
+"alts": [
+"Deixa fora o candidato à primeira habilitação nessas categorias e todos os condutores das categorias A e B",
+"Deixa fora apenas os condutores idosos, que são justamente os de maior prevalência da apneia obstrutiva",
+"Deixa fora apenas as mulheres, cujo perímetro cervical raramente ultrapassa o ponto de corte que foi adotado",
+"Não há qualquer lacuna: a delimitação alcança integralmente todos os condutores em atividade hoje no país",
+"Deixa fora apenas os condutores de motocicleta, que não integram nenhuma das categorias já mencionadas"
+],
+"gab": 0,
+"tema": "sono",
+"sub": "Lacuna do rastreamento",
+"base": "Resolução CONTRAN nº 927/2022, art. 4º, III, f, e Anexo X, item 1.1.",
+"coment": "A norma delimita o rastreamento à renovação, adição e mudança para as categorias C, D e E — deixando de fora, pela literalidade, tanto o candidato à PRIMEIRA HABILITAÇÃO nessas categorias quanto todos os condutores das categorias A e B, que constituem a maioria absoluta da frota. A lacuna é relevante porque a apneia obstrutiva do sono é prevalente na população geral e a sonolência ao volante não distingue categoria de habilitação. Nada impede, contudo, que o perito investigue distúrbios do sono em qualquer candidato quando a anamnese sugerir — o art. 4º, IV autoriza exames complementares ou especializados a critério médico, e a queixa de sonolência é indicação clínica suficiente.",
+"porAlt": [
+"Correta: ficam de fora a primeira habilitação nessas categorias e todos os condutores de A e B.",
+"A lacuna não se restringe aos idosos: ela alcança faixas etárias e categorias inteiras de condutores.",
+"A lacuna não é definida por sexo, e o corte feminino do perímetro cervical é justamente menor.",
+"Há lacuna clara na delimitação, que não alcança todos os condutores em atividade no país.",
+"A lacuna é muito mais ampla do que apenas os condutores de motocicleta da categoria A."
+]
+},
+{
+"q": "Qual é a orientação correta ao condutor profissional diagnosticado com apneia obstrutiva do sono e em uso regular de CPAP?",
+"alts": [
+"Usar o aparelho apenas nas noites que antecedem jornadas longas, dispensando-o nos demais dias",
+"Suspender o uso durante as viagens, retomando o aparelho apenas quando estiver em casa novamente",
+"Usar o aparelho durante o dia, nos intervalos de descanso, dispensando o uso no período noturno",
+"Manter o uso todas as noites, inclusive fora de casa, e levar o aparelho nas viagens com pernoite",
+"Substituir o aparelho por medicação estimulante nas viagens, o que dispensa o transporte do equipamento"
+],
+"gab": 3,
+"tema": "sono",
+"sub": "Adesão ao CPAP no motorista",
+"base": "Conteúdo programático do Edital nº 2446 — sono, fadiga e segurança no trânsito; Resolução CONTRAN nº 927/2022, Anexo X.",
+"coment": "O benefício do CPAP depende de uso REGULAR E NOTURNO, e o efeito não é cumulativo nem retroativo: uma noite sem o aparelho já restaura a fragmentação do sono e a sonolência diurna do dia seguinte. Para o motorista profissional, que frequentemente pernoita fora, isso significa transportar o equipamento e garantir energia elétrica no local de descanso — uma barreira prática real, que o perito deve abordar explicitamente na orientação. Usar apenas em noites selecionadas, suspender em viagem ou substituir por estimulante são estratégias que anulam o tratamento. A adesão, aliás, é documentável pelos relatórios de uso do próprio aparelho, dado objetivo útil na reavaliação pericial.",
+"porAlt": [
+"O uso seletivo anula o benefício: uma noite sem o aparelho já restaura a sonolência diurna.",
+"Suspender em viagem é justamente o pior cenário, pois coincide com as jornadas mais longas.",
+"O CPAP é tratamento do sono noturno e não substitui esse uso por aplicação diurna em intervalos.",
+"Correta: uso todas as noites, inclusive fora de casa, com transporte do aparelho nas viagens.",
+"Estimulantes mascaram a sonolência sem tratar a apneia nem repor o débito de sono acumulado."
+]
+},
+{
+"q": "Qual é a importância de investigar o uso de bebida alcoólica no condutor com apneia obstrutiva do sono?",
+"alts": [
+"O álcool relaxa a musculatura da via aérea e agrava a apneia, além de fragmentar o sono da noite",
+"O álcool contrai a musculatura da via aérea, o que reduz os episódios de apneia durante o sono",
+"O álcool não tem qualquer efeito sobre a via aérea superior nem sobre a arquitetura do sono noturno",
+"O álcool substitui o efeito do CPAP nas noites em que o aparelho não estiver disponível ao paciente",
+"O álcool aumenta o tônus do genioglosso, o que estabiliza a via aérea e previne o colapso noturno"
+],
+"gab": 0,
+"tema": "sono",
+"sub": "Álcool e apneia do sono",
+"base": "Conteúdo programático do Edital nº 2446 — sono, fadiga e segurança no trânsito; álcool e acidentes.",
+"coment": "O álcool é depressor do sistema nervoso central e reduz o tônus da musculatura dilatadora da faringe, incluindo o genioglosso — o que aumenta a colapsabilidade da via aérea e agrava a frequência e a duração dos eventos apneicos. Soma-se a isso a alteração da arquitetura do sono: o álcool encurta a latência inicial, mas fragmenta a segunda metade da noite e suprime o sono REM, reduzindo o efeito restaurador. O resultado é sonolência diurna acentuada no dia seguinte, mesmo com tempo total de sono aparentemente adequado. Num condutor profissional com apneia, essa combinação é especialmente perigosa e deve ser abordada na orientação pericial.",
+"porAlt": [
+"Correta: o álcool relaxa a musculatura da via aérea, agrava a apneia e fragmenta o sono noturno.",
+"O efeito é o oposto: o álcool reduz o tônus muscular e aumenta a colapsabilidade da via aérea.",
+"Há efeito documentado tanto sobre a via aérea superior quanto sobre a arquitetura do sono.",
+"O álcool não substitui o CPAP: ele agrava justamente o mecanismo que o aparelho corrige.",
+"O álcool reduz, e não aumenta, o tônus do genioglosso durante o período de sono noturno."
+]
+},
+{
 "q": "Segundo a Diretriz ABRAMET 2025 de avaliação de candidatos e condutores com epilepsia, pessoa com critérios diagnósticos de epilepsia em uso de fármaco anticrise, sem crises há 18 meses, que pretende a categoria B COM atividade remunerada ao veículo, deve ser considerada:",
 "alts": [
 "Apta para essa finalidade, pois o intervalo de doze meses sem crises já foi superado pelo candidato",
