@@ -8519,7 +8519,7 @@ window.BANCO=[
 "Manutenção precisa da trajetória e da velocidade em todas as tarefas propostas no circuito",
 "Aceleração progressiva acima do limite do circuito durante o envio das mensagens de texto",
 "Guinadas bruscas no volante e queda de noventa para sessenta quilômetros por hora na conversa",
-"Melhora do tempo de reação diante dos cones no momento em que o aparelho estava na mão",
+"Melhora do tempo de reação diante dos cones no momento exato em que o aparelho estava na mão",
 "Ausência de qualquer alteração mensurável no desempenho ao longo das chamadas telefônicas"
 ],
 "gab": 2,
@@ -8608,7 +8608,7 @@ window.BANCO=[
 "Passou a enquadrá-lo apenas como infração leve, com aplicação de simples advertência escrita",
 "Passou a exonerá-lo de penalidade quando o veículo estivesse parado no semáforo fechado",
 "Passou a exigir prova pericial da distração para que a autuação fosse considerada válida",
-"Passou a permitir a conduta em veículos que tenham transmissão automática e piloto automático"
+"Passou a permitir a conduta em veículos que tenham transmissão automática e piloto"
 ],
 "gab": 0,
 "tema": "legislacao",
