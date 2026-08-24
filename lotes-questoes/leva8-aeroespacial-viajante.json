@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Em voo comercial de cruzeiro, a cabine é pressurizada a uma altitude equivalente de cerca de 1.800 a 2.400 metros. Qual é a consequência fisiológica esperada em um passageiro hígido?",
+  "alts": [
+   "Queda da pressão parcial de oxigênio, com saturação abaixo de 80%, exigindo oxigênio suplementar de rotina",
+   "Elevação da pressão parcial de oxigênio, com saturação acima de 99%, por efeito da pressurização da cabine",
+   "Queda da pressão parcial de oxigênio, com saturação em torno de 90 a 93%, o que é geralmente bem tolerado",
+   "Nenhuma alteração da pressão parcial de oxigênio, pois a pressurização restitui integralmente o nível do mar",
+   "Queda da pressão parcial de gás carbônico, com alcalose respiratória sintomática na maioria dos passageiros"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Hipóxia hipobárica de cabine",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (fisiologia de altitude: hipóxia e hiperventilação).",
+  "coment": "A cabine pressurizada não restitui a pressão do nível do mar: ela mantém uma altitude-cabine equivalente a cerca de 1.800 a 2.400 metros (6.000 a 8.000 pés). Nessa altitude a pressão barométrica cai, e com ela a pressão parcial inspirada de oxigênio, levando a saturação de um adulto hígido para a faixa aproximada de 90 a 93% — valor bem tolerado por quem tem reserva cardiorrespiratória, porque a curva de dissociação da hemoglobina ainda está em sua porção plana. O problema aparece em quem já opera no joelho da curva: portadores de doença pulmonar obstrutiva, cardiopatia isquêmica, anemia importante ou doença falciforme podem descompensar. É por isso que a consulta pré-viagem avalia a reserva funcional e, quando indicado, prescreve oxigênio suplementar de bordo.",
+  "porAlt": [
+   "A queda de saturação no indivíduo hígido não chega a esse patamar nem exige oxigênio de rotina.",
+   "A pressurização atenua a queda, mas não eleva a pressão parcial de oxigênio acima do nível do solo.",
+   "Correta: a saturação cai para cerca de 90 a 93% no passageiro hígido, o que é bem tolerado.",
+   "A pressurização é parcial: mantém altitude-cabine equivalente a milhares de pés, não o nível do mar.",
+   "A alteração principal é da oferta de oxigênio, e não uma alcalose respiratória sintomática generalizada."
+  ]
+ },
+ {
+  "q": "Passageiro submetido a procedimento cirúrgico abdominal recente pergunta sobre viajar de avião. Qual é o princípio físico que fundamenta a restrição temporária?",
+  "alts": [
+   "Lei de Henry: com a queda da pressão ambiente, os gases dissolvidos no sangue formam microbolhas",
+   "Lei de Boyle: com a queda da pressão ambiente, os gases confinados no organismo tendem a se expandir",
+   "Lei de Dalton: com a queda da pressão ambiente, muda a proporção percentual do oxigênio no ar inspirado",
+   "Lei de Charles: com a queda da temperatura da cabine, o volume dos gases corporais sofre contração",
+   "Lei de Graham: com a queda da pressão ambiente, muda a velocidade de difusão dos gases pela membrana"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "Lei de Boyle e cavidades aeradas",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (cavidades aeradas do organismo e lei dos gases).",
+  "coment": "A lei de Boyle estabelece que, à temperatura constante, o volume de um gás é inversamente proporcional à pressão. Na subida ao nível de cruzeiro, com a pressão de cabine caindo para o equivalente a 1.800-2.400 metros, os gases confinados em cavidades expandem-se cerca de 25 a 30%. Isso explica um conjunto inteiro de contraindicações e cuidados: pós-operatório abdominal ou torácico recente, pneumotórax não resolvido, íleo, cirurgia oftalmológica com injeção de gás intraocular, otite e sinusite com obstrução, e até o desconforto do ouvido médio na descida (barotite). A lei de Henry, por sua vez, explica a doença descompressiva — a saída de nitrogênio dissolvido em forma de bolhas —, e a lei de Dalton fundamenta a hipóxia hipobárica: a fração de oxigênio permanece 21%, mas sua pressão parcial cai porque a pressão total diminuiu.",
+  "porAlt": [
+   "A lei de Henry explica a doença descompressiva, com formação de bolhas a partir de gás dissolvido.",
+   "Correta: a lei de Boyle explica a expansão dos gases confinados quando a pressão ambiente cai.",
+   "A lei de Dalton explica a hipóxia hipobárica: a fração de oxigênio segue em 21%, mas cai sua pressão.",
+   "A lei de Charles relaciona volume e temperatura, e não é o fundamento da restrição pós-operatória.",
+   "A lei de Graham trata da velocidade de difusão e não explica a expansão dos gases em cavidades."
+  ]
+ },
+ {
+  "q": "Qual é o mecanismo da desorientação espacial em voo e sua principal implicação para a segurança?",
+  "alts": [
+   "Conflito entre informações vestibulares e visuais, podendo levar o piloto a confiar em percepções falsas",
+   "Redução do fluxo sanguíneo cerebral por hipóxia, provocando perda de consciência sem qualquer pródromo",
+   "Estímulo excessivo dos receptores proprioceptivos, provocando tremor postural incapacitante no piloto",
+   "Compressão do labirinto pela expansão dos gases, provocando vertigem rotatória apenas durante a descida",
+   "Fadiga da musculatura ocular extrínseca, provocando diplopia transitória nas manobras de curva acentuada"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Desorientação espacial",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (desorientação espacial, ilusões).",
+  "coment": "A desorientação espacial resulta do conflito entre os sistemas que informam a posição do corpo no espaço: o vestibular, o visual e o proprioceptivo. O aparelho vestibular foi calibrado para a locomoção terrestre e responde mal às acelerações sustentadas do voo — os canais semicirculares deixam de sinalizar uma curva coordenada mantida, e os otólitos interpretam a aceleração linear como inclinação. Sem referência visual externa, o piloto pode 'sentir' com convicção uma atitude que não corresponde à realidade, como na ilusão somatogravitacional e na espiral da morte. A implicação de segurança é direta e é o motivo do treinamento por instrumentos: a conduta correta é confiar nos instrumentos e não na sensação corporal, precisamente quando a sensação é mais convincente.",
+  "porAlt": [
+   "Correta: o conflito entre informações vestibulares e visuais pode fazer o piloto confiar em percepção falsa.",
+   "A perda de consciência por hipóxia é fenômeno distinto da desorientação espacial descrita no enunciado.",
+   "A desorientação não decorre de estímulo proprioceptivo excessivo com tremor postural incapacitante.",
+   "A expansão de gases causa barotrauma de ouvido, e não a desorientação espacial de mecanismo sensorial.",
+   "A diplopia por fadiga ocular não é o mecanismo descrito para a desorientação espacial em voo."
+  ]
+ },
+ {
+  "q": "Sobre a hipóxia de altitude, qual é a característica que a torna especialmente perigosa para o tripulante?",
+  "alts": [
+   "A instalação abrupta, com dor torácica intensa que antecede em minutos qualquer alteração cognitiva",
+   "A instalação lenta, com cianose central precoce que permite reconhecimento imediato pelo próprio tripulante",
+   "A instalação súbita, com bradicardia sintomática que antecede em horas a queda do nível de consciência",
+   "A instalação gradual, com hipertensão arterial grave que sinaliza claramente a necessidade de descida",
+   "A instalação insidiosa, com euforia e prejuízo do julgamento antes que o indivíduo perceba o déficit"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "Hipóxia e tempo de consciência útil",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (hipóxia e hiperventilação).",
+  "coment": "O traço mais perigoso da hipóxia hipobárica é ser insidiosa e assintomática do ponto de vista subjetivo: as primeiras funções a se deteriorar são exatamente as corticais superiores — julgamento, crítica e autopercepção —, com euforia semelhante à embriaguez. O tripulante sente-se bem enquanto o desempenho cai, o que impede a autocorreção. Daí o conceito de tempo de consciência útil (TUC), o intervalo entre a exposição e a perda da capacidade de tomar ação corretiva, que se encurta drasticamente com a altitude e é ainda menor na descompressão rápida. A cianose é sinal tardio e pouco confiável, e a hiperventilação compensatória produz alcalose respiratória com parestesias, tontura e tetania, sintomas que se confundem com os da própria hipóxia — motivo pelo qual o treinamento fisiológico ensina o tripulante a reconhecer seus sintomas pessoais.",
+  "porAlt": [
+   "A hipóxia de altitude não cursa com dor torácica intensa precedendo as alterações cognitivas descritas.",
+   "A cianose central é sinal tardio e pouco confiável, e não permite o reconhecimento precoce do quadro.",
+   "A bradicardia sintomática não é a manifestação típica nem antecede em horas o rebaixamento descrito.",
+   "A hipertensão grave não é o marcador da hipóxia de altitude nem serve de sinal de alerta confiável.",
+   "Correta: a instalação insidiosa com euforia e perda de crítica impede que o indivíduo perceba o déficit."
+  ]
+ },
+ {
+  "q": "Passageiro relata história de trombose venosa profunda prévia e questiona sobre voo de 12 horas. Qual é a orientação correta para a prevenção da chamada 'síndrome da classe econômica'?",
+  "alts": [
+   "Repouso absoluto no assento durante todo o voo, evitando qualquer movimentação dos membros inferiores",
+   "Ingestão de bebidas alcoólicas para promover vasodilatação periférica e melhorar o retorno venoso",
+   "Uso de ácido acetilsalicílico em dose alta por todos os passageiros de voos com mais de seis horas",
+   "Elevação contínua dos membros inferiores sobre a bagagem de mão ao longo de toda a duração do voo",
+   "Deambulação periódica, hidratação, exercícios de panturrilha e meias de compressão quando indicadas"
+  ],
+  "gab": 4,
+  "tema": "viajante",
+  "sub": "Tromboembolismo associado a viagens",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante ('síndrome da classe econômica' e outras).",
+  "coment": "O tromboembolismo venoso associado a viagens decorre da tríade de Virchow em condições de voo: estase pela imobilidade prolongada em posição sentada com compressão poplítea, desidratação relativa pela baixa umidade da cabine (frequentemente abaixo de 20%) e, nos predispostos, hipercoagulabilidade. As medidas gerais recomendadas são deambulação periódica pelo corredor, exercícios de flexão e extensão dos tornozelos no assento, hidratação adequada com moderação de álcool e cafeína, e roupas folgadas. Nos passageiros de risco aumentado — trombose prévia, trombofilia, neoplasia ativa, cirurgia recente, gestação e puerpério —, acrescentam-se meias de compressão graduada e, em situações selecionadas e sob avaliação individual, profilaxia farmacológica. O álcool piora o quadro por efeito diurético e sedativo, reduzindo a movimentação.",
+  "porAlt": [
+   "O repouso absoluto agrava a estase venosa, que é justamente o mecanismo central do problema.",
+   "O álcool tem efeito diurético e sedativo, agravando a desidratação e reduzindo a movimentação.",
+   "O ácido acetilsalicílico em dose alta para todos não é a recomendação de profilaxia nesse contexto.",
+   "A elevação contínua dos membros sobre a bagagem não substitui a movimentação ativa periódica.",
+   "Correta: deambulação, hidratação, exercícios de panturrilha e meias de compressão quando indicadas."
+  ]
+ },
+ {
+  "q": "Na consulta pré-viagem de paciente que se desloca para área endêmica, qual é a orientação correta quanto à vacina contra febre amarela?",
+  "alts": [
+   "Deve ser aplicada no dia anterior ao embarque, pois a proteção conferida por ela é imediata e completa",
+   "Deve ser aplicada apenas após o retorno da viagem, como medida de proteção da população do destino",
+   "Deve ser evitada em qualquer viajante adulto, pela alta incidência de eventos adversos neurológicos",
+   "Deve ser aplicada com antecedência mínima de dez dias da viagem, para permitir a resposta imunológica",
+   "Deve ser aplicada exclusivamente em viajantes que apresentem sorologia prévia comprovadamente negativa"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Imunização do viajante",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (orientação de imunização para viagens nacionais e internacionais).",
+  "coment": "A vacina contra febre amarela é de vírus vivo atenuado e exige antecedência mínima de 10 dias antes da viagem para que se desenvolva resposta imune protetora — prazo que também é o exigido para a validade do Certificado Internacional de Vacinação ou Profilaxia (CIVP) na primeira dose. Esse é o princípio geral da consulta pré-viagem: ela deve ocorrer idealmente de 4 a 6 semanas antes do embarque, tempo necessário para completar esquemas vacinais, avaliar profilaxias e ajustar medicações de uso contínuo. Por ser vacina de vírus vivo, exige cautela ou é contraindicada em imunossuprimidos, gestantes e lactantes de crianças pequenas, situações em que a decisão é individualizada pesando o risco real de exposição no destino. Não se exige sorologia prévia.",
+  "porAlt": [
+   "A proteção não é imediata: a soroconversão exige cerca de dez dias após a aplicação da vacina.",
+   "Aplicar após o retorno não protege o viajante nem cumpre a finalidade sanitária da imunização.",
+   "A vacina é amplamente indicada para viajantes a áreas endêmicas, com contraindicações específicas.",
+   "Correta: antecedência mínima de dez dias, prazo necessário para a resposta imunológica protetora.",
+   "Não se exige sorologia prévia para a indicação da vacina contra febre amarela no viajante."
+  ]
+ },
+ {
+  "q": "Sobre o jet lag, qual é a característica que o distingue da simples fadiga de viagem e sua principal implicação para o condutor que chega ao destino?",
+  "alts": [
+   "Depleção de volume por desidratação da cabine, com hipotensão postural que impede a condução segura",
+   "Dessincronização do ritmo circadiano com o horário local, com prejuízo do alerta e do tempo de reação",
+   "Contratura da musculatura cervical pela posição sentada, com limitação da rotação do pescoço ao dirigir",
+   "Hipóxia residual acumulada durante o voo, com prejuízo persistente da acuidade visual por várias semanas",
+   "Alcalose metabólica pela alteração alimentar de bordo, com tremor fino de extremidades ao volante"
+  ],
+  "gab": 1,
+  "tema": "viajante",
+  "sub": "Jet lag e condução no destino",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (jet lag) e Medicina do Tráfego Aeroespacial (ciclo circadiano, fusos horários).",
+  "coment": "O jet lag decorre da dessincronização entre o relógio biológico interno e o horário do destino após a travessia rápida de vários fusos, e é por isso que não ocorre em voos longos no sentido norte-sul. Manifesta-se com insônia ou sonolência em horários inadequados, prejuízo de atenção e memória, alteração do humor e sintomas gastrointestinais. Para a medicina do tráfego a implicação é direta: o viajante que aluga um carro e dirige logo após o desembarque acumula fadiga de viagem, privação de sono e dessincronização circadiana, com aumento do tempo de reação e risco de microssonos — combinação especialmente perigosa em estrada desconhecida. As medidas de adaptação incluem exposição à luz nos horários adequados, ajuste progressivo dos horários de sono antes da partida e cautela com hipnóticos, que podem prolongar a sedação. Viagens para o leste costumam ser as de adaptação mais difícil.",
+  "porAlt": [
+   "A desidratação de cabine existe, mas não é o que caracteriza o jet lag descrito no enunciado.",
+   "Correta: é a dessincronização circadiana, com prejuízo do alerta e aumento do tempo de reação.",
+   "A contratura cervical é desconforto musculoesquelético, sem relação com o mecanismo circadiano.",
+   "Não há hipóxia residual acumulada com prejuízo visual persistente por semanas após o voo comercial.",
+   "A alteração alimentar de bordo não produz o quadro de alcalose metabólica com tremor descrito."
+  ]
+ },
+ {
+  "q": "Quais são as manifestações clínicas do disbarismo em tripulantes e passageiros, e qual é a cavidade mais frequentemente acometida?",
+  "alts": [
+   "Dor por acúmulo de ácido lático nos grandes grupos musculares, sendo a panturrilha o local mais frequente",
+   "Dor por expansão ou compressão de gases em cavidades aeradas, sendo o ouvido médio o local mais frequente",
+   "Dor por vasoconstrição periférica induzida pelo frio da cabine, sendo as extremidades o local mais frequente",
+   "Dor por distensão da bexiga em razão da restrição de mobilidade, sendo a pelve o local mais frequente",
+   "Dor por compressão dos discos intervertebrais na posição sentada, sendo a coluna lombar a mais acometida"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "Disbarismo e barotrauma",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (descompressão de cabine em altitude e disbarismo).",
+  "coment": "Disbarismo é o conjunto de manifestações decorrentes de variações da pressão ambiente sobre os gases contidos nas cavidades aeradas do organismo. A cavidade mais frequentemente acometida é o OUVIDO MÉDIO — a barotite ocorre tipicamente na DESCIDA, quando a pressão ambiente aumenta e a tuba auditiva, que funciona melhor como válvula de saída do que de entrada, não consegue equalizar, produzindo retração timpânica, dor, hipoacusia e, nos casos graves, hemorragia ou perfuração. Situação especialmente propícia é o voo com infecção de vias aéreas superiores, e é por isso que se orienta adiar o voo ou usar descongestionante e manobras de equalização. Outras localizações são os seios da face (barossinusite), o trato gastrointestinal (aerogastralgia) e os dentes (barodontalgia). Já a doença descompressiva, com bolhas de nitrogênio, é fenômeno distinto, governado pela lei de Henry.",
+  "porAlt": [
+   "O acúmulo de ácido lático muscular não guarda relação com as variações de pressão ambiente em voo.",
+   "Correta: o disbarismo decorre de gases em cavidades aeradas, sendo o ouvido médio o mais acometido.",
+   "A vasoconstrição pelo frio da cabine não caracteriza o quadro de disbarismo descrito na literatura.",
+   "A distensão vesical por imobilidade é desconforto de viagem, mas não é fenômeno de origem barométrica.",
+   "A dor discal na posição sentada é musculoesquelética e não decorre da variação da pressão ambiente."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Tráfego Aquaviária, qual é o objeto específico da avaliação médica para habilitação de amadores?",
+  "alts": [
+   "Aptidão para operar embarcações mercantes de longo curso, com foco na capacidade laboral do tripulante",
+   "Aptidão para o mergulho profissional em plataformas, com foco na tolerância à exposição hiperbárica",
+   "Aptidão para operar embarcações de esporte ou recreio em caráter não profissional, com foco na segurança",
+   "Aptidão para a pesca industrial em alto-mar, com foco na resistência física exigida pela jornada de bordo",
+   "Aptidão para operar embarcações militares da Marinha, com foco nos requisitos específicos de combate"
+  ],
+  "gab": 2,
+  "tema": "aquaviaria",
+  "sub": "Escopo da avaliação aquaviária",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aquaviária.",
+  "coment": "O conteúdo programático delimita a medicina do tráfego aquaviária às avaliações para habilitação certificada marítima voltada à segurança do tráfego aquaviário, com a finalidade de operar embarcações de ESPORTE E/OU RECREIO, em CARÁTER NÃO PROFISSIONAL — o chamado amador, cujas categorias são reguladas pela autoridade marítima. O programa complementa o escopo com o ambiente físico das embarcações, as doenças que mais frequentemente afetam os navegantes, a proteção quanto às intempéries, medicamentos e o navegante, o atendimento médico nas embarcações e as emergências e resgates marítimos. A avaliação do trabalhador aquaviário profissional segue lógica distinta, ligada à saúde ocupacional e às normas da autoridade marítima para a marinha mercante.",
+  "porAlt": [
+   "O programa delimita expressamente o caráter não profissional, distinto da marinha mercante de longo curso.",
+   "A avaliação para mergulho profissional é campo próprio da medicina hiperbárica e do trabalho.",
+   "Correta: o escopo é a habilitação do amador para embarcações de esporte e recreio, sem fim profissional.",
+   "A pesca industrial envolve trabalho aquaviário profissional, fora do recorte do conteúdo programático.",
+   "As embarcações militares seguem normas próprias da Marinha, fora do escopo descrito no edital."
+  ]
+ },
+ {
+  "q": "Passageiro apresenta parada cardiorrespiratória a bordo de voo comercial. Além do início imediato das compressões torácicas, qual recurso deve ser prontamente solicitado à tripulação?",
+  "alts": [
+   "O tanque de oxigênio das máscaras de emergência dos passageiros, que fornece fluxo de alto débito",
+   "O kit de sutura de bordo, para acesso venoso central rápido pela via jugular interna do paciente",
+   "O laringoscópio da cabine de comando, único dispositivo de via aérea disponível a bordo da aeronave",
+   "O desfibrilador externo automático de bordo, equipamento presente nas aeronaves comerciais de linha",
+   "O sistema de pressurização auxiliar, que deve ser acionado para elevar a oferta de oxigênio na cabine"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "Emergências médicas a bordo",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (emergências na aviação, equipamentos a bordo).",
+  "coment": "As aeronaves comerciais dispõem de desfibrilador externo automático e de kit médico de emergência, além do suporte médico em solo por telemedicina, acionável pela tripulação a qualquer momento. Na parada cardiorrespiratória a bordo, a sequência é a mesma do suporte básico: reconhecer, acionar ajuda, iniciar compressões torácicas de alta qualidade e aplicar o DEA assim que disponível — a desfibrilação precoce é o fator que mais muda o desfecho na fibrilação ventricular. As particularidades do ambiente são práticas: espaço exíguo no corredor, necessidade de remover o paciente da poltrona, ruído que dificulta a ausculta e turbulência. A decisão sobre desvio da aeronave cabe ao comandante, apoiada na orientação médica, ponderando a distância até um aeroporto alternativo com estrutura adequada.",
+  "porAlt": [
+   "As máscaras de emergência dos passageiros não constituem fonte adequada para a reanimação em curso.",
+   "Não há kit de sutura destinado a acesso venoso central, procedimento inviável no ambiente de cabine.",
+   "O laringoscópio da cabine de comando não é o recurso a ser solicitado nesse momento da reanimação.",
+   "Correta: o desfibrilador externo automático de bordo, cuja aplicação precoce muda o desfecho.",
+   "Não existe sistema de pressurização auxiliar acionável para elevar a oferta de oxigênio da cabine."
+  ]
+ },
+ {
+  "q": "Sobre a exposição a forças G positivas (+Gz) em aeronaves de alto desempenho, qual é a sequência fisiológica esperada com o aumento progressivo da aceleração?",
+  "alts": [
+   "Visão acinzentada, seguida de perda da visão com consciência preservada e, por fim, perda de consciência",
+   "Perda de consciência súbita, seguida de recuperação visual gradual e, por fim, retorno da audição normal",
+   "Cefaleia occipital, seguida de hemorragia conjuntival bilateral e, por fim, perda da acuidade auditiva",
+   "Congestão facial intensa, seguida de epistaxe volumosa e, por fim, edema agudo de pulmão de esforço",
+   "Parestesia das extremidades, seguida de tetania generalizada e, por fim, rebaixamento do nível cognitivo"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Forças G e tolerância",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Aeroespacial (força G e acelerações).",
+  "coment": "Sob aceleração +Gz, o sangue é deslocado no sentido cabeça-pés, reduzindo progressivamente a pressão de perfusão ao nível dos olhos e do encéfalo. A sequência clássica começa pela visão acinzentada (grayout), evolui para a perda completa da visão com CONSCIÊNCIA PRESERVADA (blackout) — porque a retina, com sua alta demanda metabólica e a pressão intraocular somando-se à resistência, sucumbe antes do córtex — e culmina na perda de consciência induzida por G, a G-LOC. A G-LOC é particularmente perigosa por vir acompanhada de amnésia e de um período de incapacitação relativa após a recuperação, durante o qual o piloto está desorientado. As contramedidas são a manobra de tensionamento muscular com respiração sob pressão e o traje anti-G. Já a exposição a -Gz produz o quadro oposto, com congestão cefálica, o chamado redout.",
+  "porAlt": [
+   "Correta: grayout, depois blackout com consciência preservada e, por fim, a perda de consciência.",
+   "A perda de consciência não é o primeiro evento: ela é precedida pelos fenômenos visuais descritos.",
+   "A cefaleia com hemorragia conjuntival não descreve a sequência fisiológica da exposição a +Gz.",
+   "A congestão facial com epistaxe é mais característica da exposição a forças G negativas, o redout.",
+   "A parestesia com tetania corresponde à alcalose por hiperventilação, e não à exposição a forças G."
+  ]
+ },
+ {
+  "q": "Segundo o conteúdo programático de Medicina do Viajante, qual orientação é correta quanto ao transporte de medicamentos em viagem internacional?",
+  "alts": [
+   "Levar na bagagem de mão, em embalagem original e com receita, prevenindo extravio e questionamento",
+   "Levar exclusivamente na bagagem despachada, pois medicamentos são proibidos na cabine de passageiros",
+   "Transferir os comprimidos para recipientes únicos sem identificação, para reduzir o volume transportado",
+   "Adquirir todos os medicamentos apenas no destino, evitando qualquer transporte através da fronteira",
+   "Suspender medicações de uso contínuo durante o período da viagem, retomando-as apenas no retorno"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Transporte e prescrição de medicamentos",
+  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Viajante (precauções quanto ao transporte e prescrição de medicamentos).",
+  "coment": "A orientação padrão é levar os medicamentos de uso contínuo na BAGAGEM DE MÃO, em quantidade suficiente para todo o período acrescida de margem de segurança, mantidos na embalagem original e acompanhados de receita ou relatório médico — preferencialmente com a denominação genérica, que é reconhecida internacionalmente. As razões são práticas e regulatórias: o extravio da bagagem despachada deixaria o viajante sem tratamento; o porão sofre variações de temperatura que degradam certos fármacos; e diversos países exigem documentação para substâncias controladas, algumas das quais são proibidas em determinados destinos. Some-se o ajuste de horários das medicações na travessia de fusos, especialmente crítico para insulina, anticoagulantes, imunossupressores e anticoncepcionais.",
+  "porAlt": [
+   "Correta: bagagem de mão, embalagem original e receita, prevenindo extravio e questionamento na fronteira.",
+   "Medicamentos não são proibidos na cabine, e a bagagem despachada expõe o viajante ao risco de extravio.",
+   "Retirar os fármacos da embalagem original dificulta a identificação e a comprovação na fiscalização.",
+   "Contar com a aquisição no destino é arriscado: apresentação, disponibilidade e regras variam por país.",
+   "Suspender medicação de uso contínuo por causa da viagem não é conduta aceitável em nenhuma hipótese."
+  ]
+ }
+]
