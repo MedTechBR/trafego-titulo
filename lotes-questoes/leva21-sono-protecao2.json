@@ -1,0 +1,266 @@
+[
+ {
+  "q": "Motorista de 52 anos com diagnóstico de apneia obstrutiva do sono inicia tratamento com CPAP. Qual é o parâmetro que deve orientar o perito quanto à sua aptidão para a categoria E?",
+  "alts": [
+   "O índice de apneia e hipopneia da polissonografia inicial, isoladamente, sem considerar o tratamento",
+   "O tempo decorrido desde o diagnóstico, independentemente do uso efetivo do dispositivo prescrito",
+   "A adesão efetiva ao tratamento e o controle da sonolência excessiva diurna documentado no seguimento",
+   "O índice de massa corpórea atingido após o início do tratamento feito com pressão positiva contínua",
+   "O número de horas de sono relatado pelo paciente nas noites que antecederam o seu exame pericial"
+  ],
+  "gab": 2,
+  "tema": "sono",
+  "sub": "SAOS tratada e aptidão profissional",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X; conteúdo programático do Edital nº 2446 (sono, fadiga e segurança no trânsito).",
+  "coment": "O que compromete a segurança na apneia obstrutiva do sono não é o índice polissonográfico em si, mas a SONOLÊNCIA EXCESSIVA DIURNA que dele decorre — e é justamente ela que o tratamento eficaz reverte. Por isso o parâmetro decisivo é a adesão efetiva ao CPAP, documentada objetivamente pelos relatórios de uso do aparelho, somada à normalização da sonolência, avaliada pela Escala de Epworth e pelo relato de microssonos. Um paciente com índice inicial grave, mas em uso regular e com sonolência controlada, tem risco substancialmente reduzido; um paciente com índice moderado que abandonou o aparelho permanece de risco. A conduta usual é a aptidão com prazo de validade reduzido, permitindo reavaliar a manutenção da adesão.",
+  "porAlt": [
+   "O índice inicial isolado não reflete o risco atual de quem está em tratamento eficaz e aderente.",
+   "O tempo desde o diagnóstico é irrelevante se o paciente não usa efetivamente o dispositivo prescrito.",
+   "Correta: adesão efetiva ao tratamento somada ao controle documentado da sonolência excessiva diurna.",
+   "A perda de peso é desejável, mas não é o parâmetro que define o controle da sonolência diurna.",
+   "O relato de horas de sono nas noites recentes não reflete o controle da doença ao longo do tempo."
+  ]
+ },
+ {
+  "q": "Qual é o padrão de sinistro mais característico do condutor com sonolência excessiva, e em que horários ele se concentra?",
+  "alts": [
+   "Colisão traseira em baixa velocidade com marcas extensas de frenagem, com pico no fim da tarde e à noite",
+   "Saída de pista ou colisão frontal sem marcas de frenagem, com pico na madrugada e no início da tarde",
+   "Capotamento em curva fechada com marcas de derrapagem lateral, com pico nas primeiras horas da manhã",
+   "Atropelamento em via urbana com frenagem tardia porém presente, com pico no horário do almoço e à tarde",
+   "Colisão lateral em cruzamento sinalizado com frenagem completa, com pico no início da noite e madrugada"
+  ],
+  "gab": 1,
+  "tema": "sono",
+  "sub": "Padrão do sinistro por sonolência",
+  "base": "Conteúdo programático do Edital nº 2446 — sono, fadiga e segurança no trânsito; Diretriz ABRAMET 'Sono, fadiga e risco de sinistros de trânsito'.",
+  "coment": "O sinistro do condutor sonolento tem assinatura reconhecível: saída de pista ou colisão frontal, tipicamente em via monótona e reta, SEM marcas de frenagem — porque não houve tentativa de evitar o evento, já que o condutor estava em microssono. Costuma envolver veículo único, não há manobra evasiva e o condutor frequentemente não se recorda dos instantes que antecederam o impacto. Os picos de ocorrência acompanham a curva circadiana da propensão ao sono: a madrugada, entre cerca de 2h e 6h, e o início da tarde, entre 14h e 16h. Reconhecer esse padrão importa tanto para a investigação do evento quanto para a orientação preventiva do condutor profissional.",
+  "porAlt": [
+   "A presença de marcas extensas de frenagem indica que houve tentativa de evitar, afastando o microssono.",
+   "Correta: saída de pista ou colisão frontal sem marcas de frenagem, com pico na madrugada e à tarde.",
+   "O capotamento em curva com derrapagem sugere excesso de velocidade, e não sonolência ao volante.",
+   "A frenagem tardia porém presente indica percepção do obstáculo, o que não ocorre no microssono.",
+   "A frenagem completa em cruzamento indica condutor alerta, padrão incompatível com a sonolência."
+  ]
+ },
+ {
+  "q": "Qual é a diferença conceitual entre FADIGA e SONOLÊNCIA no contexto da condução veicular?",
+  "alts": [
+   "A sonolência é a propensão a adormecer; a fadiga é o esgotamento que reduz o desempenho sem adormecer",
+   "A fadiga é a propensão a adormecer; a sonolência é o esgotamento muscular que reduz a força ao volante",
+   "São sinônimos na literatura da medicina do tráfego, sem qualquer distinção conceitual relevante entre si",
+   "A sonolência ocorre apenas à noite; já a fadiga ocorre apenas durante o período diurno de condução",
+   "A fadiga decorre exclusivamente de doença orgânica; a sonolência decorre exclusivamente de má higiene do sono"
+  ],
+  "gab": 0,
+  "tema": "sono",
+  "sub": "Fadiga versus sonolência",
+  "base": "Conteúdo programático do Edital nº 2446 — o sono, a fadiga e a segurança no trânsito.",
+  "coment": "São fenômenos relacionados, mas distintos. SONOLÊNCIA é a propensão fisiológica a adormecer, determinada pelo débito de sono acumulado e pela fase circadiana, e sua expressão extrema ao volante é o microssono. FADIGA é o esgotamento decorrente do esforço sustentado — tempo de tarefa, monotonia, demanda cognitiva, esforço físico — que reduz o desempenho, a vigilância e a motivação sem necessariamente levar ao adormecimento. As implicações práticas diferem: a sonolência só se resolve com SONO, e nenhuma pausa curta ou café a elimina; já a fadiga responde a pausas, mudança de tarefa e variação de estímulo. Ambas se somam nas jornadas longas do transporte profissional.",
+  "porAlt": [
+   "Correta: sonolência é propensão a adormecer; fadiga é esgotamento que reduz desempenho sem sono.",
+   "Os conceitos estão invertidos, e a fadiga não se limita ao esgotamento muscular do condutor.",
+   "A literatura distingue os dois fenômenos, com implicações práticas diferentes para a prevenção.",
+   "Nenhum dos dois se restringe a um período do dia: ambos dependem de sono, jornada e circadiano.",
+   "A fadiga não decorre exclusivamente de doença, nem a sonolência exclusivamente de higiene do sono."
+  ]
+ },
+ {
+  "q": "Qual é a medida efetiva a ser adotada pelo condutor que percebe sinais de sonolência durante uma viagem?",
+  "alts": [
+   "Abrir as janelas e aumentar o volume do som, medidas capazes de reverter a sonolência instalada",
+   "Ingerir café e prosseguir imediatamente, pois a cafeína elimina o débito de sono acumulado no dia",
+   "Aumentar a velocidade para encurtar o trajeto restante, reduzindo o tempo total de exposição ao risco",
+   "Conversar ao telefone com viva-voz durante o restante do trajeto, para manter o estado de alerta",
+   "Parar em local seguro e dormir, pois só o sono repõe o débito acumulado e reverte a sonolência"
+  ],
+  "gab": 4,
+  "tema": "sono",
+  "sub": "Conduta diante da sonolência ao volante",
+  "base": "Conteúdo programático do Edital nº 2446 — sono, fadiga e segurança no trânsito.",
+  "coment": "A única medida efetiva diante da sonolência instalada é PARAR EM LOCAL SEGURO E DORMIR — um cochilo de 15 a 30 minutos já melhora substancialmente o alerta, e a cafeína pode ser usada como adjuvante imediatamente antes do cochilo, já que seu efeito começa em cerca de 20 a 30 minutos. Abrir janelas, aumentar o som e conversar são medidas comprovadamente ineficazes: produzem alerta transitório de segundos a minutos e criam falsa sensação de segurança. Aumentar a velocidade agrava duplamente o risco, elevando a energia do impacto e reduzindo o tempo disponível para reagir. E conversar ao telefone acrescenta distração cognitiva a um condutor já comprometido.",
+  "porAlt": [
+   "Janela aberta e som alto produzem alerta transitório e criam falsa sensação de segurança ao volante.",
+   "A cafeína ajuda como adjuvante do cochilo, mas não elimina o débito de sono já acumulado.",
+   "Aumentar a velocidade eleva a energia do impacto e reduz o tempo disponível para qualquer reação.",
+   "O telefone acrescenta distração cognitiva a um condutor cujo desempenho já está comprometido.",
+   "Correta: parar em local seguro e dormir, pois só o sono repõe o débito e reverte a sonolência."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, qual é o dispositivo indicado para criança de 6 meses e 8 kg, e qual a sua posição no veículo?",
+  "alts": [
+   "Cadeirinha de segurança voltada para o painel, na posição central do banco traseiro quando for possível",
+   "Assento de elevação do tipo booster, fixado com cinto de três pontos no banco traseiro do veículo",
+   "Cinto de segurança de três pontos do veículo, com a criança sentada no banco traseiro lateral direito",
+   "Assento infantil tipo concha, no sentido inverso, instalado no banco dianteiro do passageiro do veículo",
+   "Assento infantil tipo concha, no sentido inverso, na posição central do banco traseiro quando possível"
+  ],
+  "gab": 4,
+  "tema": "protecao",
+  "sub": "Dispositivo para o lactente",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3 e item 2.1.",
+  "coment": "Para o grupo de massa 0 — até 9 kg e até 12 meses —, a Tabela 3 indica o ASSENTO INFANTIL, instalado no sentido INVERSO ao da posição normal do banco do veículo, mantida a POSIÇÃO CENTRAL DO BANCO TRASEIRO sempre que possível. Com 6 meses e 8 kg, a criança está exatamente nessa faixa. O item 2.1 detalha o fundamento: enquanto a criança não conseguir sentar-se e manter o equilíbrio da cabeça, deve ser usado assento tipo concha instalado com leve inclinação no sentido inverso, o que evita que a cabeça seja submetida a impactos em freadas e colisões, reduzindo o risco de trauma da coluna cervical, com as forças distribuídas pela maior parte da superfície corporal.",
+  "porAlt": [
+   "A cadeirinha voltada para o painel destina-se ao grupo de 9 a 18 kg, de 1 a 4 anos de idade.",
+   "O assento de elevação destina-se ao grupo de 18 a 36 kg, de 4 a 10 anos, faixa muito acima desta.",
+   "O cinto do veículo isolado só é indicado acima de 36 kg, com 1,45 m e a partir dos dez anos.",
+   "O banco dianteiro é desaconselhado, e o dispositivo voltado para trás fica na trajetória do airbag.",
+   "Correta: assento infantil no sentido inverso, na posição central do banco traseiro quando possível."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET, qual é o parâmetro que determina a transição do assento infantil para o assento conversível no primeiro ano de vida?",
+  "alts": [
+   "A estatura da criança, já que o conversível é indicado apenas acima de um metro de altura no primeiro ano",
+   "A idade da criança, já que o conversível é indicado apenas a partir dos dois anos completos de vida",
+   "A capacidade de deambular, já que o conversível é indicado somente após a criança começar a andar",
+   "O peso da criança, já que o conversível acomoda até 13 kg antes de completado o primeiro ano de vida",
+   "A erupção dentária completa, marcador de maturidade esquelética utilizado como critério na diretriz"
+  ],
+  "gab": 3,
+  "tema": "protecao",
+  "sub": "Assento conversível",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3 e item 2.2.",
+  "coment": "O assento conversível corresponde aos grupos de massa 0 e 0+ e é indicado até 13 kg, para crianças que ainda não completaram 1 ano — ou seja, o parâmetro é o PESO. A diretriz explica que ele é maior que o assento infantil, com suporte para a cabeça mais alto, podendo ser posicionado semirreclinado, e que acomoda crianças de peso maior que ainda não completaram o primeiro ano de vida. Para maior proteção, a criança pode continuar sendo transportada nesse dispositivo com a face voltada para trás do veículo, enquanto ele a acomodar — orientação alinhada à evidência internacional de que prolongar o transporte voltado para trás reduz o risco de lesão cervical.",
+  "porAlt": [
+   "A estatura de um metro é incompatível com o primeiro ano de vida e não é o critério adotado.",
+   "O conversível destina-se justamente a quem ainda não completou um ano, e não a partir dos dois anos.",
+   "A capacidade de deambular não é o critério de transição entre os dispositivos previstos na tabela.",
+   "Correta: o parâmetro é o peso, já que o conversível acomoda até 13 kg antes de completado um ano.",
+   "A erupção dentária não é utilizada como marcador na tabela de dispositivos de retenção infantil."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET, como deve ser fixado o assento de elevação (booster) no veículo, e por quê?",
+  "alts": [
+   "Com cinto subabdominal de dois pontos, pois o assento já possui retenção própria de cinco pontos",
+   "Com cinto de três pontos, pois é ele que retém a criança, sendo o assento apenas o reposicionador",
+   "Sem qualquer cinto, pois o próprio peso do assento e da criança garante a estabilidade no impacto",
+   "Com fixação exclusiva ao encosto por presilhas, dispensando o uso do cinto de segurança do veículo",
+   "Com cinto de três pontos passando por baixo do braço da criança, para reduzir o desconforto no ombro"
+  ],
+  "gab": 1,
+  "tema": "protecao",
+  "sub": "Fixação do assento de elevação",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3.",
+  "coment": "A tabela é expressa: o assento de elevação, dos grupos de massa II e III, indicado de 18 a 36 kg e de 4 a 10 anos, é ajustado ao banco traseiro, PERMITE QUE O CINTO DE SEGURANÇA FIQUE COLOCADO NA POSIÇÃO CORRETA e DEVERÁ SER FIXADO COM CINTO DE TRÊS PONTOS. A distinção conceitual é importante: diferentemente da cadeirinha, que tem retenção própria, o booster não retém a criança — ele apenas a eleva para que o cinto do veículo incida sobre as estruturas ósseas corretas, com a faixa diagonal sobre a clavícula e a subabdominal sobre a pelve. Por isso o cinto de dois pontos é insuficiente, e passar a faixa diagonal sob o braço anula a proteção do tronco.",
+  "porAlt": [
+   "O booster não possui retenção própria de cinco pontos, e o cinto de dois pontos é insuficiente.",
+   "Correta: com cinto de três pontos, pois é ele que retém a criança elevada pelo dispositivo usado.",
+   "Sem cinto, a criança e o assento são projetados na desaceleração, sem qualquer retenção efetiva.",
+   "As presilhas ajudam a posicionar o dispositivo, mas não substituem o cinto de três pontos exigido.",
+   "Passar a faixa diagonal sob o braço anula a proteção do tronco e é erro clássico de posicionamento."
+  ]
+ },
+ {
+  "q": "Qual é a explicação biomecânica para a orientação de que a faixa subabdominal do cinto fique apoiada sobre as saliências ósseas do quadril?",
+  "alts": [
+   "O osso conduz melhor a vibração do veículo, o que reduz o desconforto do ocupante em viagens longas",
+   "O osso resiste à força sem se deformar, enquanto sobre o abdome a faixa comprime vísceras e a coluna",
+   "O osso possui maior sensibilidade tátil, o que alerta o ocupante quando o cinto está mal posicionado",
+   "O osso apresenta menor atrito com o tecido do cinto, o que facilita a liberação rápida em emergências",
+   "O osso tem maior temperatura superficial, o que aumenta a elasticidade do tecido do cinto no impacto"
+  ],
+  "gab": 1,
+  "tema": "protecao",
+  "sub": "Biomecânica do cinto subabdominal",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II' e Diretriz sobre cinto de segurança.",
+  "coment": "A tabela orienta que a faixa subabdominal fique apoiada nas saliências ósseas do quadril ou sobre a porção superior das coxas, e a faixa transversal passe sobre o ombro e diagonalmente pelo tórax. O fundamento é a tolerância diferencial dos tecidos: a pelve óssea suporta forças elevadas sem deformação significativa e transmite a desaceleração ao esqueleto axial, ao passo que a parede abdominal é complacente e permite que a faixa penetre, comprimindo vísceras ocas e maciças contra a coluna. Desse mecanismo decorre a chamada síndrome do cinto de segurança — lesão de intestino delgado, mesentério e fratura por flexão-distração da coluna lombar, a fratura de Chance.",
+  "porAlt": [
+   "A condução de vibração não é o fundamento biomecânico do posicionamento correto do cinto.",
+   "Correta: o osso resiste sem se deformar, enquanto sobre o abdome a faixa comprime vísceras e coluna.",
+   "A sensibilidade tátil do osso não é a razão pela qual a faixa deve apoiar sobre a pelve óssea.",
+   "O atrito com o tecido do cinto não é o fundamento do posicionamento sobre as saliências ósseas.",
+   "A temperatura superficial não guarda relação com a distribuição de forças durante a desaceleração."
+  ]
+ },
+ {
+  "q": "Qual é o mecanismo do chamado 'efeito submarino' em ocupante de veículo, e como preveni-lo?",
+  "alts": [
+   "O corpo é projetado sobre o painel por excesso de tensão da faixa diagonal; previne-se afrouxando o cinto",
+   "O corpo gira lateralmente por falha do pré-tensionador; previne-se desativando esse dispositivo do veículo",
+   "O corpo desliza sob a faixa subabdominal frouxa ou mal posicionada; previne-se com ajuste e postura corretos",
+   "O corpo é comprimido pelo airbag antes de o cinto atuar; previne-se desativando o airbag do passageiro",
+   "O corpo é lançado para trás pelo encosto de cabeça; previne-se removendo o apoio de cabeça do banco dianteiro"
+  ],
+  "gab": 2,
+  "tema": "protecao",
+  "sub": "Efeito submarino",
+  "base": "Diretrizes ABRAMET sobre cinto de segurança e sobre transporte veicular de crianças.",
+  "coment": "O efeito submarino ocorre quando o ocupante desliza para a frente e para baixo, passando POR SOB a faixa subabdominal, que então sobe para o abdome — exatamente a situação que se quer evitar. Os fatores que o favorecem são o cinto frouxo, a faixa subabdominal posicionada alta sobre o abdome, a postura excessivamente reclinada do banco e, na criança, a estatura insuficiente para que o cinto do veículo incida corretamente, motivo pelo qual o assento de elevação existe. A prevenção é o ajuste correto: cinto firme, faixa subabdominal baixa sobre a pelve, encosto em posição próxima da vertical e uso do dispositivo de retenção adequado à faixa de massa da criança.",
+  "porAlt": [
+   "Afrouxar o cinto agrava o efeito submarino em vez de preveni-lo durante a desaceleração do veículo.",
+   "O pré-tensionador reduz a folga do cinto e desativá-lo aumentaria, e não reduziria, o risco descrito.",
+   "Correta: o corpo desliza sob a faixa subabdominal frouxa ou alta; previne-se com ajuste e postura corretos.",
+   "Desativar o airbag do passageiro não previne o efeito submarino e retira proteção adicional relevante.",
+   "O encosto de cabeça previne lesão cervical em impacto traseiro e não deve ser removido do assento."
+  ]
+ },
+ {
+  "q": "Qual é a função dos encostos de cabeça e como devem ser ajustados?",
+  "alts": [
+   "Apoiar o pescoço durante as viagens longas; a borda superior deve ficar na altura da base do pescoço",
+   "Reduzir a vibração transmitida ao crânio; a borda superior deve ficar abaixo da linha das duas orelhas",
+   "Impedir a projeção frontal da cabeça no impacto; a borda superior deve ficar na altura das sobrancelhas",
+   "Limitar a hiperextensão cervical no impacto traseiro; a borda superior deve alinhar-se ao topo da cabeça",
+   "Servir de apoio para o descanso do passageiro; a altura pode ser ajustada apenas por conforto pessoal"
+  ],
+  "gab": 3,
+  "tema": "protecao",
+  "sub": "Encosto de cabeça e lesão cervical",
+  "base": "Conteúdo programático do Edital nº 2446 — equipamentos de segurança ativa e passiva; Diretriz ABRAMET sobre tolerância humana a impactos.",
+  "coment": "O encosto de cabeça é item de segurança PASSIVA, e não de conforto: sua função é limitar a hiperextensão cervical no impacto TRASEIRO, quando o tronco é acelerado para a frente pelo banco enquanto a cabeça, por inércia, fica para trás — mecanismo da lesão em chicote. O ajuste correto posiciona a borda superior do encosto alinhada ao topo da cabeça, ou pelo menos ao nível dos olhos, e o mais próximo possível da nuca. Encosto baixo demais funciona como ponto de apoio e pode agravar a hiperextensão, transformando o dispositivo protetor em fator de lesão. É um dos itens mais frequentemente mal ajustados nos veículos.",
+  "porAlt": [
+   "Não é item de conforto, e a borda na base do pescoço deixa o dispositivo baixo demais para proteger.",
+   "A redução de vibração não é a função do dispositivo, e a altura descrita é insuficiente para proteger.",
+   "O mecanismo relevante é o impacto traseiro com hiperextensão, e não a projeção frontal da cabeça.",
+   "Correta: limita a hiperextensão cervical no impacto traseiro, com a borda superior no topo da cabeça.",
+   "O ajuste não é questão de conforto pessoal: a altura inadequada compromete a proteção cervical."
+  ]
+ },
+ {
+  "q": "Qual é a diferença entre segurança ATIVA e segurança PASSIVA nos veículos, e qual exemplo ilustra cada uma?",
+  "alts": [
+   "Ativa evita o sinistro, como o sistema de freios; passiva reduz a lesão quando ele ocorre, como o airbag",
+   "Ativa reduz a lesão quando o sinistro ocorre, como o airbag; passiva evita o sinistro, como os freios",
+   "Ativa depende do condutor, como o cinto; a passiva independe dele, como a estrutura do habitáculo",
+   "Ativa é obrigatória por lei, como o cinto; passiva é opcional de fábrica, como o controle de estabilidade",
+   "Ativa atua antes da colisão, como o airbag; passiva atua depois dela, como o sistema antitravamento"
+  ],
+  "gab": 0,
+  "tema": "protecao",
+  "sub": "Segurança ativa e passiva",
+  "base": "Conteúdo programático do Edital nº 2446 — equipamentos de segurança ativa e passiva.",
+  "coment": "A segurança ATIVA reúne os sistemas que atuam para EVITAR que o sinistro ocorra: freios e sistema antitravamento, controle eletrônico de estabilidade, pneus e suspensão, iluminação, visibilidade e ergonomia dos comandos. A segurança PASSIVA reúne os que reduzem a lesão QUANDO o sinistro ocorre: cinto de segurança e seus pré-tensionadores, airbags, encostos de cabeça, zonas de deformação programada, célula de sobrevivência rígida, coluna de direção colapsável e dispositivos de retenção infantil. A distinção é conceitual e cai com frequência: o critério é o MOMENTO de atuação em relação ao impacto, e não a obrigatoriedade legal nem a dependência do condutor.",
+  "porAlt": [
+   "Correta: a ativa evita o sinistro, como os freios; a passiva reduz a lesão, como o airbag do veículo.",
+   "Os conceitos estão invertidos em relação à definição consagrada de segurança ativa e passiva.",
+   "O critério não é a dependência do condutor, e o cinto é item de segurança passiva, não ativa.",
+   "O critério não é a obrigatoriedade legal do equipamento instalado no veículo automotor.",
+   "O airbag atua no impacto e o antitravamento antes dele, de modo que os exemplos estão trocados."
+  ]
+ },
+ {
+  "q": "Qual é a função das zonas de deformação programada na estrutura do veículo?",
+  "alts": [
+   "Absorver energia deformando-se, prolongando o tempo de desaceleração e reduzindo a força sobre o ocupante",
+   "Manter a estrutura rígida em toda a extensão do veículo, impedindo qualquer deformação durante a colisão",
+   "Aumentar a velocidade de desaceleração do veículo, encurtando a duração total do evento de impacto sofrido",
+   "Redistribuir a massa do veículo durante a colisão, deslocando o centro de gravidade para a sua traseira",
+   "Aumentar a rigidez do habitáculo às custas da rigidez das extremidades dianteira e traseira do veículo"
+  ],
+  "gab": 0,
+  "tema": "protecao",
+  "sub": "Zonas de deformação programada",
+  "base": "Conteúdo programático do Edital nº 2446 — equipamentos de segurança ativa e passiva; tolerância humana a impactos.",
+  "coment": "As zonas de deformação programada, ou zonas de absorção, são regiões das extremidades dianteira e traseira projetadas para se deformar de modo controlado durante a colisão. Ao se deformarem, absorvem energia cinética e PROLONGAM O TEMPO de desaceleração — e, como a força é proporcional à variação de velocidade dividida pelo tempo, prolongar esse intervalo reduz a força transmitida ao ocupante. É o mesmo princípio do cinto, do airbag e do capacete. Complementarmente, a célula de sobrevivência ao redor dos ocupantes é mantida RÍGIDA, para preservar o espaço de sobrevivência e evitar intrusão — de modo que o veículo moderno combina rigidez no centro com deformabilidade nas pontas.",
+  "porAlt": [
+   "Correta: absorvem energia deformando-se, prolongando a desaceleração e reduzindo a força no ocupante.",
+   "A rigidez total transmitiria integralmente a desaceleração ao ocupante, agravando as lesões sofridas.",
+   "O objetivo é justamente prolongar, e não encurtar, a duração do evento de desaceleração no impacto.",
+   "A redistribuição de massa não é a função das zonas de deformação programada da estrutura veicular.",
+   "O habitáculo é rígido e as extremidades deformáveis, mas a função descrita na alternativa está incorreta."
+  ]
+ }
+]
