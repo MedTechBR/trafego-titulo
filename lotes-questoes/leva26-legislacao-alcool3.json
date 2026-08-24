@@ -1,0 +1,332 @@
+[
+ {
+  "q": "Qual é a diferença entre a suspensão e a cassação do direito de dirigir, no Código de Trânsito Brasileiro?",
+  "alts": [
+   "A suspensão é definitiva e o documento nunca é devolvido; a cassação é temporária e admite reabilitação",
+   "Ambas são temporárias e diferem apenas quanto ao órgão competente para aplicar cada uma das penalidades",
+   "A suspensão é temporária e o documento é devolvido ao fim do prazo; a cassação anula a habilitação existente",
+   "Ambas são definitivas e diferem apenas quanto ao valor da multa que acompanha cada uma delas na autuação",
+   "A suspensão alcança apenas as categorias profissionais; já a cassação alcança apenas as categorias A e B"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Suspensão versus cassação",
+  "base": "CTB, arts. 256, 261 e 263.",
+  "coment": "A SUSPENSÃO do direito de dirigir é penalidade temporária: cumprido o prazo e o curso de reciclagem quando exigido, o condutor retoma o direito e o documento é devolvido. A CASSAÇÃO é mais grave e implica a anulação do documento de habilitação, exigindo que o interessado, decorrido o prazo legal, se submeta a NOVO processo de habilitação, do início. As infrações de alcoolemia dos arts. 165 e 165-A cominam suspensão por 12 meses, e não cassação — esta decorre de hipóteses específicas, como dirigir durante o período de suspensão. Distinguir as duas é útil para não superestimar a consequência administrativa de uma autuação por embriaguez.",
+  "porAlt": [
+   "As naturezas estão invertidas: a cassação é a penalidade mais grave, que anula a habilitação.",
+   "A cassação não é temporária: ela anula o documento e exige novo processo de habilitação depois.",
+   "Correta: a suspensão é temporária com devolução do documento; a cassação anula a habilitação.",
+   "A suspensão é temporária, e as duas penalidades não se distinguem pelo valor da multa aplicada.",
+   "Nenhuma das duas penalidades é restrita a determinadas categorias de habilitação do condutor."
+  ]
+ },
+ {
+  "q": "Segundo o CTB, qual é a consequência de dirigir durante o período de suspensão do direito de dirigir?",
+  "alts": [
+   "Configura infração média com multa simples, sem qualquer repercussão sobre o documento de habilitação",
+   "Configura infração gravíssima com a cassação do documento de habilitação do condutor que foi autuado",
+   "Configura mera advertência por escrito na primeira ocorrência registrada durante o prazo de suspensão",
+   "Configura infração leve com multa simples, convertida em advertência se o condutor for primário",
+   "Não configura infração alguma, pois a suspensão já esgotou a punição administrativa aplicável ao caso"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Dirigir com o direito suspenso",
+  "base": "CTB, art. 162 e art. 263.",
+  "coment": "Dirigir com o direito de dirigir suspenso é infração gravíssima e uma das hipóteses que levam à CASSAÇÃO do documento de habilitação. A lógica é de escalada punitiva: a suspensão é a resposta a infrações graves ou ao acúmulo de pontos; desrespeitá-la demonstra que a penalidade não produziu efeito, e a resposta seguinte é a anulação do documento, com necessidade de novo processo de habilitação após o prazo legal. Para o perito examinador, importa saber que o condutor que retorna após cassação passa por processo completo, o que inclui novo exame de aptidão física e mental e nova avaliação psicológica.",
+  "porAlt": [
+   "A infração não é média: dirigir com o direito suspenso é conduta de gravidade máxima no Código.",
+   "Correta: é infração gravíssima e enseja a cassação do documento de habilitação do condutor.",
+   "Não há previsão de advertência por escrito para quem dirige durante o período de suspensão.",
+   "A infração não é leve, e a advertência por escrito não se aplica a essa hipótese específica.",
+   "A conduta configura infração autônoma, e não é absorvida pela suspensão anteriormente aplicada."
+  ]
+ },
+ {
+  "q": "Qual é o papel do exame de aptidão física e mental no retorno do condutor que teve o documento cassado?",
+  "alts": [
+   "Ele é refeito integralmente, pois a cassação exige novo processo de habilitação após o prazo legal",
+   "Ele é dispensado, pois o exame anterior permanece válido durante todo o período da cassação aplicada",
+   "Ele é substituído por declaração do médico assistente atestando a ausência de doenças incapacitantes",
+   "Ele é realizado apenas se o condutor tiver completado cinquenta anos durante o período de cassação",
+   "Ele é realizado pela Junta Médica Especial, e não pelo perito examinador da entidade credenciada"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Exame após cassação",
+  "base": "CTB, arts. 147, 148 e 263.",
+  "coment": "A cassação anula o documento de habilitação, de modo que o retorno exige NOVO PROCESSO de habilitação, decorrido o prazo legal — e o processo do art. 147 começa justamente pelo exame de aptidão física e mental, que a lei qualifica como preliminar. Não há aproveitamento do exame anterior nem substituição por declaração do assistente. Para o perito, esse candidato é tratado como qualquer outro em primeira habilitação: questionário do Anexo I, interrogatório complementar, exame físico geral, exames específicos por aparelho e, por exercer ou não atividade remunerada, avaliação psicológica conforme o §3º do art. 147.",
+  "porAlt": [
+   "Correta: o exame é refeito integralmente, pois a cassação exige novo processo de habilitação.",
+   "O exame anterior não permanece válido: a cassação anula o documento e o processo recomeça.",
+   "A declaração do médico assistente não substitui o exame pericial de aptidão física e mental.",
+   "A idade define o prazo de validade do exame, mas não a exigência de refazê-lo após cassação.",
+   "A Junta Médica Especial destina-se ao candidato com deficiência física, não a essa hipótese."
+  ]
+ },
+ {
+  "q": "Segundo o CTB, qual é a natureza da infração de transportar criança sem o dispositivo de retenção adequado?",
+  "alts": [
+   "Infração leve, com multa simples e sem qualquer medida administrativa aplicável ao veículo conduzido",
+   "Infração média, com advertência por escrito na primeira autuação registrada em nome do condutor",
+   "Mera recomendação sem natureza infracional, cabendo apenas orientação educativa ao condutor abordado",
+   "Infração grave, com suspensão imediata do direito de dirigir por prazo de doze meses consecutivos",
+   "Infração gravíssima, com multa e medida administrativa de retenção do veículo até a regularização"
+  ],
+  "gab": 4,
+  "tema": "protecao",
+  "sub": "Infração por transporte irregular de criança",
+  "base": "CTB, art. 168; Diretrizes ABRAMET sobre transporte veicular de crianças.",
+  "coment": "O CTB tipifica como infração GRAVÍSSIMA transportar crianças em veículo automotor sem observância das normas de segurança estabelecidas, com multa e medida administrativa de RETENÇÃO do veículo até que a irregularidade seja sanada. A gravidade atribuída pela lei é coerente com a evidência reunida nas diretrizes ABRAMET: dispositivo de retenção adequado confere o mais baixo risco de morte em sinistros fatais, o banco traseiro aumenta em 12% a probabilidade de sobrevivência das crianças de 1 a 4 anos e em 7% a das de 5 a 12, e crianças até 14 anos correm alto risco de lesão grave no banco dianteiro de veículo com airbag.",
+  "porAlt": [
+   "A infração não é leve: a lei atribui a ela a gravidade máxima prevista no Código de Trânsito.",
+   "A infração não é média nem comporta advertência por escrito na primeira autuação registrada.",
+   "Não se trata de recomendação: há tipificação legal expressa com penalidade e medida administrativa.",
+   "A infração é gravíssima, mas não acarreta suspensão imediata do direito de dirigir por doze meses.",
+   "Correta: infração gravíssima, com multa e retenção do veículo até a regularização da situação."
+  ]
+ },
+ {
+  "q": "Qual é a diferença entre PENALIDADE e MEDIDA ADMINISTRATIVA no Código de Trânsito Brasileiro?",
+  "alts": [
+   "A penalidade é a providência imediata na abordagem; a medida administrativa é a sanção aplicada depois",
+   "São sinônimos no Código, sendo indiferente qual dos dois termos se utilize ao descrever qualquer autuação",
+   "A penalidade é sempre pecuniária; já a medida administrativa é sempre restritiva do direito de dirigir",
+   "A penalidade é aplicada pelo juiz; a medida administrativa é aplicada pelo agente de trânsito na via",
+   "A penalidade é a sanção aplicada ao infrator; a medida administrativa é providência imediata na abordagem"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Penalidade e medida administrativa",
+  "base": "CTB, arts. 165, 165-A e 269.",
+  "coment": "A distinção percorre todo o Código e aparece explicitamente nos artigos de alcoolemia. A PENALIDADE é a sanção imposta ao infrator após o devido processo — multa, suspensão do direito de dirigir, cassação, advertência por escrito, frequência a curso de reciclagem. A MEDIDA ADMINISTRATIVA é a providência de execução imediata adotada na abordagem para fazer cessar a irregularidade ou preservar a segurança: recolhimento do documento de habilitação, retenção ou remoção do veículo. No art. 165, por exemplo, a penalidade é multa multiplicada por dez e suspensão por 12 meses, enquanto as medidas administrativas são o recolhimento da CNH e a retenção do veículo.",
+  "porAlt": [
+   "Os conceitos estão invertidos: a providência imediata é a medida administrativa, não a penalidade.",
+   "Não são sinônimos: o Código as distingue expressamente nos artigos que tipificam as infrações.",
+   "A penalidade nem sempre é pecuniária, e a medida administrativa alcança também o veículo.",
+   "A penalidade administrativa é aplicada pela autoridade de trânsito, e não pelo juiz criminal.",
+   "Correta: penalidade é a sanção ao infrator; medida administrativa é a providência imediata na via."
+  ]
+ },
+ {
+  "q": "Um condutor é autuado por dirigir sob influência de álcool e alega que não bebeu, mas usava enxaguante bucal. Qual é a conduta técnica correta na fiscalização?",
+  "alts": [
+   "Anular imediatamente a autuação, pois o enxaguante bucal invalida definitivamente qualquer etilômetro",
+   "Manter o resultado sem qualquer verificação, pois a alegação do condutor não comporta apuração técnica",
+   "Encaminhar o condutor a exame de sangue obrigatório, único meio válido diante dessa alegação específica",
+   "Repetir o teste após um intervalo, pois o álcool residual de boca se dissipa em poucos minutos apenas",
+   "Converter a autuação em infração de recusa ao teste, prevista no art. 165-A do Código de Trânsito"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Álcool residual de boca",
+  "base": "CTB, art. 277 e art. 306, §2º (direito à contraprova); procedimentos de fiscalização do CONTRAN.",
+  "coment": "O álcool residual na cavidade oral — de enxaguante bucal, medicamento em solução alcoólica ou consumo imediatamente anterior — pode elevar falsamente a leitura do etilômetro, porque o aparelho mede o ar alveolar e o resíduo de boca contamina a amostra. Por isso o procedimento técnico prevê um intervalo de observação antes da aferição e a repetição do teste, já que o resíduo se dissipa em alguns minutos, enquanto o álcool efetivamente absorvido e eliminado pelos pulmões permanece. O CTB assegura ainda o direito à CONTRAPROVA no §2º do art. 306, e admite exame de sangue, exame clínico e perícia como meios alternativos — mas nenhum deles é obrigatório diante da alegação isolada.",
+  "porAlt": [
+   "O enxaguante não invalida o etilômetro: ele exige apenas o intervalo técnico antes da aferição.",
+   "A alegação comporta apuração técnica simples, e ignorá-la fragilizaria a validade do resultado.",
+   "O exame de sangue é um dos meios possíveis, mas não é obrigatório diante dessa alegação isolada.",
+   "Correta: repetir o teste após intervalo, já que o álcool residual de boca se dissipa em minutos.",
+   "A conversão em recusa é incabível: o condutor se submeteu ao teste, apenas contestou o resultado."
+  ]
+ },
+ {
+  "q": "Qual é o fundamento fisiológico para o etilômetro medir a concentração de álcool no AR ALVEOLAR?",
+  "alts": [
+   "O álcool é produzido nos pulmões e depois absorvido para o sangue, o que torna o ar a fonte primária",
+   "O álcool difunde-se do sangue para o alvéolo em proporção estável, permitindo estimar a alcoolemia",
+   "O álcool concentra-se exclusivamente na via aérea superior, sem qualquer relação com a corrente sanguínea",
+   "O álcool é eliminado integralmente pelos pulmões, sem participação do fígado no seu metabolismo total",
+   "O álcool altera a composição do surfactante alveolar, e é essa alteração que o aparelho efetivamente mede"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Base fisiológica do etilômetro",
+  "base": "CTB, art. 306, §1º, I (equivalência entre sangue e ar alveolar); Diretriz ABRAMET sobre alcoolemia.",
+  "coment": "O etanol é volátil e hidrossolúvel, e difunde-se livremente do sangue capilar pulmonar para o ar alveolar segundo uma relação de partição relativamente estável. É essa proporcionalidade que permite estimar a alcoolemia a partir do ar expirado e que fundamenta a equivalência adotada pelo art. 306, §1º, I: 6 decigramas por litro de SANGUE correspondem a 0,3 miligrama por litro de AR ALVEOLAR. O §3º do mesmo artigo atribui ao CONTRAN dispor sobre a equivalência entre os distintos testes, e o §4º admite qualquer aparelho homologado pelo Inmetro. A eliminação pulmonar, vale notar, responde por fração pequena do total — a maior parte do etanol é metabolizada no fígado.",
+  "porAlt": [
+   "O álcool não é produzido nos pulmões: ele chega ao alvéolo por difusão a partir do sangue circulante.",
+   "Correta: o álcool difunde-se do sangue para o alvéolo em proporção estável, permitindo a estimativa.",
+   "O álcool medido provém do sangue por difusão alveolar, e não de concentração na via aérea superior.",
+   "A eliminação pulmonar é fração pequena: a maior parte do etanol é metabolizada pelo fígado.",
+   "O aparelho mede o etanol no ar expirado, e não alterações da composição do surfactante alveolar."
+  ]
+ },
+ {
+  "q": "Por que o art. 306 do CTB admite a constatação do crime por SINAIS de alteração da capacidade psicomotora?",
+  "alts": [
+   "Porque a dosagem laboratorial é considerada tecnicamente inviável em qualquer situação de fiscalização",
+   "Porque a legislação pretende dispensar completamente o uso de etilômetros nas blitzes de fiscalização",
+   "Porque os sinais clínicos são sempre mais precisos e reprodutíveis que a dosagem em ar alveolar aferida",
+   "Porque a Constituição veda expressamente o uso de qualquer aferição objetiva de álcool no organismo",
+   "Porque o bem jurídico protegido é a capacidade de conduzir, que pode estar alterada sem dosagem alta"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Fundamento do inciso II do art. 306",
+  "base": "CTB, art. 306, caput e §1º, I e II (redação da Lei nº 12.760/2012).",
+  "coment": "O caput do art. 306 tipifica conduzir veículo automotor COM CAPACIDADE PSICOMOTORA ALTERADA em razão da influência de álcool ou de outra substância psicoativa — o núcleo do tipo é a alteração da capacidade, e não a concentração em si. Os incisos do §1º são apenas as duas vias de constatação dessa alteração: o inciso I, pela dosagem objetiva, e o inciso II, por sinais disciplinados pelo CONTRAN. A existência da segunda via é necessária por três razões: há suscetibilidade individual, de modo que a mesma dosagem produz alterações diferentes em pessoas diferentes; há substâncias psicoativas sem etilômetro correspondente; e o condutor pode recusar-se ao teste, sem que isso deva blindá-lo da responsabilização penal.",
+  "porAlt": [
+   "A dosagem é viável e amplamente utilizada: a segunda via existe para os casos em que ela falta.",
+   "A lei não pretende dispensar o etilômetro, que segue sendo o meio mais usual de constatação.",
+   "Os sinais clínicos não são mais precisos que a dosagem: eles são uma via alternativa de constatação.",
+   "Não há vedação constitucional ao uso de aferição objetiva de álcool no organismo do condutor.",
+   "Correta: o bem jurídico é a capacidade de conduzir, que pode estar alterada com dosagem não elevada."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, quais fatores individuais explicam a variabilidade dos efeitos do álcool entre pessoas?",
+  "alts": [
+   "Apenas o peso corporal, único fator com influência documentada sobre a curva de alcoolemia individual",
+   "Sexo, peso, etnia e hábito de consumir bebidas, fatores citados expressamente pela diretriz médica",
+   "Apenas a idade do condutor, fator que determina isoladamente a velocidade de metabolização do etanol",
+   "Apenas o tipo de bebida ingerida, variável que define integralmente a intensidade dos efeitos sentidos",
+   "Apenas a velocidade da ingestão, sem influência de características individuais de cada pessoa avaliada"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Variabilidade individual dos efeitos",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Alcoolemia e direção veicular segura', conclusão.",
+  "coment": "A diretriz encerra afirmando que a grande variabilidade dos efeitos, devida à SUSCETIBILIDADE INDIVIDUAL dos condutores — SEXO, PESO, ETNIA, HÁBITO OU NÃO DE CONSUMIR BEBIDAS —, leva à conclusão de que não existe concentração segura, sendo a alcoolemia zero o único padrão proposto de dirigibilidade sem riscos. É exatamente essa variabilidade que justifica a existência do inciso II do art. 306, que permite constatar a alteração da capacidade psicomotora por sinais clínicos: uma mesma dosagem pode incapacitar uma pessoa e produzir efeito menor em outra, de modo que fixar apenas um patamar numérico deixaria de fora parte relevante dos condutores efetivamente alterados.",
+  "porAlt": [
+   "O peso é apenas um dos fatores listados; a diretriz cita também sexo, etnia e hábito de consumo.",
+   "Correta: sexo, peso, etnia e hábito de consumo são os fatores expressamente citados pela diretriz.",
+   "A idade não é o fator isolado citado pela diretriz para explicar a variabilidade dos efeitos.",
+   "O tipo de bebida importa pela quantidade de etanol, mas não é o fator individual descrito.",
+   "A diretriz atribui a variabilidade justamente às características individuais de cada condutor."
+  ]
+ },
+ {
+  "q": "Qual é o efeito do álcool sobre a visão do condutor, relevante para a medicina do tráfego?",
+  "alts": [
+   "Melhora transitória da acuidade visual para longe, com ganho de desempenho na condução noturna",
+   "Ausência de efeito visual, já que o etanol atua exclusivamente sobre a coordenação motora fina",
+   "Prejuízo da acomodação, da visão periférica funcional e da recuperação após o ofuscamento noturno",
+   "Prejuízo exclusivo da visão cromática, com impossibilidade de distinguir as luzes semafóricas na via",
+   "Prejuízo exclusivo da acuidade para perto, sem qualquer repercussão sobre a leitura da via percorrida"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Álcool e função visual",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre alcoolemia, item 2 (funções visuais e acompanhamento de movimento).",
+  "coment": "A diretriz registra que, a partir de 0,2 g/l, ficam prejudicadas a atenção dividida, as FUNÇÕES VISUAIS e o acompanhamento de movimento. Na prática, o álcool compromete a acomodação e a convergência, prejudica o rastreamento de objetos em movimento — essencial para acompanhar veículos e pedestres —, estreita funcionalmente o campo de atenção visual, produzindo o fenômeno de 'visão em túnel' por restrição atencional, e prolonga a recuperação após ofuscamento por faróis. Some-se o nistagmo, que fundamenta o teste de nistagmo horizontal usado em protocolos de fiscalização. Esse conjunto explica por que a condução noturna sob efeito de álcool é especialmente perigosa.",
+  "porAlt": [
+   "Não há melhora da acuidade: o álcool prejudica funções visuais já a partir de dois decigramas.",
+   "Há efeito visual documentado, e a diretriz cita expressamente as funções visuais entre as afetadas.",
+   "Correta: prejuízo da acomodação, do campo visual funcional e da recuperação após o ofuscamento.",
+   "O prejuízo não se restringe à visão cromática, alcançando acomodação, rastreamento e ofuscamento.",
+   "O prejuízo não se restringe à visão para perto, alcançando o campo funcional e o acompanhamento."
+  ]
+ },
+ {
+  "q": "Qual é a relação entre álcool e uso de dispositivos de segurança, descrita na literatura de segurança viária?",
+  "alts": [
+   "O condutor alcoolizado usa mais cinto e capacete, por perceber melhor o risco a que ele está se expondo",
+   "Não há relação descrita entre o consumo de álcool e o uso de equipamentos de segurança pelos condutores",
+   "O condutor alcoolizado usa menos cinto e capacete, somando desinibição comportamental ao risco de colisão",
+   "O uso de cinto neutraliza integralmente o prejuízo de desempenho causado pelo álcool sobre a condução",
+   "O uso de capacete eleva a alcoolemia por reduzir a ventilação pulmonar durante a condução da motocicleta"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Álcool e não uso de equipamentos",
+  "base": "Conteúdo programático do Edital nº 2446 — álcool e acidentes; Diretriz ABRAMET sobre alcoolemia.",
+  "coment": "O álcool age em dois planos que se somam: aumenta a probabilidade de o sinistro ocorrer, pelo prejuízo de atenção, tempo de reação, funções visuais e julgamento; e aumenta a gravidade das lesões quando ele ocorre, porque a desinibição comportamental reduz a adesão a cinto de segurança e capacete e eleva a velocidade praticada. É por isso que os dados de vítimas fatais mostram concentração desproporcional de alcoolemia positiva — a diretriz registra até 47,0% entre vítimas fatais, contra 19,8% em amostra geral de condutores. Para o médico do tráfego, esse duplo efeito reforça que o aconselhamento sobre álcool e o aconselhamento sobre equipamentos de segurança pertencem à mesma conversa.",
+  "porAlt": [
+   "A desinibição reduz, e não aumenta, a adesão aos equipamentos de segurança pelo condutor.",
+   "A relação é descrita e ajuda a explicar a concentração de alcoolemia positiva entre vítimas fatais.",
+   "Correta: o condutor alcoolizado usa menos cinto e capacete, somando desinibição ao risco de colisão.",
+   "O cinto reduz a gravidade da lesão, mas não neutraliza o prejuízo de desempenho causado pelo álcool.",
+   "O capacete não eleva a alcoolemia nem interfere na ventilação de modo a alterar a concentração."
+  ]
+ },
+ {
+  "q": "Qual é a consequência jurídica de o condutor alcoolizado causar lesão corporal culposa na direção de veículo automotor?",
+  "alts": [
+   "A conduta deixa de ser punível, pois a embriaguez exclui a culpabilidade do agente no direito penal",
+   "A conduta é punida apenas administrativamente, sem qualquer repercussão na esfera criminal aplicável",
+   "A pena do crime é reduzida à metade, em razão da menor capacidade de autodeterminação do agente",
+   "A pena do crime de lesão corporal culposa na direção é aumentada quando há influência de álcool",
+   "A conduta é absorvida pelo crime do art. 306, sem punição autônoma pela lesão corporal produzida"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Lesão corporal culposa e álcool",
+  "base": "CTB, arts. 291, 298 e 303.",
+  "coment": "O CTB trata a influência de álcool como circunstância que AGRAVA a resposta penal nos crimes culposos de trânsito, e não como excludente. A embriaguez voluntária não afasta a culpabilidade no direito penal brasileiro — vigora a teoria da actio libera in causa, segundo a qual quem se coloca voluntariamente em estado de embriaguez responde pelo que pratica nesse estado. Além disso, o art. 291, §1º afasta a aplicação de institutos despenalizadores quando o agente conduz sob influência de álcool, participa de racha ou trafega em velocidade muito superior à máxima permitida. E a responsabilização pelo resultado lesivo não é absorvida pelo art. 306, que tutela a segurança viária de forma autônoma.",
+  "porAlt": [
+   "A embriaguez voluntária não exclui a culpabilidade no ordenamento penal brasileiro vigente.",
+   "Há repercussão criminal: a lesão corporal culposa na direção é crime autônomo previsto no Código.",
+   "A pena não é reduzida pela embriaguez voluntária, que funciona em sentido exatamente oposto.",
+   "Correta: a influência de álcool agrava a resposta penal nos crimes culposos de trânsito cometidos.",
+   "A lesão corporal culposa não é absorvida pelo crime de embriaguez ao volante do art. 306."
+  ]
+ },
+ {
+  "q": "Segundo a Resolução CONTRAN nº 927/2022, o que ocorre com o cadastro nacional do candidato considerado inapto temporário?",
+  "alts": [
+   "É bloqueado imediatamente pelo órgão de trânsito, que também procede ao desbloqueio no vencimento",
+   "Permanece ativo durante todo o prazo da inaptidão, cabendo ao candidato abster-se de conduzir veículos",
+   "É bloqueado pelo próprio médico perito examinador, que também procede ao desbloqueio quando cabível",
+   "É excluído em definitivo do sistema, exigindo novo cadastramento quando o candidato retornar ao processo",
+   "É transferido para o cadastro do Estado de residência do candidato, onde permanece até nova avaliação"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Bloqueio e desbloqueio do cadastro",
+  "base": "Resolução CONTRAN nº 927/2022, art. 10, §2º.",
+  "coment": "O §2º do art. 10 determina que, na hipótese de inaptidão temporária ou de inaptidão, o perito examinador COMUNIQUE o resultado aos setores médicos e psicológicos do órgão ou entidade executivo de trânsito do Estado ou do DF, ou à circunscrição de trânsito do local de credenciamento, para IMEDIATO BLOQUEIO do cadastro nacional — competindo A ESSE ÓRGÃO o devido desbloqueio no vencimento do prazo. Note a divisão de papéis: o perito comunica, o órgão bloqueia e o órgão desbloqueia. O perito não opera o sistema nem controla prazos de reabertura, e o cadastro não é excluído: apenas fica impedido enquanto durar a inaptidão.",
+  "porAlt": [
+   "Correta: bloqueio imediato pelo órgão de trânsito, que também procede ao desbloqueio no vencimento.",
+   "O cadastro não permanece ativo: a norma determina o bloqueio imediato após a comunicação feita.",
+   "O perito comunica o resultado, mas quem bloqueia e desbloqueia é o órgão executivo de trânsito.",
+   "O cadastro não é excluído em definitivo: ele é bloqueado enquanto durar o prazo da inaptidão.",
+   "Não há transferência de cadastro entre unidades da Federação nessa hipótese prevista pela norma."
+  ]
+ },
+ {
+  "q": "Qual é a razão pela qual a Resolução CONTRAN nº 927/2022 exige o arquivamento de todos os documentos do exame pericial?",
+  "alts": [
+   "Permitir o faturamento retroativo do exame junto à operadora de plano de saúde do próprio candidato",
+   "Compor a base estatística nacional de morbidade, enviada mensalmente ao Ministério da Saúde do país",
+   "Atender a exigência exclusiva da vigilância sanitária local para a renovação do alvará da entidade",
+   "Sustentar tecnicamente a conclusão diante de questionamento posterior, conforme normas dos Conselhos",
+   "Substituir a necessidade de registro do resultado no formulário RENACH mantido pelo órgão de trânsito"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Arquivamento da documentação",
+  "base": "Resolução CONTRAN nº 927/2022, art. 10, caput e §1º.",
+  "coment": "O art. 10 firma que a realização e o resultado do exame são de EXCLUSIVA RESPONSABILIDADE do perito, e o §1º determina que todos os documentos utilizados sejam arquivados conforme determinação dos Conselhos Federais de Medicina e de Psicologia. As duas disposições se completam: como a responsabilidade é pessoal e alcança tanto a inaptidão quanto a aptidão declarada, o arquivo é a principal defesa técnica do perito diante de questionamento posterior — administrativo, ético, cível ou criminal. Documentar anamnese, achados, orientações prestadas e a fundamentação de eventual redução de prazo é, portanto, parte do ato pericial, e não burocracia acessória.",
+  "porAlt": [
+   "O faturamento junto a plano de saúde não é a finalidade do arquivamento previsto pela norma.",
+   "A composição de base estatística de morbidade não é a finalidade descrita para esse arquivamento.",
+   "A exigência decorre das normas dos Conselhos profissionais, e não apenas da vigilância sanitária.",
+   "Correta: sustentar tecnicamente a conclusão diante de questionamento posterior ao exame realizado.",
+   "O arquivamento não substitui o registro do resultado no formulário RENACH, que é obrigatório."
+  ]
+ },
+ {
+  "q": "Qual é o alcance da expressão 'exclusiva responsabilidade' do perito examinador, prevista no art. 10 da Resolução CONTRAN nº 927/2022?",
+  "alts": [
+   "Alcança a realização e o resultado do exame, incluindo tanto a inaptidão quanto a aptidão declarada",
+   "Alcança apenas os casos de inaptidão declarada, já que a aptidão não produz consequência jurídica",
+   "Alcança apenas o preenchimento do formulário, sem repercussão sobre o mérito técnico da conclusão",
+   "Alcança apenas os exames realizados em entidades privadas, ficando as públicas sob outro regime legal",
+   "Alcança apenas os exames de primeira habilitação, ficando as renovações sob responsabilidade da entidade"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Extensão da responsabilidade pericial",
+  "base": "Resolução CONTRAN nº 927/2022, art. 10, caput.",
+  "coment": "O caput do art. 10 é abrangente: a REALIZAÇÃO e o RESULTADO do exame de aptidão física e mental e da avaliação psicológica são de exclusiva responsabilidade do médico perito examinador de trânsito e do psicólogo perito examinador de trânsito, respectivamente. A expressão alcança o ato inteiro e não distingue o sentido da conclusão — liberar para conduzir quem não reunia condições pode gerar repercussão ética, cível e criminal do mesmo modo que reprovar indevidamente. Tampouco distingue natureza da entidade ou tipo de processo. É essa amplitude que justifica o rigor do arquivamento documental exigido no §1º e a comunicação obrigatória do §2º.",
+  "porAlt": [
+   "Correta: alcança realização e resultado, tanto na inaptidão quanto na aptidão que for declarada.",
+   "A aptidão indevidamente declarada produz consequência jurídica tanto quanto a inaptidão errada.",
+   "A responsabilidade alcança o mérito técnico da conclusão, e não apenas o preenchimento formal.",
+   "A norma não distingue entidades públicas e privadas quanto à responsabilidade do perito examinador.",
+   "A norma não distingue primeira habilitação de renovação quanto à responsabilidade pelo exame."
+  ]
+ }
+]
