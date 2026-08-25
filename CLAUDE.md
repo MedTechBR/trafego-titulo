@@ -36,6 +36,39 @@ de 6,0 — porque isso reprova mesmo com média ponderada suficiente.
 ⚠️ O edital **não publica** a régua de conversão dos pontos do Anexo I em nota de 0 a 10; o app usa
 proporção sobre o teto (175 pts). Serve para comparar cenários, não é a nota que a banca vai dar.
 
+## Identidade visual — "Asfalto & Sinalização" (25/08/2026)
+O app tinha o azul genérico `#2563EB` e cartão branco sobre cinza em tudo — "cara de IA". Foi trocado
+por uma identidade tirada do PRÓPRIO assunto: a sinalização viária. As cores semânticas são as cores
+da placa, então nada é decorativo.
+
+| Papel | Token | Claro | Escuro |
+|---|---|---|---|
+| Marca / ação primária | `--brand` | `#E29215` âmbar de advertência | `#F2A93B` |
+| Acerto | `--ok` | `#1B7A45` verde de rodovia | `#4FCB85` |
+| Erro / destrutivo | `--err` | `#C0261F` vermelho de parada | `#F0736A` |
+| Tinta | `--ink` | `#181B21` asfalto | `#ECE8E0` |
+| Fundo | `--bg` | `#F5F1E8` papel quente | `#101318` |
+
+- **Tipografia**: **Archivo** (600/700/800) em títulos, números e cronômetro — grotesca de linhagem
+  de sinalização, dá caráter sem enfeitar; **Inter** no corpo. Carregadas do Google Fonts com
+  `display=swap` e **cacheadas pelo próprio SW** (cache `tt-fontes-v1`, separado do `CACHE`, sobrevive
+  ao bump) para a identidade não sumir offline.
+- **Cabeçalho asfalto**: barra escura fixa com marca, contagem regressiva para a prova e alternador de
+  tema. Abas viraram pílulas; a ativa é âmbar sólido com texto escuro (contraste de placa).
+- **Tema claro/escuro**: 3 estados (sistema, claro forçado, escuro forçado). O tema é aplicado por um
+  script inline **antes** do `<style>` para não piscar. Preferência em `localStorage.tt_tema`.
+- **Regras que não podem regredir** (todas verificadas por DOM, ver abaixo):
+  contraste ≥4,5:1 em texto normal e ≥3:1 em texto grande, nos 8 painéis × 2 temas;
+  alvos de toque ≥44px; nenhum `select` estourando o cartão (o de temas tem opções longas);
+  tabela larga sempre dentro de `.rolagem`; `prefers-reduced-motion` desliga as animações.
+- **O que NÃO fazer**: voltar a rotular todo cartão com micro-título em CAIXA ALTA (era o principal
+  "tell" de template), usar azul genérico como cor de marca, ou pôr sombra/raio fora dos tokens.
+
+### Auditoria visual por DOM (roda no navegador, não é screenshot)
+O script de contraste usado está no histórico da sessão: percorre `body *`, calcula a razão WCAG entre
+`color` e o primeiro fundo opaco ancestral, e reporta o que fica abaixo do mínimo — repetindo para os
+8 painéis nos dois temas. Rodar sempre que mexer em cor. Resultado exigido: `{}`.
+
 ## As armadilhas herdadas (defesas implementadas — manter)
 1. **Progresso por chave de conteúdo, nunca por índice**: `chaveQ(q)` = djb2+FNV com `Math.imul`
    sobre o enunciado normalizado. Réplica Python em `valida_banco.py`. Chave órfã é descartada

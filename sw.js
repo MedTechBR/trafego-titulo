@@ -1,7 +1,8 @@
 /* TráfegoTítulo — service worker.
    REGRA DE DEPLOY: bumpar CACHE a CADA deploy (tt-v2, tt-v3...) — sem isso o usuário
    fica preso na versão velha e qualquer correção vira fantasma. */
-const CACHE = 'tt-v3';
+const CACHE = 'tt-v4';
+const FONTES = 'tt-fontes-v1';
 const NUCLEO = [
   './', 'index.html',
   'banco.js', 'taxonomia.js', 'flash.js', 'pratica.js',
@@ -19,7 +20,7 @@ self.addEventListener('install', e => {
 self.addEventListener('activate', e => {
   e.waitUntil(
     caches.keys()
-      .then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k))))
+      .then(ks => Promise.all(ks.filter(k => k !== CACHE && k !== FONTES).map(k => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
@@ -28,6 +29,18 @@ self.addEventListener('fetch', e => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
+
+  // Fontes do Google (Archivo/Inter): stale-while-revalidate em cache próprio,
+  // para a identidade tipográfica sobreviver offline. Nunca some no bump do CACHE.
+  if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com') {
+    e.respondWith(caches.open(FONTES).then(c =>
+      c.match(req).then(hit => {
+        const rede = fetch(req).then(r => { if (r.ok) c.put(req, r.clone()); return r; }).catch(() => hit);
+        return hit || rede;
+      })));
+    return;
+  }
+
   if (url.origin !== location.origin) return;
 
   const ehHTML = req.mode === 'navigate' || req.destination === 'document' ||
