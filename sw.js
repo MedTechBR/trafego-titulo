@@ -1,7 +1,7 @@
 /* TráfegoTítulo — service worker.
    REGRA DE DEPLOY: bumpar CACHE a CADA deploy (tt-v2, tt-v3...) — sem isso o usuário
    fica preso na versão velha e qualquer correção vira fantasma. */
-const CACHE = 'tt-v4';
+const CACHE = 'tt-v5';
 const FONTES = 'tt-fontes-v1';
 const NUCLEO = [
   './', 'index.html',
@@ -55,13 +55,20 @@ self.addEventListener('fetch', e => {
       }).catch(() => caches.match(req).then(r => r || caches.match('index.html')))
     );
   } else {
-    // cache-first: estáticos versionados pelo bump do CACHE
+    // stale-while-revalidate: serve do cache na hora (rápido e offline) MAS sempre
+    // revalida na rede e atualiza o cache.
+    // Por que não cache-first puro: o bump do CACHE não basta. Se o install rodar
+    // enquanto a borda do GitHub Pages ainda serve o arquivo velho, o precache nasce
+    // ENVENENADO e o app fica preso nele até o próximo deploy — aconteceu com o
+    // banco.js (273 questões precacheadas depois de publicar 504). Com SWR o
+    // envenenamento se cura sozinho no carregamento seguinte.
     e.respondWith(
-      caches.match(req).then(hit => hit || fetch(req, { cache: 'no-cache' }).then(r => {
-        // no-cache: revalida na origem — o cache HTTP do navegador já nos serviu
-        // estático velho num miss (rt-v5) e congelou o app
-        if (r.ok) { const cp = r.clone(); caches.open(CACHE).then(c => c.put(req, cp)); }
-        return r;
+      caches.open(CACHE).then(c => c.match(req).then(hit => {
+        const rede = fetch(req, { cache: 'no-cache' }).then(r => {
+          if (r.ok) c.put(req, r.clone());
+          return r;
+        }).catch(() => hit);
+        return hit || rede;
       }))
     );
   }
