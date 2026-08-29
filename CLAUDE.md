@@ -89,6 +89,48 @@ O script de contraste usado está no histórico da sessão: percorre `body *`, c
    (`#sec-simulado .alt`), senão o teste clica na aba errada. E no simulado, clicar na alternativa
    **já avança** para a próxima; não clicar em `#simProx` depois.
 
+## Aba Leitura — resumos de estudo (25/08/2026)
+Pedido do Matheus: "faltou resumos dos materiais para leitura", como no app de farmácia
+(`quiz-enare-farmacia`, pastas `estudos/` e `farmacia/`). Portado com três diferenças deliberadas:
+
+1. **Folha compartilhada** `leituras/_leitura.css` em vez de CSS duplicado em cada página (o app de
+   farmácia repete ~20 KB de estilo por arquivo). Cada leitura fica em 13–23 KB.
+2. **Tema segue o app**: `leituras/_leitura.js` lê `?tema=claro|escuro` da URL e também escuta
+   `postMessage({tt:"tema"})` — trocar o tema com uma leitura aberta muda a leitura na hora.
+3. **Uma única área de rolagem**: `ajustaQuadro()` dimensiona o `<iframe>` para a altura exata que
+   sobra na viewport e `body.lendo` tira o padding do rodapé, então a página do app NÃO rola — só a
+   leitura. Sem isso ficam dois scrolls concorrentes (anti-padrão em celular).
+
+- Índice em `leituras.js` (`window.LEITURAS`): itens `{f,tipo,area,min,t,s}` e separadores `{grupo,sub}`.
+  `area` casa com o `id` da taxonomia e alimenta o botão "treinar questões" da leitura.
+- **Deep link**: a leitura aponta para `../index.html?area=<tema>#questoes`; o boot lê `?area=`, aplica
+  o filtro em `ST.pos.fq` e limpa a URL. (O parâmetro é `area`, não `tema`, para não colidir com o
+  `?tema=` do tema claro/escuro.)
+- Progresso de leitura em `ST.lidas` (`tt_lidas`), marcado pelo botão da barra e contado no topo da aba.
+- O SW precacheia `leituras.js`, `_leitura.css` e `_leitura.js`; as leituras em si entram no cache
+  sob demanda pela regra stale-while-revalidate.
+
+### Anatomia de uma leitura (manter o padrão)
+`faixaTopo` → `kicker` (eixo do edital + tempo) → `h1` → `dek` com selo `.peso` → `nav.toc` fixo →
+seções numeradas → caixas `.cx` (`.fonte` azul, `.chave` verde, `.armadilha` vermelha) → tabelas de
+corte dentro de `.rolagem` → "Armadilhas consolidadas" → "Autoteste" com `<details>` → `footer` com as
+**fontes primárias numeradas** → botão `.vaiQuestoes`.
+
+**Regra de contraste**: âmbar `--brand` NÃO passa em texto sobre papel (2,2:1). Para texto âmbar no
+tema claro usar sempre `--brandInk`, que no escuro já resolve para o próprio `--brand`. Pego pela
+auditoria por DOM — que precisou de parser para `color(srgb r g b / a)`, formato que o `color-mix()`
+devolve e que um parser ingênuo de `rgb()` lê como quase preto (falso positivo em massa).
+
+### Estado das leituras
+5 publicadas, ~11 mil palavras, todas com fonte primária conferida:
+aptidão física e mental · toxicológico do art. 148-A · álcool e direção · oftalmo/ORL (Anexos II–IV) ·
+falha de atenção e celular. **Faltam ~16 temas** — próximas prioridades por peso: neurológica
+(Anexos VIII/IX + diretriz de epilepsia 2025), cardiorrespiratória (Anexos V–VII), sono/SAOS
+(Anexos X–XII), locomotor/PcD (NBR 14970 + Anexo XV) e trauma/APH.
+
+⚠️ Os **anexos da Resolução 927** não estão em `docs/` (só o corpo). O PDF dos anexos precisa ser
+rebaixado antes de escrever as leituras que dependem deles.
+
 ## Rigor de conteúdo (o ponto mais importante)
 Prova de legislação e norma técnica: **fato errado é o pior defeito possível**. Regras:
 - Toda questão tem campo **`base`** com a norma/diretriz que a ancora — e o validador derruba o

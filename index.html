@@ -121,7 +121,7 @@ select{max-width:100%}
 .linha>select,.linha>input[type=text],.linha>input[type=search]{flex:1 1 170px;min-width:0}
 
 /* ---------- botões ---------- */
-.btn{display:inline-flex;align-items:center;gap:7px;background:var(--brand);color:var(--onBrand);border-radius:var(--r3);padding:10px 17px;font-weight:650;font-size:14px;min-height:42px;transition:background var(--t),transform var(--t),box-shadow var(--t);box-shadow:0 1px 2px rgba(24,27,33,.14)}
+.btn{display:inline-flex;align-items:center;gap:7px;background:var(--brand);color:var(--onBrand);border-radius:var(--r3);padding:10px 17px;font-weight:650;font-size:14px;min-height:44px;transition:background var(--t),transform var(--t),box-shadow var(--t);box-shadow:0 1px 2px rgba(24,27,33,.14)}
 .btn:hover{background:var(--brand2);color:#fff}
 :root[data-tema=escuro] .btn:hover{color:var(--onBrand)}
 .btn.fant{background:var(--pan);border:1px solid var(--line);color:var(--ink2);font-weight:550;box-shadow:none}
@@ -215,6 +215,31 @@ tr.clic:hover{background:var(--brandBg)}
 #tbErros textarea{resize:vertical;min-height:34px}
 #tbErros input:focus,#tbErros textarea:focus{background:var(--brandBg);outline:1px solid var(--brand);box-shadow:none}
 
+/* ---------- leitura ---------- */
+.grupoLei{display:flex;align-items:baseline;gap:10px;font-family:var(--fD);font-weight:700;font-size:13px;
+  letter-spacing:-.01em;margin:22px 0 10px;padding-bottom:7px;border-bottom:1px solid var(--line)}
+.grupoLei small{font-family:var(--fB);font-weight:400;font-size:12px;color:var(--mut);letter-spacing:0}
+.leiLin{display:flex;gap:13px;align-items:flex-start;width:100%;text-align:left;background:var(--pan);
+  border:1px solid var(--line);border-radius:var(--r);padding:14px 15px;margin-bottom:10px;
+  box-shadow:var(--sh);transition:border-color var(--t),background var(--t)}
+.leiLin:hover{border-color:var(--brand);background:var(--pan3)}
+.leiMarca{flex:none;width:34px;height:34px;border-radius:9px;display:grid;place-items:center;
+  background:var(--pan2);color:var(--mut);border:1px solid var(--line)}
+.leiLin.lida .leiMarca{background:var(--ok);border-color:var(--ok);color:#fff}
+.leiTxt{display:flex;flex-direction:column;gap:5px;min-width:0}
+.leiTopo{display:flex;gap:6px;flex-wrap:wrap}
+.leiTxt .tit{font-family:var(--fD);font-weight:700;font-size:15.5px;letter-spacing:-.015em;line-height:1.25}
+.leiLin.lida .leiTxt .tit{color:var(--mut)}
+@media(max-width:620px){.soAmplo{display:none}.leiBarra .btn{padding:9px 12px;font-size:13px}}
+.leiBarra{position:sticky;top:calc(var(--hAlt,96px));z-index:30;margin-bottom:10px;padding:10px 12px}
+.leiBarra .leiNome{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.leiBarra .btn{min-height:44px;padding:9px 13px;font-size:13.5px}
+/* altura definida em JS (ajustaQuadro) para o leitor ocupar a tela exata e
+   NÃO existirem duas áreas de rolagem concorrentes — só a de dentro da leitura */
+#leiQuadro{display:block;width:100%;height:60vh;min-height:320px;border:1px solid var(--line);
+  border-radius:var(--r);background:var(--pan);box-shadow:var(--sh)}
+body.lendo main{padding-bottom:12px}
+@media(max-width:620px){.leiBarra .leiNome{display:none}}
 /* ---------- teórico-prática ---------- */
 .casoLin{display:flex;gap:11px;align-items:center;width:100%;text-align:left;border:1px solid var(--line);border-radius:var(--r2);padding:13px 14px;margin-bottom:9px;background:var(--pan);transition:border-color var(--t),background var(--t)}
 .casoLin:hover{border-color:var(--brand);background:var(--pan3)}
@@ -272,6 +297,7 @@ textarea{min-height:80px}
   <section id="sec-questoes"></section>
   <section id="sec-simulado"></section>
   <section id="sec-pratica"></section>
+  <section id="sec-leitura"></section>
   <section id="sec-painel"></section>
   <section id="sec-cartoes"></section>
   <section id="sec-erros"></section>
@@ -283,6 +309,7 @@ textarea{min-height:80px}
 <script src="banco.js"></script>
 <script src="flash.js"></script>
 <script src="pratica.js"></script>
+<script src="leituras.js"></script>
 <script>
 "use strict";
 /* ================== TráfegoTítulo v1 ================== */
@@ -430,7 +457,7 @@ function carregaEstado(){
     flash:ARM.load("tt_flash",{}), erros:ARM.load("tt_erros",[]), plano:ARM.load("tt_plano",[]),
     meta:ARM.load("tt_meta",{}), cfg:ARM.load("tt_cfg",{}), sim:ARM.load("tt_sim",[]),
     simativo:ARM.load("tt_simativo",null), pos:ARM.load("tt_pos",{}), treino:ARM.load("tt_treino",{}),
-    atividade:ARM.load("tt_atividade",{})
+    atividade:ARM.load("tt_atividade",{}), lidas:ARM.load("tt_lidas",{})
   };
 }
 function atividade(n){const d=dataISO();ST.atividade[d]=(ST.atividade[d]||0)+n;ARM.save("tt_atividade",ST.atividade)}
@@ -448,6 +475,7 @@ const ABAS=[
   ["questoes","Questões",'<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/>'],
   ["simulado","Simulado",'<circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6"/>'],
   ["pratica","Prática",'<path d="M4 4h11l5 5v11a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1z"/><path d="M14 4v6h6M8 14h6M8 17.5h4"/>'],
+  ["leitura","Leitura",'<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><path d="M9 7h7M9 11h5"/>'],
   ["painel","Painel",'<path d="M3 3v18h18M7 14v4M12 10v8M17 6v12"/>'],
   ["cartoes","Cartões",'<rect x="2" y="6" width="16" height="12" rx="2"/><path d="M22 4v12M6 10h8M6 14h5"/>'],
   ["erros","Erros",'<path d="M12 9v4M12 17h.01M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/>'],
@@ -462,14 +490,112 @@ function montaAbas(){
 }
 function irAba(id,semHash){
   abaAtual=id;
+  if(id!=="leitura"){LEI.aberta=null;document.body.classList.remove("lendo")}
   document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.aba===id));
   document.querySelectorAll("main section").forEach(s=>s.classList.toggle("on",s.id==="sec-"+id));
   if(!semHash&&location.hash!=="#"+id)history.replaceState(null,"","#"+id);
   ST.pos.aba=id;ARM.save("tt_pos",ST.pos);
-  ({questoes:montaQuestoes,simulado:montaSimulado,pratica:montaPratica,painel:montaPainel,
+  ({questoes:montaQuestoes,simulado:montaSimulado,pratica:montaPratica,leitura:montaLeitura,painel:montaPainel,
     cartoes:montaCartoes,erros:montaErros,plano:montaPlano,ajustes:montaAjustes}[id]||(()=>{}))();
 }
 addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(ABAS.some(a=>a[0]===h))irAba(h,true)});
+
+/* ================== LEITURA ================== */
+const LEI={aberta:null};
+
+function montaLeitura(){
+  if(LEI.aberta)return desenhaLeitura();
+  const sec=$("#sec-leitura");
+  const lidas=Object.keys(ST.lidas).length, total=LEITURAS.filter(i=>i.f).length;
+  const min=LEITURAS.filter(i=>i.f).reduce((a,i)=>a+(i.min||0),0);
+  let html=`
+  <div class="cartao">
+    <h2>Resumos para leitura</h2>
+    <p class="peq mut">Sínteses de estudo escritas a partir da fonte primária — CTB, resoluções do CONTRAN e diretrizes da ABRAMET. Cada uma traz as tabelas de corte, as armadilhas consolidadas, um autoteste e as fontes no rodapé. Marque como lida para acompanhar a cobertura.</p>
+    <div class="linha" style="margin-top:12px">
+      <span class="chip">${lidas}/${total} lidas</span>
+      <span class="chip">~${min} min no total</span>
+      ${lidas?`<button class="btn fant peq" id="leiZerar" style="margin-left:auto">Zerar marcações</button>`:""}
+    </div>
+  </div>`;
+  LEITURAS.forEach(it=>{
+    if(it.grupo){
+      html+=`<h2 class="grupoLei">${esc(it.grupo)}${it.sub?`<small>${esc(it.sub)}</small>`:""}</h2>`;
+      return;
+    }
+    const lida=!!ST.lidas[it.f];
+    const tema=TAXONOMIA.find(t=>t.id===it.area);
+    html+=`
+    <button class="leiLin${lida?" lida":""}" data-f="${esc(it.f)}">
+      <span class="leiMarca" aria-hidden="true">${lida?ICO_CHECK:ICO_LIVRO}</span>
+      <span class="leiTxt">
+        <span class="leiTopo"><span class="chip">${esc(it.tipo)}</span><span class="chip">${it.min} min</span>${tema?`<span class="chip">${esc(tema.nome)}</span>`:""}</span>
+        <span class="tit">${esc(it.t)}</span>
+        <span class="peq mut">${esc(it.s)}</span>
+      </span>
+    </button>`;
+  });
+  sec.innerHTML=html;
+  sec.querySelectorAll(".leiLin").forEach(b=>b.onclick=()=>{LEI.aberta=b.dataset.f;desenhaLeitura()});
+  const z=$("#leiZerar");
+  if(z)z.onclick=()=>{ST.lidas={};ARM.save("tt_lidas",ST.lidas);montaLeitura()};
+}
+
+const ICO_LIVRO='<svg class="ic" viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>';
+const ICO_NOVA='<svg class="ic" viewBox="0 0 24 24"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6M10 14 21 3"/></svg>';
+const ICO_CHECK='<svg class="ic" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg>';
+
+function temaAtual(){
+  const t=document.documentElement.dataset.tema;
+  if(t)return t;
+  return matchMedia("(prefers-color-scheme: dark)").matches?"escuro":"claro";
+}
+
+function desenhaLeitura(){
+  const it=LEITURAS.find(x=>x.f===LEI.aberta);
+  if(!it){LEI.aberta=null;return montaLeitura()}
+  const lida=!!ST.lidas[it.f];
+  const url=`leituras/${it.f}?tema=${temaAtual()}`;
+  $("#sec-leitura").innerHTML=`
+  <div class="cartao leiBarra">
+    <div class="linha">
+      <button class="btn fant" id="leiVolta">‹ <span class="soAmplo">Todas as </span>leituras</button>
+      <span class="mut peq leiNome">${esc(it.t)}</span>
+      <button class="btn ${lida?"fant":""}" id="leiLida" style="margin-left:auto">${lida?"✓ Lida":'Marcar <span class="soAmplo">como </span>lida'}</button>
+      <a class="btn fant" href="leituras/${esc(it.f)}?tema=${temaAtual()}" target="_blank" rel="noopener" title="Abrir em nova aba" aria-label="Abrir a leitura em nova aba">${ICO_NOVA}</a>
+    </div>
+  </div>
+  <iframe id="leiQuadro" title="${esc(it.t)}" src="${url}"></iframe>`;
+  document.body.classList.add("lendo");
+  ajustaQuadro();
+  $("#leiVolta").onclick=()=>{LEI.aberta=null;document.body.classList.remove("lendo");montaLeitura();window.scrollTo(0,0)};
+  $("#leiLida").onclick=()=>{
+    if(ST.lidas[it.f])delete ST.lidas[it.f];
+    else{ST.lidas[it.f]=dataISO();atividade(1)}
+    ARM.save("tt_lidas",ST.lidas);desenhaLeitura();
+  };
+  window.scrollTo(0,0);
+}
+
+/* o app avisa a leitura aberta quando o tema muda */
+/* o leitor ocupa a altura exata que sobra: a página do app não rola, só a leitura */
+function ajustaQuadro(){
+  const q=$("#leiQuadro"); if(!q)return;
+  /* janela ainda sem altura (painel oculto, layout não assentado): tenta de novo
+     no próximo quadro em vez de travar o leitor na altura mínima */
+  if(!window.innerHeight){requestAnimationFrame(ajustaQuadro);return}
+  const topo=q.getBoundingClientRect().top+window.scrollY;
+  const h=Math.max(320, window.innerHeight - topo - 14);
+  q.style.height=h+"px";
+}
+addEventListener("resize",()=>{if(LEI.aberta)ajustaQuadro()});
+addEventListener("orientationchange",()=>{if(LEI.aberta)setTimeout(ajustaQuadro,180)});
+document.addEventListener("visibilitychange",()=>{if(LEI.aberta&&!document.hidden)ajustaQuadro()});
+
+function avisaTemaLeitura(v){
+  const q=$("#leiQuadro");
+  if(q&&q.contentWindow)try{q.contentWindow.postMessage({tt:"tema",v},"*")}catch(e){}
+}
 
 /* ================== QUESTÕES ================== */
 const QST={lista:[],idx:0,respondida:false,selecionada:null};
@@ -1280,6 +1406,7 @@ function iniciaTema(){
     document.documentElement.dataset.tema=novo;
     try{localStorage.setItem("tt_tema",novo)}catch(e){}
     pintaBotaoTema();
+    avisaTemaLeitura(novo);
   };
 }
 
@@ -1307,6 +1434,15 @@ function pintaContagem(){
   if(ARM.recuperado)UI.banner("ok",`Dados recuperados do espelho interno (IndexedDB): ${ARM.recuperado.n} chaves, último espelho de ${ARM.recuperado.quando.slice(0,16).replace("T"," ")}. O localStorage tinha sido apagado pelo navegador.`,true);
   if(ARM.persistOK===false)console.warn("storage.persist() negado — comum no iOS; espelho IDB ativo.");
   if(ST.simativo&&!ST.simativo.fim)UI.banner("info","Há um simulado em andamento — retome na aba Simulado.");
+  /* deep link vindo das leituras: ?area=<tema> abre Questões já filtrado */
+  try{
+    const area=new URLSearchParams(location.search).get("area");
+    if(area&&TAXONOMIA.some(t=>t.id===area)){
+      ST.pos.fq={tema:area,status:"todas",real:false};ST.pos.chq=null;
+      ARM.save("tt_pos",ST.pos);
+      history.replaceState(null,"",location.pathname+"#questoes");
+    }
+  }catch(e){}
   const h=location.hash.slice(1);
   irAba(ABAS.some(a=>a[0]===h)?h:(ST.pos.aba&&ABAS.some(a=>a[0]===ST.pos.aba)?ST.pos.aba:"questoes"),false);
   if("serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js")}catch(e){}}
