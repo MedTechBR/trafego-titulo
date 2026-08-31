@@ -147,14 +147,17 @@ auditoria por DOM — que precisou de parser para `color(srgb r g b / a)`, forma
 devolve e que um parser ingênuo de `rgb()` lê como quase preto (falso positivo em massa).
 
 ### Estado das leituras
-5 publicadas, ~11 mil palavras, todas com fonte primária conferida:
+**13 publicadas, ~164 min** (`leituras.js` → `window.LEITURAS`), todas com fonte primária lida:
 aptidão física e mental · toxicológico do art. 148-A · álcool e direção · oftalmo/ORL (Anexos II–IV) ·
-falha de atenção e celular. **Faltam ~16 temas** — próximas prioridades por peso: neurológica
-(Anexos VIII/IX + diretriz de epilepsia 2025), cardiorrespiratória (Anexos V–VII), sono/SAOS
-(Anexos X–XII), locomotor/PcD (NBR 14970 + Anexo XV) e trauma/APH.
+falha de atenção e celular · **cardiorrespiratória** (Anexos V–VII + DCEI) · **neurológica e epilepsia**
+(Anexos VIII/IX + ABRAMET 2025 + Parkinson + EM) · **sono e SAOS** (Anexos X–XII) · **locomotor e PcD**
+(JME/NBR 14970 + Anexo XV) · **APH e trauma** (protocolos SAMU 192 + CTB) · **aeroespacial** (RBAC 67) ·
+**viajante** (CIVP/WRIGHT) · **dano corporal e securitária** (barema da Lei 6.194/1974).
 
-⚠️ Os **anexos da Resolução 927** não estão em `docs/` (só o corpo). O PDF dos anexos precisa ser
-rebaixado antes de escrever as leituras que dependem deles.
+Os 21 temas da taxonomia com leitura são 13. **Faltam 8**: ORL isolado (hoje dentro de oftalmo/ORL),
+drogas e medicamentos, psiquiatria e neurodesenvolvimento, sistêmicas (diabetes/DRC), proteção veicular
+e transporte de crianças, grupos especiais (idoso/gestante/motociclista/ciclista), ocupacional, aquaviária.
+As diretrizes ABRAMET correspondentes já estão baixadas e extraídas (ver abaixo).
 
 ## Rigor de conteúdo (o ponto mais importante)
 Prova de legislação e norma técnica: **fato errado é o pior defeito possível**. Regras:
@@ -165,6 +168,10 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
   seria erro grave. Ler a fonte primária.
 - Fontes primárias já baixadas em `docs/` e usadas na leva 1: Edital 2446, Resolução CONTRAN
   927/2022 (corpo **e** anexos — os critérios clínicos estão só nos anexos, PDF separado).
+  Os dois estão em `docs/`: `contran-res-927-2022.pdf` (corpo) e
+  `contran-res-927-2022-anexos.pdf` (490.177 bytes, 22 anexos, 63 KB de texto por `pdftotext -layout`).
+  URL dos anexos: `.../conteudo-contran/resolucoes/Resolucao9272022ANEXO.pdf` — o gov.br responde
+  **403 a `HEAD`** mas aceita `GET` com `Range:`, então use `chunk2.py` (na raiz do projeto).
 - **Lei nº 15.428/2026** (05/06/2026, conversão da MP 1.327/2025, 51ª alteração do CTB) é o
   achado mais recente e cai fácil: renovação automática pelo RNPC dispensa os procedimentos do
   art. 147 **exceto o exame de aptidão física e mental**; art. 148 §6º passa a exigir perito
@@ -185,9 +192,12 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
 - 24 cartões · 6 casos da teórico-prática
 - Levas 33–36 saíram das diretrizes ABRAMET de drogas ilícitas, telefone celular (FAC),
   condutor idoso e cinto de segurança (+ cinto e gravidez)
-- **Faltam baixar** (o servidor da ABRAMET corta transferências longas): MPPCVA (medicamentos)
-  — único PDF que ainda abre com 0 caracteres. Receita: `chunk2.py`, faixas de bytes de 200 KB.
-- Diretrizes já baixadas E extraídas em `<scratchpad>/fontes/diretrizes`: alcoolemia, animais,
+- **Nada falta baixar.** O MPPCVA (medicamentos) abria com 0 caracteres por **download truncado**,
+  não por PDF de imagem: `curl -skL` completo trouxe 4,6 MB / 42 páginas / 88 KB de texto.
+  `chunk2.py` (na raiz do projeto) baixa por faixas de bytes quando o servidor corta a transferência.
+- ⚠️ As extrações ficam no **scratchpad da sessão, que é apagado**. O catálogo durável de fontes
+  (URLs, peculiaridades de cada servidor, o que já está versionado) está em **`docs/FONTES.md`** —
+  consultar ali antes de sair caçando link. Diretrizes disponíveis: alcoolemia, animais,
   benzodiazepínicos, bicicletas, celular, cinto_gravidez, cinto_seguranca, crianca_ambulancia,
   crianca_pt1/pt2, dcei_cardiaco, diabetes, drc_dialitica, drogas_efeitos, epilepsia2025,
   esclerose_multipla, esquizofrenia, gravidez_puerperio, idoso, parkinson, tdah, tea,
