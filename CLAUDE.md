@@ -69,6 +69,31 @@ O script de contraste usado está no histórico da sessão: percorre `body *`, c
 `color` e o primeiro fundo opaco ancestral, e reporta o que fica abaixo do mínimo — repetindo para os
 8 painéis nos dois temas. Rodar sempre que mexer em cor. Resultado exigido: `{}`.
 
+## Ordem das questões (25/08/2026)
+Reclamação dele: "estão vindo somente questões do mesmo tema em sequência". Eram DOIS defeitos:
+
+1. **A ordem crua do banco é temática.** `monta_banco.py` concatena leva a leva e cada leva é de um
+   tema só — medido na ordem antiga: **16 questões seguidas** do mesmo tema e **342 dos 503 pares
+   adjacentes** iguais (68%).
+2. **`sort(() => Math.random() - 0.5)` não embaralha.** O comparador é inconsistente e o TimSort do V8
+   deixa o começo do vetor sobrerrepresentado — medido: as 50 primeiras posições saíam **3.918 vezes
+   do 1º terço contra 2.666 do último** (esperado 3.333 cada). Estava em DOIS lugares, e o pior era o
+   **sorteio do simulado**, que puxava para os temas das primeiras levas.
+
+Correção:
+- `embaralha(a)` = **Fisher-Yates** no lugar (verificado: 6648/6681/6671 por terço, esperado 6667).
+- `espalhaTemas(lista)` = a cada passo sorteia o próximo tema **ponderado pelo que resta**, proibindo
+  repetir o tema anterior. Resultado em 40 execuções sobre as 504: **0,15 pares adjacentes iguais por
+  execução**, maior sequência 3, e **13,2 temas distintos nas 20 primeiras** (era 1).
+  ⚠️ A primeira versão pegava sempre o tema com MAIS restantes (determinística) e degenerava em
+  pingue-pongue entre os dois maiores — só 3 temas distintos nas 20 primeiras. O sorteio ponderado é
+  o que dá variedade; não voltar para o determinístico.
+- A ordem é **persistida** em `ST.pos.ordq` + `ST.pos.assq` (assinatura do filtro): navegar entre abas
+  e recarregar não reembaralha, e "continuar de onde parei" (`ST.pos.chq`) segue funcionando. Trocar o
+  filtro ou clicar no botão de embaralhar refaz a ordem.
+- O simulado passou a sortear com Fisher-Yates e a ordenar a prova com `espalhaTemas`
+  (desvio máximo por tema caiu para ±7%, ruído de amostragem).
+
 ## As armadilhas herdadas (defesas implementadas — manter)
 1. **Progresso por chave de conteúdo, nunca por índice**: `chaveQ(q)` = djb2+FNV com `Math.imul`
    sobre o enunciado normalizado. Réplica Python em `valida_banco.py`. Chave órfã é descartada

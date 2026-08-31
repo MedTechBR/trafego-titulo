@@ -597,13 +597,68 @@ function avisaTemaLeitura(v){
   if(q&&q.contentWindow)try{q.contentWindow.postMessage({tt:"tema",v},"*")}catch(e){}
 }
 
+/* ---------- ordem das questões ----------
+   Dois defeitos corrigidos aqui:
+   1) o banco é montado leva a leva e cada leva é temática — na ordem crua havia até
+      16 questões seguidas do mesmo tema (342 dos 503 pares adjacentes);
+   2) `sort(()=>Math.random()-0.5)` NÃO embaralha de verdade: o comparador é
+      inconsistente e o TimSort do V8 deixa o começo do vetor sobrerrepresentado
+      (medido: as 50 primeiras posições saíam 47% mais do 1º terço que do último).
+      Isso enviesava sobretudo o SORTEIO DO SIMULADO. */
+
+/* Fisher-Yates — permutação uniforme, no lugar */
+function embaralha(a){
+  for(let i=a.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
+  return a;
+}
+
+/* Espalha os temas: a cada passo tira do tema com MAIS questões restantes, evitando
+   repetir o tema anterior. Só repete quando é matematicamente inevitável (um tema
+   com mais da metade do que sobrou). Dentro do tema, a ordem é aleatória. */
+function espalhaTemas(lista){
+  const grupos=new Map();
+  lista.forEach(q=>{
+    const k=q.tema||"_";
+    if(!grupos.has(k))grupos.set(k,[]);
+    grupos.get(k).push(q);
+  });
+  grupos.forEach(v=>embaralha(v));
+  const out=[]; let anterior=null;
+  while(out.length<lista.length){
+    /* sorteio PONDERADO pelo que resta de cada tema, proibindo repetir o anterior.
+       Pegar sempre o maior (versão determinística) produzia pingue-pongue entre os
+       dois temas mais numerosos — só 3 temas distintos nas 20 primeiras. Com o
+       sorteio ponderado os temas ficam espalhados E variados, e ainda assim todos
+       se esgotam junto no fim. */
+    const cand=[]; let peso=0;
+    grupos.forEach((v,k)=>{ if(v.length&&k!==anterior){cand.push([k,v.length]);peso+=v.length} });
+    let escolhido=null;
+    if(cand.length){
+      let r=Math.random()*peso;
+      for(const [k,n] of cand){ r-=n; if(r<=0){escolhido=k;break} }
+      if(escolhido===null)escolhido=cand[cand.length-1][0];
+    }else{
+      grupos.forEach((v,k)=>{ if(v.length)escolhido=k });   // só sobrou o anterior
+    }
+    out.push(grupos.get(escolhido).pop());
+    anterior=escolhido;
+  }
+  return out;
+}
+
+/* assinatura do filtro: muda o filtro, refaz a ordem */
+function assinaturaQ(f,n){return [f.tema,f.status,f.real?1:0,n].join("|")}
+
 /* ================== QUESTÕES ================== */
 const QST={lista:[],idx:0,respondida:false,selecionada:null};
 function filtrosQ(){
   const f=ST.pos.fq||{};
   return {tema:f.tema||"",status:f.status||"todas",real:!!f.real};
 }
-function aplicaFiltroQ(){
+function aplicaFiltroQ(refazOrdem){
   const f=filtrosQ();
   QST.lista=BANCO.filter(q=>{
     if(f.tema&&q.tema!==f.tema)return false;
@@ -614,6 +669,25 @@ function aplicaFiltroQ(){
     if(f.status==="favoritas"&&!ST.fav[q._ch])return false;
     return true;
   });
+  ordenaQuestoes(f,refazOrdem);
+}
+
+/* Mantém a MESMA ordem enquanto o filtro não muda (navegar e recarregar não
+   reembaralham), mas com os temas espalhados desde a primeira abertura. */
+function ordenaQuestoes(f,refazOrdem){
+  const ass=assinaturaQ(f,QST.lista.length);
+  const salva=ST.pos.ordq;
+  if(!refazOrdem&&ST.pos.assq===ass&&Array.isArray(salva)){
+    const porCh=new Map(QST.lista.map(q=>[q._ch,q]));
+    const ord=[];
+    salva.forEach(ch=>{const q=porCh.get(ch);if(q){ord.push(q);porCh.delete(ch)}});
+    if(porCh.size)espalhaTemas([...porCh.values()]).forEach(q=>ord.push(q)); // questões novas do banco
+    if(ord.length===QST.lista.length){QST.lista=ord;return}
+  }
+  QST.lista=espalhaTemas(QST.lista);
+  ST.pos.assq=ass;
+  ST.pos.ordq=QST.lista.map(q=>q._ch);
+  ARM.save("tt_pos",ST.pos);
 }
 function montaQuestoes(){
   const f=filtrosQ();
@@ -630,14 +704,14 @@ function montaQuestoes(){
         <option value="favoritas" ${f.status==="favoritas"?"selected":""}>Favoritas</option>
       </select>
       <label class="linha peq mut" style="gap:5px"><input type="checkbox" id="fqReal" ${f.real?"checked":""}> só prova real</label>
-      <button class="btn fant" id="fqEmbaralha" title="Embaralhar"><svg class="ic" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
+      <button class="btn fant" id="fqEmbaralha" title="Reembaralhar (temas espalhados)" aria-label="Reembaralhar as questões"><svg class="ic" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
     </div>
   </div>
   <div id="qCorpo"></div>`;
   $("#fqTema").onchange=e=>{ST.pos.fq={...filtrosQ(),tema:e.target.value};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
   $("#fqStatus").onchange=e=>{ST.pos.fq={...filtrosQ(),status:e.target.value};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
   $("#fqReal").onchange=e=>{ST.pos.fq={...filtrosQ(),real:e.target.checked};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
-  $("#fqEmbaralha").onclick=()=>{QST.lista.sort(()=>Math.random()-0.5);QST.idx=0;desenhaQuestao()};
+  $("#fqEmbaralha").onclick=()=>{aplicaFiltroQ(true);QST.idx=0;ST.pos.chq=null;ARM.save("tt_pos",ST.pos);desenhaQuestao()};
   aplicaFiltroQ();
   // continuar de onde parei — por CHAVE, nunca por índice
   if(ST.pos.chq){const i=QST.lista.findIndex(q=>q._ch===ST.pos.chq);if(i>=0)QST.idx=i}
@@ -764,7 +838,7 @@ function montaSimulado(){
     const n=+$("#simN").value||50, min=+$("#simMin").value||110, tema=$("#simTema").value;
     let pool=BANCO.filter(q=>!tema||q.tema===tema);
     if(pool.length<n)$("#simAviso").textContent=`Só há ${pool.length} questões nesse filtro — o simulado vai usar todas.`;
-    const qs=pool.sort(()=>Math.random()-0.5).slice(0,n).map(q=>q._ch);
+    const qs=espalhaTemas(embaralha(pool.slice()).slice(0,n)).map(q=>q._ch);
     if(!qs.length)return;
     ST.simativo={qs,resp:{},ini:Date.now(),min,pos:0};
     ARM.save("tt_simativo",ST.simativo);
@@ -1451,7 +1525,7 @@ function pintaContagem(){
 })();
 
 /* ganchos de teste (verificação por DOM) */
-window.__tt={get ST(){return ST},ARM,chaveQ,chaveTxt,QIDX,irAba,registraResposta,V,escuroAgora,pintaContagem};
+window.__tt={get ST(){return ST},ARM,chaveQ,chaveTxt,QIDX,irAba,registraResposta,V,escuroAgora,pintaContagem,embaralha,espalhaTemas,get QST(){return QST}};
 </script>
 </body>
 </html>
