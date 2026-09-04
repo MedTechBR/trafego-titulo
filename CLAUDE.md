@@ -102,6 +102,13 @@ Correção:
    backups rotativos, recuperação automática por canário (`tt_canary`), exportar/importar em
    Ajustes. `load()` que falha TRAVA a gravação da chave. **Testado**: `localStorage.clear()` +
    reload restaurou 7 chaves com faixa verde.
+   ⚠️ **O prefixo mora só em `PREF`** (`const PREF="tt_"`), e `TTKEYS` é derivado dele. Este ARM veio
+   copiado do RadioTítulo com `"rt_"` **escrito no código** em `listaBackups()` e `restaura()`: a lista
+   de backups dizia sempre "0 chaves" e o botão restaurar não devolvia nada — em silêncio, que é
+   exatamente a falha que o ARM existe para impedir. Corrigido em 04/09/2026 (e o mesmo `PREF` foi
+   aplicado no RadioTítulo, para a próxima cópia não reintroduzir o defeito). Nunca escrever o
+   prefixo literal. `tt_lidas` (progresso das leituras) também estava **fora** de `TTKEYS`, então não
+   entrava em snapshot, espelho nem exportar/importar; ao criar chave nova, incluir em `TTKEYS`.
 3. **Viés de tamanho**: todas as alternativas entre 95–108% do comprimento da correta; distrator
    erra por CONTEÚDO. Quando a correta fica longa demais, **encurtar a correta** — não inflar os
    distratores. `valida_banco.py` derruba o build fora do intervalo.

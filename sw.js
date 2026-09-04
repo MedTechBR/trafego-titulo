@@ -1,7 +1,7 @@
 /* TráfegoTítulo — service worker.
    REGRA DE DEPLOY: bumpar CACHE a CADA deploy (tt-v2, tt-v3...) — sem isso o usuário
    fica preso na versão velha e qualquer correção vira fantasma. */
-const CACHE = 'tt-v8';
+const CACHE = 'tt-v9';
 const FONTES = 'tt-fontes-v1';
 const NUCLEO = [
   './', 'index.html',

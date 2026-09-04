@@ -353,7 +353,11 @@ const UI={
 };
 
 /* ---------- 2.2 blindagem de armazenamento ---------- */
-const TTKEYS=["tt_resp","tt_riscos","tt_fav","tt_flash","tt_erros","tt_plano","tt_meta","tt_cfg","tt_sim","tt_simativo","tt_pos","tt_treino","tt_atividade","tt_syncmeta"];
+// PREF e a UNICA fonte do prefixo: TTKEYS deriva dele e listaBackups/restaura filtram por ele.
+// (Este ARM veio do RadioTitulo com "rt_" fixo no codigo: a lista de backups dizia 0 chaves e
+//  restaurar nao devolvia nada, em silencio. Nao voltar a escrever o prefixo literal.)
+const PREF="tt_";
+const TTKEYS=["resp","riscos","fav","flash","erros","plano","meta","cfg","sim","simativo","pos","treino","atividade","lidas","syncmeta"].map(s=>PREF+s);
 const ARM={
   db:null, travas:{}, persistOK:null, tsBackup:0, recuperado:null,
   async boot(){
@@ -425,7 +429,7 @@ const ARM={
     try{const out=[],cur=this.db.transaction("backups","readonly").objectStore("backups").openCursor();
       cur.onsuccess=()=>{const c=cur.result;
         if(c){out.push({id:c.key,quando:c.value.__quando,motivo:c.value.__motivo,
-          n:Object.keys(c.value).filter(k=>k.startsWith("rt_")).length});c.continue()}
+          n:Object.keys(c.value).filter(k=>k.startsWith(PREF)).length});c.continue()}
         else res(out.reverse())};
       cur.onerror=()=>res([]);
     }catch(e){res([])} }) },
@@ -433,7 +437,7 @@ const ARM={
     try{const rq=this.db.transaction("backups","readonly").objectStore("backups").get(id);
       rq.onsuccess=async()=>{const foto=rq.result;if(!foto)return res(false);
         await this.snapshot("antes-de-restaurar");
-        Object.keys(foto).filter(k=>k.startsWith("rt_")).forEach(k=>{try{localStorage.setItem(k,foto[k])}catch(e){}});
+        Object.keys(foto).filter(k=>k.startsWith(PREF)).forEach(k=>{try{localStorage.setItem(k,foto[k])}catch(e){}});
         res(true)};
       rq.onerror=()=>res(false);
     }catch(e){res(false)} }) },
