@@ -1,13 +1,13 @@
 /* TráfegoTítulo — service worker.
    REGRA DE DEPLOY: bumpar CACHE a CADA deploy (tt-v2, tt-v3...) — sem isso o usuário
    fica preso na versão velha e qualquer correção vira fantasma. */
-const CACHE = 'tt-v9';
+const CACHE = 'tt-v10';
 const FONTES = 'tt-fontes-v1';
 const NUCLEO = [
   './', 'index.html',
   'banco.js', 'taxonomia.js', 'flash.js', 'pratica.js', 'leituras.js',
   'leituras/_leitura.css', 'leituras/_leitura.js',
-  'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png'
+  'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png'
 ];
 
 self.addEventListener('install', e => {
