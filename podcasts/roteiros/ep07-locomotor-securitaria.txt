@@ -1,0 +1,59 @@
+# 7. Aparelho locomotor, pessoa com deficiência e dano corporal
+A: Episódio sete. Dois eixos que se tocam: a avaliação do aparelho locomotor com a pessoa com deficiência, e o dano corporal na medicina securitária.
+B: Se tocam porque nos dois casos você não avalia o diagnóstico. Avalia a função, e o que ela permite ou impede.
+[PAUSA 1]
+A: Bloco um. O aparelho locomotor no exame de aptidão.
+B: Lembre que é a única das seis avaliações específicas do artigo 4º que não tem anexo. O critério está no texto da alínea e.
+A: Ela manda explorar a integridade e a funcionalidade de cada membro e da coluna vertebral, buscando constatar a existência de malformações, agenesias ou amputações, assim como o grau de amplitude articular dos movimentos.
+B: E a finalidade da amplitude articular é concreta, não acadêmica: verificar se o candidato executa os movimentos que a condução exige. Girar o volante em toda a excursão, alcançar e acionar os pedais, operar câmbio e comandos.
+A: E, sobretudo, rotacionar a coluna cervical para checar pontos cegos e fazer manobra de ré. Limitação cervical é frequentemente subestimada e tem repercussão direta na segurança.
+B: A sala do exame, aliás, tem dimensão mínima de 4 vírgula 5 por 3 metros com auxílio de espelhos exatamente para permitir observar marcha e movimento.
+[PAUSA 1]
+A: Bloco dois. O candidato com deficiência física.
+B: Artigo 4º, parágrafo 1º: o exame será realizado por Junta Médica Especial designada pelo Diretor do órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal.
+A: E o parágrafo 2º: as Juntas Médicas Especiais, ao examinarem candidatos com deficiência física, seguirão o determinado na NBR 14970 da ABNT.
+B: A NBR 14970 trata da avaliação da dirigibilidade, das adaptações e da acessibilidade veicular. Não confunda com a NBR 9050, que é acessibilidade de edificações e é exigida das instalações da entidade credenciada.
+A: A avaliação psicológica desse candidato, pelo artigo 7º, é realizada de acordo com as suas condições físicas. Adapta-se instrumento, forma de resposta e tempo, para medir o processo psíquico e não a limitação motora.
+B: E o resultado, quando há adaptação veicular ou restrição ao condutor, é apto com restrições, com os códigos do Anexo XV registrados na CNH.
+A: Aqui vale a distinção conceitual que a prova cobra: restrição e adaptação não são a mesma coisa. Restrição limita o que o condutor pode fazer. Adaptação modifica o veículo para que ele possa fazer.
+[PAUSA 1]
+B: Bloco três. Dano corporal. E comece pelo vocabulário, porque é o que mais cai.
+A: Baremo é a tabela que atribui percentuais a sequelas para fins de graduação da invalidez. É instrumento de enquadramento, não de diagnóstico.
+B: E o objeto da avaliação do dano corporal não é tratar nem diagnosticar: é descrever a sequela, estabelecer o nexo causal com o evento e graduar a repercussão, dentro dos quesitos formulados.
+A: Consolidação das lesões é o momento em que o quadro se estabiliza e não se espera mais modificação relevante com tratamento. Avaliar antes da consolidação é erro técnico, porque a sequela ainda pode mudar.
+B: E reabilitação em curso indica justamente que ainda não houve consolidação.
+A: Invalidez permanente parcial completa e incompleta: completa é a perda total da função ou do segmento previsto na tabela; incompleta é a perda parcial, que exige graduação proporcional.
+B: E a graduação da invalidez permanente parcial incompleta no DPVAT segue percentuais escalonados: 75, 50, 25 e 10 por cento, conforme a intensidade da repercussão seja intensa, média, leve ou residual.
+A: As coberturas do DPVAT: 13 mil e 500 reais por morte, até 13 mil e 500 por invalidez permanente, e até 2 mil e 700 para despesas de assistência médica e suplementares.
+B: E a mudança recente, que cai: o SPVAT foi extinto. A Lei Complementar 211, de 30 de dezembro de 2024, revogou a Lei Complementar 207, de 2024.
+A: Mais uma regra prática que aparece: é vedado o reembolso de despesas quando o atendimento foi prestado pelo SUS. O SUS não indeniza duas vezes o mesmo custo.
+[PAUSA 1]
+B: Bloco quatro. Os limites da conclusão pericial. Este bloco vale pontos porque testa postura, não decoreba.
+A: Primeira regra: o perito responde aos quesitos dentro da sua competência. Quesito que pede valor de indenização, ou que pede juízo jurídico sobre culpa, está fora da competência médica.
+B: E a conduta correta não é inventar resposta razoável. É consignar que o quesito escapa à competência técnica do perito, e explicar por quê.
+A: Segunda: incapacidade laborativa e invalidez não são sinônimos. Incapacidade laborativa se refere ao exercício de uma atividade determinada; invalidez, no sentido securitário, se refere à perda anatômica ou funcional enquadrada na tabela.
+B: A mesma sequela pode gerar incapacidade laborativa intensa e invalidez tabelada pequena, ou o contrário. Confundir as duas é erro clássico.
+A: Terceira: dano estético e dano funcional são campos distintos e podem coexistir. O dano estético se descreve pela repercussão social e pessoal da alteração, e também exige graduação fundamentada.
+B: Quarta: a discrepância entre a queixa do periciando e o achado objetivo precisa ser descrita, não escondida nem simplesmente tratada como simulação. Descreve-se o que se observou, e fundamenta-se a conclusão.
+A: Quinta: nexo causal exige avaliar preexistência. Uma lesão anterior ao evento não deixa de existir porque o evento aconteceu, e o laudo deve separar o que é agravamento do que já estava lá.
+B: E sobre o conteúdo do relatório pericial: identificação, histórico, exame físico, exames complementares, discussão do nexo, descrição da sequela e graduação fundamentada. Conclusão sem o raciocínio que a sustenta não é laudo, é opinião.
+A: Repare como esse princípio se repete na especialidade inteira. No exame clínico do álcool, no dano corporal, na aptidão: descrever o achado é o que sustenta a conclusão.
+[PAUSA 1]
+B: Armadilhas do episódio.
+A: Aparelho locomotor é a única avaliação específica sem anexo.
+B: NBR 14970 é dirigibilidade e adaptação veicular. NBR 9050 é edificação.
+A: Junta Médica Especial, para deficiência física, é designada pelo Diretor do órgão de trânsito.
+B: Baremo é tabela de graduação, não de diagnóstico.
+A: Avaliar antes da consolidação é erro. Reabilitação em curso indica que ainda não consolidou.
+B: Graduação do DPVAT: 75, 50, 25 e 10 por cento.
+A: Coberturas: 13.500 morte, até 13.500 invalidez, até 2.700 em despesas médicas.
+B: SPVAT extinto pela Lei Complementar 211, de 2024.
+A: Incapacidade laborativa não é invalidez tabelada.
+B: E quesito fora da competência se consigna como tal, não se responde por bom senso.
+[PAUSA 2]
+A: Rodada rápida.
+[RAPIDA tema=locomotor n=5 semente=73]
+[RAPIDA tema=securitaria n=7 semente=79]
+[PAUSA 1]
+B: Três para levar: NBR 14970 é o veículo, NBR 9050 é o prédio; consolidação antes de graduar; e quesito fora da competência não se responde.
+A: No próximo episódio: proteção veicular e grupos vulneráveis. Até lá.

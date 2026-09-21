@@ -1,0 +1,75 @@
+# 6. Avaliação oftalmológica e otorrinolaringológica
+A: Episódio seis. Os Anexos II, III e IV da Resolução 927. Este é o episódio mais numérico de todos.
+B: E é o mais fácil de pontuar, porque aqui não há o que interpretar. São tabelas de corte, e caem literalmente.
+A: O formato preferido da banca é a combinação: um olho assim, o outro assado, atende ou não atende. Então vamos treinar exatamente isso.
+[PAUSA 1]
+B: Bloco um. Acuidade visual central e campo visual.
+A: Duas categorias de exigência. Primeiro as profissionais, C, D e E.
+B: Acuidade central: igual ou superior a 20 barra 30, que é 0,66, em cada um dos olhos. Ou, alternativamente, igual ou superior a 20 barra 30 em um olho e igual ou superior a 20 barra 40, que é 0,50, no outro.
+A: Mais visão binocular mínima de 20 barra 25, que é 0,80. E campo visual na isóptera horizontal igual ou superior a 120 graus em cada um dos olhos.
+B: São três condições simultâneas nas profissionais: acuidade, binocular e campo. Perder uma reprova.
+A: Agora ACC e categorias A e B. Acuidade central igual ou superior a 20 barra 40 em cada olho. Ou, alternativamente, igual ou superior a 20 barra 30 em um dos olhos, com pelo menos percepção luminosa no outro.
+B: E campo periférico igual ou superior a 60 graus em cada um dos olhos, ou igual ou superior a 120 graus em um olho.
+A: Três leituras que a tabela esconde e a prova cobra. Primeira: a exigência de visão binocular mínima de 20 barra 25 existe só nas profissionais. Não há piso binocular para ACC, A e B.
+B: Segunda: no campo das categorias A e B a norma admite alternativa, 60 em cada ou 120 em um. Nas profissionais não há alternativa: são 120 em cada.
+A: Terceira: decore as equivalências decimais, porque a banca troca a notação. 20 barra 25 é 0,80. 20 barra 30 é 0,66. 20 barra 40 é 0,50.
+[PAUSA 1]
+B: Bloco dois. Olho único e estrabismo. As duas vias especiais, e as duas excluem as profissionais.
+A: Candidato sem percepção luminosa em um dos olhos, item 1.3. Pode ser aprovado na ACC e nas categorias A e B, nunca em C, D ou E, com três parâmetros cumulativos.
+B: Um: acuidade visual central igual ou superior a 20 barra 30. Dois: visão periférica na isóptera horizontal igual ou superior a 120 graus.
+A: Três: decorridos no mínimo noventa dias da perda da visão, o laudo deverá indicar o uso de capacete de segurança com viseira protetora, sem limitação de campo visual.
+B: Cuidado com o sentido dos noventa dias. Não é carência para dirigir. É o intervalo a partir do qual o laudo passa a indicar o capacete, e a lógica é o tempo de adaptação à perda.
+A: E a exigência do capacete vale mesmo para quem vai dirigir automóvel, porque o que a norma protege é o olho remanescente.
+B: Estrabismo, item 2. Também só ACC, A e B, com dois parâmetros: acuidade central igual ou superior a 20 barra 30 no melhor olho, e visão periférica igual ou superior a 120 graus em pelo menos um dos olhos.
+A: Repare no paralelo: nos dois casos, 20 barra 30 e 120 graus. A diferença é que no estrabismo os parâmetros se referem ao melhor olho e a pelo menos um olho, porque ali o problema é de fusão, não de perda anatômica.
+[PAUSA 1]
+B: Bloco três. Cores, noite e correção.
+A: Visão cromática, item 3. O critério não é diagnóstico, é funcional: os candidatos devem ser capazes do reconhecimento das luzes semafóricas em posição padronizada, prevista no Código de Trânsito.
+B: Ou seja: discromatopsia não reprova por si. Reprova a incapacidade de reconhecer o semáforo. E como a posição das luzes é padronizada, vermelho em cima, amarelo no meio, verde embaixo, muitos discromatópsicos passam.
+A: É por isso que o artigo 17 exige na sala apenas material para identificação das cores verde, vermelha e amarela, e não uma bateria de Ishihara.
+B: Visão noturna e ofuscamento, item 4. Exigência dupla e curta: o candidato deverá possuir visão em baixa luminosidade e recuperação após ofuscamento direto.
+A: São duas funções distintas. Sensibilidade em baixa luz, e velocidade de readaptação depois do farol em sentido contrário.
+B: E o artigo 17 obriga a entidade a ter equipamento para avaliar campo visual, estereopsia, ofuscamento e visão noturna.
+A: Correção óptica, item 1.4. Os valores de acuidade poderão ser obtidos sem ou com correção. Se forem obtidos com correção, consta da CNH a observação obrigatório o uso de lentes corretoras.
+B: E a exceção que é pegadinha recorrente: as lentes intraoculares não estão enquadradas nessa obrigatoriedade.
+A: O pseudofácico que atinge o corte com a lente implantada não recebe a restrição. Faz sentido: a lente não é removível, então não há o que obrigar. Já o usuário de óculos ou lente de contato recebe.
+[PAUSA 1]
+B: Bloco quatro. A avaliação auditiva, que não é uma tabela solta. É um algoritmo em degraus.
+A: Degrau um, triagem: a acuidade auditiva é avaliada pela prova da voz coloquial, em ambas as orelhas simultaneamente, sem auxílio da leitura labial, em local silencioso, a dois metros do examinador.
+B: Três detalhes que caem juntos: ambas as orelhas ao mesmo tempo, sem leitura labial, a dois metros.
+A: Degrau dois: reprovado na triagem, o examinador solicita audiometria tonal aérea, realizada por médico ou fonoaudiólogo, conforme as resoluções dos Conselhos Federais de Medicina e de Fonoaudiologia.
+B: Degrau três, o cálculo: média aritmética em decibéis nas frequências de 500, 1000 e 2000 hertz, da via aérea, na orelha melhor. A referência citada pelo próprio anexo é Davis e Silverman, de 1970.
+A: E agora o número único que organiza o anexo inteiro: 40 decibéis na orelha melhor. O que muda é quando você mede.
+B: Antes do tratamento, perda inferior a 40 decibéis: apto para qualquer categoria.
+A: Antes do tratamento, perda igual ou superior a 40: inapto temporário, com encaminhamento a avaliação complementar específica.
+B: Repare que faz sentido com o artigo 8º: é corrigível, logo é inaptidão temporária.
+A: Depois do tratamento ou da prótese, se a média cai abaixo de 40: apto para qualquer categoria, com a observação médica obrigatório o uso de prótese auditiva.
+B: E essa média inferior a 40 tem de ser comprovada por audiometria tonal aérea após o tratamento, ou por audiometria em campo livre com uso da prótese.
+A: Depois do tratamento, se permanece igual ou superior a 40: aí deixa de ser temporária e vira restrição de categoria. O candidato pode dirigir somente ACC, A e B, com exame otoneurológico normal, e o veículo deverá estar equipado com espelhos retrovisores nas laterais.
+B: Guarde essa transição, que é o coração do anexo: 40 decibéis antes do tratamento é inaptidão temporária; 40 decibéis depois do tratamento é restrição de categoria.
+[PAUSA 1]
+A: Bloco cinco. Avaliação otoneurológica. Curto e com gatilho objetivo.
+B: Caso o candidato responda positivamente à pergunta número 3 do questionário do Anexo I, afirmando ser portador de tonturas e ou vertigens, o examinador deverá solicitar exame otoneurológico.
+A: Não é facultativo, e não depende de achado no exame físico. Depende da resposta do candidato ao questionário.
+B: É um dos poucos pontos da Resolução em que a anamnese, sozinha, obriga um exame complementar. Guarde o par: pergunta 3 do Anexo I leva a otoneurológico.
+A: E o otoneurológico normal também aparece como condição, não como gatilho, no caso da perda igual ou superior a 40 decibéis após tratamento.
+B: Aproveite para não confundir com a outra pergunta numerada que já vimos: a pergunta 9 do Anexo I é a da atividade remunerada, que decide a coluna na epilepsia. A pergunta 3 é tontura e vertigem.
+[PAUSA 1]
+A: Armadilhas do episódio.
+B: Binocular de 20 barra 25 só existe para C, D e E.
+A: Campo: 120 em cada olho nas profissionais; 60 em cada ou 120 em um nas A e B.
+B: Olho único e estrabismo liberam apenas ACC, A e B.
+A: No olho único, o capacete com viseira entra no laudo após noventa dias da perda.
+B: Lentes intraoculares não geram a restrição de lentes corretoras. Óculos e lente de contato geram.
+A: Visão cromática se avalia pelo reconhecimento do semáforo em posição padronizada.
+B: Voz coloquial: ambas as orelhas, sem leitura labial, a dois metros.
+A: Média audiométrica: 500, 1000 e 2000 hertz, via aérea, orelha melhor.
+B: Quarenta decibéis antes do tratamento é inapto temporário. Depois do tratamento é ACC, A e B com otoneurológico normal e retrovisores laterais.
+A: E tontura na pergunta 3 obriga otoneurológico.
+[PAUSA 2]
+B: Rodada rápida.
+[RAPIDA tema=oftalmo n=6 semente=67]
+[RAPIDA tema=orl n=5 semente=71]
+[PAUSA 1]
+A: Três para levar: 20 barra 25 binocular só nas profissionais; lente intraocular não gera restrição; e 40 decibéis muda de sentido conforme seja antes ou depois do tratamento.
+B: No próximo episódio: aparelho locomotor, pessoa com deficiência e dano corporal. Até lá.

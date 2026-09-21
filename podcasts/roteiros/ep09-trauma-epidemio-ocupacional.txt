@@ -1,0 +1,76 @@
+# 9. Trauma e atendimento pré-hospitalar, epidemiologia e medicina ocupacional
+A: Episódio nove. Três blocos do eixo curativo, preventivo e ocupacional. Começamos pelo trauma, que é o de maior peso entre eles.
+[PAUSA 1]
+B: Bloco um. A sequência de atendimento.
+A: A avaliação primária segue o ABCDE: via aérea com proteção da coluna cervical, respiração e ventilação, circulação com controle de hemorragia, disfunção neurológica e exposição com controle da hipotermia.
+B: E há a variação XABCDE, em que o X vem antes de tudo e significa controle de hemorragia exsanguinante externa. A lógica é que sangramento maciço mata antes de a via aérea matar.
+A: Por isso a pergunta prática: diante de uma hemorragia externa em jato, o que se faz primeiro? Comprime. Depois segue o ABCDE.
+B: No A, a causa mais comum de obstrução de via aérea no doente inconsciente é a queda da língua sobre a hipofaringe, corrigida por manobras de elevação sem hiperextender a cervical no trauma.
+A: No B, três diagnósticos que se fazem à beira do leito e não esperam imagem: pneumotórax hipertensivo, pneumotórax aberto e tórax instável.
+B: O pneumotórax hipertensivo é clínico: desconforto respiratório, hipotensão, turgência jugular, desvio de traqueia e murmúrio abolido. O tratamento é imediato e não aguarda radiografia.
+A: No C, os locais onde o sangue se esconde em volume suficiente para matar: tórax, abdome, retroperitônio e pelve, ossos longos, e o meio externo.
+B: E o tamponamento cardíaco entra no diferencial do choque com jugulares estufadas, junto do pneumotórax hipertensivo.
+A: Ainda no C, distinga choque hemorrágico de choque neurogênico. No hemorrágico há taquicardia e vasoconstrição, com pele fria. No neurogênico, por perda do tônus simpático na lesão medular alta, há hipotensão com bradicardia e pele quente.
+B: No D, avaliação neurológica rápida, e no E exposição com prevenção ativa da hipotermia, que é parte da tríade letal.
+A: A tríade letal do trauma é hipotermia, acidose e coagulopatia. Elas se alimentam mutuamente, e por isso o aquecimento não é conforto: é tratamento.
+[PAUSA 1]
+B: Bloco dois. Condutas específicas que caem.
+A: Objeto empalado não se remove em cena. Estabiliza-se no lugar, porque ele pode estar tamponando o vaso lesado.
+B: Capacete: a retirada exige duas pessoas, com estabilização manual da cervical, e só se faz quando necessária para a via aérea ou quando o capacete impede a avaliação.
+A: A restrição de movimento da coluna substituiu a ideia de imobilizar todo mundo em prancha rígida. A prancha é dispositivo de transferência, com tempo de permanência minimizado.
+B: Na fratura de pelve instável com sangramento, a medida de cena é a cinta pélvica.
+A: Fratura exposta e qualquer lesão de membro exigem avaliação neurovascular distal antes e depois de qualquer manipulação. Documente o pulso.
+B: Na queimadura, a regra dos nove estima a superfície corporal queimada, e a suspeita de lesão inalatória, com queimadura de face, rouquidão, escarro carbonáceo e vibrissas chamuscadas, antecipa a via aérea definitiva.
+A: E o tempo em cena importa: as intervenções que não são salvadoras na hora devem ocorrer a caminho, porque o determinante é o tempo até o tratamento definitivo.
+[PAUSA 1]
+B: Bloco três. Populações especiais e triagem.
+A: Na criança, a superfície corporal relativa maior favorece a hipotermia, e a reserva fisiológica mantém a pressão até uma descompensação abrupta. Taquicardia é sinal precoce; hipotensão é tardia e grave.
+B: No idoso, a reserva funcional baixa e o uso de medicamentos mascaram o choque. Uma pressão dita normal pode ser hipotensão relativa em um hipertenso crônico, e o betabloqueador impede a taquicardia compensatória.
+A: Na gestante traumatizada, a melhor conduta para o feto é ressuscitar a mãe. E o útero gravídico comprime a veia cava em decúbito dorsal, o que se corrige com desvio uterino para a esquerda.
+B: E na triagem de múltiplas vítimas pelo método START, a classificação vermelha identifica a vítima grave com chance de sobreviver se atendida imediatamente. A triagem prioriza quem se beneficia mais, não quem está mais grave em termos absolutos.
+[PAUSA 1]
+A: Bloco quatro. Epidemiologia dos sinistros e a falha de atenção.
+B: A terminologia primeiro, porque cai: a ABNT revisou a NBR 10697 e substituiu acidente de trânsito por sinistro de trânsito, suprimindo o entendimento de evento não premeditado. A adoção do termo sinistro é bandeira da ABRAMET.
+A: A palavra importa porque acidente sugere fatalidade e imprevisibilidade. Sinistro não.
+B: Entre os fatores comportamentais de risco, a OMS lista velocidade, alcoolemia, baixa visibilidade, não uso de capacete, de cinto e de dispositivos de retenção infantil, e acrescentou condições médicas, medicamentos, substâncias psicoativas, fadiga e a falta de atenção pelo uso do celular.
+A: A sigla que a ABRAMET usa é FAC, falha de atenção ao conduzir. Cerca de um terço dos motoristas dirige distraído, e o celular responde por quase metade das atividades que resultam em FAC.
+B: Os números que caem: digitar uma mensagem mantém o condutor em média 4,5 segundos sem olhar para a via, e até 100 metros percorridos. A 80 quilômetros por hora, equivale a dirigir de olhos vendados por um campo de futebol.
+A: O risco: chamada breve quadruplica o risco de colisão, prejuízo equivalente ao do álcool dentro do limite legal. Checar mensagens sobe 400 por cento, e digitar chega a 23 vezes.
+B: E digitar é a forma mais grave porque combina distração manual, visual e cognitiva ao mesmo tempo.
+A: O ponto conceitual mais importante: o viva-voz não resolve. Ele reduz a distração manual, mas não a cognitiva.
+B: A base é que o cérebro tem capacidade finita de atenção e não soma áreas quando duas tarefas concorrem. Em ressonância funcional, a ativação do lobo parietal ligada ao processamento espacial caiu 37 por cento durante escuta simultânea.
+A: E existe o efeito pós-chamada: o risco persiste em média por três segundos após o envio de uma mensagem. A 100 quilômetros por hora, são mais de 90 metros.
+B: No Brasil, a contribuição específica do celular não é calculável pelo modelo de registro dos sinistros. O sistema da Polícia Rodoviária Federal é o único que permite dimensionar a FAC em nível nacional.
+A: E ele mostrou que, entre 2007 e 2016, dos 643 mil sinistros com vítimas em rodovias federais, 30,2 por cento tiveram a falha de atenção como causa. Para cada vítima fatal por FAC, há pelo menos 18 feridos não fatais.
+B: Um dado de comportamento que fecha o bloco: cerca de 70 por cento dos motoristas acham que celular e direção não combinam, mas só cerca de 20 por cento se privam. E quem tem mais confiança em lidar com a distração tem pior desempenho.
+A: No enquadramento legal, dois incisos do artigo 252. O inciso 6 é infração média e alcança fones de ouvido e celular, inclusive no viva-voz. O inciso 5 é gravíssima, quando o condutor está segurando ou manuseando o aparelho, e foi a Lei 13.281 de 2016 que fez essa mudança.
+[PAUSA 1]
+B: Bloco cinco. Medicina do tráfego ocupacional.
+A: Primeiro a distinção que organiza o tema: exame ocupacional e exame pericial de trânsito são coisas diferentes, com finalidades diferentes.
+B: O ocupacional, regido pela medicina do trabalho, avalia a aptidão para a função dentro da empresa: admissional, periódico, de retorno ao trabalho, de mudança de função e demissional.
+A: O pericial de trânsito avalia a aptidão para conduzir, e quem responde por ele é o perito examinador de trânsito. Um não substitui o outro.
+B: Os riscos ocupacionais do motorista profissional que a prova cobra: vibração de corpo inteiro, postura sentada prolongada com sobrecarga lombar, ruído com perda auditiva induzida, ergonomia do assento e dos comandos.
+A: E os riscos da organização do trabalho, que são os mais determinantes: jornada extensa, trabalho noturno, pressão por prazo e, sobretudo, remuneração por produtividade.
+B: A remuneração por produtividade é o ponto conceitual: quando o motorista ganha por viagem ou por entrega, o sistema paga para ele dormir menos. O incentivo está na estrutura, não no caráter.
+A: E é por isso que as intervenções eficazes são de organização: pausas programadas, limites de jornada, planejamento de rota, alimentação e hidratação adequadas na estrada.
+B: O perfil de adoecimento do motorista profissional combina doenças cardiometabólicas, distúrbios do sono, lombalgia e transtornos mentais comuns, e é coerente com essa exposição.
+[PAUSA 1]
+A: Armadilhas do episódio.
+B: X antes do ABCDE é hemorragia exsanguinante.
+A: A maior parte das lesões, na física do trauma, ocorre na segunda colisão. Já a tríade letal é hipotermia, acidose e coagulopatia.
+B: Choque neurogênico tem bradicardia e pele quente. Hemorrágico tem taquicardia e pele fria.
+A: Objeto empalado não se remove em cena.
+B: Na criança, hipotensão é sinal tardio. No idoso, betabloqueador esconde a taquicardia.
+A: Na gestante, ressuscitar a mãe é tratar o feto, com desvio uterino à esquerda.
+B: Sinistro, não acidente, pela NBR 10697 revisada.
+A: Viva-voz reduz distração manual, não cognitiva. Digitar é 23 vezes.
+B: FAC respondeu por 30,2 por cento dos sinistros com vítimas em rodovias federais.
+A: E exame ocupacional não substitui o exame pericial de trânsito.
+[PAUSA 2]
+B: Rodada rápida.
+[RAPIDA tema=curativa n=6 semente=97]
+[RAPIDA tema=epidemiologia n=4 semente=101]
+[RAPIDA tema=ocupacional n=3 semente=103]
+[PAUSA 1]
+A: Três para levar: X antes do ABCDE; o viva-voz não resolve; e o risco ocupacional mora na organização do trabalho.
+B: No último episódio: medicina aeroespacial, do viajante e aquaviária. Até lá.

@@ -1,0 +1,78 @@
+# 5. Cardiorrespiratória, doenças sistêmicas e distúrbios do sono
+A: Episódio cinco. Três blocos que compartilham a mesma lógica: o Anexo VII do lado cardiológico, e diretrizes da ABRAMET no diabetes, na doença renal e no sono.
+B: E uma chave que resolve metade das questões de cardiologia: o Anexo VII trabalha com duas colunas. De um lado, ACC e categorias A e B. Do outro, categorias C, D e E, sempre mais restritivas, por envolverem transporte de cargas e de passageiros.
+A: Guarde essa assimetria, porque ela se repete em todo o anexo e é a chave para responder quase qualquer alternativa do tema.
+[PAUSA 1]
+B: Bloco um. Pressão arterial.
+A: O item 1.2 estabelece a faixa de aptidão plena: será considerado apto, na ACC e nas categorias A, B, C, D e E, o candidato com pressão sistólica inferior a 160 e diastólica inferior a 100 milímetros de mercúrio.
+B: Repare que são os dois critérios juntos, e que a ressalva do prazo reduzido só entra a partir de 160 de sistólica e barra ou 100 de diastólica.
+A: Então um candidato com 158 por 96 é apto sem ressalva nenhuma. Esse é um ponto em que o candidato desatento erra por excesso de zelo.
+[PAUSA 1]
+B: Bloco dois. As condições do Anexo VII, na ordem de gravidade.
+A: Comece pela categoria intermediária, que é a de inaptidão temporária. Nas duas colunas, geram inaptidão temporária: arritmias com repercussão funcional, bloqueio atrioventricular de segundo e de terceiro grau, bradicardia acentuada e taquiarritmias. E a insuficiência cardíaca congestiva.
+B: Acima delas, em gravidade, está a valvulopatia com repercussão hemodinâmica, que é inaptidão. Abaixo, as condições que permitem aptidão com ressalva.
+A: Agora as situações clínicas com prazo. Infarto do miocárdio: a coluna A e B admite aptidão com recuperação clínica após oito semanas, com diminuição do prazo de validade a critério médico.
+B: Já a coluna C, D e E exige recuperação clínica após doze semanas, condicionada a relatório favorável. Oito contra doze.
+A: Marca-passo: a coluna da ACC e das categorias A e B prevê, após duas semanas da implantação, apto com exame cardiológico normal. A coluna C, D e E exige, após seis semanas, aprovação condicionada a relatório cardiológico favorável e avaliação da etiologia.
+B: Duas contra seis semanas. E note a exigência extra de avaliar a etiologia no profissional: não basta o dispositivo estar funcionando, é preciso saber por que ele foi implantado.
+A: Angina pectoris: a coluna A e B prevê apto com sintomas controlados, com prazo reduzido a critério médico. A coluna C, D e E exige aprovação condicionada a relatório cardiológico favorável, também com prazo reduzido.
+B: E o cardiodesfibrilador implantável, o CDI. Aqui não tem prazo: na tabela do CDI, todas as linhas da coluna profissional trazem restrição permanente.
+A: Todas mesmo: implante por prevenção primária, por prevenção secundária, após terapia apropriada, após terapia inapropriada, troca de gerador, troca de eletrodo, e até os pacientes que recusaram o implante.
+B: O racional é direto: o portador de CDI tem, por definição, risco elevado de arritmia maligna. E quem recusou o implante tem o mesmo risco, sem o dispositivo para tratá-lo.
+A: Síncope, por fim, é graduada pela previsibilidade de recorrência. Síncope vasovagal única e situacional, com causa esclarecida: apto após observação de uma semana.
+B: Síncope de origem inexplicada e síncope vasovagal recorrente nos últimos 12 meses: aguardar uma semana para a direção privada e 12 meses para a direção comercial.
+[PAUSA 1]
+A: Bloco três. Diabetes.
+B: O ponto mais prático, e que a diretriz traz como orientação de conduta: os motoristas profissionais devem realizar teste de glicemia capilar uma hora antes de dirigir e cerca de quatro horas após direção contínua.
+A: E não iniciar ou interromper a direção quando a glicemia estiver abaixo de 70 miligramas por decilitro. O valor coincide com o limiar clínico de hipoglicemia e antecede a instalação dos sintomas neuroglicopênicos.
+B: Agora o conceito que separa o candidato de risco do candidato seguro: a hipoglicemia assintomática.
+A: Os sintomas de alerta da hipoglicemia, tremor, sudorese, palpitação e ansiedade, são adrenérgicos e dependem da resposta autonômica contrarreguladora.
+B: Na neuropatia autonômica, comum no diabetes de longa duração, essa resposta se perde. E o paciente passa da normalidade direto para os sintomas neuroglicopênicos: confusão, alteração do comportamento, visão turva e rebaixamento de consciência.
+A: Sem tempo hábil para reagir. Por isso a hipoglicemia assintomática é o achado que mais preocupa no diabético condutor, mais do que o valor isolado de hemoglobina glicada.
+B: E não esqueça das complicações crônicas: a retinopatia joga o caso de volta para os parâmetros visuais do Anexo II, e a neuropatia periférica afeta a operação dos pedais.
+[PAUSA 1]
+A: Bloco quatro. Doença renal crônica dialítica.
+B: Duas regras práticas que caem. Primeira: a diretriz recomenda suspensão temporária da direção para pacientes que iniciaram o tratamento recentemente, definidos como aqueles com menos de três meses de diálise.
+A: A razão é a maior frequência de intercorrências clínicas nessa fase, e a inabilidade do paciente, ainda inexperiente, para identificar e manejar os sinais e sintomas adversos. E a suspensão é expressamente temporária.
+B: Segunda: é dever do profissional que realiza o exame desaconselhar a condução principalmente nos dias de tratamento hemodialítico, registrando em prontuário o fornecimento dessa orientação.
+A: O fundamento é a instabilidade hemodinâmica após a sessão: a ultrafiltração remove volume rapidamente, e o paciente pode ter hipotensão, tontura, cãibras e fraqueza.
+B: Repare no padrão que se repete nesses temas: existe um dever de orientar e de registrar. A orientação documentada é parte do ato pericial, não gentileza.
+[PAUSA 1]
+A: Bloco cinco. Distúrbios do sono. E comece pelo escopo, que já foi dito no episódio um mas vale repetir.
+B: A avaliação de distúrbios do sono é exigida na renovação, adição e mudança para as categorias C, D e E. Não na primeira habilitação de categoria B.
+A: O Anexo X lista quatro parâmetros objetivos de indício. Um: hipertensão arterial sistêmica com pressão sistólica acima de 130 e diastólica acima de 85 milímetros de mercúrio.
+B: Dois: índice de massa corpórea acima de 30 quilos por metro quadrado. Três: perímetro cervical, medido na altura da cartilagem cricoide, acima de 45 centímetros em homens e acima de 38 centímetros em mulheres.
+A: Guarde a referência anatômica, que é detalhe cobrado: a medida é na altura da cartilagem cricoide.
+B: Quatro: classificação de Mallampati modificado classe 3 ou 4.
+A: Vale relembrar a graduação. Classe 1: visualizam-se palato mole, úvula e pilares. Classe 2: palato mole e úvula. Classe 3: palato mole e apenas a base da úvula. Classe 4: apenas o palato duro.
+B: E o indício objetivo são as classes 3 ou 4, justamente as de maior obstrução orofaríngea.
+A: O parâmetro subjetivo é a Escala de Sonolência de Epworth. Ela pergunta qual a probabilidade de o examinado cochilar ou adormecer em oito situações do cotidiano, em contraste com estar simplesmente cansado.
+B: As oito: sentado e lendo; assistindo televisão; sentado em lugar público; como passageiro de carro, trem ou ônibus por uma hora sem parar; deitando-se para descansar à tarde; sentado conversando com alguém; sentado calmamente após o almoço sem álcool; e parado alguns minutos no trânsito enquanto dirige.
+A: Uma observação honesta sobre o corte da Epworth: o texto oficial do Anexo X é contraditório entre os itens, usando maior que 12 num ponto e maior ou igual a 12 em outro. Se cair uma questão que dependa do corte exato, ela é atacável. Saiba que a faixa é ao redor de 12 e não perca tempo nela.
+[PAUSA 1]
+B: Bloco seis. O que decide a aptidão na apneia.
+A: O que compromete a segurança não é o índice polissonográfico em si, mas a sonolência excessiva diurna que dele decorre. E é justamente ela que o tratamento eficaz reverte.
+B: Por isso o parâmetro decisivo na SAOS tratada é a adesão efetiva ao CPAP, documentada objetivamente pelos relatórios de uso do aparelho, somada à normalização da sonolência.
+A: Adesão documentada. Não é o paciente dizer que usa. É o relatório do aparelho.
+B: E a distinção conceitual que fecha o tema: fadiga não é sonolência.
+A: Sonolência é a propensão fisiológica a adormecer, determinada pelo débito de sono acumulado e pela fase circadiana. Sua expressão extrema ao volante é o microssono.
+B: Fadiga é o esgotamento decorrente do esforço sustentado, tempo de tarefa, monotonia, demanda cognitiva, esforço físico. Ela reduz desempenho, vigilância e motivação sem necessariamente levar ao adormecimento.
+A: As duas se somam no motorista profissional, e as intervenções são diferentes: sonolência se trata dormindo; fadiga se previne com pausa e organização da jornada.
+[PAUSA 1]
+B: Armadilhas do episódio.
+A: Anexo VII tem duas colunas, e a profissional é sempre mais restritiva.
+B: Aptidão plena de pressão é sistólica abaixo de 160 e diastólica abaixo de 100.
+A: Infarto: oito semanas na A e B, doze na C, D e E. Marca-passo: duas contra seis semanas.
+B: CDI: restrição permanente em todas as linhas da coluna profissional, inclusive em quem recusou o implante.
+A: Glicemia abaixo de 70 significa não dirigir. E hipoglicemia assintomática é o achado mais preocupante.
+B: Diálise: suspensão temporária nos primeiros três meses, e desaconselhar nos dias de sessão, com registro.
+A: Sono: quatro parâmetros objetivos mais a Epworth, e perímetro cervical medido na cricoide.
+B: E na SAOS tratada, o que vale é a adesão documentada ao CPAP com sonolência normalizada.
+[PAUSA 2]
+A: Rodada rápida dos três blocos.
+[RAPIDA tema=cardio n=4 semente=53]
+[RAPIDA tema=sono n=3 semente=59]
+[RAPIDA tema=sistemicas n=2 semente=61]
+[PAUSA 1]
+B: Três para levar: duas colunas no Anexo VII; CDI é permanente no profissional; e o que decide na apneia é a sonolência, não o índice.
+A: No próximo episódio: avaliação oftalmológica e otorrinolaringológica, com as tabelas de corte. Até lá.

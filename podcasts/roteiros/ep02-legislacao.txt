@@ -1,0 +1,83 @@
+# 2. CTB, CONTRAN, o perito e o exame toxicológico
+A: Episódio dois da revisão para o título de Medicina do Tráfego. Hoje: Código de Trânsito, a responsabilidade do perito e o exame toxicológico de larga janela.
+B: Peso alto, e com um detalhe que torna o tema traiçoeiro: é onde a legislação mais mudou nos últimos anos. Memória desatualizada derruba candidato aqui mais do que ignorância.
+A: Então a regra de ouro do episódio: se você aprendeu um número há cinco anos e não conferiu depois, desconfie dele.
+[PAUSA 1]
+B: Bloco um. A arquitetura do CTB para o perito.
+A: O artigo 147 diz quem faz o exame, e mudou. Na redação da Lei nº 14.071, de 2020, os exames de aptidão física e mental e a avaliação psicológica devem ser realizados por médicos e psicólogos peritos examinadores com titulação de especialista em medicina do tráfego e em psicologia do trânsito, conferida pelo respectivo conselho profissional.
+B: O artigo 148 diz onde: os exames de habilitação, exceto os de direção veicular, poderão ser aplicados por entidades públicas ou privadas credenciadas pelo órgão executivo de trânsito dos Estados e do Distrito Federal.
+A: E os parágrafos do 148 têm conteúdo de prova. Parágrafo 2º: ao candidato aprovado será conferida Permissão para Dirigir, com validade de um ano.
+B: Parágrafo 3º: a Carteira Nacional de Habilitação será conferida ao condutor no término de um ano, desde que não tenha cometido nenhuma infração de natureza grave ou gravíssima, nem seja reincidente em infração média.
+A: E o parágrafo 4º é o que dói: a não obtenção da CNH por não cumprir isso obriga o candidato a reiniciar todo o processo de habilitação. Não é prorrogar. É reiniciar.
+B: Agora a novidade que cai fácil. A Lei nº 15.428, de 5 de junho de 2026, conversão da Medida Provisória 1.327 de 2025, incluiu dois parágrafos novos no artigo 148.
+A: Parágrafo 6º: os exames serão realizados por médicos e psicólogos peritos examinadores autorizados pelo órgão máximo executivo de trânsito da União, com titulação de especialista conferida pelo respectivo conselho, nos termos de regulação do CONTRAN.
+B: Repare no que mudou: a autorização do perito passou a ser federal, do órgão máximo da União.
+A: E o parágrafo 7º: os valores dos exames observarão preço público fixado pelo órgão máximo executivo de trânsito da União, atualizados anualmente pelo IPCA ou por outro índice oficial que venha a substituí-lo.
+B: A mesma lei revogou os parágrafos 6º e 7º do artigo 147. Guarde o movimento: o conteúdo saiu do 147 e entrou no 148, com redação nova.
+[PAUSA 1]
+A: Bloco dois. O exame toxicológico. Artigo 148-A.
+B: O caput é curto: os condutores das categorias C, D e E deverão comprovar resultado negativo em exame toxicológico para a obtenção e a renovação da CNH.
+A: Mas o artigo tem três camadas, e confundi-las é o erro típico. Camada um, o caput: C, D e E, na obtenção e na renovação.
+B: Camada dois, o parágrafo 2º: os condutores de C, D e E com idade inferior a 70 anos serão submetidos a novo exame a cada período de 2 anos e 6 meses, a partir da obtenção ou renovação, independentemente da validade dos demais exames.
+A: Dois anos e meio, e só para quem tem menos de 70. Esse exame corre no próprio relógio, desacoplado da validade do exame de aptidão.
+B: Exemplo que ajuda: motorista de 45 anos, categoria E, renovou a CNH. A aptidão vale cinco anos. Mas ele fará dois toxicológicos nesse intervalo, aos dois anos e meio e aos cinco.
+A: Camada três, o parágrafo 10, incluído pela Lei nº 15.153, de 2025: a exigência aplica-se também como condição para a obtenção da primeira habilitação, a permissão para dirigir, por condutores das categorias A e B.
+B: Essa é recente e amplia muito o alcance. O toxicológico deixou de ser assunto exclusivo do motorista profissional.
+A: A mesma lei incluiu o parágrafo 11, permitindo que a clínica do exame de aptidão agregue, em ambiente físico próprio e segregado, posto de coleta laboratorial contratado por laboratório credenciado.
+[PAUSA 1]
+B: Bloco três. A janela de 90 dias.
+A: Pelo parágrafo 1º, o exame busca aferir o consumo de substâncias psicoativas que comprovadamente comprometam a capacidade de direção, e deve ter janela de detecção mínima de 90 dias, nos termos das normas do CONTRAN.
+B: É daí que vem a exigência de matriz queratínica, cabelo ou pelo. Nenhuma matriz líquida cobre 90 dias.
+A: E a lógica do legislador é importante para a prova: ele quer detectar padrão de uso, não intoxicação aguda.
+B: Isso separa conceitualmente dois exames que a banca adora misturar. O artigo 148-A pergunta: este condutor usou droga nos últimos 90 dias? É habilitação, matriz de larga janela, sanção administrativa.
+A: Já o artigo 277 pergunta: este condutor está sob influência agora? É fiscalização, teste, exame clínico ou perícia, e pode caracterizar o artigo 165 e o crime do artigo 306.
+B: Um não substitui o outro.
+A: E o parágrafo 4º garante direito de contraprova e de recurso administrativo, sem efeito suspensivo. Sem efeito suspensivo quer dizer que recorrer não segura a penalidade.
+[PAUSA 1]
+B: Bloco quatro. O que acontece com o positivo.
+A: Pelo parágrafo 5º, com a redação da Lei nº 14.599, de 2023, o resultado positivo no exame periódico acarreta suspensão do direito de dirigir pelo período de 3 meses.
+B: Três meses. Não doze. A suspensão de doze meses é a do artigo 165, do álcool. Não troque.
+A: E a suspensão é condicionada: o levantamento depende da inclusão no RENACH de resultado negativo em novo exame. Sem esse exame, o prazo passa e a suspensão continua.
+B: A lei ainda veda expressamente a aplicação de outras penalidades, ainda que acessórias.
+A: Já a não realização do exame, parágrafo 8º, tem consequências diferentes conforme o caso. Na hipótese do caput: impedimento de obter ou renovar a CNH até que haja exame negativo, mais as sanções do artigo 165-B.
+B: Na hipótese do parágrafo 2º: as sanções do parágrafo 5º e dos artigos 165-B e 165-D, conforme a irregularidade.
+A: E tem um dever do Estado que costuma ser esquecido, no parágrafo 9º: compete ao órgão máximo executivo da União comunicar ao condutor, pelo sistema de notificação eletrônica do artigo 282-A, o vencimento do prazo com 30 dias de antecedência.
+[PAUSA 1]
+B: Bloco cinco. As quatro infrações do toxicológico. Todas gravíssimas, com penalidades diferentes.
+A: Artigo 165-B: dirigir veículo sem realizar o exame do artigo 148-A. Multa cinco vezes. Na reincidência em até 12 meses, multa dez vezes e suspensão do direito de dirigir.
+B: Artigo 165-C: dirigir tendo obtido resultado positivo no exame do caput. Mesma escala: multa cinco vezes, e na reincidência dez vezes com suspensão.
+A: Artigo 165-D: deixar de realizar o exame do parágrafo 2º, após 30 dias do vencimento do prazo. Multa cinco vezes.
+B: E o parágrafo único do 165-B esclarece uma tolerância: no descumprimento do parágrafo 2º, a infração só se configura quando o condutor dirigir após o trigésimo dia do vencimento.
+A: Outro detalhe fino: a competência para aplicar a penalidade do 165-D é do órgão executivo de trânsito de registro da CNH do infrator. Não do órgão que flagrou.
+B: E a quarta, que está no meio das outras por proximidade numérica mas é de outro assunto: artigo 165-A, recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento do artigo 277.
+A: Esse é o único dos quatro com multa dez vezes e suspensão de doze meses já na primeira vez. Os três do toxicológico começam em cinco vezes.
+[PAUSA 1]
+B: Bloco seis. Sigilo e regime de mercado. Curto, mas cai.
+A: O parágrafo 6º é a norma de sigilo: o resultado somente será divulgado para o interessado e não poderá ser utilizado para fins estranhos ao artigo 148-A ou ao parágrafo 6º do artigo 168 da CLT, que é o exame toxicológico do motorista profissional na admissão e na demissão.
+B: Na prática pericial: o resultado não vai para o empregador por iniciativa do laboratório.
+A: O parágrafo 7º, na redação da Lei nº 14.440, de 2022, coloca o exame em regime de livre concorrência, por laboratórios credenciados pelo órgão máximo executivo da União, e veda aos entes públicos três coisas: fixar preços, limitar o número de empresas ou de locais, e estabelecer regras de exclusividade territorial.
+B: Aqui tem um contraste que ajuda a fixar os dois temas juntos. O toxicológico é de preço livre, e é vedado ao poder público tabelar. O exame de aptidão física e mental é o oposto: preço público fixado pelo órgão máximo da União, corrigido pelo IPCA.
+A: Dois exames, dois regimes econômicos opostos.
+[PAUSA 1]
+B: Bloco sete. A responsabilidade do perito.
+A: Artigo 10 da Resolução 927: a realização e o resultado do exame e da avaliação são de exclusiva responsabilidade do médico perito examinador de trânsito e do psicólogo perito examinador de trânsito, cada um no seu exame.
+B: Exclusiva. Não é da clínica, não é do órgão de trânsito.
+A: Artigo 21: o perito mantém registro de exames oficial e numerado, com data, número de documento oficial de identificação, nome e assinatura do periciando, categoria pretendida, resultado, tempo de validade, restrições se houver, e observação quando necessária.
+B: E a fiscalização, artigo 25, é dos órgãos executivos estaduais com a colaboração dos Conselhos Regionais de Medicina e de Psicologia, no mínimo uma vez por ano.
+A: Lembra também que as informações prestadas pelo candidato são de responsabilidade dele, pelo artigo 2º, parágrafo 2º. Mas isso não transfere ao candidato a responsabilidade pelo exame: o que o perito examina e conclui continua sendo dele.
+[PAUSA 1]
+B: Armadilhas consolidadas do episódio.
+A: Periodicidade do toxicológico: dois anos e seis meses, só para C, D e E com menos de 70 anos, e independentemente da validade do exame de aptidão.
+B: Janela mínima de 90 dias, que é o que exige matriz queratínica.
+A: Positivo no periódico é suspensão de 3 meses, condicionada a novo exame negativo no RENACH. Não são doze.
+B: Desde a Lei 15.153 de 2025, o toxicológico também vale para a primeira habilitação das categorias A e B.
+A: Contraprova e recurso existem, mas sem efeito suspensivo.
+B: Preço do toxicológico é livre. Preço do exame de aptidão é público, corrigido pelo IPCA.
+A: Permissão para Dirigir vale um ano, e perdê-la obriga a reiniciar todo o processo.
+B: E a autorização do perito, desde 2026, é do órgão máximo executivo de trânsito da União.
+[PAUSA 2]
+A: Rodada rápida do episódio dois.
+[RAPIDA tema=legislacao n=9 semente=23]
+[PAUSA 1]
+B: Três coisas para levar: dois anos e meio para o toxicológico periódico; três meses de suspensão no positivo; e o toxicológico agora alcança a primeira habilitação de A e B.
+A: No próximo episódio: álcool e drogas na direção. Até lá.

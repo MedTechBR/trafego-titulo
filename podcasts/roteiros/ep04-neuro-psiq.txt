@@ -1,0 +1,74 @@
+# 4. Avaliação neurológica e psiquiátrica
+A: Episódio quatro. Avaliação neurológica e psiquiátrica. O bloco neurológico é dominado por um assunto só: epilepsia.
+B: E com uma particularidade que muda tudo na prova: a Diretriz da ABRAMET de 2025 sobre avaliação de candidatos e condutores com epilepsia substituiu, na prática, o Anexo VIII da Resolução 927.
+A: Então você precisa saber os dois, e saber qual prevalece. O Anexo VIII continua no texto da norma, mas a diretriz de 2025 é mais recente, mais detalhada e é a referência da especialidade.
+[PAUSA 1]
+B: Bloco um. O que o Anexo VIII diz.
+A: Quem declara epilepsia ou uso de antiepiléptico deve receber, como primeiro resultado, necessita de exames complementares ou especializados. E deve trazer o relatório padronizado do Anexo IX, preenchido por médico assistente que o acompanhe há pelo menos um ano.
+B: Guarde esse detalhe: um ano de acompanhamento pelo assistente. Não é qualquer relatório.
+A: O Anexo VIII separa dois grupos. Grupo um, em uso de medicação: exige um ano sem crise, parecer favorável do assistente e plena aderência ao tratamento.
+B: Grupo dois, em retirada de medicação: exige não ser portador de epilepsia mioclônica juvenil, no mínimo dois anos sem crise, e retirada com duração mínima de seis meses.
+[PAUSA 1]
+A: Bloco dois. A diretriz de 2025 e a lógica das três colunas. Esta é a parte que mais cai.
+B: A diretriz organiza os critérios em três colunas: categoria B sem atividade remunerada; categoria B com atividade remunerada; e o grupo ACC, A, C, D e E.
+A: E a diferença entre as colunas é enorme. Na crise única, ela chega a ser de doze meses contra cinco anos.
+B: Por isso a diretriz orienta o perito a observar a pergunta número 9 do questionário do Anexo I. É ela que revela se o candidato exerce atividade remunerada como condutor, e é ela que decide qual coluna se aplica.
+A: Decorou a pergunta nove? Ela é a chave do tema inteiro.
+[PAUSA 1]
+B: Bloco três. Crise provocada e não provocada. A distinção é conceitual e cai direto.
+A: A crise provocada, também chamada sintomática aguda, ocorre em relação temporal próxima a um insulto identificável: febre alta, traumatismo cranioencefálico agudo, distúrbio hidroeletrolítico, abstinência alcoólica, intoxicação, hipoglicemia.
+B: Removido o fator, o risco de recorrência se aproxima do da população geral.
+A: Já a crise não provocada ocorre sem fator desencadeante claro e sinaliza predisposição. A diretriz estima risco de recorrência em cerca de metade dos casos, e é por isso que ela pode indicar o início de um diagnóstico de epilepsia.
+B: Agora os prazos da crise única não provocada, sem critérios diagnósticos de epilepsia. São três, escalonados.
+A: Doze meses para a categoria B sem atividade remunerada. Vinte e quatro meses para a categoria B com atividade remunerada. E cinco anos para ACC e categorias A, C, D e E.
+B: O racional está na própria diretriz: cerca de metade das pessoas com primeira crise não provocada apresentará recorrência, e o condutor profissional opera veículos maiores ou transporta passageiros por períodos longos.
+[PAUSA 1]
+A: Bloco quatro. As outras situações do quadro-resumo.
+B: Pessoa com critérios diagnósticos de epilepsia que não usa fármaco anticrise, item 3: pode ser considerada apta desde que fique dois anos contínuos sem crises após a retirada completa da medicação, restrita à categoria B sem atividade remunerada.
+A: E com uma exclusão expressa: não pode ser portadora de epilepsia generalizada idiopática, como a mioclônica juvenil, a ausência juvenil e as crises tônico-clônicas isoladas. A justificativa da diretriz é o alto risco dessas condições.
+B: Epilepsia considerada resolvida, item 4: livre de crises por pelo menos dez anos e sem uso de fármaco anticrise nos últimos cinco anos.
+A: E essa é a única situação do quadro-resumo em que a diretriz libera todas as categorias, incluindo ACC, A, C, D e E, com atividade remunerada. Porque nessa população o risco de recorrência se aproxima do da população geral.
+B: Não confunda os dois: dois anos sem crise após a retirada é o item 3, restrito à B sem remuneração. Dez anos sem crise mais cinco sem medicação é o item 4, que libera tudo.
+A: Crises exclusivamente durante o sono, item 5. Cinco condições cumulativas.
+B: Uma: aptidão somente na categoria B, sem atividade remunerada. Duas: nenhuma ocorrência de crise em vigília em nenhum momento da vida. Três: critérios diagnósticos de epilepsia por período mínimo de cinco anos.
+A: Quatro: obrigatoriamente a restrição vedado dirigir após o pôr do sol, que é o código U da tabela do Anexo XV. Cinco: descarte obrigatório de condições que causem sonolência excessiva diurna, avaliada pela Escala de Epworth.
+B: Modificação do fármaco anticrise, item 6. Os prazos contam da última modificação do tratamento, seja redução de dose ou do número de medicações.
+A: Seis meses sem crises para a categoria B sem atividade remunerada. Vinte e quatro meses para a B com atividade remunerada. E inaptidão para as demais categorias.
+B: O racional é que o período logo depois de qualquer mudança de esquema é de maior instabilidade.
+A: E a validade do exame no condutor com epilepsia também é escalonada, item 9. Primeira aprovação, um ano. Primeira renovação, dois anos. Renovações subsequentes, de dois a cinco anos a critério do perito. E a partir dos 70 anos, três anos, conforme o CTB.
+[PAUSA 1]
+B: Bloco cinco. As outras doenças neurológicas.
+A: Esclerose múltipla: a diretriz da ABRAMET usa a escala EDSS como parâmetro, e existe uma faixa intermediária em que a decisão não é automática e depende de avaliação funcional.
+B: Doença de Parkinson: nos estágios iniciais a condução costuma ser possível, e nos estágios avançados a aptidão se perde. A diretriz trabalha com preditores clínicos, não com o diagnóstico isolado.
+A: E o bloco cognitivo, que vem da diretriz do condutor idoso. Quando o problema é exclusivamente físico, o idoso tende a perceber e a parar por conta própria.
+B: Mas quando envolve cognição, como no Alzheimer, ele não tem consciência da dimensão da perda. É a anosognosia, e é o que torna o déficit cognitivo mais perigoso que o físico.
+A: Os instrumentos: a escala CDR, de classificação clínica de demência, tem a melhor evidência para segurança na direção, mas é extensa demais para o exame de aptidão.
+B: O Miniexame do Estado Mental, com pontuação igual ou inferior a 24, foi sugerido pela Academia Americana de Neurologia como útil para identificar risco de direção insegura. Use como triagem, não como sentença.
+A: E o Mini-Cog: recordação de três palavras mais o teste do desenho do relógio, aplicado em três a quatro minutos. Existe uma variante que substitui o relógio por subtração em série, para não alfabetizados.
+[PAUSA 1]
+B: Bloco seis. Psiquiatria. E o princípio que atravessa todas as diretrizes do tema.
+A: O que se avalia é a condição funcional atual, não o rótulo diagnóstico. Nem a esquizofrenia, nem o TEA, nem o TDAH geram inaptidão automática.
+B: Na esquizofrenia, a diretriz da ABRAMET com a AMB e o CFM trabalha com critérios de estabilidade: quadro controlado, aderência ao tratamento, ausência de sintomas que comprometam a condução, e relatório do assistente demonstrando estabilidade recente.
+A: E há um ponto clínico que cai: os sintomas extrapiramidais dos fármacos podem comprometer a condução. Ou seja, não é só a doença que se avalia, é o tratamento também.
+B: Esse par doença versus tratamento aparece em vários temas. O mesmo raciocínio dos benzodiazepínicos.
+A: No TDAH, dois pontos. Primeiro: a medicação bem ajustada tende a melhorar o desempenho na condução, não a piorar.
+B: Segundo, e mais cobrado: não existe ferramenta validada específica para avaliar aptidão no TDAH. A diretriz é explícita nisso e orienta a decisão pelo conjunto clínico e funcional.
+A: E vem daí a recomendação do programa escalonado de direção, e o alerta sobre o efeito dos pares: o condutor jovem se expõe mais a risco na presença de amigos com comportamento semelhante.
+B: No TEA, mesma lógica: avaliação individualizada, sem inaptidão automática pelo diagnóstico.
+[PAUSA 1]
+A: Armadilhas do episódio.
+B: Relatório do Anexo IX exige assistente que acompanhe o candidato há pelo menos um ano.
+A: Na diretriz de 2025, a pergunta número 9 do Anexo I define a coluna aplicável.
+B: Crise única não provocada: doze meses, vinte e quatro meses e cinco anos, conforme a coluna.
+A: Epilepsia resolvida é dez anos sem crise e cinco sem medicação, e é a única que libera todas as categorias.
+B: Crises só no sono exigem cinco condições cumulativas, incluindo o código U do Anexo XV.
+A: Modificação de fármaco reinicia a contagem: seis e vinte e quatro meses, e inaptidão nas demais.
+B: Epilepsia generalizada idiopática é exclusão expressa do item 3.
+A: E, na psiquiatria, avalia-se função atual, não diagnóstico. Inclusive os efeitos do tratamento.
+[PAUSA 2]
+B: Rodada rápida.
+[RAPIDA tema=neuro n=6 semente=41]
+[RAPIDA tema=psiq n=5 semente=43]
+[PAUSA 1]
+A: Três para levar: a pergunta nove decide a coluna; resolvida é dez mais cinco; e diagnóstico psiquiátrico não reprova sozinho.
+B: No próximo episódio: cardiorrespiratória, doenças sistêmicas e distúrbios do sono. Até lá.

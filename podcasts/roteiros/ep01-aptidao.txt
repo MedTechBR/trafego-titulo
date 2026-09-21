@@ -1,0 +1,90 @@
+# 1. Exame de aptidão física e mental
+A: Bem-vindo à revisão para a prova de título de especialista em Medicina do Tráfego, da AMB com a ABRAMET. Eu sou a Luciana.
+B: E eu sou o Rocko. Este é o episódio um de dez. A prova é no próximo domingo, então nada de conteúdo novo aqui: isto é revisão de alta densidade, para ouvir dirigindo, caminhando ou na véspera.
+A: O tema de hoje é o exame de aptidão física e mental. É o de maior peso esperado na prova, e por um motivo simples: é o procedimento que define a especialidade.
+B: Tudo o que a gente vai falar sai de duas fontes: os artigos 147 e 148 do Código de Trânsito Brasileiro, e a Resolução CONTRAN nº 927, de 28 de março de 2022, que os regulamenta. Números, prazos e nomes de junta caem literalmente. Decore como está escrito.
+[PAUSA 1]
+A: Bloco um. O que a norma regula.
+B: A Resolução 927 está em vigor desde 1º de abril de 2022 e dispõe sobre três coisas ao mesmo tempo: o exame de aptidão física e mental, a avaliação psicológica e o credenciamento das entidades públicas e privadas.
+A: E ela revogou três resoluções: a 425, de 2012; a 474, de 2014; e a 500, de 2014. Se uma alternativa citar qualquer uma dessas três como vigente, está errada.
+B: O artigo 147 lista os exames de habilitação na ordem. Inciso um, aptidão física e mental. Inciso dois, vetado. Inciso três, escrito sobre legislação. Inciso quatro, noções de primeiros socorros. Inciso cinco, direção veicular na via pública.
+A: Duas coisas para guardar aí: o exame médico é o primeiro da sequência, e o inciso dois foi vetado. A numeração pula na prática.
+B: E quem está dispensado do exame? Essa é uma pegadinha clássica, porque parece exceção improvável demais para ser verdade.
+A: Mas é verdade. O artigo 3º, parágrafo único, da Resolução remete ao artigo 148, parágrafo 5º do CTB: o CONTRAN poderá dispensar do exame de aptidão física e mental os tripulantes de aeronaves que apresentarem o cartão de saúde expedido pelas Forças Armadas ou pelo Departamento de Aeronáutica Civil.
+B: Tripulantes de aeronaves. É a única dispensa prevista na norma.
+[PAUSA 1]
+A: Bloco dois. Os quatro procedimentos do artigo 4º.
+B: São quatro grupos. Um: anamnese, com o questionário do Anexo I e o interrogatório complementar. Dois: exame físico geral. Três: exames específicos. Quatro: exames complementares ou especializados, solicitados a critério médico.
+A: O exame físico geral merece atenção, porque muita gente acha que a avaliação do estado mental é só do psicólogo. Não é. A norma manda o médico observar humor, aparência, fala, contactuação e compreensão, perturbações da percepção e atenção, orientação, memória e concentração, controle de impulsos e indícios do uso de substâncias psicoativas.
+B: Isso está no exame físico geral, feito pelo médico perito, sem depender de encaminhamento nenhum.
+A: Agora os exames específicos, com os anexos de cada um. Oftalmológica, Anexo II. Otorrinolaringológica, Anexos III e IV. Cardiorrespiratória, Anexos V, VI e VII. Neurológica, Anexos VIII e IX. Aparelho locomotor, sem anexo. E distúrbios do sono, Anexos X, XI e XII.
+B: Duas armadilhas nesse bloco. A primeira: o aparelho locomotor é a única das seis avaliações que não tem anexo. O critério está no texto da própria alínea e, que manda explorar integridade e funcionalidade de cada membro e da coluna, buscando malformações, agenesias ou amputações, e o grau de amplitude articular dos movimentos.
+A: A segunda armadilha, que é a que mais derruba: a avaliação dos distúrbios do sono não é exigida de todo mundo. A alínea f restringe à renovação, adição e mudança para as categorias C, D e E.
+B: Ou seja: primeira habilitação categoria B não faz. Alternativa que exigir, está errada.
+[PAUSA 1]
+A: Bloco três. Os quatro resultados.
+B: No exame médico, artigo 8º, são quatro. Apto, quando não há contraindicação para a categoria pretendida. Apto com restrições, quando há necessidade de registro na CNH de restrição ao condutor ou adaptação veicular. Inapto temporário, quando o motivo da reprovação é passível de tratamento ou correção. E inapto, quando o motivo é irreversível.
+A: A distinção entre os dois últimos é conceitual, não de gravidade: é reversível ou não é.
+B: No apto com restrições, constam da CNH as observações codificadas do Anexo XV. É de lá que saem os códigos de lentes corretoras, prótese auditiva, retrovisores adicionais e adaptações.
+A: E na avaliação psicológica? São três resultados, não quatro: apto, inapto temporário e inapto. Não existe apto com restrições na psicológica.
+B: Essa é uma das trocas mais cobradas. Quatro no médico, três no psicológico.
+A: Ainda no artigo 9º, tem uma figura própria da psicológica, no parágrafo 2º: quando o candidato apresenta distúrbios ou comprometimentos psicológicos temporariamente sob controle, ele é considerado apto, com diminuição do prazo de validade da avaliação, que consta da planilha RENACH.
+B: E o resultado da psicológica deve ser disponibilizado em dois dias úteis.
+A: Mais uma do artigo 10: na hipótese de inaptidão, temporária ou não, o perito comunica o resultado aos setores médico e psicológico do órgão executivo de trânsito para bloqueio imediato do cadastro nacional. E o desbloqueio, no vencimento do prazo, compete a esse órgão. Não ao perito.
+[PAUSA 1]
+B: Bloco quatro. Periodicidade. Esse é o número mais cobrado do tema inteiro, e também o mais errado.
+A: Porque a regra antiga, de cinco anos até os 65 e três anos acima disso, não vale mais. Foi substituída pela Lei nº 14.071, de 2020.
+B: A redação vigente do artigo 147, parágrafo 2º, escalona em três faixas. A cada 10 anos para condutores com idade inferior a 50 anos. A cada 5 anos para os de idade igual ou superior a 50 e inferior a 70. E a cada 3 anos para os de 70 anos ou mais.
+A: Dez, cinco e três. Cinquenta e setenta são as fronteiras.
+B: O exame é preliminar e renovável, e deve ser feito no local de residência ou domicílio do examinado.
+A: E tem uma válvula clínica que quase ninguém decora, no parágrafo 4º: quando houver indícios de deficiência física ou mental, ou de progressividade de doença que possa diminuir a capacidade de conduzir, os prazos poderão ser diminuídos por proposta do perito examinador.
+B: Repare no verbo. O perito propõe. Não fixa sozinho. E a periodicidade legal é teto, não garantia.
+A: Fecha esse bloco com a mudança mais recente, que cai fácil justamente por ser nova: a Lei nº 15.428, de 5 de junho de 2026, conversão da Medida Provisória 1.327 de 2025. É a quinquagésima primeira alteração do CTB.
+B: Ela fez três coisas. Revogou os parágrafos 6º e 7º do artigo 147. Incluiu o parágrafo 6º no artigo 148: os exames passam a ser realizados por peritos autorizados pelo órgão máximo executivo de trânsito da União, com título de especialista conferido pelo conselho profissional.
+A: E incluiu o parágrafo 7º no artigo 148: os valores observarão preço público fixado pelo órgão máximo executivo da União, atualizado anualmente pelo IPCA ou índice que o substitua.
+B: Ou seja, hoje quem fixa o valor do exame de aptidão é o órgão máximo da União, por preço público. Isso conflita na prática com o artigo 22 da Resolução 927, que ainda manda os honorários serem fixados pelos órgãos estaduais. Prevalece a lei.
+[PAUSA 1]
+A: Bloco cinco. A avaliação psicológica.
+B: O artigo 5º define seis processos psíquicos a aferir, e a lista costuma cair na ordem. Tomada de informação. Processamento de informação. Tomada de decisão. Comportamento. Autoavaliação do comportamento. E traços de personalidade.
+A: As técnicas, no artigo 6º, são quatro: entrevistas diretas e individuais, testes psicológicos conforme resoluções do Conselho Federal de Psicologia, dinâmicas de grupo, e escuta e intervenções verbais.
+B: E quando a psicológica é exigida? Pelo artigo 147, parágrafo 3º: preliminar e complementar sempre que se submeter ao exame o condutor que exerce atividade remunerada ao veículo. Para os demais candidatos, só no exame da primeira habilitação.
+A: E, pelo parágrafo 5º, o exercício de atividade remunerada é informação incluída na própria CNH.
+B: Fecha com o candidato com deficiência. Artigo 7º: a avaliação psicológica do candidato com deficiência física será realizada de acordo com as suas condições físicas. Adapta-se o instrumento, a forma de resposta e o tempo, para medir o processo psíquico e não a limitação motora.
+A: E o artigo 147-A do CTB, incluído pela Lei nº 13.146 de 2015, o Estatuto da Pessoa com Deficiência, assegura ao candidato com deficiência auditiva acessibilidade de comunicação em todas as etapas, material audiovisual com legenda oculta e Libras, e o direito de requerer intérprete de Libras no ato da inscrição.
+[PAUSA 1]
+B: Bloco seis. As três juntas. Esta é a confusão mais explorada do tema, então vá devagar aqui.
+A: São três colegiados diferentes, com autoridade designante, composição e finalidade distintas.
+B: Primeira: Junta Médica Especial, artigo 4º, parágrafo 1º. Quem designa é o Diretor do órgão executivo de trânsito do Estado ou do Distrito Federal. Para que serve: examinar o candidato com deficiência física, seguindo a NBR 14970 da ABNT.
+A: Segunda: Junta Médica revisora, artigo 12, parágrafo 1º. Quem designa é o órgão executivo de trânsito do Estado ou do Distrito Federal. Composição: três médicos peritos examinadores de trânsito ou especialistas em medicina de tráfego. Para que serve: rever o resultado, a pedido do candidato.
+B: Terceira: Junta Especial de Saúde, artigo 15. Quem designa é o CETRAN ou o CONTRANDIFE. Composição: no mínimo três médicos, sendo dois especialistas em medicina de tráfego. Para que serve: julgar o recurso contra a inaptidão mantida.
+A: Guarde o par que mais cai: Junta Médica Especial é do Diretor e é para deficiência física. Junta Especial de Saúde é do CETRAN e é para recurso.
+B: E não confunda as duas NBR. A NBR 9050 é acessibilidade a edificações e espaços urbanos, exigida das instalações da entidade credenciada. A NBR 14970 é avaliação da dirigibilidade e adaptações veiculares, seguida pelas Juntas Médicas Especiais.
+A: Agora os prazos. Resultado do exame: o candidato tem 30 dias do conhecimento para requerer a junta, e isso vale independentemente do resultado. Não é privilégio de quem foi reprovado.
+B: O órgão executivo tem 15 dias úteis para designar a junta. A junta profere o resultado em 30 dias contados da designação. Mantida a inaptidão permanente, cabe recurso ao CETRAN ou CONTRANDIFE em 30 dias. E a remessa dos documentos ao conselho é em 20 dias úteis.
+A: Repare na natureza dos prazos, porque a banca troca isso mantendo o número certo. Os três prazos de 30 dias são em dias corridos. Só dois são em dias úteis: os 15 para designar a junta e os 20 para remeter os autos.
+[PAUSA 1]
+B: Bloco sete, rápido. Credenciamento.
+A: Credencia o órgão executivo de trânsito do Estado ou do Distrito Federal. Vigência de um ano, renovável. A cada dois anos a entidade comprova o cumprimento dos artigos 17 a 24.
+B: O médico precisa de título de especialista em Medicina de Tráfego reconhecido pelo CFM, ou residência concluída na especialidade. Quem já era credenciado teve direito de atuar sem título até 12 de abril de 2024. A partir dessa data, é obrigatório para todos.
+A: Instalações que caem: sala de exame médico com dimensões mínimas de 4,5 metros por 3 metros, com auxílio de espelhos. Tabela de Snellen ou projetor de optotipos. Equipamento refrativo de mesa, esse é facultativo. Divã, estetoscópio, esfigmomanômetro, martelo de Babinsky, dinamômetro para força manual, equipamento para campo visual, estereopsia, ofuscamento e visão noturna, foco luminoso, lanterna, fita métrica, balança antropométrica e material para identificação das cores verde, vermelha e amarela.
+B: Na psicológica: sala individual de 2 metros por 2 metros, e sala coletiva de 1,20 metro por 1 metro por candidato.
+A: E as penalidades, artigo 26, em escala de três: advertência, suspensão das atividades por até trinta dias, e cassação do credenciamento. Sempre com contraditório e ampla defesa.
+[PAUSA 1]
+B: Antes da rodada de questões, as armadilhas consolidadas do tema. Presta atenção nessas.
+A: Periodicidade é dez, cinco e três por faixa etária. Não é cinco e três pelos 65 anos.
+B: Exame médico tem quatro resultados. Avaliação psicológica tem três, sem apto com restrições.
+A: Distúrbios do sono só em renovação, adição e mudança para C, D e E.
+B: Junta Médica Especial, com o Diretor, é deficiência física. Junta revisora tem três profissionais. Junta Especial de Saúde, do CETRAN, tem três médicos sendo dois especialistas.
+A: Pedir junta independe de ter sido reprovado.
+B: O bloqueio do cadastro é imediato na inaptidão, e o desbloqueio compete ao órgão de trânsito, não ao perito.
+A: Equipamento refrativo de mesa é facultativo. Dinamômetro e martelo de Babinsky, não são.
+B: Título de especialista é obrigatório para todos desde 12 de abril de 2024.
+A: E, desde a Lei 15.428 de 2026, a autorização do perito é do órgão máximo da União, e o valor é preço público corrigido pelo IPCA.
+[PAUSA 2]
+B: Agora a rodada rápida. Eu leio o enunciado e as alternativas, você tem alguns segundos para responder na sua cabeça, e depois eu dou o gabarito com o porquê.
+A: Se estiver dirigindo, não precisa anotar nada. Só responda mentalmente e escute a justificativa.
+[RAPIDA tema=aptidao n=7 semente=11]
+[PAUSA 1]
+A: É isso por hoje. Se você guardar só três coisas deste episódio, que sejam estas.
+B: Um: dez, cinco e três, com as fronteiras em cinquenta e setenta anos. Dois: quatro resultados no médico, três no psicológico. Três: Junta Médica Especial é do Diretor e é deficiência física; Junta Especial de Saúde é do CETRAN e é recurso.
+A: No próximo episódio: Código de Trânsito, responsabilidade do perito e o exame toxicológico de larga janela. Até lá.

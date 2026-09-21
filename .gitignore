@@ -1,2 +1,7 @@
 .DS_Store
 __pycache__/
+
+# podcasts: os roteiros e o gerador vão para o repo; o áudio não
+# (5 h de m4a ≈ 120 MB, e isto é GitHub Pages)
+podcasts/audio/
+podcasts/**/_tmp_*/
