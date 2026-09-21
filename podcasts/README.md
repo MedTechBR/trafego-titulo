@@ -60,6 +60,13 @@ r=[m.group(0) for q in qs for t in [q['q'],q['base'],q['coment']]+q['alts']
 print('restos:', len(r), r[:5])"
 ```
 
+## O `say` trava
+
+O serviço de síntese do macOS às vezes **para num segmento e nunca retorna** — visto ao
+rodar três lotes em paralelo. Sem proteção, o episódio inteiro fica pendurado (aconteceu:
+20 min no mesmo segmento). O gerador agora usa `timeout=90` com duas retentativas.
+Se ainda assim travar, rode **um lote por vez**.
+
 ## Vozes
 
 `VOZ` em `gera_podcast.py`. O macOS tem 9 vozes pt-BR (`say -v '?' | grep pt_BR`).

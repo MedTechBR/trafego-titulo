@@ -80,7 +80,19 @@ def monta(roteiro,saida_dir):
             voz,rate=VOZ[quem]
             fala=normaliza(txt)
             palavras+=len(fala.split())
-            subprocess.run(["say","-v",voz,"-r",str(rate),"-o",f,fala],check=True)
+            # O serviço de síntese do macOS às vezes TRAVA num segmento e nunca
+            # retorna (visto ao rodar vários lotes em paralelo). Sem timeout, o
+            # episódio inteiro fica pendurado. Timeout generoso + 2 tentativas.
+            for tentativa in range(3):
+                try:
+                    subprocess.run(["say","-v",voz,"-r",str(rate),"-o",f,fala],
+                                   check=True,timeout=90)
+                    break
+                except subprocess.TimeoutExpired:
+                    subprocess.run(["pkill","-9","-f",f],capture_output=True)
+                    if tentativa==2:
+                        raise SystemExit(f"say travou 3x no segmento {i}: {fala[:70]!r}")
+                    print(f"  ... say travou no segmento {i}, tentando de novo",flush=True)
         pedacos.append(f)
     lista=os.path.join(tmp,"lista.txt")
     with open(lista,"w") as fh:
