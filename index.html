@@ -460,6 +460,7 @@ const ARM={
     let s; try{s=JSON.stringify(v)}catch(e){return false}
     try{localStorage.setItem(k,s)}catch(e){UI.banner("erro","Armazenamento cheio/indisponível: "+e.message,true);return false}
     this.idbPut(k,s);
+    try{window.TTSYNC&&TTSYNC.aoSalvar(k)}catch(e){}
     const ag=Date.now();
     if(ag-this.tsBackup>10*60*1000){this.tsBackup=ag;this.snapshot("auto")}
     return true;
@@ -1495,8 +1496,15 @@ async function montaAjustes(){
       <button class="btn fant" id="ajSnap">Criar backup interno agora</button>
     </div>
   </div>
-  <div class="cartao" id="ajRecupera">
-    <h2>Veio do endereço antigo? Recupere seu progresso</h2>
+  <div class="cartao"><h2>Backups internos (últimos ${bks.length})</h2>
+    ${bks.length?`<div class="rolagem"><table><tr><th>Quando</th><th>Motivo</th><th>Chaves</th><th></th></tr>
+      ${bks.map(b=>`<tr><td>${esc((b.quando||"").replace("T"," ").slice(0,16))}</td><td>${esc(b.motivo)}</td><td>${b.n}</td>
+        <td><button class="btn fant peq" data-rest="${b.id}">restaurar</button></td></tr>`).join("")}</table></div>`
+      :'<p class="mut peq">Nenhum ainda — são criados automaticamente durante o uso.</p>'}
+  </div>
+  <details class="cartao" id="ajRecupera">
+    <summary style="cursor:pointer;font-family:var(--fD);font-weight:700;font-size:13.5px;min-height:32px">Trazer o progresso do endereço antigo (medtechbr.github.io)</summary>
+    <div style="margin-top:12px">
     <p class="peq">O app mudou de <b>medtechbr.github.io</b> para <b>medtechbr.com.br</b>. O navegador guarda os dados por endereço, então seu progresso <b>não foi apagado</b>: ficou preso no endereço antigo, que agora redireciona para cá. Para trazê-lo:</p>
     <ol class="peq" style="padding-left:20px;margin:8px 0 12px">
       <li>Ligue o <b>modo avião</b> (ou desligue o Wi-Fi e os dados).</li>
@@ -1508,12 +1516,7 @@ async function montaAjustes(){
     <textarea id="ajCola" rows="4" style="width:100%" placeholder="Cole aqui o conteúdo do backup (começa com {&quot;__app&quot;:&quot;trafego-titulo&quot;…)"></textarea>
     <div class="linha" style="margin-top:8px"><button class="btn" id="ajColaImporta">Importar o texto colado</button></div>
   </div>
-  <div class="cartao"><h2>Backups internos (últimos ${bks.length})</h2>
-    ${bks.length?`<div class="rolagem"><table><tr><th>Quando</th><th>Motivo</th><th>Chaves</th><th></th></tr>
-      ${bks.map(b=>`<tr><td>${esc((b.quando||"").replace("T"," ").slice(0,16))}</td><td>${esc(b.motivo)}</td><td>${b.n}</td>
-        <td><button class="btn fant peq" data-rest="${b.id}">restaurar</button></td></tr>`).join("")}</table></div>`
-      :'<p class="mut peq">Nenhum ainda — são criados automaticamente durante o uso.</p>'}
-  </div>
+  </details>
   <div class="cartao"><h2>Aplicativo</h2>
     <table>
       <tr><td>Versão</td><td>${V}</td></tr>
@@ -1526,6 +1529,7 @@ async function montaAjustes(){
     </div>
   </div>`;
   
+  if(window.TTSYNC)TTSYNC.renderCartao($("#slotSync"));
   $("#ajExporta").onclick=()=>baixaArquivo("trafego-titulo-backup-"+dataISO()+".json",JSON.stringify(ARM.exporta(),null,1),"application/json");
   $("#ajImporta").onchange=async e=>{
     const f=e.target.files[0];if(!f)return;
@@ -1617,14 +1621,6 @@ function pintaContagem(){
   if(ARM.recuperado)UI.banner("ok",`Dados recuperados do espelho interno (IndexedDB): ${ARM.recuperado.n} chaves, último espelho de ${ARM.recuperado.quando.slice(0,16).replace("T"," ")}. O localStorage tinha sido apagado pelo navegador.`,true);
   if(ARM.persistOK===false)console.warn("storage.persist() negado — comum no iOS; espelho IDB ativo.");
   if(ST.simativo&&!ST.simativo.fim)UI.banner("info","Há um simulado em andamento — retome na aba Simulado.");
-  /* mudança de domínio (21/09/2026): quem abre o endereço novo sem nenhuma resposta
-     provavelmente deixou o progresso no endereço antigo — dados são por origem */
-  try{
-    if(!Object.keys(ST.resp).length&&!localStorage.getItem("tt_avisoDominio")&&location.hostname!=="localhost"){
-      localStorage.setItem("tt_avisoDominio","1");
-      UI.banner("info","Seu progresso sumiu? Ele ficou no endereço antigo do app, não foi apagado. Veja em Ajustes → \"Recupere seu progresso\" como trazer em 2 minutos.",true);
-    }
-  }catch(e){}
   /* deep link vindo das leituras: ?area=<tema> abre Questões já filtrado */
   try{
     const area=new URLSearchParams(location.search).get("area");
@@ -1644,5 +1640,6 @@ function pintaContagem(){
 /* ganchos de teste (verificação por DOM) */
 window.__tt={get ST(){return ST},ARM,chaveQ,chaveTxt,QIDX,irAba,registraResposta,V,escuroAgora,pintaContagem,embaralha,espalhaTemas,get QST(){return QST}};
 </script>
+<script src="sync.js"></script>
 </body>
 </html>
