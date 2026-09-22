@@ -111,6 +111,51 @@ nav button:hover{color:#F0ECE4;background:rgba(255,255,255,.07)}
 nav button.on{color:var(--onBrand);background:var(--brand);font-weight:650}
 nav button.on:hover{background:var(--brand)}
 
+/* ---------- áreas seguras do iOS ----------
+   As metas apple-mobile-web-app-status-bar-style=black-translucent + viewport-fit=cover
+   fazem o app desenhar POR BAIXO do relógio/bateria e do entalhe. Sem estes paddings,
+   o logo e as abas ficavam cobertos no PWA instalado. */
+header{padding-top:env(safe-area-inset-top);padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
+main{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right))}
+
+/* ---------- barra de abas inferior (celular) ----------
+   No celular, 9 abas numa rolagem lateral deixavam 6 invisíveis. Padrão de app:
+   4 destinos principais + "Mais", presos embaixo, ao alcance do polegar. */
+#barraAbas{display:none}
+@media(max-width:720px){
+  header nav#abas{display:none}
+  .topo{padding-bottom:11px}
+  #barraAbas{display:grid;grid-template-columns:repeat(5,1fr);position:fixed;left:0;right:0;bottom:0;z-index:55;
+    background:#14171D;border-top:1px solid rgba(255,255,255,.08);
+    padding:6px max(6px,env(safe-area-inset-right)) calc(6px + env(safe-area-inset-bottom)) max(6px,env(safe-area-inset-left));
+    box-shadow:0 -8px 24px -16px rgba(0,0,0,.8)}
+  :root[data-tema=escuro] #barraAbas{background:#0C0F14}
+  #barraAbas button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+    min-height:52px;border-radius:12px;color:#A7ADB7;font-size:11px;font-weight:600;letter-spacing:.01em;
+    transition:color var(--t),background var(--t)}
+  #barraAbas button svg{width:22px;height:22px}
+  #barraAbas button.on,#barraAbas button.on:hover{color:var(--brand);background:rgba(242,169,59,.13)}
+  #barraAbas button:hover{background:rgba(255,255,255,.05);color:#F0ECE4}
+  #barraAbas button.on svg{stroke-width:2.4}
+  #barraAbas button:active{background:rgba(255,255,255,.06)}
+  main{padding-bottom:calc(84px + env(safe-area-inset-bottom))}
+  body.lendo main{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
+  #faixas{top:env(safe-area-inset-top)}
+}
+#maisFundo{position:fixed;inset:0;z-index:70;background:rgba(8,10,14,.55);animation:fadeIn .16s ease-out}
+#maisFolha{position:fixed;left:0;right:0;bottom:0;z-index:71;background:var(--pan);color:var(--ink);
+  border-radius:18px 18px 0 0;padding:10px 14px calc(16px + env(safe-area-inset-bottom));
+  box-shadow:0 -10px 40px -10px rgba(0,0,0,.45);animation:sobe .2s cubic-bezier(.32,.72,.35,1)}
+#maisFolha .alca{width:40px;height:5px;border-radius:99px;background:var(--line);margin:0 auto 12px}
+#maisFolha h2{font-family:var(--fD);font-size:13px;color:var(--mut);font-weight:700;margin:0 4px 8px;text-transform:uppercase;letter-spacing:.06em}
+#maisFolha .grade{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+#maisFolha .grade button{display:flex;flex-direction:column;align-items:center;gap:7px;padding:14px 6px;min-height:78px;
+  border:1px solid var(--line);border-radius:14px;background:var(--pan3);font-size:13px;font-weight:600;color:var(--ink2)}
+#maisFolha .grade button svg{width:22px;height:22px;color:var(--brandInk)}
+#maisFolha .grade button.on{border-color:var(--brand);background:var(--brandBg);color:var(--ink)}
+@keyframes sobe{from{transform:translateY(100%)}to{transform:none}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+
 /* ---------- estrutura ---------- */
 main{max-width:1000px;margin:0 auto;padding:18px 14px 72px}
 section{display:none}
@@ -297,6 +342,9 @@ textarea{min-height:80px}
   </div>
   <nav id="abas"></nav>
 </header>
+<nav id="barraAbas" aria-label="Seções do app"></nav>
+<div id="maisFundo" hidden></div>
+<div id="maisFolha" role="dialog" aria-modal="true" aria-label="Mais seções" hidden></div>
 <main>
   <section id="sec-questoes"></section>
   <section id="sec-simulado"></section>
@@ -491,15 +539,41 @@ const ABAS=[
   ["ajustes","Ajustes",'<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33h0a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51h0a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82v0a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>']
 ];
 let abaAtual="";
+/* celular: 4 destinos fixos na barra inferior; o resto vai para a folha "Mais" */
+const ABAS_BARRA=["questoes","simulado","pratica","leitura"];
+const ICO_MAIS='<circle cx="5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="19" cy="12" r="1.6"/>';
 function montaAbas(){
-  $("#abas").innerHTML=ABAS.map(([id,nome,ic])=>
-    `<button data-aba="${id}"><svg class="ic" viewBox="0 0 24 24">${ic}</svg>${nome}</button>`).join("");
+  const bt=([id,nome,ic])=>`<button data-aba="${id}"><svg class="ic" viewBox="0 0 24 24">${ic}</svg>${nome}</button>`;
+  $("#abas").innerHTML=ABAS.map(bt).join("");
   $("#abas").querySelectorAll("button").forEach(b=>b.onclick=()=>irAba(b.dataset.aba));
+  $("#barraAbas").innerHTML=ABAS.filter(a=>ABAS_BARRA.includes(a[0])).map(bt).join("")+
+    `<button data-mais="1" aria-haspopup="dialog"><svg class="ic" viewBox="0 0 24 24">${ICO_MAIS}</svg>Mais</button>`;
+  $("#barraAbas").querySelectorAll("button[data-aba]").forEach(b=>b.onclick=()=>{fechaMais();irAba(b.dataset.aba);window.scrollTo(0,0)});
+  $("#barraAbas").querySelector("[data-mais]").onclick=abreMais;
+  $("#maisFundo").onclick=fechaMais;
+  addEventListener("keydown",e=>{if(e.key==="Escape")fechaMais()});
 }
+function abreMais(){
+  const f=$("#maisFolha");
+  f.innerHTML=`<div class="alca"></div><h2>Mais seções</h2><div class="grade">${
+    ABAS.filter(a=>!ABAS_BARRA.includes(a[0])).map(([id,nome,ic])=>
+      `<button data-aba="${id}" class="${id===abaAtual?"on":""}"><svg class="ic" viewBox="0 0 24 24">${ic}</svg>${nome}</button>`).join("")}</div>`;
+  f.querySelectorAll("button[data-aba]").forEach(b=>b.onclick=()=>{fechaMais();irAba(b.dataset.aba);window.scrollTo(0,0)});
+  $("#maisFundo").hidden=false;f.hidden=false;
+  const pri=f.querySelector("button");pri&&pri.focus();
+}
+function fechaMais(){ $("#maisFundo").hidden=true;$("#maisFolha").hidden=true; }
+function medeCabecalho(){
+  const h=document.querySelector("header");
+  if(h)document.documentElement.style.setProperty("--hAlt",h.offsetHeight+"px");
+}
+addEventListener("resize",medeCabecalho);
 function irAba(id,semHash){
   abaAtual=id;
   if(id!=="leitura"){LEI.aberta=null;document.body.classList.remove("lendo")}
   document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.aba===id));
+  const mais=document.querySelector("#barraAbas [data-mais]");
+  if(mais)mais.classList.toggle("on",!ABAS_BARRA.includes(id));
   document.querySelectorAll("main section").forEach(s=>s.classList.toggle("on",s.id==="sec-"+id));
   if(!semHash&&location.hash!=="#"+id)history.replaceState(null,"","#"+id);
   ST.pos.aba=id;ARM.save("tt_pos",ST.pos);
@@ -593,7 +667,9 @@ function ajustaQuadro(){
      no próximo quadro em vez de travar o leitor na altura mínima */
   if(!window.innerHeight){requestAnimationFrame(ajustaQuadro);return}
   const topo=q.getBoundingClientRect().top+window.scrollY;
-  const h=Math.max(320, window.innerHeight - topo - 14);
+  const barra=document.getElementById("barraAbas");
+  const bh=barra&&getComputedStyle(barra).display!=="none"?barra.offsetHeight:0;
+  const h=Math.max(320, window.innerHeight - topo - bh - 14);
   q.style.height=h+"px";
 }
 addEventListener("resize",()=>{if(LEI.aberta)ajustaQuadro()});
@@ -1419,6 +1495,19 @@ async function montaAjustes(){
       <button class="btn fant" id="ajSnap">Criar backup interno agora</button>
     </div>
   </div>
+  <div class="cartao" id="ajRecupera">
+    <h2>Veio do endereço antigo? Recupere seu progresso</h2>
+    <p class="peq">O app mudou de <b>medtechbr.github.io</b> para <b>medtechbr.com.br</b>. O navegador guarda os dados por endereço, então seu progresso <b>não foi apagado</b>: ficou preso no endereço antigo, que agora redireciona para cá. Para trazê-lo:</p>
+    <ol class="peq" style="padding-left:20px;margin:8px 0 12px">
+      <li>Ligue o <b>modo avião</b> (ou desligue o Wi-Fi e os dados).</li>
+      <li>Abra o app <b>do jeito que você estudava antes</b> — pelo ícone da tela inicial, ou pelo endereço antigo <b>medtechbr.github.io/trafego-titulo</b> no mesmo navegador. Sem internet ele abre a cópia guardada, com seu progresso.</li>
+      <li>Vá em <b>Ajustes → Exportar backup</b>. Se o arquivo não baixar, abra-o e use <b>Copiar</b>.</li>
+      <li>Religue a internet, abra <b>medtechbr.com.br/trafego-titulo</b> e use <b>Importar backup</b> ou cole o texto abaixo.</li>
+    </ol>
+    <p class="peq mut" style="margin-bottom:10px">No iPhone, o ícone da tela inicial e o Safari guardam dados separados: faça o passo 2 no mesmo lugar onde você respondia as questões.</p>
+    <textarea id="ajCola" rows="4" style="width:100%" placeholder="Cole aqui o conteúdo do backup (começa com {&quot;__app&quot;:&quot;trafego-titulo&quot;…)"></textarea>
+    <div class="linha" style="margin-top:8px"><button class="btn" id="ajColaImporta">Importar o texto colado</button></div>
+  </div>
   <div class="cartao"><h2>Backups internos (últimos ${bks.length})</h2>
     ${bks.length?`<div class="rolagem"><table><tr><th>Quando</th><th>Motivo</th><th>Chaves</th><th></th></tr>
       ${bks.map(b=>`<tr><td>${esc((b.quando||"").replace("T"," ").slice(0,16))}</td><td>${esc(b.motivo)}</td><td>${b.n}</td>
@@ -1447,6 +1536,17 @@ async function montaAjustes(){
       carregaEstado();UI.banner("ok",`Backup importado: ${n} chaves restauradas (o estado anterior virou backup interno).`);
       montaAjustes();
     }catch(err){UI.banner("erro","Não consegui ler o arquivo: "+err.message)}
+  };
+  $("#ajColaImporta").onclick=async()=>{
+    const txt=$("#ajCola").value.trim();
+    if(!txt){UI.banner("info","Cole o conteúdo do backup no campo acima.");return}
+    try{
+      const obj=JSON.parse(txt.slice(txt.indexOf("{"),txt.lastIndexOf("}")+1));
+      const n=await ARM.importa(obj);
+      if(n===null){UI.banner("erro","Esse texto não parece um backup do TráfegoTítulo.");return}
+      carregaEstado();UI.banner("ok",`Backup importado: ${n} chaves restauradas (o estado anterior virou backup interno).`);
+      montaAjustes();
+    }catch(err){UI.banner("erro","Não consegui ler o texto colado: "+err.message)}
   };
   $("#ajSnap").onclick=async()=>{await ARM.snapshot("manual");UI.banner("ok","Backup interno criado.");montaAjustes()};
   sec.querySelectorAll("[data-rest]").forEach(b=>b.onclick=async()=>{
@@ -1510,12 +1610,21 @@ function pintaContagem(){
   await ARM.boot();
   carregaEstado();
   montaAbas();
+  medeCabecalho();
   $("#subTopo").textContent=`v${V} • ${BANCO.length} questões • ${PRATICA.length} casos`;
   iniciaTema();
   pintaContagem();
   if(ARM.recuperado)UI.banner("ok",`Dados recuperados do espelho interno (IndexedDB): ${ARM.recuperado.n} chaves, último espelho de ${ARM.recuperado.quando.slice(0,16).replace("T"," ")}. O localStorage tinha sido apagado pelo navegador.`,true);
   if(ARM.persistOK===false)console.warn("storage.persist() negado — comum no iOS; espelho IDB ativo.");
   if(ST.simativo&&!ST.simativo.fim)UI.banner("info","Há um simulado em andamento — retome na aba Simulado.");
+  /* mudança de domínio (21/09/2026): quem abre o endereço novo sem nenhuma resposta
+     provavelmente deixou o progresso no endereço antigo — dados são por origem */
+  try{
+    if(!Object.keys(ST.resp).length&&!localStorage.getItem("tt_avisoDominio")&&location.hostname!=="localhost"){
+      localStorage.setItem("tt_avisoDominio","1");
+      UI.banner("info","Seu progresso sumiu? Ele ficou no endereço antigo do app, não foi apagado. Veja em Ajustes → \"Recupere seu progresso\" como trazer em 2 minutos.",true);
+    }
+  }catch(e){}
   /* deep link vindo das leituras: ?area=<tema> abre Questões já filtrado */
   try{
     const area=new URLSearchParams(location.search).get("area");
