@@ -20,7 +20,12 @@ o que muda é o conteúdo, o formato da prova e o módulo da teórico-prática.
 - PWA: `manifest.webmanifest` + `sw.js` (network-first p/ HTML, cache-first p/ estáticos).
 - **DEPLOY: bumpar a constante `CACHE` do `sw.js` a CADA deploy** (tt-v2, tt-v3…). Sem isso o
   app fica preso na versão velha e a correção vira fantasma. Testar SW em **aba nova**.
-- Sem Firebase e sem sincronização: os dados vivem no aparelho (localStorage + espelho IndexedDB).
+- **Progresso na nuvem desde 22/09/2026** (`sync.js`, portado do RadioTítulo): Firestore central
+  `medtech-c658c`, um doc por item em `users/{uid}/apps/trafego-titulo/{col}/{id}`, junção item a
+  item com carimbo de tempo (nunca last-write-wins em bloco). `node testa_sync.js` = 29/29.
+  Mesmo domínio do portal (medtechbr.com.br) ⇒ a sessão do portal vale aqui; o app sonda em segundo
+  plano e liga sozinho. Sem login, continua 100% local (localStorage + espelho IndexedDB).
+  Motivo: a troca github.io → medtechbr.com.br prendeu o progresso local no endereço antigo.
 
 ## Abas
 Questões · Simulado · **Prática** · Painel · Cartões · Erros · Plano · Ajustes
