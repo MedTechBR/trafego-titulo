@@ -1,0 +1,860 @@
+[
+ {
+  "q": "A equipe do SAMU chega a colisão de carro contra poste: há fios elétricos energizados caídos sobre o veículo e o condutor está inconsciente lá dentro. Segundo o Protocolo PE1 do SAMU 192, qual é a conduta?",
+  "alts": [
+   "Abordar o condutor de imediato, pois a vítima inconsciente tem prioridade sobre o risco à equipe",
+   "Acionar por conta própria a concessionária de energia e entrar logo que o pedido for registrado",
+   "Afastar os fios com objeto de madeira seca e, em seguida, iniciar a avaliação primária da vítima",
+   "Posicionar-se em local seguro e próximo, informar a Regulação e aguardar o apoio antes de abordar",
+   "Aproximar-se pelo lado oposto aos fios e fazer só a estabilização cervical até o apoio chegar"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Segurança de cena (PE1)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida (Ministério da Saúde), Protocolo PE1, conduta 1 a 3 e observações",
+  "coment": "O PE1 abre com a regra que condiciona todo o resto: a avaliação da segurança da cena deve ser a primeira prioridade do profissional e deve anteceder o início da abordagem do paciente. Os três passos são: qual é a situação, para onde ela pode evoluir (fios energizados e soltos, choque elétrico) e como controlá-la. Definida a CENA INSEGURA, a equipe deve posicionar-se em local seguro e próximo, comunicar-se imediatamente com a Central de Regulação para informar detalhes e definir o apoio, e aguardar orientação no local seguro. Para rede elétrica afetada, a regra de posicionamento é ficar próximo aos postes ainda intactos. O protocolo é explícito: os acionamentos de apoio (companhia de energia, bombeiros, polícia) devem ser feitos pela Central de Regulação Médica, e o desejo de ajudar não deve se sobrepor à própria segurança da equipe.",
+  "porAlt": [
+   "O PE1 diz o oposto: a segurança da equipe é a primeira prioridade e antecede a abordagem.",
+   "O PE1 determina que os acionamentos de apoio sejam feitos pela Central de Regulação Médica.",
+   "Manipular fios energizados não está entre as ações previstas; a equipe aguarda o apoio.",
+   "Correta: cena insegura exige posição segura, contato com a Regulação e espera pelo apoio.",
+   "Qualquer aproximação expõe a equipe ao risco elétrico; o PE1 manda aguardar em local seguro."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo PE1 do SAMU 192, diante de cena de sinistro de trânsito com fogo e fumaça, como a equipe deve se posicionar?",
+  "alts": [
+   "A favor do vento e a pelo menos 50 metros de distância do local do evento",
+   "Contra o vento e a pelo menos 50 metros de distância do local do evento",
+   "A favor do vento e a pelo menos 20 metros de distância do local do evento",
+   "Contra o vento e a pelo menos 100 metros de distância do local do evento",
+   "Em local alto e distante, pois a direção do vento não altera a posição"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Segurança de cena (PE1)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo PE1, conduta 3 (regras de posicionamento na cena insegura)",
+  "coment": "O item 3 do PE1 lista regras básicas de posicionamento diante de riscos. Para materiais tóxicos inaláveis ou fumaça, levar em conta a direção do vento e posicionar-se sempre a favor do vento. Para fogo e fumaça na cena, além da direção do vento, posicionar-se pelo menos a 50 m de distância do local. As demais regras também caem em prova: com rede elétrica afetada, ficar próximo aos postes intactos; com escoamento de combustível, na direção contrária ao sentido do escoamento; com risco de inundação, em local alto e distante (essa é a regra da alternativa que ignora o vento); com risco de colapso de estruturas, considerar a propagação dos danos. A cena deve ser reavaliada com frequência, pois os fatores se alteram rapidamente.",
+  "porAlt": [
+   "Correta: fogo e fumaça pedem posição a favor do vento e a pelo menos 50 m do local.",
+   "A regra do PE1 é posicionar-se sempre A FAVOR do vento, não contra ele, diante de fumaça.",
+   "A distância mínima fixada pelo PE1 para fogo e fumaça é de 50 metros, e não de 20 metros.",
+   "O sentido do vento está invertido; e o PE1 fixa 50 metros, não 100 metros, como mínimo.",
+   "Local alto e distante é a regra para risco de inundação; no fogo, o vento é determinante."
+  ]
+ },
+ {
+  "q": "Ambulância do SAMU é a primeira a chegar a sinistro em rodovia de velocidade máxima de 80 km/h, sem chuva e em reta. Segundo o Protocolo PE7, onde estacionar e a que distância pôr a primeira sinalização?",
+  "alts": [
+   "Após o evento, com o primeiro cone a 80 passos da primeira barreira da cena",
+   "Antes do evento, com o primeiro cone a 40 passos da primeira barreira da cena",
+   "Após o evento, com o primeiro cone a 160 passos da primeira barreira da cena",
+   "Antes do evento, com o primeiro cone a 80 passos da primeira barreira da cena",
+   "Antes do evento, com o primeiro cone a 8 passos da primeira barreira da cena"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Sinalização da via (PE7)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo PE7, regras gerais para estacionamento e sinalização da via",
+  "coment": "O PE7 manda estacionar ANTES do evento quando a ambulância é o primeiro veículo a chegar; se a cena já estiver sinalizada e com outros veículos de serviço, estaciona-se APÓS o evento. A distância entre a primeira barreira da cena e a primeira sinalização (1º cone) segue a velocidade máxima da via, em passos: 80 km/h = 80 passos, 70 = 70, 60 = 60, 50 = 50, 40 = 40. Essa distância dá tempo de frenagem e reposicionamento aos veículos que se aproximam. Com chuva, neblina ou baixa visibilidade, a distância deve ser aumentada e até dobrada; em curva, é calculada totalmente antes da curva. Os cones seguem idealmente um a cada 10 passos. A ambulância fica no sentido da via, com giroflex e pisca-alerta ligados.",
+  "porAlt": [
+   "Estacionar após o evento é a regra quando a cena já está sinalizada, não para o primeiro a chegar.",
+   "Quarenta passos correspondem à via de 40 km/h; a de 80 km/h exige 80 passos até o 1º cone.",
+   "O posicionamento está errado e dobrar a distância só se aplica a chuva ou baixa visibilidade.",
+   "Correta: o primeiro a chegar estaciona antes, e 80 km/h correspondem a 80 passos até o cone.",
+   "Oito passos não dão tempo de frenagem; a tabela do PE7 fixa um passo por km/h da via."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BT1 do SAMU 192, o que deve ser feito simultaneamente à avaliação da responsividade da vítima com suspeita de trauma?",
+  "alts": [
+   "Colocação imediata do colar cervical e aferição da pressão arterial sistêmica",
+   "Controle de hemorragia externa com torniquete e checagem do pulso carotídeo",
+   "Estabilização manual da coluna cervical e início da verificação da respiração",
+   "Aplicação da Escala de Coma de Glasgow e avaliação do reflexo pupilar à luz",
+   "Retirada das vestes por corte e instalação da manta aluminizada no paciente"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Avaliação primária no trauma (BT1)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT1, conduta 2",
+  "coment": "O BT1 vale para toda abordagem de paciente com suspeita de trauma ou em situação ignorada. Depois de garantir a segurança do local (PE1), o passo 2 é avaliar a responsividade (chamar o paciente) e executar SIMULTANEAMENTE a estabilização manual da coluna cervical e iniciar a verificação da respiração. O colar cervical só aparece no passo 3, 'assim que possível'; o controle de sangramentos e a checagem dos pulsos central e radial pertencem ao passo 5 (circulação); o Glasgow ou AVDI e as pupilas, ao passo 6; e o corte das vestes com prevenção da hipotermia, ao passo 7. A pegadinha é tratar a estabilização cervical como etapa isolada: no protocolo brasileiro ela acontece junto com o chamado à vítima.",
+  "porAlt": [
+   "O colar vem no passo 3, assim que possível; a PA é aferida precocemente só no passo 5.",
+   "Hemorragia e pulsos pertencem ao passo 5 (circulação), não ao chamado inicial à vítima.",
+   "Correta: o passo 2 une responsividade, estabilização cervical e início da checagem respiratória.",
+   "Glasgow e pupilas compõem o passo 6 (estado neurológico) da avaliação primária do BT1.",
+   "Corte das vestes e manta aluminizada são o passo 7 (exposição e controle da hipotermia)."
+  ]
+ },
+ {
+  "q": "Vítima de colisão frontal, no passo de circulação da avaliação primária, tem pulso carotídeo palpável e pulso radial ausente. Segundo o Protocolo BT1 do SAMU 192, qual protocolo deve ser seguido?",
+  "alts": [
+   "O Protocolo de Choque (BT4), pela ausência do radial com o central presente",
+   "O Protocolo de PCR (BC5), pois a ausência do pulso radial já define a parada",
+   "O Protocolo de TCE (BT5), pois a falta do pulso radial decorre de lesão cerebral",
+   "O Protocolo de Choque (BT4) só se houver também a ausência do pulso central",
+   "O Protocolo de Trauma de Membros (BT12), por provável lesão arterial do braço"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Avaliação primária no trauma (BT1)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT1, conduta 5",
+  "coment": "O passo 5 do BT1 (circulação) transforma o exame dos pulsos em árvore de decisão: pulso radial ausente e pulso central presente, seguir o Protocolo de Choque (BT4); pulso radial ausente e pulso central ausente, seguir o Protocolo de PCR (BC5). O mesmo passo manda controlar sangramentos externos com compressão direta e/ou torniquete, avaliar o reenchimento capilar (normal até 2 segundos), as características da pele e, se possível, aferir precocemente a pressão arterial. A pegadinha está em confundir a perda do pulso periférico, que traduz hipoperfusão, com a parada cardiorrespiratória, que exige a ausência também do pulso central.",
+  "porAlt": [
+   "Correta: radial ausente com central presente remete ao Protocolo de Choque (BT4).",
+   "A PCR (BC5) exige ausência também do pulso central, que neste caso está presente.",
+   "O BT1 não relaciona a ausência de pulso radial a TCE, e sim à hipoperfusão (choque).",
+   "Radial e central ausentes levam ao Protocolo de PCR, não ao de choque, pelo BT1.",
+   "O caso descreve hipoperfusão sistêmica após colisão, não lesão isolada de membro."
+  ]
+ },
+ {
+  "q": "Na avaliação primária do traumatizado pelo Protocolo BT1 do SAMU 192, quais são os critérios para oxigênio por máscara facial e para ventilação assistida com bolsa-válvula-máscara?",
+  "alts": [
+   "O2 10 a 15 L/min se SatO2 < 90%; BVM com reservatório se FR < 10 mrm",
+   "O2 2 a 4 L/min se SatO2 < 94%; BVM com reservatório se FR < 12 mrm",
+   "O2 10 a 15 L/min se SatO2 < 94%; BVM com reservatório se FR < 8 mrm",
+   "O2 10 a 15 L/min se SatO2 < 98%; BVM com reservatório se FR > 30 mrm",
+   "O2 6 a 8 L/min se SatO2 < 92%; BVM com reservatório se FR < 8 mrm"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Via aérea e ventilação (BT1)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT1, condutas 3 e 4",
+  "coment": "No passo 3 (vias aéreas), o BT1 manda realizar oximetria e oferecer O2 por máscara facial, 10 a 15 L/min, se SatO2 < 94%, além de manobras de abertura para o trauma, retirada de secreções e corpos estranhos, considerar cânula orofaríngea e colocar o colar cervical assim que possível. No passo 4 (respiração), manda considerar ventilação assistida com BVM com reservatório caso a frequência respiratória seja inferior a 8 mrm, ou quando o paciente não mantiver ventilação ou oxigenação adequadas. O mesmo corte de 94% se repete nos protocolos de choque (BT4), TCE (BT5) e trauma abdominal. Os números vizinhos (90%, 92%, 98%; FR 10 ou 12) são as pegadinhas clássicas.",
+  "porAlt": [
+   "O corte de saturação do BT1 é 94%, e o da BVM é FR inferior a 8 mrm, não a 10 mrm.",
+   "O fluxo por máscara no BT1 é de 10 a 15 L/min; o corte da BVM é FR abaixo de 8 mrm.",
+   "Correta: máscara a 10–15 L/min se SatO2 < 94% e BVM com reservatório se FR < 8 mrm.",
+   "O corte é 94%, e taquipneia acima de 30 não é o critério de BVM previsto no BT1.",
+   "O fluxo do BT1 é de 10 a 15 L/min e o corte de saturação é 94%, não 92% como aqui."
+  ]
+ },
+ {
+  "q": "Na avaliação secundária do trauma pelo Protocolo BT2 do SAMU 192, a entrevista segue o mnemônico SAMPLA. O que corresponde à letra P?",
+  "alts": [
+   "Pressão arterial e pulso, aferidos antes do exame da cabeça aos pés",
+   "Passado médico e prenhez, ou seja, problemas de saúde e gravidez",
+   "Pupilas e padrão respiratório, vistos no exame do segmento cefálico",
+   "Perfusão periférica, medida pelo reenchimento capilar até 2 segundos",
+   "Posição da vítima na cena e parte do corpo que sofreu o impacto"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Avaliação secundária (BT2)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT2, conduta 1",
+  "coment": "O protocolo brasileiro usa SAMPLA, e não AMPLA: S = sintomas e principal queixa; A = alergias; M = medicamentos e/ou tratamentos em uso; P = passado médico/prenhez (gravidez); L = líquidos ou alimentos ingeridos e última refeição; A = ambiente do evento. Em pacientes inconscientes ou impossibilitados de responder, as informações são buscadas com circundantes ou familiares. A entrevista acompanha a verificação dos sinais vitais (respiração, pulso, pressão arterial, pele) e precede a avaliação complementar (oximetria e glicemia capilar) e o exame da cabeça aos pés, frente e dorso, por inspeção seguida de palpação. A inclusão da prenhez no P é o detalhe que diferencia o mnemônico e muda condutas na gestante traumatizada.",
+  "porAlt": [
+   "Pressão e pulso integram os sinais vitais do BT2, mas não são a letra P do SAMPLA.",
+   "Correta: no SAMPLA, o P corresponde a passado médico e prenhez (gravidez).",
+   "Pupilas são avaliadas no exame da cabeça, fora do mnemônico da entrevista SAMPLA.",
+   "O reenchimento capilar é dado da circulação na avaliação primária, não do SAMPLA.",
+   "O ambiente do evento é o último A do SAMPLA; posição e impacto são dados da cinemática."
+  ]
+ },
+ {
+  "q": "Motorista sofre colisão lateral com intrusão da porta do seu lado. Segundo o Protocolo BT3 do SAMU 192, qual conjunto de lesões é esperado nesse tipo de impacto?",
+  "alts": [
+   "Lesão de coluna por hiperextensão (chicote), sem outras lesões associadas ao impacto",
+   "Fratura ou luxação de joelho e tornozelo, por impacto contra o painel do condutor",
+   "Síndrome de Don Juan, com lesão de calcâneos, tíbias, fíbulas, joelhos e quadril",
+   "Fratura de clavícula, das costelas e da pelve, e entorse contralateral do pescoço",
+   "Contusão miocárdica e secção de aorta por deformidade do volante contra o tórax"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Cinemática: impacto lateral (BT3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT3, item 1 (colisões automobilísticas — impacto lateral)",
+  "coment": "O BT3 relaciona o tipo de impacto às lesões esperadas. No IMPACTO LATERAL: fratura de clavícula, fratura de costelas, contusão pulmonar, pneumotórax, compressão de órgãos sólidos, entorse contralateral do pescoço, fratura de coluna cervical e fratura de pelve ou acetábulo; no veículo, intrusão da porta e do painel lateral. Já o impacto FRONTAL se associa a tórax instável anterior, contusão miocárdica, secção de aorta, lesão de baço ou fígado e fratura/luxação de quadril, joelho e tornozelo, com deformidade do volante e para-brisa em 'olho de boi'. O impacto TRASEIRO produz lesão por hiperextensão (chicote). A síndrome de Don Juan é da QUEDA em pé. Reconhecer o padrão pelo dano ao veículo amplia a suspeição antes mesmo do exame.",
+  "porAlt": [
+   "A hiperextensão (chicote) é a lesão típica do impacto traseiro, não do lateral.",
+   "Lesões de joelho e tornozelo contra o painel são padrão do impacto frontal no BT3.",
+   "A síndrome de Don Juan é descrita no BT3 para a queda com os pés atingindo o solo.",
+   "Correta: é o padrão que o BT3 atribui ao impacto lateral, com intrusão da porta.",
+   "Contusão miocárdica e secção de aorta com volante deformado indicam impacto frontal."
+  ]
+ },
+ {
+  "q": "Condutor parado no semáforo é atingido na traseira por outro veículo. Segundo o Protocolo BT3 do SAMU 192, qual é a lesão esperada e que item do veículo deve ser avaliado?",
+  "alts": [
+   "Fratura de clavícula e de costelas, avaliando a intrusão da porta do lado do condutor",
+   "Secção de aorta e lesão de baço, avaliando a deformidade do volante e marcas no painel",
+   "Fratura de pelve e do acetábulo, avaliando a intrusão do painel lateral do automóvel",
+   "Lesão de órgãos internos por ejeção, avaliando impactos de ângulos diferentes no carro",
+   "Lesão de coluna por hiperextensão (chicote), avaliando a posição do encosto de cabeça"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Cinemática: impacto traseiro (BT3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT3, item 1 (impacto traseiro)",
+  "coment": "Para o IMPACTO TRASEIRO, o BT3 lista como lesão esperada a lesão de coluna por hiperextensão (chicote), com achado de intrusão da parte posterior do veículo-alvo, e traz uma observação específica: avaliar a posição do encosto de cabeça. O encosto mal regulado, baixo ou afastado da cabeça permite a hiperextensão cervical quando o tronco é projetado para a frente pelo banco. As demais alternativas descrevem outros padrões do mesmo protocolo: clavícula, costelas e pelve com intrusão de porta ou painel lateral (impacto lateral); secção de aorta e lesão de baço com volante deformado (impacto frontal); lesões variadas e ejeção com impactos de ângulos diferentes (capotamento).",
+  "porAlt": [
+   "Clavícula, costelas e intrusão da porta caracterizam o impacto lateral, não o traseiro.",
+   "Aorta, baço e deformidade do volante compõem o padrão do impacto frontal no BT3.",
+   "Pelve, acetábulo e intrusão do painel lateral também são padrão do impacto lateral.",
+   "Ejeção com impactos de ângulos diferentes é o padrão descrito para o capotamento.",
+   "Correta: o chicote é a lesão do impacto traseiro, e o BT3 manda avaliar o encosto de cabeça."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BT3 do SAMU 192, quais são os três impactos que devem ser considerados no atropelamento de um adulto?",
+  "alts": [
+   "Cabeça contra o para-brisa; tórax contra o para-choque; membros contra o chão",
+   "Membros inferiores e quadris; tronco contra o capô; paciente contra o chão",
+   "Membros inferiores e quadris; cabeça contra o para-choque; tórax contra o chão",
+   "Tórax contra a grade frontal; abdome contra o capô; cabeça contra o meio-fio",
+   "Pelve contra o para-choque; membros superiores no capô; coluna contra o chão"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Cinemática: atropelamento (BT3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT3, item 1 (atropelamento)",
+  "coment": "No atropelamento, o BT3 manda avaliar os 3 impactos no adulto: contra os membros inferiores e quadris; do tronco contra o capô; e do paciente contra o chão. Manda também considerar o peso e a altura do paciente em relação à altura do veículo, porque isso muda o ponto de contato inicial. As lesões esperadas são traumatismo craniano, traumatismo raquimedular, lesões torácicas e abdominais, fraturas das extremidades inferiores e ejeção; no veículo, intrusão da parte anterior e para-brisa quebrado. O atropelamento consta ainda, no mesmo protocolo, entre as situações em que se deve suspeitar de traumatismo grave.",
+  "porAlt": [
+   "A sequência descrita não é a do BT3, que começa pelos membros inferiores e quadris.",
+   "Correta: membros inferiores e quadris, tronco contra o capô e paciente contra o chão.",
+   "O segundo impacto do BT3 é o do tronco contra o capô, não o da cabeça no para-choque.",
+   "O BT3 não descreve grade frontal nem meio-fio entre os três impactos do atropelamento.",
+   "O BT3 parte dos membros inferiores e quadris, não da pelve e dos membros superiores."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BT3 do SAMU 192, qual das situações abaixo NÃO consta entre os critérios para suspeitar de traumatismo grave?",
+  "alts": [
+   "Colisão com veículo a mais de 30 km/h, com danos graves ao automóvel",
+   "Morte de um ocupante do veículo envolvido no mesmo sinistro de trânsito",
+   "Ejeção do paciente do veículo ou capotamento do automóvel no sinistro",
+   "Colisão a 20 km/h com airbag acionado e todos os ocupantes com cinto",
+   "Atropelamento ou ferimento penetrante de cabeça, pescoço, tórax ou coxa"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Cinemática: critérios de gravidade (BT3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT3, item 5 (suspeitar de traumatismo grave)",
+  "coment": "O item 5 do BT3 lista quando suspeitar de traumatismo grave: quedas acima de 1,5 vez a altura do paciente; atropelamento; colisões com veículos a mais de 30 km/h; ejeção do paciente; morte de um ocupante de veículo acidentado; danos graves ao veículo; capotamentos; e ferimentos penetrantes de cabeça, pescoço, tórax, abdome, pelve e coxa. Uma colisão a 20 km/h, com airbag acionado e ocupantes contidos, não preenche nenhum desses critérios por si só. O critério de velocidade é o número que mais cai (30 km/h), e a morte de outro ocupante é o critério que o candidato costuma esquecer, porque indica que a energia do impacto foi letal para alguém dentro do mesmo veículo.",
+  "porAlt": [
+   "Colisão acima de 30 km/h e danos graves ao veículo estão entre os critérios do item 5.",
+   "A morte de um ocupante do veículo acidentado é critério expresso de traumatismo grave.",
+   "Ejeção do paciente e capotamento constam da lista de critérios de traumatismo grave.",
+   "Correta: 20 km/h com ocupantes contidos não preenche critério algum do item 5 do BT3.",
+   "Atropelamento e ferimentos penetrantes dessas regiões constam da lista do BT3."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BT3 do SAMU 192, qual é a particularidade cinemática das colisões de motocicleta e quais achados devem ser procurados?",
+  "alts": [
+   "Baixo risco de ejeção, pela posição sentada; impacto no tanque e no escapamento",
+   "Alto risco de ejeção, sem contenção; sinais de impacto no capacete e no guidão",
+   "Risco de chicote cervical, sem encosto; deformidade do banco e do bagageiro",
+   "Alto risco de ejeção, por falta de contenção; para-brisa do carro em olho de boi",
+   "Predomínio de lesão de membros superiores; impacto nos retrovisores e pedais"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Cinemática: motocicleta (BT3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT3, item 1 (colisões de motocicleta)",
+  "coment": "Para as colisões de motocicleta, o BT3 lista como lesões esperadas o traumatismo craniano, o traumatismo raquimedular, lesões de membros inferiores, lesões torácicas e abdominais e fraturas das extremidades inferiores, e faz uma observação central: por não haver contenção, há alto risco de ejeção e das lesões dela decorrentes. Os achados a procurar são os sinais de impacto no capacete e no guidão. O para-brisa em 'olho de boi' é achado do impacto frontal de automóvel, sinal de que a cabeça do ocupante o atingiu. O capacete danificado, aliás, também figura entre os critérios de suspeita de trauma raquimedular do Protocolo BT11 ('dano significativo no capacete').",
+  "porAlt": [
+   "O BT3 diz o contrário: por não haver contenção, o risco de ejeção do motociclista é alto.",
+   "Correta: sem contenção, a ejeção é provável; procuram-se marcas no capacete e no guidão.",
+   "O chicote por falta de apoio de cabeça é descrito para o impacto traseiro de automóvel.",
+   "O para-brisa em olho de boi é achado do impacto frontal de automóvel, não da moto.",
+   "O BT3 destaca crânio, coluna, tórax, abdome e membros inferiores, não os superiores."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BT4 do SAMU 192, qual conjunto de achados caracteriza o reconhecimento do choque na vítima de trauma?",
+  "alts": [
+   "PAS < 100 mmHg, FC > 120 bpm, enchimento capilar > 3 s e pele quente e seca",
+   "PAS < 80 mmHg, FC > 90 bpm, enchimento capilar > 4 s e pele rosada e seca",
+   "PAS < 90 mmHg, FC > 100 bpm, enchimento capilar > 2 s e pele fria e pegajosa",
+   "PAS < 90 mmHg, FC < 60 bpm, enchimento capilar < 2 s e pele quente e úmida",
+   "PAS < 70 mmHg, FC > 140 bpm, enchimento capilar > 5 s e pele cianótica e seca"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Choque (BT4)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT4, critérios de inclusão",
+  "coment": "O BT4 define o choque pelo reconhecimento de sinais e sintomas: pele fria, úmida e pegajosa; coloração pálida ou cianótica; pressão arterial diminuída (PAS < 90 mmHg); nível de consciência alterado; enchimento capilar > 2 segundos; frequência cardíaca aumentada (> 100 bpm); e frequência respiratória alterada (< 8 ou > 28 mrm). A conduta enfatiza manter a via aérea, estabilizar a coluna, O2 sob máscara não reinalante 10 a 15 L/min se SatO2 < 94%, identificar e controlar sangramentos (compressão, torniquete, imobilização de pelve e membros) e prevenir a hipotermia. A observação final é a regra de ouro do APH: diante do traumatizado em choque, considerar a causa hemorrágica até prova em contrário.",
+  "porAlt": [
+   "Os cortes do BT4 são PAS < 90 e FC > 100, e a pele do choque é fria e pegajosa.",
+   "O BT4 usa PAS < 90 e FC > 100; pele rosada e seca não compõe o quadro descrito.",
+   "Correta: são os cortes do BT4 — PAS < 90, FC > 100, EC > 2 s e pele fria e pegajosa.",
+   "Bradicardia com pele quente lembra o choque neurogênico, não os critérios do BT4.",
+   "Os números estão exagerados; o BT4 fixa PAS < 90 mmHg e enchimento capilar > 2 s."
+  ]
+ },
+ {
+  "q": "Motociclista com TCE e sinais de choque hemorrágico recebe reposição volêmica da equipe de suporte avançado. Segundo o Protocolo AT4 do SAMU 192, qual é a meta de pressão sistólica?",
+  "alts": [
+   "Manter a PAS acima de 90 mmHg, meta própria do TCE, em vez de acima de 80 mmHg",
+   "Manter a PAS acima de 80 mmHg, meta geral do choque, sem ajuste pela presença do TCE",
+   "Manter a PAS acima de 120 mmHg, para garantir perfusão cerebral no paciente com TCE",
+   "Manter a PAS entre 70 e 80 mmHg, como hipotensão permissiva também no TCE grave",
+   "Manter a PAS acima de 100 mmHg, meta própria do TCE, em vez de acima de 90 mmHg"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Choque e TCE no suporte avançado (AT4/AT5)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida (Ministério da Saúde), Protocolo AT4, conduta 4, e Protocolo AT5, conduta 6",
+  "coment": "O AT4 manda repor a volemia com solução cristaloide isotônica com o objetivo de manter a pressão sistólica > 80 mmHg e acrescenta: no TCE, considerar manter a pressão sistólica > 90 mmHg. O AT5 (TCE) repete a meta, pedindo reposição conforme o protocolo do choque com ênfase na manutenção da PAS > 90 mmHg. A lógica é evitar a lesão cerebral secundária: o AT5 manda impedir o agravamento da lesão primária controlando hipoxemia, glicemia, temperatura e pressão arterial. A pegadinha é aplicar ao TCE a meta geral de 80 mmHg (hipotensão permissiva), que o próprio protocolo corrige para 90 mmHg quando há trauma cranioencefálico.",
+  "porAlt": [
+   "Correta: no TCE o AT4 e o AT5 elevam a meta de PAS de 80 para acima de 90 mmHg.",
+   "Os 80 mmHg são a meta geral; no TCE o AT4 manda considerar manter a PAS acima de 90.",
+   "Os protocolos AT4 e AT5 não fixam meta de 120 mmHg para o paciente com TCE.",
+   "Hipotensão permissiva abaixo de 80 mmHg contraria a meta do TCE fixada no AT4 e AT5.",
+   "A meta do TCE nos protocolos é PAS acima de 90 mmHg, e não acima de 100 mmHg."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo AT4 do SAMU 192, como deve ser feita a reposição volêmica no choque hipovolêmico secundário ao trauma?",
+  "alts": [
+   "Com cristaloide em temperatura ambiente, tendo o soro fisiológico como primeira escolha",
+   "Com cristaloide aquecido a 39 °C, tendo o ringer lactato como solução de primeira escolha",
+   "Com coloide aquecido a 37 °C, tendo a albumina como solução de primeira escolha no APH",
+   "Com cristaloide aquecido a 42 °C, tendo o soro glicosado como solução de primeira escolha",
+   "Com cristaloide resfriado a 4 °C, tendo o ringer lactato como solução de primeira escolha"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Reposição volêmica no trauma (AT4)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolo AT4, observações",
+  "coment": "As observações do AT4 dizem que, no choque hipovolêmico secundário ao trauma, a reposição volêmica deve ser administrada preferencialmente com solução cristaloide aquecida a 39 °C, e que o ringer lactato é a solução cristaloide de 1ª escolha, seguido da solução salina 0,9%. O aquecimento combate a hipotermia, que agrava a coagulopatia. O mesmo protocolo prevê acesso venoso periférico, punção intraóssea após 2 tentativas sem sucesso e, na impossibilidade da IO, dissecção venosa (preferência pela veia safena) ou punção de jugular externa. A meta pressórica é PAS > 80 mmHg, e > 90 mmHg no TCE.",
+  "porAlt": [
+   "O AT4 prefere cristaloide aquecido, e a 1ª escolha é o ringer lactato, não o soro fisiológico.",
+   "Correta: cristaloide aquecido a 39 °C, com o ringer lactato como primeira escolha.",
+   "O AT4 prevê cristaloide isotônico, não coloide nem albumina, na reposição do trauma.",
+   "A temperatura indicada é 39 °C, e soro glicosado não é cristaloide de reposição volêmica.",
+   "Solução resfriada agrava a hipotermia; o AT4 recomenda cristaloide aquecido a 39 °C."
+  ]
+ },
+ {
+  "q": "Segundo a classificação do choque hipovolêmico adotada no Protocolo AT4 do SAMU 192, a partir de qual classe a pressão arterial deixa de ser normal e passa a estar diminuída?",
+  "alts": [
+   "Classe II, com perda de 750 a 1.500 mL (15–30%) e FC entre 100 e 120 bpm",
+   "Classe I, com perda inferior a 750 mL (menos de 15%) e FC abaixo de 100 bpm",
+   "Classe III, com perda de 1.500 a 2.000 mL (30–40%) e FC entre 120 e 140 bpm",
+   "Classe IV, com perda acima de 2.000 mL (mais de 40%) e FC acima de 140 bpm",
+   "Classe II, com perda de 1.500 a 2.000 mL (30–40%) e FC entre 100 e 120 bpm"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Classes do choque hipovolêmico (AT4)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolo AT4, tabela de classificação do choque hipovolêmico",
+  "coment": "A tabela do AT4 gradua o choque hipovolêmico em quatro classes. Classe I: perda < 750 mL (< 15%), FC < 100, PA normal, ansiedade discreta. Classe II: 750–1.500 mL (15–30%), FC 100–120, PA normal, ansiedade leve. Classe III: 1.500–2.000 mL (30–40%), FC 120–140, PA DIMINUÍDA, ansiedade e confusão. Classe IV: > 2.000 mL (> 40%), FC > 140, PA diminuída, confusão e letargia. O ponto de prova é que a pressão arterial se mantém normal nas classes I e II: a hipotensão só aparece com perdas de 30% ou mais do volume. Esperar a queda da PA para reconhecer o choque é chegar tarde — por isso o BT1 manda avaliar pulso, pele e reenchimento capilar antes.",
+  "porAlt": [
+   "Na classe II a tabela do AT4 registra a pressão arterial ainda normal.",
+   "Na classe I a perda é menor que 15% e a pressão arterial permanece normal.",
+   "Correta: a classe III (30–40%) é a primeira com pressão arterial diminuída.",
+   "A classe IV tem PA diminuída, mas a queda já começa na classe III da tabela.",
+   "Mistura dados: perdas de 30–40% com FC 120–140 definem a classe III, não a II."
+  ]
+ },
+ {
+  "q": "Vítima de capotamento abre os olhos só ao estímulo doloroso, pronuncia palavras inapropriadas e localiza o estímulo doloroso. Pelo Protocolo BP14 do SAMU 192, qual é a pontuação e a classificação do TCE?",
+  "alts": [
+   "Glasgow 10 (2 + 3 + 5), correspondente a TCE grave (3 a 10 pontos)",
+   "Glasgow 11 (3 + 3 + 5), correspondente a TCE moderado (9 a 12 pontos)",
+   "Glasgow 9 (2 + 3 + 4), correspondente a TCE moderado (9 a 12 pontos)",
+   "Glasgow 12 (2 + 4 + 6), correspondente a TCE leve (12 a 15 pontos)",
+   "Glasgow 10 (2 + 3 + 5), correspondente a TCE moderado (9 a 12 pontos)"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Escala de Coma de Glasgow (BP14)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BP14, tabela e observações",
+  "coment": "Pelo BP14: abertura ocular ao estímulo doloroso = 2 (espontânea 4, ao comando verbal 3, nenhuma 1); palavras inapropriadas = 3 na melhor resposta verbal (orientada 5, confusa 4, sons incompreensíveis 2, nenhuma 1); localiza o estímulo doloroso = 5 na melhor resposta motora (obedece 6, retirada 4, flexão anormal/decorticação 3, extensão anormal/descerebração 2, nenhuma 1). Total: 2 + 3 + 5 = 10. As observações do protocolo classificam o TCE em leve (13 a 15), moderado (9 a 12) e grave (3 a 8). A escala vai de 3 a 15, cada indicador é avaliado de forma independente e, se houver impedimento em algum item, pontua-se 1 com justificativa.",
+  "porAlt": [
+   "A soma 10 está certa, mas o TCE grave vai de 3 a 8 pontos segundo o BP14.",
+   "Abrir os olhos à dor vale 2, não 3; a abertura ao comando verbal é que vale 3.",
+   "Localizar a dor vale 5; a retirada em flexão é que vale 4 na resposta motora.",
+   "Palavras inapropriadas valem 3 e localizar a dor vale 5; e o leve vai de 13 a 15.",
+   "Correta: 2 + 3 + 5 = 10, faixa do TCE moderado (9 a 12 pontos) no BP14."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo AT5 do SAMU 192, qual é a orientação sobre ventilação e sobre avaliação pupilar no TCE atendido pela equipe de suporte avançado?",
+  "alts": [
+   "Hiperventilar de forma profilática e pesquisar sinais focais se assimetria pupilar > 3 mm",
+   "Hiperventilar só se Glasgow < 12 e pesquisar sinais focais se assimetria pupilar > 2 mm",
+   "Não ventilar com pressão positiva e considerar normal toda assimetria pupilar até 3 mm",
+   "Hiperventilar de rotina após a intubação e valorizar apenas a midríase bilateral fixa",
+   "Não hiperventilar profilaticamente e pesquisar sinais focais se assimetria pupilar > 1 mm"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "TCE no suporte avançado (AT5)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolo AT5, conduta 7 e observações",
+  "coment": "O AT5 traz duas regras objetivas. Na avaliação secundária, avaliar as pupilas e, se houver assimetria > 1 mm, pesquisar sinais focais. Nas observações, 'não hiperventilar de forma profilática'. O protocolo ainda manda O2 em alto fluxo para SatO2 ≥ 94%, considerar BVM e via aérea avançada se a ventilação ou oxigenação não forem adequadas, manter PAS > 90 mmHg, repetir o Glasgow de forma seriada (e informá-lo ao hospital), avaliar glicemia e prevenir a perda de calor. A meta é evitar a lesão secundária controlando hipoxemia, glicemia, temperatura e pressão. A hiperventilação profilática reduz o fluxo sanguíneo cerebral e é justamente o que o protocolo proíbe.",
+  "porAlt": [
+   "O AT5 proíbe a hiperventilação profilática, e o corte de assimetria pupilar é 1 mm.",
+   "O AT5 não autoriza hiperventilar por corte de Glasgow; o corte pupilar é de 1 mm.",
+   "O AT5 prevê BVM e via aérea avançada quando necessárias; assimetria > 1 mm é anormal.",
+   "Hiperventilar de rotina contraria o AT5, que valoriza já a assimetria acima de 1 mm.",
+   "Correta: o AT5 proíbe a hiperventilação profilática e valoriza assimetria acima de 1 mm."
+  ]
+ },
+ {
+  "q": "Vítima de ferimento aberto no tórax recebe curativo oclusivo de 3 pontos e, minutos depois, apresenta piora do esforço respiratório. Segundo o Protocolo BT8 do SAMU 192, qual é a conduta?",
+  "alts": [
+   "Converter o curativo em oclusivo nos 4 lados, para vedar por completo a entrada de ar",
+   "Remover o curativo para descomprimir a tensão acumulada e fixá-lo novamente em seguida",
+   "Manter o curativo e iniciar ventilação com pressão positiva vigorosa com BVM e reservatório",
+   "Retirar o curativo em definitivo e tamponar o ferimento com gaze seca e compressa estéril",
+   "Manter o curativo e aguardar a chegada ao hospital, pois a piora é esperada nesse quadro"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Pneumotórax aberto (BT8)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT8, condutas 5 a 7 e observações",
+  "coment": "O BT8 manda cobrir imediatamente o ferimento com curativo oclusivo de plástico ou papel metálico, fixado em 3 pontos/lados, oferecer O2 em alto fluxo para SatO2 ≥ 94% e manter atenção para novo esforço respiratório. Em caso de piora do esforço respiratório, remover o curativo de 3 pontos para permitir a descompressão da tensão acumulada, fixando-o novamente em seguida — a piora sugere evolução para pneumotórax hipertensivo. Se ocorrer parada respiratória, inicia-se ventilação com BVM após a aplicação do curativo. A observação final pede cautela: ventilação com pressão positiva deve ser cuidadosa, pelo risco de pneumotórax hipertensivo. Selar os quatro lados elimina a válvula de escape e é o erro clássico.",
+  "porAlt": [
+   "Vedar os 4 lados elimina a saída de ar e favorece o pneumotórax hipertensivo.",
+   "Correta: o BT8 manda retirar o curativo para descomprimir e reposicioná-lo em seguida.",
+   "O BT8 pede ventilação com pressão positiva cuidadosa, pelo risco de hipertensivo.",
+   "O curativo é removido só para a descompressão e deve ser fixado de novo em seguida.",
+   "A piora do esforço exige ação imediata no local, conforme a conduta 6 do BT8."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo AP11 do SAMU 192, qual é a técnica da punção de descompressão no pneumotórax hipertensivo?",
+  "alts": [
+   "Cateter 22G de 2 cm no 5º espaço intercostal da linha axilar média, na borda inferior da costela",
+   "Cateter 14G de 5 cm no 2º ou 3º espaço intercostal hemiclavicular, na borda inferior da costela",
+   "Cateter 18G de 3 cm no 4º espaço intercostal da linha paraesternal, na borda superior da costela",
+   "Cateter 14G de 5 cm no 2º ou 3º espaço intercostal hemiclavicular, na borda superior da costela",
+   "Cateter 14G de 5 cm no 7º espaço intercostal da linha axilar posterior, na borda superior da costela"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Punção de descompressão (AP11)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolo AP11, material e procedimentos 3 e 6",
+  "coment": "O AP11 especifica cateter intravenoso calibroso (cateter sobre agulha de metal) 14G com no mínimo 5 cm de comprimento. O referencial anatômico é o 2º ou 3º espaço intercostal, na linha médio-clavicular/hemiclavicular, do lado afetado confirmado pela ausculta. O conjunto, acoplado a uma seringa, é inserido na borda superior da costela inferior, em ângulo de 90° com a pele; ao entrar na cavidade, a seringa pode encher-se de ar e não se avança mais. O 2º espaço é localizado pelo ângulo de Louis ou contando as costelas a partir da clavícula. Entrar pela borda inferior da costela arrisca o feixe vasculonervoso intercostal, que corre ali.",
+  "porAlt": [
+   "O AP11 prevê cateter 14G com ao menos 5 cm, no 2º ou 3º espaço, na borda superior.",
+   "A borda inferior da costela abriga o feixe vasculonervoso; o AP11 manda entrar na superior.",
+   "Calibre, comprimento e local divergem do AP11, que usa 14G de 5 cm na hemiclavicular.",
+   "Correta: 14G de no mínimo 5 cm, 2º ou 3º espaço hemiclavicular, borda superior da costela.",
+   "O AP11 descreve o 2º ou 3º espaço na linha hemiclavicular, não o 7º espaço axilar."
+  ]
+ },
+ {
+  "q": "Segundo os Protocolos AT8 e AT9 do SAMU 192, qual conduta é recomendada na vítima de trauma torácico com fraturas de costelas?",
+  "alts": [
+   "Enfaixar o tórax com atadura circular apertada, para reduzir a dor à inspiração profunda",
+   "Imobilizar com o braço do paciente e tipoia, sem enfaixar o tórax nem fixar o segmento",
+   "Estabilizar o segmento afundado com saco de areia, para corrigir o movimento paradoxal",
+   "Desencorajar a tosse e a inspiração profunda, para não deslocar os arcos fraturados",
+   "Fixar o segmento instável com esparadrapo largo, deixando o braço do paciente livre"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Fratura de costela e tórax instável (AT8/AT9)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolo AT8 (condutas 7 e 8, observações) e Protocolo AT9 (observações)",
+  "coment": "O AT8 manda imobilizar usando o braço do paciente, tipoia e faixas, e encorajar a inspiração profunda ou a tosse, apesar da dor, para prevenir atelectasias, pneumonias e alcalose respiratória; nas observações, veda estabilizar com enfaixamento, bandagens ou ataduras circundando o tórax. O AT9 define tórax instável como dois ou mais arcos costais adjacentes fraturados em pelo menos dois pontos e determina: não realizar tentativas de estabilização do segmento torácico afundado por qualquer meio. Lembra ainda que o excesso de líquidos piora a ventilação, que a ventilação com pressão positiva aumenta o risco de pneumotórax e que a contusão pulmonar subjacente deve ser considerada.",
+  "porAlt": [
+   "O AT8 veda enfaixar o tórax com ataduras circulares, que restringem a ventilação.",
+   "Correta: braço e tipoia imobilizam sem enfaixar o tórax nem fixar o segmento instável.",
+   "O AT9 proíbe tentar estabilizar o segmento afundado por qualquer meio, inclusive sacos.",
+   "O AT8 manda encorajar a tosse e a inspiração profunda, para prevenir atelectasias.",
+   "Fixar o segmento com esparadrapo é tentativa de estabilização vedada pelo AT9."
+  ]
+ },
+ {
+  "q": "Vítima de colisão tem dispneia, murmúrio vesicular diminuído à direita, macicez à percussão desse lado e sinais de choque. Segundo os protocolos de suporte avançado do SAMU 192, qual é a hipótese?",
+  "alts": [
+   "Pneumotórax simples, sabendo-se que cada espaço pleural acomoda até 500 mL de ar",
+   "Pneumotórax hipertensivo, que se caracteriza por macicez, não por hipertimpanismo",
+   "Hemotórax, sabendo-se que cada espaço pleural acomoda de 2.500 a 3.000 mL de sangue",
+   "Hemotórax, sabendo-se que cada espaço pleural acomoda no máximo 1.000 mL de sangue",
+   "Contusão pulmonar, que se caracteriza por macicez e por choque já na primeira hora"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Hemotórax (AT13)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolos AT13 (hemotórax), AT10 (pneumotórax simples) e AT12 (pneumotórax hipertensivo)",
+  "coment": "O AT13 define o hemotórax pela história de trauma torácico com dispneia, taquipneia ou bradipneia, murmúrio vesicular ausente ou diminuído, MACICEZ à percussão, sinais clínicos de choque e hipóxia ou cianose, e observa que cada espaço pleural pode acomodar de 2.500 a 3.000 mL de sangue — volume suficiente para explicar o choque. O pneumotórax simples (AT10) tem percussão normal ou hipertimpânica e não se associa a choque descompensado; o hipertensivo (AT12) exige obrigatoriamente choque descompensado, com timpanismo aumentado, e, tardiamente, turgência jugular e desvio de traqueia. A contusão pulmonar (AT14) costuma dar insuficiência respiratória mais tardia, nas primeiras 24 horas. A percussão é o dado que separa ar de sangue.",
+  "porAlt": [
+   "O pneumotórax simples tem percussão normal ou hipertimpânica e não cursa com choque descompensado.",
+   "O hipertensivo cursa com timpanismo aumentado; macicez indica sangue no espaço pleural.",
+   "Correta: macicez, murmúrio reduzido e choque indicam hemotórax, de até 2.500–3.000 mL.",
+   "O AT13 informa que cada espaço pleural acomoda de 2.500 a 3.000 mL, não 1.000 mL.",
+   "A insuficiência da contusão pulmonar tende a ser tardia, nas primeiras 24 horas."
+  ]
+ },
+ {
+  "q": "Pedestre atropelado apresenta ferimento abdominal com evisceração de alças intestinais. Segundo o Protocolo BT9 do SAMU 192, qual é a conduta?",
+  "alts": [
+   "Recolocar as vísceras na cavidade e fechar com um curativo compressivo estéril",
+   "Não recolocar as vísceras e cobri-las com compressas estéreis umedecidas com SF",
+   "Não recolocar as vísceras e cobri-las com compressas secas, estéreis e aderentes",
+   "Recolocar as vísceras e palpar o abdome à procura de lesão de víscera maciça",
+   "Não recolocar as vísceras e cobri-las com gelo em plástico, para reduzir o edema"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Trauma abdominal aberto (BT9)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT9, conduta 6",
+  "coment": "Diante de evisceração, o BT9 manda não tentar recolocar os órgãos de volta na cavidade abdominal, mantendo-os como encontrados, e cobri-los com compressas estéreis umedecidas com SF e plástico especial para evisceração, quando disponível. Para objetos encravados ou empalados, eles não devem ser movidos nem removidos no APH, e sim fixados; se houver sangramento ao redor, faz-se pressão direta em torno do objeto; e o abdome não deve ser palpado, para evitar maior laceração de vísceras. As observações lembram que ferimentos torácicos abaixo da linha mamária, no dorso abaixo da linha infraescapular e no flanco podem cursar com lesões intra-abdominais.",
+  "porAlt": [
+   "O BT9 proíbe recolocar as vísceras; elas são mantidas como foram encontradas.",
+   "Correta: vísceras mantidas como encontradas, cobertas com compressas estéreis úmidas.",
+   "As compressas devem ser umedecidas com SF; secas e aderentes lesam as alças expostas.",
+   "O BT9 proíbe recolocar as vísceras e manda não palpar o abdome nesse trauma.",
+   "O BT9 não prevê gelo sobre as alças; manda compressas estéreis úmidas com SF."
+  ]
+ },
+ {
+  "q": "Durante o alinhamento manual da cabeça de vítima com suspeita de trauma raquimedular, ela relata piora da dor cervical e surgem espasmos na musculatura do pescoço. Segundo o Protocolo BT11, qual é a conduta?",
+  "alts": [
+   "Completar o alinhamento com tração axial firme, pois a dor é esperada na manobra",
+   "Interromper o alinhamento e deixar a cabeça livre, sem imobilização, até o hospital",
+   "Completar o alinhamento e instalar o colar, que aliviará os espasmos do pescoço",
+   "Interromper o alinhamento e imobilizar a cabeça na posição em que foi encontrada",
+   "Sedar o paciente para vencer a resistência voluntária e concluir o alinhamento"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Trauma raquimedular (BT11)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT11, conduta 5",
+  "coment": "O BT11 manda, na suspeita de lesão de coluna, imobilizar em decúbito dorsal, alinhado e neutro, sobre prancha rígida, iniciando pela estabilização e alinhamento manual da cabeça, mantida até a colocação do fixador de cabeça. Mas o alinhamento está CONTRAINDICADO e deve ser interrompido quando ocorrer piora da dor referida, piora do padrão respiratório, resistência voluntária ao movimento, início ou aumento de déficit neurológico ou espasmos dos músculos do pescoço. Nesses casos, imobiliza-se a cabeça na posição encontrada. As observações lembram que o alinhamento pode não ser possível em torcicolo congênito, malformações ou deformidades degenerativas prévias, e que o coxim pode ajudar a manter o alinhamento.",
+  "porAlt": [
+   "Forçar o alinhamento contra dor e espasmo é exatamente o que o BT11 manda interromper.",
+   "Interromper o alinhamento não dispensa a imobilização, feita na posição encontrada.",
+   "O colar pressupõe alinhamento; com dor e espasmo, o BT11 manda interromper a manobra.",
+   "Correta: dor ou espasmo contraindicam o alinhamento; imobiliza-se na posição encontrada.",
+   "A resistência voluntária é sinal de alerta que interrompe o alinhamento, não se vence."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BP17 do SAMU 192, qual é o lugar da colocação do colar cervical na ordem de prioridades do atendimento ao politraumatizado?",
+  "alts": [
+   "É prioridade máxima e deve ser instalado antes de qualquer intervenção nas vias aéreas",
+   "Não é prioridade máxima se a estabilização manual for eficiente; corrigir o ABC antes dele",
+   "É dispensável quando a estabilização manual é mantida até a chegada à unidade de saúde",
+   "Deve ser instalado mesmo com objeto encravado no pescoço, fixando o objeto junto ao colar",
+   "Só deve ser instalado após a exposição completa e o exame secundário da cabeça aos pés"
+  ],
+  "gab": 1,
+  "tema": "curativa",
+  "sub": "Colar cervical (BP17)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BP17, observações",
+  "coment": "As observações do BP17 dizem que a instalação do colar não é prioridade máxima no atendimento ao politraumatizado enquanto a estabilização manual da cabeça puder ser realizada de forma eficiente por um profissional; ainda assim, o colar é importante porque limita os movimentos da coluna cervical. O paciente com comprometimento de vias aéreas, respiração ou circulação recebe primeiro as intervenções de correção, com um profissional mantendo a estabilização manual, e o colar é instalado assim que possível. O colar é contraindicado quando o alinhamento não pode ser obtido e na presença de objeto encravado no pescoço — casos em que se mantém o controle manual com outras estratégias de fixação.",
+  "porAlt": [
+   "O BP17 manda corrigir via aérea, respiração e circulação antes da instalação do colar.",
+   "Correta: com estabilização manual eficiente, corrige-se o ABC antes de pôr o colar.",
+   "O colar não é dispensável: o BP17 manda instalá-lo assim que for possível.",
+   "Objeto encravado no pescoço é contraindicação expressa ao colar no BP17.",
+   "O colar vem assim que possível na avaliação primária, não após o exame secundário."
+  ]
+ },
+ {
+  "q": "Condutor preso sentado ao volante após colisão está em choque e com via aérea comprometida. Segundo os Protocolos BP18 a BP20 do SAMU 192, qual técnica de retirada está indicada?",
+  "alts": [
+   "A retirada rápida, pois há condição de risco à vida detectada na avaliação primária",
+   "O colete imobilizador tipo KED, pois todo paciente sentado no veículo deve sair assim",
+   "A retirada rápida, somente se a cena estiver segura e não houver outras vítimas no carro",
+   "O colete imobilizador tipo KED, concluído antes de qualquer abordagem da via aérea",
+   "O pranchamento em pé, que dispensa a estabilização manual da coluna na retirada"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Retirada do veículo: KED × retirada rápida",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolos BP18 (indicação e observações), BP19 e BP20 (indicação)",
+  "coment": "O KED (BP18) é indicado ao paciente de trauma sentado que NÃO é portador de risco de morte imediato; a observação do próprio BP18 diz que, para paciente com lesões que coloquem a vida em risco, a técnica é a retirada rápida. O BP20 lista as indicações da retirada rápida: condições de risco à vida detectadas na avaliação primária; cena insegura com risco para o paciente e os profissionais; e paciente dificultando o acesso a outro com lesão mais grave. Em todas as técnicas, o comando das ações parte do profissional que faz a estabilização manual da cabeça, e a estabilização cervical é premissa que não se abandona. Idealmente, a retirada rápida é feita com 3 profissionais.",
+  "porAlt": [
+   "Correta: risco à vida na avaliação primária indica a retirada rápida (BP19/BP20).",
+   "O KED é para paciente sentado SEM risco de morte imediato; aqui há choque e via aérea.",
+   "Cena insegura é, ao contrário, uma das indicações da retirada rápida no BP20.",
+   "Aplicar o KED antes de tratar a via aérea atrasa a correção do risco imediato à vida.",
+   "O pranchamento em pé é para paciente de pé, e nenhuma técnica dispensa a estabilização."
+  ]
+ },
+ {
+  "q": "Motociclista com capacete fechado refere dor intensa e parestesia ao menor movimento do pescoço, mas mantém via aérea pérvia e boa ventilação. Segundo o Protocolo BP21 do SAMU 192, o que fazer com o capacete?",
+  "alts": [
+   "Retirar o capacete de imediato, pois o capacete fechado sai no início da avaliação",
+   "Retirar o capacete com um único socorrista, para reduzir a movimentação do pescoço",
+   "Não retirar o capacete, pois a retirada só se impõe com via aérea comprometida",
+   "Retirar o capacete a dois profissionais, pois a técnica evita mover o pescoço",
+   "Retirar o capacete só no hospital, qualquer que seja a condição das vias aéreas"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Remoção de capacete (BP21)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BP21, observações",
+  "coment": "A regra geral do BP21 é que pacientes com capacete fechado na frente devem ter o dispositivo retirado logo no início da avaliação, para acesso às vias aéreas e à ventilação e para detectar hemorragias ocultas na região posterior. Mas o protocolo traz a exceção: o capacete NÃO deve ser retirado nos casos de excessiva dor ou parestesia ao movimento e na presença de objetos transfixados. A exceção da exceção é a necessidade de acesso às vias aéreas comprometidas, situação em que a retirada se torna imprescindível. A técnica exige dois profissionais: um estabiliza o capacete por trás da cabeça, o outro abre a proteção do rosto, solta a tira e assume o controle manual da coluna.",
+  "porAlt": [
+   "A regra geral cede diante de dor excessiva ou parestesia ao movimento, como neste caso.",
+   "O BP21 descreve técnica com dois profissionais, e aqui a retirada nem está indicada.",
+   "Correta: dor e parestesia contraindicam a retirada, salvo via aérea comprometida.",
+   "Dor excessiva ou parestesia contraindicam a retirada, qualquer que seja a técnica usada.",
+   "A via aérea comprometida torna a retirada imprescindível mesmo nessas situações."
+  ]
+ },
+ {
+  "q": "Vítima de sinistro com ferimento no antebraço tem o curativo compressivo encharcado de sangue. Segundo o Protocolo BP8 do SAMU 192, qual é a conduta imediata?",
+  "alts": [
+   "Manter o curativo e sobrepor outro com maior pressão; persistindo, torniquete",
+   "Remover o curativo encharcado e aplicar um novo direto sobre o ferimento limpo",
+   "Aplicar torniquete de imediato, sem nova tentativa de compressão direta da lesão",
+   "Manter o curativo e elevar o membro, dispensando nova compressão ou torniquete",
+   "Remover o curativo e comprimir a artéria braquial, que substitui o torniquete"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Controle de hemorragia: compressão direta (BP8)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BP8, procedimentos 7 a 10 e observações",
+  "coment": "O BP8 estabelece a compressão direta como a primeira opção técnica no controle das hemorragias externas: gaze ou compressa estéril sobre o ferimento, compressão manual mantida até o sangramento parar e curativo compressivo com bandagem ou atadura, verificando pulso e perfusão distal antes e depois. Se houver indícios de sangramento sob o curativo, NÃO remover a atadura ou bandagem encharcada: aplicar um novo curativo sobre o primeiro, exercendo maior pressão manual. Não havendo controle, considerar o torniquete (BP9), indicado para membros com hemorragia incontrolável mesmo após compressão direta. Remover o curativo desfaz o coágulo em formação — é essa a pegadinha.",
+  "porAlt": [
+   "Correta: não se remove o curativo encharcado; sobrepõe-se outro e, sem controle, torniquete.",
+   "Retirar o curativo encharcado desfaz o coágulo; o BP8 manda sobrepor um novo curativo.",
+   "O torniquete vem depois que a compressão direta, reforçada, falha em conter o sangramento.",
+   "O BP8 não prevê elevação isolada; manda reforçar a compressão e, se falhar, torniquete.",
+   "O BP8 não descreve compressão arterial à distância, e manda não remover o curativo."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BP9 do SAMU 192, por que o torniquete deve ser apertado até cessar completamente o sangramento e o fluxo arterial distal?",
+  "alts": [
+   "Porque, frouxo, ele desloca-se com facilidade e perde o registro do horário da aplicação",
+   "Porque, frouxo, ele exige retirada em 30 minutos, antes do limite ideal de duas horas",
+   "Porque, frouxo, ele impede a aferição do pulso distal, necessária antes da aplicação",
+   "Porque, frouxo, ele libera metabólitos da isquemia e causa hiperpotassemia imediata",
+   "Porque, frouxo, ele inibe o retorno venoso e mantém o fluxo arterial, sangrando mais"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Controle de hemorragia: torniquete (BP9)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BP9, procedimento 5 e observações",
+  "coment": "O procedimento 5 do BP9 manda aplicar força de compressão suficiente para produzir pressão que cesse completamente o sangramento e o fluxo arterial distal. A justificativa está nas observações: torniquetes frouxos podem aumentar o sangramento pela inibição do retorno venoso e manutenção do fluxo sanguíneo arterial — o sangue continua entrando e deixa de sair. Os demais pontos do BP9 que caem: indicação restrita a ferimentos de membros com hemorragia incontrolável mesmo após compressão direta; dispositivo comercial, esfigmomanômetro ou recurso com pelo menos 10 cm de largura; instalação imediatamente acima do ferimento; registro da hora de início (esparadrapo sobre o dispositivo); idealmente não mais de duas horas; não remover objetos encravados.",
+  "porAlt": [
+   "O registro do horário é feito na ficha e no esparadrapo, independentemente do aperto.",
+   "O BP9 não prevê retirada em 30 minutos; o limite ideal de permanência é de duas horas.",
+   "O pulso distal é verificado antes de instalar; o aperto não se justifica por isso.",
+   "O BP9 não menciona hiperpotassemia; a razão dada é o aumento paradoxal do sangramento.",
+   "Correta: torniquete frouxo bloqueia o retorno venoso e mantém a entrada arterial."
+  ]
+ },
+ {
+  "q": "Motociclista sofre amputação traumática da mão em sinistro. Segundo o Protocolo BT14 do SAMU 192, como deve ser acondicionado o segmento amputado?",
+  "alts": [
+   "Limpar com ringer lactato, envolver em gaze úmida, pôr em saco plástico e este em caixa com gelo",
+   "Limpar com álcool 70%, envolver em gaze seca, pôr em saco plástico e este em recipiente com gelo",
+   "Limpar com ringer lactato, envolver em gaze úmida e pôr em contato direto com gelo no recipiente",
+   "Não limpar, envolver em compressa seca e transportar em temperatura ambiente junto do paciente",
+   "Limpar com soro glicosado, imergir no líquido e pôr o frasco bem fechado em recipiente com gelo"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Amputação traumática (BT14)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT14, conduta 9 e observações",
+  "coment": "O BT14 manda: breve limpeza da parte amputada com ringer lactato; envolvê-la em gaze estéril umedecida com ringer lactato; colocá-la em saco plástico identificado (no mínimo nome do paciente, segmento amputado, data e hora do evento); colocar o saco em outro recipiente com gelo, SEM contato direto da parte amputada com o gelo; e transportá-la junto com o paciente. Os cuidados visam aumentar o tempo de viabilidade em caso de reimplante. No coto, controlar a hemorragia (compressão direta e considerar torniquete), cobrir com curativo seco e evitar manipular a lesão que não sangra. E não retardar o transporte procurando a parte amputada — policiais ou auxiliares ficam no local para isso.",
+  "porAlt": [
+   "Correta: limpeza e gaze úmida com RL, saco plástico e este em recipiente com gelo.",
+   "O BT14 usa ringer lactato e gaze umedecida; álcool e gaze seca lesam o tecido.",
+   "O gelo não pode tocar diretamente a parte amputada; ela vai em saco dentro do gelo.",
+   "O BT14 manda limpar, umedecer e resfriar indiretamente o segmento para o reimplante.",
+   "O BT14 usa ringer lactato na gaze, sem imersão do segmento em soro glicosado."
+  ]
+ },
+ {
+  "q": "Criança pequena vítima de incêndio veicular tem queimadura em toda a cabeça e pescoço e em todo um membro inferior. Pela regra dos nove do Protocolo BT18 do SAMU 192, qual é a superfície corporal queimada?",
+  "alts": [
+   "27%, somando 9% da cabeça e pescoço e 18% do membro inferior",
+   "36%, somando 18% da cabeça e pescoço e 18% do membro inferior",
+   "22,5%, somando 9% da cabeça e pescoço e 13,5% do membro inferior",
+   "27%, somando 13,5% da cabeça e pescoço e 13,5% do membro inferior",
+   "31,5%, com 18% da cabeça e pescoço e 13,5% do membro inferior"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Queimaduras: regra dos nove na criança (BT18)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BT18, tabela da Regra dos 9",
+  "coment": "A tabela da regra dos 9 do BT18 tem duas colunas. No adulto: cabeça e pescoço 9%; cada membro superior 9%; cada membro inferior 18%; tronco anterior 18%; tronco posterior 18%; genitais 1%. Na criança e no bebê só mudam duas linhas: cabeça e pescoço 18% e cada membro inferior 13,5%. A conta fecha nos dois casos em 100%, porque o que a cabeça ganha (+9) é o que os dois membros inferiores perdem (−4,5 cada). Na criança do caso: 18 + 13,5 = 31,5%. Aplicar os valores do adulto daria 27%, e misturar as colunas daria 36% ou 22,5%. O BT18 também manda priorizar o trauma no politraumatizado grave e observar cílios, sobrancelhas e pelos do nariz.",
+  "porAlt": [
+   "Usa os valores do adulto; na criança a cabeça vale 18% e cada membro inferior 13,5%.",
+   "Mistura as colunas: o membro inferior da criança vale 13,5%, não 18% como no adulto.",
+   "Mistura as colunas: na criança a cabeça e o pescoço valem 18%, e não 9% como no adulto.",
+   "A cabeça da criança vale 18% na tabela do BT18, e não 13,5% como aqui atribuído.",
+   "Correta: na criança, cabeça e pescoço 18% e cada membro inferior 13,5% = 31,5%."
+  ]
+ },
+ {
+  "q": "Adulto de 70 kg tem 30% de superfície corporal queimada de 2º e 3º graus. Pela fórmula sugerida no Protocolo AT25 do SAMU 192, que volume deve ser infundido nas primeiras 8 horas?",
+  "alts": [
+   "8.400 mL, o total de 24 h, nas 8 horas contadas a partir do momento da queimadura",
+   "2.100 mL, um quarto dos 8.400 mL de 24 h, nas 8 horas contadas desde a queimadura",
+   "4.200 mL, metade dos 8.400 mL de 24 h, nas 8 horas contadas da chegada da equipe",
+   "4.200 mL, metade dos 8.400 mL de 24 h, nas 8 horas contadas desde a queimadura",
+   "6.300 mL, três quartos dos 8.400 mL de 24 h, nas 8 horas contadas desde a queimadura"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Queimaduras: reposição volêmica (AT25)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolo AT25, conduta 7 e observações (Fórmula de Parkland)",
+  "coment": "O AT25 manda, nas queimaduras que abranjam mais de 20% da superfície corpórea, instalar acesso venoso em área não queimada (ou IO) e repor volemia com ringer lactato, informando o volume ao hospital. Sugere a Fórmula de Parkland para as 24 horas: 4 mL de RL × peso em kg × % SCQ de 2º e 3º grau. Aqui: 4 × 70 × 30 = 8.400 mL em 24 h. Metade do volume vai nas primeiras 8 h e a outra metade nas 16 h restantes: 4.200 mL, ou 525 mL/h. O minuto zero corresponde ao momento da queimadura, e não ao da chegada do socorrista, que pode ser tardia. O protocolo alerta que o excesso de fluido também causa danos graves.",
+  "porAlt": [
+   "Os 8.400 mL são o total de 24 h; só metade vai nas primeiras 8 horas.",
+   "A fórmula manda metade, e não um quarto, do volume nas primeiras 8 horas.",
+   "O volume está certo, mas o AT25 conta o tempo desde a queimadura, não da chegada.",
+   "Correta: 4 × 70 × 30 = 8.400 mL; metade (4.200 mL) em 8 h desde a queimadura.",
+   "O AT25 divide o total ao meio: metade em 8 h e a outra metade nas 16 h restantes."
+  ]
+ },
+ {
+  "q": "Em incidente com múltiplas vítimas, o triador encontra uma vítima que não respira; abre as vias aéreas manualmente e ela passa a respirar. Pelo método START do Protocolo BMV3 do SAMU 192, qual é a cor?",
+  "alts": [
+   "Cinza, pois estava sem respirar quando foi encontrada pelo triador",
+   "Amarela, pois a respiração foi restabelecida com manobra simples",
+   "Vermelha, pois voltou a respirar após a abertura das vias aéreas",
+   "Vermelha somente se a frequência respiratória passar de 30 mrm",
+   "Preta, pois a apneia inicial define vítima morta ou inviável na cena"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Triagem START (BMV3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BMV3, algoritmo e observações",
+  "coment": "No START do BMV3, se a vítima não respira, faz-se a manobra manual de abertura das vias aéreas, verifica-se corpo estranho visível na boca e removem-se próteses soltas. Se não respira mesmo após a abertura, é CINZA; se passa a respirar após a abertura, é VERMELHA — sem necessidade de contar a frequência. A abertura de vias aéreas é um dos procedimentos breves permitidos durante a triagem, ao lado do controle de sangramento intenso. O protocolo brasileiro usa quatro cores: vermelho (imediato/urgente), amarelo (pode aguardar), verde (leve) e cinza (morto/inviável). 'Preto', usado na literatura internacional, não é a cor do protocolo do SAMU.",
+  "porAlt": [
+   "Cinza é para quem continua sem respirar mesmo após a abertura das vias aéreas.",
+   "O START classifica como vermelha quem só respira após a abertura das vias aéreas.",
+   "Correta: respirou após a abertura das vias aéreas, é classificada como vermelha.",
+   "A FR não é avaliada nesse ramo: respirar após abrir a via aérea já define o vermelho.",
+   "O protocolo do SAMU usa cinza, não preto, e esta vítima voltou a respirar."
+  ]
+ },
+ {
+  "q": "Vítima de ônibus tombado não deambula, respira com FR de 24 mrm, tem enchimento capilar de 1 segundo e aperta a mão do triador quando solicitada. Pelo START do Protocolo BMV3 do SAMU 192, qual é a cor?",
+  "alts": [
+   "Verde, pois está consciente, respira normalmente e tem boa perfusão",
+   "Vermelha, pois a frequência respiratória acima de 20 indica gravidade",
+   "Amarela, pois passou por todos os filtros e cumpre ordens simples",
+   "Amarela só depois da triagem secundária feita na área de concentração",
+   "Verde, pois cumprir ordens simples dispensa a pergunta sobre andar"
+  ],
+  "gab": 2,
+  "tema": "curativa",
+  "sub": "Triagem START (BMV3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BMV3, algoritmo e observações",
+  "coment": "O START segue sempre a mesma ordem. 1) Consegue andar? Sim: verde. Não: seguir. 2) Respira? (se não, abrir vias aéreas: respira = vermelho; não respira = cinza). 3) FR > 30? Sim: vermelho. 4) Enchimento capilar > 2 s ou pulso radial ausente? Sim: vermelho. 5) Cumpre ordens simples ('abrir e fechar os olhos', 'apertar a mão')? Não: vermelho; sim: AMARELO. A vítima do caso não anda, respira com FR < 30, tem enchimento capilar ≤ 2 s e cumpre ordens: amarela. Estar consciente e bem perfundida não a torna verde, porque o verde depende exclusivamente de conseguir andar — a primeira pergunta do algoritmo.",
+  "porAlt": [
+   "O verde exige que a vítima consiga andar, e esta não deambula.",
+   "O corte de FR do START é 30 mrm; 24 mrm não classifica como vermelha.",
+   "Correta: não anda, FR < 30, EC ≤ 2 s e cumpre ordens simples = amarela.",
+   "A cor amarela é atribuída na própria triagem START, sem esperar a secundária.",
+   "A pergunta sobre andar vem primeiro, e quem não anda não pode ser verde."
+  ]
+ },
+ {
+  "q": "Criança de 5 anos, vítima de sinistro com múltiplas vítimas, não deambula e respira com FR de 50 mrm. Pelo método JumpSTART do Protocolo BMV4 do SAMU 192, qual é a cor?",
+  "alts": [
+   "Amarela, pois a FR está fora da faixa de 15 a 45 mrm",
+   "Cinza, pois a FR acima de 45 mrm indica vítima inviável",
+   "Amarela, pois a FR da criança é normal até os 60 mrm",
+   "Vermelha, pois a FR está fora da faixa de 15 a 45 mrm",
+   "Verde, pois a criança respira sem precisar de ajuda"
+  ],
+  "gab": 3,
+  "tema": "curativa",
+  "sub": "Triagem JumpSTART (BMV4)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BMV4, algoritmo e observações",
+  "coment": "O BMV4 aplica o JumpSTART a incidentes com crianças de até 8 anos ou com características dessa faixa etária (se a vítima parece criança, JumpSTART; se parece adolescente ou adulto, START). Na criança que respira, a frequência abaixo de 15 ou acima de 45 mvm classifica como VERMELHA; entre 15 e 45, avalia-se o pulso (ausente = vermelha) e depois o AVDI: alerta, responde à voz ou localiza a dor = amarela; sem resposta ou com postura de decorticação/descerebração = vermelha. O corte de 30 mrm é o do START do adulto. Na apneia com pulso palpável, a criança recebe cinco ventilações de resgate antes da classificação.",
+  "porAlt": [
+   "FR fora da faixa de 15 a 45 mrm classifica a criança como vermelha, não amarela.",
+   "Cinza é para a criança sem respiração mesmo após abrir a via aérea e as ventilações.",
+   "O BMV4 não admite FR de até 60 mrm; acima de 45 a criança já é vermelha.",
+   "Correta: no JumpSTART, FR abaixo de 15 ou acima de 45 mrm classifica como vermelha.",
+   "Respirar sem ajuda não basta: FR acima de 45 mrm classifica a criança como vermelha."
+  ]
+ },
+ {
+  "q": "Condutor atropela ciclista e foge do local; outro motorista socorre a vítima, que tinha apenas ferimentos leves. À luz do art. 304 do Código de Trânsito Brasileiro, o condutor que fugiu:",
+  "alts": [
+   "Responde pela omissão de socorro, ainda que suprida por terceiros e com ferimentos leves",
+   "Não responde pela omissão de socorro, pois a assistência foi suprida por outro motorista",
+   "Não responde pela omissão de socorro, pois a lei exclui as vítimas com ferimentos leves",
+   "Responde pela omissão de socorro somente se a vítima morrer em razão da demora no socorro",
+   "Responde só pela infração administrativa, pois a omissão suprida não constitui crime"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Omissão de socorro (CTB, art. 304)",
+  "base": "Lei nº 9.503/1997 (CTB), art. 304, caput e parágrafo único (redação da Lei nº 14.599/2023)",
+  "coment": "O art. 304 tipifica como crime deixar o condutor do veículo, na ocasião do sinistro, de prestar imediato socorro à vítima, ou, não podendo fazê-lo diretamente, por justa causa, deixar de solicitar auxílio da autoridade pública: detenção de seis meses a um ano, ou multa, se o fato não constituir elemento de crime mais grave. O parágrafo único afasta expressamente três defesas intuitivas: incide nas penas o condutor 'ainda que a sua omissão seja suprida por terceiros ou que se trate de vítima com morte instantânea ou com ferimentos leves'. A fuga pode configurar ainda o art. 305 (afastar-se do local para fugir à responsabilidade) e, no plano administrativo, o art. 176, I (gravíssima, multa ×5 e suspensão). Detalhe: se o próprio condutor causou culposamente a lesão, a falta de socorro passa a ser causa de aumento do homicídio ou da lesão culposa (art. 302, §1º, III, e art. 303, §1º), e não o crime autônomo do art. 304.",
+  "porAlt": [
+   "Correta: o parágrafo único do art. 304 alcança omissão suprida e ferimentos leves.",
+   "O socorro prestado por terceiro não afasta o crime, segundo o parágrafo único do 304.",
+   "O parágrafo único inclui expressamente a vítima com ferimentos leves no alcance do tipo.",
+   "O crime não depende de morte; o 304 inclui até a vítima com morte instantânea.",
+   "Omissão suprida por terceiros é crime pelo art. 304, além de infração do art. 176."
+  ]
+ },
+ {
+  "q": "Segundo o CTB, qual é a diferença entre as infrações dos arts. 176, I, e 177, ambas relacionadas à falta de socorro à vítima de sinistro de trânsito?",
+  "alts": [
+   "O 176 pune quem recusa a autoridade (grave); o 177, o envolvido (gravíssima)",
+   "O 176 pune o condutor envolvido (grave e multa); o 177, quem recusa a autoridade",
+   "O 176 pune o envolvido (gravíssima); o 177, o sinistro sem vítima (média)",
+   "Ambos punem o condutor envolvido, com infração gravíssima e suspensão do direito",
+   "O 176 pune o envolvido (gravíssima); o 177, quem recusa pedido da autoridade"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Infrações de socorro (CTB, arts. 176 e 177)",
+  "base": "Lei nº 9.503/1997 (CTB), arts. 176, I, 177 e 178 (redação da Lei nº 14.599/2023)",
+  "coment": "O art. 176 pune o condutor ENVOLVIDO em sinistro com vítima que deixa de prestar ou providenciar socorro, podendo fazê-lo (inciso I), além de outras condutas (evitar perigo, preservar o local, remover o veículo quando determinado, identificar-se ao policial): infração gravíssima, multa (cinco vezes) e suspensão do direito de dirigir, com recolhimento do documento de habilitação. O art. 177 pune o condutor que deixa de prestar socorro à vítima de sinistro quando SOLICITADO pela autoridade e seus agentes: infração grave, só multa. O art. 178, por sua vez, trata do sinistro SEM vítima em que o condutor não remove o veículo quando necessário à segurança e à fluidez: infração média.",
+  "porAlt": [
+   "Os artigos estão trocados: o envolvido é punido pelo 176; a recusa à autoridade, pelo 177.",
+   "O 176 é gravíssima, com multa ×5 e suspensão, e não infração grave apenas com multa.",
+   "O sinistro sem vítima (média) é tratado no art. 178, e não no art. 177 do CTB.",
+   "O 177 alcança qualquer condutor solicitado pela autoridade e é só infração grave.",
+   "Correta: 176 é o envolvido (gravíssima, suspensão); 177, a recusa à autoridade (grave)."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BP3 do SAMU 192, qual é a indicação da cânula orofaríngea no atendimento e como se mede o tamanho adequado?",
+  "alts": [
+   "Consciente com via aérea parcialmente obstruída; da comissura labial ao lóbulo da orelha",
+   "Inconsciente sem reflexo de tosse ou vômito; da ponta do nariz ao ângulo da mandíbula",
+   "Inconsciente com reflexo de vômito preservado; do incisivo central ao ângulo da mandíbula",
+   "Consciente com trauma de face; da ponta do nariz ao lóbulo da orelha do lado oposto",
+   "Inconsciente sem reflexo de tosse ou vômito; da comissura labial ao lóbulo da orelha"
+  ],
+  "gab": 4,
+  "tema": "curativa",
+  "sub": "Via aérea: cânula orofaríngea (BP3)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida, Protocolo BP3, indicação e procedimento",
+  "coment": "O BP3 indica a cânula orofaríngea (COF) ao paciente inconsciente, sem reflexo de vômito ou tosse, incapaz de manter a via aérea permeável, e também para prevenir a mordedura do tubo traqueal no intubado. O tamanho é medido posicionando a COF junto à face e aferindo a distância entre a comissura labial e o lóbulo inferior da orelha do mesmo lado. No adulto, insere-se com a concavidade voltada para o palato duro até a parede posterior da faringe, quando se roda 180°. Erros de indicação, medida ou posicionamento podem ativar o reflexo de tosse, obstruir a via aérea, gerar laringoespasmo e vômitos; se surgirem tosse ou vômito, suspende-se o procedimento.",
+  "porAlt": [
+   "No paciente consciente a COF desencadeia tosse e vômito; ela é para o inconsciente.",
+   "A indicação está certa, mas a medida do BP3 vai da comissura labial ao lóbulo da orelha.",
+   "Reflexo de vômito preservado contraindica a COF, pelo risco de vômito e laringoespasmo.",
+   "O BP3 indica a COF ao inconsciente, com medida da comissura labial ao lóbulo da orelha.",
+   "Correta: inconsciente sem reflexos de proteção; medida da comissura labial ao lóbulo."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo AT31 do SAMU 192, como fica o consentimento para o transporte inter-hospitalar de politraumatizado em risco de morte cujos responsáveis não são localizados?",
+  "alts": [
+   "Dispensa-se o consentimento escrito; o médico solicitante autoriza e registra no prontuário",
+   "Exige-se o consentimento escrito, e o transporte aguarda a localização de um responsável",
+   "Dispensa-se o consentimento escrito, e o médico regulador autoriza por telefone, sem registro",
+   "Exige-se autorização judicial, requerida pelo hospital de origem antes da saída do paciente",
+   "Dispensa-se o consentimento escrito, e o médico da ambulância autoriza, anotando na ficha"
+  ],
+  "gab": 0,
+  "tema": "curativa",
+  "sub": "Transporte inter-hospitalar (AT31)",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Avançado de Vida, Protocolo AT31, condutas 2 e 4 (Res. CFM nº 1.672/2003)",
+  "coment": "O AT31 trata do politraumatizado já atendido em unidade de menor complexidade que precisa ir a centro de referência. Pede relatório completo, legível e assinado (com CRM) pelo médico solicitante, que passa a integrar o prontuário no destino, e consentimento por escrito do paciente ou do responsável legal. Esse consentimento pode ser dispensado quando houver risco de morte e impossibilidade de localizar os responsáveis; nessa circunstância, o médico solicitante pode autorizar o transporte, documentando devidamente o fato no prontuário (Res. CFM nº 1.672/2003). O protocolo manda ainda calcular a necessidade de oxigênio prevendo atrasos, reavaliar o paciente após posicioná-lo na ambulância e colher a assinatura do médico receptor.",
+  "porAlt": [
+   "Correta: o médico solicitante autoriza e documenta o fato no prontuário do paciente.",
+   "Com risco de morte e responsáveis não localizados, o AT31 permite dispensar o consentimento.",
+   "Quem autoriza é o médico solicitante, e o AT31 exige o registro do fato no prontuário.",
+   "O AT31 não exige autorização judicial; basta a autorização documentada do solicitante.",
+   "O AT31 atribui a autorização ao médico solicitante, não ao médico da ambulância."
+  ]
+ }
+]

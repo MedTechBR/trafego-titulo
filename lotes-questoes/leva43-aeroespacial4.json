@@ -1,0 +1,552 @@
+[
+ {
+  "q": "Piloto comercial de 42 anos, que opera no transporte aéreo público de passageiros como único piloto a bordo, realiza hoje o exame de saúde pericial de revalidação. Pela regra do RBAC 67, qual a validade do CMA?",
+  "alts": [
+   "12 meses, pois a redução para 6 meses só alcança o piloto de transporte público após os 60 anos",
+   "24 meses, pois a partir dos 40 anos o CMA do piloto comercial passa a valer por dois anos inteiros",
+   "60 meses, pois a validade do piloto comercial só é reduzida quando o exame ocorre após os 50 anos",
+   "6 meses, por ter passado dos 40 anos e operar transporte público de passageiros com um só piloto",
+   "12 meses, pois a redução para 6 meses é exclusiva do piloto de linha aérea em tripulação múltipla"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — validade do CMA de 1ª classe",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05 (Resolução nº 636/2021), seção 67.15(a)(1)(i) e (ii)",
+  "coment": "A seção 67.15(a)(1) fixa 12 meses para PLA, PC e PTM, mas reduz para 6 meses em duas situações: (i) após o aniversário de 40 anos do piloto que opere no transporte aéreo público de passageiros com apenas 1 piloto; e (ii) após o aniversário de 60 anos do piloto que opere em transporte aéreo público. O caso reúne os dois gatilhos da alínea (i): passou dos 40 e voa sozinho no transporte público de passageiros. A pegadinha é achar que só o marco dos 60 anos reduz a validade, ou confundir com as faixas de 24 e 60 meses, que são do piloto privado, aluno piloto, PBL, PPL e CPA.",
+  "porAlt": [
+   "Errada: o marco dos 60 anos é a alínea (ii); a alínea (i) já reduz aos 40 para o monopiloto de passageiros.",
+   "Errada: 24 meses é a faixa de 40 a 50 anos do PP, aluno piloto, PBL, PPL e CPA, não do piloto comercial.",
+   "Errada: 60 meses é a validade do PP e afins antes dos 40 anos; o PC parte de 12 meses, nunca de 60.",
+   "Correta: 67.15(a)(1)(i) — após os 40 anos, monopiloto no transporte público de passageiros, 6 meses.",
+   "Errada: a redução da alínea (i) vale justamente para quem opera com apenas 1 piloto, e não em tripulação múltipla."
+  ]
+ },
+ {
+  "q": "Piloto privado (PP) realiza o exame de saúde pericial três meses depois de completar 45 anos e é julgado apto. Qual a validade do CMA concedido?",
+  "alts": [
+   "60 meses, faixa dos exames feitos antes do aniversário de 50 anos",
+   "24 meses, faixa dos exames feitos dos 40 anos até antes dos 50 anos",
+   "12 meses, faixa dos exames feitos a partir do aniversário de 40 anos",
+   "36 meses, faixa intermediária dos exames feitos entre os 40 e os 60",
+   "48 meses, a mesma validade atribuída ao piloto remoto de toda idade"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — validade do CMA de 2ª classe (PP)",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.15(a)(2), (3) e (4)",
+  "coment": "Para Aluno Piloto, PP, PP-IFR, PBL, PPL e CPA a seção 67.15(a) escalona a validade pela idade na data do exame: 60 meses antes do aniversário de 40 anos (item 2); 24 meses em ou após os 40 e antes dos 50 (item 3); e 12 meses em ou após os 50 (item 4). O candidato tem 45 anos, portanto 24 meses. Note que a referência é a idade no dia do exame, não a idade ao fim da validade. A faixa de 36 meses não existe no RBAC 67, e os 48 meses pertencem exclusivamente ao piloto remoto de aeronave remotamente pilotada.",
+  "porAlt": [
+   "Errada: 60 meses vale só para exame feito antes do aniversário de 40 anos, e não até os 50.",
+   "Correta: 67.15(a)(3) — exame em ou após os 40 e antes dos 50 anos, validade de 24 meses.",
+   "Errada: 12 meses é a faixa de quem faz o exame em ou após o aniversário de 50 anos.",
+   "Errada: o RBAC 67 não prevê faixa de 36 meses; as faixas são 60, 24 e 12 meses.",
+   "Errada: 48 meses é a validade do piloto remoto (67.15(a)(6)), não do piloto privado."
+  ]
+ },
+ {
+  "q": "Qual a classe de CMA exigida do piloto remoto de aeronave remotamente pilotada e a validade prevista no RBAC 67?",
+  "alts": [
+   "4ª classe, com validade de 60 meses",
+   "5ª classe, com validade de 48 meses",
+   "5ª classe, com validade de 60 meses",
+   "2ª classe, com validade de 24 meses",
+   "4ª classe, com validade de 48 meses"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — piloto remoto (5ª classe)",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.13(e) e 67.15(a)(6)",
+  "coment": "A seção 67.13(e) exige CMA de 5ª classe do candidato ou detentor de licença ou habilitação de piloto remoto de aeronave remotamente pilotada, e a seção 67.15(a)(6) fixa a validade em 48 meses, sem escalonamento por idade. A 4ª classe é do piloto aerodesportivo, do piloto de planador e do aluno piloto de planador. A 5ª classe tem subparte própria (G), com particularidades: audiometria ao menos a cada 4 anos na revalidação e gestante apta até a 34ª semana se a gravidez for de baixo risco. Lembre também que quem tem 5ª classe e quer qualquer outra precisa de exame inicial.",
+  "porAlt": [
+   "Errada: a 4ª classe é do aerodesportivo e do planador; e 60 meses não é a validade do piloto remoto.",
+   "Correta: 67.13(e) exige a 5ª classe e 67.15(a)(6) fixa 48 meses para o piloto remoto.",
+   "Errada: a classe está certa, mas a validade do piloto remoto é de 48 meses, não 60.",
+   "Errada: a 2ª classe é de PP, comissário, mecânico de voo, PBL e aluno piloto.",
+   "Errada: a validade de 48 meses é do piloto remoto, que tem CMA de 5ª e não de 4ª classe."
+  ]
+ },
+ {
+  "q": "Comissária de voo realiza o exame de revalidação um mês depois de completar 61 anos e é julgada apta. Qual a classe e a validade do CMA?",
+  "alts": [
+   "1ª classe, com validade de 12 meses",
+   "2ª classe, com validade de 60 meses",
+   "2ª classe, com validade de 24 meses",
+   "2ª classe, com validade de 12 meses",
+   "1ª classe, com validade de 6 meses"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — comissário de voo",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.13(b)(3) e 67.15(a)(7) e (8)",
+  "coment": "O comissário de voo está na lista da 2ª classe (67.13(b)(3)), ao lado de PP, PP-IFR, mecânico de voo, PBL e aluno piloto. A validade dele tem regra própria: 60 meses nos exames realizados antes do aniversário de 60 anos (67.15(a)(7)) e 24 meses nos realizados em ou após esse aniversário (67.15(a)(8)). Como o exame foi feito aos 61 anos, a validade é de 24 meses. Não confundir com o mecânico de voo, também de 2ª classe, cuja validade é fixa de 12 meses (67.15(a)(5)), nem com os marcos de 40 e 50 anos, que valem para PP e afins, e não para o comissário.",
+  "porAlt": [
+   "Errada: a 1ª classe é exclusiva de PLA, PC e PTM; o comissário tem CMA de 2ª classe.",
+   "Errada: 60 meses é a validade do comissário apenas nos exames feitos antes dos 60 anos.",
+   "Correta: comissário é 2ª classe e, examinado em ou após os 60 anos, recebe 24 meses.",
+   "Errada: 12 meses fixos é a validade do mecânico de voo, e não a do comissário de voo.",
+   "Errada: o comissário não é de 1ª classe, e 6 meses é redução prevista só para pilotos de PLA, PC e PTM."
+  ]
+ },
+ {
+  "q": "O RBAC 67 menciona o CMA de 3ª classe, mas declara que não o regula. Por quê?",
+  "alts": [
+   "Aplica-se aos comissários de voo, cuja certificação foi transferida às empresas",
+   "Aplica-se aos mecânicos de voo, cuja certificação é feita pelo próprio operador",
+   "Foi extinta e absorvida pela 2ª classe, restando apenas a numeração histórica",
+   "Aplica-se aos pilotos de balão livre, dispensados de certificação psicofísica",
+   "Aplica-se aos controladores de tráfego aéreo, cuja regulação não compete à ANAC"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — CMA de 3ª classe",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.13(c)",
+  "coment": "A seção 67.13(c) é literal: um CMA de 3ª classe é aplicável à categoria de controladores de tráfego aéreo, cuja regulação não compete à ANAC e não será tratada neste Regulamento. Por isso o RBAC 67 tem subpartes para as classes 1ª (C), 2ª (D), 4ª (F) e 5ª (G), e a subparte E está reservada. É uma pegadinha clássica: a classe existe na numeração, mas quem a certifica não é a ANAC. Comissário, mecânico de voo e piloto de balão livre (PBL) estão todos expressamente listados na 2ª classe (67.13(b)), e a 3ª classe não foi extinta nem incorporada a outra.",
+  "porAlt": [
+   "Errada: o comissário de voo tem CMA de 2ª classe (67.13(b)(3)), emitido segundo o RBAC 67.",
+   "Errada: o mecânico de voo também é de 2ª classe (67.13(b)(4)), com validade de 12 meses.",
+   "Errada: a 3ª classe não foi extinta; o regulamento apenas remete sua regulação a outra autoridade.",
+   "Errada: o piloto de balão livre (PBL) precisa de CMA de 2ª classe válido (67.13(b)(5)).",
+   "Correta: 67.13(c) — a 3ª classe é dos controladores de tráfego aéreo, fora da competência da ANAC."
+  ]
+ },
+ {
+  "q": "Jovem de 17 anos quer iniciar a formação como aluno piloto de planador e procura um examinador. Qual CMA lhe é exigido pelo RBAC 67?",
+  "alts": [
+   "CMA de 2ª classe, o mesmo exigido de todo aluno piloto, sem exceção alguma",
+   "CMA de 5ª classe, o mesmo do piloto remoto e do piloto de balão livre (PBL)",
+   "Nenhum CMA, pois o voo de planador sem motor é dispensado de certificação",
+   "CMA de 2ª classe, o mesmo do piloto de balão livre e do piloto privado (PP)",
+   "CMA de 4ª classe, o mesmo do piloto de planador e do piloto aerodesportivo"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — CMA de 4ª classe",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.13(b)(6) e 67.13(d)",
+  "coment": "A 2ª classe é exigida do aluno piloto, EXCETO para piloto de planador (67.13(b)(6)). O aluno piloto para piloto de planador está na 4ª classe (67.13(d)(3)), junto com o piloto aerodesportivo (CPA) e o piloto de planador (PPL). A exceção é o ponto que a prova explora. A alternativa que dispensa certificação reproduz a regra norte-americana descrita no manual da FAA (planador e balão livre sem certificado médico), que não vale no Brasil: aqui o planador exige 4ª classe e o balão livre, 2ª. O MCad (médico cadastrado) pode emitir justamente o CMA de 4ª classe.",
+  "porAlt": [
+   "Errada: a 2ª classe vale para o aluno piloto, mas 67.13(b)(6) excetua expressamente o de planador.",
+   "Errada: a 5ª classe é só do piloto remoto; o PBL é de 2ª classe.",
+   "Errada: dispensa de certificado para planador é regra da FAA; o RBAC 67 exige CMA de 4ª classe.",
+   "Errada: PBL e PP são de 2ª classe, mas o aluno de planador foi deslocado para a 4ª classe.",
+   "Correta: 67.13(d)(3) põe o aluno piloto de planador na 4ª classe, com o PPL e o CPA."
+  ]
+ },
+ {
+  "q": "Piloto privado pretende obter a habilitação para voo por instrumentos (PP-IFR). Como o RBAC 67 trata a sua certificação médica?",
+  "alts": [
+   "CMA de 1ª classe completo, por operar em condições de voo por instrumentos",
+   "CMA de 2ª classe, mas com os requisitos auditivos exigidos na 1ª classe",
+   "CMA de 2ª classe, mas com os requisitos cardiológicos do CMA de 1ª classe",
+   "CMA de 2ª classe, mas com os requisitos oftalmológicos do CMA de 1ª classe",
+   "CMA de 4ª classe, acrescido de avaliação oftalmológica anual especializada"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — PP-IFR",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.13(b)(2)",
+  "coment": "A seção 67.13(b)(2) lista o piloto privado com habilitação IFR (PP-IFR) na 2ª classe, 'sendo necessário o cumprimento dos requisitos oftalmológicos correspondentes ao CMA de 1ª classe'. Na prática, isso significa acuidade para longe de 20/30 em cada olho e 20/20 binocular, além de J1 entre 30 e 50 cm e J6 a 100 cm (67.99(c)), em vez dos 20/40 e 20/30 da 2ª classe (67.139(c)). A validade do PP-IFR segue a do PP (60, 24 ou 12 meses conforme a idade). A pegadinha é supor que voo por instrumentos exija a 1ª classe inteira ou trocar o sistema reforçado.",
+  "porAlt": [
+   "Errada: a 1ª classe é de PLA, PC e PTM; o PP-IFR continua na 2ª classe.",
+   "Errada: o reforço previsto é oftalmológico; nada é dito sobre requisitos auditivos de 1ª classe.",
+   "Errada: não há exigência de requisitos cardiológicos de 1ª classe para o PP-IFR.",
+   "Correta: 67.13(b)(2) — PP-IFR é 2ª classe com os requisitos oftalmológicos da 1ª classe.",
+   "Errada: a 4ª classe é do aerodesportivo e do planador; não se aplica ao piloto privado."
+  ]
+ },
+ {
+  "q": "Piloto privado, detentor de CMA de 2ª classe ainda válido, precisará passar a ter CMA de 1ª classe. Qual o procedimento previsto no RBAC 67?",
+  "alts": [
+   "Revalidar o CMA de 2ª classe como de 1ª, em exame de revalidação comum",
+   "Submeter-se a exame de saúde pericial inicial, com critérios de 1ª classe",
+   "Aguardar o vencimento do CMA atual e fazer então o exame de revalidação",
+   "Usar o CMA de 2ª classe, que pode substituir o de 1ª até a sua expiração",
+   "Complementar só os exames que diferem, mantendo a data de validade atual"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — mudança de classe",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.13(g) a (k)",
+  "coment": "A hierarquia entre classes só funciona para baixo. Pelo 67.13(g), um CMA de 1ª classe pode ser apresentado no lugar de um de 2ª, 4ª ou 5ª, e um de 2ª no lugar de um de 4ª ou 5ª. Pelo 67.13(h), a revalidação só ocorre na mesma classe ou rebaixando. Para subir, é exame inicial: de 2ª para 1ª (67.13(i)), de 4ª para 1ª ou 2ª (67.13(j)) e de 5ª para qualquer outra (67.13(k)). Por isso o PP que precisa da 1ª classe faz exame de saúde pericial inicial com os critérios da subparte C, incluindo EEG, telerradiografia de tórax, radiografia de seios da face e parecer psiquiátrico.",
+  "porAlt": [
+   "Errada: 67.13(h) só admite revalidação na mesma classe ou para classe inferior.",
+   "Correta: 67.13(i) — detentor de 2ª que quer a 1ª classe faz exame de saúde pericial inicial.",
+   "Errada: esperar o vencimento não muda nada; subir de classe exige exame inicial.",
+   "Errada: a substituição (67.13(g)) é só de cima para baixo; a 2ª nunca substitui a 1ª.",
+   "Errada: não existe complementação parcial; o exame inicial é completo, com os critérios da 1ª."
+  ]
+ },
+ {
+  "q": "Ex-piloto comercial, com CMA de 1ª classe expirado há seis anos sem revalidação, quer voltar à atividade aérea. Qual exame o RBAC 67 exige?",
+  "alts": [
+   "Exame de revalidação, pois o CMA vencido pode ser revalidado a qualquer tempo",
+   "Exame inicial de 2ª classe, pois o retorno recomeça pela classe inferior",
+   "Exame de revalidação com parecer psiquiátrico, por estar parado há 5 anos",
+   "Nenhum exame, bastando teste de proficiência de voo aplicado pela ANAC",
+   "Exame de saúde pericial inicial previsto para o CMA de que ele é detentor"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — CMA expirado há mais de 5 anos",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.11(d)",
+  "coment": "A seção 67.11(d) determina que o candidato que possua um CMA expirado há mais de 5 (cinco) anos sem revalidá-lo, ao pretender retornar à atividade aérea, deve ser submetido a um exame de saúde pericial inicial previsto para o CMA do qual seja detentor. Seis anos ultrapassam o marco, então não cabe revalidação. Não há 'rebaixamento' automático de classe no retorno. O teste de proficiência de voo aparece no RBAC 67 em outro contexto: a ANAC pode exigi-lo, a seu critério, para julgar recurso de candidato (67.11(c)). Para CMA vencido há menos de 5 anos, a revalidação conta a validade da data do exame (67.15(e)(1)).",
+  "porAlt": [
+   "Errada: expirado há mais de 5 anos, o CMA não é mais revalidável; exige exame inicial.",
+   "Errada: o exame inicial é o previsto para o CMA de que ele é detentor, sem rebaixamento.",
+   "Errada: não é revalidação; e o marco legal são mais de 5 anos, com exame inicial completo.",
+   "Errada: teste de proficiência é ferramenta de recurso (67.11(c)), não substitui o exame.",
+   "Correta: 67.11(d) — mais de 5 anos expirado impõe exame inicial do CMA de que é detentor."
+  ]
+ },
+ {
+  "q": "Piloto de linha aérea de 35 anos tem CMA de 1ª classe válido até 30 de novembro. Faz o exame de revalidação em 25 de outubro e é julgado apto. Qual a nova data de expiração?",
+  "alts": [
+   "25 de outubro do ano seguinte, pois a validade conta da data do exame",
+   "30 de maio do ano seguinte, pois revalidação antecipada vale 6 meses",
+   "30 de novembro deste ano, pois a antecipação não muda a expiração",
+   "25 de abril do ano seguinte, pois a antecipação reduz o prazo à metade",
+   "30 de novembro do ano seguinte, pois o exame foi até 45 dias antes"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — revalidação antecipada",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.15(e)(2)(i)",
+  "coment": "Na revalidação de um CMA ainda válido, a nova expiração é a data de expiração do CMA anterior mais o prazo da categoria, desde que o exame tenha sido realizado em no máximo 45 dias corridos antes dessa expiração (67.15(e)(2)(i)). De 25/10 a 30/11 são 36 dias, dentro da janela; somam-se os 12 meses do PLA de 35 anos à data de 30/11. Se o exame fosse mais de 45 dias antes, a validade contaria da data do exame (67.15(e)(2)(ii)); para primeira concessão ou CMA vencido ou suspenso, também conta da data do exame (67.15(e)(1)). A regra evita que o piloto perca prazo por antecipar.",
+  "porAlt": [
+   "Errada: contar da data do exame só ocorre se ele for feito mais de 45 dias antes da expiração.",
+   "Errada: não existe validade de 6 meses por antecipação; o PLA de 35 anos tem 12 meses.",
+   "Errada: a revalidação acrescenta o prazo da categoria à expiração anterior.",
+   "Errada: o RBAC 67 não reduz à metade o prazo de quem antecipa a revalidação.",
+   "Correta: 67.15(e)(2)(i) — exame em até 45 dias antes, soma-se o prazo à expiração anterior."
+  ]
+ },
+ {
+  "q": "Candidato julgado 'não apto' por um médico credenciado discorda do julgamento. Segundo o RBAC 67, qual é o caminho?",
+  "alts": [
+   "Recorrer à ANAC, a qualquer tempo; ela pode exigir teste de proficiência de voo",
+   "Recorrer ao CRM do examinador, em até 30 dias, que julgará o mérito pericial",
+   "Recorrer ao CENIPA, em até 10 dias úteis, que nomeará uma junta médica especial",
+   "Pedir novo exame a outro credenciado, cujo julgamento substitui automaticamente",
+   "Recorrer à ANAC em até 30 dias, vedada a exigência de qualquer teste prático"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — recurso",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.3(a)(18), 67.11(c) e 67.71(g)",
+  "coment": "Recurso, no RBAC 67, é a solicitação de reexame à ANAC por parte do candidato insatisfeito com o julgamento do examinador (67.3(a)(18)). Pela seção 67.11(c), o candidato poderá, a qualquer tempo, recorrer à ANAC, que julgará auxiliada ou não por outros examinadores que não participaram do primeiro julgamento, e a ANAC pode, a seu critério, exigir teste de proficiência de voo. O examinador que julga 'não apto' deve negar o CMA e informar o direito de recurso (67.71(g)). Se a causa da inaptidão deixar de existir, o candidato pode voltar ao mesmo examinador e demonstrar isso (67.11(c)(1)).",
+  "porAlt": [
+   "Correta: 67.11(c) — recurso à ANAC a qualquer tempo, que pode exigir teste de proficiência.",
+   "Errada: o recurso do julgamento pericial é dirigido à ANAC, não ao Conselho de Medicina.",
+   "Errada: o CENIPA caracteriza acidentes e incidentes; não julga recurso de CMA.",
+   "Errada: não há substituição automática por outro credenciado; o reexame é da ANAC.",
+   "Errada: o recurso cabe a qualquer tempo, e a ANAC pode, sim, exigir teste de voo."
+  ]
+ },
+ {
+  "q": "No RBAC 67, qual a diferença entre 'parecer' e 'julgamento' no exame de saúde pericial?",
+  "alts": [
+   "Parecer é o resultado final do exame; julgamento, o resultado parcial de cada especialista",
+   "Parecer é emitido só pela ANAC, em caso de recurso; julgamento, pelo examinador credenciado",
+   "Parecer é o resultado parcial de um profissional; julgamento, o resultado final do exame",
+   "Parecer vale só na 1ª classe; julgamento, nas demais classes de CMA previstas no regulamento",
+   "São sinônimos, e ambos têm três tipos: apto, apto com restrição e não apto, conforme a norma"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — parecer e julgamento",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.3(a)(13) e (16)",
+  "coment": "O RBAC 67 separa os dois conceitos. Parecer (67.3(a)(16)) é o resultado parcial de um exame realizado por um profissional de saúde (médico, psicólogo ou odontólogo) para servir de base ao julgamento; tem três tipos: favorável, favorável com restrição e desfavorável. Julgamento (67.3(a)(13)) é o resultado final do exame, emitido pelo examinador ou pela ANAC em caso de recurso; tem três tipos: apto, apto com restrição e não apto. Na clínica credenciada, o DTM baseia seu julgamento nos pareceres de cada especialista e, se discordar de algum, deve justificar expressamente (67.45(c)(2)).",
+  "porAlt": [
+   "Errada: inverte as definições; o julgamento é que é o resultado final.",
+   "Errada: julgamento também é emitido pela ANAC em recurso, e parecer vem de profissionais de saúde.",
+   "Correta: 67.3(a)(16) e (13) — parecer é parcial (profissional); julgamento é o resultado final.",
+   "Errada: os dois conceitos valem para todas as classes; não há divisão por classe.",
+   "Errada: não são sinônimos; o parecer é favorável, favorável com restrição ou desfavorável."
+  ]
+ },
+ {
+  "q": "Fiscalização da ANAC comprova que um piloto exerceu as atribuições de sua licença em condição psicofísica proibida pelo RBAC 67. Qual a consequência prevista?",
+  "alts": [
+   "Cassação do CMA, podendo pleitear novo CMA após 180 dias",
+   "Suspensão do CMA até novo exame, sem prazo mínimo de espera",
+   "Cassação do CMA, podendo pleitear novo CMA após 12 meses",
+   "Cassação do CMA, podendo pleitear novo CMA após 5 anos",
+   "Revogação do CMA, com revalidação imediata no examinador"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — cassação do CMA",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.17(e) e (h)",
+  "coment": "Pela seção 67.17(e), se for constatado que o detentor de CMA exerceu as atribuições de suas licenças e habilitações em condição psicofísica proibida pelo regulamento, o CMA será cassado e a pessoa só poderá se candidatar a novo CMA em 180 dias contados da cassação. Os prazos vizinhos têm outros gatilhos: 12 meses para quem teve o CMA cassado por fraude com evidência de participação do candidato (67.17(g)); 5 anos para o médico ou clínica cassados por fraude (67.49(i) e (j)). Além disso, o 67.17(h) veda a revalidação nos casos de cassação: o caminho é sempre novo exame.",
+  "porAlt": [
+   "Correta: 67.17(e) — cassação, com novo pedido de CMA só após 180 dias da cassação.",
+   "Errada: a norma prevê cassação, não simples suspensão, e fixa espera mínima de 180 dias.",
+   "Errada: 12 meses é o prazo da cassação por fraude com evidência de participação do candidato.",
+   "Errada: 5 anos é o prazo do médico ou clínica cassados por fraude (67.49(i) e (j)).",
+   "Errada: 67.17(h) veda revalidação nos casos de cassação; exige-se novo exame."
+  ]
+ },
+ {
+  "q": "Após os exames, descobre-se fraude no processo que levou à emissão de um CMA, sem nenhuma evidência de que o candidato tenha participado dela. O que o RBAC 67 prevê?",
+  "alts": [
+   "O CMA é mantido, pois a cassação por fraude exige conivência do candidato",
+   "O CMA é cassado e o candidato só pode refazer o exame inicial após 12 meses",
+   "O CMA é cassado e o candidato pode fazer novo exame inicial de imediato",
+   "O CMA é cassado e o candidato só pode refazer o exame inicial após 180 dias",
+   "O CMA é cassado e o candidato fica impedido de nova certificação por 5 anos"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — cassação por fraude",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.17(f) e (g)",
+  "coment": "A seção 67.17(f)(1) manda cassar o CMA, sem prejuízo das medidas administrativas e com comunicação ao Ministério Público, quando houver detecção de fraude após os exames, e diz expressamente que o CMA será cassado mesmo que o candidato não tenha sido conivente. O que muda é a espera (67.17(g)): havendo evidências de fraude do candidato, novo exame inicial só após pelo menos 12 meses; não havendo, ele pode candidatar-se imediatamente ou assim que o queira. A pegadinha é dupla: achar que sem conivência o CMA se mantém, ou aplicar os 12 meses a toda fraude.",
+  "porAlt": [
+   "Errada: 67.17(f)(1) cassa o CMA mesmo sem conivência do candidato com a fraude.",
+   "Errada: a espera de 12 meses exige evidência de fraude do próprio candidato.",
+   "Correta: 67.17(g) — sem evidência de fraude do candidato, novo exame inicial imediato.",
+   "Errada: 180 dias é o prazo de quem voou em condição psicofísica proibida (67.17(e)).",
+   "Errada: 5 anos é o prazo aplicável a médico ou clínica cassados por fraude."
+  ]
+ },
+ {
+  "q": "Depois de concedido o CMA, a ANAC constata que o candidato omitiu no exame o uso contínuo de um medicamento, informação que o RBAC 67 exige. Qual a medida prevista?",
+  "alts": [
+   "O CMA é cassado e o candidato deve fazer novo exame pericial inicial",
+   "O CMA é suspenso até a entrega de um relatório do médico assistente",
+   "O CMA é mantido, com a anotação da omissão no campo de observações",
+   "O CMA é revalidado com restrição e a validade reduzida para 6 meses",
+   "O CMA é revogado e só pode ser recuperado por meio de recurso à ANAC"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — omissão de informações",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.17(d) e 67.71(d)",
+  "coment": "O candidato deve dar ciência ao examinador ou à ANAC de qualquer problema de aptidão psicofísica que conheça, do uso de medicamentos e de negação, suspensão ou cassação anteriores de CMA, no Brasil ou no exterior (67.71(d), repetido nas demais subpartes). Pela seção 67.17(d), caso a ANAC constate por qualquer meio legal que o candidato omitiu informações requeridas, o CMA, se concedido, será cassado, e o candidato deverá se submeter a novo exame de saúde pericial inicial. Se a omissão for dolosa, com informação falsa para obter o CMA, entra o 67.17(f)(2): cassação com comunicação ao Ministério Público.",
+  "porAlt": [
+   "Correta: 67.17(d) — omissão de informação requerida: CMA cassado e novo exame inicial.",
+   "Errada: omissão de informação requerida leva à cassação, não a mera suspensão.",
+   "Errada: não há manutenção com anotação; o 67.17(d) manda cassar o CMA.",
+   "Errada: não se revalida CMA em caso de cassação (67.17(h)).",
+   "Errada: a medida é cassação com exame inicial; o recurso não é via de recuperação do CMA."
+  ]
+ },
+ {
+  "q": "Comandante de linha aérea envolve-se em incidente aeronáutico grave, sem colisão ou parada brusca. Pelo RBAC 67, qual o efeito sobre o seu CMA de 1ª classe?",
+  "alts": [
+   "Cassação e novo exame inicial completo, sem nenhuma hipótese de isenção prevista na norma",
+   "Nenhum efeito, pois apenas o acidente com vítimas suspende o CMA ainda vigente do piloto",
+   "Suspensão por 180 dias, independentemente do resultado de qualquer novo exame pericial",
+   "Suspensão e exame inicial com critérios de revalidação, salvo laudo do médico da empresa",
+   "Suspensão, com isenção possível por laudo do médico assistente particular do próprio piloto"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — CMA após incidente grave",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.17(a)(1) e 67.105(a) e (d)",
+  "coment": "O CMA vigente é suspenso quando o detentor toma parte em acidente ou incidente aeronáutico grave, exceto mediante laudo médico que justifique a não aplicação (67.17(a)(1)). Após o evento, o candidato faz exame de saúde pericial inicial com critérios de revalidação (67.105(a)). O 67.105(d) permite que o incidente grave receba isenção dessas exigências mediante laudo emitido pelo responsável médico do setor de medicina da empresa aérea onde atua o tripulante — não por qualquer médico. Um CMA suspenso volta a valer após exame de saúde pericial (67.17(b)), sem prazo fixo de 180 dias.",
+  "porAlt": [
+   "Errada: a medida é suspensão, e o 67.105(d) prevê isenção para o incidente grave.",
+   "Errada: incidente aeronáutico grave também suspende o CMA (67.17(a)(1)).",
+   "Errada: não há suspensão por prazo fixo; o CMA volta a valer após exame pericial (67.17(b)).",
+   "Correta: suspensão e exame inicial com critérios de revalidação, salvo laudo do médico da empresa aérea.",
+   "Errada: o laudo isentivo deve vir do responsável médico da empresa aérea, não do médico assistente."
+  ]
+ },
+ {
+  "q": "Piloto sobrevive a acidente aeronáutico com colisão e parada brusca da aeronave. Além do exame inicial com critérios de revalidação, que laudos podem ser exigidos a critério do examinador ou da ANAC?",
+  "alts": [
+   "Cardiologista com cateterismo cardíaco e ecocardiograma transesofágico obrigatórios",
+   "Ortopedista com ressonância de coluna total e densitometria óssea de corpo inteiro",
+   "Psiquiatra forense e toxicológico de larga janela de detecção em fio de cabelo",
+   "Neurologista (SNC e periférico) e imagem da aorta e órgãos torácicos e abdominais",
+   "Otorrinolaringologista com eletronistagmografia e audiometria de tronco cerebral"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — exames pós-acidente",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.105(b) e (c)",
+  "coment": "Nos exames após acidente ou incidente aeronáutico grave em que tenha havido colisão ou parada brusca da aeronave, o 67.105(b) permite exigir, a critério do examinador ou da ANAC: (1) laudo de neurologista avaliando o sistema nervoso central e periférico; (2) laudo de estudo por imagem da aorta torácica e de órgãos intratorácicos; e (3) laudo de estudo por imagem da aorta abdominal e de órgãos intra-abdominais. A lógica é a do trauma por desaceleração. O 67.105(c) atribui ao CENIPA a caracterização do evento como incidente, incidente grave ou acidente. Pós-acidente também exige parecer do psiquiatra e avaliação psicológica (67.75(g) e (h)).",
+  "porAlt": [
+   "Errada: cateterismo e eco transesofágico não constam da lista do 67.105(b).",
+   "Errada: ressonância de coluna e densitometria não estão entre os laudos previstos.",
+   "Errada: nenhum dos dois consta do 67.105(b); o parecer psiquiátrico pós-acidente é obrigatório (67.75(g)), não laudo a critério.",
+   "Correta: 67.105(b) — neurologista e imagem da aorta e órgãos intratorácicos e intra-abdominais.",
+   "Errada: eletronistagmografia e audiometria de tronco não constam do 67.105(b)."
+  ]
+ },
+ {
+  "q": "O RBAC 67 obriga determinados agentes a reportar a diminuição da aptidão psicofísica de um tripulante tão logo tomem conhecimento do caso. Qual das opções NÃO está entre eles?",
+  "alts": [
+   "O CENIPA ou outro responsável por investigação de acidentes",
+   "O sindicato profissional ao qual o tripulante é filiado",
+   "O operador aéreo, por meio do seu próprio serviço médico",
+   "O examinador responsável pela certificação do tripulante",
+   "Os servidores designados pela ANAC para a fiscalização"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — dever de notificar",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.15(c) e (d)",
+  "coment": "O próprio detentor do CMA deve reportar à ANAC ou ao examinador qualquer diminuição de suas aptidões psicofísicas e deixar de exercer as prerrogativas até novo julgamento apto ou apto com restrição (67.15(c)). O 67.15(d) estende o dever a: (1) o examinador; (2) o CENIPA ou qualquer outro pessoal responsável por investigação de acidentes ou incidentes; (3) o operador aéreo, através de seu serviço médico; (4) os servidores designados pela ANAC; e (5) as organizações regidas pelos RBHA 140 e 141 ou RBAC que os substituam e pelo RBAC 142. Sindicato não integra a lista. Diminuição ratificada suspende o CMA (67.17(a)(2)).",
+  "porAlt": [
+   "Está na lista: 67.15(d)(2) inclui o CENIPA e outros responsáveis por investigação.",
+   "Correta: o sindicato não consta do rol do 67.15(d); é a opção que NÃO está entre eles.",
+   "Está na lista: 67.15(d)(3) inclui o operador aéreo, através de seu serviço médico.",
+   "Está na lista: 67.15(d)(1) inclui o examinador.",
+   "Está na lista: 67.15(d)(4) inclui os servidores designados pela ANAC."
+  ]
+ },
+ {
+  "q": "Médico com CRM há quatro anos, que NÃO fez o curso básico de perícia médica da aviação civil (nem equivalente), pede autorização à ANAC. O que ele pode obter?",
+  "alts": [
+   "Credenciamento como MC, para emitir CMA de 2ª, 4ª e 5ª classes",
+   "Nenhuma autorização, pois o CRM precisa ter ao menos cinco anos",
+   "Nomeação como DTM de clínica, com dispensa do curso de perícia",
+   "Cadastramento como MCad, para emitir apenas CMA de 4ª classe",
+   "Cadastramento como MCad, para emitir apenas CMA de 5ª classe"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — MC, MCad e DTM",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.3(a)(7), (14) e (15), 67.37, 67.39 e 67.41",
+  "coment": "O médico cadastrado (MCad) é autorizado a realizar exames para concessão ou revalidação de CMA de 4ª classe (67.3(a)(14) e 67.41(a)); os requisitos do 67.41(b) são CRM válido há pelo menos 3 anos, capacidade de registros e de atualizar o sistema da ANAC, e regularidade legal — sem exigência do curso. Já o médico credenciado (MC), que emite CMA de 2ª, 4ª e 5ª classes (67.3(a)(15)), precisa do CRM há 3 anos E da aprovação no curso básico de perícia médica da aviação civil ou equivalente (67.37(a)(2)(i)); o DTM de clínica também exige o curso (67.39(a)(1)(i)(A)). O curso de fisiologia de voo e a especialização em medicina aeroespacial são aceitos como equivalentes.",
+  "porAlt": [
+   "Errada: o MC exige aprovação no curso básico de perícia médica ou equivalente (67.37(a)(2)(i)).",
+   "Errada: o tempo mínimo de CRM é de 3 anos, e ele já tem quatro.",
+   "Errada: o DTM também precisa do curso (67.39(a)(1)(i)(A)) e de aprovação prévia da ANAC.",
+   "Correta: o MCad (67.41) não exige o curso e emite somente CMA de 4ª classe.",
+   "Errada: o MCad emite CMA de 4ª classe; a 5ª classe cabe ao MC, à CLC ou à entidade conveniada."
+  ]
+ },
+ {
+  "q": "Para credenciar-se na ANAC, a clínica deve ter no mínimo médicos com RQE em determinadas especialidades. Qual conjunto corresponde exatamente a essa exigência?",
+  "alts": [
+   "Cardiologia, oftalmologia, otorrinolaringologia, neurologia e pneumologia",
+   "Cardiologia, oftalmologia, otorrinolaringologia, psiquiatria e ortopedia",
+   "Cardiologia, oftalmologia, otorrinolaringologia, neurologia e psiquiatria",
+   "Clínica médica, oftalmologia, otorrinolaringologia, neurologia e psiquiatria",
+   "Cardiologia, oftalmologia, otorrinolaringologia, neurologia e endocrinologia"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — clínica credenciada",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.39(a)(1)(ii) e (iii)",
+  "coment": "O 67.39(a)(1)(ii) exige que a clínica credenciada (CLC) possua, como mínimo, médicos com Registro de Qualificação de Especialista (RQE) no CRM em cardiologia, oftalmologia, otorrinolaringologia, neurologia e psiquiatria. O inciso (iii) acrescenta pelo menos um psicólogo e um odontólogo vinculados, registrados nos respectivos conselhos. A clínica tem um único Diretor Técnico Médico (DTM), aprovado pela ANAC antes da nomeação, que treina os profissionais em fisiologia de voo e emite os julgamentos com base nos pareceres. Exames de outras especialidades podem ser feitos por consultórios terceirizados sob controle da CLC (67.39(a)(1)(vi)).",
+  "porAlt": [
+   "Errada: troca a psiquiatria pela pneumologia, que não integra o rol mínimo.",
+   "Errada: tira a neurologia e inclui a ortopedia, que não está no rol mínimo.",
+   "Correta: 67.39(a)(1)(ii) — cardiologia, oftalmologia, otorrino, neurologia e psiquiatria.",
+   "Errada: troca a cardiologia pela clínica médica, que não é exigida com RQE.",
+   "Errada: troca a psiquiatria pela endocrinologia, ausente do rol do 67.39."
+  ]
+ },
+ {
+  "q": "Médico credenciado (MC), cujo credenciamento vale 3 anos, quer revalidá-lo. Qual o prazo para o pedido e o que ocorre se o processo ultrapassar muito a data de expiração?",
+  "alts": [
+   "Pedir ao menos 30 dias antes; passados 12 meses da expiração, vira novo credenciamento",
+   "Pedir ao menos 90 dias antes; passados 12 meses da expiração, é cassado de ofício",
+   "Pedir ao menos 60 dias antes; passados 6 meses da expiração, perde o direito por 5 anos",
+   "Pedir até a data de expiração; depois dela, a revalidação fica vedada em toda hipótese",
+   "Pedir ao menos 90 dias antes; passados 6 meses da expiração, vira novo credenciamento"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — revalidação do credenciamento",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.37(c) e 67.43(c) e (d)",
+  "coment": "O credenciamento do MC vale 3 anos (67.37(c)), assim como o da clínica (67.39(b)) e o cadastramento do MCad (67.41(c)), podendo a ANAC conceder prazo menor. O 67.43(c) manda dar entrada no pedido de revalidação pelo menos 90 dias antes de expirar o credenciamento ou cadastramento. Pelo 67.43(d), a nova validade conta da expiração anterior; mas se o processo ultrapassar 6 meses dessa data, a revalidação é descontinuada e passa a ser tratada como novo credenciamento. A revalidação do MC e do MCad depende de fiscalização da documentação; a da CLC, de inspeção da ANAC (67.43(a) e (b)).",
+  "porAlt": [
+   "Errada: o pedido é com 90 dias de antecedência, e o marco de descontinuação é de 6 meses.",
+   "Errada: passados 6 meses (não 12) o processo vira novo credenciamento; não há cassação de ofício.",
+   "Errada: a antecedência é de 90 dias, e não há perda do direito por 5 anos.",
+   "Errada: o pedido deve ser feito ao menos 90 dias antes, e há margem de 6 meses após a expiração.",
+   "Correta: 67.43(c) e (d) — pedido com 90 dias; após 6 meses da expiração, novo credenciamento."
+  ]
+ },
+ {
+  "q": "Médico credenciado ficou oito meses sem realizar nenhum exame de saúde pericial. O que o RBAC 67 prevê para essa situação?",
+  "alts": [
+   "Suspensão do credenciamento, a critério da ANAC; acima de 1 ano, revogação",
+   "Revogação imediata do credenciamento, que só volta com novo credenciamento",
+   "Cassação do credenciamento, com impedimento de novo pedido por cinco anos",
+   "Nenhuma medida, pois só inatividade superior a 2 anos gera alguma suspensão",
+   "Suspensão automática até que conclua nova atualização periódica presencial"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — inatividade do examinador",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.49(d) e (e)",
+  "coment": "O 67.49(d) prevê que MC, CLC ou MCad terão credenciamento ou cadastramento suspenso, a critério da ANAC, se permanecerem mais de 6 meses e menos de 1 ano sem realizar exames de saúde periciais; para reativar, atendem aos requisitos de revalidação do 67.43. O 67.49(e) prevê revogação, também a critério da ANAC, se a inatividade passar de 1 ano. Oito meses caem na faixa da suspensão. A cassação é reservada a fraude, a não conformidades que o examinador não quer ou não consegue sanar e a suspensão não resolvida em 6 meses (67.49(b)); e a espera de 5 anos é da cassação por fraude (67.49(i)).",
+  "porAlt": [
+   "Correta: 67.49(d) e (e) — entre 6 meses e 1 ano, suspensão; acima de 1 ano, revogação.",
+   "Errada: revogação é para inatividade superior a 1 ano; oito meses geram suspensão.",
+   "Errada: cassação e espera de 5 anos decorrem de fraude, não de inatividade.",
+   "Errada: o marco é de 6 meses de inatividade, e não de 2 anos.",
+   "Errada: a reativação exige os requisitos de revalidação do 67.43, e a suspensão é a critério da ANAC."
+  ]
+ },
+ {
+  "q": "Quanto aos registros dos exames de saúde periciais, o que o RBAC 67 exige do examinador?",
+  "alts": [
+   "Guardá-los por 20 anos e enviar pareceres e julgamentos à ANAC em até 30 dias",
+   "Guardá-los por 5 anos e enviar à ANAC só os julgamentos não apto em 48 horas",
+   "Guardá-los por 5 anos e enviar pareceres e julgamentos à ANAC em 10 dias úteis",
+   "Guardá-los por 2 anos e enviar pareceres e julgamentos à ANAC em 10 dias úteis",
+   "Guardá-los por 10 anos, bastando o parecer favorável ou não de cada especialista"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — registros",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.53(c), (d), (f) e (g)",
+  "coment": "O 67.53(c) determina que o examinador e a ANAC mantenham os registros dos exames de cada candidato, inclusive a parte feita por outros profissionais que subsidiou o julgamento, por pelo menos 5 anos, sem prejuízo de outras normas que exijam prazo maior. O 67.53(d) diz que não bastam simples pareceres favoráveis ou desfavoráveis sem evidência de que cada requisito foi investigado. O 67.53(f) manda encaminhar à ANAC, em até 10 dias úteis, os pareceres e julgamentos, e o 67.53(g) exige livro de ata. O candidato tem direito a cópias, às suas expensas, dentro do prazo de guarda de 5 anos (67.53(e)).",
+  "porAlt": [
+   "Errada: o prazo mínimo é de 5 anos e o envio à ANAC ocorre em até 10 dias úteis.",
+   "Errada: envia-se tudo (pareceres e julgamentos), e não só os julgamentos não apto.",
+   "Correta: 67.53(c) e (f) — guarda por ao menos 5 anos e envio à ANAC em até 10 dias úteis.",
+   "Errada: o prazo mínimo de guarda é de 5 anos, não de 2.",
+   "Errada: 67.53(d) diz que simples pareceres sem evidência do exame não são suficientes."
+  ]
+ },
+ {
+  "q": "Clínica credenciada perde temporariamente o seu oftalmologista vinculado; os demais profissionais continuam. Como o RBAC 67 permite que ela prossiga com os exames?",
+  "alts": [
+   "O DTM supre pessoalmente o exame oftalmológico, por no máximo 90 dias",
+   "O DTM usa parecer de outro oftalmologista com RQE, por no máximo 30 dias",
+   "O DTM usa parecer de qualquer médico com CRM ativo, por no máximo 30 dias",
+   "A clínica suspende todos os exames até contratar outro oftalmologista",
+   "O DTM usa parecer de outro oftalmologista com RQE, por até seis meses"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — isenções para a clínica",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.55(a)",
+  "coment": "O 67.55(a) permite que, na falta de um profissional de saúde aceito pela ANAC, o DTM baseie o julgamento em pareceres de outro profissional não vinculado à clínica, com quatro condições: (1) somente pareceres de médicos especialistas com RQE; (2) prazo máximo de 30 dias; (3) só para a falta de um profissional por vez — faltando 2 ou mais ao mesmo tempo, a clínica deve suspender os exames de 1ª classe até restar no máximo 1 ausência; e (4) se quem faltar for o próprio DTM, a clínica suspende os exames até outro DTM ser indicado e aprovado pela ANAC.",
+  "porAlt": [
+   "Errada: o DTM usa parecer de especialista externo com RQE, e o limite é de 30 dias.",
+   "Correta: 67.55(a) — parecer de especialista com RQE não vinculado, por até 30 dias.",
+   "Errada: exige-se médico especialista com RQE, e não qualquer médico com CRM.",
+   "Errada: a suspensão total só ocorre se faltar o DTM; aqui cabe a isenção de 30 dias.",
+   "Errada: o especialista está certo, mas o prazo máximo da isenção é de 30 dias."
+  ]
+ },
+ {
+  "q": "Psiquiatra vinculado a uma clínica credenciada é também piloto privado e precisa revalidar o próprio CMA de 2ª classe. Como o RBAC 67 disciplina esse exame?",
+  "alts": [
+   "Com outro examinador, pois a clínica não pode julgar profissional vinculado",
+   "Na própria clínica, desde que outro psiquiatra emita o parecer da sua área",
+   "Na própria clínica, com julgamento do DTM e pareceres dos demais colegas",
+   "Ele próprio emite o parecer psiquiátrico, cabendo ao DTM apenas o julgamento",
+   "Somente na ANAC, única autorizada a examinar médicos que atuam como peritos"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — vedações ao examinador",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.45(k) e (l)",
+  "coment": "O 67.45(k) veda ao médico ou profissional de saúde emitir parecer ou julgamento em exame de saúde pericial próprio, e o 67.45(l) veda à clínica credenciada emitir parecer ou julgamento em exame de qualquer profissional de saúde que lhe esteja vinculado. Assim, o psiquiatra da clínica não pode ser examinado nela, nem mesmo por colegas ou pelo DTM: deve procurar outro examinador habilitado para a 2ª classe — um médico credenciado (MC), outra clínica credenciada ou uma entidade conveniada. A regra protege a imparcialidade do julgamento, que o RBAC 67 trata como ato pericial, com registros guardados por ao menos 5 anos.",
+  "porAlt": [
+   "Correta: 67.45(k) e (l) — ninguém julga o próprio exame, e a clínica não julga profissional vinculado.",
+   "Errada: o 67.45(l) veda à clínica examinar qualquer profissional vinculado, mesmo com outro colega.",
+   "Errada: o DTM também não pode julgar, pois a vedação alcança a clínica como um todo.",
+   "Errada: o 67.45(k) proíbe emitir parecer ou julgamento em exame de saúde pericial próprio.",
+   "Errada: não há exclusividade da ANAC; qualquer outro examinador habilitado para a classe pode examinar."
+  ]
+ }
+]

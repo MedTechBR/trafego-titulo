@@ -159,17 +159,11 @@ auditoria por DOM — que precisou de parser para `color(srgb r g b / a)`, forma
 devolve e que um parser ingênuo de `rgb()` lê como quase preto (falso positivo em massa).
 
 ### Estado das leituras
-**13 publicadas, ~164 min** (`leituras.js` → `window.LEITURAS`), todas com fonte primária lida:
-aptidão física e mental · toxicológico do art. 148-A · álcool e direção · oftalmo/ORL (Anexos II–IV) ·
-falha de atenção e celular · **cardiorrespiratória** (Anexos V–VII + DCEI) · **neurológica e epilepsia**
-(Anexos VIII/IX + ABRAMET 2025 + Parkinson + EM) · **sono e SAOS** (Anexos X–XII) · **locomotor e PcD**
-(JME/NBR 14970 + Anexo XV) · **APH e trauma** (protocolos SAMU 192 + CTB) · **aeroespacial** (RBAC 67) ·
-**viajante** (CIVP/WRIGHT) · **dano corporal e securitária** (barema da Lei 6.194/1974).
-
-Os 21 temas da taxonomia com leitura são 13. **Faltam 8**: ORL isolado (hoje dentro de oftalmo/ORL),
-drogas e medicamentos, psiquiatria e neurodesenvolvimento, sistêmicas (diabetes/DRC), proteção veicular
-e transporte de crianças, grupos especiais (idoso/gestante/motociclista/ciclista), ocupacional, aquaviária.
-As diretrizes ABRAMET correspondentes já estão baixadas e extraídas (ver abaixo).
+**23 publicadas (23/09/2026)**, todas com fonte primária lida e números conferidos por um segundo agente:
+as 13 anteriores + **CTB essencial** · **medicamentos e drogas** · **psiquiatria e neurodesenvolvimento** ·
+**ORL isolado** · **diabetes/DRC** · **proteção veicular e crianças** · **grupos especiais** · **ocupacional** ·
+**aquaviária** · **Revisão de véspera: os números que caem** (grupo "Revisão final" no topo do índice, ~30 min,
+todos os cortes da prova com a fonte ao lado + plano dos últimos dias). Todos os 21 temas têm leitura.
 
 ## Rigor de conteúdo (o ponto mais importante)
 Prova de legislação e norma técnica: **fato errado é o pior defeito possível**. Regras:
@@ -194,26 +188,24 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
 
 ## Rotina de QA (antes de dizer "pronto")
 1. `python3 monta_banco.py` (roda o validador; erro duro = não publica).
-2. Sintaxe de todos os `.js` + o script inline do index (JavaScriptCore — esta máquina não tem node).
+2. Sintaxe de todos os `.js` + o script inline do index (`/opt/homebrew/bin/node --check`).
 3. Servir local (`launch.json` → `trafego-titulo`, porta 8623) e rodar asserções por DOM.
 4. Só depois: commit/push e **bump do `CACHE` do sw.js**.
 
-## Estado do conteúdo (24/08/2026)
-- **504 questões** em 36 levas (`lotes-questoes/leva*.json`), 504 chaves únicas, zero erros duros
-- Distribuição do gabarito: A 112 · B 108 · C 97 · D 94 · E 93
+## Estado do conteúdo (23/09/2026)
+- **1.044 questões** em 56 levas, 1.044 chaves únicas, zero erros duros. Gabarito A 229 · B 218 · C 203 · D 198 · E 196.
+  Todos os temas ≥ 27; aptidão 89, legislação 79, APH 68, aeroespacial 68.
+- Levas 37–56 (540 questões) redigidas em 11 frentes paralelas a partir de `fontes/*.txt` e **verificadas uma a uma
+  por um segundo agente contra a fonte** (roteiros em `docs/roteiros/`). A verificação removeu ~20 duplicatas e
+  corrigiu ~50 comentários/distratores; nenhum gabarito novo estava errado. `python3 lista_tema.py <tema>` lista o que
+  já existe (usar antes de escrever leva nova).
+- A mesma rodada achou **erros em material ANTIGO**, corrigidos (enunciado trocado para descartar a resposta gravada):
+  DPVAT e SUS (texto superado da MP 451 — leva7), complicação grave do diabetes = inapto definitivo (leva17), fratura
+  exposta pelo BT13 do SAMU (leva27), CNH "recolhida" na reincidência do álcool (leva2); e nas leituras: securitária
+  (§2º do art. 3º e art. 4º da Lei 6.194), locomotor (art. 14, VI, não 12), aeroespacial (1ª classe e gravidez),
+  cardio (contradição texto × figura da diretriz de DCEI), viajante (certificado ainda não válido pelo RSI).
 - 24 cartões · 6 casos da teórico-prática
-- Levas 33–36 saíram das diretrizes ABRAMET de drogas ilícitas, telefone celular (FAC),
-  condutor idoso e cinto de segurança (+ cinto e gravidez)
-- **Nada falta baixar.** O MPPCVA (medicamentos) abria com 0 caracteres por **download truncado**,
-  não por PDF de imagem: `curl -skL` completo trouxe 4,6 MB / 42 páginas / 88 KB de texto.
-  `chunk2.py` (na raiz do projeto) baixa por faixas de bytes quando o servidor corta a transferência.
-- ⚠️ As extrações ficam no **scratchpad da sessão, que é apagado**. O catálogo durável de fontes
-  (URLs, peculiaridades de cada servidor, o que já está versionado) está em **`docs/FONTES.md`** —
-  consultar ali antes de sair caçando link. Diretrizes disponíveis: alcoolemia, animais,
-  benzodiazepínicos, bicicletas, celular, cinto_gravidez, cinto_seguranca, crianca_ambulancia,
-  crianca_pt1/pt2, dcei_cardiaco, diabetes, drc_dialitica, drogas_efeitos, epilepsia2025,
-  esclerose_multipla, esquizofrenia, gravidez_puerperio, idoso, parkinson, tdah, tea,
-  tolerancia_impactos
+- **Nada falta baixar.** Catálogo durável em **`docs/FONTES.md`**; extrações em `fontes/` (gitignored).
 
 ### Receita de fechamento de leva (usar sempre nesta ordem)
 1. Escrever a leva; `python3 checa_leva.py <arquivo>` aponta as alternativas fora de 95–108%.
@@ -225,12 +217,24 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
 5. Commit, bump do `CACHE` do sw.js e push.
 
 ## Achados normativos verificados em fonte primária
+- **Res. CONTRAN 1.031/2026** (17/08/2026, DOU 18/08) **revogou a 432/2013**: pelo menos DOIS sinais de alteração;
+  recusa sem sinais = 165-A, com 2+ sinais = 165 (e pode ser crime do 306); aparelho para outras substâncias (positivo
+  caracteriza infração e crime); sangue/exame clínico viram suplementares; sinistro com óbito exige exame; art. 12: o
+  agente **não recolhe** a CNH. A leitura de álcool tem a tabela "antes × depois".
+- **Res. CONTRAN 1.020/2025 revogou a 789/2020**; tempo dobrado do teórico (dislexia, TDAH, TEA) está no art. 33 §2º.
+- **Lei 15.503/2026** (14/09/2026, vigência imediata): categoria B dirige elétrico/híbrido até 4.250 kg (CTB 143 §2º-A).
 - **Lei 15.428/2026**: renovação automática pelo RNPC dispensa o art. 147 EXCETO o exame de aptidão;
   peritos passam a ser autorizados pela Senatran; preço público corrigido pelo IPCA.
+- **ADI 5322** (Lei do Motorista): 11 h de descanso não se fracionam; tempo de espera é jornada. O compilado do
+  Planalto ainda mostra o texto derrubado, só com "Vide ADI 5322" — não fazer questão sobre esses trechos.
 - **Diretriz ABRAMET 2025 de epilepsia**: substitui na prática o Anexo VIII, com tabela por categoria
   E por atividade remunerada (a pergunta nº 9 do Anexo I define a coluna aplicável).
-- **SPVAT extinto**: LC 211/2024 (30/12/2024) revogou a LC 207/2024. DPVAT: R$13.500 morte,
-  até R$13.500 invalidez, até R$2.700 DAMS; graduação 75/50/25/10%.
+- **SPVAT extinto**: LC 211/2024 (30/12/2024) revogou a LC 207/2024. DPVAT (texto da Lei 6.194): R$13.500 morte,
+  até R$13.500 invalidez, até R$2.700 DAMS; graduação 75/50/25/10%. DAMS: atendimento PRIVADO na rede credenciada ao
+  SUS é reembolsável; só o feito PELO SUS é vedado (Lei 11.945/2009 — o "mesmo que em caráter privado" é da MP 451,
+  superado). O art. 4º remete ao art. 792 do Código Civil, que a Lei 15.040/2024 revogou.
+- **Contradições internas conhecidas** (não fazer questão que dependa delas): Epworth > 12 × ≥ 12 (Anexo X);
+  DCEI marca-passo profissional 4 (figura) × 6 semanas (texto) e CDI secundária 3 (figura) × 6 meses (texto).
 
 ## Hospedagem
 GitHub Pages, repo público `MedTechBR/trafego-titulo` — conteúdo 100% autoral, sem material

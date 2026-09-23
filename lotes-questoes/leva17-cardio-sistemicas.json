@@ -176,25 +176,25 @@
   ]
  },
  {
-  "q": "Segundo a Diretriz ABRAMET sobre diabetes, o que deve ser observado quando a avaliação evidencia formas graves de microangiopatia ou macroangiopatia no condutor?",
+  "q": "Pela Diretriz ABRAMET sobre diabetes, qual é a conduta do perito quando a avaliação evidencia formas graves de microangiopatia, macroangiopatia e/ou neuropatia no condutor diabético?",
   "alts": [
-   "O diagnóstico dessas complicações determina automaticamente a inaptidão definitiva para toda categoria",
-   "O diagnóstico dessas complicações é irrelevante, bastando o controle glicêmico atual do candidato avaliado",
-   "As repercussões dessas complicações sobre visão, sensibilidade e função cardiovascular devem ser avaliadas",
-   "O diagnóstico dessas complicações exige apenas a redução do prazo de validade do exame para seis meses fixos",
-   "O diagnóstico dessas complicações exige encaminhamento obrigatório à Junta Especial de Saúde do CETRAN"
+   "Reduzir o prazo de validade do exame para um ano e liberar a direção apenas na categoria B",
+   "Considerar apto, desde que a glicemia capilar antes de dirigir esteja acima de 70 mg/dl",
+   "Determinar o definitivo afastamento da condução de veículos automotores (considerar inapto)",
+   "Considerar inapto temporário por seis meses e reavaliar após novo controle da hemoglobina",
+   "Encaminhar obrigatoriamente à Junta Especial de Saúde do CETRAN antes de qualquer decisão"
   ],
   "gab": 2,
   "tema": "sistemicas",
-  "sub": "Complicações crônicas do diabetes",
-  "base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular'.",
-  "coment": "A diretriz determina que, quando na avaliação do motorista com diabetes ficar evidenciado o diagnóstico de formas graves de microangiopatia ou macroangiopatia, essas condições sejam consideradas. O raciocínio é funcional: a retinopatia diabética compromete acuidade e campo visuais, com repercussão direta nos parâmetros do Anexo II; a neuropatia periférica prejudica a sensibilidade e o controle fino dos pedais, além de aumentar o risco de lesões despercebidas; a neuropatia autonômica pode produzir hipotensão postural e hipoglicemia assintomática; e a macroangiopatia traz doença coronariana e cerebrovascular, com risco de evento súbito. Ou seja, o diabetes é avaliado por suas repercussões, e não apenas pelo controle glicêmico.",
+  "sub": "Complicações crônicas graves do diabetes",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Diabetes Mellitus e risco na direção veicular', recomendações e fluxograma final.",
+  "coment": "A diretriz é categórica: quando na avaliação do motorista com diabetes ficar evidenciado o diagnóstico de formas GRAVES de microangiopatia, macroangiopatia e/ou neuropatia, o perito determinará ao examinando o DEFINITIVO AFASTAMENTO da condução de veículos automotores. O fluxograma repete a regra: motoristas diabéticos portadores de grave e irreversível microangiopatia, macroangiopatia e/ou neuropatia deverão ser considerados INAPTOS. O raciocínio é funcional — a retinopatia compromete visão, a neuropatia periférica prejudica a sensibilidade e o controle dos pedais, a autonômica favorece hipoglicemia sem aviso, e a macroangiopatia traz risco de evento coronariano ou cerebrovascular súbito. Não confundir com a regra da glicemia antes de dirigir (não iniciar ou interromper a direção abaixo de 70 mg/dl), que vale para o diabético sem essas complicações graves.",
   "porAlt": [
-   "Não há inaptidão definitiva automática: a decisão depende da repercussão funcional identificada.",
-   "O diagnóstico é altamente relevante e não é substituído pelo controle glicêmico atual isolado.",
-   "Correta: avaliam-se as repercussões sobre visão, sensibilidade e função cardiovascular do condutor.",
-   "A redução fixa do prazo para seis meses não é a conduta prevista pela diretriz para essas complicações.",
-   "A Junta Especial de Saúde é instância de julgamento de recurso, não a via ordinária dessa avaliação."
+   "Redução de prazo com restrição de categoria não é a conduta prevista para complicações graves.",
+   "O corte de 70 mg/dl orienta a direção do diabético, mas não libera quem tem complicação grave.",
+   "Correta: a diretriz manda determinar o definitivo afastamento da condução (inapto).",
+   "A diretriz não prevê inaptidão temporária de seis meses: o afastamento é definitivo.",
+   "A Junta Especial de Saúde é instância de recurso, não etapa obrigatória prévia à decisão."
   ]
  },
  {

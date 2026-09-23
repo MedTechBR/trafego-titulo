@@ -1,0 +1,354 @@
+[
+ {
+  "q": "Candidato de 40 anos, sem CNH, inscreve-se para o exame de Arrais-Amador e apresenta atestado médico de bom estado psicofísico emitido há 14 meses. Segundo a NORMAM-211/DPC, esse atestado:",
+  "alts": [
+   "Serve, pois o atestado para a inscrição vale por dois anos contados da data de emissão",
+   "Serve, pois o atestado só perde a validade se mudar o estado de saúde do candidato",
+   "Não serve, pois o atestado para a inscrição deve ter sido emitido há menos de 90 dias",
+   "Não serve, pois a inscrição exige exame feito por médico perito da própria Capitania",
+   "Não serve, pois o atestado para a inscrição deve ter sido emitido há menos de um ano"
+  ],
+  "gab": 4,
+  "tema": "aquaviaria",
+  "sub": "Atestado médico do amador",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 5, item 5.4.1, alínea 'e'.",
+  "coment": "Para inscrever-se nos exames de Arrais-Amador (ARA), Mestre-Amador (MSA) e Capitão-Amador (CPA), o candidato apresenta, entre outros documentos, ATESTADO MÉDICO EMITIDO HÁ MENOS DE UM ANO que comprove BOM ESTADO PSICOFÍSICO, incluindo as limitações, caso existam (item 5.4.1, 'e'). A mesma exigência de atestado com menos de um ano se repete para a CHA de Veleiro, para a concessão por equivalência profissional e para a renovação da CHA. A norma não exige médico vinculado à Marinha nem prevê perito da Capitania. O atestado é dispensável para quem apresentar CNH dentro da validade. Emitido há 14 meses, o documento não atende ao prazo.",
+  "porAlt": [
+   "Errada: a norma exige atestado emitido há menos de um ano, e não dois anos.",
+   "Errada: a norma fixa prazo de emissão inferior a um ano, independentemente de mudança clínica.",
+   "Errada: 90 dias não é o prazo da NORMAM-211; o atestado deve ter menos de um ano.",
+   "Errada: a norma pede atestado médico, sem exigir perito vinculado à Capitania dos Portos.",
+   "Correta: o atestado deve ter sido emitido há menos de um ano, e 14 meses excede esse prazo."
+  ]
+ },
+ {
+  "q": "Candidato à inscrição para Arrais-Amador apresenta CNH categoria B dentro da validade e não traz atestado médico. Segundo a NORMAM-211/DPC, como fica a comprovação do seu estado psicofísico?",
+  "alts": [
+   "A CNH não substitui o atestado, que deve ser emitido por médico do tráfego credenciado",
+   "A CNH só dispensa o atestado se for das categorias C, D ou E, de exame mais rigoroso",
+   "A CNH válida dispensa o atestado apenas para candidatos com menos de 65 anos de idade",
+   "A CNH só dispensa o atestado se tiver sido emitida há menos de um ano pelo Detran local",
+   "A CNH válida dispensa o atestado; havendo dúvida motora, exige-se laudo circunstanciado"
+  ],
+  "gab": 4,
+  "tema": "aquaviaria",
+  "sub": "CNH e atestado do amador",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 5, item 5.4.1, alínea 'e' e Observação.",
+  "coment": "A NORMAM-211/DPC determina que o ATESTADO MÉDICO É DISPENSÁVEL para os candidatos que apresentarem a CARTEIRA NACIONAL DE HABILITAÇÃO DENTRO DA VALIDADE, qualquer que seja a categoria. A norma acrescenta que 'a mesma observação' deve ser atendida: havendo dúvida sobre a capacidade ou a habilidade motora do interessado para conduzir a embarcação com segurança, deve ser apresentado LAUDO MÉDICO CIRCUNSTANCIADO, e a Capitania, Delegacia ou Agência agenda uma avaliação técnica. A mesma dispensa pela CNH válida vale para a renovação da CHA e para a concessão por equivalência profissional. A norma não exige categoria específica de CNH nem limita a dispensa por idade.",
+  "porAlt": [
+   "Errada: a norma dispensa o atestado para quem apresenta CNH dentro da validade.",
+   "Errada: a norma não exige categoria específica; basta a CNH estar dentro da validade.",
+   "Errada: a dispensa pela CNH válida não tem corte de idade na NORMAM-211.",
+   "Errada: o critério é a CNH estar dentro da validade, e não a data de sua emissão.",
+   "Correta: CNH válida dispensa o atestado, mantida a exigência de laudo se houver dúvida motora."
+  ]
+ },
+ {
+  "q": "Candidato a Arrais-Amador, com amputação transtibial e uso de prótese, tem atestado que deixa dúvida sobre sua habilidade motora para conduzir com segurança. Segundo a NORMAM-211/DPC, qual é o procedimento?",
+  "alts": [
+   "Indeferir a inscrição, pois a norma exige integridade dos membros para todas as categorias",
+   "Apresentar laudo médico circunstanciado, e a Capitania agenda avaliação técnica de segurança",
+   "Remeter o caso à junta médica do Detran, cujo parecer vincula a Autoridade Marítima local",
+   "Aceitar a inscrição sem outras exigências, pois a limitação já consta no atestado médico",
+   "Apresentar laudo de fisioterapeuta, e a Capitania restringe a CHA à navegação acompanhada"
+  ],
+  "gab": 1,
+  "tema": "aquaviaria",
+  "sub": "Dúvida sobre a capacidade motora",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 5, item 5.4.1, alínea 'e', Observação.",
+  "coment": "A Observação do item 5.4.1, 'e', da NORMAM-211/DPC trata exatamente dessa situação: caso haja DÚVIDA SOBRE A CAPACIDADE OU A HABILIDADE MOTORA do interessado em conduzir a embarcação com segurança, deverá ser apresentado LAUDO MÉDICO CIRCUNSTANCIADO relatando as condições físicas, e a Capitania, Delegacia ou Agência (CP/DL/AG) AGENDARÁ UMA AVALIAÇÃO TÉCNICA para verificar se o condutor atende aos requisitos mínimos de segurança. A deficiência não gera indeferimento automático. As limitações relatadas no atestado médico devem constar do campo de observações da CHA (item 5.5.1, 'e'). A norma não atribui a decisão a junta do órgão de trânsito.",
+  "porAlt": [
+   "Errada: a norma não indefere automaticamente; prevê laudo circunstanciado e avaliação técnica.",
+   "Correta: exige-se laudo médico circunstanciado, e a CP/DL/AG agenda avaliação técnica de segurança.",
+   "Errada: a decisão é da Autoridade Marítima, e a norma não remete o caso a junta do Detran.",
+   "Errada: havendo dúvida motora, a norma exige laudo circunstanciado e avaliação técnica.",
+   "Errada: o documento exigido é laudo médico, e a norma não prevê restrição automática."
+  ]
+ },
+ {
+  "q": "Segundo a NORMAM-211/DPC, onde devem ser registradas as restrições físicas do amador relatadas no atestado médico?",
+  "alts": [
+   "No campo de observações da própria Carteira de Habilitação de Amador (CHA)",
+   "No Título de Inscrição da Embarcação (TIE) que o amador costuma conduzir",
+   "Apenas no prontuário do médico, sob sigilo, sem constar de outro documento",
+   "Na Carteira Nacional de Habilitação, que passa a valer também na navegação",
+   "No Aviso de Saída preenchido pelo amador a cada navegação a partir da marina"
+  ],
+  "gab": 0,
+  "tema": "aquaviaria",
+  "sub": "Restrições na CHA",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 5, itens 5.4.1, 'e', e 5.5.1, 'e'.",
+  "coment": "O item 5.5.1, 'e', da NORMAM-211/DPC determina que DEVERÃO CONSTAR NO CAMPO OBSERVAÇÕES DA CHA as restrições físicas do amador relatadas no atestado médico. O próprio atestado deve registrar as limitações existentes; a norma dá como exemplos o uso obrigatório de lentes de correção visual, estar acompanhado de outra pessoa, estar vestindo colete salva-vidas em qualquer situação, uso obrigatório de aparelho de correção auditiva e restrição para condução durante a noite. É a mesma lógica das restrições codificadas na CNH, mas o documento náutico é a CHA, cujo porte é obrigatório e que é verificada na Inspeção Naval.",
+  "porAlt": [
+   "Correta: o item 5.5.1, 'e', manda registrar as restrições físicas no campo observações da CHA.",
+   "Errada: o TIE é documento da embarcação, não do condutor, e não registra restrições médicas.",
+   "Errada: a norma exige que as restrições constem da CHA, para que possam ser fiscalizadas.",
+   "Errada: a CNH é documento de trânsito terrestre e não substitui a CHA na navegação.",
+   "Errada: o Aviso de Saída trata da navegação, não das restrições médicas do condutor."
+  ]
+ },
+ {
+  "q": "Amador de 66 anos é aprovado e recebe a Carteira de Habilitação de Amador (CHA) de Arrais-Amador. Segundo a NORMAM-211/DPC, qual é a validade dessa carteira?",
+  "alts": [
+   "Dez anos a partir da emissão, prazo aplicado a todos os amadores adultos",
+   "Três anos a partir da emissão, prazo aplicado a quem tem 65 anos ou mais",
+   "Cinco anos a partir da emissão, prazo aplicado a quem tem 70 anos ou mais",
+   "Cinco anos a partir da emissão, prazo aplicado a quem tem 65 anos ou mais",
+   "Dois anos a partir da emissão, prazo aplicado a quem tem 60 anos ou mais"
+  ],
+  "gab": 3,
+  "tema": "aquaviaria",
+  "sub": "Validade da CHA",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 5, item 5.5.1, alíneas 'b' e 'c'; item 5.5.4.",
+  "coment": "Pelo item 5.5.1 da NORMAM-211/DPC, a CHA tem validade em todo o território nacional por DEZ ANOS a partir da emissão (alínea 'b'); para adultos com idade IGUAL OU SUPERIOR A 65 ANOS, a validade é de CINCO ANOS (alínea 'c'). Os cortes diferem dos da CNH (10/5/3 anos com cortes aos 50 e 70 anos, art. 147, §2º, do CTB), e essa diferença é boa pegadinha. Na renovação exige-se novo atestado com menos de um ano, dispensável com CNH válida (item 5.5.4). Após cinco anos do vencimento, o interessado deve submeter-se a novo processo de inscrição.",
+  "porAlt": [
+   "Errada: dez anos é a regra geral, mas a partir de 65 anos a validade cai para cinco anos.",
+   "Errada: a NORMAM-211 não prevê validade de três anos para a CHA.",
+   "Errada: o corte etário da CHA é de 65 anos, e não de 70 anos como na CNH.",
+   "Correta: a partir de 65 anos a CHA vale cinco anos a contar da emissão.",
+   "Errada: a norma não prevê validade de dois anos nem corte aos 60 anos."
+  ]
+ },
+ {
+  "q": "Segundo a NORMAM-211/DPC, quais são as idades mínimas para a habilitação de Arrais-Amador e para a CHA de Veleiro, respectivamente?",
+  "alts": [
+   "16 anos para Arrais-Amador e 12 anos para Veleiro, sob responsabilidade dos pais",
+   "18 anos para Arrais-Amador e 14 anos para Veleiro, sob responsabilidade dos pais",
+   "18 anos para Arrais-Amador e 8 anos para Veleiro, sob responsabilidade dos pais",
+   "21 anos para Arrais-Amador e 10 anos para Veleiro, sob responsabilidade dos pais",
+   "18 anos para as duas categorias, vedada a habilitação de quem é menor de idade"
+  ],
+  "gab": 2,
+  "tema": "aquaviaria",
+  "sub": "Idade mínima do amador",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 5, itens 5.4.2, 'a', e 5.5.2, 'b'.",
+  "coment": "O exame para ARA, MSA e CPA é prova escrita ou eletrônica em português, e o candidato deve ter IDADE MÍNIMA DE 18 ANOS e saber ler e escrever (item 5.4.2, 'a'); excepcionalmente, para ARA, admite-se prova oral ao analfabeto que dependa de embarcação a motor e resida em local remoto. Já a CHA de VELEIRO, facultativa para embarcações miúdas exclusivamente à vela, exige IDADE MÍNIMA DE OITO ANOS, cabendo aos pais, tutores ou responsáveis toda a responsabilidade administrativa e civil pelo uso da embarcação por menores (item 5.5.2, 'b'). Para o Veleiro menor de 18 anos exige-se ainda autorização formal dos pais com firma reconhecida.",
+  "porAlt": [
+   "Errada: a idade mínima para ARA é 18 anos, e para Veleiro, 8 anos.",
+   "Errada: a idade de 18 anos para ARA está certa, mas a do Veleiro é 8 anos, não 14.",
+   "Correta: 18 anos para Arrais-Amador e 8 anos para Veleiro, com responsabilidade dos pais.",
+   "Errada: a norma fixa 18 anos para ARA, e não 21, e 8 anos para Veleiro.",
+   "Errada: a CHA de Veleiro admite menores a partir de 8 anos, com autorização dos pais."
+  ]
+ },
+ {
+  "q": "Em Inspeção Naval, o condutor de uma lancha apresenta 0,20 mg de álcool por litro de ar alveolar no etilômetro. Segundo a NORMAM-211/DPC, qual é a situação?",
+  "alts": [
+   "Configura embriaguez, pois qualquer concentração de álcool no ar alveolar gera a infração",
+   "Não configura embriaguez, pois o limite é de 0,25 mg/L de ar alveolar ou 0,05% no sangue",
+   "Configura embriaguez, pois o limite é de 0,05 mg/L de ar alveolar ou 0,01% no sangue",
+   "Não configura embriaguez, pois o limite é de 0,34 mg/L de ar alveolar ou 0,08% no sangue",
+   "Configura embriaguez, pois o limite adotado na navegação é de 0,10 mg/L de ar alveolar"
+  ],
+  "gab": 1,
+  "tema": "aquaviaria",
+  "sub": "Alcoolemia na navegação",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 7, itens 7.12.1 a 7.12.3.",
+  "coment": "A NORMAM-211/DPC considera estado de embriaguez aquele em que o condutor está sob influência de álcool FORA DOS LIMITES estabelecidos, ou de qualquer substância entorpecente ou tóxica (7.12.1). O item 7.12.2 fixa o limite: concentração IGUAL OU SUPERIOR A 0,25 mg DE ÁLCOOL POR LITRO DE AR ALVEOLAR ou 0,05% DE TEOR DE ÁLCOOL NO SANGUE. Concentração inferior não é considerada embriaguez, e não se aplicam medidas administrativas. O etilômetro deve ser aprovado e aferido pelo INMETRO ou órgão da RBMLQ (7.12.3). A pegadinha é transpor para a navegação os critérios do trânsito terrestre: na NORMAM-211 há um limite numérico abaixo do qual nada se aplica.",
+  "porAlt": [
+   "Errada: na navegação, concentração abaixo de 0,25 mg/L não caracteriza embriaguez.",
+   "Correta: 0,20 mg/L está abaixo do limite de 0,25 mg/L, e não há medidas administrativas.",
+   "Errada: os limites da norma são 0,25 mg/L de ar alveolar ou 0,05% no sangue.",
+   "Errada: o limite não é 0,34 mg/L nem 0,08%; é 0,25 mg/L ou 0,05%.",
+   "Errada: a norma adota 0,25 mg/L de ar alveolar, e não 0,10 mg/L."
+  ]
+ },
+ {
+  "q": "Condutor de embarcação com sinais de embriaguez recusa-se a realizar o teste do etilômetro durante Inspeção Naval. Segundo a NORMAM-211/DPC, qual consequência está prevista?",
+  "alts": [
+   "Impedimento de conduzir e suspensão da habilitação por 120 dias com cancelamento imediato",
+   "Impedimento de conduzir e multa do grupo C ou suspensão da habilitação por até 30 dias",
+   "Liberação para conduzir, pois a recusa ao teste não é infração na navegação de recreio",
+   "Impedimento de conduzir e cancelamento imediato da habilitação, sem direito a recurso",
+   "Advertência verbal, exigindo-se apenas que outro tripulante assuma o comando do barco"
+  ],
+  "gab": 1,
+  "tema": "aquaviaria",
+  "sub": "Recusa ao teste de alcoolemia",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 5, item 5.7; Capítulo 7, itens 7.12.1, 7.12.3 e 7.12.4; RLESTA, art. 23.",
+  "coment": "Pelo item 7.12.1, o condutor que se recusa ao teste de alcoolemia é notificado com base no inciso VIII do art. 23 do RLESTA e IMPEDIDO DE CONDUZIR a embarcação; a penalidade prevista é MULTA DO GRUPO C ou SUSPENSÃO DO CERTIFICADO DE HABILITAÇÃO (CHA ou CIR) POR ATÉ 30 DIAS. Se o teste confirmar teor acima do limite, a infração é a do inciso I do art. 23 do RLESTA, com suspensão da habilitação por ATÉ 120 DIAS, e a REINCIDÊNCIA sujeita ao CANCELAMENTO (7.12.3 e item 5.7). Nos dois casos, o inspetor pode retirar a embarcação de tráfego ou apreendê-la se não houver outro condutor habilitado, que também faz o teste, e os documentos são enviados à autoridade policial (7.12.4).",
+  "porAlt": [
+   "Errada: suspensão de até 120 dias é para a embriaguez constatada, e o cancelamento exige reincidência.",
+   "Correta: a recusa gera impedimento de conduzir e multa do grupo C ou suspensão por até 30 dias.",
+   "Errada: a recusa é infração prevista no inciso VIII do art. 23 do RLESTA.",
+   "Errada: o cancelamento é reservado à reincidência na embriaguez, não à primeira recusa.",
+   "Errada: a norma prevê impedimento de conduzir e penalidade, não mera advertência verbal."
+  ]
+ },
+ {
+  "q": "Segundo a NORMAM-211/DPC, qual é a recomendação sobre a dotação de medicamentos e material de primeiros socorros em embarcações de esporte e recreio?",
+  "alts": [
+   "Dotação completa com 15 pessoas ou mais; abaixo disso, em mar aberto, a caixa de remédios",
+   "Dotação completa do anexo 4-C a partir de 5 pessoas a bordo; abaixo disso, nenhum material",
+   "Dotação completa do anexo 4-C em todas as embarcações, qualquer que seja o número a bordo",
+   "Dotação completa do anexo 4-C a partir de 30 pessoas a bordo; abaixo disso, só curativos",
+   "Dotação completa do anexo 4-C só na navegação oceânica, qualquer que seja o número a bordo"
+  ],
+  "gab": 0,
+  "tema": "aquaviaria",
+  "sub": "Dotação de medicamentos a bordo",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 4, item 4.22; Anexo 4-C.",
+  "coment": "O item 4.22 afirma que, independentemente das normas, é RESPONSABILIDADE DO COMANDANTE dotar a embarcação de medicamentos e materiais de primeiros socorros compatíveis com a área de navegação e com as pessoas a bordo; a dotação de medicamentos em si é de responsabilidade da ANVISA. A norma RECOMENDA que embarcações com 15 PESSOAS OU MAIS a bordo dotem os itens I, II e III do anexo 4-C (caixa de medicamentos, material médico-cirúrgico e diversos), e que as de MAR ABERTO com MENOS DE 15 pessoas dotem o item I (CAIXA DE MEDICAMENTOS). A caixa inclui, por exemplo, paracetamol, clorpromazina, antiácidos, antissépticos e xilocaína gel.",
+  "porAlt": [
+   "Correta: itens I, II e III a partir de 15 pessoas; abaixo disso, em mar aberto, o item I (caixa de medicamentos).",
+   "Errada: o corte da recomendação é de 15 pessoas, e abaixo disso há recomendação para mar aberto.",
+   "Errada: a recomendação de dotação completa começa em 15 pessoas a bordo.",
+   "Errada: o corte é de 15 pessoas, não de 30, e o item recomendado abaixo dele é a caixa de medicamentos.",
+   "Errada: a recomendação depende do número de pessoas, e não apenas do tipo de navegação."
+  ]
+ },
+ {
+  "q": "Segundo a NORMAM-211/DPC, os medicamentos das tabelas de dotação de primeiros socorros podem ser substituídos por similares ou genéricos sob qual condição?",
+  "alts": [
+   "Desde que autorizados previamente pela Capitania dos Portos, após inspeção do material a bordo",
+   "Desde que o comandante registre a troca no diário de bordo antes de cada saída da marina",
+   "Desde que constem de tabela de equivalência organizada e assinada por médico inscrito no CRM",
+   "Desde que comprados em farmácia hospitalar e mantidos nas suas embalagens originais lacradas",
+   "Não podem ser trocados, pois a lista oficial é taxativa quanto ao princípio ativo e à dose"
+  ],
+  "gab": 2,
+  "tema": "aquaviaria",
+  "sub": "Substituição de medicamentos a bordo",
+  "base": "NORMAM-211/DPC (Normas da Autoridade Marítima para Atividades de Esporte e Recreio, Marinha do Brasil/DPC, ed. 2026), Capítulo 4, item 4.22 (Similaridade); Anexo 4-C.",
+  "coment": "A cláusula de SIMILARIDADE do item 4.22 da NORMAM-211/DPC admite que os medicamentos e artigos indicados nas tabelas de dotação sejam SUBSTITUÍDOS POR SIMILARES OU GENÉRICOS, desde que constem de TABELA DE EQUIVALÊNCIA ORGANIZADA E ASSINADA POR MÉDICO credenciado junto ao Conselho Regional de Medicina. O anexo 4-C lembra que o uso deve seguir a rotulagem ou bula, com o número de registro no órgão competente do Ministério da Saúde. É o ponto em que o médico participa formalmente da dotação de bordo: ele responde pela equivalência terapêutica. A norma não exige autorização prévia da Capitania para a substituição.",
+  "porAlt": [
+   "Errada: a norma não condiciona a substituição a autorização prévia da Capitania dos Portos.",
+   "Errada: a condição é a tabela assinada por médico, não um registro no diário de bordo.",
+   "Correta: a substituição exige tabela de equivalência organizada e assinada por médico registrado no CRM.",
+   "Errada: a norma não exige origem hospitalar; exige equivalência atestada por médico.",
+   "Errada: a norma admite expressamente similares e genéricos, com tabela de equivalência."
+  ]
+ },
+ {
+  "q": "Segundo a Convenção sobre Trabalho Marítimo (MLC, 2006) e a Convenção STCW, conforme as Diretrizes OIT/OMI de 2011, qual é o prazo máximo de validade do certificado médico do marítimo?",
+  "alts": [
+   "Cinco anos, reduzido para dois anos quando o marítimo tem mais de 50 anos de idade",
+   "Um ano, ampliado para dois anos quando o marítimo tem menos de 40 anos de idade",
+   "Dois anos, reduzido para um ano quando o marítimo tem menos de 18 anos de idade",
+   "Dois anos, reduzido para um ano quando o marítimo tem mais de 65 anos de idade",
+   "Três anos, reduzido para um ano quando o marítimo tem menos de 18 anos de idade"
+  ],
+  "gab": 2,
+  "tema": "aquaviaria",
+  "sub": "Validade do certificado médico do marítimo",
+  "base": "Diretrizes OIT/OMI sobre os exames médicos de marítimos (ILO/IMO Guidelines on the medical examinations of seafarers, 2011), seções VI (item 32) e XI (item 54); MLC 2006, Norma A1.2, §7; STCW, regra I/9.",
+  "coment": "As Diretrizes OIT/OMI registram que a MLC, 2006 (Norma A1.2, §7) e a Convenção STCW (regra I/9) fixam validade MÁXIMA DE DOIS ANOS para o certificado médico, contados da emissão, salvo se o marítimo tiver MENOS DE 18 ANOS, caso em que o máximo é de UM ANO. A parte relativa à VISÃO DE CORES vale por até SEIS ANOS. Dois anos é o período em que a aptidão normalmente é avaliada (item 33), e o médico só deve emitir certificado mais curto se puder justificar, por exemplo para vigilância de uma condição crônica. As Diretrizes não preveem redução da validade por idade avançada: a redução é para o menor de 18 anos.",
+  "porAlt": [
+   "Errada: o máximo convencional é de dois anos, e não há regra de cinco anos.",
+   "Errada: o máximo é de dois anos, reduzido para um ano apenas abaixo de 18 anos.",
+   "Correta: validade máxima de dois anos, ou de um ano se o marítimo tiver menos de 18 anos.",
+   "Errada: a redução para um ano se aplica ao menor de 18 anos, não ao maior de 65.",
+   "Errada: o máximo convencional é de dois anos, e não de três anos."
+  ]
+ },
+ {
+  "q": "Marítimo embarcado tem o certificado médico, emitido conforme a Convenção STCW, vencido no curso da viagem. Segundo as Diretrizes OIT/OMI (2011), o que ocorre?",
+  "alts": [
+   "Perde a validade de imediato, e o marítimo deve ser afastado de todas as funções a bordo",
+   "Continua válido até o fim do contrato de trabalho, qualquer que seja a duração da viagem",
+   "Continua válido até o próximo porto com médico reconhecido, desde que não exceda 6 meses",
+   "Continua válido por 30 dias, prazo em que o comandante pode renovar o certificado a bordo",
+   "Continua válido até o próximo porto com médico reconhecido, desde que não exceda 3 meses"
+  ],
+  "gab": 4,
+  "tema": "aquaviaria",
+  "sub": "Certificado médico vencido em viagem",
+  "base": "Diretrizes OIT/OMI sobre os exames médicos de marítimos (ILO/IMO Guidelines on the medical examinations of seafarers, 2011), seção VI, item 32; STCW, regra I/9.",
+  "coment": "O item 32 das Diretrizes OIT/OMI explica que o certificado médico emitido conforme a STCW que EXPIRA DURANTE A VIAGEM continua em vigor ATÉ O PRÓXIMO PORTO de escala onde o marítimo possa obter certificado de médico reconhecido pela parte, DESDE QUE O PERÍODO NÃO EXCEDA TRÊS MESES. Em casos urgentes, a administração pode permitir o trabalho sem certificado válido até o próximo porto com médico reconhecido, também por no máximo três meses, se o marítimo tiver certificado vencido de data recente. A validade máxima regular é de dois anos (um ano se menor de 18) e, para a visão de cores, de seis anos. O comandante não emite certificado médico.",
+  "porAlt": [
+   "Errada: a regra prevê prorrogação até o próximo porto, limitada a três meses.",
+   "Errada: a prorrogação vai até o próximo porto com médico reconhecido, limitada a três meses.",
+   "Errada: o limite da prorrogação é de três meses, e não de seis meses.",
+   "Errada: o certificado é emitido por médico reconhecido, não pelo comandante a bordo.",
+   "Correta: vale até o próximo porto com médico reconhecido, por no máximo três meses."
+  ]
+ },
+ {
+  "q": "Segundo a tabela A-I/9 do Código STCW, reproduzida nas Diretrizes OIT/OMI (2011), qual é a acuidade visual mínima de longe, com correção, exigida de oficiais e subalternos de convés com função de vigia?",
+  "alts": [
+   "0,4 em um olho e 0,4 no outro olho, em notação decimal de Snellen",
+   "0,7 em um olho e 0,5 no outro olho, em notação decimal de Snellen",
+   "0,8 em um olho e 0,3 no outro olho, em notação decimal de Snellen",
+   "0,5 em um olho e 0,5 no outro olho, em notação decimal de Snellen",
+   "1,0 em um olho e 0,5 no outro olho, em notação decimal de Snellen"
+  ],
+  "gab": 3,
+  "tema": "aquaviaria",
+  "sub": "Acuidade visual do marítimo",
+  "base": "Diretrizes OIT/OMI sobre os exames médicos de marítimos (ILO/IMO Guidelines on the medical examinations of seafarers, 2011), Apêndice A (tabela A-I/9 do Código STCW e notas 1, 2 e 5).",
+  "coment": "Pela tabela A-I/9 do Código STCW, reproduzida no Apêndice A das Diretrizes OIT/OMI, comandantes, oficiais de convés e subalternos que fazem serviço de VIGIA precisam de acuidade visual de longe, com correção, de 0,5 EM UM OLHO E 0,5 NO OUTRO (notação decimal de Snellen). Para o pessoal de máquinas e operadores de rádio GMDSS, o mínimo é 0,4 e 0,4. A nota 2 RECOMENDA ao menos 0,7 em um olho para reduzir o risco de doença ocular não detectada, mas isso é recomendação, não mínimo. Todos os marítimos devem ter ao menos 0,1 sem correção em cada olho (seção B-I/9). A visão de cores é testada com pranchas de Ishihara ou equivalentes, sem lentes corretoras de cor.",
+  "porAlt": [
+   "Errada: 0,4 e 0,4 é o mínimo do pessoal de máquinas e GMDSS, não do convés com vigia.",
+   "Errada: 0,7 em um olho é valor recomendado pela nota 2, não o mínimo exigido.",
+   "Errada: a tabela não admite 0,3 no outro olho para o pessoal de convés com vigia.",
+   "Correta: para convés com função de vigia, 0,5 em um olho e 0,5 no outro, com correção.",
+   "Errada: a tabela não exige 1,0 em um olho; o mínimo é 0,5 em cada olho."
+  ]
+ },
+ {
+  "q": "Segundo o Apêndice B das Diretrizes OIT/OMI (2011), qual é o padrão auditivo, sem prótese, estabelecido para os marítimos em geral?",
+  "alts": [
+   "Média de 30 dB na orelha melhor e 40 dB na pior, sem prótese, nas frequências de 500 a 3.000 Hz",
+   "Média de 25 dB na orelha melhor e 35 dB na pior, sem prótese, nas frequências de 500 a 2.000 Hz",
+   "Média de 40 dB na orelha melhor e 60 dB na pior, com prótese, nas frequências de 500 a 4.000 Hz",
+   "Média de 30 dB em cada uma das orelhas, com prótese permitida, nas frequências de 3.000 a 6.000 Hz",
+   "Média de 20 dB na orelha melhor e 30 dB na pior, sem prótese, nas frequências de 1.000 a 4.000 Hz"
+  ],
+  "gab": 0,
+  "tema": "aquaviaria",
+  "sub": "Padrão auditivo do marítimo",
+  "base": "Diretrizes OIT/OMI sobre os exames médicos de marítimos (ILO/IMO Guidelines on the medical examinations of seafarers, 2011), Apêndice B (Hearing standards).",
+  "coment": "O Apêndice B das Diretrizes OIT/OMI estabelece que a capacidade auditiva dos marítimos deve corresponder a uma MÉDIA DE 30 dB (SEM PRÓTESE) NA ORELHA MELHOR e de 40 dB NA ORELHA PIOR, nas frequências de 500, 1.000, 2.000 e 3.000 Hz, o que equivale aproximadamente a distâncias de audição da fala de 3 metros e 2 metros, respectivamente. Recomenda-se audiometria tonal; testes de fala e de sussurro servem para avaliação prática rápida, e quem atua no convés ou no passadiço deve ouvir a fala sussurrada a 3 metros. A prótese auditiva só é aceita em marítimos em atividade se garantir o desempenho das funções de rotina e de emergência, com reserva e despertar confiável por alarmes.",
+  "porAlt": [
+   "Correta: 30 dB na orelha melhor e 40 dB na pior, sem prótese, de 500 a 3.000 Hz.",
+   "Errada: os valores e a faixa de frequências não correspondem aos do Apêndice B.",
+   "Errada: o padrão é sem prótese, com 30 e 40 dB, e não 40 e 60 dB.",
+   "Errada: a faixa é de 500 a 3.000 Hz, e o padrão distingue a orelha melhor da pior.",
+   "Errada: os cortes são 30 e 40 dB, e a faixa de frequências é de 500 a 3.000 Hz."
+  ]
+ },
+ {
+  "q": "Marítimo teve múltiplas crises epilépticas sem fator provocador. Segundo o Apêndice E das Diretrizes OIT/OMI (2011), qual condição permite certificado apto para todas as funções, sem restrição?",
+  "alts": [
+   "Livre de crises nos últimos 2 anos, com anticrise estável e boa adesão ao tratamento",
+   "Livre de crises nos últimos 5 anos, sem anticrise nesse período e sem risco contínuo",
+   "Livre de crises no último ano, com eletroencefalograma normal e sem uso de álcool",
+   "Livre de crises nos últimos 10 anos, sem anticrise nesse período e sem risco contínuo",
+   "Livre de crises nos últimos 10 anos, mesmo que siga em uso contínuo de fármaco anticrise"
+  ],
+  "gab": 3,
+  "tema": "aquaviaria",
+  "sub": "Epilepsia no marítimo",
+  "base": "Diretrizes OIT/OMI sobre os exames médicos de marítimos (ILO/IMO Guidelines on the medical examinations of seafarers, 2011), Apêndice E, CID-10 G40-41 (crise única e epilepsia).",
+  "coment": "O Apêndice E das Diretrizes OIT/OMI classifica cada condição em inapto temporário (T) ou permanente (P), apto com restrição ou vigilância aumentada (R, L) e apto para todas as funções. Na EPILEPSIA SEM FATORES PROVOCADORES (múltiplas crises), o marítimo é T enquanto em investigação e por 2 anos após a última crise; pode ter certificado restrito (R) a funções sem quarto de serviço em águas costeiras se estiver sem medicação ou com medicação estável; e só é APTO SEM RESTRIÇÃO se estiver LIVRE DE CRISES NOS ÚLTIMOS 10 ANOS, SEM FÁRMACO ANTICRISE NESSE PERÍODO e sem probabilidade contínua de crises. Na epilepsia PROVOCADA (álcool, medicação, trauma), o prazo cai para 5 anos. Na crise única, o prazo é de 1 ano.",
+  "porAlt": [
+   "Errada: 2 anos com medicação estável permite, no máximo, certificado restrito.",
+   "Errada: o prazo de 5 anos vale para a epilepsia provocada, não para a não provocada.",
+   "Errada: 1 ano é a referência da crise única, não da epilepsia com múltiplas crises.",
+   "Correta: exige-se 10 anos sem crises e sem anticrise nesse período, sem probabilidade contínua de crises.",
+   "Errada: a aptidão sem restrição exige ausência de anticrise durante os 10 anos."
+  ]
+ },
+ {
+  "q": "Segundo o Apêndice E das Diretrizes OIT/OMI (2011), como deve ser classificado quanto à aptidão o marítimo com apneia do sono?",
+  "alts": [
+   "Inapto temporário até 3 meses de tratamento eficaz; depois, certificado com revisão semestral",
+   "Inapto permanente, pois a sonolência torna incompatível qualquer função de serviço a bordo",
+   "Inapto temporário até o tratamento funcionar por 12 meses; depois, certificado sem restrição",
+   "Apto sem restrições, desde que o marítimo não exerça a função de vigia no período noturno",
+   "Inapto temporário até o tratamento funcionar por 1 mês; depois, certificado com revisão anual"
+  ],
+  "gab": 0,
+  "tema": "aquaviaria",
+  "sub": "Apneia do sono no marítimo",
+  "base": "Diretrizes OIT/OMI sobre os exames médicos de marítimos (ILO/IMO Guidelines on the medical examinations of seafarers, 2011), Apêndice E, CID-10 G47 (apneia do sono e narcolepsia).",
+  "coment": "No Apêndice E das Diretrizes OIT/OMI, a APNEIA DO SONO (risco de fadiga e episódios de sono durante o trabalho) é INAPTIDÃO TEMPORÁRIA (T) até que o tratamento seja iniciado e se mostre bem-sucedido POR TRÊS MESES; torna-se PERMANENTE (P) se o tratamento não funcionar ou não for seguido. Depois de três meses de tratamento comprovadamente eficaz, com adesão ao CPAP confirmada, cabe certificado de DURAÇÃO LIMITADA (L), com AVALIAÇÕES SEMESTRAIS da adesão pelos registros do aparelho. A aptidão plena depende de avaliação caso a caso, com parecer especializado. Na narcolepsia, o prazo de controle exigido é de pelo menos dois anos.",
+  "porAlt": [
+   "Correta: inapto temporário até três meses de tratamento eficaz; depois, certificado limitado com revisão semestral.",
+   "Errada: a inaptidão só é permanente se o tratamento falhar ou não for seguido.",
+   "Errada: o prazo é de três meses de tratamento eficaz, e segue-se certificado de duração limitada.",
+   "Errada: sem tratamento eficaz há inaptidão temporária, independentemente do turno.",
+   "Errada: o prazo é de três meses, e as revisões de adesão são semestrais, não anuais."
+  ]
+ }
+]

@@ -1,0 +1,684 @@
+[
+ {
+  "q": "Candidato considerado inapto temporário toma ciência do resultado no dia 2 de março e protocola o pedido de Junta Médica no dia 20 de abril. Segundo o art. 12 da Resolução CONTRAN nº 927/2022, o pedido é:",
+  "alts": [
+   "Intempestivo, pois o prazo é de quinze dias úteis contados do conhecimento dele",
+   "Tempestivo, pois o prazo é de noventa dias contados da ciência do resultado final",
+   "Tempestivo, pois o prazo é de sessenta dias contados da emissão do resultado final",
+   "Intempestivo, pois o prazo é de trinta dias contados do conhecimento do resultado",
+   "Tempestivo, pois não há prazo para pedido contra o resultado inapto temporário"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Prazo para requerer Junta Médica",
+  "base": "Resolução CONTRAN nº 927/2022, art. 12, caput.",
+  "coment": "O art. 12 da Resolução 927 permite ao candidato, independentemente do resultado, requerer a instauração de Junta Médica e/ou Psicológica 'no prazo de trinta dias, contados do seu conhecimento', ao órgão executivo de trânsito do Estado ou do DF. De 2 de março a 20 de abril passam 49 dias: o pedido está fora do prazo. O termo inicial é a ciência do resultado pelo candidato, e não a emissão do laudo. Atenção aos prazos vizinhos que a banca mistura: quinze dias úteis é o prazo para o órgão DESIGNAR a Junta (art. 14, §1º); vinte dias úteis, para remeter o recurso ao CETRAN (art. 14, §2º); trinta dias, para a Junta proferir o resultado (art. 14, §3º) e para recorrer ao CETRAN (art. 13).",
+  "porAlt": [
+   "Quinze dias úteis é o prazo para o órgão designar a Junta (art. 14, §1º), não para o pedido.",
+   "O prazo do art. 12 é de trinta dias, e não de noventa, contados da ciência do resultado.",
+   "Não existe prazo de sessenta dias; o art. 12 fixa trinta dias, contados do conhecimento.",
+   "Correta: trinta dias contados do conhecimento; 49 dias depois, o pedido é intempestivo.",
+   "O art. 12 fixa prazo de trinta dias para qualquer resultado, inclusive o inapto temporário."
+  ]
+ },
+ {
+  "q": "Segundo o art. 14 da Resolução CONTRAN nº 927/2022, onde devem ser apresentados o requerimento de instauração de Junta Médica e o recurso dirigido ao CETRAN?",
+  "alts": [
+   "Na secretaria do CETRAN, diretamente, que depois distribui o caso à Junta Especial de Saúde",
+   "Na entidade credenciada que fez o exame, que depois encaminha o pedido ao órgão estadual",
+   "No Conselho Regional de Medicina do Estado em que o exame de aptidão física foi realizado",
+   "No órgão máximo executivo de trânsito da União, que centraliza os recursos periciais do país",
+   "No órgão executivo de trânsito do Estado ou DF onde o interessado residir ou for domiciliado"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Onde protocolar Junta e recurso",
+  "base": "Resolução CONTRAN nº 927/2022, art. 14, caput e §§1º a 3º.",
+  "coment": "O art. 14 determina que 'o requerimento de instauração de Junta Médica ou Psicológica e o recurso dirigido ao CETRAN ou ao CONTRANDIFE deverão ser apresentados no órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal onde residir ou estiver domiciliado o interessado'. É esse órgão que designa a Junta em quinze dias úteis (§1º) e que remete o recurso ao Conselho em vinte dias úteis (§2º). O CETRAN recebe o recurso por remessa, não por protocolo direto. A clínica credenciada não é instância recursal, o CRM não integra o fluxo e a Senatran (órgão máximo executivo da União) não centraliza esses recursos. A regra dialoga com o art. 147, §2º, do CTB, que manda realizar o exame no local de residência ou domicílio.",
+  "porAlt": [
+   "O recurso é apresentado no órgão executivo estadual, que o remete ao CETRAN (art. 14, §2º).",
+   "A clínica credenciada não recebe o pedido; ele vai ao órgão executivo do domicílio.",
+   "O CRM não é instância do fluxo recursal do exame de aptidão física e mental.",
+   "A norma não atribui ao órgão da União o recebimento de pedidos de Junta ou de recursos.",
+   "Correta: órgão executivo do Estado ou do DF de residência ou domicílio do interessado."
+  ]
+ },
+ {
+  "q": "Protocolado o requerimento de instauração de Junta Médica, em que prazo o órgão executivo de trânsito do Estado deve designá-la, segundo o art. 14, §1º, da Resolução CONTRAN nº 927/2022?",
+  "alts": [
+   "Trinta dias, contados do conhecimento do resultado do exame",
+   "Vinte dias úteis, contados da data do protocolo do pedido",
+   "Dez dias úteis, contados da publicação do resultado do exame",
+   "Quinze dias úteis, contados do recebimento do requerimento",
+   "Cinco dias úteis, contados da comunicação feita pelo perito"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Prazo para designar a Junta",
+  "base": "Resolução CONTRAN nº 927/2022, art. 14, §§1º a 3º.",
+  "coment": "O art. 14, §1º, fixa que 'o órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal deverá, no prazo de quinze dias úteis, contados do recebimento do requerimento, designar Junta Médica ou Psicológica'. Os demais prazos do mesmo artigo: vinte dias úteis para remeter os documentos do recurso ao CETRAN ou ao CONTRANDIFE, contados do recebimento (§2º), e trinta dias para a Junta proferir o resultado, contados da designação (§3º). Os trinta dias contados do conhecimento são do CANDIDATO (arts. 12 e 13). Memorize a sequência: candidato 30 dias → órgão designa em 15 dias úteis → Junta decide em 30 dias → recurso em 30 dias → remessa em 20 dias úteis.",
+  "porAlt": [
+   "Trinta dias do conhecimento é o prazo do candidato para pedir a Junta (art. 12).",
+   "Vinte dias úteis é o prazo de remessa do recurso ao CETRAN (art. 14, §2º).",
+   "Não há prazo de dez dias úteis no art. 14; o de designação é de quinze dias úteis.",
+   "Correta: quinze dias úteis contados do recebimento do requerimento (art. 14, §1º).",
+   "Não há prazo de cinco dias úteis; a designação ocorre em até quinze dias úteis."
+  ]
+ },
+ {
+  "q": "O órgão executivo estadual designou a Junta Médica em 10 de maio. Segundo o art. 14, §3º, da Resolução CONTRAN nº 927/2022, qual é o prazo para a Junta proferir o resultado?",
+  "alts": [
+   "Quinze dias úteis, contados do recebimento dos autos pela Junta",
+   "Sessenta dias, contados do protocolo do requerimento inicial",
+   "Trinta dias, contados da data da designação da Junta Médica",
+   "Trinta dias, contados do conhecimento do resultado original",
+   "Vinte dias úteis, contados da primeira sessão de exame da Junta"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Prazo para a Junta decidir",
+  "base": "Resolução CONTRAN nº 927/2022, art. 14, §3º.",
+  "coment": "Pelo art. 14, §3º, 'as Juntas Médicas ou Psicológicas deverão proferir o resultado no prazo de trinta dias, contados da data de sua designação'. No caso, o prazo começa a correr em 10 de maio. Ele corre da DESIGNAÇÃO, e não do protocolo, da primeira sessão ou da ciência do resultado original. A Junta Médica tem três médicos peritos examinadores de trânsito ou especialistas em medicina de tráfego (art. 12, §1º) e pode confirmar ou modificar o resultado. Se mantiver a inaptidão permanente, abre-se o recurso ao CETRAN em trinta dias do conhecimento do resultado da revisão (art. 13).",
+  "porAlt": [
+   "Quinze dias úteis é o prazo do órgão para designar a Junta, não para ela decidir.",
+   "O prazo é de trinta dias e corre da designação, não do protocolo do requerimento.",
+   "Correta: trinta dias contados da designação da Junta (art. 14, §3º).",
+   "Trinta dias do conhecimento é prazo do candidato; o da Junta corre da designação.",
+   "Vinte dias úteis é o prazo de remessa do recurso ao CETRAN (art. 14, §2º)."
+  ]
+ },
+ {
+  "q": "A Junta Médica manteve a inaptidão permanente e o candidato protocolou recurso ao CETRAN no órgão executivo estadual. Segundo o art. 14, §2º, da Resolução CONTRAN nº 927/2022, qual é o prazo para a remessa dos documentos ao Conselho?",
+  "alts": [
+   "Vinte dias úteis, contados da data do recebimento",
+   "Quinze dias úteis, contados da sua interposição",
+   "Trinta dias corridos, contados do julgamento final",
+   "Cinco dias úteis, contados do despacho do diretor",
+   "Dez dias úteis, contados do recebimento do recurso"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Prazo de remessa ao CETRAN",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 13 e 14, §2º.",
+  "coment": "Mantida a inaptidão permanente pela Junta, cabe recurso ao CETRAN (ou ao CONTRANDIFE, no DF) em trinta dias contados do conhecimento do resultado da revisão (art. 13). O recurso é apresentado no órgão executivo de trânsito do domicílio (art. 14, caput), e o §2º determina: 'em se tratando de recurso, o prazo para remessa dos documentos ao CETRAN ou ao CONTRANDIFE é de vinte dias úteis, contados da data do seu recebimento'. No Conselho, o julgamento é feito por Junta Especial de Saúde (art. 15), com no mínimo três médicos, dois deles especialistas em Medicina de Tráfego. Quinze dias úteis é o prazo de designação da Junta Médica, não da remessa.",
+  "porAlt": [
+   "Correta: vinte dias úteis, contados do recebimento (art. 14, §2º).",
+   "Quinze dias úteis é o prazo de designação da Junta Médica (art. 14, §1º).",
+   "O prazo de remessa é de vinte dias úteis, contados do recebimento do recurso.",
+   "Não há prazo de cinco dias úteis na norma para a remessa do recurso.",
+   "Não há prazo de dez dias úteis; a remessa ocorre em vinte dias úteis."
+  ]
+ },
+ {
+  "q": "Candidato domiciliado em Brasília teve a inaptidão permanente mantida pela Junta Médica. Segundo os arts. 13 e 14 da Resolução CONTRAN nº 927/2022, a quem ele pode recorrer e em que prazo?",
+  "alts": [
+   "Ao CONTRAN, em quinze dias úteis da publicação do resultado da revisão",
+   "Ao CONTRANDIFE, em trinta dias do conhecimento do resultado da revisão",
+   "Ao CETRAN de Goiás, em trinta dias do conhecimento do resultado da revisão",
+   "Ao CONTRANDIFE, em sessenta dias da data do exame de aptidão original",
+   "À JARI do DETRAN-DF, em trinta dias do conhecimento do resultado da Junta"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Recurso no Distrito Federal",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 13, 14 e 15; CTB, art. 14, V, 'b'.",
+  "coment": "O art. 13 prevê que, 'mantido o resultado de inaptidão permanente pela Junta Médica ou Psicológica caberá, no prazo de trinta dias, contados a partir do conhecimento do resultado da revisão, recurso ao Conselho Estadual de Trânsito (CETRAN) ou ao Conselho de Trânsito do Distrito Federal (CONTRANDIFE)'. No DF, o conselho competente é o CONTRANDIFE, e o recurso é apresentado no órgão executivo de trânsito do DF (art. 14). O CONTRAN não é instância desse recurso, e a JARI julga recursos contra penalidades de infrações, não contra resultado de exame. O julgamento é feito por Junta Especial de Saúde designada pelo Conselho (art. 15).",
+  "porAlt": [
+   "O CONTRAN não julga esse recurso, e o prazo é de trinta dias do conhecimento.",
+   "Correta: CONTRANDIFE, em trinta dias do conhecimento do resultado da revisão (art. 13).",
+   "O domiciliado no DF recorre ao CONTRANDIFE, e não ao CETRAN de outro Estado.",
+   "O prazo é de trinta dias e corre do conhecimento da revisão, não do exame original.",
+   "A JARI julga recursos de infrações; o recurso pericial vai ao CONTRANDIFE."
+  ]
+ },
+ {
+  "q": "Segundo o art. 14, V, 'b', do CTB, compete ao CETRAN julgar recursos contra decisões dos órgãos executivos estaduais em qual hipótese relacionada aos exames?",
+  "alts": [
+   "Inaptidão temporária constatada no exame de aptidão física e mental ou psicológico",
+   "Inaptidão permanente constatada nos exames de aptidão física, mental ou psicológica",
+   "Qualquer resultado do exame de aptidão física e mental, inclusive o apto com restrição",
+   "Reprovação no exame de direção veicular aplicado pela comissão do órgão executivo",
+   "Positivo no exame toxicológico de larga janela de detecção exigido para C, D e E"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Competência recursal do CETRAN",
+  "base": "CTB, art. 14, V, 'b'; Resolução CONTRAN nº 927/2022, art. 13.",
+  "coment": "O art. 14, V, do CTB atribui aos CETRAN julgar os recursos interpostos contra decisões 'a) das JARI' e 'b) dos órgãos e entidades executivos estaduais, nos casos de inaptidão permanente constatados nos exames de aptidão física, mental ou psicológica'. A Resolução 927 detalha o caminho no art. 13: o recurso ao CETRAN cabe quando a Junta Médica ou Psicológica mantém a inaptidão permanente. Outros resultados — apto com restrições, inapto temporário — podem ser levados à Junta Médica do art. 12, que admite o pedido 'independentemente do resultado', mas não sobem ao CETRAN por essa via. O toxicológico tem contraprova e recurso próprios (art. 148-A, §4º).",
+  "porAlt": [
+   "A competência do CETRAN é para inaptidão permanente, não temporária.",
+   "Correta: inaptidão permanente nos exames de aptidão física, mental ou psicológica.",
+   "Resultados diversos da inaptidão permanente vão à Junta do art. 12, não ao CETRAN.",
+   "O CTB atribui ao CETRAN os recursos dos exames de aptidão, não do exame de direção.",
+   "O toxicológico tem contraprova e recurso próprios, previstos no art. 148-A, §4º."
+  ]
+ },
+ {
+  "q": "Candidato mantido inapto permanente pela Junta Psicológica recorre ao CETRAN. Segundo o art. 15 da Resolução CONTRAN nº 927/2022, como deve ser constituída a Junta Especial de Saúde nesse caso?",
+  "alts": [
+   "Por, no mínimo, três médicos, sendo dois deles especialistas em Medicina de Tráfego",
+   "Por dois psicólogos e um médico especialista em Medicina de Tráfego, pelo menos",
+   "Por, no mínimo, cinco psicólogos, todos especialistas em psicologia do trânsito",
+   "Por três psicólogos peritos examinadores, dispensada a titulação de especialista",
+   "Por, no mínimo, três psicólogos, sendo dois especialistas em psicologia do trânsito"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Junta Especial de Saúde na via psicológica",
+  "base": "Resolução CONTRAN nº 927/2022, art. 15, parágrafo único; art. 12, §2º.",
+  "coment": "O art. 15 manda o Conselho de Trânsito designar Junta Especial de Saúde para julgar o recurso. Pelo parágrafo único, ela é constituída 'por, no mínimo, três médicos, sendo dois especialistas em Medicina de Tráfego, ou, no mínimo, três psicólogos, sendo dois especialistas em psicologia do trânsito, quando for o caso'. Como o recurso nasce de avaliação psicológica, a composição é a dos psicólogos. Compare com a instância anterior: a Junta Psicológica do órgão estadual tem três psicólogos peritos examinadores OU especialistas (art. 12, §2º), sem exigir número mínimo de especialistas. Não há composição mista médico-psicólogo prevista na norma.",
+  "porAlt": [
+   "Três médicos com dois especialistas é a composição para recurso do exame médico.",
+   "A norma não prevê Junta Especial mista de psicólogos e médico.",
+   "O mínimo é de três psicólogos, e só dois precisam ser especialistas.",
+   "Na Junta Especial, dois dos psicólogos devem ser especialistas em psicologia do trânsito.",
+   "Correta: no mínimo três psicólogos, dois especialistas em psicologia do trânsito (art. 15)."
+  ]
+ },
+ {
+  "q": "Segundo o art. 6º da Resolução CONTRAN nº 927/2022, quais técnicas e instrumentos são utilizados na avaliação psicológica do candidato à habilitação?",
+  "alts": [
+   "Entrevista familiar, testes validados pelo CRM, simulador de direção e questionário do Anexo I",
+   "Entrevistas individuais, exame neurológico, testes de reação em simulador e dinâmicas de grupo",
+   "Entrevistas individuais, testes conforme o CFP, dinâmicas de grupo e escuta e intervenções verbais",
+   "Testes psicológicos, polissonografia, escala de Epworth e entrevista coletiva com os candidatos",
+   "Testes de personalidade aplicados pela internet, entrevista coletiva e observação em via pública"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Técnicas da avaliação psicológica",
+  "base": "Resolução CONTRAN nº 927/2022, art. 6º, I a IV e parágrafo único; Anexo XIV.",
+  "coment": "O art. 6º enumera quatro técnicas e instrumentos: I — entrevistas diretas e individuais (roteiro no Anexo XIV: identificação pessoal, motivo da avaliação, histórico escolar e profissional, histórico familiar, indicadores de saúde/doença e aspectos da conduta social); II — testes psicológicos de acordo com as resoluções vigentes do Conselho Federal de Psicologia; III — dinâmicas de grupo; IV — escuta e intervenções verbais. O parágrafo único remete às Resoluções do CFP sobre avaliação no contexto do trânsito. Polissonografia, Epworth e exame neurológico pertencem ao exame médico; simulador e observação em via pública não constam da norma.",
+  "porAlt": [
+   "Os testes são regulados pelo CFP, não pelo CRM, e o Anexo I é o questionário médico.",
+   "O exame neurológico é médico, e simulador de direção não consta do art. 6º.",
+   "Correta: entrevistas individuais, testes (CFP), dinâmicas de grupo e escuta e intervenções.",
+   "Polissonografia e Epworth pertencem à avaliação médica do sono, não à psicológica.",
+   "A norma prevê entrevistas diretas e individuais; não cita testes pela internet nem via pública."
+  ]
+ },
+ {
+  "q": "Segundo o art. 7º da Resolução CONTRAN nº 927/2022, como deve ser realizada a avaliação psicológica do candidato com deficiência física?",
+  "alts": [
+   "Pela Junta Médica Especial, que substitui o psicólogo nesse caso",
+   "Somente após o exame de direção veicular em veículo já adaptado",
+   "Com os mesmos instrumentos padronizados, sem qualquer adaptação",
+   "Por junta de três psicólogos designada pelo CETRAN do Estado",
+   "De acordo com as suas condições físicas, como determina a norma"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Avaliação psicológica da pessoa com deficiência",
+  "base": "Resolução CONTRAN nº 927/2022, art. 7º; art. 4º, §§1º e 2º.",
+  "coment": "O art. 7º dispõe que 'a avaliação psicológica do candidato com deficiência física deverá ser realizada de acordo com as suas condições físicas'. A regra busca evitar que a limitação motora contamine o desempenho em testes que dependem de escrita, manipulação de peças ou tempo de resposta motora, o que produziria falsa inaptidão psicológica. Não se confunde com o exame médico: este é feito pela Junta Médica Especial designada pelo diretor do órgão executivo estadual, seguindo a NBR 14970 (art. 4º, §§1º e 2º). A avaliação psicológica continua sendo do psicólogo perito, e a ordem dos exames do art. 147 do CTB não é alterada.",
+  "porAlt": [
+   "A Junta Médica Especial faz o exame médico; a avaliação psicológica segue com o psicólogo.",
+   "A norma não condiciona a avaliação psicológica ao exame de direção veicular.",
+   "O art. 7º exige justamente que a avaliação respeite as condições físicas do candidato.",
+   "Junta de psicólogos é instância de revisão (art. 12), não a forma regular de avaliação.",
+   "Correta: a avaliação é feita de acordo com as condições físicas do candidato (art. 7º)."
+  ]
+ },
+ {
+  "q": "A Resolução CONTRAN nº 927/2022 entrou em vigor em que data e revogou quais normas anteriores sobre o exame de aptidão física e mental?",
+  "alts": [
+   "Em 1º de abril de 2022, revogando as Resoluções CONTRAN nº 425/2012, 474/2014 e 500/2014",
+   "Em 28 de março de 2022, revogando as Resoluções CONTRAN nº 267/2008, 425/2012 e 474/2014",
+   "Em 1º de janeiro de 2023, revogando as Resoluções CONTRAN nº 425/2012, 432/2013 e 500/2014",
+   "Em 12 de abril de 2022, revogando as Resoluções CONTRAN nº 168/2004, 425/2012 e 500/2014",
+   "Em 1º de abril de 2022, revogando as Resoluções CONTRAN nº 267/2008, 432/2013 e 474/2014"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Vigência e revogações da Resolução 927",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 31 e 32.",
+  "coment": "A Resolução CONTRAN nº 927 é de 28 de março de 2022, foi publicada no DOU de 1º de abril de 2022 e, pelo art. 32, 'entra em vigor em 1º de abril de 2022'. O art. 31 revogou três Resoluções do CONTRAN: nº 425, de 27 de novembro de 2012; nº 474, de 11 de fevereiro de 2014; e nº 500, de 28 de agosto de 2014. A Resolução nº 432/2013 trata da fiscalização do álcool, não do exame de aptidão, e não foi revogada pela 927 — foi revogada depois, pela Resolução CONTRAN nº 1.031/2026 (art. 15). A data de 12 de abril (de 2024) aparece em outro ponto da norma: o fim da transição para peritos sem título de especialista (art. 19, §§1º e 2º).",
+  "porAlt": [
+   "Correta: vigência em 1º de abril de 2022 e revogação das 425/2012, 474/2014 e 500/2014 (arts. 31 e 32).",
+   "28 de março é a data de edição, não de vigência, e a 267/2008 não consta do art. 31.",
+   "A vigência foi em 1º de abril de 2022, e a 432/2013 (álcool) não foi revogada pela 927 — só em 2026, pela 1.031.",
+   "12 de abril é data da transição do art. 19 (em 2024); a 168/2004 não consta do art. 31.",
+   "A data está certa, mas a lista de revogadas é 425/2012, 474/2014 e 500/2014."
+  ]
+ },
+ {
+  "q": "Segundo o art. 11 da Resolução CONTRAN nº 927/2022, como deve ser aplicada ao candidato a avaliação objetiva do exame, nos modelos dos Anexos XXI e XXII?",
+  "alts": [
+   "Uma pergunta por quesito, sorteada para cada candidato, logo após o exame",
+   "Todas as perguntas do anexo, respondidas pelo candidato em até dois dias úteis",
+   "Uma pergunta por quesito, aplicada pelo próprio perito durante o exame",
+   "Todas as perguntas, respondidas por amostra de candidatos sorteados a cada mês",
+   "Uma pergunta por quesito, escolhida pelo órgão estadual e enviada ao domicílio"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Avaliação objetiva pelo candidato",
+  "base": "Resolução CONTRAN nº 927/2022, art. 11, §§1º a 3º; Anexos XXI e XXII.",
+  "coment": "O art. 11 prevê que os exames sejam 'avaliados objetivamente pelos examinados', avaliação limitada aos aspectos técnicos dos procedimentos. O §1º manda realizá-la 'imediatamente após' os exames, cabendo ao órgão máximo executivo de trânsito da União normatizar a implantação; o §2º determina que as avaliações sigam os modelos dos Anexos XXI (exame médico) e XXII (avaliação psicológica), 'devendo ser aplicada uma pergunta por quesito, de forma aleatória para cada candidato'; e o §3º exige que os resultados sejam disponibilizados integralmente aos órgãos estaduais. A aplicação é imediatamente posterior ao exame, e não durante o ato; tampouco se trata de pesquisa por amostragem mensal.",
+  "porAlt": [
+   "Correta: uma pergunta por quesito, de forma aleatória para cada candidato (art. 11, §2º).",
+   "Não são todas as perguntas: aplica-se uma por quesito, logo após o exame.",
+   "A avaliação é feita pelo examinado imediatamente após o exame, e não durante o ato.",
+   "A avaliação é aplicada a cada candidato, e não a uma amostra sorteada a cada mês.",
+   "A aplicação é imediata após o exame, e a pergunta é aleatória, não enviada ao domicílio."
+  ]
+ },
+ {
+  "q": "No modelo de avaliação objetiva do exame médico (Anexo XXI da Resolução CONTRAN nº 927/2022), as perguntas 'Você foi pesado em uma balança?' e 'O médico pediu para você abrir a boca para examinar a sua garganta?' devem ser aplicadas a quem?",
+  "alts": [
+   "Só aos candidatos com deficiência física avaliados pela Junta Médica Especial",
+   "Só aos candidatos que declararam doença na pergunta 5 do questionário médico",
+   "A todos os candidatos com 50 anos ou mais, no quesito do exame físico geral",
+   "Só aos candidatos das categorias C, D e E, no quesito dos distúrbios do sono",
+   "A cada candidato, no quesito da avaliação cardiorrespiratória do exame médico"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Anexo XXI: quesito do sono",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XXI; art. 4º, III, 'f'; Anexos X e XII.",
+  "coment": "No Anexo XXI, o quesito 'Avaliação dos distúrbios do sono para as Categorias C, D e E' traz a anotação 'Deixar só para quem for categoria C, D ou E' e as perguntas sobre ter sido pesado em balança e sobre abrir a boca para exame da garganta. Elas correspondem aos parâmetros objetivos do Anexo X — IMC (peso) e classificação de Mallampati modificado (Anexo XII) — da avaliação da SAOS, exigida só na renovação, adição e mudança para C, D e E (art. 4º, III, 'f'). O mesmo anexo tem quesitos para questionário, avaliação oftalmológica, cardiorrespiratória, aparelho locomotor e candidato com epilepsia. A questão testa se você liga o formulário do candidato ao recorte de categoria.",
+  "porAlt": [
+   "O recorte do quesito é a categoria (C, D e E), não a deficiência física do candidato.",
+   "O gatilho é a categoria pretendida, não a resposta à pergunta 5 do Anexo I.",
+   "A idade não define a aplicação; o anexo restringe o quesito às categorias C, D e E.",
+   "Correta: o Anexo XXI manda deixar esse quesito só para as categorias C, D e E.",
+   "Essas perguntas estão no quesito do sono, e não no da avaliação cardiorrespiratória."
+  ]
+ },
+ {
+  "q": "Segundo o art. 16 da Resolução CONTRAN nº 927/2022, qual obrigação permanente tem a entidade credenciada em relação aos seus peritos examinadores?",
+  "alts": [
+   "Informar os peritos ao CFM, que expede a autorização para a atividade pericial",
+   "Submeter os peritos a nova prova de título a cada renovação anual do credenciamento",
+   "Registrar os peritos no CETRAN, que homologa cada médico e psicólogo contratado",
+   "Limitar o quadro a um médico e um psicólogo por unidade credenciada no município",
+   "Manter o quadro de peritos examinadores atualizado junto ao órgão que a credenciou"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Quadro de peritos atualizado",
+  "base": "Resolução CONTRAN nº 927/2022, art. 16, §§1º a 3º; art. 19, §4º.",
+  "coment": "O art. 16, §1º, determina que 'a entidade credenciada deverá manter seu quadro de peritos examinadores atualizado junto ao órgão que a credenciou' — o órgão ou entidade executivo de trânsito do Estado ou do DF (caput). O credenciamento vale um ano, renovável (§2º), e a cada dois anos a entidade comprova o cumprimento dos arts. 17 a 24 (§3º). O órgão estadual, por sua vez, remete anualmente à SENATRAN a relação dos profissionais credenciados com os certificados exigidos (art. 19, §4º). A norma não cria prova anual de título, não envolve o CETRAN na homologação nem limita o número de peritos. Registre que a Lei nº 15.428/2026 passou a prever peritos autorizados pelo órgão máximo executivo da União (CTB, art. 148, §6º).",
+  "porAlt": [
+   "O CFM reconhece o título de especialista; não expede autorização para a atividade pericial.",
+   "A titulação é requisito do credenciamento (art. 19); não há nova prova a cada renovação.",
+   "O CETRAN não homologa peritos; o credenciamento é do órgão executivo estadual.",
+   "A norma não limita o número de peritos por unidade credenciada.",
+   "Correta: manter o quadro de peritos atualizado junto ao órgão credenciador (art. 16, §1º)."
+  ]
+ },
+ {
+  "q": "Qual das exigências abaixo NÃO é comum às entidades médicas e psicológicas, segundo o art. 17 da Resolução CONTRAN nº 927/2022?",
+  "alts": [
+   "Licenças de funcionamento e sanitária, com alvará emitido pela vigilância sanitária",
+   "Cumprimento da NBR 9050 da ABNT, que trata da acessibilidade das instalações",
+   "Sala de exame com dimensões mínimas de 4,5 m por 3,0 m, com auxílio de espelhos",
+   "Recursos de informática com acesso à Internet disponíveis na entidade credenciada",
+   "Cumprimento da legislação sanitária vigente no local de funcionamento da entidade"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Exigências comuns x específicas",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, I, II e III.",
+  "coment": "O art. 17 separa as exigências em três grupos. I — comuns às entidades médicas e psicológicas: licenças de funcionamento e sanitária, alvará sanitário da vigilância local e cumprimento da legislação sanitária (a); cumprimento da NBR 9050 da ABNT (b); recursos de informática com acesso à Internet (c). II — específicas das entidades médicas: sala de exame de no mínimo 4,5 m x 3,0 m, com auxílio de espelhos e acessibilidade, além da lista de equipamentos (Snellen ou projetor de optotipos, esfigmomanômetro, dinamômetro etc.). III — específicas das psicológicas: sala individual de 2,0 m x 2,0 m, sala coletiva de 1,20 m x 1,00 m por candidato, iluminação, ventilação e salas indevassáveis. A sala de 4,5 m x 3,0 m é só da entidade médica.",
+  "porAlt": [
+   "Licenças e alvará sanitário são exigências comuns (art. 17, I, 'a').",
+   "A NBR 9050 é exigência comum às duas entidades (art. 17, I, 'b').",
+   "Correta: a sala de 4,5 m x 3,0 m é exigência só das entidades médicas (art. 17, II, 'a').",
+   "Informática com acesso à Internet é exigência comum (art. 17, I, 'c').",
+   "O cumprimento da legislação sanitária integra a exigência comum da alínea 'a'."
+  ]
+ },
+ {
+  "q": "Entre os itens listados no art. 17, II, da Resolução CONTRAN nº 927/2022 para as entidades médicas credenciadas, qual é expressamente FACULTATIVO?",
+  "alts": [
+   "O equipamento refrativo de mesa",
+   "O dinamômetro para força manual",
+   "A balança antropométrica da sala",
+   "A tabela de Snellen ou projetor",
+   "O material de cores semafóricas"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Equipamento facultativo",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, II, alíneas 'b' a 'p'.",
+  "coment": "A lista do art. 17, II, tem um único item marcado como opcional: a alínea 'c', 'equipamento refrativo de mesa (facultativo)'. Todos os demais são obrigatórios: tabela de Snellen ou projetor de optotipos (b), divã, cadeiras e mesa (d a f), estetoscópio (g), esfigmomanômetro (h), martelo de Babinsky (i), dinamômetro para força manual (j), equipamento para campo visual, estereopsia, ofuscamento e visão noturna (k), foco luminoso (l), lanterna (m), fita métrica (n), balança antropométrica (o) e material para identificação das cores verde, vermelha e amarela (p). Cada item serve a um exame: o dinamômetro à exigência de 20 ou 30 kgf do Anexo VIII; a balança e a fita métrica ao IMC e ao perímetro cervical do Anexo X.",
+  "porAlt": [
+   "Correta: o equipamento refrativo de mesa é o único marcado como facultativo (alínea 'c').",
+   "O dinamômetro é obrigatório (alínea 'j') e serve à dinamometria do Anexo VIII.",
+   "A balança antropométrica é obrigatória (alínea 'o'), útil ao IMC do Anexo X.",
+   "A tabela de Snellen ou o projetor de optotipos é obrigatório (alínea 'b').",
+   "O material de identificação das cores é obrigatório (alínea 'p')."
+  ]
+ },
+ {
+  "q": "Segundo os arts. 25 e 26 da Resolução CONTRAN nº 927/2022, qual é o destino dos relatórios conclusivos de sindicância administrativa contra entidade ou profissional credenciado?",
+  "alts": [
+   "Envio aos CRM e CRP e ao órgão máximo executivo de trânsito da União",
+   "Arquivamento na própria entidade sindicada, à disposição do CETRAN",
+   "Envio apenas ao Ministério Público, para eventual ação penal cabível",
+   "Publicação no sítio do órgão estadual, com os nomes dos profissionais",
+   "Envio ao CONTRAN, que aplica diretamente a cassação do credenciamento"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Sindicância e comunicação aos conselhos",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 25 e 26, parágrafo único.",
+  "coment": "A fiscalização das entidades e profissionais credenciados cabe aos órgãos executivos estaduais, com a colaboração dos Conselhos Regionais de Medicina e de Psicologia, no mínimo uma vez por ano ou quando necessário (art. 25). O descumprimento das regras sujeita o infrator a advertência, suspensão das atividades por até trinta dias ou cassação do credenciamento, apuradas em processo administrativo do órgão estadual, com contraditório e ampla defesa (art. 26). O parágrafo único do art. 26 determina que 'os relatórios conclusivos de sindicância administrativa serão encaminhados aos respectivos Conselhos Regionais de Psicologia e de Medicina e ao órgão máximo executivo de trânsito da União'. Quem aplica a penalidade é o órgão estadual, não o CONTRAN.",
+  "porAlt": [
+   "Correta: aos Conselhos Regionais de Medicina e Psicologia e ao órgão da União (art. 26).",
+   "A norma manda encaminhar os relatórios, e não arquivá-los na entidade sindicada.",
+   "A norma não prevê envio exclusivo ao Ministério Público.",
+   "Não há previsão de publicação dos relatórios de sindicância no sítio do órgão.",
+   "O CONTRAN não recebe os relatórios nem aplica a cassação, que cabe ao órgão estadual (art. 26)."
+  ]
+ },
+ {
+  "q": "Segundo o art. 17, III, da Resolução CONTRAN nº 927/2022, quais são as dimensões mínimas da sala de atendimento COLETIVO das entidades psicológicas credenciadas?",
+  "alts": [
+   "2,0 m por 2,0 m por candidato, iguais às da sala de atendimento individual",
+   "1,50 m por 1,20 m por candidato, com ventilação natural obrigatória",
+   "4,5 m por 3,0 m no total, iguais às da sala de exame das entidades médicas",
+   "1,00 m por 1,00 m por candidato, com limite de vinte candidatos por sessão",
+   "1,20 m por 1,00 m por candidato, com iluminação e ventilação adequadas"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Sala coletiva da entidade psicológica",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, III, 'a' a 'e', e §3º.",
+  "coment": "As exigências das entidades psicológicas estão no art. 17, III: (a) sala de atendimento individual de no mínimo 2,0 m x 2,0 m; (b) sala de atendimento coletivo de no mínimo 1,20 m x 1,00 m POR CANDIDATO; (c) ambiente bem iluminado por luz natural ou artificial fria, evitando sombras e ofuscamentos; (d) ventilação adequada à situação de teste; (e) salas de teste indevassáveis. O §3º acrescenta que as salas devem obedecer às normas dos manuais dos testes psicológicos, inclusive quanto à aplicação individual. A sala de 4,5 m x 3,0 m é da entidade médica. A norma não fixa número máximo de candidatos nem exige ventilação natural (fala em condições adequadas).",
+  "porAlt": [
+   "2,0 m x 2,0 m é a sala individual; a coletiva é calculada por candidato em 1,20 m x 1,00 m.",
+   "A norma fixa 1,20 m x 1,00 m, e a ventilação exigida é a adequada, não necessariamente natural.",
+   "4,5 m x 3,0 m é a sala de exame da entidade médica (art. 17, II, 'a').",
+   "A dimensão é 1,20 m x 1,00 m, e não há limite de candidatos por sala na norma.",
+   "Correta: 1,20 m x 1,00 m por candidato, com iluminação e ventilação adequadas (art. 17, III)."
+  ]
+ },
+ {
+  "q": "Clínica credenciada propõe a uma transportadora realizar os exames de aptidão física e mental dos motoristas em unidade móvel estacionada no pátio da empresa. Segundo o art. 17, §1º, da Resolução CONTRAN nº 927/2022, essa prática:",
+  "alts": [
+   "É admitida, desde que a unidade tenha sala de 4,5 m por 3,0 m, com espelhos",
+   "Não é admitida, pois o exame e a avaliação devem ser feitos em local fixo",
+   "É admitida para frotas com mais de cinquenta motoristas, com aviso ao órgão",
+   "É admitida se a empresa custear o exame e guardar os prontuários médicos",
+   "É admitida, pois basta que o perito seja especialista em Medicina de Tráfego"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Exame em local fixo",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, §§1º e 2º; art. 18.",
+  "coment": "O art. 17, §1º, é taxativo: 'as entidades deverão realizar o exame e a avaliação em local fixo'. Além disso, as instalações e os equipamentos devem ser previamente vistoriados pela autoridade de trânsito e considerados conformes (§2º) — o que pressupõe endereço certo. A única flexibilização territorial da norma é a do art. 18: em município sem entidade credenciada, o exame pode ser feito por entidade credenciada em outra localidade, autorizada pelo órgão executivo estadual — e ainda assim em instalação fixa. O tamanho da frota, o custeio pela empresa ou a titulação do perito não afastam a exigência. A guarda de prontuários segue as normas do CFM (art. 10, §1º), não cabe à empresa.",
+  "porAlt": [
+   "Mesmo com sala nas dimensões exigidas, a unidade móvel viola a exigência de local fixo.",
+   "Correta: exame e avaliação devem ser realizados em local fixo (art. 17, §1º).",
+   "A norma não cria exceção por tamanho de frota à exigência de local fixo.",
+   "O custeio pela empresa não afasta a regra, e os prontuários seguem as normas do CFM.",
+   "A titulação do perito é requisito próprio (art. 19) e não dispensa o local fixo."
+  ]
+ },
+ {
+  "q": "Segundo o art. 17, §2º, da Resolução CONTRAN nº 927/2022, o que deve ocorrer com as instalações físicas e os equipamentos da entidade médica para fins de credenciamento?",
+  "alts": [
+   "Devem ser vistoriados pelo CRM, cujo laudo substitui a vistoria do órgão estadual",
+   "Devem ser declarados conformes pelo diretor técnico, dispensada a vistoria prévia",
+   "Devem ser vistoriados pela Senatran, que expede a autorização nacional da clínica",
+   "Devem ser vistoriados antes e considerados conformes pela autoridade de trânsito",
+   "Devem ser certificados pelo Inmetro, que emite selo de conformidade à clínica"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Vistoria prévia das instalações",
+  "base": "Resolução CONTRAN nº 927/2022, art. 17, §2º; arts. 16 e 25.",
+  "coment": "O art. 17, §2º, determina que 'as instalações físicas e os equipamentos técnicos das entidades médicas e psicológicas deverão ser previamente vistoriados pela autoridade de trânsito competente e por ela considerados em conformidade com os itens I e II ou I e III, respectivamente'. A autoridade competente é a do órgão executivo estadual que credencia (art. 16). Os Conselhos Regionais colaboram na fiscalização periódica (art. 25), mas não substituem a vistoria prévia. A autodeclaração do diretor técnico não basta, e o Inmetro não certifica clínicas de trânsito. A menção à Senatran vem da confusão com a autorização de PERITOS prevista no art. 148, §6º, do CTB pela Lei nº 15.428/2026.",
+  "porAlt": [
+   "O CRM colabora na fiscalização (art. 25), mas não substitui a vistoria prévia.",
+   "A norma exige vistoria prévia; autodeclaração do diretor técnico não basta.",
+   "A vistoria é da autoridade de trânsito estadual, que credencia a entidade (art. 16).",
+   "Correta: vistoria prévia e conformidade declarada pela autoridade de trânsito (art. 17, §2º).",
+   "O Inmetro não certifica clínicas de exame de aptidão; a vistoria é da autoridade de trânsito."
+  ]
+ },
+ {
+  "q": "Município do interior não tem nenhuma entidade credenciada para o exame de aptidão física e mental. Segundo o art. 18 da Resolução CONTRAN nº 927/2022, qual é a solução prevista?",
+  "alts": [
+   "Exame por qualquer médico inscrito no CRM, em caráter provisório e precário",
+   "Dispensa do exame até a instalação de entidade credenciada no município",
+   "Exame pelo médico da unidade básica, homologado depois pelo órgão estadual",
+   "Exame por entidade credenciada em outra localidade, autorizada pelo Estado",
+   "Exame por telemedicina, a partir de entidade credenciada na capital do Estado"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Município sem entidade credenciada",
+  "base": "Resolução CONTRAN nº 927/2022, art. 18; art. 17, §1º; CTB, art. 147, §2º.",
+  "coment": "O art. 18 dispõe que, 'nos Municípios em que não houver entidade credenciada, será permitida a realização do exame de aptidão física e mental e/ou da avaliação psicológica por entidades credenciadas em outras localidades, autorizadas pelo órgão ou entidade executivo de trânsito do Estado'. É a válvula que compatibiliza a regra do CTB (exame no local de residência ou domicílio, art. 147, §2º) com a realidade de municípios pequenos. O exame continua sendo feito por perito de entidade credenciada, em local fixo (art. 17, §1º). A norma não prevê exame por médico sem credenciamento, homologação posterior, dispensa do exame ou telemedicina.",
+  "porAlt": [
+   "O exame exige perito de entidade credenciada; qualquer médico com CRM não basta.",
+   "A falta de entidade local não dispensa o exame, que é preliminar e obrigatório.",
+   "Não há homologação posterior de exame feito fora do sistema de credenciamento.",
+   "Correta: entidade credenciada de outra localidade, autorizada pelo órgão estadual (art. 18).",
+   "A norma não prevê telemedicina; o exame é presencial em local fixo (art. 17, §1º)."
+  ]
+ },
+ {
+  "q": "Médico com registro no CRM e pós-graduação lato sensu em Medicina de Tráfego, sem título de especialista nem residência médica, pede credenciamento como perito examinador em 2026. Segundo o art. 19 da Resolução CONTRAN nº 927/2022, ele:",
+  "alts": [
+   "Preenche o requisito, pois a pós-graduação lato sensu equivale ao título exigido",
+   "Não preenche o requisito, que exige título reconhecido pelo CFM ou residência",
+   "Pode ser credenciado por dois anos, até obter o título de especialista na área",
+   "Preenche o requisito, desde que tenha dez anos de exercício profissional na área",
+   "Pode ser credenciado se for aprovado em prova aplicada pelo órgão estadual"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Requisitos do perito médico",
+  "base": "Resolução CONTRAN nº 927/2022, art. 19, I e II, e §§1º e 2º; CTB, arts. 147 e 148, §6º.",
+  "coment": "O art. 19 exige do médico: I — inscrição regular no Conselho Regional; II — 'Título de Especialista em Medicina de Tráfego, reconhecido pelo Conselho Federal de Medicina (CFM), ou ter concluído o Programa de Residência em Medicina de Tráfego'. Pós-graduação lato sensu não é título de especialista nem residência. A transição para quem já era credenciado sem título terminou em 12 de abril de 2024 (§§1º e 2º), e não há credenciamento provisório para novos peritos. O CTB reforça a titulação: o art. 147 exige peritos com titulação de especialista em medicina do tráfego conferida pelo conselho profissional, e o art. 148, §6º (Lei nº 15.428/2026), exige autorização do órgão máximo executivo da União e a mesma titulação.",
+  "porAlt": [
+   "Lato sensu não equivale a título de especialista reconhecido pelo CFM nem a residência.",
+   "Correta: exige título reconhecido pelo CFM ou residência em Medicina de Tráfego (art. 19).",
+   "Não existe credenciamento provisório de novos peritos sem título na norma vigente.",
+   "Tempo de exercício profissional não substitui o título de especialista ou a residência.",
+   "Não há prova do órgão estadual que substitua a titulação exigida pelo art. 19."
+  ]
+ },
+ {
+  "q": "Médico credenciado como perito examinador desde 2018, sem título de especialista em Medicina de Tráfego, pretende continuar atuando em 2026. Segundo o art. 19, §§1º e 2º, da Resolução CONTRAN nº 927/2022:",
+  "alts": [
+   "Pode continuar, pois o direito dos já credenciados foi assegurado sem limite de tempo",
+   "Pode continuar se comprovar dez anos de atuação contínua como perito de trânsito",
+   "Não pode, pois a exceção para quem já era credenciado valeu até 1º de abril de 2023",
+   "Não pode, pois a exceção para quem já era credenciado valeu até 12 de abril de 2024",
+   "Pode continuar até 12 de abril de 2027, prazo de transição para obter a titulação"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Transição da titulação dos peritos",
+  "base": "Resolução CONTRAN nº 927/2022, art. 19, §§1º, 2º e 4º.",
+  "coment": "O art. 19, §1º, assegurou ao médico e ao psicólogo já credenciados na data de entrada em vigor da Resolução o direito de continuar como perito examinador 'até 12 de abril de 2024, mesmo que não possuam a titulação de especialista em medicina de tráfego'. O §2º fecha a transição: 'a partir de 12 de abril de 2024, todos os profissionais médicos e psicólogos credenciados deverão ter, respectivamente, a titulação de especialista em medicina de tráfego e psicologia do trânsito reconhecida pelos respectivos conselhos profissionais'. Em 2026, portanto, sem título não há como atuar. O §4º manda os órgãos estaduais remeterem anualmente à SENATRAN a relação dos credenciados com os certificados.",
+  "porAlt": [
+   "O direito dos já credenciados teve termo final: 12 de abril de 2024 (art. 19, §1º).",
+   "Tempo de atuação não substitui a titulação exigida a partir de 12 de abril de 2024.",
+   "A data correta do fim da transição é 12 de abril de 2024, e não 1º de abril de 2023.",
+   "Correta: a exceção valeu até 12 de abril de 2024; depois, a titulação é obrigatória.",
+   "Não há prorrogação até 2027; a transição terminou em 12 de abril de 2024."
+  ]
+ },
+ {
+  "q": "Condutor de 50 anos omitiu no questionário do Anexo I o uso de anticonvulsivante e foi aprovado. Meses depois, sofre crise ao volante. Segundo o art. 2º, §2º, da Resolução CONTRAN nº 927/2022, a quem cabe a responsabilidade pelas informações prestadas?",
+  "alts": [
+   "Ao perito examinador, que responde objetivamente por toda informação omitida",
+   "À entidade credenciada, responsável pelo preenchimento dos formulários RENACH",
+   "Ao próprio candidato, que responde pelas informações que presta no questionário",
+   "Ao órgão executivo de trânsito, que homologa o resultado do exame de aptidão",
+   "Ao médico assistente, que deveria ter comunicado a doença ao órgão de trânsito"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Responsabilidade pelas informações do candidato",
+  "base": "Resolução CONTRAN nº 927/2022, art. 2º, §2º; art. 10; Anexo I (observação sobre o art. 299 do Código Penal).",
+  "coment": "O art. 2º, §2º, é direto: 'as informações prestadas pelo candidato são de sua responsabilidade'. O Anexo I reforça: o candidato assina 'sob pena de responsabilidade', e a observação do questionário lembra que prestar declaração falsa para alterar a verdade sobre fato juridicamente relevante é crime do art. 299 do Código Penal (reclusão de um a três anos e multa). Isso não isenta o perito do seu dever técnico — a realização e o resultado do exame são de sua exclusiva responsabilidade (art. 10), e ele deve fazer o interrogatório complementar e o exame físico. Mas a omissão deliberada é do candidato. O §1º do art. 2º trata do preenchimento do RENACH pela entidade, tema diferente.",
+  "porAlt": [
+   "O perito responde pelo exame que realiza (art. 10), mas as informações são do candidato.",
+   "O §1º atribui à entidade o preenchimento do RENACH, não a veracidade do que o candidato diz.",
+   "Correta: as informações prestadas pelo candidato são de sua responsabilidade (art. 2º, §2º).",
+   "O órgão de trânsito não responde pelas informações prestadas pelo candidato.",
+   "A norma não atribui ao médico assistente a responsabilidade pela declaração do candidato."
+  ]
+ },
+ {
+  "q": "Segundo o art. 21 da Resolução CONTRAN nº 927/2022, qual conjunto de dados deve constar do registro de exames oficiais, numerados, mantido pelo perito examinador?",
+  "alts": [
+   "Nome, telefone, e-mail, categoria, resultado, avaliação objetiva do candidato e observações",
+   "Data, nome, CID das doenças achadas, medicamentos em uso, resultado e assinatura do perito",
+   "Data, CPF, endereço, valor dos honorários, resultado, validade e forma de pagamento do exame",
+   "Nome, categoria, resultado, pressão arterial, acuidade visual, dinamometria e peso aferido",
+   "Data, documento de identidade, nome e assinatura, categoria, resultado, validade e restrições"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Registro de exames oficiais do perito",
+  "base": "Resolução CONTRAN nº 927/2022, art. 21; art. 10, §1º.",
+  "coment": "O art. 21 manda o perito manter 'registro de exames oficiais, numerados, onde anotará os exames realizados, contendo data, número de documento oficial de identificação, nome e assinatura do periciando, categoria pretendida, resultado do exame, tempo de validade do exame, restrições, se houverem, e observação, quando se fizer necessária'. É um livro de controle da atividade pericial, que permite rastrear cada exame e a assinatura do periciando. Não é o prontuário: diagnósticos, medicamentos e medidas clínicas ficam nos documentos do exame, arquivados segundo as normas do CFM (art. 10, §1º), protegidos pelo sigilo. Honorários e contatos pessoais não fazem parte do registro.",
+  "porAlt": [
+   "Contatos pessoais e avaliação objetiva não integram o registro do art. 21.",
+   "CID e medicamentos são dados clínicos do prontuário, não itens do registro do art. 21.",
+   "Honorários, endereço e forma de pagamento não constam do registro previsto no art. 21.",
+   "Medidas clínicas ficam no prontuário; o registro traz validade e restrições, não medidas.",
+   "Correta: data, documento, nome e assinatura, categoria, resultado, validade e restrições."
+  ]
+ },
+ {
+  "q": "Segundo o art. 23 da Resolução CONTRAN nº 927/2022, até quando as entidades credenciadas devem remeter ao órgão executivo estadual a estatística mensal dos exames?",
+  "alts": [
+   "Até o quinto dia útil do mês seguinte, com a relação nominal",
+   "Até o último dia do mês, relativa aos exames feitos naquele mês",
+   "Até o vigésimo dia do mês subsequente, relativa ao mês anterior",
+   "Até o décimo dia útil do mês subsequente, junto com os honorários",
+   "Até o último dia de fevereiro, consolidando os doze meses do ano"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Estatística mensal das entidades",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 23 e 24; Anexos XVII a XIX.",
+  "coment": "O art. 23 determina que 'as entidades credenciadas remeterão ao órgão ou entidade executiva de trânsito do Estado ou do Distrito Federal, até o vigésimo dia do mês subsequente, a estatística relativa ao mês anterior', nos modelos dos anexos — o mapa estatístico mensal (Anexo XVII, com apto, apto com restrições, inapto temporário e inapto por categoria e tipo de processo) e a relação nominal dos candidatos (Anexo XIX). O prazo de 'último dia de fevereiro' é outro: o do art. 24, para os órgãos estaduais remeterem ao órgão máximo executivo da União a estatística ANUAL. Não confundir os dois níveis — entidade→Estado mensal; Estado→União anual.",
+  "porAlt": [
+   "O prazo do art. 23 é o vigésimo dia do mês subsequente, não o quinto dia útil.",
+   "A estatística se refere ao mês anterior e é enviada até o dia 20 do mês seguinte.",
+   "Correta: até o vigésimo dia do mês subsequente, relativa ao mês anterior (art. 23).",
+   "Não há prazo de décimo dia útil nem vínculo com honorários na norma.",
+   "Último dia de fevereiro é o prazo anual do órgão estadual para a União (art. 24)."
+  ]
+ },
+ {
+  "q": "Segundo o art. 24 da Resolução CONTRAN nº 927/2022, qual é o prazo para os órgãos executivos estaduais remeterem ao órgão máximo executivo de trânsito da União a estatística anual dos exames?",
+  "alts": [
+   "Até o último dia do mês de fevereiro",
+   "Até o vigésimo dia de janeiro seguinte",
+   "Até o último dia útil do mês de março",
+   "Até 31 de dezembro do mesmo ano civil",
+   "Até o dia 30 de junho do ano seguinte"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Estatística anual dos órgãos estaduais",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 23 e 24.",
+  "coment": "O art. 24 fixa que 'os órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal remeterão ao órgão máximo executivo de trânsito da União, até o último dia do mês de fevereiro, a estatística anual dos exames de aptidão física e mental e da avaliação psicológica'. Esse fluxo se alimenta das estatísticas mensais que as entidades credenciadas mandam ao órgão estadual até o vigésimo dia do mês subsequente (art. 23). A banca costuma trocar os dois prazos ou inventar datas próximas (janeiro, março, fim do semestre). Guarde: entidade → Estado, mensal, dia 20; Estado → União, anual, fim de fevereiro.",
+  "porAlt": [
+   "Correta: até o último dia do mês de fevereiro (art. 24).",
+   "Vigésimo dia é o prazo mensal das entidades (art. 23), não o anual dos Estados.",
+   "O art. 24 fixa o último dia de fevereiro, e não o de março.",
+   "A estatística anual é enviada no ano seguinte, até o fim de fevereiro.",
+   "Não há prazo em junho; o art. 24 fixa o último dia de fevereiro."
+  ]
+ },
+ {
+  "q": "Segundo o art. 25 da Resolução CONTRAN nº 927/2022, como deve ocorrer a fiscalização das entidades e dos profissionais credenciados para o exame de aptidão física e mental?",
+  "alts": [
+   "Pela Senatran, a cada dois anos, na renovação do credenciamento da entidade",
+   "Pelo CRM e pelo CRP, isoladamente, só mediante denúncia formal recebida",
+   "Pelo órgão estadual, com os Conselhos Regionais, ao menos uma vez por ano",
+   "Pelo CETRAN, uma vez por semestre, com relatório ao Conselho de Trânsito",
+   "Pelo Ministério Público, sempre que houver aumento de acidentes na região"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Fiscalização das credenciadas",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 25 e 26.",
+  "coment": "O art. 25 prevê que 'a fiscalização das entidades e profissionais credenciados será realizada pelos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal, com a colaboração dos Conselhos Regionais de Medicina e de Psicologia, no mínimo uma vez por ano ou quando for necessário'. É o mesmo órgão que credencia (art. 16) e que aplica as penalidades do art. 26 — advertência, suspensão das atividades por até trinta dias e cassação do credenciamento — em processo administrativo com contraditório e ampla defesa. A comprovação dos requisitos a cada dois anos (art. 16, §3º) é obrigação da entidade, não a periodicidade da fiscalização.",
+  "porAlt": [
+   "A fiscalização é do órgão estadual; os dois anos referem-se à comprovação da entidade.",
+   "Os Conselhos colaboram, mas a fiscalização é do órgão estadual e tem periodicidade mínima.",
+   "Correta: órgão estadual com os CRM e CRP, no mínimo uma vez por ano (art. 25).",
+   "O CETRAN não fiscaliza as credenciadas; a atribuição é do órgão executivo estadual.",
+   "A norma não atribui ao Ministério Público a fiscalização das entidades credenciadas."
+  ]
+ },
+ {
+  "q": "Em processo administrativo do órgão estadual, apura-se que entidade credenciada realizou exames com equipamento de campo visual inoperante. Segundo o art. 26 da Resolução CONTRAN nº 927/2022, quais penalidades são previstas?",
+  "alts": [
+   "Multa, suspensão por até noventa dias e descredenciamento definitivo",
+   "Advertência, suspensão das atividades por até trinta dias e cassação",
+   "Advertência e cassação, sem nenhuma suspensão temporária das atividades",
+   "Suspensão por até sessenta dias e multa em favor do fundo estadual",
+   "Advertência, multa e interdição do perito pelo seu Conselho Regional"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Penalidades às credenciadas",
+  "base": "Resolução CONTRAN nº 927/2022, art. 26, I a III e parágrafo único; art. 17, II, 'k'.",
+  "coment": "O equipamento para avaliação do campo visual, da estereopsia, do ofuscamento e da visão noturna é obrigatório (art. 17, II, 'k'). O descumprimento das regras da Resolução sujeita o infrator, pelo art. 26, a: I — advertência; II — suspensão das atividades por até trinta dias; III — cassação do credenciamento. As penalidades são apuradas em processo administrativo formalizado pelo órgão executivo estadual, assegurados o contraditório e a ampla defesa, e os relatórios conclusivos de sindicância vão aos Conselhos Regionais de Medicina e Psicologia e ao órgão máximo executivo da União (parágrafo único). A norma não prevê multa, e a punição ético-profissional do perito é assunto do Conselho, fora deste rol.",
+  "porAlt": [
+   "A norma não prevê multa, e a suspensão é de até trinta dias, não noventa.",
+   "Correta: advertência, suspensão por até trinta dias e cassação do credenciamento (art. 26).",
+   "A suspensão por até trinta dias integra o rol do art. 26, entre advertência e cassação.",
+   "A suspensão é de até trinta dias, e não há multa entre as penalidades do art. 26.",
+   "A norma não prevê multa; a sanção ética do perito é matéria do Conselho, fora do art. 26."
+  ]
+ },
+ {
+  "q": "Segundo o art. 2º da Resolução CONTRAN nº 927/2022, a quem cabe criar e disciplinar o uso do formulário RENACH, destinado à coleta de dados dos candidatos à ACC e à CNH?",
+  "alts": [
+   "Ao órgão executivo de trânsito de cada Estado",
+   "Ao órgão máximo executivo de trânsito da União",
+   "Ao CFM, em conjunto com o Conselho de Psicologia",
+   "À entidade credenciada, que o adapta à perícia",
+   "Ao CETRAN, com aprovação posterior do CONTRAN"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Formulário RENACH",
+  "base": "Resolução CONTRAN nº 927/2022, art. 2º, caput e §§1º e 2º; CTB, art. 140, parágrafo único.",
+  "coment": "O art. 2º, caput, atribui ao 'órgão máximo executivo de trânsito da União' (hoje a Senatran) criar e disciplinar o uso do formulário RENACH — Registro Nacional de Condutores Habilitados — para os candidatos à ACC e à CNH e para os processos de renovação, adição e mudança de categoria, determinando seu uso aos órgãos estaduais. O §1º reparte a tarefa: o PREENCHIMENTO com o resultado do exame de aptidão física e mental e da avaliação psicológica é responsabilidade das entidades credenciadas; o §2º atribui ao candidato a responsabilidade pelas informações que presta. O CTB, no art. 140, parágrafo único, manda cadastrar no RENACH as informações do candidato.",
+  "porAlt": [
+   "Os órgãos estaduais utilizam o formulário por determinação da União; não o criam.",
+   "Correta: cabe ao órgão máximo executivo de trânsito da União (art. 2º, caput).",
+   "Os conselhos profissionais não criam o formulário RENACH da norma.",
+   "À entidade cabe preencher o formulário (art. 2º, §1º), não criá-lo nem adaptá-lo.",
+   "O CETRAN não tem essa atribuição no art. 2º da norma."
+  ]
+ },
+ {
+  "q": "A Resolução CONTRAN nº 927/2022 admite como via de qualificação do perito a residência médica em Medicina de Tráfego e traz, no Anexo XX, os requisitos mínimos do programa. Qual treinamento tem a MAIOR carga horária mínima?",
+  "alts": [
+   "Medicina de Tráfego Curativa, com mínimo de 35% da carga horária",
+   "Medicina de Tráfego Preventiva, com mínimo de 30% da carga horária",
+   "Medicina de Tráfego Legal, com mínimo de 5% no Instituto Médico Legal",
+   "Medicina de Viagem, com mínimo de 5% em ambulatórios e internação",
+   "Medicina de Tráfego Ocupacional, com mínimo de 5% da carga horária"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Residência em Medicina de Tráfego",
+  "base": "Resolução CONTRAN nº 927/2022, art. 19, II; Anexo XX.",
+  "coment": "O art. 19, II, aceita como qualificação do médico perito o Título de Especialista reconhecido pelo CFM OU a conclusão do Programa de Residência em Medicina de Tráfego. O Anexo XX fixa os requisitos mínimos do programa: Medicina de Tráfego Curativa (emergências clínicas e traumáticas, APH) — mínimo de 35%; Medicina de Tráfego Preventiva (atenção primária em clínica, oftalmologia, otorrino, neurologia, ortopedia, psiquiatria, endocrinologia, reumatologia e cardiologia) — mínimo de 30%; Medicina de Viagem — 5%; Medicina de Tráfego Legal (perícia, no IML) — 5%; Medicina de Tráfego Ocupacional — 5%; além de cursos obrigatórios de bioética, ética médica, metodologia científica, epidemiologia, bioestatística e perícias médicas.",
+  "porAlt": [
+   "Correta: a Curativa (emergências e APH) tem o maior mínimo, 35% (Anexo XX).",
+   "A Preventiva tem mínimo de 30%, abaixo dos 35% da Curativa.",
+   "A Legal tem 5%, no IML, e não é a maior carga horária do programa.",
+   "A Medicina de Viagem tem mínimo de 5%, em ambulatórios e unidades de internação.",
+   "A Ocupacional tem mínimo de 5%, em serviços de saúde do trabalhador na área de tráfego."
+  ]
+ }
+]

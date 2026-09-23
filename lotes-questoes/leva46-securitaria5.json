@@ -1,0 +1,354 @@
+[
+ {
+  "q": "Vítima de colisão evolui, após consolidação, com perda anatômica completa de uma das mãos, sem outras sequelas. Pela tabela anexa à Lei nº 6.194/1974, qual é o percentual e o valor da indenização por invalidez permanente?",
+  "alts": [
+   "50% do teto, correspondente a R$ 6.750,00",
+   "25% do teto, correspondente a R$ 3.375,00",
+   "100% do teto, correspondente a R$ 13.500,00",
+   "60% do teto, correspondente a R$ 8.100,00",
+   "70% do teto, correspondente a R$ 9.450,00"
+  ],
+  "gab": 4,
+  "tema": "securitaria",
+  "sub": "Barema do DPVAT: membros superiores",
+  "base": "Lei nº 6.194/1974, art. 3º, II e §1º, I (redações das Leis nº 11.482/2007 e 11.945/2009), e tabela anexa (danos corporais segmentares — membros)",
+  "coment": "A tabela anexa à Lei nº 6.194/1974 atribui 70% à 'perda anatômica e/ou funcional completa de um dos membros superiores e/ou de uma das mãos' — a mão inteira vale o mesmo que o membro superior inteiro. Na invalidez permanente parcial completa, o art. 3º, §1º, I manda enquadrar a perda diretamente no segmento e aplicar o percentual ao valor máximo da cobertura, que é de até R$ 13.500,00 (art. 3º, II). Logo, 70% × R$ 13.500,00 = R$ 9.450,00. O pé tem percentual menor (50%) que a mão; 100% fica reservado aos danos corporais totais, como a perda de ambas as mãos; e 25% é o da perda de mobilidade de ombro, cotovelo, punho ou polegar.",
+  "porAlt": [
+   "50% é o percentual da perda completa de um dos pés, não de uma das mãos.",
+   "25% corresponde à perda de mobilidade de ombro, cotovelo, punho ou polegar.",
+   "100% é para a perda de AMBAS as mãos, no bloco de danos corporais totais.",
+   "A tabela anexa não prevê 60%; a perda completa de uma mão vale 70%.",
+   "Correta: mão inteira = 70% da tabela; 70% de R$ 13.500,00 = R$ 9.450,00."
+  ]
+ },
+ {
+  "q": "Motociclista perde completamente a visão de um olho em sinistro, com o outro olho preservado. Pela tabela anexa à Lei nº 6.194/1974, qual é o enquadramento dessa sequela?",
+  "alts": [
+   "100%, no bloco de danos corporais totais, por se tratar de perda visual",
+   "25%, no bloco de outras repercussões em órgãos e estruturas corporais",
+   "70%, no bloco de danos segmentares de membros superiores e inferiores",
+   "10%, no bloco de outras repercussões em órgãos e estruturas corporais",
+   "50%, no bloco de outras repercussões em órgãos e estruturas corporais"
+  ],
+  "gab": 4,
+  "tema": "securitaria",
+  "sub": "Barema do DPVAT: órgãos dos sentidos",
+  "base": "Lei nº 6.194/1974, tabela anexa (danos corporais segmentares — outras repercussões em órgãos e estruturas corporais; danos corporais totais)",
+  "coment": "O terceiro bloco da tabela anexa, 'Danos Corporais Segmentares (Parciais) — Outras Repercussões em Órgãos e Estruturas Corporais', atribui 50% à perda auditiva total bilateral (surdez completa), à perda da fonação (mudez completa) ou à perda da visão de UM olho. Já a perda completa da visão em AMBOS os olhos (cegueira bilateral) ou a cegueira legal bilateral está no bloco de danos corporais totais, com 100% — repercussão na íntegra do patrimônio físico. No mesmo terceiro bloco ficam ainda a perda completa da mobilidade de um segmento da coluna, exceto o sacral (25%), e a perda integral do baço por retirada cirúrgica (10%).",
+  "porAlt": [
+   "100% é da cegueira bilateral; a perda de um só olho está no bloco segmentar.",
+   "25% é o percentual de um segmento da coluna, no mesmo bloco da tabela.",
+   "O olho não está no bloco de membros; e 70% é da mão ou do membro inteiro.",
+   "10% é o percentual da retirada cirúrgica do baço, no mesmo bloco da tabela.",
+   "Correta: a visão de um olho vale 50%, como a surdez e a mudez completas."
+  ]
+ },
+ {
+  "q": "Periciado tem perda parcial incompleta da mobilidade de um joelho, com repercussão intensa, já consolidada. Pela Lei nº 6.194/1974, qual é o valor da indenização por invalidez permanente?",
+  "alts": [
+   "R$ 10.125,00: 75% do teto aplicado direto pela repercussão intensa",
+   "R$ 2.531,25: 25% do joelho reduzido a 75% pela repercussão intensa",
+   "R$ 3.375,00: 25% do joelho, sem redução por ser repercussão intensa",
+   "R$ 1.687,50: 25% do joelho reduzido a 50% pela repercussão intensa",
+   "R$ 843,75: 25% do joelho reduzido a 25% pela repercussão intensa"
+  ],
+  "gab": 1,
+  "tema": "securitaria",
+  "sub": "Invalidez parcial incompleta: cálculo",
+  "base": "Lei nº 6.194/1974, art. 3º, II e §1º, II (redação da Lei nº 11.945/2009), e tabela anexa (perda completa da mobilidade de quadril, joelho ou tornozelo: 25%)",
+  "coment": "Na invalidez permanente parcial INCOMPLETA, o art. 3º, §1º, II manda primeiro enquadrar a perda como se fosse completa e, em seguida, fazer a redução proporcional: 75% para as perdas de repercussão intensa, 50% para as de média, 25% para as de leve e 10% para as sequelas residuais. A perda completa da mobilidade de um joelho vale 25% na tabela anexa. Assim: 25% × 75% = 18,75% do teto de R$ 13.500,00 = R$ 2.531,25. A pegadinha mais comum é aplicar o percentual da repercussão diretamente sobre o teto (R$ 10.125,00), pulando o enquadramento do segmento; a outra é trocar o degrau (50% é o da repercussão média).",
+  "porAlt": [
+   "Pula o enquadramento do segmento; a redução incide sobre os 25% do joelho.",
+   "Correta: 25% (joelho) × 75% (intensa) = 18,75% de R$ 13.500 = R$ 2.531,25.",
+   "Sem redução seria a perda completa; a incompleta sempre sofre a redução.",
+   "Redução a 50% é da repercussão média, não da intensa, pelo art. 3º, §1º, II.",
+   "Redução a 25% é da repercussão leve, não da intensa, pelo art. 3º, §1º, II."
+  ]
+ },
+ {
+  "q": "Pela tabela anexa à Lei nº 6.194/1974, qual é o percentual da perda completa da mobilidade do polegar, comparado ao da perda completa de qualquer um dos outros dedos da mão?",
+  "alts": [
+   "25% para o polegar, igual ao de um ombro; 10% para cada um dos outros dedos",
+   "10% para o polegar e para cada um dos outros dedos, sem distinção entre eles",
+   "50% para o polegar, igual ao de um pé; 25% para cada um dos outros dedos",
+   "25% para o polegar e também 25% para cada um dos outros dedos da mesma mão",
+   "70% para o polegar, igual ao de uma mão; 10% para cada um dos outros dedos"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "Barema do DPVAT: dedos",
+  "base": "Lei nº 6.194/1974, tabela anexa (danos corporais segmentares — repercussões em partes de membros superiores e inferiores)",
+  "coment": "A tabela anexa agrupa na mesma linha de 25% a 'perda completa da mobilidade de um dos ombros, cotovelos, punhos ou dedo polegar' — o polegar tem o peso de uma grande articulação do membro superior, pelo seu papel na preensão. Já a 'perda anatômica e/ou funcional completa de qualquer um dentre os outros dedos da mão' vale 10%, o mesmo percentual da perda de qualquer um dos dedos do pé. Completam o bloco: um membro superior e/ou uma mão (70%), um membro inferior (70%), um pé (50%) e quadril, joelho ou tornozelo (25%). Na perda incompleta, aplica-se ainda a redução pela repercussão.",
+  "porAlt": [
+   "Correta: polegar = 25% (como ombro, cotovelo ou punho); demais dedos = 10%.",
+   "O polegar está na linha de 25%, distinta da de 10% dos outros dedos da mão.",
+   "50% é o percentual do pé; os outros dedos da mão valem 10%, não 25%.",
+   "Só o polegar vale 25%; os outros dedos da mão valem 10% cada um.",
+   "70% é o da mão inteira; o polegar isolado vale 25% na tabela anexa."
+  ]
+ },
+ {
+  "q": "Motorista submetido a esplenectomia após trauma abdominal fechado em colisão evolui sem outras sequelas. Pela tabela anexa à Lei nº 6.194/1974, qual é o enquadramento?",
+  "alts": [
+   "100%, como lesão abdominal com prejuízo funcional, sem comprometimento vital",
+   "25%, pela retirada cirúrgica do baço, prevista de forma expressa na tabela",
+   "50%, por perda de órgão sólido abdominal, equiparada à da visão de um olho",
+   "10%, pela retirada cirúrgica do baço, prevista de forma expressa na tabela",
+   "Nenhum, pois a tabela não contempla lesões de vísceras abdominais isoladas"
+  ],
+  "gab": 3,
+  "tema": "securitaria",
+  "sub": "Barema do DPVAT: baço",
+  "base": "Lei nº 6.194/1974, tabela anexa (outras repercussões em órgãos e estruturas corporais: perda integral do baço; danos corporais totais: lesões viscerais com comprometimento de função vital)",
+  "coment": "O baço é a única víscera nominada na tabela anexa: 'perda integral (retirada cirúrgica) do baço' vale 10%, no bloco de outras repercussões em órgãos e estruturas corporais. As demais lesões viscerais entram pela cláusula do bloco de danos corporais totais — 'lesões de órgãos e estruturas crânio-faciais, cervicais, torácicos, abdominais, pélvicos ou retroperitoneais cursando com prejuízos funcionais não compensáveis' —, que exige, para os 100%, que haja comprometimento de função vital. Aplicado ao teto de R$ 13.500,00, os 10% da esplenectomia correspondem a R$ 1.350,00. A exigência de retirada cirúrgica (perda integral) é o detalhe literal do barema.",
+  "porAlt": [
+   "Os 100% para lesão visceral exigem comprometimento de função vital.",
+   "A retirada cirúrgica do baço vale 10%; 25% é o de segmento da coluna.",
+   "50% é o da visão de um olho, surdez ou mudez; o baço tem linha de 10%.",
+   "Correta: a perda integral do baço por retirada cirúrgica vale 10%.",
+   "O baço é contemplado de forma expressa na tabela anexa, com 10%."
+  ]
+ },
+ {
+  "q": "Pela tabela anexa à Lei nº 6.194/1974, como se enquadra a perda completa da mobilidade de um segmento da coluna vertebral?",
+  "alts": [
+   "25%, para qualquer segmento, inclusive o sacral",
+   "50%, para qualquer segmento, exceto o sacral",
+   "25%, para qualquer segmento, exceto o sacral",
+   "10%, para qualquer segmento, exceto o cervical",
+   "70% no cervical e 25% nos demais segmentos"
+  ],
+  "gab": 2,
+  "tema": "securitaria",
+  "sub": "Barema do DPVAT: coluna",
+  "base": "Lei nº 6.194/1974, tabela anexa (danos corporais segmentares — outras repercussões em órgãos e estruturas corporais)",
+  "coment": "A tabela anexa atribui 25% à 'perda completa da mobilidade de um segmento da coluna vertebral exceto o sacral', no bloco de outras repercussões em órgãos e estruturas corporais. Dois detalhes literais caem: o percentual (25%, o mesmo de ombro, cotovelo, punho, polegar, quadril, joelho ou tornozelo) e a exclusão expressa do segmento SACRAL. A tabela não distingue o segmento cervical dos demais. Se a lesão raquimedular produzir déficit neurológico com perda completa do controle esfincteriano ou impedimento do livre deslocamento corporal, o enquadramento passa a ser outro: o das lesões neurológicas do bloco de danos corporais totais, com 100%.",
+  "porAlt": [
+   "A tabela exclui expressamente o segmento sacral desse enquadramento.",
+   "O percentual do segmento da coluna é 25%, e não 50%, na tabela anexa.",
+   "Correta: 25% por segmento, com exclusão expressa do segmento sacral.",
+   "O percentual é 25%, e a exclusão expressa é a do sacral, não a do cervical.",
+   "A tabela não diferencia o segmento cervical; todos valem 25%, exceto o sacral."
+  ]
+ },
+ {
+  "q": "Vítima de trauma raquimedular em colisão evolui, após consolidação, com perda completa do controle esfincteriano. Pela tabela anexa à Lei nº 6.194/1974, qual é o enquadramento?",
+  "alts": [
+   "25%, pela perda de mobilidade de um segmento da coluna vertebral lesada",
+   "100%, entre as lesões neurológicas do bloco de danos corporais totais",
+   "50%, equiparada às perdas de órgãos dos sentidos, como a surdez bilateral",
+   "70%, equiparada à perda completa de um dos membros inferiores da vítima",
+   "10%, como sequela residual, por não haver perda anatômica de segmento"
+  ],
+  "gab": 1,
+  "tema": "securitaria",
+  "sub": "Barema do DPVAT: lesões neurológicas",
+  "base": "Lei nº 6.194/1974, tabela anexa (danos corporais totais — lesões neurológicas, alínea c)",
+  "coment": "O bloco de danos corporais totais (repercussão na íntegra do patrimônio físico, 100%) inclui as 'lesões neurológicas que cursem com: (a) dano cognitivo-comportamental alienante; (b) impedimento do senso de orientação espacial e/ou do livre deslocamento corporal; (c) perda completa do controle esfincteriano; (d) comprometimento de função vital ou autonômica'. A perda completa do controle esfincteriano é, portanto, critério autônomo para 100%, mesmo sem perda anatômica de membro. O mesmo bloco reúne a perda de ambos os membros superiores ou inferiores, de ambas as mãos ou pés, de um membro superior e um inferior e a cegueira bilateral. O enquadramento exige lesão consolidada, não suscetível de amenização terapêutica (art. 3º, §1º).",
+  "porAlt": [
+   "A lesão neurológica com perda esfincteriana completa tem linha própria de 100%.",
+   "Correta: perda completa do controle esfincteriano é alínea c das lesões de 100%.",
+   "50% é da surdez, mudez ou visão de um olho; não se aplica à lesão neurológica.",
+   "A tabela não equipara a lesão esfincteriana à perda de um membro inferior.",
+   "Os 10% de sequela residual são degrau de redução, não enquadramento da lesão."
+  ]
+ },
+ {
+  "q": "Pedestre atravessa fora da faixa, é atropelado e fica com sequela permanente. O condutor alega culpa exclusiva da vítima. Segundo o art. 5º da Lei nº 6.194/1974, o direito à indenização do seguro obrigatório:",
+  "alts": [
+   "Cessa, pois a culpa exclusiva da vítima afasta o dever de indenizar do seguro obrigatório",
+   "Subsiste, pois basta a simples prova do acidente e do dano, independentemente de culpa",
+   "Reduz-se à metade, pois a culpa concorrente da vítima divide a indenização com o condutor",
+   "Depende de sentença criminal que afaste a culpa da vítima antes da liquidação do sinistro",
+   "Subsiste, mas com franquia descontada do valor, por ter a vítima contribuído para o fato"
+  ],
+  "gab": 1,
+  "tema": "securitaria",
+  "sub": "DPVAT: responsabilidade sem culpa",
+  "base": "Lei nº 6.194/1974, art. 5º, caput",
+  "coment": "O caput do art. 5º define o instituto: 'O pagamento da indenização será efetuado mediante simples prova do acidente e do dano decorrente, independentemente da existência de culpa, haja ou não resseguro, abolida qualquer franquia de responsabilidade do segurado.' Não se discute culpa — nem do condutor, nem da vítima —, não há franquia e a prova exigida é a do fato e do dano, não a da conduta. A discussão de culpa pertence à responsabilidade civil e ao juízo criminal, não à liquidação do seguro obrigatório. Por isso o art. 8º permite à seguradora que pagou buscar, em ação própria, o ressarcimento junto ao responsável.",
+  "porAlt": [
+   "O art. 5º dispensa a discussão de culpa, inclusive a da própria vítima.",
+   "Correta: basta provar o acidente e o dano, independentemente de culpa.",
+   "A lei não prevê redução por culpa concorrente; a culpa é irrelevante aqui.",
+   "O pagamento não depende de apuração criminal, só da prova do fato e do dano.",
+   "O art. 5º abole expressamente qualquer franquia de responsabilidade."
+  ]
+ },
+ {
+  "q": "Segundo o art. 5º, §1º, da Lei nº 6.194/1974, na redação da Lei nº 11.482/2007, em que prazo e com base em que valor a indenização do seguro obrigatório é paga?",
+  "alts": [
+   "Em 30 dias da entrega dos documentos, pelo valor vigente na época do sinistro",
+   "Em 15 dias da entrega dos documentos, pelo valor vigente na época da liquidação",
+   "Em 5 dias da entrega dos documentos, pelo valor vigente na época do sinistro",
+   "Em 90 dias contados do acidente, pelo valor vigente na época da liquidação",
+   "Em 30 dias contados do acidente, pelo valor vigente na data do efetivo pagamento"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "DPVAT: prazo de pagamento",
+  "base": "Lei nº 6.194/1974, art. 5º, §1º (redações original, da Lei nº 8.441/1992 e da Lei nº 11.482/2007)",
+  "coment": "A redação vigente do art. 5º, §1º, dada pela Lei nº 11.482/2007, diz que a indenização será paga com base no valor vigente na época da ocorrência do sinistro, no prazo de 30 dias da entrega dos documentos: no caso de morte, certidão de óbito, registro da ocorrência no órgão policial competente e prova da qualidade de beneficiário; no caso de danos pessoais, prova das despesas e registro da ocorrência. Os distratores reproduzem redações superadas: a original falava em 5 dias; a da Lei nº 8.441/1992, em 15 dias e 'valor da época da liquidação do sinistro'. Os 90 dias são o prazo do laudo do IML (§5º). Descumprido o prazo, há correção monetária e juros (§7º).",
+  "porAlt": [
+   "Correta: 30 dias da entrega dos documentos, pelo valor da época do sinistro.",
+   "Quinze dias e valor da liquidação eram da redação da Lei nº 8.441/1992, superada.",
+   "Cinco dias era o prazo da redação original de 1974, já substituída.",
+   "Noventa dias é o prazo do laudo do IML (§5º), não o do pagamento.",
+   "O prazo conta da entrega dos documentos, e o valor é o da época do sinistro."
+  ]
+ },
+ {
+  "q": "Motociclista é atingido por veículo que foge sem ser identificado e fica com invalidez permanente. Segundo o art. 7º da Lei nº 6.194/1974, na redação da Lei nº 8.441/1992, como fica a indenização?",
+  "alts": [
+   "É paga por consórcio de todas as seguradoras do ramo, limitada a 50% do valor de morte",
+   "Não é devida, pois sem identificação do veículo não há seguradora obrigada a pagar",
+   "É paga pelo consórcio de todas as seguradoras do ramo, nos mesmos valores e prazos",
+   "É paga pelo Estado, por meio do SUS, nos mesmos valores, condições e prazos dos demais",
+   "É paga pela seguradora do veículo da vítima, que depois cobra o valor do consórcio"
+  ],
+  "gab": 2,
+  "tema": "securitaria",
+  "sub": "DPVAT: veículo não identificado",
+  "base": "Lei nº 6.194/1974, art. 7º, caput (redação da Lei nº 8.441/1992) e §1º original (substituído pela Lei nº 8.441/1992)",
+  "coment": "Na redação dada pela Lei nº 8.441/1992, o art. 7º estabelece que a indenização por pessoa vitimada por veículo não identificado, com seguradora não identificada, seguro não realizado ou vencido, será paga nos mesmos valores, condições e prazos dos demais casos por um consórcio constituído obrigatoriamente por todas as sociedades seguradoras que operem no seguro. Na redação original de 1974, o consórcio só cobria a MORTE causada por veículo não identificado e com limite de 50% do valor da alínea 'a' do art. 3º — texto superado. O consórcio pode cobrar regressivamente do proprietário do veículo os valores que desembolsar.",
+  "porAlt": [
+   "O limite de 50% constava da redação original de 1974, já substituída.",
+   "O art. 7º garante a indenização mesmo sem identificação do veículo.",
+   "Correta: consórcio obrigatório, nos mesmos valores, condições e prazos.",
+   "O pagamento cabe ao consórcio das seguradoras, não ao Estado nem ao SUS.",
+   "A lei atribui o pagamento diretamente ao consórcio de todas as seguradoras."
+  ]
+ },
+ {
+  "q": "Pedestre é atingido em colisão entre dois automóveis identificados, ambos com seguro obrigatório em dia. Segundo o art. 6º da Lei nº 6.194/1974, quem paga a indenização devida ao pedestre?",
+  "alts": [
+   "A seguradora do veículo que atingiu primeiro o pedestre, isoladamente",
+   "A seguradora do veículo culpado, apurada a culpa em ação judicial própria",
+   "As seguradoras dos dois veículos envolvidos, divididas em partes iguais",
+   "O consórcio de todas as seguradoras, por ser vítima não transportada",
+   "A seguradora de cada veículo, na proporção do dano que cada um causou"
+  ],
+  "gab": 2,
+  "tema": "securitaria",
+  "sub": "DPVAT: sinistro com mais de um veículo",
+  "base": "Lei nº 6.194/1974, art. 6º, caput e §§1º e 2º",
+  "coment": "O art. 6º organiza o pagamento quando há dois ou mais veículos: cada pessoa vitimada TRANSPORTADA é indenizada pela seguradora do veículo em que era transportada (caput); as vítimas NÃO transportadas — como o pedestre — são indenizadas em partes iguais pelas seguradoras dos veículos envolvidos (§1º); havendo veículos identificados e não identificados, paga a seguradora dos identificados (§2º). O critério é objetivo e não depende de apuração de culpa, coerente com o art. 5º. O consórcio de todas as seguradoras (art. 7º) só entra quando o veículo ou a seguradora não é identificado, ou o seguro não foi feito ou está vencido.",
+  "porAlt": [
+   "A lei não usa a ordem dos impactos; divide a indenização em partes iguais.",
+   "A culpa é irrelevante no seguro obrigatório; a divisão é em partes iguais.",
+   "Correta: vítima não transportada é paga pelas seguradoras em partes iguais.",
+   "O consórcio é para veículo ou seguradora não identificados, ou seguro vencido.",
+   "O §1º divide em partes iguais, sem proporção ao dano causado por veículo."
+  ]
+ },
+ {
+  "q": "Segundo o art. 5º, §5º, da Lei nº 6.194/1974, na redação da Lei nº 11.945/2009, qual é o papel do Instituto Médico Legal na indenização por invalidez permanente?",
+  "alts": [
+   "Fornecer à seguradora, em até 30 dias, laudo que verifique e quantifique as lesões permanentes",
+   "Fornecer à vítima, em até 180 dias, laudo que verifique e quantifique as lesões temporárias",
+   "Homologar, em até 90 dias, o laudo do médico assistente, sem novo exame pericial da vítima",
+   "Fixar, em até 60 dias, o valor da indenização devida à vítima pela seguradora do veículo",
+   "Fornecer à vítima, em até 90 dias, laudo que verifique e quantifique as lesões permanentes"
+  ],
+  "gab": 4,
+  "tema": "securitaria",
+  "sub": "DPVAT: laudo do IML",
+  "base": "Lei nº 6.194/1974, art. 5º, §5º (redação da Lei nº 11.945/2009)",
+  "coment": "O §5º do art. 5º, na redação da Lei nº 11.945/2009, determina que o Instituto Médico Legal da jurisdição do acidente ou da residência da vítima deverá fornecer, no prazo de até 90 dias, laudo à vítima com a verificação da existência e quantificação das lesões permanentes, totais ou parciais. A redação anterior (Lei nº 8.441/1992) falava em laudo complementar 'no prazo médio de noventa dias do evento', com base na tabela das condições gerais de seguro de acidente. O destinatário do laudo é a vítima, e o objeto são as lesões PERMANENTES; o IML não fixa o valor da indenização, que resulta da aplicação do percentual da tabela ao teto da cobertura.",
+  "porAlt": [
+   "O laudo é fornecido à vítima, e o prazo legal é de até 90 dias.",
+   "O prazo é de até 90 dias, e o objeto são as lesões permanentes.",
+   "O IML verifica e quantifica as lesões; não apenas homologa laudo alheio.",
+   "O IML quantifica lesões; o valor sai da tabela aplicada ao teto.",
+   "Correta: laudo à vítima em até 90 dias, sobre lesões permanentes."
+  ]
+ },
+ {
+  "q": "Na redação dada pela Lei nº 11.482/2007, como o art. 4º da Lei nº 6.194/1974 disciplina o pagamento da indenização por morte e o das demais indenizações?",
+  "alts": [
+   "A de morte vai ao cônjuge e, na falta dele, aos herdeiros; as demais, direto à vítima",
+   "A de morte vai ao companheiro com 5 anos de convívio; as demais, ao hospital",
+   "A de morte segue o art. 792 do Código Civil; as demais vão ao responsável civil",
+   "A de morte segue o art. 792 do Código Civil; as demais são pagas direto à vítima",
+   "A de morte é dividida entre os herdeiros em partes iguais; as demais, ao SUS"
+  ],
+  "gab": 3,
+  "tema": "securitaria",
+  "sub": "DPVAT: beneficiários",
+  "base": "Lei nº 6.194/1974, art. 4º, caput e §3º (redação da Lei nº 11.482/2007)",
+  "coment": "A redação original do art. 4º mandava pagar a indenização por morte, na constância do casamento, ao cônjuge sobrevivente e, na sua falta, aos herdeiros legais; a Lei nº 8.441/1992 equiparou a companheira à esposa e o companheiro ao esposo com convivência marital atual por mais de cinco anos ou com filhos. A Lei nº 11.482/2007 substituiu tudo isso: o caput passou a dizer que a indenização no caso de morte será paga de acordo com o disposto no art. 792 do Código Civil (Lei nº 10.406/2002), e os §§1º e 2º foram revogados. O §3º acrescentado estabelece que, nos demais casos, o pagamento será feito diretamente à vítima, na forma que dispuser o CNSP. Atenção: o próprio art. 792 do Código Civil foi revogado pela Lei nº 15.040/2024; a questão cobra apenas o texto da remissão feita pelo art. 4º, e não o conteúdo daquele artigo.",
+  "porAlt": [
+   "Cônjuge e herdeiros era a redação original do art. 4º, substituída em 2007.",
+   "Os cinco anos de convívio vinham da Lei nº 8.441/1992, dispositivo revogado.",
+   "Nos demais casos o pagamento é feito diretamente à vítima, pelo §3º.",
+   "Correta: morte conforme o art. 792 do Código Civil; demais, direto à vítima.",
+   "A lei remete ao art. 792 do Código Civil, e o SUS não recebe a indenização."
+  ]
+ },
+ {
+  "q": "Segundo o art. 5º da Lei nº 6.194/1974, o que deve ser acrescentado aos documentos quando a certidão de óbito não conclui pelo nexo de causa e efeito entre a morte e o acidente?",
+  "alts": [
+   "A certidão de auto de necrópsia, fornecida diretamente pelo instituto médico legal",
+   "Declaração do médico assistente, com firma reconhecida e anuência da autoridade policial",
+   "Sentença judicial que reconheça o nexo, obtida em ação própria contra a seguradora",
+   "A certidão de auto de necrópsia, dada pelo IML após requisição da autoridade policial",
+   "Laudo do perito da seguradora, que dispensa a participação do instituto médico legal"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "DPVAT: nexo causal",
+  "base": "Lei nº 6.194/1974, art. 5º, §§3º e 4º (incluídos pela Lei nº 8.441/1992)",
+  "coment": "O §3º do art. 5º dispõe: não se concluindo na certidão de óbito o nexo de causa e efeito entre a morte e o acidente, será acrescentada a certidão de auto de necrópsia, fornecida diretamente pelo instituto médico legal, INDEPENDENTEMENTE de requisição ou autorização da autoridade policial ou da jurisdição do acidente. O §4º trata da dúvida de nexo nas despesas médicas suplementares e na invalidez permanente: pode ser acrescentado ao boletim de atendimento hospitalar relatório de internamento ou tratamento, fornecido pela rede hospitalar e previdenciária mediante pedido dos interessados. O nexo causal é também filtro de enquadramento no barema: só entram lesões diretamente decorrentes do acidente (art. 3º, §1º).",
+  "porAlt": [
+   "Correta: certidão de necrópsia fornecida diretamente pelo IML, sem requisição.",
+   "A lei prevê a certidão de necrópsia do IML, não declaração do médico assistente.",
+   "Não se exige ação judicial; a lei resolve o nexo pela certidão de necrópsia.",
+   "O §3º dispensa expressamente a requisição ou autorização da autoridade policial.",
+   "A lei atribui a prova ao IML, não a perito contratado pela seguradora."
+  ]
+ },
+ {
+  "q": "Antes da Lei nº 11.482/2007, como o art. 3º da Lei nº 6.194/1974 fixava os valores das coberturas por morte, por invalidez permanente e por despesas de assistência médica?",
+  "alts": [
+   "Em 30, até 30 e até 6 vezes o maior salário-mínimo vigente no País, respectivamente",
+   "Em 40, até 20 e até 4 vezes o maior salário-mínimo vigente no País, respectivamente",
+   "Em 50, até 50 e até 10 vezes o maior salário-mínimo vigente no País, respectivamente",
+   "Em 40, até 40 e até 8 vezes o maior salário-mínimo vigente no País, respectivamente",
+   "Em 20, até 20 e até 4 vezes o maior salário-mínimo vigente no País, respectivamente"
+  ],
+  "gab": 3,
+  "tema": "securitaria",
+  "sub": "DPVAT: evolução dos valores",
+  "base": "Lei nº 6.194/1974, art. 3º, alíneas a, b e c (redação original, revogadas pela Lei nº 11.482/2007) e incisos I a III",
+  "coment": "Na redação original, o art. 3º fixava as coberturas em múltiplos do maior salário-mínimo vigente no País: a) 40 vezes no caso de morte; b) até 40 vezes no caso de invalidez permanente; c) até 8 vezes, como reembolso à vítima, no caso de despesas de assistência médica e suplementares devidamente comprovadas. A Lei nº 11.482/2007 revogou as alíneas e introduziu os incisos em reais: R$ 13.500,00 por morte, até R$ 13.500,00 por invalidez permanente e até R$ 2.700,00 de reembolso de despesas. Note que a proporção se manteve: morte e invalidez com o mesmo teto, e as despesas com um quinto dele (8/40, ou R$ 2.700/13.500).",
+  "porAlt": [
+   "Os múltiplos da redação original eram 40, 40 e 8, e não 30, 30 e 6.",
+   "Morte e invalidez tinham o mesmo teto, de 40 vezes, e as despesas até 8.",
+   "Os múltiplos originais eram 40, 40 e 8, e não 50, 50 e 10 salários.",
+   "Correta: 40, até 40 e até 8 salários-mínimos, alíneas a, b e c originais.",
+   "A redação original fixava 40, 40 e 8 vezes, e não 20, 20 e 4 salários."
+  ]
+ },
+ {
+  "q": "Periciado tem perda parcial incompleta da função de um pé, com repercussão leve, já consolidada. Pela Lei nº 6.194/1974, qual é a indenização por invalidez permanente?",
+  "alts": [
+   "R$ 1.687,50, aplicando 25% sobre os 50% do pé no teto da cobertura",
+   "R$ 3.375,00, aplicando 25% direto sobre o teto, sem enquadrar o pé",
+   "R$ 6.750,00, aplicando os 50% do pé sem redução pela repercussão",
+   "R$ 3.375,00, aplicando 50% sobre os 50% do pé no teto da cobertura",
+   "R$ 675,00, aplicando 10% sobre os 50% do pé no teto da cobertura"
+  ],
+  "gab": 0,
+  "tema": "securitaria",
+  "sub": "Invalidez parcial incompleta: cálculo",
+  "base": "Lei nº 6.194/1974, art. 3º, II e §1º, II (redação da Lei nº 11.945/2009), e tabela anexa (perda anatômica e/ou funcional completa de um dos pés: 50%)",
+  "coment": "A perda anatômica e/ou funcional completa de um dos pés vale 50% na tabela anexa. Por ser parcial INCOMPLETA, aplica-se a redução proporcional do art. 3º, §1º, II, que para a repercussão LEVE corresponde a 25% (intensa 75%, média 50%, sequelas residuais 10%). A conta é em duas etapas: 50% × 25% = 12,5% do teto de R$ 13.500,00 = R$ 1.687,50. Aplicar os 25% direto sobre o teto ignora o enquadramento do segmento; usar 50% é trocar o degrau pela repercussão média; usar 10% é tratar como sequela residual. Sem redução alguma, seria a perda completa do pé (R$ 6.750,00).",
+  "porAlt": [
+   "Correta: 50% (pé) × 25% (leve) = 12,5% de R$ 13.500,00 = R$ 1.687,50.",
+   "Pula o enquadramento: a redução incide sobre os 50% do pé, não sobre o teto.",
+   "Sem redução seria a perda completa; na incompleta a redução é obrigatória.",
+   "A redução de 50% é da repercussão média; a leve corresponde a 25%.",
+   "A redução de 10% é para sequelas residuais; a repercussão leve é 25%."
+  ]
+ }
+]

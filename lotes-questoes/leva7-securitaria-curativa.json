@@ -12,7 +12,7 @@
   "tema": "securitaria",
   "sub": "Coberturas do DPVAT",
   "base": "Lei nº 6.194/1974, art. 3º, I a III, com a redação dada pela Lei nº 11.482/2007.",
-  "coment": "O art. 3º fixava três coberturas por pessoa vitimada: R$ 13.500,00 no caso de MORTE; ATÉ R$ 13.500,00 no caso de INVALIDEZ PERMANENTE, valor proporcional ao grau apurado pela tabela anexa à lei; e ATÉ R$ 2.700,00 como reembolso de DESPESAS DE ASSISTÊNCIA MÉDICA E SUPLEMENTARES devidamente comprovadas. Repare na diferença de redação: a indenização por morte é um valor fixo, enquanto as outras duas são tetos. Um detalhe frequentemente cobrado está no §2º: o seguro NÃO contempla despesas decorrentes de atendimento médico ou hospitalar efetuado em estabelecimento credenciado ao SUS, mesmo que em caráter privado, sendo vedado o pagamento de qualquer indenização nesses casos.",
+  "coment": "O art. 3º fixava três coberturas por pessoa vitimada: R$ 13.500,00 no caso de MORTE; ATÉ R$ 13.500,00 no caso de INVALIDEZ PERMANENTE, valor proporcional ao grau apurado pela tabela anexa à lei; e ATÉ R$ 2.700,00 como reembolso de DESPESAS DE ASSISTÊNCIA MÉDICA E SUPLEMENTARES devidamente comprovadas. Repare na diferença de redação: a indenização por morte é um valor fixo, enquanto as outras duas são tetos. Um detalhe frequentemente cobrado está nos §§2º e 3º (redação da Lei nº 11.945/2009): o reembolso de até R$ 2.700,00 é assegurado para despesas efetuadas na rede credenciada ao SUS QUANDO EM CARÁTER PRIVADO, e é vedado quando o atendimento foi REALIZADO PELO SUS.",
   "porAlt": [
    "Os tetos de invalidez e de despesas médicas estão dobrados em relação aos previstos no texto legal.",
    "O valor da indenização por morte não é de vinte e sete mil reais, e sim de treze mil e quinhentos.",
@@ -264,25 +264,25 @@
   ]
  },
  {
-  "q": "Segundo a Lei nº 6.194/1974, o seguro DPVAT contemplava as despesas de atendimento médico realizado em estabelecimento credenciado ao Sistema Único de Saúde?",
+  "q": "Pela redação vigente da Lei nº 6.194/1974, dada pela Lei nº 11.945/2009, como ficavam as despesas médicas da vítima atendida em hospital credenciado ao Sistema Único de Saúde?",
   "alts": [
-   "Não, sendo vedado o pagamento de qualquer indenização nesses casos, mesmo se em caráter privado",
-   "Sim, com reembolso integral das despesas comprovadas, independentemente do estabelecimento utilizado",
-   "Sim, desde que o atendimento tenha ocorrido em caráter privado dentro do estabelecimento credenciado",
-   "Não, salvo quando o atendimento tenha sido prestado em unidade de terapia intensiva do hospital",
-   "Sim, com reembolso limitado à metade do teto previsto para as despesas de assistência médica"
+   "Reembolso de até R$ 2.700 se o atendimento foi privado; vedado se foi realizado pelo próprio SUS",
+   "Reembolso integral das despesas comprovadas, qualquer que tenha sido a forma do atendimento dado",
+   "Vedado qualquer reembolso, mesmo em caráter privado, por se tratar de hospital da rede credenciada",
+   "Reembolso de até R$ 2.700 apenas quando o atendimento ocorreu em unidade de terapia intensiva",
+   "Reembolso limitado à metade do teto de assistência médica, mesmo quando realizado pelo próprio SUS"
   ],
   "gab": 0,
   "tema": "securitaria",
-  "sub": "Vedação de reembolso em atendimento pelo SUS",
-  "base": "Lei nº 6.194/1974, art. 3º, §2º (incluído pela Medida Provisória nº 451/2008).",
-  "coment": "O §2º do art. 3º é expresso: o seguro não contempla as despesas decorrentes do atendimento médico ou hospitalar efetuado em estabelecimento ou em hospital CREDENCIADO AO SUS, MESMO QUE EM CARÁTER PRIVADO, sendo vedado o pagamento de qualquer indenização nesses casos. A razão é evitar a dupla remuneração pelo mesmo atendimento, já que o hospital credenciado é remunerado pelo próprio sistema público. A cobertura de despesas de assistência médica e suplementares, limitada a R$ 2.700,00, operava por REEMBOLSO à vítima, mediante comprovação — diferentemente da indenização por morte, de valor fixo, e da indenização por invalidez permanente, apurada por enquadramento na tabela anexa e graduada conforme a repercussão da perda.",
+  "sub": "Despesas médicas na rede credenciada ao SUS",
+  "base": "Lei nº 6.194/1974, art. 3º, §§2º e 3º (redação da Lei nº 11.945/2009).",
+  "coment": "O §2º do art. 3º, na redação da Lei nº 11.945/2009, ASSEGURA à vítima o reembolso de até R$ 2.700,00 das despesas médico-hospitalares comprovadas efetuadas pela rede credenciada junto ao SUS, QUANDO EM CARÁTER PRIVADO, vedada a cessão de direitos. O §3º completa: essas despesas em nenhuma hipótese poderão ser reembolsadas quando o atendimento for REALIZADO PELO SUS, sob pena de descredenciamento do estabelecimento. O critério, portanto, é a natureza do atendimento, e não o credenciamento do hospital. Cuidado com o texto superado: a MP nº 451/2008 tinha incluído um §2º que vedava o pagamento 'mesmo que em caráter privado' — redação substituída pela Lei nº 11.945/2009.",
   "porAlt": [
-   "Correta: a lei veda expressamente o pagamento de indenização nessa hipótese, mesmo em caráter privado.",
-   "O reembolso não é integral nem indiferente ao estabelecimento: há vedação legal específica no caso.",
-   "A ressalva do caráter privado é justamente o que a lei afasta ao vedar o pagamento nessa hipótese.",
-   "A vedação não comporta a exceção da terapia intensiva mencionada, sendo aplicável de forma ampla.",
-   "Não há previsão de reembolso parcial: a lei veda qualquer indenização na hipótese descrita no enunciado."
+   "Correta: o atendimento privado na rede credenciada é reembolsável; o realizado pelo SUS é vedado.",
+   "O reembolso tem teto de R$ 2.700 e é vedado quando o atendimento foi realizado pelo próprio SUS.",
+   "É o texto superado da MP nº 451/2008; a Lei nº 11.945/2009 passou a admitir o atendimento privado.",
+   "A lei não restringe o reembolso ao atendimento em terapia intensiva; o critério é o caráter privado.",
+   "Não há reembolso parcial: quando o atendimento é realizado pelo SUS, o reembolso é sempre vedado."
   ]
  }
 ]

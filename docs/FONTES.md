@@ -78,3 +78,27 @@ Era **download truncado**: baixado inteiro, tem 4,6 MB, 42 páginas e 88 KB de t
 | FAA PHAK cap. 15 (fatores aeromédicos) | `download.aopa.org/epilot/2008/8083-25-chap15.pdf` — tabela de tempo útil de consciência e intervalo mergulho→voo |
 | Projeto WRIGHT (OMS) | `who.int/news/item/29-06-2007-study-results-released-on-travel-and-blood-clots` |
 | CIVP / febre amarela | `gov.br/pt-br/servicos/obter-o-certificado-internacional-de-vacinacao-e-profilaxia` e `gov.br/saude/.../febre-amarela/viajantes` |
+| CLT compilada (art. 168 §§6º-7º; arts. 235-A a 235-H com marcas "Vide ADI 5322") | `planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm` — `curl -skL -A "Mozilla/5.0"` funciona (latin-1) → `fontes/clt.txt` |
+| Lei 14.599/2023 (art. 5º: MTE regulamenta toxicológico da CLT) | `planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14599.htm` → `fontes/lei14599.txt` |
+| NORMAM-211/DPC (esporte e recreio; amadores, ed. 2026) | `assets.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-211.pdf` → `fontes/normam211.txt` (cap. 5 = habilitação/atestado; 7.12 = embriaguez) |
+| Diretrizes OIT/OMI exames médicos de marítimos (2011) | `imhf-portal.org/wp-content/uploads/2023/10/ILO-IMO-Guidelines-on-the-medical-examinations-of-seafarers.pdf` → `fontes/ilo_imo_seafarers.txt` |
+| **Res. CONTRAN 1.031/2026** (fiscalização de álcool e substâncias; **revoga a 432/2013**, art. 15) | `gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao10312026.pdf` |
+| **Res. CONTRAN 1.020/2025** (processo de habilitação; **revoga a 789/2020**, art. 140, IV; art. 33 §2º = tempo dobrado do teórico) | `gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao10202025.pdf` |
+| Res. CONTRAN 819/2021 (dispositivo de retenção infantil — vigente) | `gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf` |
+| Res. CONTRAN 996/2023 (patinetes/autopropelidos) | mesmo diretório, `Resolucao9962023.pdf` |
+| Lei 15.503/2026 (art. 14 inclui o §2º-A do art. 143 do CTB: B dirige elétrico/híbrido até 4.250 kg; vigência na publicação, 14/09/2026) | `planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15503.htm` |
+| Código Civil (art. 792 **revogado** pela Lei 15.040/2024 — o art. 4º da Lei 6.194 remete a ele) | `planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm` |
+| ADI 5322 (STF) — acórdão de mérito e embargos (Lei do Motorista) | cópias do TRT-3 (o site do STF bloqueia); ver `fontes/adi5322-*.txt` |
+| NORMAM-101 e NORMAM-212 (DPC) | `assets.marinha.mil.br/sites/default/files/atos-normativos/dpc/normam/normam-101.pdf` / `normam-212.pdf` |
+| MLC 2006 (com emendas de 2018) | site da OIT (`ilo.org`), PDF consolidado |
+| SAMU 192 — Suporte **Avançado** de Vida | `gov.br/saude/pt-br/composicao/saes/samu-192/publicacoes/protocolo-de-suporte-avancado-de-vida-1.pdf/@@download/file` (baixar com `chunk2.py`) |
+| CDC Yellow Book 2026 | `cdc.gov` responde **403 ao curl** — usar a cópia do Wayback Machine (`web.archive.org/web/2026/https://www.cdc.gov/yellow-book/...`) |
+| FAA PHAK (edição 25C) cap. 17 e folhetos "Medical Facts for Pilots" | `faa.gov/regulations_policies/handbooks_manuals/aviation/phak` e `faa.gov/pilots/safety/pilotsafetybrochures/` |
+| OMS — Plano Global da Década de Ação 2021–2030 | `cdn.who.int/media/docs/default-source/documents/health-topics/road-traffic-injuries/global-plan-for-road-safety.pdf` |
+| OMS — World report on road traffic injury prevention (2004) | IRIS virou app JS; baixar pela API `iris.who.int/server/api/core/bitstreams/5424956f-d550-4569-ad6c-2a087e960c3f/content` |
+| RSI 2005 consolidado (OMS, Anexos 6 e 7 — febre amarela) | `who.int` — IHR (2005) third edition / consolidado com emendas de 2024 |
+
+## Pasta `fontes/` (local, fora do git)
+Extrações em texto de TODAS as fontes acima ficam em `fontes/*.txt` (gitignored — há material licenciado, como as
+diretrizes ABRAMET). Se a pasta sumir, rebaixar por esta tabela. `docs/roteiros/BRIEF-*.md` (cópia versionada; os agentes leem de `fontes/`) são os roteiros usados para
+redigir e verificar questões e leituras com agentes em paralelo.

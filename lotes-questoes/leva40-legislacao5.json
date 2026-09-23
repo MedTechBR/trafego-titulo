@@ -1,0 +1,552 @@
+[
+ {
+  "q": "Condutor sem atividade remunerada ao veículo acumula, em 12 meses, uma infração gravíssima, três graves e duas médias. Segundo os arts. 259 e 261 do CTB, qual é a situação?",
+  "alts": [
+   "Soma 30 pontos e não atinge o limite, pois a suspensão só ocorre ao completar 40 pontos em 12 meses",
+   "Soma 28 pontos e não atinge o limite de 30 pontos aplicável a quem tem uma só infração gravíssima",
+   "Soma 30 pontos, mas a suspensão exige duas gravíssimas, cujo limite de contagem é de só 20 pontos",
+   "Soma 30 pontos e, com uma gravíssima, atinge o limite de 30: cabe a suspensão do direito de dirigir",
+   "Soma 34 pontos e ultrapassa o limite, cabendo a cassação do documento de habilitação do condutor"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Pontuação e suspensão (arts. 259 e 261)",
+  "base": "CTB, art. 259, I a IV, e art. 261, I, a a c (redação da Lei nº 14.071/2020).",
+  "coment": "O art. 259 atribui 7 pontos à infração gravíssima, 5 à grave, 4 à média e 3 à leve. O art. 261, I, na redação da Lei nº 14.071/2020, impõe a suspensão do direito de dirigir quando o infrator atinge, em 12 meses: 20 pontos, se houver duas ou mais gravíssimas; 30 pontos, se houver uma gravíssima; 40 pontos, se não houver nenhuma gravíssima. No caso: 7 + (3 × 5) + (2 × 4) = 30 pontos com uma gravíssima, exatamente o limite, e a lei diz 'atingir'. A escada 20/30/40 depende do número de gravíssimas, não da natureza das demais infrações. Para quem exerce atividade remunerada vale regra própria (§5º).",
+  "porAlt": [
+   "O limite de 40 pontos vale só quando não há nenhuma gravíssima; aqui há uma.",
+   "A soma correta é 30: 7 + 15 + 8. A grave vale cinco pontos e a média, quatro.",
+   "Com uma gravíssima o limite é de 30 pontos; o de 20 se aplica a duas ou mais gravíssimas.",
+   "Correta: 7 (gravíssima) + 3 × 5 (graves) + 2 × 4 (médias) = 30; com uma gravíssima, o limite é 30 pontos (art. 261, I, b).",
+   "A soma é 30, e atingir o limite de pontos leva à suspensão (art. 261), não à cassação."
+  ]
+ },
+ {
+  "q": "Condutor acumula, em 12 meses, sete infrações graves e uma leve, nenhuma gravíssima. Segundo os arts. 259 e 261 do CTB, qual é a situação?",
+  "alts": [
+   "Soma 38 pontos e é suspenso, pois o limite de quem não tem gravíssima é de 30 pontos",
+   "Soma 38 pontos e não é suspenso, pois sem gravíssima o limite é de 40 pontos em 12 meses",
+   "Soma 42 pontos e é suspenso, pois ultrapassou o limite legal de 40 pontos em doze meses",
+   "Soma 38 pontos e é suspenso, pois o limite de 20 pontos vale para quem acumula graves",
+   "Soma 36 pontos e não é suspenso, pois as infrações leves não são computadas no total"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Pontuação sem gravíssima (arts. 259 e 261)",
+  "base": "CTB, art. 259 e art. 261, I, c (redação da Lei nº 14.071/2020).",
+  "coment": "Pelo art. 259, cada infração grave vale 5 pontos e a leve, 3: sete graves e uma leve somam 35 + 3 = 38 pontos. Como não há nenhuma infração gravíssima, o limite do art. 261, I, c, é de 40 pontos em 12 meses, e ele ainda não foi atingido. A Lei nº 14.071/2020 substituiu o antigo limite único por uma escada que depende só do número de gravíssimas (20, 30 ou 40 pontos). Lembre também que o art. 267 obriga advertência por escrito, em vez de multa, na infração leve ou média de quem não cometeu outra infração nos últimos 12 meses, e que a suspensão por pontos elimina os pontos computados (art. 261, §3º).",
+  "porAlt": [
+   "O limite de 30 pontos é para quem tem uma gravíssima; sem gravíssima, são 40.",
+   "Correta: 7 × 5 + 3 = 38 pontos; sem nenhuma gravíssima, o limite do art. 261, I, c, é de 40 pontos.",
+   "A soma correta é 38 (7 graves × 5 + 1 leve × 3), abaixo do limite de 40.",
+   "O limite de 20 pontos depende de duas ou mais gravíssimas, não de infrações graves.",
+   "A infração leve vale três pontos (art. 259, IV) e entra na contagem, que chega a 38."
+  ]
+ },
+ {
+  "q": "Segundo o art. 261, §1º, do CTB, qual é o prazo da suspensão do direito de dirigir aplicada por atingir o limite de pontos?",
+  "alts": [
+   "De dois a oito meses; havendo reincidência em doze meses, de oito a dezoito meses",
+   "De seis meses a um ano; na reincidência em doze meses, de oito meses a dois anos",
+   "De um mês a um ano; havendo reincidência em doze meses, de seis meses a dois anos",
+   "De doze meses fixos; havendo reincidência em doze meses, cassação da habilitação",
+   "De dois meses a cinco anos, graduada pela autoridade conforme o total de pontos"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Prazos da suspensão (art. 261, §1º)",
+  "base": "CTB, art. 261, §1º, I e II (redação da Lei nº 13.281/2016).",
+  "coment": "O §1º do art. 261 (Lei nº 13.281/2016) diferencia os prazos da suspensão administrativa: I - por pontuação (inciso I do caput), de 6 meses a 1 ano e, havendo reincidência em 12 meses, de 8 meses a 2 anos; II - por infração que prevê suspensão de forma específica (inciso II do caput), de 2 a 8 meses, exceto quando o próprio dispositivo fixa o prazo (como os 12 meses dos arts. 165 e 165-A), e, na reincidência em 12 meses, de 8 a 18 meses. Não confundir com a suspensão ou proibição penal do art. 293, de 2 meses a 5 anos, imposta pelo juiz em crimes de trânsito.",
+  "porAlt": [
+   "Esses prazos (2 a 8 meses; 8 a 18 na reincidência) são da suspensão por infração específica (inciso II).",
+   "Correta: é o inciso I do §1º do art. 261, para a suspensão por pontuação (inciso I do caput).",
+   "Os prazos de um mês e de seis meses a dois anos não constam do art. 261.",
+   "Doze meses fixos é o prazo de infrações específicas como a do art. 165, não da suspensão por pontos.",
+   "Dois meses a cinco anos é a duração da suspensão penal do art. 293, não da administrativa."
+  ]
+ },
+ {
+  "q": "Condutor termina de cumprir a suspensão do direito de dirigir aplicada por pontuação. Segundo o CTB, o que é exigido para a devolução da CNH e o que ocorre com os pontos que motivaram a penalidade?",
+  "alts": [
+   "Devolução imediata ao fim do prazo; os pontos permanecem no prontuário por mais doze meses",
+   "Devolução após novo exame de aptidão física e mental; os pontos são reduzidos pela metade",
+   "Devolução após cumprida a pena e o curso de reciclagem; os pontos computados são eliminados",
+   "Devolução após novo exame de direção veicular; os pontos seguem na contagem subsequente",
+   "Devolução após o curso de reciclagem; os pontos só se eliminam após cinco anos sem infração"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Fim da suspensão: devolução e pontos (art. 261, §§2º e 3º)",
+  "base": "CTB, art. 261, §§2º e 3º; art. 268, II.",
+  "coment": "O §2º do art. 261 dispõe que, ocorrendo a suspensão, 'a Carteira Nacional de Habilitação será devolvida a seu titular imediatamente após cumprida a penalidade e o curso de reciclagem'. O art. 268, II, confirma que o infrator suspenso é submetido a curso de reciclagem. Já o §3º (redação da Lei nº 14.071/2020) estabelece que 'a imposição da penalidade de suspensão do direito de dirigir elimina a quantidade de pontos computados' para fins de contagem subsequente. A suspensão não exige novos exames médicos; novos exames são exigidos, por exemplo, na reabilitação após cassação (art. 263, §2º) e no condenado por delito de trânsito (art. 160).",
+  "porAlt": [
+   "A devolução depende também do curso de reciclagem (art. 268, II), e os pontos são eliminados.",
+   "O CTB não exige novo exame de aptidão para devolver a CNH suspensa nem reduz pontos à metade.",
+   "Correta: o §2º devolve a CNH após cumprida a penalidade e o curso de reciclagem, e o §3º elimina os pontos para contagem subsequente.",
+   "Não há novo exame de direção na suspensão, e os pontos são eliminados (§3º).",
+   "A eliminação dos pontos é efeito da própria imposição da suspensão, sem prazo de cinco anos."
+  ]
+ },
+ {
+  "q": "Condutor comete uma infração de natureza média, punível com multa. Nos 12 meses anteriores, não cometeu nenhuma outra infração. Segundo o art. 267 do CTB, qual penalidade deve ser imposta?",
+  "alts": [
+   "Multa, pois a advertência por escrito só é aplicável às infrações de natureza leve cometidas",
+   "Advertência por escrito, desde que o condutor a requeira no prazo da defesa prévia do auto",
+   "Multa reduzida à metade, benefício previsto a quem não tem infração nos últimos doze meses",
+   "Advertência verbal do agente no momento da abordagem, dispensada a lavratura do auto de infração",
+   "Advertência por escrito, obrigatória na infração leve ou média sem outra infração em 12 meses"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Advertência por escrito (art. 267)",
+  "base": "CTB, art. 267 (redação da Lei nº 14.071/2020); art. 256, I.",
+  "coment": "Na redação dada pela Lei nº 14.071/2020, o art. 267 dispõe: 'Deverá ser imposta a penalidade de advertência por escrito à infração de natureza leve ou média, passível de ser punida com multa, caso o infrator não tenha cometido nenhuma outra infração nos últimos 12 (doze) meses'. O verbo é impositivo e os antigos §§1º e 2º foram revogados. A advertência por escrito é a primeira penalidade do rol do art. 256 (advertência, multa, suspensão, cassação da CNH, cassação da Permissão e curso de reciclagem). Grave e gravíssima ficam fora do benefício. A pegadinha é achar que depende de pedido ou que só vale para a leve.",
+  "porAlt": [
+   "O art. 267 alcança tanto a infração leve quanto a média.",
+   "A redação atual usa 'deverá ser imposta': a advertência independe de requerimento do infrator.",
+   "O CTB não prevê redução da multa à metade como benefício pela ausência de infrações.",
+   "A advertência do art. 267 é por escrito e é penalidade (art. 256, I); não substitui o auto.",
+   "Correta: o art. 267 (Lei nº 14.071/2020) diz que 'deverá ser imposta' a advertência nas infrações leves ou médias sem outra infração em 12 meses."
+  ]
+ },
+ {
+  "q": "Condutor que contribuiu para sinistro grave é submetido a curso de reciclagem com base no art. 268, III, do CTB, independentemente de processo judicial. Segundo o parágrafo único desse artigo, o que mais é exigido?",
+  "alts": [
+   "Novo exame de direção veicular, exigido também quando o condutor é suspenso por pontuação",
+   "Novo exame de aptidão física e mental, exigido em todas as hipóteses de curso de reciclagem",
+   "Exame toxicológico de larga janela, exigido também quando o condutor é suspenso por pontuação",
+   "Nenhuma outra exigência, pois a avaliação psicológica só ocorre na primeira habilitação",
+   "Avaliação psicológica, exigida também na condenação por delito e em quem arrisca o trânsito"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Reciclagem e avaliação psicológica (art. 268)",
+  "base": "CTB, art. 268, II a V e parágrafo único (Lei nº 14.071/2020; inciso III com redação da Lei nº 14.599/2023).",
+  "coment": "O art. 268 lista quando o infrator é submetido a curso de reciclagem: II - quando suspenso do direito de dirigir; III - quando se envolver em sinistro grave para o qual haja contribuído, independentemente de processo judicial; IV - quando condenado judicialmente por delito de trânsito; V - a qualquer tempo, se constatado que o condutor está colocando em risco a segurança do trânsito. O parágrafo único, incluído pela Lei nº 14.071/2020, acrescenta a avaliação psicológica nos casos dos incisos III, IV e V. Na suspensão por pontos (inciso II), basta a reciclagem. Relacione com o art. 147, §3º, que exige avaliação psicológica na primeira habilitação e em toda renovação de quem exerce atividade remunerada.",
+  "porAlt": [
+   "O art. 268 não exige novo exame de direção; o acréscimo do parágrafo único é a avaliação psicológica.",
+   "O parágrafo único não fala em exame de aptidão física e mental, e não abrange todas as hipóteses.",
+   "O art. 268 não prevê exame toxicológico; o toxicológico está no art. 148-A.",
+   "A avaliação psicológica também é exigida em outras hipóteses, como as do parágrafo único do art. 268.",
+   "Correta: o parágrafo único manda submeter à avaliação psicológica nos casos dos incisos III, IV e V do art. 268."
+  ]
+ },
+ {
+  "q": "Segundo o CTB, a quem compete organizar e manter o RENACH e o Registro Nacional Positivo de Condutores, e a quem compete credenciar entidades para atividades de trânsito, como as clínicas de exames?",
+  "alts": [
+   "Ao CONTRAN os registros nacionais; ao CETRAN o credenciamento das clínicas de exames no Estado",
+   "Ao órgão executivo estadual os registros; ao órgão máximo executivo da União o credenciamento",
+   "Ao CETRAN os registros nacionais; às JARI o credenciamento das entidades médicas e psicológicas",
+   "À União (órgão máximo executivo) os registros; ao órgão executivo estadual o credenciamento",
+   "Ao órgão executivo municipal os registros; ao CONTRAN o credenciamento das clínicas de exames"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Competências: União e órgão estadual (arts. 19 e 22)",
+  "base": "CTB, art. 19, VIII e XXXI; art. 22, X; art. 148, caput e §6º.",
+  "coment": "O art. 19 atribui ao órgão máximo executivo de trânsito da União (hoje a Senatran), entre outras tarefas, 'organizar e manter o Registro Nacional de Carteiras de Habilitação - RENACH' (VIII) e 'organizar, manter e atualizar o RNPC' (XXXI). O art. 22, X, dá aos órgãos executivos estaduais a competência de 'credenciar órgãos ou entidades para a execução de atividades previstas na legislação de trânsito, na forma estabelecida em norma do CONTRAN', e o caput do art. 148 confirma o credenciamento das entidades de exame pelo órgão estadual. Novidade da Lei nº 15.428/2026: o perito (pessoa física) passou a ser autorizado pela União (art. 148, §6º).",
+  "porAlt": [
+   "O CONTRAN normatiza; os registros são do órgão executivo da União, e o CETRAN não credencia clínicas.",
+   "A atribuição está invertida: registros nacionais com a União e credenciamento com o Estado.",
+   "O CETRAN não mantém registros nacionais, e as JARI apenas julgam recursos de infrações.",
+   "Correta: o art. 19, VIII e XXXI, dá à União o RENACH e o RNPC; o art. 22, X, e o art. 148 dão ao órgão estadual o credenciamento.",
+   "O órgão municipal não mantém o RENACH, e o CONTRAN não credencia clínicas."
+  ]
+ },
+ {
+  "q": "Segundo o art. 277, §2º, do CTB, além do teste de alcoolemia, o que a lei admite ou exige para caracterizar a infração do art. 165?",
+  "alts": [
+   "Exige exame de sangue em laboratório oficial, colhido em até duas horas após a abordagem do condutor",
+   "Admite imagem, vídeo, sinais de alteração psicomotora ou quaisquer outras provas em direito admitidas",
+   "Exige exame clínico feito por médico perito examinador de trânsito credenciado no respectivo Estado",
+   "Exige a confissão do condutor registrada no auto de infração, com a assinatura de uma testemunha",
+   "Exige etilômetro homologado pelo INMETRO, vedado o uso de vídeo ou de testemunho como meio de prova"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Meios de prova da infração de álcool (art. 277, §2º)",
+  "base": "CTB, art. 277, caput e §2º (redação das Leis nº 12.760/2012 e 14.599/2023).",
+  "coment": "O caput do art. 277 (redação da Lei nº 14.599/2023) permite submeter o condutor envolvido em sinistro ou alvo de fiscalização a 'teste, exame clínico, perícia ou outro procedimento' que permita certificar influência de álcool ou outra substância psicoativa. O §2º (Lei nº 12.760/2012) amplia a prova da infração: 'A infração prevista no art. 165 também poderá ser caracterizada mediante imagem, vídeo, constatação de sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora ou produção de quaisquer outras provas em direito admitidas'. O §3º manda aplicar o art. 165-A a quem recusar qualquer desses procedimentos. Na regulamentação atual (Resolução CONTRAN nº 1.031/2026), a constatação por sinais exige pelo menos dois sinais (art. 7º, §1º), e imagem e vídeo entram como meios suplementares (art. 3º, §4º).",
+  "porAlt": [
+   "O CTB não restringe a prova ao exame de sangue nem fixa prazo de duas horas.",
+   "Correta: o §2º admite imagem, vídeo, constatação de sinais que indiquem alteração da capacidade psicomotora ou outras provas admitidas.",
+   "O exame clínico é um dos meios possíveis (art. 277, caput), não o único.",
+   "A lei não exige confissão; admite vídeo, imagem, sinais e outras provas.",
+   "O §2º admite expressamente imagem e vídeo como meios de caracterização."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus urbano, no exercício da profissão, atropela e mata pedestre por imprudência, fora da faixa, e presta socorro imediato. Segundo o art. 302 do CTB, qual é a situação quanto à pena?",
+  "alts": [
+   "Homicídio culposo, detenção de dois a quatro anos, sem aumento, pois houve socorro à vítima",
+   "Homicídio culposo, reclusão de cinco a oito anos, pela condição de condutor profissional",
+   "Homicídio culposo, detenção de seis meses a dois anos, aumentada de um terço pela profissão",
+   "Homicídio culposo, detenção de dois a quatro anos, aumentada até o dobro pela profissão exercida",
+   "Homicídio culposo, detenção de dois a quatro anos, aumentada de 1/3 à metade pela profissão"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Homicídio culposo e causas de aumento (art. 302, §1º)",
+  "base": "CTB, art. 302, caput e §1º, I a IV (Lei nº 12.971/2014; inciso III com redação da Lei nº 14.599/2023).",
+  "coment": "O art. 302 pune o homicídio culposo na direção de veículo automotor com detenção de dois a quatro anos e suspensão ou proibição de obter a permissão ou habilitação. O §1º aumenta a pena de 1/3 à metade se o agente: I - não possuir Permissão ou CNH; II - praticá-lo em faixa de pedestres ou na calçada; III - deixar de prestar socorro, quando possível sem risco pessoal; IV - no exercício da profissão ou atividade, estiver conduzindo veículo de transporte de passageiros. No caso, o atropelamento foi fora da faixa e houve socorro, mas incide o inciso IV. O §3º (álcool ou psicoativo) muda a pena para reclusão de cinco a oito anos.",
+  "porAlt": [
+   "O socorro afasta só a causa do inciso III; a profissão (inciso IV) continua a aumentar a pena.",
+   "Reclusão de cinco a oito anos é a pena do §3º (influência de álcool ou psicoativo).",
+   "Seis meses a dois anos é a pena da lesão corporal culposa (art. 303).",
+   "O aumento legal é de um terço à metade, não do dobro.",
+   "Correta: o §1º, IV, aumenta a pena de 1/3 à metade se o agente, no exercício da profissão, conduz veículo de transporte de passageiros."
+  ]
+ },
+ {
+  "q": "Após colisão com vítima, o condutor presta pronto e integral socorro a ela. Segundo o art. 301 do CTB, qual é o efeito dessa conduta?",
+  "alts": [
+   "Fica extinta a punibilidade de eventual lesão corporal culposa",
+   "A pena de eventual condenação é reduzida de um terço à metade",
+   "Fica dispensado de comparecer à delegacia para registrar o fato",
+   "Não se lhe imporá multa nem suspensão do direito de dirigir",
+   "Não se lhe imporá prisão em flagrante nem se exigirá fiança"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Socorro e prisão em flagrante (art. 301)",
+  "base": "CTB, art. 301 (redação da Lei nº 14.599/2023).",
+  "coment": "O art. 301 (redação da Lei nº 14.599/2023) dispõe: 'Ao condutor de veículo, nos casos de sinistros de trânsito que resultem em vítima, não se imporá a prisão em flagrante nem se exigirá fiança, se prestar pronto e integral socorro àquela'. É um estímulo legal ao socorro, com efeito processual: não extingue o crime nem reduz a pena. O reverso aparece em três dispositivos: a omissão de socorro é crime autônomo (art. 304), é causa de aumento no homicídio culposo (art. 302, §1º, III) e na lesão culposa (art. 303, §1º), e afastar-se do local para fugir à responsabilidade é o crime do art. 305.",
+  "porAlt": [
+   "O socorro não extingue a punibilidade; tem efeito processual sobre o flagrante e a fiança.",
+   "O CTB não prevê redução de pena pelo socorro; prevê aumento quando o socorro é omitido.",
+   "O art. 301 não dispensa o registro da ocorrência.",
+   "O socorro não afasta as penalidades administrativas cabíveis.",
+   "Correta: o art. 301 dispõe que não se imporá prisão em flagrante nem se exigirá fiança a quem presta pronto e integral socorro."
+  ]
+ },
+ {
+  "q": "Condutor que, após um sinistro, afasta-se do local para fugir à responsabilidade penal ou civil que lhe possa ser atribuída comete o crime do art. 305 do CTB, cuja pena é:",
+  "alts": [
+   "Detenção de seis meses a um ano, ou multa",
+   "Detenção de seis meses a três anos, e multa",
+   "Reclusão de um a três anos, e também multa",
+   "Detenção de dois a quatro anos, ou multa",
+   "Detenção de um a dois anos, sem multa alguma"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Fuga do local do sinistro (art. 305)",
+  "base": "CTB, art. 305 (caput com redação da Lei nº 14.599/2023).",
+  "coment": "O art. 305 tipifica 'afastar-se o condutor do veículo do local do sinistro, para fugir à responsabilidade penal ou civil que lhe possa ser atribuída', com pena de detenção de seis meses a um ano, ou multa. A mesma pena (seis meses a um ano, ou multa) se repete em vários crimes de perigo do CTB: omissão de socorro (art. 304), dirigir sem habilitação gerando perigo de dano (art. 309), entregar a direção a quem não pode dirigir (art. 310), velocidade incompatível perto de escolas e hospitais (art. 311) e fraude processual em sinistro (art. 312). Fixe a exceção: a embriaguez ao volante (art. 306) vai de seis meses a três anos, com multa e suspensão.",
+  "porAlt": [
+   "Correta: é a pena cominada no art. 305: detenção de seis meses a um ano, ou multa.",
+   "Seis meses a três anos com multa é a pena do art. 306 (embriaguez ao volante).",
+   "O art. 305 prevê detenção, não reclusão, e com máximo de um ano.",
+   "Dois a quatro anos é a pena do homicídio culposo (art. 302).",
+   "A pena do art. 305 admite multa alternativa e tem máximo de um ano."
+  ]
+ },
+ {
+  "q": "Condutor causa lesão corporal culposa na direção, trafegando a 115 km/h em via cuja velocidade máxima é de 60 km/h. Segundo o art. 291, §§1º e 2º, do CTB, qual é a consequência processual?",
+  "alts": [
+   "Aplicam-se normalmente a composição civil, a transação penal e a representação da Lei 9.099/1995",
+   "Aplicam-se os benefícios da Lei 9.099/1995, pois o excesso só os afasta acima de 80 km/h da máxima",
+   "Não se aplicam os arts. 74, 76 e 88 da Lei 9.099/1995, e deve ser instaurado inquérito policial",
+   "Não se aplica a Lei 9.099/1995, e o condutor passa a responder por lesão dolosa, com reclusão",
+   "Aplicam-se os benefícios da Lei 9.099/1995, salvo se o condutor também não tiver habilitação"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Lei 9.099 e lesão culposa (art. 291, §1º)",
+  "base": "CTB, art. 291, §§1º e 2º (incluídos pela Lei nº 11.705/2008).",
+  "coment": "O §1º do art. 291 aplica à lesão corporal culposa de trânsito os arts. 74, 76 e 88 da Lei nº 9.099/1995 (composição civil, transação penal e exigência de representação), exceto se o agente estiver: I - sob influência de álcool ou substância psicoativa; II - participando de corrida, disputa, competição ou exibição não autorizada; III - 'transitando em velocidade superior à máxima permitida para a via em 50 km/h'. Nessas hipóteses, o §2º manda instaurar inquérito policial. A 115 km/h numa via de 60 km/h, o excesso é de 55 km/h, acima do marco. O crime continua culposo; o que muda é o tratamento processual.",
+  "porAlt": [
+   "Esses institutos são afastados quando o agente trafega mais de 50 km/h acima da máxima.",
+   "O marco legal do §1º, III, é de 50 km/h acima da máxima, não 80 km/h.",
+   "Correta: o excesso de 55 km/h supera os 50 km/h do §1º, III, o que afasta os arts. 74, 76 e 88 e impõe inquérito (§2º).",
+   "O afastamento dos benefícios não converte o crime culposo em doloso.",
+   "A falta de habilitação não está entre as exceções do §1º; o excesso de velocidade está."
+  ]
+ },
+ {
+  "q": "Segundo o art. 293 do CTB, qual é a duração da penalidade penal de suspensão ou proibição de se obter a permissão ou a habilitação, e em que prazo o condenado deve entregar o documento?",
+  "alts": [
+   "De dois meses a cinco anos; entrega à autoridade judiciária em 48 horas do trânsito em julgado",
+   "De seis meses a um ano; entrega ao órgão de trânsito em cinco dias depois do trânsito em julgado",
+   "De dois meses a cinco anos; entrega ao órgão de trânsito em trinta dias da sentença de primeiro grau",
+   "De um a dez anos; entrega à autoridade judiciária em 24 horas da publicação da sentença condenatória",
+   "De doze meses fixos; entrega à autoridade policial em 48 horas depois do trânsito em julgado"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Suspensão penal: duração e entrega (art. 293)",
+  "base": "CTB, art. 293, caput e §§1º e 2º; art. 307, parágrafo único.",
+  "coment": "O art. 293 fixa que a penalidade de suspensão ou de proibição de se obter a permissão ou a habilitação 'tem a duração de dois meses a cinco anos'. Pelo §1º, transitada em julgado a sentença condenatória, 'o réu será intimado a entregar à autoridade judiciária, em quarenta e oito horas, a Permissão para Dirigir ou a Carteira de Habilitação'. Deixar de entregar nesse prazo incorre nas penas do art. 307 (parágrafo único). O §2º acrescenta que a penalidade não se inicia enquanto o sentenciado estiver recolhido a estabelecimento prisional. Não confundir com a suspensão administrativa do art. 261, aplicada pela autoridade de trânsito em processo administrativo.",
+  "porAlt": [
+   "Correta: o caput fixa dois meses a cinco anos, e o §1º manda entregar à autoridade judiciária em 48 horas do trânsito em julgado.",
+   "Seis meses a um ano é o prazo da suspensão administrativa por pontos, e a entrega é à autoridade judiciária.",
+   "A duração está certa, mas a entrega é à autoridade judiciária, em 48 horas, após o trânsito em julgado.",
+   "A duração é de dois meses a cinco anos, e o prazo começa do trânsito em julgado.",
+   "Doze meses fixos é prazo administrativo (art. 165); a pena penal varia de dois meses a cinco anos."
+  ]
+ },
+ {
+  "q": "Condenado por crime de trânsito dos arts. 302 a 312 do CTB tem a pena privativa de liberdade substituída por restritiva de direitos. Segundo o art. 312-A, essa pena deverá ser:",
+  "alts": [
+   "Prestação pecuniária à vítima, fixada entre um e trezentos e sessenta salários mínimos pelo juiz",
+   "Limitação de fim de semana, com frequência obrigatória a curso de direção defensiva e cidadania",
+   "Prestação de serviço à comunidade em atividades de resgate, atendimento ou recuperação de vítimas",
+   "Interdição temporária de direitos, com proibição de frequentar bares e casas noturnas da cidade",
+   "Prestação de serviço à comunidade em qualquer entidade assistencial escolhida livremente pelo juiz"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Pena alternativa nos crimes de trânsito (art. 312-A)",
+  "base": "CTB, art. 312-A, I a IV (Lei nº 13.281/2016; incisos II a IV com redação da Lei nº 14.599/2023).",
+  "coment": "O art. 312-A, incluído pela Lei nº 13.281/2016, determina que, nos crimes dos arts. 302 a 312, quando o juiz substituir a pena privativa de liberdade por restritiva de direitos, 'esta deverá ser de prestação de serviço à comunidade ou a entidades públicas', em uma destas atividades: I - trabalho aos fins de semana em equipes de resgate dos bombeiros e outras unidades móveis de atendimento a vítimas de trânsito; II - trabalho em prontos-socorros da rede pública que recebem vítimas de sinistro e politraumatizados; III - trabalho em clínicas ou instituições de recuperação de sinistrados; IV - outras atividades de resgate, atendimento e recuperação de vítimas. A lógica é pedagógica: expor o condenado às consequências do trauma.",
+  "porAlt": [
+   "O art. 312-A não prevê prestação pecuniária; determina prestação de serviço à comunidade.",
+   "A limitação de fim de semana não é a modalidade prevista no art. 312-A.",
+   "Correta: o art. 312-A exige prestação de serviço à comunidade ou a entidades públicas em atividades ligadas a vítimas de trânsito.",
+   "O art. 312-A não prevê interdição de frequentar bares como pena substitutiva.",
+   "O serviço não é em qualquer entidade: o art. 312-A lista atividades ligadas a vítimas de trânsito."
+  ]
+ },
+ {
+  "q": "Condutor multado por órgão executivo de trânsito estadual teve o recurso não provido pela JARI. Segundo os arts. 288 e 289 do CTB, qual é o próximo passo na via administrativa?",
+  "alts": [
+   "Recorrer ao CETRAN em trinta dias da publicação ou da notificação da decisão da JARI",
+   "Recorrer ao CONTRAN em trinta dias da publicação ou da notificação da decisão da JARI",
+   "Recorrer à própria JARI em dez dias, pedindo a reconsideração da decisão já proferida",
+   "Recorrer ao CETRAN em quinze dias, com depósito prévio do valor integral da multa",
+   "Não há recurso administrativo, pois a decisão da JARI encerra a esfera administrativa"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Recurso de multa: JARI e CETRAN (arts. 285 a 289)",
+  "base": "CTB, arts. 16, 17, 285, 286, 288 e 289, II.",
+  "coment": "As JARI (arts. 16 e 17) funcionam junto a cada órgão executivo de trânsito ou rodoviário e julgam os recursos contra as penalidades por eles impostas. O recurso é interposto perante a autoridade que impôs a penalidade, com efeito suspensivo, e ela o remete à JARI em 10 dias (art. 285). O recurso contra multa dispensa o recolhimento do valor (art. 286). Da decisão da JARI cabe recurso em 30 dias da publicação ou notificação (art. 288), julgado, no caso de penalidade estadual, municipal ou distrital, pelo CETRAN ou CONTRANDIFE (art. 289, II), e, no caso de órgão da União, por colegiado especial (art. 289, I). Os recursos devem ser julgados em até 24 meses.",
+  "porAlt": [
+   "Correta: o art. 288 fixa trinta dias da publicação ou notificação, e o art. 289, II, dá ao CETRAN o julgamento de penalidade estadual.",
+   "O CONTRAN não é instância recursal das penalidades estaduais; o art. 289, II, indica o CETRAN.",
+   "Dez dias é o prazo para a autoridade remeter o recurso à JARI (art. 285, §2º), não de reconsideração.",
+   "O prazo é de trinta dias, e o art. 286 dispensa o recolhimento prévio da multa para recorrer.",
+   "Da decisão da JARI cabe recurso, nos termos dos arts. 288 e 289."
+  ]
+ },
+ {
+  "q": "Segundo o art. 7º do CTB, qual dos órgãos abaixo NÃO compõe o Sistema Nacional de Trânsito?",
+  "alts": [
+   "A Polícia Rodoviária Federal, em âmbito federal",
+   "As Polícias Militares de cada Estado e do DF",
+   "As Juntas Administrativas de Recursos (JARI)",
+   "Os Conselhos Regionais de Medicina dos Estados",
+   "Os Conselhos Estaduais de Trânsito, os CETRAN"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Composição do Sistema Nacional de Trânsito (art. 7º)",
+  "base": "CTB, arts. 5º e 7º, I a VII.",
+  "coment": "O art. 7º enumera os integrantes do Sistema Nacional de Trânsito: I - o CONTRAN, coordenador do Sistema e órgão máximo normativo e consultivo; II - os CETRAN e o CONTRANDIFE, órgãos normativos, consultivos e coordenadores; III - os órgãos e entidades executivos de trânsito da União, dos Estados, do DF e dos Municípios; IV - os órgãos executivos rodoviários; V - a Polícia Rodoviária Federal; VI - as Polícias Militares dos Estados e do DF; VII - as JARI. O art. 5º define o SNT como o conjunto de órgãos e entidades da União, Estados, DF e Municípios dedicados a planejamento, habilitação, fiscalização, julgamento de infrações e de recursos, entre outras atividades. Conselhos profissionais não fazem parte dele.",
+  "porAlt": [
+   "A Polícia Rodoviária Federal compõe o SNT (art. 7º, V).",
+   "As Polícias Militares dos Estados e do DF compõem o SNT (art. 7º, VI).",
+   "As JARI compõem o SNT (art. 7º, VII).",
+   "Correta: os CRM não integram o SNT; o art. 7º não os menciona.",
+   "Os CETRAN e o CONTRANDIFE compõem o SNT como órgãos normativos, consultivos e coordenadores (art. 7º, II)."
+  ]
+ },
+ {
+  "q": "Condutor é autuado pelo art. 170 do CTB (dirigir ameaçando pedestres), infração que prevê suspensão do direito de dirigir sem fixar o prazo. Não há reincidência. Segundo o art. 261, §1º, qual é o prazo da suspensão?",
+  "alts": [
+   "De seis meses a um ano, o mesmo prazo aplicado à suspensão por atingir o limite de pontos",
+   "Doze meses fixos, o mesmo prazo previsto para as infrações de alcoolemia dos arts. 165 e 165-A",
+   "De oito a dezoito meses, pois toda infração gravíssima com suspensão segue a faixa mais grave",
+   "De dois a oito meses, pois a suspensão decorre de infração que a prevê de forma específica",
+   "De dois meses a cinco anos, fixado pela autoridade de trânsito conforme a gravidade do caso"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Suspensão por infração específica (art. 261, §1º, II)",
+  "base": "CTB, art. 170; art. 261, II e §1º, II (Lei nº 13.281/2016).",
+  "coment": "O art. 261 tem duas portas para a suspensão: pontuação (inciso I) e infração que prevê a suspensão de forma específica (inciso II). O art. 170 (dirigir ameaçando pedestres que estejam atravessando a via ou os demais veículos) é gravíssima, com multa e suspensão do direito de dirigir, sem prazo próprio. Aplica-se então o §1º, II: 'de 2 (dois) a 8 (oito) meses, exceto para as infrações com prazo descrito no dispositivo infracional, e, no caso de reincidência no período de 12 meses, de 8 a 18 meses'. O §10 manda instaurar esse processo de suspensão junto com o da multa, pelo mesmo órgão. O condutor suspenso faz curso de reciclagem (art. 268, II).",
+  "porAlt": [
+   "Seis meses a um ano é o prazo da suspensão por pontuação (§1º, I).",
+   "Os 12 meses fixos valem para infrações que trazem o prazo no próprio dispositivo, como os arts. 165 e 165-A.",
+   "Oito a dezoito meses é a faixa da reincidência em 12 meses; não há reincidência no caso.",
+   "Correta: o §1º, II, fixa de 2 a 8 meses para a suspensão por infração específica sem prazo próprio (e de 8 a 18 meses na reincidência em 12 meses).",
+   "Dois meses a cinco anos é a suspensão penal do art. 293, não a administrativa."
+  ]
+ },
+ {
+  "q": "Segundo o art. 258 do CTB, qual é o valor da multa da infração gravíssima e quanto ela alcança quando o dispositivo prevê fator multiplicador de dez vezes, como no art. 165?",
+  "alts": [
+   "R$ 195,23; com fator dez, como no art. 165, chega a R$ 1.952,30",
+   "R$ 293,47; com fator dez, como no art. 165, chega a R$ 2.934,70",
+   "R$ 130,16; com fator dez, como no art. 165, chega a R$ 1.301,60",
+   "R$ 293,47; com fator cinco, como no art. 165, chega a R$ 1.467,35",
+   "R$ 88,38; com fator dez, como no art. 165, chega a R$ 883,80"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Valor das multas (art. 258)",
+  "base": "CTB, art. 258, I a IV e §2º (redação da Lei nº 13.281/2016); art. 165.",
+  "coment": "O art. 258, na redação da Lei nº 13.281/2016, classifica as multas em quatro categorias: gravíssima R$ 293,47; grave R$ 195,23; média R$ 130,16; leve R$ 88,38. O §2º diz que, na multa agravada, o fator multiplicador é o previsto no próprio Código. Assim, o art. 165 (dirigir sob influência de álcool) e o 165-A (recusa) têm multa (dez vezes) = R$ 2.934,70, dobrada na reincidência em 12 meses; os arts. 165-B, 165-C e 165-D (toxicológico) têm multa (cinco vezes) = R$ 1.467,35; o art. 162, I e II, multa (três vezes) = R$ 880,41. Pontos (art. 259): 7, 5, 4 e 3, respectivamente.",
+  "porAlt": [
+   "R$ 195,23 é o valor da infração grave (art. 258, II).",
+   "Correta: o art. 258, I, fixa R$ 293,47 para a gravíssima; o art. 165 prevê multa (dez vezes), isto é, R$ 2.934,70.",
+   "R$ 130,16 é o valor da infração média (art. 258, III).",
+   "O art. 165 prevê multa dez vezes; o fator cinco é o dos arts. 165-B, 165-C e 165-D.",
+   "R$ 88,38 é o valor da infração leve (art. 258, IV)."
+  ]
+ },
+ {
+  "q": "Segundo o art. 256 do CTB, qual das medidas abaixo NÃO integra mais o rol de penalidades, por ter sido revogada pela Lei nº 13.281/2016?",
+  "alts": [
+   "Advertência por escrito — inciso I do art. 256",
+   "Suspensão do direito de dirigir — inciso III",
+   "Cassação da Permissão para Dirigir — inciso VI",
+   "Apreensão do veículo — inciso IV do art. 256",
+   "Frequência em curso de reciclagem — inciso VII"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Rol de penalidades (art. 256) — qual NÃO",
+  "base": "CTB, art. 256, I a VII (inciso IV revogado pela Lei nº 13.281/2016); art. 269.",
+  "coment": "O art. 256 lista as penalidades que a autoridade de trânsito aplica: I - advertência por escrito; II - multa; III - suspensão do direito de dirigir; IV - (revogado pela Lei nº 13.281/2016); V - cassação da CNH; VI - cassação da Permissão para Dirigir; VII - frequência obrigatória em curso de reciclagem. O inciso IV era a apreensão do veículo, que saiu do rol. Não confunda penalidade (sanção do art. 256, aplicada em processo) com medida administrativa (art. 269: retenção, remoção, recolhimento de documentos, teste de alcoolemia, realização de exames de aptidão). O §1º do art. 256 diz que as penalidades não afastam as punições por crimes de trânsito.",
+  "porAlt": [
+   "A advertência por escrito continua no inciso I e é obrigatória nas hipóteses do art. 267.",
+   "A suspensão do direito de dirigir permanece como penalidade no inciso III.",
+   "A cassação da Permissão para Dirigir segue no inciso VI, ao lado da cassação da CNH (inciso V).",
+   "Correta: o inciso IV (apreensão do veículo) foi revogado pela Lei nº 13.281/2016.",
+   "A frequência obrigatória em curso de reciclagem continua no inciso VII."
+  ]
+ },
+ {
+  "q": "Segundo o art. 12 do CTB, com as alterações das Leis nº 14.071/2020 e 14.599/2023, como funcionam a consulta pública das normas regulamentares do Contran e a deliberação ad referendum de seu presidente?",
+  "alts": [
+   "Consulta de no mínimo 60 dias; a deliberação urgente perde a eficácia se não aprovada em 90 dias",
+   "Consulta de no mínimo 15 dias; a deliberação urgente perde a eficácia se não aprovada em 180 dias",
+   "Consulta de no mínimo 30 dias; a deliberação urgente perde a eficácia se não aprovada em 120 dias",
+   "Consulta de no mínimo 30 dias; a deliberação urgente pode ser reeditada até obter a aprovação",
+   "Consulta dispensada nas normas técnicas; a deliberação urgente vale até a próxima reunião ordinária"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "CONTRAN: consulta pública e deliberação ad referendum (art. 12)",
+  "base": "CTB, art. 7º, I; art. 12, I e §§1º a 4º (Leis nº 14.071/2020 e 14.599/2023).",
+  "coment": "O CONTRAN é o coordenador do Sistema Nacional de Trânsito e seu órgão máximo normativo e consultivo (art. 7º, I). Pelo art. 12, §1º (Lei nº 14.071/2020), as propostas de normas regulamentares do inciso I são submetidas a consulta pública pela internet por no mínimo 30 dias, e as contribuições ficam disponíveis por 2 anos (§2º). O §3º (Lei nº 14.599/2023) permite ao presidente, em urgência e relevante interesse público, editar deliberação ad referendum do Plenário; pelo §4º, se não aprovada em 120 dias ela perde a eficácia, mantidos os efeitos já produzidos, não se sujeita à consulta pública e é vedada sua reedição. A Resolução nº 927/2022 é norma desse colegiado.",
+  "porAlt": [
+   "Os prazos legais são 30 dias de consulta e 120 dias para a aprovação pelo Plenário.",
+   "Os prazos legais são 30 dias de consulta e 120 dias para a aprovação pelo Plenário.",
+   "Correta: o §1º exige consulta pública pela internet por no mínimo 30 dias, e o §4º, I, faz a deliberação ad referendum perder a eficácia se não aprovada em 120 dias.",
+   "O §4º, II, veda a reedição da deliberação ad referendum.",
+   "A consulta é exigida para as normas do inciso I, e o prazo da deliberação é de 120 dias."
+  ]
+ },
+ {
+  "q": "Durante a investigação de um crime de trânsito, o juiz entende necessária, para garantia da ordem pública, a suspensão cautelar da habilitação do indiciado. Segundo os arts. 294 e 295 do CTB, é correto afirmar que ele:",
+  "alts": [
+   "Só pode decretá-la após o trânsito em julgado da condenação, e apenas a pedido do Ministério Público",
+   "Pode decretá-la, mas o recurso em sentido estrito contra a decisão tem efeito suspensivo automático",
+   "Não pode, pois a suspensão cautelar da habilitação cabe com exclusividade ao órgão de trânsito local",
+   "Pode decretá-la, comunicando-a ao órgão de trânsito do local do fato, e não ao órgão do domicílio",
+   "Pode decretá-la de ofício ou a pedido, comunicando-a ao Contran e ao órgão de trânsito do domicílio"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Suspensão cautelar judicial (arts. 294 e 295)",
+  "base": "CTB, arts. 294 e 295.",
+  "coment": "O art. 294 dispõe que, 'em qualquer fase da investigação ou da ação penal, havendo necessidade para a garantia da ordem pública, poderá o juiz, como medida cautelar, de ofício, ou a requerimento do Ministério Público ou ainda mediante representação da autoridade policial, decretar, em decisão motivada, a suspensão da permissão ou da habilitação para dirigir veículo automotor, ou a proibição de sua obtenção'. Da decisão cabe recurso em sentido estrito, sem efeito suspensivo. O art. 295 exige que a suspensão ou proibição seja sempre comunicada pela autoridade judiciária ao CONTRAN e ao órgão de trânsito do Estado de domicílio ou residência do indiciado ou réu.",
+  "porAlt": [
+   "O art. 294 admite a medida em qualquer fase da investigação ou da ação penal, de ofício inclusive.",
+   "O parágrafo único do art. 294 prevê recurso em sentido estrito sem efeito suspensivo.",
+   "O art. 294 atribui ao juiz a suspensão cautelar da habilitação no processo penal.",
+   "A comunicação é ao Contran e ao órgão de trânsito do Estado do domicílio ou residência do réu.",
+   "Correta: o art. 294 permite a medida cautelar em qualquer fase, de ofício ou a pedido, e o art. 295 manda comunicá-la ao Contran e ao órgão de trânsito do domicílio ou residência."
+  ]
+ },
+ {
+  "q": "Condenado criminalmente teve imposta pelo juiz, com base no CTB, a suspensão da habilitação por um ano e, no quarto mês, é flagrado dirigindo. Segundo o art. 307 do CTB, a que pena está sujeito?",
+  "alts": [
+   "Detenção de seis meses a um ano e multa, com nova imposição de idêntico prazo de suspensão",
+   "Detenção de seis meses a três anos e multa, com cassação definitiva do direito de dirigir",
+   "Reclusão de um a três anos, com nova imposição do dobro do prazo da suspensão original",
+   "Detenção de seis meses a um ano, ou multa, sem nenhum efeito sobre o prazo da suspensão",
+   "Detenção de dois a quatro anos, com proibição de obter nova habilitação por cinco anos"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Violar a suspensão judicial (art. 307)",
+  "base": "CTB, art. 307 e parágrafo único; art. 293, §1º.",
+  "coment": "O art. 307 tipifica 'violar a suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir veículo automotor imposta com fundamento neste Código', com pena de detenção de seis meses a um ano e multa, 'com nova imposição adicional de idêntico prazo de suspensão ou de proibição'. O parágrafo único estende as mesmas penas ao condenado que não entrega a Permissão ou a CNH no prazo de 48 horas do art. 293, §1º. Na esfera administrativa, dirigir com o direito suspenso é infração gravíssima do art. 162, II (multa três vezes), e leva à cassação do documento de habilitação (art. 263, I).",
+  "porAlt": [
+   "Correta: o art. 307 comina detenção de seis meses a um ano e multa, 'com nova imposição adicional de idêntico prazo de suspensão ou de proibição'.",
+   "Seis meses a três anos é a pena do art. 306; o art. 307 não prevê cassação definitiva.",
+   "A pena é de detenção, e a nova imposição é de prazo idêntico, não dobrado.",
+   "A multa é cumulativa, e a lei prevê nova imposição de idêntico prazo de suspensão.",
+   "Dois a quatro anos é a pena do homicídio culposo (art. 302)."
+  ]
+ },
+ {
+  "q": "Segundo o art. 308 do CTB, qual é a pena privativa de liberdade quando da participação em corrida não autorizada em via pública resulta morte, e as circunstâncias mostram que o agente não quis o resultado nem assumiu o risco de produzi-lo?",
+  "alts": [
+   "Reclusão de três a seis anos, sem prejuízo da multa e da suspensão ou proibição",
+   "Detenção de seis meses a três anos, com a multa e a suspensão ou a proibição",
+   "Reclusão de cinco a dez anos, sem prejuízo da multa e da suspensão ou proibição",
+   "Reclusão de cinco a oito anos, sem prejuízo da multa e da suspensão ou proibição",
+   "Detenção de dois a quatro anos, aumentada de um terço à metade pela disputa ilegal"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Racha com resultado morte (art. 308)",
+  "base": "CTB, art. 308, caput e §§1º e 2º (Leis nº 12.971/2014 e 13.546/2017).",
+  "coment": "O art. 308 pune participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística, ou de exibição ou demonstração de perícia em manobra, não autorizada, gerando situação de risco à incolumidade pública ou privada: detenção de 6 meses a 3 anos, multa e suspensão ou proibição. Se resulta lesão corporal grave, e o agente não quis nem assumiu o risco do resultado, reclusão de 3 a 6 anos (§1º); se resulta morte, nas mesmas condições, reclusão de 5 a 10 anos (§2º). Na esfera administrativa, disputar corrida é o art. 173 (gravíssima, multa dez vezes, suspensão e apreensão do veículo).",
+  "porAlt": [
+   "Três a seis anos é a pena quando resulta lesão corporal grave (§1º).",
+   "Seis meses a três anos é a pena do caput, sem resultado lesivo.",
+   "Correta: o §2º do art. 308 comina reclusão de cinco a dez anos quando resulta morte, sem prejuízo das demais penas.",
+   "Cinco a oito anos é a pena do homicídio culposo sob influência de álcool (art. 302, §3º).",
+   "Dois a quatro anos é o homicídio culposo simples, e a disputa não é causa de aumento do art. 302."
+  ]
+ },
+ {
+  "q": "Homem de 30 anos, que nunca se habilitou, dirige o próprio carro por uma rua deserta de madrugada, em velocidade compatível e sem gerar perigo de dano a ninguém. Segundo o CTB, qual é o enquadramento?",
+  "alts": [
+   "Crime do art. 309, pois dirigir sem habilitação em via pública é crime independentemente de perigo",
+   "Infração gravíssima do art. 162, I, com multa triplicada; o crime do art. 309 exige perigo de dano",
+   "Infração média do art. 162, I, com multa simples, porque não houve perigo concreto para terceiros",
+   "Crime do art. 310, pois ele próprio se confiou a direção do veículo sem estar habilitado para tanto",
+   "Infração gravíssima do art. 162, I, com multa em dobro e apreensão do veículo no próprio local"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Dirigir sem habilitação: infração × crime (arts. 162, I, e 309)",
+  "base": "CTB, art. 162, I (redação da Lei nº 13.281/2016); art. 309.",
+  "coment": "Dirigir sem possuir CNH, Permissão para Dirigir ou ACC é a infração do art. 162, I: gravíssima, multa (três vezes) e retenção do veículo até a apresentação de condutor habilitado. O crime do art. 309 tem redação mais estreita: 'Dirigir veículo automotor, em via pública, sem a devida Permissão para Dirigir ou Habilitação ou, ainda, se cassado o direito de dirigir, gerando perigo de dano' — pena de detenção de seis meses a um ano, ou multa. Sem perigo de dano, fica só a infração administrativa. Já o art. 310 (entregar a direção a não habilitado) não traz a elementar do perigo de dano no texto.",
+  "porAlt": [
+   "O tipo do art. 309 contém a elementar 'gerando perigo de dano', ausente no caso.",
+   "Correta: o art. 162, I, é gravíssima com multa (três vezes) e retenção; o art. 309 exige que a conduta gere perigo de dano.",
+   "A infração do art. 162, I, é gravíssima, com multa três vezes.",
+   "O art. 310 pune quem permite, confia ou entrega a direção a outra pessoa.",
+   "A multa do inciso I é triplicada, e a medida administrativa é a retenção, não a apreensão."
+  ]
+ },
+ {
+  "q": "Em sinistro com vítima envolvendo caminhão equipado com registrador instantâneo de velocidade e tempo, quem pode retirar o disco ou a unidade armazenadora do registro, segundo o art. 279 do CTB?",
+  "alts": [
+   "Somente o perito oficial encarregado do levantamento pericial do sinistro",
+   "O agente de trânsito que atender a ocorrência, lavrando o termo de retirada",
+   "O próprio condutor ou o proprietário, que deve entregá-lo em até 48 horas",
+   "O médico perito examinador de trânsito que avaliar o condutor envolvido",
+   "Qualquer autoridade policial presente, desde que acompanhada de testemunha"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Registrador instantâneo em sinistro com vítima (art. 279)",
+  "base": "CTB, art. 279 (redação da Lei nº 14.599/2023).",
+  "coment": "O art. 279, na redação da Lei nº 14.599/2023, dispõe: 'Em caso de sinistro com vítima envolvendo veículo equipado com registrador instantâneo de velocidade e tempo, somente o perito oficial encarregado do levantamento pericial poderá retirar o disco ou unidade armazenadora do registro'. A regra preserva a cadeia de custódia de uma prova técnica decisiva para reconstruir velocidade e tempo de condução, útil tanto na apuração criminal quanto no controle da jornada do motorista profissional. Não confunda o perito oficial (criminalística) com o médico perito examinador de trânsito, que avalia a aptidão física e mental do condutor. Relaciona-se ao art. 312, que pune inovar artificiosamente o estado de lugar, coisa ou pessoa.",
+  "porAlt": [
+   "Correta: o art. 279 reserva ao perito oficial encarregado do levantamento pericial a retirada do disco ou da unidade armazenadora.",
+   "O agente de trânsito não tem essa atribuição; ela é do perito oficial.",
+   "Condutor e proprietário não podem retirar o registro; a regra protege a prova pericial.",
+   "O perito examinador de trânsito atua no exame de aptidão, não no levantamento do sinistro.",
+   "A lei não abre a retirada a qualquer autoridade; restringe-a ao perito oficial."
+  ]
+ }
+]

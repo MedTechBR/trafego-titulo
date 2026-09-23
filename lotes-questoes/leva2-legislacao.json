@@ -220,7 +220,7 @@
   ]
  },
  {
-  "q": "Condutor tem a CNH recolhida em fiscalização por dirigir sob influência de álcool e, oito meses depois, é novamente autuado pela mesma infração. Qual é a consequência específica dessa reincidência no plano administrativo?",
+  "q": "Condutor é autuado em fiscalização por dirigir sob influência de álcool e, oito meses depois, é novamente autuado pela mesma infração. Segundo o parágrafo único do art. 165 do CTB, qual é a consequência dessa reincidência?",
   "alts": [
    "Aplicação em triplo da multa prevista no caput, por reincidência no período de até dois anos",
    "Cassação imediata do documento de habilitação, independentemente de processo administrativo prévio",
@@ -231,11 +231,11 @@
   "gab": 2,
   "tema": "alcool",
   "sub": "Reincidência na infração de alcoolemia",
-  "base": "CTB, art. 165, parágrafo único (redação da Lei nº 12.760/2012); art. 165-A, parágrafo único.",
-  "coment": "O parágrafo único do art. 165 determina a aplicação EM DOBRO da multa prevista no caput em caso de reincidência no período de até 12 meses. Como a multa do caput já é multiplicada por dez, a reincidência a leva ao equivalente a vinte vezes o valor-base, somando-se a suspensão do direito de dirigir por 12 meses e as medidas administrativas de recolhimento do documento de habilitação e retenção do veículo. Regra idêntica vale para a recusa ao teste (art. 165-A, parágrafo único). Não confundir com a cassação do documento, que é penalidade autônoma sujeita a processo próprio, nem com as consequências penais do art. 306, que correm em esfera independente.",
+  "base": "CTB, art. 165, parágrafo único (redação da Lei nº 12.760/2012); art. 165-A, parágrafo único; art. 263, II; Resolução CONTRAN nº 1.031/2026, art. 12.",
+  "coment": "O parágrafo único do art. 165 determina a aplicação EM DOBRO da multa prevista no caput em caso de reincidência no período de até 12 meses. Como a multa do caput já é multiplicada por dez, a reincidência a leva ao equivalente a vinte vezes o valor-base, somando-se a suspensão do direito de dirigir por 12 meses. Regra idêntica de multa em dobro vale para a recusa ao teste (art. 165-A, parágrafo único). A reincidência em 12 meses no art. 165 também leva à cassação do documento (art. 263, II) — mas em processo administrativo próprio, não de forma imediata. Atenção à Resolução CONTRAN nº 1.031/2026 (art. 12): o agente NÃO recolhe o documento de habilitação na abordagem por essas infrações, embora o texto do CTB ainda liste o recolhimento como medida administrativa; a suspensão segue o procedimento próprio. As consequências penais do art. 306 correm em esfera independente.",
   "porAlt": [
    "A previsão legal é de multa em dobro, dentro da janela de doze meses, e não em triplo em dois anos.",
-   "A cassação é penalidade autônoma com processo próprio, não decorrência automática da reincidência.",
+   "A reincidência no art. 165 pode levar à cassação (art. 263, II), mas em processo próprio, não de forma imediata.",
    "Correta: a lei manda aplicar a multa em dobro quando a reincidência ocorre em até doze meses.",
    "As esferas são independentes: a penalidade administrativa não se converte em pena criminal.",
    "A janela legal da reincidência agravada é de doze meses, e não de dois anos como afirmado."

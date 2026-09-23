@@ -1,0 +1,794 @@
+[
+ {
+  "q": "Condutor é denunciado pelo crime do art. 306 do CTB, por conduzir veículo com capacidade psicomotora alterada em razão da influência de álcool. Quais são as penas cominadas nesse tipo penal?",
+  "alts": [
+   "Detenção de seis meses a um ano ou multa, sem previsão de suspensão do direito de dirigir",
+   "Detenção de seis meses a três anos, multa e suspensão ou proibição de obter a habilitação",
+   "Reclusão de dois a quatro anos, multa e cassação definitiva do documento de habilitação",
+   "Detenção de um a três anos e multa, com suspensão do direito de dirigir por doze meses",
+   "Reclusão de cinco a oito anos e suspensão ou proibição de obter a permissão para dirigir"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Crime do art. 306 — penas",
+  "base": "CTB, art. 306, caput (redação da Lei nº 12.760/2012).",
+  "coment": "O art. 306 do CTB comina DETENÇÃO de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir. A pena privativa de liberdade é cumulada com a multa e com a restrição ao direito de dirigir. Pegadinhas frequentes: detenção de seis meses a um ano OU multa é a do art. 310 (entregar a direção a quem não pode dirigir), e de seis meses a um ano E multa, a do art. 307 (violar a suspensão); a reclusão de cinco a oito anos é a do homicídio culposo sob influência de álcool (art. 302, §3º). O crime não afasta a infração administrativa do art. 165 — as esferas correm juntas (Resolução CONTRAN nº 1.031/2026, art. 9º, §1º).",
+  "porAlt": [
+   "Seis meses a um ano ou multa é a pena do art. 310, não a do crime de embriaguez ao volante.",
+   "Correta: é exatamente a pena do caput do art. 306 — detenção, multa e suspensão ou proibição.",
+   "O art. 306 prevê detenção, não reclusão, e não comina cassação definitiva da habilitação.",
+   "A pena mínima é de seis meses, e a suspensão penal não tem prazo fixo de doze meses no tipo.",
+   "Reclusão de cinco a oito anos é a pena do homicídio culposo sob influência (art. 302, §3º)."
+  ]
+ },
+ {
+  "q": "Segundo o art. 306, §1º, inciso I, do CTB, quais concentrações de álcool constatam, por si, a conduta criminosa de conduzir com capacidade psicomotora alterada?",
+  "alts": [
+   "Igual ou superior a 2 dg/L de sangue ou igual ou superior a 0,1 mg/L de ar alveolar",
+   "Igual ou superior a 6 dg/L de sangue ou igual ou superior a 0,3 mg/L de ar alveolar",
+   "Igual ou superior a 6 dg/L de sangue ou igual ou superior a 0,6 mg/L de ar alveolar",
+   "Superior a 5 dg/L de sangue ou superior a 0,25 mg/L de ar alveolar, em qualquer caso",
+   "Igual ou superior a 8 dg/L de sangue ou igual ou superior a 0,4 mg/L de ar alveolar"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Limites penais de alcoolemia",
+  "base": "CTB, art. 306, §1º, I e II (Lei nº 12.760/2012); Resolução CONTRAN nº 1.031/2026, art. 9º, I e IV.",
+  "coment": "O §1º do art. 306 diz que a conduta será constatada por: (I) concentração igual ou superior a 6 decigramas de álcool por litro de sangue OU igual ou superior a 0,3 miligrama por litro de ar alveolar; ou (II) sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora. Na operação, a Resolução CONTRAN nº 1.031/2026 (art. 9º, I) traduz o limite de ar alveolar em MEDIÇÃO REALIZADA igual ou superior a 0,34 mg/L, da qual se desconta o erro máximo admissível (0,34 − 0,032 = 0,308, truncado em 0,30 mg/L de valor considerado); para o sangue, 6 dg/L (art. 9º, IV). Pegadinha: não confundir o 0,3 mg/L legal com o 0,34 mg/L da medição bruta, nem o 6 dg/L de sangue com um suposto 0,6 mg/L de ar.",
+  "porAlt": [
+   "Esses valores não são o corte penal; o administrativo, pela Resolução, começa em 0,05 mg/L medidos.",
+   "Correta: 6 dg/L de sangue ou 0,3 mg/L de ar alveolar, ambos na forma “igual ou superior”.",
+   "O sangue está certo, mas o ar alveolar é 0,3 mg/L; 0,6 mg/L não corresponde ao corte legal.",
+   "A lei usa “igual ou superior” e os valores de 6 dg/L e 0,3 mg/L, não 5 dg/L e 0,25 mg/L.",
+   "Os cortes de 8 dg/L e 0,4 mg/L não constam do art. 306; a lei fixa 6 dg/L e 0,3 mg/L."
+  ]
+ },
+ {
+  "q": "A Lei nº 13.840/2019 incluiu o §4º no art. 306 do CTB. O que esse dispositivo estabelece sobre a determinação da alteração da capacidade psicomotora?",
+  "alts": [
+   "Exige que o aparelho seja de fabricação nacional e aferido pela Polícia Rodoviária Federal",
+   "Restringe a prova do crime ao exame de sangue colhido em laboratório oficial credenciado",
+   "Admite apenas o etilômetro de modelo passivo para determinar a alcoolemia do condutor",
+   "Exige laudo de médico perito para validar o resultado de qualquer aparelho de medição",
+   "Admite qualquer aparelho homologado pelo Inmetro para determinar o previsto no caput"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Aparelhos homologados — art. 306, §4º",
+  "base": "CTB, art. 306, §§2º a 4º (Leis nº 12.971/2014 e nº 13.840/2019); Resolução CONTRAN nº 1.031/2026, arts. 4º e 5º.",
+  "coment": "O §4º do art. 306 (Lei nº 13.840/2019) dispõe que poderá ser empregado qualquer aparelho homologado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro) para determinar o previsto no caput. Ele se soma ao §2º, que admite teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito à contraprova, e ao §3º, que remete ao Contran a equivalência entre os testes. A Resolução CONTRAN nº 1.031/2026 detalha: o etilômetro precisa de modelo aprovado pelo Inmetro e aprovação nas verificações metrológicas inicial, eventual, em serviço e periódica (art. 5º), enquanto o pré-teste passivo é só triagem, sem valor para autuar (art. 4º, §2º).",
+  "porAlt": [
+   "A lei não exige fabricação nacional nem aferição pela PRF; a referência é a homologação do Inmetro.",
+   "O §2º admite vários meios de prova; o crime não depende exclusivamente do exame de sangue.",
+   "O aparelho passivo serve só para triagem, sem valor de prova (Resolução nº 1.031/2026, art. 4º).",
+   "A lei não condiciona o resultado do aparelho a laudo médico; o exame clínico é outro meio de prova.",
+   "Correta: o §4º admite qualquer aparelho homologado pelo Inmetro para determinar o caput."
+  ]
+ },
+ {
+  "q": "O art. 276 do CTB dispõe que qualquer concentração de álcool por litro de sangue ou de ar alveolar sujeita o condutor às penalidades do art. 165. Segundo o parágrafo único, quem disciplina as margens de tolerância quando a infração é apurada por aparelho?",
+  "alts": [
+   "O Contran, observada a legislação metrológica aplicável à medição feita por aparelho",
+   "O Inmetro, que fixa sozinho o limite administrativo de álcool no ar alveolar expirado",
+   "O órgão executivo de trânsito de cada estado, conforme o aparelho que ele vier a adquirir",
+   "A Polícia Judiciária, que define a margem aplicável em cada inquérito que for instaurado",
+   "O fabricante do etilômetro, conforme o manual técnico que acompanha cada equipamento"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Tolerância zero e margem metrológica",
+  "base": "CTB, art. 276, caput e parágrafo único (Lei nº 12.760/2012); Resolução CONTRAN nº 1.031/2026, Anexo I.",
+  "coment": "O art. 276 consagra a tolerância zero: qualquer concentração de álcool por litro de sangue ou de ar alveolar sujeita o condutor às penalidades do art. 165. O parágrafo único, porém, atribui ao CONTRAN disciplinar as margens de tolerância quando a infração for apurada por aparelho de medição, observada a legislação metrológica. Foi o que o Contran fez na Resolução nº 1.031/2026 (que revogou a nº 432/2013): a infração começa com medição realizada de 0,05 mg/L e, do resultado, desconta-se o erro máximo admissível da Tabela do Anexo I (0,032 mg/L abaixo de 0,40 mg/L; 8% de 0,40 a 2,00 mg/L; 30% acima de 2,00 mg/L). O Inmetro aprova o modelo e faz a verificação metrológica, mas quem regulamenta a margem para fins de trânsito é o Contran.",
+  "porAlt": [
+   "Correta: o parágrafo único do art. 276 atribui ao Contran as margens, observada a metrologia.",
+   "O Inmetro aprova modelos e verifica aparelhos, mas a margem para fins de trânsito é do Contran.",
+   "Os órgãos estaduais executam a fiscalização; não fixam margens de tolerância próprias.",
+   "A Polícia Judiciária conduz o inquérito, mas não define margem de tolerância do aparelho.",
+   "O manual do fabricante não tem força normativa; a margem vem de resolução do Contran."
+  ]
+ },
+ {
+  "q": "Motorista com capacidade psicomotora alterada pela influência de álcool colide com outro automóvel e causa a morte do outro condutor. Denunciado por homicídio culposo na direção de veículo automotor, a que pena privativa de liberdade se sujeita, segundo o CTB?",
+  "alts": [
+   "Detenção de dois a quatro anos, aumentada de um terço à metade pela embriaguez",
+   "Reclusão de dois a cinco anos, com suspensão do direito de dirigir por doze meses",
+   "Reclusão de cinco a oito anos, com suspensão ou proibição de obter a habilitação",
+   "Detenção de seis meses a três anos, somada à pena do crime autônomo do art. 306",
+   "Reclusão de três a seis anos, com cassação definitiva do documento de habilitação"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Homicídio culposo sob influência de álcool",
+  "base": "CTB, art. 302, caput, §1º e §3º (Lei nº 13.546/2017); art. 312-B (Lei nº 14.071/2020).",
+  "coment": "O §3º do art. 302, incluído pela Lei nº 13.546/2017, prevê que, se o agente conduz veículo automotor sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência, as penas do homicídio culposo passam a ser de RECLUSÃO de cinco a oito anos, e suspensão ou proibição do direito de se obter a permissão ou a habilitação. O caput (detenção de dois a quatro anos) vale para o homicídio culposo comum. O aumento de um terço à metade do §1º tem hipóteses próprias (sem habilitação, faixa de pedestres ou calçada, omissão de socorro, transporte de passageiros no exercício da profissão), entre as quais não está a influência de álcool, que tem pena própria no §3º. Acresce o art. 312-B, que veda a substituição por pena restritiva de direitos do art. 44, I, do Código Penal nesse crime.",
+  "porAlt": [
+   "Dois a quatro anos de detenção é o caput; a influência de álcool tem pena própria no §3º, não aumento.",
+   "Reclusão de dois a cinco anos é a da lesão corporal grave sob influência (art. 303, §2º).",
+   "Correta: o art. 302, §3º, comina reclusão de cinco a oito anos e suspensão ou proibição.",
+   "O homicídio culposo sob influência tem pena própria no §3º; não é simples soma com o art. 306.",
+   "Três a seis anos de reclusão é a da disputa não autorizada com lesão grave (art. 308, §1º)."
+  ]
+ },
+ {
+  "q": "Condutor sob influência de álcool, com capacidade psicomotora alterada, provoca colisão da qual resulta lesão corporal de natureza grave em um motociclista. Qual é a pena privativa de liberdade prevista no CTB para essa lesão culposa?",
+  "alts": [
+   "Detenção de seis meses a dois anos, como em toda lesão corporal culposa no trânsito",
+   "Reclusão de cinco a oito anos, a mesma prevista para o homicídio culposo agravado",
+   "Reclusão de dois a cinco anos, sem prejuízo das demais penas previstas no artigo",
+   "Detenção de dois a quatro anos, com aumento de um terço à metade pela alcoolemia",
+   "Reclusão de três a seis anos, igual à da disputa não autorizada com lesão grave"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Lesão corporal culposa grave sob influência",
+  "base": "CTB, art. 303, caput e §2º (Lei nº 13.546/2017).",
+  "coment": "O art. 303 pune a lesão corporal culposa na direção de veículo automotor com detenção de seis meses a dois anos. O §2º, incluído pela Lei nº 13.546/2017, eleva a pena para RECLUSÃO de dois a cinco anos, sem prejuízo das outras penas, quando o agente conduz o veículo com capacidade psicomotora alterada em razão de álcool ou outra substância psicoativa que determine dependência E do crime resulta lesão corporal de natureza grave ou gravíssima. São dois requisitos cumulativos: a alteração psicomotora e a gravidade da lesão. Se a lesão for leve, volta-se ao caput (com as restrições do art. 291, §1º, quanto à Lei nº 9.099/1995). O art. 312-B também veda, nesse crime, a substituição do art. 44, I, do Código Penal.",
+  "porAlt": [
+   "Seis meses a dois anos de detenção é o caput, afastado quando há alteração e lesão grave.",
+   "Cinco a oito anos de reclusão é a pena do homicídio culposo sob influência (art. 302, §3º).",
+   "Correta: o art. 303, §2º, prevê reclusão de dois a cinco anos com lesão grave ou gravíssima.",
+   "Dois a quatro anos de detenção é o caput do art. 302, e não há aumento específico pela alcoolemia.",
+   "Três a seis anos de reclusão é do art. 308, §1º (racha com lesão grave), não do art. 303."
+  ]
+ },
+ {
+  "q": "Condutor sob influência de álcool causa lesão corporal culposa leve em passageiro de outro veículo. Quanto aos institutos da Lei nº 9.099/1995, o que determina o art. 291 do CTB?",
+  "alts": [
+   "Aplicam-se os arts. 74, 76 e 88 daquela lei, e basta lavrar termo circunstanciado da ocorrência",
+   "Aplica-se só o art. 76 daquela lei, vedados os arts. 74 e 88 quando há influência de álcool",
+   "Não se aplicam os arts. 74, 76 e 88 daquela lei, e deve ser instaurado inquérito policial",
+   "Os arts. 74, 76 e 88 deixam de valer só quando houver também excesso de 50 km/h na via",
+   "Aplicam-se os três dispositivos, e a ação penal passa a depender de requisição do juiz"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Lesão culposa sob influência e Lei nº 9.099/1995",
+  "base": "CTB, art. 291, §§1º e 2º (Lei nº 11.705/2008).",
+  "coment": "O §1º do art. 291 manda aplicar aos crimes de trânsito de lesão corporal culposa os arts. 74, 76 e 88 da Lei nº 9.099/1995 (Juizados Especiais Criminais), EXCETO se o agente estiver: I – sob influência de álcool ou outra substância psicoativa que determine dependência; II – participando de racha ou exibição não autorizada; III – transitando em velocidade superior à máxima permitida em 50 km/h. O §2º completa: nessas hipóteses, deverá ser instaurado inquérito policial. As três exceções são alternativas, não cumulativas — basta a influência do álcool. Ou seja, o condutor alcoolizado que causa lesão culposa, mesmo leve, perde os benefícios despenalizadores e responde a inquérito.",
+  "porAlt": [
+   "Essa é a regra geral da lesão culposa, afastada justamente quando o agente está sob influência.",
+   "Os três dispositivos (arts. 74, 76 e 88) são afastados juntos, e não apenas dois deles.",
+   "Correta: sob influência de álcool afastam-se os arts. 74, 76 e 88 e instaura-se inquérito (§2º).",
+   "As hipóteses do §1º são alternativas: a influência do álcool basta, sem exigir excesso de velocidade.",
+   "A lei afasta os institutos e manda instaurar inquérito; não cria requisição judicial para a ação."
+  ]
+ },
+ {
+  "q": "O art. 312-B do CTB, incluído pela Lei nº 14.071/2020, alcança o homicídio culposo e a lesão corporal grave cometidos sob influência de álcool (arts. 302, §3º, e 303, §2º). Qual é o seu efeito?",
+  "alts": [
+   "Converte esses crimes culposos em dolosos, julgados pelo tribunal do júri da comarca do fato",
+   "Obriga a substituição da pena por prestação de serviço em pronto-socorro da rede pública",
+   "Veda a substituição por pena restritiva de direitos prevista no art. 44, I, do Código Penal",
+   "Torna esses crimes inafiançáveis, vedando a liberdade provisória em qualquer das hipóteses",
+   "Impõe a cassação da habilitação por cinco anos, sem possibilidade de reabilitação posterior"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Vedação de pena alternativa — art. 312-B",
+  "base": "CTB, arts. 312-A e 312-B (Leis nº 13.281/2016 e nº 14.071/2020); Código Penal, art. 44, I.",
+  "coment": "O art. 312-B dispõe que aos crimes do §3º do art. 302 (homicídio culposo sob influência de álcool ou substância psicoativa) e do §2º do art. 303 (lesão corporal culposa grave ou gravíssima com capacidade psicomotora alterada) NÃO se aplica o inciso I do art. 44 do Código Penal — isto é, fica vedada a substituição da pena privativa de liberdade por restritiva de direitos com base nesse inciso. A pegadinha está no art. 312-A: para os demais crimes dos arts. 302 a 312, quando o juiz substituir a pena, ela deverá ser de prestação de serviço à comunidade em atividades ligadas a vítimas de trânsito (bombeiros, pronto-socorro, clínicas de recuperação). O art. 312-B não muda a natureza culposa dos crimes, nem trata de fiança ou de cassação.",
+  "porAlt": [
+   "O dispositivo não altera a natureza culposa dos crimes nem desloca a competência para o júri.",
+   "Serviço em pronto-socorro é a modalidade do art. 312-A quando há substituição, que aqui é vedada.",
+   "Correta: o art. 312-B afasta, nesses dois crimes, a substituição do art. 44, I, do Código Penal.",
+   "O art. 312-B não trata de fiança nem de liberdade provisória, apenas da substituição da pena.",
+   "Cassação por cinco anos é do art. 278-A (receptação e contrabando), não do art. 312-B."
+  ]
+ },
+ {
+  "q": "Condutor é autuado pelo art. 165 do CTB em março e novamente, pela mesma infração, em outubro do mesmo ano. Além da multa em dobro, que penalidade o CTB prevê para essa reincidência e quando ele poderá requerer a reabilitação?",
+  "alts": [
+   "Nova suspensão por doze meses, com reabilitação automática ao fim desse prazo",
+   "Cassação do documento de habilitação, com reabilitação requerida após cinco anos",
+   "Suspensão por vinte e quatro meses, com reabilitação após curso de reciclagem",
+   "Cassação do documento de habilitação, com reabilitação requerida após dois anos",
+   "Cassação imediata pelo agente, com reabilitação requerida após um ano da decisão"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Reincidência no art. 165 e cassação",
+  "base": "CTB, arts. 165, parágrafo único; 263, II e §2º; 265.",
+  "coment": "O art. 263, II, determina a cassação do documento de habilitação no caso de reincidência, no prazo de doze meses, das infrações do inciso III do art. 162 e dos arts. 163, 164, 165, 173, 174 e 175. Março e outubro do mesmo ano estão dentro dos doze meses. Pelo §2º, decorridos DOIS anos da cassação, o infrator poderá requerer a reabilitação, submetendo-se a todos os exames necessários à habilitação. A cassação é aplicada por decisão fundamentada da autoridade de trânsito em processo administrativo, com amplo direito de defesa (art. 265) — não pelo agente na abordagem. Somam-se a isso a multa em dobro do parágrafo único do art. 165. Cuidado: o prazo de cinco anos é o do art. 278-A (uso do veículo em receptação, descaminho ou contrabando).",
+  "porAlt": [
+   "A reincidência em 12 meses leva à cassação, e a reabilitação exige requerimento e novos exames.",
+   "A cassação está certa, mas o prazo para requerer a reabilitação é de dois anos, não cinco.",
+   "A lei prevê cassação, não suspensão ampliada, para a reincidência em doze meses no art. 165.",
+   "Correta: reincidência em 12 meses no art. 165 gera cassação (art. 263, II); reabilitação após 2 anos.",
+   "A cassação depende de processo administrativo (art. 265), e o prazo é de dois anos."
+  ]
+ },
+ {
+  "q": "Em blitz, condutor é autuado pelo art. 165 do CTB, e o veículo é entregue a um amigo habilitado. Logo adiante, o amigo devolve a direção ao condutor autuado. Segundo a Resolução CONTRAN nº 1.031/2026, em que incorre o amigo?",
+  "alts": [
+   "Na infração do art. 165, por solidariedade ao condutor autuado",
+   "No crime do art. 306, como coautor da condução sob influência",
+   "Na infração do art. 165-A, por frustrar a fiscalização realizada",
+   "Em advertência por escrito, por ser infração de natureza leve",
+   "Na infração do art. 166 e no crime do art. 310, ambos do CTB"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Entrega do veículo após autuação",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 11, §3º; CTB, arts. 166 e 310.",
+  "coment": "A Resolução CONTRAN nº 1.031/2026 (art. 11, §3º) manda o agente orientar o condutor que recebe o veículo sobre sua responsabilidade a partir da entrega: se depois se verificar que ele devolveu o veículo a quem não podia dirigi-lo, incorre tanto na INFRAÇÃO do art. 166 (confiar ou entregar a direção a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigir com segurança — gravíssima, multa) quanto no CRIME do art. 310 (permitir, confiar ou entregar a direção a quem, por embriaguez, não esteja em condições de conduzir com segurança — detenção de seis meses a um ano, ou multa). E o §4º acrescenta: se o condutor já autuado for de novo flagrado e a infração se confirmar, o veículo vai ao depósito, sem possibilidade de apresentar outro condutor.",
+  "porAlt": [
+   "O art. 165 pune quem dirige sob influência; quem entrega a direção responde pelos arts. 166 e 310.",
+   "O amigo não conduzia sob influência; a entrega da direção tem tipo penal próprio, o art. 310.",
+   "O art. 165-A pune a recusa ao teste, conduta que não foi praticada pelo amigo que recebeu o carro.",
+   "O art. 166 é infração gravíssima, e há ainda o crime do art. 310; não cabe mera advertência.",
+   "Correta: a Resolução aponta expressamente a infração do art. 166 e o crime do art. 310."
+  ]
+ },
+ {
+  "q": "Condutor autuado pelo art. 165 tem o veículo entregue a outro habilitado, mas é flagrado dirigindo o mesmo veículo logo depois, e a infração se confirma novamente. Qual é a medida prevista na Resolução CONTRAN nº 1.031/2026?",
+  "alts": [
+   "Recolhimento do veículo ao depósito, sem possibilidade de apresentar outro condutor",
+   "Nova retenção do veículo até a apresentação de outro condutor habilitado no local",
+   "Liberação do veículo ao próprio condutor após o pagamento imediato da nova multa",
+   "Retenção do veículo por vinte e quatro horas, com liberação ao proprietário registrado",
+   "Apreensão do veículo por trinta dias, com posterior leilão se não houver retirada"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Reabordagem após devolução do veículo",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 11, caput e §§1º a 4º; CTB, art. 270, §4º.",
+  "coment": "Pela Resolução CONTRAN nº 1.031/2026, o veículo é retido até a apresentação de condutor habilitado, que também é submetido à fiscalização (art. 11, caput); se ninguém se apresentar ou o novo condutor não estiver em condições, o veículo é recolhido ao depósito mediante recibo (§1º). A novidade está no §4º: constatada a devolução do veículo ao condutor já autuado pelo art. 165 ou 165-A, de forma subsequente à abordagem, repetem-se os procedimentos e, configurada de novo qualquer das duas infrações, o veículo DEVE ser recolhido ao depósito, SEM a possibilidade de apresentação de outro condutor habilitado, para garantir a boa ordem administrativa. Quem devolveu a direção responde pelos arts. 166 e 310 (§3º).",
+  "porAlt": [
+   "Correta: o §4º do art. 11 manda recolher ao depósito sem admitir outro condutor habilitado.",
+   "A nova retenção com outro condutor é justamente o que o §4º afasta na reabordagem.",
+   "O veículo não é devolvido ao condutor autuado; o pagamento da multa não o libera no local.",
+   "A norma não prevê retenção por prazo fixo nem liberação automática ao proprietário.",
+   "A Resolução prevê recolhimento ao depósito, não apreensão por trinta dias com leilão."
+  ]
+ },
+ {
+  "q": "Condutor sozinho no veículo é autuado pelo art. 165 do CTB em fiscalização de alcoolemia. Qual é o destino do veículo, segundo a Resolução CONTRAN nº 1.031/2026?",
+  "alts": [
+   "É liberado ao próprio condutor após uma hora de espera e novo teste com resultado zero",
+   "É removido de imediato ao depósito, sem admitir a apresentação de outro condutor",
+   "Fica retido até que o proprietário compareça com o documento de registro do veículo",
+   "Fica retido até que se apresente condutor habilitado, que também será fiscalizado",
+   "É liberado a qualquer passageiro maior de idade presente no momento da abordagem"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Retenção do veículo",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 11, caput e §1º; CTB, arts. 165 e 270, §4º.",
+  "coment": "A medida administrativa do art. 165 inclui a retenção do veículo, observado o §4º do art. 270 do CTB (não se apresentando condutor habilitado, o veículo é removido a depósito). A Resolução CONTRAN nº 1.031/2026 detalha no art. 11: o veículo será RETIDO até a apresentação de condutor habilitado, que TAMBÉM será submetido à fiscalização; caso não se apresente condutor habilitado ou o agente verifique que ele não está em condições de dirigir, o veículo será recolhido ao depósito, mediante recibo (§1º). A remoção direta, sem admitir outro condutor, é reservada à reabordagem do condutor que voltou a dirigir após ser autuado (§4º). Não basta ser passageiro adulto: é preciso habilitação e condições de dirigir.",
+  "porAlt": [
+   "Não há liberação ao condutor autuado por nova medição após espera; a direção vai a outro habilitado.",
+   "A remoção sem admitir outro condutor é a regra da reabordagem (§4º), não da primeira autuação.",
+   "A norma exige condutor habilitado, não a presença do proprietário com o registro do veículo.",
+   "Correta: retenção até a apresentação de condutor habilitado, que também passa pela fiscalização.",
+   "O passageiro só pode assumir se for habilitado e estiver em condições de dirigir."
+  ]
+ },
+ {
+  "q": "Em operação de fiscalização, o agente utiliza aparelho de pré-teste (teste passivo) para triagem dos condutores. Qual é o valor jurídico desse resultado, segundo a Resolução CONTRAN nº 1.031/2026?",
+  "alts": [
+   "Caracteriza a infração do art. 165 se indicar qualquer teor alcoólico no ar",
+   "Caracteriza o crime do art. 306 se houver a confirmação por uma testemunha",
+   "Substitui o etilômetro se o condutor se recusar a soprar o aparelho oficial",
+   "É indicativo e não serve para fundamentar a autuação por influência de álcool",
+   "Vale como prova da infração se o modelo tiver a aprovação prévia do Inmetro"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Pré-teste de alcoolemia",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 4º, caput e §§1º e 2º.",
+  "coment": "A Resolução CONTRAN nº 1.031/2026 criou capítulo próprio para o PRÉ-TESTE. O art. 4º permite realizar o pré-teste ou teste passivo com o objetivo de triagem, sem caráter obrigatório, podendo-se ir direto ao teste de ar alveolar. O aparelho ou a função usados no pré-teste não precisam atender aos requisitos metrológicos do etilômetro (art. 4º, §1º). E o §2º é taxativo: o resultado tem caráter EXCLUSIVAMENTE INDICATIVO e não poderá ser usado para caracterizar a infração, fundamentar a autuação ou imputar ao condutor infração decorrente da influência de álcool — para isso é preciso procedimento de constatação que atenda à Resolução (etilômetro ou sinais). Pegadinha: nem a aprovação do modelo transforma o pré-teste em prova.",
+  "porAlt": [
+   "O pré-teste é só triagem; a infração exige etilômetro ou sinais, na forma da Resolução.",
+   "Testemunha não converte triagem em prova do crime; o art. 9º lista os meios que o caracterizam.",
+   "O pré-teste não substitui o etilômetro, e a recusa tem enquadramento próprio no art. 165-A.",
+   "Correta: o §2º do art. 4º dá ao pré-teste caráter exclusivamente indicativo, sem valor para autuar.",
+   "O aparelho de pré-teste nem precisa cumprir o art. 5º, e seu resultado continua só indicativo."
+  ]
+ },
+ {
+  "q": "Condutor sopra o etilômetro, que registra resultado válido de 0,22 mg/L, sem qualquer falha técnica. Ele exige um novo teste “para confirmar”. Conforme a Resolução CONTRAN nº 1.031/2026, o reteste é necessário:",
+  "alts": [
+   "Quando a obtenção de resultado válido for prejudicada por motivo técnico ou operacional",
+   "Quando o condutor o solicitar, prevalecendo o menor dos dois resultados então obtidos",
+   "Quando o resultado ficar entre 0,05 e 0,33 mg/L, faixa que está sujeita à margem de erro",
+   "Quando o condutor declarar ter ingerido bebida alcoólica nos quinze minutos anteriores",
+   "Em toda autuação, que exige duas medições concordantes com intervalo de dez minutos"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Reteste do etilômetro",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 5º, §2º, e Anexo I.",
+  "coment": "O art. 5º, §2º, da Resolução CONTRAN nº 1.031/2026 estabelece que o reteste será necessário SOMENTE quando a obtenção de resultado válido restar prejudicada por motivo técnico ou operacional, inclusive para afastar eventual influência de álcool presente no trato respiratório superior (álcool residual de boca), observado, quando aplicável, o período de jejum previsto na regulamentação metrológica. Com medição válida de 0,22 mg/L, não há motivo para reteste: aplica-se a Tabela do Anexo I, que dá valor considerado de 0,18 mg/L (desconto de 0,032 mg/L, sem arredondamento), suficiente para a infração do art. 165 e abaixo do corte penal. A margem de erro já está embutida no desconto; ela não justifica repetir a medição.",
+  "porAlt": [
+   "Correta: o reteste só se justifica quando problema técnico ou operacional prejudica o resultado.",
+   "O pedido do condutor não gera direito a reteste, e a norma não manda adotar o menor resultado.",
+   "A margem de erro é descontada pela Tabela do Anexo I em toda medição; não motiva novo teste.",
+   "A norma fala em álcool no trato respiratório superior e jejum metrológico, não em declaração.",
+   "A autuação usa uma medição válida; a Resolução não exige duas medições concordantes."
+  ]
+ },
+ {
+  "q": "Pela Resolução CONTRAN nº 1.031/2026, qual é o requisito mínimo para que o agente da autoridade de trânsito constate a alteração da capacidade psicomotora por meio de sinais?",
+  "alts": [
+   "Um único sinal, desde que seja o odor de álcool no hálito do próprio condutor",
+   "Pelo menos três sinais, de categorias distintas do Anexo II da resolução",
+   "A confirmação dos sinais por exame clínico com laudo firmado por médico perito",
+   "Pelo menos dois sinais que, em conjunto, comprovem a situação do condutor",
+   "Pelo menos dois sinais, desde que confirmados por uma testemunha idônea"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Constatação por sinais",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 7º, §§1º e 2º, e Anexo II.",
+  "coment": "O art. 7º da Resolução CONTRAN nº 1.031/2026 diz que os sinais de alteração da capacidade psicomotora poderão ser verificados por constatação do agente, nos termos do Anexo II, e o §1º fixa o mínimo: pelo menos DOIS sinais que, em conjunto, comprovem a situação do condutor. A Resolução nº 432/2013, revogada, falava apenas em “conjunto de sinais” e admitia, no mesmo artigo, o exame clínico por médico perito; na nova norma, o exame clínico com laudo conclusivo passou ao rol do crime como exame suplementar, a critério da autoridade policial (art. 9º, V e §3º). Os sinais devem ser descritos no auto de infração ou em termo específico com as informações mínimas do Anexo II (§2º). Testemunha é prova suplementar, não requisito.",
+  "porAlt": [
+   "Um sinal isolado não basta, nem mesmo o odor etílico; o mínimo são dois sinais em conjunto.",
+   "A norma exige dois sinais, e não três, nem impõe que venham de categorias distintas do Anexo II.",
+   "O exame clínico é suplementar, a critério da autoridade policial; não valida a constatação do agente.",
+   "Correta: o §1º do art. 7º exige pelo menos dois sinais que, em conjunto, comprovem a situação.",
+   "O mínimo de dois sinais está certo, mas a testemunha é prova suplementar, não requisito."
+  ]
+ },
+ {
+  "q": "Condutor abordado em blitz não apresenta nenhum sinal de alteração psicomotora e se recusa a soprar o etilômetro. Qual é o enquadramento, segundo a Resolução CONTRAN nº 1.031/2026 e o CTB?",
+  "alts": [
+   "Infração do art. 165: multa (dez vezes) e suspensão do direito de dirigir por 12 meses",
+   "Infração do art. 165-A: multa (dez vezes) e suspensão do direito de dirigir por 12 meses",
+   "Crime do art. 306, porque a recusa faz presumir a alteração da capacidade psicomotora",
+   "Nenhuma infração, pois ninguém é obrigado a produzir prova contra si na fiscalização",
+   "Infração do art. 165-A: multa (cinco vezes) e suspensão do direito de dirigir por 6 meses"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Recusa sem sinais",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 8º, §1º; CTB, arts. 165-A e 277, §3º.",
+  "coment": "O §1º do art. 8º da Resolução CONTRAN nº 1.031/2026 manda aplicar as penalidades e medidas administrativas do ART. 165-A ao condutor que recusar qualquer dos procedimentos, DESDE QUE NÃO estejam presentes pelo menos dois sinais de alteração da capacidade psicomotora. O art. 165-A (Lei nº 13.281/2016) é infração gravíssima, com multa multiplicada por dez e suspensão do direito de dirigir por 12 meses, e o art. 277, §3º, reforça que a recusa atrai essas penalidades. Mudança importante: a Resolução nº 432/2013 mandava aplicar à recusa as penalidades do art. 165; a nova norma aponta expressamente o art. 165-A. Com dois ou mais sinais, o enquadramento passa a ser o art. 165, sem prejuízo do crime (§2º).",
+  "porAlt": [
+   "As penalidades coincidem, mas sem sinais o enquadramento da recusa é o art. 165-A, não o 165.",
+   "Correta: sem sinais, a recusa é a infração autônoma do art. 165-A, gravíssima, multa ×10 e 12 meses.",
+   "A recusa não presume o crime; sem sinais nem medição, não há prova da alteração psicomotora.",
+   "A recusa é infração administrativa autônoma (art. 165-A), ainda que não haja prova do consumo.",
+   "O art. 165-A prevê multa multiplicada por dez e suspensão por doze meses, não cinco e seis."
+  ]
+ },
+ {
+  "q": "Condutor com fala alterada, dificuldade de equilíbrio e odor etílico recusa o teste de etilômetro regularmente ofertado. Segundo a Resolução CONTRAN nº 1.031/2026, qual é o tratamento aplicável?",
+  "alts": [
+   "Aplicam-se as penalidades do art. 165-A, pois a recusa tem precedência aos sinais",
+   "Aplicam-se as penalidades do art. 165, sem prejuízo do crime do art. 306 do CTB",
+   "Aplicam-se as penalidades do art. 165-A somadas às do art. 165, em dupla autuação",
+   "Aplica-se o crime do art. 306, e a infração administrativa fica afastada nesse caso",
+   "Aplicam-se as penalidades do art. 165 se o condutor também aceitar o exame de sangue"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Recusa com sinais de alteração",
+  "base": "Resolução CONTRAN nº 1.031/2026, arts. 7º, §1º; 8º, §2º; 9º, III e §1º; CTB, arts. 165 e 306.",
+  "coment": "Fala alterada e dificuldade de equilíbrio (capacidade motora e verbal) e odor de álcool no hálito (aparência) somam três sinais do Anexo II — acima do mínimo de dois do art. 7º, §1º. Nesse caso, o art. 8º, §2º, manda aplicar as penalidades e medidas administrativas do ART. 165, sem prejuízo da incidência do crime do art. 306, ambos do CTB. O art. 9º, III, lista os sinais obtidos na forma do art. 7º como meio de caracterizar o crime, e o §1º lembra que o crime não elide a infração administrativa. A recusa só leva ao art. 165-A quando NÃO há ao menos dois sinais (art. 8º, §1º). Não há dupla autuação 165 + 165-A, e a constatação por sinais não depende de o condutor aceitar outro exame.",
+  "porAlt": [
+   "O art. 165-A só se aplica à recusa quando NÃO há pelo menos dois sinais de alteração.",
+   "Correta: com dois ou mais sinais, aplica-se o art. 165 sem prejuízo do crime do art. 306.",
+   "A norma escolhe um enquadramento administrativo conforme haja ou não sinais, sem somar os dois.",
+   "O crime não afasta a infração: o art. 9º, §1º, diz que ele não elide a aplicação do art. 165.",
+   "A constatação por sinais independe de o condutor aceitar exame de sangue, que é suplementar."
+  ]
+ },
+ {
+  "q": "Abordado em blitz, condutor recusa o etilômetro regularmente ofertado pelo agente e declara que aceita apenas a coleta de sangue em hospital. Como a Resolução CONTRAN nº 1.031/2026 qualifica essa conduta?",
+  "alts": [
+   "Como recusa, pois não cabe ao condutor escolher a modalidade de verificação",
+   "Como exercício de direito, cabendo ao agente providenciar a coleta de sangue",
+   "Como recusa se o hospital estiver a mais de trinta quilômetros da abordagem",
+   "Como aceitação, se o condutor assinar termo de compromisso de comparecimento",
+   "Como recusa se houver pelo menos dois sinais de alteração psicomotora no auto"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Escolha da modalidade de teste",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 8º, §3º; art. 3º, §5º; art. 9º, §3º.",
+  "coment": "O §3º do art. 8º da Resolução CONTRAN nº 1.031/2026 define: a recusa caracteriza-se pela negativa do condutor em se submeter ao procedimento de verificação adequado à fiscalização, quando regularmente ofertado pelo agente, NÃO CABENDO AO CONDUTOR ESCOLHER a modalidade de verificação a ser empregada. A própria norma manda priorizar o etilômetro (art. 3º, §5º), e o exame de sangue, na nova sistemática, é exame suplementar da esfera policial, a critério da autoridade policial, podendo servir de contraprova no inquérito (art. 9º, IV e §3º). Sem sinais, a recusa leva ao art. 165-A; com pelo menos dois sinais, ao art. 165 e eventualmente ao crime do art. 306. A presença de sinais muda o enquadramento, não a caracterização da recusa.",
+  "porAlt": [
+   "Correta: o §3º do art. 8º diz que não cabe ao condutor escolher a modalidade de verificação.",
+   "Não há direito de escolher o exame; o agente oferta o procedimento adequado, com prioridade ao etilômetro.",
+   "A norma não condiciona a recusa à distância do hospital; basta negar o procedimento ofertado.",
+   "Recusar o teste ofertado é recusa, e não há termo de compromisso que a converta em aceitação.",
+   "A recusa existe com ou sem sinais; os sinais só mudam o enquadramento para o art. 165."
+  ]
+ },
+ {
+  "q": "Configurado o crime do art. 306 pelo etilômetro, o condutor é levado à Polícia Judiciária. Segundo a Resolução CONTRAN nº 1.031/2026, qual é o papel do exame de sangue, do exame clínico e dos exames laboratoriais?",
+  "alts": [
+   "São obrigatórios e anulam o etilômetro quando o resultado sanguíneo for inferior",
+   "São suplementares, a critério da autoridade policial, e admitidos como contraprova",
+   "São dispensados, pois o etilômetro é o único meio de prova aceito no inquérito policial",
+   "São obrigatórios para a lavratura do auto de infração administrativa do art. 165",
+   "São suplementares, mas o resultado deles prevalece sobre o etilômetro na autuação"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Exames suplementares no crime",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 9º, I a VI e §§1º a 3º.",
+  "coment": "O art. 9º da Resolução CONTRAN nº 1.031/2026 caracteriza o crime do art. 306 por qualquer destes meios: etilômetro com medição ≥ 0,34 mg/L (descontado o erro), aparelho de outras substâncias com resultado qualitativo positivo, sinais de alteração, exame de sangue ≥ 6 dg/L, exame clínico com laudo conclusivo firmado por médico perito, ou exames de laboratórios especializados. O §3º esclarece que os exames dos incisos IV, V e VI (sangue, clínico, laboratoriais) são SUPLEMENTARES, realizados a critério da autoridade policial, podendo servir como CONTRAPROVA no inquérito, PERMANECENDO VÁLIDOS os resultados do etilômetro, do aparelho ou dos sinais para a infração administrativa e as providências de polícia judiciária. O condutor e as testemunhas vão à Polícia Judiciária com os elementos probatórios (§2º).",
+  "porAlt": [
+   "Não são obrigatórios, e o etilômetro permanece válido para a infração e as providências policiais.",
+   "Correta: o §3º os define como suplementares, a critério da autoridade policial, e úteis como contraprova.",
+   "O inquérito admite outros meios; sangue, exame clínico e laboratório estão no próprio art. 9º.",
+   "O auto do art. 165 se sustenta no etilômetro, no aparelho ou nos sinais, sem exigir esses exames.",
+   "Os resultados do etilômetro, aparelho ou sinais permanecem válidos para a infração administrativa."
+  ]
+ },
+ {
+  "q": "No auto de infração do art. 165 lavrado com base no etilômetro, qual informação a Resolução CONTRAN nº 1.031/2026 torna dispensável, e por quê?",
+  "alts": [
+   "O número de série, porque o teste já o identifica",
+   "A medição realizada, porque basta o valor considerado",
+   "O limite regulamentado, porque ele será sempre 0,00",
+   "O valor considerado, porque o sistema o calcula depois",
+   "A marca do aparelho, porque o modelo já a identifica"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Auto de infração com etilômetro",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 10, I e §2º.",
+  "coment": "O art. 10, I, da Resolução CONTRAN nº 1.031/2026 exige, no auto de infração lavrado com etilômetro, a marca, o modelo e o número de série do aparelho (ou o número patrimonial), o número do teste, a medição realizada e o valor considerado, sendo DISPENSÁVEL informar o limite regulamentado, que sempre será 0,00. Isso reflete a tolerância zero do art. 276 do CTB — a margem existe apenas como erro máximo admissível descontado da medição (Tabela do Anexo I), e não como limite legal de consumo. A Resolução nº 432/2013 exigia que o auto trouxesse o limite regulamentado em mg/L. O campo “Valor Considerado” segue as margens de erro do Anexo I (art. 10, §2º).",
+  "porAlt": [
+   "O número de série (ou patrimonial) é informação exigida pelo art. 10, I.",
+   "A medição realizada é obrigatória no auto, ao lado do valor considerado.",
+   "Correta: o art. 10, I, dispensa o limite regulamentado, que será sempre 0,00.",
+   "O valor considerado é campo obrigatório, preenchido pela Tabela do Anexo I.",
+   "Marca e modelo do aparelho são ambos exigidos pelo art. 10, I, da Resolução."
+  ]
+ },
+ {
+  "q": "Segundo a Resolução CONTRAN nº 1.031/2026, o que é obrigatório nos casos de óbito decorrente de sinistro de trânsito?",
+  "alts": [
+   "Exame de sangue ou outro laboratorial para detectar álcool ou outra substância psicoativa",
+   "Exame de alcoolemia na vítima fatal, sem a pesquisa de outras substâncias psicoativas",
+   "Teste de etilômetro em todos os condutores envolvidos, vivos ou mortos, no próprio local",
+   "Exame toxicológico de larga janela na vítima fatal, com janela mínima de noventa dias",
+   "Exame de sangue quando houver suspeita fundada de ingestão prévia de bebida alcoólica"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Exame obrigatório em óbitos",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 13 e parágrafo único; Resolução CONTRAN nº 432/2013, art. 11 (revogada).",
+  "coment": "O art. 13 da Resolução CONTRAN nº 1.031/2026 torna obrigatória, nos casos de óbitos decorrentes de sinistro de trânsito, para fins da perícia oficial, a realização de exame de sangue ou de outro exame laboratorial destinado à detecção da presença de ÁLCOOL OU DE OUTRA SUBSTÂNCIA PSICOATIVA que determine dependência. É uma ampliação em relação à Resolução nº 432/2013 (revogada), cujo art. 11 falava apenas em exame de alcoolemia para as vítimas fatais. O parágrafo único determina que as informações produzidas subsidiem o planejamento, a gestão e a avaliação das políticas públicas de segurança viária do Sistema Nacional de Trânsito, observada a Lei Geral de Proteção de Dados (Lei nº 13.709/2018). A obrigação independe de suspeita prévia.",
+  "porAlt": [
+   "Correta: o art. 13 exige sangue ou outro exame laboratorial para álcool ou outra substância psicoativa.",
+   "Restringir ao álcool era a regra da Resolução nº 432/2013; a nova norma inclui outras substâncias.",
+   "O etilômetro não serve para a perícia do óbito; a norma exige exame de sangue ou laboratorial.",
+   "Larga janela de 90 dias é o toxicológico do art. 148-A, não o exame pericial do óbito.",
+   "A obrigação vale em todo óbito por sinistro, sem depender de suspeita de ingestão de bebida."
+  ]
+ },
+ {
+  "q": "Condutor abordado em blitz, sem nenhum sinal de alteração, questiona por que deve soprar o etilômetro. Segundo a Resolução CONTRAN nº 1.031/2026, qual é a resposta correta?",
+  "alts": [
+   "É exigível quando houver sinistro ou pelo menos dois sinais de alteração",
+   "Todo condutor fiscalizado está sujeito aos procedimentos, mesmo sem sinais",
+   "É exigível quando o agente registrar odor de álcool no hálito do condutor",
+   "É exigível de motoristas profissionais das categorias C, D e E na blitz",
+   "É exigível quando o condutor declarar ter ingerido alguma bebida alcoólica"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Fiscalização rotineira",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 2º, caput e §§1º e 2º; CTB, arts. 269, IX, e 277.",
+  "coment": "O art. 2º da Resolução CONTRAN nº 1.031/2026 define a fiscalização do consumo de álcool e outras substâncias psicoativas como procedimento operacional ROTINEIRO dos órgãos de trânsito. O §1º é explícito: todo condutor de veículo automotor alvo de fiscalização, a critério do agente, poderá ser submetido aos procedimentos da Resolução, AINDA QUE NÃO APRESENTE NENHUM SINAL de alteração da capacidade psicomotora. O §2º acrescenta que, em sinistros de trânsito, com ou sem vítimas, os condutores deverão ser submetidos aos procedimentos sempre que possível. Isso se apoia no art. 277 do CTB (condutor envolvido em sinistro ou alvo de fiscalização) e no art. 269, IX (teste de alcoolemia como medida administrativa). Recusar sem sinais leva ao art. 165-A.",
+  "porAlt": [
+   "Sinistro e sinais não são pré-requisitos; a fiscalização rotineira alcança qualquer condutor.",
+   "Correta: o §1º do art. 2º permite submeter qualquer condutor fiscalizado, mesmo sem sinais.",
+   "O odor etílico não é condição para o teste, que pode ser feito em qualquer condutor abordado.",
+   "A fiscalização de alcoolemia alcança condutores de todas as categorias, não só C, D e E.",
+   "A declaração de consumo não é condição; o teste pode ser feito mesmo quando ele nega beber."
+  ]
+ },
+ {
+  "q": "Quais requisitos o etilômetro deve atender para que a medição tenha validade na fiscalização, segundo a Resolução CONTRAN nº 1.031/2026?",
+  "alts": [
+   "Modelo aprovado pela Senatran e calibração anual feita pelo próprio órgão de trânsito que autua",
+   "Modelo aprovado pelo Inmetro e calibração feita pelo próprio fabricante a cada cinco anos de uso",
+   "Registro na Anvisa como produto para saúde e verificação metrológica oficial feita a cada dois anos",
+   "Modelo aprovado pelo Inmetro e aferição diária feita pelo próprio agente antes de cada operação",
+   "Modelo aprovado pelo Inmetro e aprovação nas verificações inicial, eventual, em serviço e periódica"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Requisitos do etilômetro",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 5º, I e II, e §1º; CTB, art. 306, §4º.",
+  "coment": "O art. 5º da Resolução CONTRAN nº 1.031/2026 exige que o etilômetro: I – tenha seu modelo aprovado pelo Inmetro; e II – seja aprovado na verificação metrológica inicial, eventual, em serviço e PERIÓDICA, realizadas pelo Inmetro ou por órgão da Rede Brasileira de Metrologia Legal e Qualidade (RBMLQ), conforme a regulamentação metrológica. (A Resolução nº 432/2013 falava em verificação “anual”.) Do resultado deve ser descontado o erro máximo admissível da Tabela do Anexo I (§1º). Esses requisitos NÃO se aplicam ao aparelho de pré-teste, de caráter apenas indicativo (art. 4º, §1º). O aparelho para outras substâncias psicoativas segue regra própria: certificação no SBAC por organismo acreditado pelo Inmetro (art. 6º).",
+  "porAlt": [
+   "A aprovação de modelo é do Inmetro, e a verificação é do Inmetro ou da RBMLQ, não do órgão autuador.",
+   "A norma não fala em calibração pelo fabricante, e sim em verificações metrológicas oficiais.",
+   "O etilômetro não é regulado como produto de saúde na Anvisa, e sim pela metrologia legal.",
+   "Não há exigência de aferição diária pelo agente; as verificações são as metrológicas oficiais.",
+   "Correta: modelo aprovado pelo Inmetro e aprovação nas verificações inicial, eventual, em serviço e periódica."
+  ]
+ },
+ {
+  "q": "Na Tabela de Valores Referenciais para Etilômetro (Anexo I da Resolução CONTRAN nº 1.031/2026), qual erro máximo admissível se desconta de medição inferior a 0,40 mg/L e qual vale de 0,40 até 2,00 mg/L?",
+  "alts": [
+   "Valor fixo de 0,032 mg/L; acima de 0,40 até 2,00 mg/L, o erro passa a ser de 8%",
+   "Valor fixo de 0,04 mg/L; acima de 0,40 até 2,00 mg/L, o erro passa a ser de 10%",
+   "Percentual de 8%; acima de 0,40 até 2,00 mg/L, passa a ser o valor fixo de 0,032",
+   "Valor fixo de 0,032 mg/L; acima de 0,40 até 2,00 mg/L, o erro passa a ser de 30%",
+   "Valor fixo de 0,05 mg/L; acima de 0,40 até 2,00 mg/L, o erro passa a ser de 5%"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Erro máximo admissível",
+  "base": "Resolução CONTRAN nº 1.031/2026, Anexo I (Tabela de Valores Referenciais para Etilômetro).",
+  "coment": "O Anexo I da Resolução CONTRAN nº 1.031/2026 fixa o erro máximo admissível (EM) descontado da medição realizada (MR): 1) MR inferior a 0,40 mg/L: 0,032 mg/L; 2) MR acima de 0,40 mg/L até 2,00 mg/L: 8%; 3) MR acima de 2,00 mg/L: 30%. O valor considerado para autuação é VC = MR − EM, com duas casas decimais, desprezando-se as demais, sem arredondamento. Exemplos da tabela: MR 0,05 → VC 0,01 (início da infração do art. 165); MR 0,34 → VC 0,30 (início do crime do art. 306); MR 0,50 → VC 0,46. Pegadinha: 0,05 mg/L é a medição mínima para a infração, não o erro máximo; 30% é o erro acima de 2,00 mg/L.",
+  "porAlt": [
+   "Correta: 0,032 mg/L abaixo de 0,40 mg/L e 8% entre 0,40 e 2,00 mg/L, conforme o Anexo I.",
+   "Os valores de 0,04 mg/L e 10% não constam do Anexo I; os corretos são 0,032 mg/L e 8%.",
+   "A ordem está invertida: o valor fixo vale abaixo de 0,40 mg/L e o percentual de 8% acima.",
+   "30% é o erro para medições acima de 2,00 mg/L; entre 0,40 e 2,00 mg/L o erro é de 8%.",
+   "0,05 mg/L é a medição mínima da infração, não o erro máximo; e 5% não consta da tabela."
+  ]
+ },
+ {
+  "q": "Condutor sem sinais de alteração psicomotora sopra o etilômetro, que registra medição de 0,33 mg/L. Aplicando a Tabela do Anexo I da Resolução CONTRAN nº 1.031/2026, qual é o enquadramento?",
+  "alts": [
+   "Valor considerado de 0,33 mg/L: infração do art. 165 e crime do art. 306 do CTB",
+   "Valor considerado de 0,30 mg/L: infração do art. 165 e crime do art. 306 do CTB",
+   "Valor considerado de 0,29 mg/L: infração do art. 165, sem caracterizar o crime",
+   "Valor considerado de 0,29 mg/L: crime do art. 306, sem a infração do art. 165",
+   "Valor considerado de 0,31 mg/L: infração do art. 165-A, por teor próximo ao penal"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Cálculo do valor considerado",
+  "base": "Resolução CONTRAN nº 1.031/2026, arts. 8º, I, e 9º, I, e Anexo I; CTB, art. 306, §1º, I.",
+  "coment": "Abaixo de 0,40 mg/L, o erro máximo admissível é de 0,032 mg/L. VC = 0,33 − 0,032 = 0,298, e, desprezando-se a terceira casa sem arredondamento, VC = 0,29 mg/L — exatamente o que consta da Tabela do Anexo I. O crime do art. 306 pelo etilômetro exige medição realizada igual ou superior a 0,34 mg/L (VC 0,30 mg/L, que corresponde ao 0,3 mg/L do art. 306, §1º, I). Assim, sem sinais de alteração, há apenas a infração administrativa do art. 165 (gravíssima, multa ×10, suspensão por 12 meses). Se houvesse pelo menos dois sinais de alteração, o crime poderia ser caracterizado pelo inciso III do art. 9º, independentemente da medição. O art. 165-A é a recusa, não um “quase crime”.",
+  "porAlt": [
+   "O valor considerado exige descontar o erro máximo; a medição bruta não é usada na autuação.",
+   "Com desconto de 0,032 mg/L, o VC é 0,29; o VC de 0,30 só surge com medição de 0,34 mg/L.",
+   "Correta: 0,33 − 0,032 = 0,298, truncado em 0,29 mg/L; infração administrativa, sem crime.",
+   "O VC está certo, mas 0,29 mg/L fica abaixo do corte penal e caracteriza a infração do art. 165.",
+   "O art. 165-A tipifica a recusa, e o VC de 0,33 mg/L medido é 0,29, não 0,31 mg/L."
+  ]
+ },
+ {
+  "q": "Motorista abordado sem sinais de alteração tem medição de 0,04 mg/L no etilômetro. Considerando o art. 276 do CTB e a Resolução CONTRAN nº 1.031/2026, qual é a conclusão?",
+  "alts": [
+   "Há a infração do art. 165, pois o art. 276 pune qualquer concentração",
+   "Há a infração do art. 165-A, por teor abaixo do limite de tolerância legal",
+   "Há o crime do art. 306, por se tratar de condutor motorista profissional",
+   "Não há infração pelo etilômetro, que exige medição a partir de 0,05 mg/L",
+   "Há a infração do art. 165, mas com a multa reduzida à metade do valor-base"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Medição abaixo do limiar administrativo",
+  "base": "CTB, art. 276, caput e parágrafo único; Resolução CONTRAN nº 1.031/2026, art. 8º, I, e Anexo I.",
+  "coment": "O caput do art. 276 do CTB diz que qualquer concentração de álcool sujeita o condutor às penalidades do art. 165, mas o parágrafo único remete ao Contran as margens de tolerância quando a infração é apurada por aparelho, observada a legislação metrológica. A Resolução CONTRAN nº 1.031/2026 (art. 8º, I) caracteriza a infração pelo etilômetro a partir de medição realizada IGUAL OU SUPERIOR a 0,05 mg/L, da qual se desconta o erro máximo (a Tabela do Anexo I começa em MR 0,05 → VC 0,01). Medição de 0,04 mg/L, sem sinais, não caracteriza a infração pelo etilômetro. A pegadinha é ler o art. 276 isoladamente: a “tolerância zero” convive com a margem metrológica. Não existe multa reduzida nem crime por categoria profissional.",
+  "porAlt": [
+   "O art. 276 remete ao Contran a margem metrológica, e a Resolução começa a infração em 0,05 mg/L.",
+   "O art. 165-A tipifica a recusa ao teste, não uma medição abaixo do limiar de tolerância.",
+   "O crime exige medição de 0,34 mg/L ou sinais, sem regra especial para motorista profissional.",
+   "Correta: pelo art. 8º, I, a infração pelo etilômetro exige medição igual ou superior a 0,05 mg/L.",
+   "O CTB não prevê multa reduzida à metade; ou há a infração do art. 165, ou não há."
+  ]
+ },
+ {
+  "q": "Como é obtido o “valor considerado” (VC) para autuação a partir da medição realizada (MR) pelo etilômetro, segundo o Anexo I da Resolução CONTRAN nº 1.031/2026?",
+  "alts": [
+   "MR menos o erro máximo, arredondado para cima na segunda casa decimal",
+   "MR mais o erro máximo, com duas casas decimais e sem arredondamento",
+   "Média de duas medições, descontada a metade do erro máximo admissível",
+   "MR menos o erro máximo, arredondado para o centésimo mais próximo",
+   "MR menos o erro máximo, com duas casas decimais e sem arredondamento"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Valor considerado — regra de cálculo",
+  "base": "Resolução CONTRAN nº 1.031/2026, Anexo I (nota da Tabela) e art. 10, §2º.",
+  "coment": "A nota do Anexo I da Resolução CONTRAN nº 1.031/2026 explica que, para definir o VC, deduz-se da MR o erro máximo admissível (VC = MR − EM). No resultado, consideram-se apenas DUAS casas decimais, desprezando-se as demais, SEM ARREDONDAMENTO, observados os itens 4.1.2 e 5.3.1 do Regulamento Técnico Metrológico (Portaria Inmetro nº 369/2021), porque o etilômetro apresenta a MR com apenas duas casas decimais. Exemplo: MR 0,33 → 0,33 − 0,032 = 0,298 → VC 0,29 (e não 0,30, como daria o arredondamento). Esse detalhe decide casos de fronteira com o crime (VC 0,30 mg/L). O campo “Valor Considerado” do auto segue essa tabela (art. 10, §2º). A Resolução exige uma medição válida, não média de duas.",
+  "porAlt": [
+   "A norma veda o arredondamento: as casas além da segunda são simplesmente desprezadas.",
+   "O erro máximo é deduzido da medição, em favor do condutor, e não somado a ela.",
+   "A autuação usa uma medição válida; não há média de medições nem meio erro máximo.",
+   "Arredondar para o centésimo mais próximo contraria a nota: as casas extras são desprezadas.",
+   "Correta: VC = MR − EM, com duas casas decimais, desprezando as demais sem arredondar."
+  ]
+ },
+ {
+  "q": "No termo de constatação de sinais do Anexo II da Resolução CONTRAN nº 1.031/2026, soluços, vômito, olhos vermelhos e desordem nas vestes são registrados em qual grupo?",
+  "alts": [
+   "Aparência, grupo que inclui também sonolência e odor de álcool no hálito",
+   "Atitude, grupo que inclui também agressividade, arrogância e exaltação",
+   "Capacidade motora e verbal, que inclui também fala alterada e dispersão",
+   "Orientação, grupo que inclui também saber onde está e saber data e hora",
+   "Memória, grupo que inclui saber o endereço e lembrar os atos cometidos"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Anexo II — grupos de sinais",
+  "base": "Resolução CONTRAN nº 1.031/2026, Anexo II, item VI.",
+  "coment": "O item VI do Anexo II da Resolução CONTRAN nº 1.031/2026 organiza os sinais observados pelo agente em cinco grupos: a) APARÊNCIA — sonolência, olhos vermelhos, vômito, soluços, desordem nas vestes e odor de álcool no hálito; b) ATITUDE — agressividade, arrogância, exaltação, ironia, falante e dispersão; c) ORIENTAÇÃO — se sabe onde está e se sabe a data e a hora; d) MEMÓRIA — se sabe seu endereço e se lembra dos atos cometidos; e) CAPACIDADE MOTORA E VERBAL — dificuldade no equilíbrio e fala alterada. O termo traz ainda o relato do condutor (sinistro, ingestão de bebida e uso de substância, com o momento) e a afirmação expressa do agente sobre a influência e a recusa. Para constatar a alteração, exigem-se pelo menos dois sinais (art. 7º, §1º).",
+  "porAlt": [
+   "Correta: soluços, vômito, olhos vermelhos e desordem nas vestes pertencem ao grupo aparência.",
+   "O grupo atitude reúne comportamentos (agressividade, ironia, exaltação), não esses achados físicos.",
+   "Capacidade motora e verbal reúne equilíbrio e fala; dispersão pertence ao grupo atitude.",
+   "Orientação avalia se sabe onde está e a data e hora, e não achados de aparência física.",
+   "Memória avalia endereço e lembrança dos atos, e não sinais físicos de aparência."
+  ]
+ },
+ {
+  "q": "Paciente de 70 kg, saudável, pergunta ao médico do tráfego quanto duas latas de cerveja elevariam sua alcoolemia. Segundo a Diretriz ABRAMET “Alcoolemia e direção veicular segura”, qual é a estimativa?",
+  "alts": [
+   "Cerca de 0,1 a 0,2 g/l, pois cada dose contém aproximadamente 6 g de álcool",
+   "Cerca de 0,6 a 0,8 g/l, pois cada dose contém aproximadamente 20 g de álcool",
+   "Cerca de 0,3 a 0,5 g/l, pois cada dose contém aproximadamente 25 g de álcool",
+   "Cerca de 1,0 a 1,2 g/l, pois cada dose contém aproximadamente 12 g de álcool",
+   "Cerca de 0,3 a 0,5 g/l, pois cada dose contém aproximadamente 12 g de álcool"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Dose-padrão e alcoolemia estimada",
+  "base": "Diretriz ABRAMET/AMB/CFM “Alcoolemia e direção veicular segura” (2008), Introdução e item 2.",
+  "coment": "A Diretriz ABRAMET define uma dose — uma lata de cerveja, uma taça de vinho ou meio copo de uísque — como aproximadamente 12 g de álcool, e afirma que um adulto médio (homem de 70 kg ou mulher de 62 kg, em bom estado de saúde) consumindo DUAS doses atingirá alcoolemia de 0,3 a 0,5 g/l. A orientação ao paciente decorre do item 2 da própria diretriz: com alcoolemia igual ou superior a 0,2 g/l já ficam prejudicadas a atenção dividida, as funções visuais e o acompanhamento de movimento, e entre 0,2 e 0,5 g/l o risco de acidente fatal é de 2,6 a 4,6 vezes o do condutor sóbrio. Por isso a conclusão da diretriz é que não existe concentração segura: alcoolemia zero é o único padrão de dirigibilidade sem riscos.",
+  "porAlt": [
+   "A diretriz atribui cerca de 12 g por dose, e duas doses resultam em 0,3–0,5 g/l, não 0,1–0,2.",
+   "A estimativa para duas doses é de 0,3–0,5 g/l, e a dose tem cerca de 12 g, não 20 g.",
+   "A faixa está certa, mas a dose-padrão da diretriz corresponde a cerca de 12 g, não 25 g.",
+   "A dose de 12 g está certa, mas duas doses levam a 0,3–0,5 g/l, não a 1,0–1,2 g/l.",
+   "Correta: duas doses de cerca de 12 g levam o adulto médio a 0,3–0,5 g/l, segundo a diretriz."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, a partir de que alcoolemia a maioria dos indivíduos já se encontra significantemente debilitada para funções cruciais à condução, como o processamento de informações?",
+  "alts": [
+   "0,8 g/l, sendo que abaixo desse valor o declínio das funções é desprezível",
+   "0,5 g/l, embora o declínio dessas funções já se inicie com alcoolemias baixas",
+   "0,6 g/l, valor que coincide com o limite criminal e marca o início do declínio",
+   "1,0 g/l, pois abaixo desse valor a tolerância compensa o declínio das funções",
+   "0,3 g/l, valor a partir do qual o risco de acidente fatal já é dez vezes maior"
+  ],
+  "gab": 1,
+  "tema": "alcool",
+  "sub": "Efeitos por faixa de alcoolemia",
+  "base": "Diretriz ABRAMET/AMB/CFM “Alcoolemia e direção veicular segura” (2008), item 2.",
+  "coment": "O item 2 da Diretriz ABRAMET afirma que a diminuição da capacidade de desempenhar funções cruciais para a condução, como o processamento de informações, SE INICIA COM ALCOOLEMIAS BAIXAS, e que a MAIORIA dos indivíduos se encontra significantemente debilitada com alcoolemia de 0,5 g/l. Os marcos da diretriz por faixa: ≥ 0,2 g/l — prejuízo da atenção dividida, das funções visuais e do acompanhamento de movimento; 0,2 a 0,5 g/l — risco de acidente fatal 2,6 a 4,6 vezes o do sóbrio; 0,5 a 0,7 g/l — risco relativo de 4 a 10 vezes. Pegadinha: o limite criminal (6 dg/L) não marca o início do prejuízo, que começa bem antes; por isso a diretriz defende alcoolemia zero.",
+  "porAlt": [
+   "A diretriz aponta 0,5 g/l para a maioria e diz que o declínio começa com alcoolemias baixas.",
+   "Correta: a maioria está significantemente debilitada com 0,5 g/l, e o declínio começa antes.",
+   "O limite criminal não marca o início do declínio, que começa em alcoolemias bem menores.",
+   "A diretriz não fala em tolerância compensatória até 1,0 g/l; o prejuízo começa muito antes.",
+   "Risco de 4 a 10 vezes refere-se à faixa de 0,5 a 0,7 g/l, não a 0,3 g/l."
+  ]
+ },
+ {
+  "q": "Segundo o 2º levantamento domiciliar do CEBRID, citado na Diretriz ABRAMET sobre alcoolemia, qual proporção da população brasileira é dependente de álcool?",
+  "alts": [
+   "7,3%, numa população em que 74,6% já consumiram álcool na vida",
+   "12,3%, numa população em que 38,0% já consumiram álcool na vida",
+   "22,9%, numa população em que 74,6% já consumiram álcool na vida",
+   "12,3%, numa população em que 74,6% já consumiram álcool na vida",
+   "28,9%, numa população em que 62,0% já consumiram álcool na vida"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Epidemiologia do consumo de álcool",
+  "base": "Diretriz ABRAMET/AMB/CFM “Alcoolemia e direção veicular segura” (2008), Introdução (dados do CEBRID/UNIFESP, 2005).",
+  "coment": "A Diretriz ABRAMET cita o 2º levantamento domiciliar sobre o consumo de drogas psicotrópicas do CEBRID: 74,6% da população brasileira consumiram álcool durante a vida, 12,3% são DEPENDENTES e 7,3% se envolveram em situações de risco físico; todas as porcentagens foram maiores no sexo masculino. Outros números da mesma diretriz que costumam ser trocados nos distratores: 28,9% das vítimas de trauma atendidas em sala de emergência de São Paulo tinham alcoolemia positiva; 38% dos condutores de um estudo brasileiro dirigiam sob efeito do álcool; 22,9% acreditavam que a bebida não influenciava negativamente sua direção; e 62% é a redução de vítimas fatais atribuída ao conjunto de intervenções. O edital cobra prevalência e “como o álcool afeta o motorista”.",
+  "porAlt": [
+   "7,3% é a proporção que se envolveu em situações de risco físico, não a de dependentes.",
+   "A dependência é de 12,3%, mas o consumo na vida foi de 74,6%; 38% é dado de outro estudo.",
+   "22,9% é a proporção de condutores que achavam que a bebida não os prejudicava ao dirigir.",
+   "Correta: 12,3% são dependentes, numa população em que 74,6% já consumiram álcool na vida.",
+   "28,9% é a alcoolemia positiva em vítimas de trauma em São Paulo, não a dependência."
+  ]
+ },
+ {
+  "q": "Estudo brasileiro citado na Diretriz ABRAMET sobre alcoolemia avaliou condutores em circulação. Qual foi o achado relatado?",
+  "alts": [
+   "13% dirigiam sob efeito do álcool, sendo 22% com alcoolemia abaixo do limite legal",
+   "38% dirigiam sob efeito do álcool, e todos estavam acima do limite legal então vigente",
+   "38% dirigiam sob efeito do álcool, sendo 18% com alcoolemia abaixo do limite legal",
+   "28,9% dirigiam sob efeito do álcool, e 47% já tinham sido autuados por embriaguez",
+   "62% dirigiam sob efeito do álcool, sendo 18% com alcoolemia acima de 0,6 g/l no teste"
+  ],
+  "gab": 2,
+  "tema": "alcool",
+  "sub": "Beber e dirigir no Brasil",
+  "base": "Diretriz ABRAMET/AMB/CFM “Alcoolemia e direção veicular segura” (2008), Introdução (ref. 6, Campos et al., 2008).",
+  "coment": "A Diretriz ABRAMET relata estudo brasileiro em que 38% dos condutores dirigiam, naquele momento, sob efeito do álcool, sendo 18% com valores de alcoolemia INFERIORES ao estabelecido por lei; e 22,9% acreditavam que a bebida não influenciava negativamente sua capacidade de dirigir, sobretudo se adotassem medidas tidas como protetoras, como tomar café e dirigir com mais cautela. O dado reforça o argumento central da diretriz: o limite legal, mesmo baseado em evidências, não coíbe todos os acidentes relacionados ao álcool, pois há condutores alterados abaixo do limite — a NHTSA relatou que 13% dos alcoolizados mortos estavam abaixo do limite permitido. Daí a recomendação de alcoolemia zero.",
+  "porAlt": [
+   "13% é o dado da NHTSA sobre mortos abaixo do limite; 13–22% é quem sabia o limite legal.",
+   "O estudo mostrou justamente que 18% estavam abaixo do limite, e não todos acima dele.",
+   "Correta: 38% sob efeito do álcool, sendo 18% com alcoolemia inferior ao limite legal.",
+   "28,9% é de vítimas de trauma em São Paulo, e 47% é o teto de prevalência em vítimas fatais.",
+   "62% é a redução de mortes com intervenções, e os 18% estavam abaixo do limite, não acima."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, que efeito o Código de Trânsito Brasileiro de 1997 teve sobre os traumas e sobre a proporção de condutores alcoolizados?",
+  "alts": [
+   "Reduziu 9% dos traumas em ocupantes e 20% em motociclistas; menos alcoolizados só entre aqueles",
+   "Reduziu 20% dos traumas em ocupantes e 9% em motociclistas; menos alcoolizados nos dois grupos já",
+   "Reduziu 62% dos traumas em ocupantes e 20% em motociclistas, sem mudar a fração de alcoolizados",
+   "Reduziu 20% dos traumas em ocupantes e 9% em motociclistas; menos alcoolizados só entre estes",
+   "Não reduziu os traumas, mas diminuiu em 20% a proporção de condutores alcoolizados em ambos"
+  ],
+  "gab": 3,
+  "tema": "alcool",
+  "sub": "Impacto do CTB de 1997",
+  "base": "Diretriz ABRAMET/AMB/CFM “Alcoolemia e direção veicular segura” (2008), Introdução (ref. 17, Liberatti et al., 2001).",
+  "coment": "A Diretriz ABRAMET registra que o Código de Trânsito Brasileiro acarretou redução de 20% nos traumas em ocupantes de veículos e de 9% nos condutores de motocicletas, mas a diminuição de condutores alcoolizados SÓ OCORREU neste último grupo (motociclistas). O dado ilustra outra tese da diretriz: leis precisam ser divulgadas e fiscalizadas de forma constante, pois o efeito pode ser anulado pela percepção pública de impunidade ou pelo desconhecimento da lei. Os 62% são a redução de vítimas fatais atribuída a estratégias como suspensão da carteira, blitz de alcoolemia, redução do limite e proibição de qualquer concentração alcoólica. Para prova: 20% ocupantes, 9% motociclistas, queda de alcoolizados apenas nos motociclistas.",
+  "porAlt": [
+   "Os percentuais estão invertidos: 20% foi em ocupantes e 9% em motociclistas.",
+   "A queda de condutores alcoolizados ocorreu apenas entre os motociclistas, não nos dois grupos.",
+   "62% é a redução de mortes atribuída às intervenções, não o efeito do CTB sobre traumas.",
+   "Correta: 20% em ocupantes, 9% em motociclistas, e queda de alcoolizados só entre motociclistas.",
+   "Houve redução dos traumas (20% e 9%); a queda de alcoolizados ficou restrita aos motociclistas."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, pessoas que morreram em acidentes relacionados ao álcool (concentração no sangue do condutor de 0,2 g/l ou maior) tinham maior probabilidade de:",
+  "alts": [
+   "Ter sido condenadas por direção sob efeito de álcool nos doze meses anteriores",
+   "Ter sido reprovadas no exame de aptidão física e mental nos cinco anos anteriores",
+   "Ter tido a habilitação cassada por excesso de velocidade nos dois anos anteriores",
+   "Ter usado benzodiazepínico prescrito nas quatro semanas anteriores ao óbito",
+   "Ter sido condenadas por direção sob efeito de álcool nos cinco anos anteriores"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Reincidência e risco de morte",
+  "base": "Diretriz ABRAMET/AMB/CFM “Alcoolemia e direção veicular segura” (2008), item 2.1 (ref. 29, Brewer et al., NEJM 1994).",
+  "coment": "No item 2.1 (Intervenções), a Diretriz ABRAMET afirma que pessoas que morreram em acidentes relacionados ao álcool — concentração no sangue do condutor de 0,2 g/l ou maior — tinham maior probabilidade de terem sido CONDENADAS por uma infração de direção sob efeito de álcool nos CINCO ANOS anteriores. O achado sustenta que o histórico de condução alcoolizada é marcador de risco e alvo de intervenção. A diretriz também observa que as leis de limite desencorajam mais fortemente os “bebedores sociais”, mas têm certo efeito sobre os “bebedores pesados”, com queda também dos acidentes com alcoolemias altas. Não confundir com a janela de doze meses do CTB para reincidência administrativa (arts. 165, parágrafo único, e 263, II).",
+  "porAlt": [
+   "Doze meses é a janela de reincidência do CTB; o estudo citado olhou os cinco anos anteriores.",
+   "O achado refere-se a condenação por dirigir alcoolizado, não a reprovação no exame de aptidão.",
+   "A diretriz fala de condenação por direção sob efeito de álcool, não de cassação por velocidade.",
+   "O dado sobre benzodiazepínicos pertence a outra diretriz e não a este achado sobre o álcool.",
+   "Correta: a diretriz relata condenação prévia por direção sob efeito de álcool nos cinco anos anteriores."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre alcoolemia, qual é o retorno econômico estimado das campanhas de prevenção e de fiscalização do motorista embriagado?",
+  "alts": [
+   "Economia de dois dólares para cada dólar investido nas campanhas",
+   "Economia de doze dólares para cada dólar investido nas campanhas",
+   "Economia de 46% do custo total dos acidentes de trânsito nos EUA",
+   "Economia de seis reais por real investido, segundo cálculo do IPEA",
+   "Economia de seis dólares para cada dólar investido nas campanhas"
+  ],
+  "gab": 4,
+  "tema": "alcool",
+  "sub": "Custo-efetividade da fiscalização",
+  "base": "Diretriz ABRAMET/AMB/CFM “Alcoolemia e direção veicular segura” (2008), Introdução (ref. 19, Shults et al., 2001 — grau A).",
+  "coment": "A Diretriz ABRAMET afirma, com evidência de grau A, que campanhas de prevenção e de fiscalização do motorista embriagado resultam em economia de SEIS DÓLARES para cada dólar investido. Os demais números econômicos da diretriz servem de distratores: nos EUA, os acidentes de trânsito custaram US$ 230,6 bilhões em 2000, e o álcool respondeu por 46% dos custos DECORRENTES DE MORTES (não do custo total); no Brasil, o IPEA estimou em 5,3 bilhões de reais o custo total dos acidentes em aglomerados urbanos; e custos de ferimentos no trânsito respondem por um quarto dos custos com empregados para empresas americanas. O argumento reforça a fiscalização constante defendida no item 2.1.",
+  "porAlt": [
+   "O retorno citado é de seis dólares por dólar, e não de dois dólares por dólar investido.",
+   "O retorno citado é de seis dólares por dólar investido, e não de doze dólares.",
+   "46% é a parcela do álcool nos custos decorrentes de mortes nos EUA, não retorno de campanha.",
+   "O IPEA estimou custos de acidentes urbanos (R$ 5,3 bilhões), e não esse retorno de campanha.",
+   "Correta: a diretriz cita economia de seis dólares para cada dólar investido nas campanhas."
+  ]
+ },
+ {
+  "q": "Motorista de aplicativo em uso de dexclorfeniramina para rinite alérgica pergunta se pode “tomar uma cerveja” no fim do turno e voltar para casa dirigindo. Segundo o MPPCVA da ABRAMET, qual é a orientação correta?",
+  "alts": [
+   "Não: o álcool potencializa o efeito do anti-histamínico, e não se deve beber para dirigir",
+   "Sim: a dexclorfeniramina é de terceira geração e não interage com o álcool que for ingerido",
+   "Sim, se já passaram quatro horas da dose, quando a tolerância ao fármaco já se instalou",
+   "Não, porque a dexclorfeniramina é proibida a quem exerce atividade remunerada de condutor",
+   "Sim: uma só lata de cerveja fica abaixo do limite administrativo de 0,2 g/l de alcoolemia"
+  ],
+  "gab": 0,
+  "tema": "alcool",
+  "sub": "Álcool e anti-histamínicos",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), itens 5-E e 11; CTB, arts. 165 e 276.",
+  "coment": "O MPPCVA classifica a dexclorfeniramina entre os anti-histamínicos de PRIMEIRA geração (com difenidramina, triprolidina, terfenadina e clemastina), que prejudicam significativamente o desempenho de condução, e afirma que os efeitos dos anti-histamínicos são POTENCIALIZADOS quando associados a bebida alcoólica, barbitúricos e benzodiazepínicos. Nas orientações aos condutores, a diretriz é categórica: “Jamais consuma bebidas alcoólicas quando for dirigir!”. A tolerância ao anti-histamínico se desenvolve, em média, após quatro a cinco DIAS — não horas — e nem sempre elimina o prejuízo. Além disso, o CTB não tem limite administrativo de 0,2 g/l: qualquer concentração sujeita às penalidades do art. 165 (art. 276), com a margem metrológica definida pelo Contran.",
+  "porAlt": [
+   "Correta: o álcool potencializa o anti-histamínico, e a diretriz orienta nunca beber para dirigir.",
+   "A dexclorfeniramina é de primeira geração, e o MPPCVA descreve a potencialização pelo álcool.",
+   "A tolerância surge em média após quatro a cinco dias, não horas, e o álcool potencializa o efeito.",
+   "O fármaco não é proibido a condutores; o problema é a sedação e a potencialização pelo álcool.",
+   "Não há limite de 0,2 g/l no CTB: qualquer concentração sujeita às penalidades (art. 276)."
+  ]
+ }
+]

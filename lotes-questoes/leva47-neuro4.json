@@ -1,0 +1,662 @@
+[
+ {
+  "q": "Candidato de 19 anos, sem deficiência física, busca a primeira habilitação na categoria A. Na dinamometria manual obtém 22 kgf na mão direita e 18 kgf na mão esquerda. Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, qual é a conclusão sobre esse quesito?",
+  "alts": [
+   "Atende, pois a média das duas mãos alcança os 20 kgf exigidos para ACC e categorias A e B",
+   "Atende, pois basta a mão dominante alcançar 20 kgf na condução de motocicletas e motonetas",
+   "Não atende, pois a categoria A exige força igual ou superior a 30 kgf em cada uma das mãos",
+   "Atende, pois o valor da mão mais fraca fica a critério da Junta Médica Especial do Detran",
+   "Não atende, pois a categoria A exige força igual ou superior a 20 kgf em cada uma das mãos"
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Dinamometria na categoria A",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 1.3.1",
+  "coment": "O item 1.3.1 do Anexo VIII fixa a força de preensão mínima na dinamometria manual: para ACC e categorias A e B, força igual ou superior a 20 kgf EM CADA UMA DAS MÃOS; para C, D e E, igual ou superior a 30 kgf em cada uma das mãos. A norma não aceita média, nem melhor mão, nem mão dominante: os 18 kgf da mão esquerda bastam para o candidato não atender ao quesito. A válvula do item 1.3.2 (valores a critério da Junta Médica Especial) vale apenas para o portador de deficiência física, o que não é o caso. Pegadinha clássica: somar ou fazer a média das mãos.",
+  "porAlt": [
+   "A norma não admite média: exige o valor mínimo em cada uma das mãos, separadamente.",
+   "Não existe regra de mão dominante; o item 1.3.1 exige a força em cada uma das mãos.",
+   "30 kgf é o piso das categorias C, D e E; para ACC, A e B o piso é 20 kgf por mão.",
+   "A Junta Médica Especial só define os valores para o portador de deficiência física.",
+   "Correta: a exigência de 20 kgf vale para cada mão, e a esquerda ficou em 18 kgf."
+  ]
+ },
+ {
+  "q": "Motorista de 35 anos, habilitado na categoria B e sem deficiência física, pede mudança para a categoria E. Na dinamometria manual obtém 30 kgf na mão direita e 31 kgf na mão esquerda. Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, qual é a conclusão sobre esse quesito?",
+  "alts": [
+   "Não atende, pois as categorias C, D e E exigem força superior a 30 kgf, não apenas igual a ela",
+   "Não atende, pois a categoria E exige força igual ou superior a 35 kgf em cada uma das mãos dele",
+   "Atende, pois as categorias C, D e E exigem força igual ou superior a 30 kgf em cada uma das mãos",
+   "Atende, mas o candidato deve ir à Junta Médica Especial por estar no limite do valor mínimo exigido",
+   "Não atende, pois a mudança de categoria exige média de 40 kgf entre as duas mãos avaliadas no exame"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Dinamometria nas categorias C, D e E",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 1.3.1",
+  "coment": "Pelo item 1.3.1 do Anexo VIII, candidatos às categorias C, D e E devem ter força IGUAL OU SUPERIOR a 30 kgf em cada uma das mãos. O valor limite, portanto, atende: 30 kgf na direita e 31 kgf na esquerda cumprem o requisito. A mudança de categoria (art. 146 do CTB) exige os exames complementares da categoria pretendida, e é por isso que o piso passa de 20 para 30 kgf. Não há previsão de encaminhamento à Junta Médica Especial por estar no limite — a JME, no item 1.3.2, só fixa valores para a pessoa com deficiência física. A pegadinha é ler 'igual ou superior' como 'superior'.",
+  "porAlt": [
+   "A norma diz 'igual ou superior a 30 kgf': o valor exato de 30 kgf já cumpre o requisito.",
+   "Não existe piso de 35 kgf; C, D e E compartilham o mesmo valor mínimo de 30 kgf por mão.",
+   "Correta: o piso é 'igual ou superior' a 30 kgf por mão, e ambas as mãos o alcançam.",
+   "Estar no limite não gera encaminhamento; a JME só atua para a pessoa com deficiência física.",
+   "A norma não usa média nem valor de 40 kgf; exige 30 kgf em cada mão para C, D e E."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, a avaliação da mobilidade ATIVA do candidato consiste em:",
+  "alts": [
+   "O candidato mover pescoço e membros, abrir e fechar as mãos e agachar-se e levantar-se sem apoio",
+   "O examinador pesquisar os movimentos passivos dos segmentos corporais, avaliando a resistência",
+   "O examinador pesquisar os reflexos miotáticos, comparando a resposta obtida nos dois hemicorpos",
+   "O candidato manter o equilíbrio estático e dinâmico, em pé e em marcha, diante do examinador",
+   "O candidato realizar provas de oposição de força e a dinamometria manual em cada uma das mãos"
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Mobilidade ativa, passiva e reflexa",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, itens 1.1.1 a 1.3",
+  "coment": "O item 1.1 do Anexo VIII separa três mobilidades. Na ATIVA (1.1.1), o próprio candidato executa movimentos do pescoço, braços, antebraços, pernas e coxa; fecha e abre as mãos; flete e estende os antebraços; agacha-se e levanta-se sem apoio. Na PASSIVA (1.1.2), é o examinador quem movimenta os segmentos, avaliando a resistência muscular. Na REFLEXA (1.1.3), pesquisam-se os reflexos miotáticos. Coordenação (item 1.2) é avaliada pelo equilíbrio estático e dinâmico, e força (item 1.3) por provas de oposição e dinamometria. A questão testa se o candidato sabe em qual item cada manobra se encaixa.",
+  "porAlt": [
+   "Correta: é a descrição do item 1.1.1, em que o próprio candidato executa os movimentos.",
+   "Movimento passivo com avaliação da resistência é a mobilidade passiva, item 1.1.2.",
+   "Reflexos miotáticos correspondem à mobilidade reflexa, item 1.1.3 do anexo.",
+   "Equilíbrio estático e dinâmico é o método de avaliação da coordenação, item 1.2.",
+   "Oposição de força e dinamometria avaliam a força muscular, item 1.3 do anexo."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, a coordenação motora e a sensibilidade do candidato são avaliadas, respectivamente, por meio de:",
+  "alts": [
+   "Prova índex-nariz e calcanhar-joelho; sensibilidade tátil, térmica e dolorosa",
+   "Equilíbrio estático e dinâmico; sensibilidade tátil, térmica e dolorosa ao toque",
+   "Equilíbrio estático e dinâmico; sensibilidade cinético-postural e vibratória",
+   "Prova índex-nariz e calcanhar-joelho; sensibilidade cinético-postural e vibratória",
+   "Marcha em linha reta e sinal de Romberg; sensibilidade dolorosa e discriminativa"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Coordenação e sensibilidade",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, itens 1.2 e 1.4.1",
+  "coment": "O Anexo VIII é enxuto e específico: pelo item 1.2, a coordenação será avaliada através do EQUILÍBRIO ESTÁTICO E DINÂMICO; pelo item 1.4.1, a sensibilidade superficial e profunda deverá ser avaliada através da sensibilidade CINÉTICO-POSTURAL e da sensibilidade VIBRATÓRIA. Provas índex-nariz e calcanhar-joelho, Romberg e sensibilidade térmica ou dolorosa fazem parte do exame neurológico clínico, mas não são os métodos que a norma nomeia. Em prova de legislação, vale o texto do anexo, e a banca costuma misturar metades certas e erradas nas alternativas.",
+  "porAlt": [
+   "Nenhuma das duas metades corresponde aos métodos nomeados pelo anexo.",
+   "Acerta a coordenação, mas a norma pede sensibilidade cinético-postural e vibratória.",
+   "Correta: reproduz os métodos dos itens 1.2 e 1.4.1 do Anexo VIII.",
+   "Acerta a sensibilidade, mas a coordenação é avaliada pelo equilíbrio estático e dinâmico.",
+   "Marcha, Romberg e sensibilidade dolorosa não são os métodos previstos no anexo."
+  ]
+ },
+ {
+  "q": "Candidato de 31 anos com epilepsia focal está em esquema de retirada de medicação antiepiléptica. Está há 30 meses sem crises; a retirada durou 4 meses e terminou há 7 meses, sem crises desde então; o assistente é favorável. Pelo Anexo VIII da Resolução CONTRAN nº 927/2022, ele pode ser aprovado?",
+  "alts": [
+   "Sim, pois já cumpre dois anos sem crise e seis meses sem crise após a retirada completa",
+   "Não, pois no grupo II a retirada da medicação precisa ter duração mínima de seis meses",
+   "Não, pois o grupo II exige três anos sem crise epiléptica, contados desde o diagnóstico",
+   "Não, pois precisa de doze meses sem crise após o término completo da retirada da medicação",
+   "Sim, pois o grupo II dispensa os prazos quando o parecer do assistente é favorável"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Grupo II (retirada) do Anexo VIII",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 2.5",
+  "coment": "O item 2.5 do Anexo VIII lista cinco condições CUMULATIVAS para o grupo II (em esquema de retirada): não ser portador de epilepsia mioclônica juvenil; estar há no mínimo dois anos sem crise; retirada da medicação com duração mínima de SEIS MESES; no mínimo seis meses sem crise após a retirada; parecer favorável do assistente. O caso cumpre os 30 meses sem crise, os 7 meses após a retirada e o parecer favorável, mas a retirada durou só 4 meses — falha em um único item, o que basta para não aprovar. Note que a Diretriz ABRAMET 2025 organiza o tema de outro modo (2 anos contínuos após a retirada completa); a questão pede o Anexo VIII.",
+  "porAlt": [
+   "Os dois prazos citados são cumpridos, mas falta a duração mínima de 6 meses da retirada.",
+   "Correta: a retirada durou 4 meses, abaixo dos 6 meses exigidos pelo item 2.5.3.",
+   "O grupo II exige dois anos sem crise, não três, e o caso já cumpre esse prazo.",
+   "O item 2.5.4 exige seis meses sem crise após a retirada, e não doze meses.",
+   "O parecer favorável é uma das condições, não dispensa as demais do item 2.5."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, no candidato com epilepsia aprovado, o que diferencia o grupo I (em uso de medicação) do grupo II (em retirada) quanto ao prazo de validade do exame?",
+  "alts": [
+   "No grupo I o prazo é reduzido também na primeira renovação; no II é normal desde a primeira renovação",
+   "No grupo II o prazo é reduzido também na primeira renovação; no I é normal desde a primeira renovação",
+   "No grupo I o prazo é sempre de um ano; no grupo II é sempre de dois anos em todas as renovações da CNH",
+   "Nenhuma: nos dois grupos o prazo é reduzido em todas as renovações, a critério do perito examinador",
+   "No grupo I o prazo é normal desde a habilitação; no grupo II é reduzido até o término da retirada"
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Validade: grupos I e II do Anexo VIII",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, itens 2.7.2 a 2.7.5",
+  "coment": "O item 2.7 do Anexo VIII estabelece, para os aprovados: somente categoria B; diminuição do prazo de validade, a critério médico, na PRIMEIRA HABILITAÇÃO (ambos os grupos); repetição dos procedimentos nas renovações. Depois os grupos se separam: o grupo I (em uso de medicação) tem diminuição do prazo também na PRIMEIRA RENOVAÇÃO e prazo normal nas seguintes (2.7.4); o grupo II (retirada) tem prazo normal a partir da primeira renovação (2.7.5). A lógica: quem ainda depende do fármaco fica sob vigilância por mais tempo. Não confundir com a escada da Diretriz ABRAMET 2025 (1 ano, 2 anos, depois 2 a 5 anos).",
+  "porAlt": [
+   "Correta: é o que dizem os itens 2.7.4 (grupo I) e 2.7.5 (grupo II) do Anexo VIII.",
+   "Inverte os grupos: é o grupo I que mantém prazo reduzido na primeira renovação.",
+   "O anexo não fixa prazos de um e dois anos; deixa a redução a critério médico.",
+   "Os grupos diferem: a redução não se estende a todas as renovações em nenhum deles.",
+   "Ambos têm prazo reduzido na primeira habilitação; o grupo I não começa com prazo normal."
+  ]
+ },
+ {
+  "q": "O Anexo IX da Resolução CONTRAN nº 927/2022 (relatório do médico assistente do candidato com epilepsia) pede o número estimado de crises em quais intervalos, e que dado é atribuído à avaliação do perito?",
+  "alts": [
+   "Nos últimos 6, 12 e 24 meses e em 5 e 10 anos, com o parecer assinado apenas por neurologista",
+   "Nos últimos 6, 12, 18 e 24 meses, com o grau de confiança das informações avaliado pelo perito",
+   "Nos últimos 3, 6, 9 e 12 meses, com o grau de confiança das informações avaliado pelo perito",
+   "Nos últimos 12 e 24 meses, com a dosagem sérica do antiepiléptico conferida pelo próprio perito",
+   "Nos últimos 6, 12, 18 e 24 meses, com a aderência ao tratamento classificada pelo próprio perito"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Anexo IX: relatório do assistente",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo IX, item 1",
+  "coment": "O Anexo IX pede, no item 1, o tipo de crise, o número estimado de crises nos últimos 06, 12, 18 e 24 meses, o GRAU DE CONFIANÇA NAS INFORMAÇÕES PRESTADAS — expressamente 'na avaliação do perito' (alto, médio ou baixo) —, se as crises ocorrem exclusivamente no sono e os fatores precipitantes. A aderência ao tratamento (alta, média, baixa, duvidosa) está no item 4 e é registrada pelo assistente. A Diretriz ABRAMET 2025 tem relatório próprio, com contagem em 6, 12 e 24 meses e em 5 e 10 anos, preenchido exclusivamente por neurologista ou neurocirurgião: a banca pode trocar um pelo outro.",
+  "porAlt": [
+   "Esses intervalos e a exigência de neurologista são do relatório da Diretriz 2025.",
+   "Correta: corresponde ao item 1 do Anexo IX, que atribui ao perito o grau de confiança.",
+   "O anexo pede 6, 12, 18 e 24 meses, e não intervalos trimestrais até 12 meses.",
+   "O Anexo IX não pede dosagem sérica de antiepiléptico em nenhum de seus itens.",
+   "Os intervalos estão certos, mas a aderência é registrada pelo assistente, no item 4."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET 2025 de epilepsia, o relatório padronizado exigido do candidato com epilepsia deve ser preenchido:",
+  "alts": [
+   "Por qualquer médico assistente que o acompanhe há, no mínimo, um ano, de qualquer área",
+   "Exclusivamente por neurologista ou neurocirurgião que o acompanhe há, no mínimo, seis meses",
+   "Pelo próprio médico perito examinador, a partir da anamnese e do questionário do Anexo I",
+   "Por neurologista, psiquiatra ou clínico que o acompanhe há, no mínimo, dois anos seguidos",
+   "Exclusivamente por neurologista ou neurocirurgião que o acompanhe há, no mínimo, um ano"
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Quem preenche o relatório",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, Contextualização e Procedimentos, item III",
+  "coment": "Uma das mudanças que a própria diretriz destaca é que o Relatório Padronizado deve ser preenchido EXCLUSIVAMENTE por médico neurologista ou neurocirurgião, 'garantindo maior confiabilidade ao exame especializado'. O item III dos procedimentos exige que esse especialista acompanhe o candidato há, NO MÍNIMO, UM ANO, ou tenha acesso confiável aos dados de acompanhamento quando o tratamento é institucional. O Anexo VIII da Resolução 927 falava apenas em 'médico assistente' que acompanhe há um ano. E o perito não preenche o relatório: ao assistente cabe o embasamento clínico, ao perito o laudo conclusivo (Parecer CRM-PR nº 2784/2019).",
+  "porAlt": [
+   "'Qualquer médico assistente' é a redação do Anexo VIII; a diretriz restringiu a especialidade.",
+   "A especialidade está certa, mas o acompanhamento mínimo é de um ano, e não de seis meses.",
+   "O relatório é do assistente; ao perito cabe o laudo conclusivo sobre a aptidão.",
+   "A diretriz exige neurologista ou neurocirurgião, com acompanhamento mínimo de um ano.",
+   "Correta: combina a especialidade exclusiva com o tempo mínimo de um ano de acompanhamento."
+  ]
+ },
+ {
+  "q": "Candidato com epilepsia é tratado em ambulatório do SUS e, a cada consulta, é atendido por um neurologista diferente — nenhum deles o acompanha há um ano. Segundo a Diretriz ABRAMET 2025, o relatório padronizado emitido nesse serviço:",
+  "alts": [
+   "Não é válido, pois exige-se o mesmo médico assistente acompanhando o candidato há pelo menos um ano",
+   "É válido apenas se referendado por neurocirurgião externo que examine o candidato pessoalmente",
+   "Não é válido, devendo o perito pedir EEG e ressonância em substituição ao relatório do assistente",
+   "É válido, desde que o candidato apresente declaração própria sobre as crises dos últimos dois anos",
+   "É válido, desde que os médicos responsáveis tenham acesso ao prontuário com o histórico integral"
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Relatório em serviço institucional",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, Procedimentos, item III e justificativa",
+  "coment": "O item III exige relatório de neurologista ou neurocirurgião que acompanhe o candidato há no mínimo um ano 'ou que tenha acesso aos seus dados de acompanhamento de forma confiável quando o tratamento for feito em uma instituição'. A justificativa detalha: quando o acompanhamento é feito no SUS, por convênios ou outras instituições, com atendimento por diferentes profissionais, o relatório é válido desde que os médicos responsáveis tenham ACESSO AO PRONTUÁRIO com o HISTÓRICO CLÍNICO INTEGRAL. O objetivo do prazo de um ano é dar ao perito um histórico confiável (tipo e frequência de crises, resposta ao tratamento), e o prontuário institucional cumpre essa função.",
+  "porAlt": [
+   "A diretriz admite o acompanhamento institucional com acesso ao prontuário integral.",
+   "Não há exigência de referendo por neurocirurgião externo ao serviço de origem.",
+   "Exames não substituem o relatório, que é obrigatório para a avaliação pericial.",
+   "Declaração do próprio candidato não supre o histórico clínico do prontuário.",
+   "Correta: é a solução expressa da diretriz para o atendimento por vários profissionais."
+  ]
+ },
+ {
+  "q": "Segundo a definição prática da ILAE adotada pela Diretriz ABRAMET 2025, é possível firmar o diagnóstico de epilepsia após uma ÚNICA crise não provocada quando:",
+  "alts": [
+   "A probabilidade de novas crises nos próximos 5 anos for de 40% ou mais",
+   "A crise tiver ocorrido durante o sono, qualquer que seja o risco estimado",
+   "A probabilidade de novas crises nos próximos 10 anos for de 30% ou mais",
+   "A probabilidade de novas crises nos próximos 10 anos for de 60% ou mais",
+   "A crise tiver durado mais de 24 horas, caracterizando o estado de mal"
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Definição prática de epilepsia (ILAE)",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, Definição de epilepsia",
+  "coment": "A Força-Tarefa da ILAE (posição oficial de dezembro de 2013) define epilepsia por qualquer uma de três condições: (1) duas crises não provocadas (ou reflexas) separadas por mais de 24 horas; (2) UMA crise não provocada ou reflexa e probabilidade de novas crises semelhante ao risco após duas crises, nos PRÓXIMOS 10 ANOS — definido como 60% OU MAIS; (3) diagnóstico de uma síndrome epiléptica. A diretriz cita como preditores de recorrência a lesão cerebral prévia, o EEG com atividade epileptiforme e a lesão epileptogênica na neuroimagem. O intervalo de 24 horas pertence ao critério das duas crises, não à duração da crise.",
+  "porAlt": [
+   "Horizonte e percentual errados: a ILAE usa 10 anos e risco de 60% ou mais.",
+   "Crise no sono não é critério diagnóstico; é situação tratada à parte na diretriz.",
+   "O horizonte de 10 anos está certo, mas o risco exigido é de 60% ou mais.",
+   "Correta: é o segundo critério da ILAE: risco de 60% ou mais em 10 anos.",
+   "As 24 horas separam as duas crises do primeiro critério; não medem a duração."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET 2025 de epilepsia, a febre é aceita como fator desencadeante de crise epiléptica PROVOCADA até que idade?",
+  "alts": [
+   "Até os 2 anos de idade, limite fixado pela diretriz para esse fator desencadeante",
+   "Até os 12 anos de idade, limite fixado pela diretriz para esse fator desencadeante",
+   "Até os 18 anos de idade, quando o candidato passa a poder se habilitar a conduzir",
+   "Em qualquer idade, desde que a temperatura axilar documentada supere os 39 °C",
+   "Até os 5 anos de idade, limite fixado pela diretriz para esse fator desencadeante"
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Crise provocada: febre",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, Definição de epilepsia — crise única provocada",
+  "coment": "A diretriz define a crise epiléptica única PROVOCADA como a que ocorre em resposta a fator identificável e transitório: distúrbios metabólicos ou eletrolíticos (hipoglicemia, hiponatremia, insuficiência renal ou hepática agudas), intoxicações, abstinência alcoólica, FEBRE — 'válido apenas até 5 anos de idade' — ou lesões cerebrais agudas (TCE, encefalites, hemorragias ou isquemias). Crises provocadas, isoladamente, não fecham diagnóstico de epilepsia nem indicam fármaco anticrise contínuo. Assim, uma crise com febre em adulto não se enquadra automaticamente como provocada, e o perito deve investigar se ela é, na verdade, não provocada.",
+  "porAlt": [
+   "O limite é 5 anos, e não 2 anos, na redação expressa da diretriz.",
+   "O limite é 5 anos; aos 12 anos a febre já não caracteriza crise provocada.",
+   "A maioridade não tem relação com o critério; o limite da diretriz é 5 anos.",
+   "A diretriz não usa corte de temperatura: restringe o fator à idade de 5 anos.",
+   "Correta: a diretriz registra que a febre vale como fator apenas até os 5 anos."
+  ]
+ },
+ {
+  "q": "Mulher de 36 anos com epilepsia, em uso de fármaco anticrise, está sem crises há 14 meses, com plena adesão e parecer favorável do neurologista que a acompanha há três anos. Pede a primeira habilitação na categoria B, sem atividade remunerada. Segundo a Diretriz ABRAMET 2025, qual é o resultado?",
+  "alts": [
+   "Inapta temporária, pois a categoria B sem atividade remunerada exige dois anos sem crise",
+   "Apta somente na categoria B, com validade do exame de dois anos nesta primeira aprovação",
+   "Apta em todas as categorias, com validade reduzida a critério do perito nesta aprovação",
+   "Apta somente na categoria B, com validade do exame de um ano nesta primeira aprovação",
+   "Inapta temporária, pois quem usa fármaco anticrise só é liberada após a retirada completa"
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Fármaco anticrise, categoria B sem EAR",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, Diretrizes para habilitação, itens 2, 7 e 9",
+  "coment": "Pelo item 2 da diretriz, pessoa com critérios diagnósticos de epilepsia EM USO de fármaco anticrise pode ser apta SOMENTE na categoria B sem atividade remunerada desde que sem crise há, no mínimo, 1 ANO; 14 meses cumprem o requisito. O item 7 exige plena adesão e parecer favorável — presentes. O item 9 fixa a validade: 1 ANO na primeira aprovação, 2 anos na primeira renovação, 2 a 5 anos nas seguintes (e 3 anos a partir dos 70). O prazo de 2 anos sem crise aparece em outra hipótese: pessoa SEM fármaco, contados após a retirada completa.",
+  "porAlt": [
+   "Dois anos sem crise é o prazo da pessoa sem fármaco, após a retirada completa.",
+   "Na primeira aprovação a validade é de um ano; dois anos é o prazo da primeira renovação.",
+   "Com fármaco anticrise a diretriz libera somente a categoria B, nunca todas.",
+   "Correta: cumpre 12 meses sem crise com fármaco, e a primeira aprovação vale um ano.",
+   "O uso de fármaco não impede a aptidão: a via com fármaco exige 12 meses sem crise."
+  ]
+ },
+ {
+  "q": "Motorista de 44 anos com epilepsia, em uso de fármaco anticrise, está sem crises há 6 anos, com plena adesão e parecer favorável. Deseja a categoria D para dirigir ônibus. Segundo a Diretriz ABRAMET 2025, qual é o resultado para a categoria pretendida?",
+  "alts": [
+   "Apto para a categoria D, pois superou os cinco anos sem crises exigidos na atividade remunerada",
+   "Apto para a categoria D, com restrição de dirigir após o pôr do sol, codificada pela letra U",
+   "Inapto para a categoria D, pois com fármaco anticrise a diretriz libera somente a categoria B",
+   "Inapto temporário para a categoria D, até somar dez anos sem crises mesmo em uso do fármaco",
+   "Encaminhado à Junta Médica Especial, que define a categoria conforme a NBR 14970 da ABNT vigente"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Fármaco anticrise e categorias pesadas",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 2 e quadro-resumo",
+  "coment": "Com critérios diagnósticos de epilepsia e em uso de fármaco anticrise, a diretriz libera SOMENTE a categoria B: sem atividade remunerada após 1 ano sem crises e com atividade remunerada após 5 anos sem crises. Na coluna 'ACC, A, C, D, E' do quadro-resumo, essa situação é INAPTO. A justificativa: motoristas profissionais operam veículos grandes e transportam passageiros por longos períodos. Os 5 anos citados valem para a categoria B com EAR, não liberam a D. A única via para ACC, A, C, D e E é a epilepsia 'resolvida' — 10 anos sem crises e 5 anos sem fármaco —, que o caso não cumpre por estar em uso do medicamento.",
+  "porAlt": [
+   "Os cinco anos sem crise liberam a categoria B com EAR, e não a categoria D.",
+   "Na diretriz, a restrição U é da hipótese das crises só no sono, na categoria B.",
+   "Correta: com fármaco anticrise, a coluna ACC, A, C, D, E do quadro-resumo é inapto.",
+   "Dez anos sem crise só liberam a D na epilepsia resolvida, que exige 5 anos sem fármaco.",
+   "Não há encaminhamento à JME: a diretriz decide pela coluna do quadro-resumo."
+  ]
+ },
+ {
+  "q": "Homem de 39 anos com epilepsia, em uso de fármaco anticrise, está sem crises há 6 anos, com plena adesão e parecer favorável. Renova a categoria B e trabalha como motorista de aplicativo. Segundo a Diretriz ABRAMET 2025, qual é o resultado?",
+  "alts": [
+   "Inapto para a atividade remunerada, pois quem usa fármaco anticrise só dirige sem o EAR",
+   "Apto na categoria B com atividade remunerada, pois bastam dois anos sem crise nessa hipótese",
+   "Apto na categoria B com atividade remunerada, pois cumpre o mínimo de cinco anos sem crises",
+   "Inapto para a atividade remunerada até que a epilepsia seja considerada resolvida na diretriz",
+   "Apto também nas categorias C e D com atividade remunerada, pois superou cinco anos sem crises"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Fármaco anticrise, categoria B com EAR",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 2 e quadro-resumo",
+  "coment": "O item 2 da diretriz prevê duas faixas para quem tem epilepsia e USA fármaco anticrise: somente categoria B SEM atividade remunerada, com no mínimo 1 ano sem crises; e somente categoria B COM atividade remunerada ao veículo (EAR), com no mínimo 5 ANOS sem crises. O motorista de aplicativo exerce atividade remunerada (pergunta nº 9 do Anexo I) e, com 6 anos sem crises, adesão plena e parecer favorável, é apto na categoria B com EAR. As demais categorias (ACC, A, C, D, E) permanecem vedadas enquanto houver uso de fármaco. O prazo de 24 meses pertence a outras hipóteses (crise única e modificação de fármaco).",
+  "porAlt": [
+   "O item 2 admite a categoria B com EAR para quem usa fármaco, após cinco anos sem crise.",
+   "O resultado está certo, mas o prazo exigido é de cinco anos, e não de dois anos.",
+   "Correta: cinco anos sem crise é o mínimo para a categoria B com atividade remunerada.",
+   "A epilepsia resolvida não é exigida para a categoria B com atividade remunerada.",
+   "Com fármaco anticrise, as categorias C e D continuam vedadas pela diretriz."
+  ]
+ },
+ {
+  "q": "Mulher de 28 anos com epilepsia focal suspendeu o fármaco anticrise, com retirada completa há 3 anos, e não teve crises desde então; o parecer do assistente é favorável. Pretende trabalhar como motorista de aplicativo na categoria B. Segundo a Diretriz ABRAMET 2025, qual é o resultado?",
+  "alts": [
+   "Inapta para a atividade remunerada, pois sem fármaco a diretriz libera só a categoria B sem EAR",
+   "Apta na categoria B com atividade remunerada, pois cumpre dois anos sem crise após a retirada",
+   "Apta na categoria B com atividade remunerada, pois já cumpre cinco anos sem crise desde o diagnóstico",
+   "Inapta para a atividade remunerada até completar cinco anos sem crise após a retirada total",
+   "Apta em todas as categorias, pois a retirada completa caracteriza a epilepsia como resolvida"
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Sem fármaco anticrise e EAR",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 3 e quadro-resumo",
+  "coment": "O item 3 trata de quem tem critérios diagnósticos de epilepsia e NÃO usa fármaco anticrise (não introduzido ou suspenso): pode ser apto desde que sem crises por período contínuo mínimo de 2 ANOS após a retirada completa, SOMENTE para a categoria B, desde que NÃO exerça atividade remunerada, e não sendo portador de epilepsia generalizada idiopática. No quadro-resumo, as colunas 'B com atividade remunerada' e 'ACC, A, C, D, E' são INAPTO nessa situação. Ela seria apta na categoria B sem EAR; para a atividade remunerada, a única saída é a epilepsia 'resolvida' (10 anos sem crises e 5 sem fármaco), que ainda não se configura.",
+  "porAlt": [
+   "Correta: sem fármaco, o item 3 admite só a categoria B sem atividade remunerada.",
+   "Dois anos sem crise após a retirada liberam apenas a categoria B sem EAR.",
+   "Mesmo com cinco anos sem crise, a coluna com EAR é inapto na via sem fármaco.",
+   "O quadro não prevê liberação da EAR após cinco anos na via sem fármaco.",
+   "Resolvida exige 10 anos sem crises e 5 anos sem fármaco, não a mera retirada."
+  ]
+ },
+ {
+  "q": "Rapaz de 24 anos com epilepsia ausência juvenil teve o fármaco anticrise suspenso há 3 anos e não teve crises desde então; o assistente é favorável. Pede a categoria B, sem atividade remunerada. Segundo a Diretriz ABRAMET 2025, qual é o resultado?",
+  "alts": [
+   "Inapto, pois a ausência juvenil é epilepsia generalizada idiopática, excluída da via sem fármaco",
+   "Apto na categoria B, pois cumpre o mínimo de dois anos sem crise após a retirada da medicação",
+   "Apto na categoria B, com restrição de dirigir após o pôr do sol, codificada pela letra U do Anexo XV",
+   "Inapto, pois a via sem fármaco anticrise exige cinco anos sem crise após a retirada completa",
+   "Apto em todas as categorias, pois três anos sem crise e sem fármaco caracterizam a resolvida"
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Epilepsia generalizada idiopática sem fármaco",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 3 e quadro-resumo",
+  "coment": "A via 'com critérios diagnósticos e SEM fármaco anticrise' (item 3) exige 2 anos contínuos sem crises após a retirada completa, só categoria B sem atividade remunerada, e NÃO SER PORTADOR DE EPILEPSIA GENERALIZADA IDIOPÁTICA — a diretriz cita a mioclônica juvenil, a AUSÊNCIA JUVENIL e as crises tônico-clônicas isoladas, porque têm alto risco de recorrência sem o tratamento adequado. O caso cumpriria o prazo, mas a síndrome o exclui dessa via. Atenção: o Anexo VIII excluía apenas a mioclônica juvenil do grupo em retirada; a diretriz ampliou a exclusão a toda a epilepsia generalizada idiopática.",
+  "porAlt": [
+   "Correta: a ausência juvenil integra o grupo das generalizadas idiopáticas excluídas.",
+   "O prazo seria cumprido, mas a síndrome generalizada idiopática veda essa via.",
+   "Na diretriz, a restrição U é da hipótese das crises exclusivamente no sono.",
+   "O prazo da via sem fármaco é de dois anos; o impedimento aqui é a síndrome.",
+   "Resolvida exige 10 anos sem crises e 5 sem fármaco; três anos não bastam."
+  ]
+ },
+ {
+  "q": "Homem de 45 anos tem crises epilépticas exclusivamente durante o sono, nunca em vigília, com diagnóstico de epilepsia firmado há 3 anos. Epworth de 6 e SAOS descartada. Pede a categoria B, sem atividade remunerada. Segundo a Diretriz ABRAMET 2025, qual é a conclusão?",
+  "alts": [
+   "Apto na categoria B, com a restrição U, pois cumpre todas as condições previstas na diretriz",
+   "Apto na categoria B sem restrição, pois crises só no sono não trazem risco durante a direção",
+   "Ainda não pode ser apto, pois exige-se diagnóstico de epilepsia há pelo menos dez anos",
+   "Ainda não pode ser apto, pois exige-se Epworth igual a zero e polissonografia recente",
+   "Ainda não pode ser apto, pois exige-se diagnóstico de epilepsia há pelo menos cinco anos"
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Crises exclusivamente no sono: tempo de diagnóstico",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 5 e quadro-resumo",
+  "coment": "O item 5 lista condições CUMULATIVAS para a pessoa com crises exclusivamente no sono: somente categoria B sem atividade remunerada; nenhuma crise em vigília em nenhum momento da vida; critérios diagnósticos de epilepsia por período mínimo de 5 ANOS; obrigatoriamente a restrição 'Vedado dirigir após o pôr do sol' (letra U do Anexo XV da Resolução 927); e descarte de sonolência excessiva diurna (Epworth inferior a 12 e avaliação da SAOS). O caso cumpre tudo, exceto o tempo de diagnóstico: 3 anos. A banca costuma retirar um único item do pacote para ver se o candidato percebe.",
+  "porAlt": [
+   "Falta um requisito: o diagnóstico precisa ter no mínimo cinco anos.",
+   "Não há liberação sem restrição: a letra U é obrigatória nessa hipótese.",
+   "O tempo mínimo de diagnóstico é de cinco anos, e não de dez anos.",
+   "A diretriz exige Epworth inferior a 12 e avaliação de SAOS, não Epworth zero.",
+   "Correta: falta o tempo mínimo de cinco anos com critérios diagnósticos de epilepsia."
+  ]
+ },
+ {
+  "q": "Mulher de 40 anos tem epilepsia há 12 anos. Há 10 anos suas crises ocorrem só durante o sono, mas aos 28 anos teve uma crise em vigília. Epworth de 5 e SAOS descartada; pede a categoria B sem atividade remunerada. Segundo a Diretriz ABRAMET 2025, ela pode ser enquadrada na hipótese de crises exclusivamente no sono?",
+  "alts": [
+   "Sim, com restrição U, pois a crise em vigília ocorreu há mais de cinco anos do exame atual",
+   "Não, pois essa hipótese exige nunca ter havido crise em vigília em nenhum momento da vida",
+   "Sim, com restrição U, pois há mais de cinco anos as crises ocorrem somente durante o sono",
+   "Não, pois crises exclusivas no sono tornam a candidata inapta em qualquer das categorias",
+   "Sim, sem restrição, pois a crise em vigília antiga é compensada pelo Epworth normal atual"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Crises exclusivamente no sono: vigília",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 5 e quadro-resumo",
+  "coment": "Entre as condições do item 5 está 'sem ocorrência de crise em vigília EM NENHUM MOMENTO DE SUA VIDA' — o quadro-resumo repete a expressão. Não há prazo de 'purga': uma única crise em vigília, ainda que remota, retira a candidata da hipótese de crises exclusivamente no sono, com sua restrição U. Isso não significa inaptidão automática em qualquer situação: ela deve ser avaliada pela via aplicável (por exemplo, em uso de fármaco anticrise, categoria B após 12 meses sem crises). A alternativa que fala em inaptidão geral erra porque a hipótese do sono admite aptidão na categoria B.",
+  "porAlt": [
+   "Não há prazo que apague a crise em vigília: a exigência vale para a vida inteira.",
+   "Correta: o item 5 exige ausência de crise em vigília em toda a vida da pessoa.",
+   "Cinco anos só no sono não suprem a exigência de nunca ter crise em vigília.",
+   "A hipótese do sono admite aptidão na categoria B; não é inaptidão geral.",
+   "A restrição U é obrigatória, e o Epworth normal não compensa a crise em vigília."
+  ]
+ },
+ {
+  "q": "Jovem de 22 anos teve uma única crise epiléptica não provocada há 13 meses; a investigação não mostrou critérios diagnósticos de epilepsia. Pede a primeira habilitação na categoria B, sem atividade remunerada. Segundo a Diretriz ABRAMET 2025, qual é o resultado?",
+  "alts": [
+   "Inapto temporário, pois a crise única exige 24 meses sem crise para a categoria B particular",
+   "Inapto temporário, pois a crise única exige cinco anos sem novas crises em qualquer categoria",
+   "Apto na categoria B, obrigatoriamente com a restrição U de não dirigir após o pôr do sol",
+   "Apto na categoria B sem atividade remunerada, pois já superou o prazo mínimo de 12 meses",
+   "Inapto, pois uma crise não provocada basta para firmar o diagnóstico de epilepsia pela ILAE"
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Crise única: categoria B sem EAR",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 1 e quadro-resumo",
+  "coment": "Para a crise única NÃO PROVOCADA sem critérios diagnósticos de epilepsia, o item 1 fixa três prazos mínimos: 12 MESES para qualquer categoria (na prática, categoria B sem atividade remunerada); 2 anos (24 meses) para a categoria B com atividade remunerada; e 5 anos para ACC, A, C, D e E. Com 13 meses, o candidato é apto na categoria B sem EAR. A crise única só fecha diagnóstico de epilepsia pela ILAE quando o risco de recorrência em 10 anos for de 60% ou mais, o que a investigação afastou. A restrição U não se aplica: na diretriz, ela é própria da hipótese das crises exclusivamente no sono.",
+  "porAlt": [
+   "24 meses é o prazo para a categoria B com atividade remunerada, não sem ela.",
+   "Cinco anos valem só para ACC, A, C, D e E, e não para todas as categorias.",
+   "Na diretriz de epilepsia, a restrição U é da hipótese das crises só no sono.",
+   "Correta: a crise única exige 12 meses para a categoria B sem atividade remunerada.",
+   "Uma crise isolada só é epilepsia se o risco em 10 anos for de 60% ou mais."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos com epilepsia está sem crises há 12 anos e suspendeu o fármaco anticrise há 3 anos. Quer a categoria C para trabalhar como caminhoneiro. Segundo a Diretriz ABRAMET 2025, qual é o resultado para a categoria pretendida?",
+  "alts": [
+   "Apto para a categoria C, pois dez anos sem crise bastam para a epilepsia ser resolvida",
+   "Apto para a categoria C, pois dois anos sem crise após a retirada liberam as categorias",
+   "Inapto para a categoria C, pois a resolvida exige quinze anos sem crise e dez sem fármaco",
+   "Inapto para a categoria C, pois a resolvida exige também cinco anos sem fármaco anticrise",
+   "Apto para a categoria C com restrição U, até completar cinco anos sem fármaco anticrise"
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Epilepsia resolvida: requisitos",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, Definição de epilepsia e item 4",
+  "coment": "Epilepsia 'resolvida' tem definição fechada: pessoa livre de crises por pelo menos 10 ANOS e SEM fármaco anticrise nos últimos 5 ANOS (ou síndrome dependente da idade já ultrapassada). Só nessa hipótese a diretriz libera ACC e categorias A, C, D e E, inclusive com atividade remunerada, porque o risco de recorrência se aproxima ao da população geral. O caso cumpre os 12 anos sem crises, mas está há apenas 3 anos sem fármaco. Pela via sem fármaco (item 3), com 2 anos após a retirada completa, ele pode ser apto somente na categoria B sem atividade remunerada, e para a categoria C o resultado é inapto.",
+  "porAlt": [
+   "Dez anos sem crise não bastam: a resolvida exige também 5 anos sem fármaco.",
+   "Dois anos após a retirada liberam só a categoria B sem atividade remunerada.",
+   "Os prazos são 10 anos sem crise e 5 sem fármaco, e não 15 e 10 anos.",
+   "Correta: faltam dois anos para completar os cinco anos sem fármaco da resolvida.",
+   "A restrição U é da hipótese das crises no sono e não libera a categoria C."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET 2025 de epilepsia, após a primeira renovação, qual é o prazo de validade do exame de aptidão física e mental do condutor com epilepsia de 45 anos e o do condutor com 72 anos?",
+  "alts": [
+   "De 1 a 2 anos, a critério do perito, aos 45 anos; e de 1 ano a partir dos 70 anos",
+   "De 2 a 5 anos, a critério do perito, aos 45 anos; e de 3 anos a partir dos 70 anos",
+   "Fixo de 5 anos aos 45 anos; e de 2 anos a partir dos 70 anos, pela própria diretriz",
+   "De 2 a 5 anos, a critério do perito, aos 45 anos; e de 5 anos a partir dos 70 anos",
+   "Fixo de 10 anos aos 45 anos, conforme o CTB; e de 3 anos a partir dos 70 anos de idade"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Validade nas renovações subsequentes",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, item 9; CTB, art. 147, § 2º, III",
+  "coment": "O item 9 da diretriz fixa a escada de validade do EAFM na pessoa com epilepsia: primeira aprovação, 1 ano; primeira renovação, 2 anos; RENOVAÇÕES SUBSEQUENTES, de 2 A 5 ANOS, a critério do médico perito examinador; a partir dos 70 ANOS, 3 ANOS, conforme o CTB (art. 147, § 2º, III). O prazo de 10 anos do CTB para menores de 50 anos não se aplica automaticamente, pois o § 4º do art. 147 permite ao perito reduzir o prazo quando há doença que possa diminuir a capacidade de conduzir. A justificativa da diretriz é justamente a possibilidade de progressão da condição.",
+  "porAlt": [
+   "1 ano é o prazo da primeira aprovação; depois a diretriz amplia para 2 a 5 anos.",
+   "Correta: reproduz o item 9: 2 a 5 anos nas renovações seguintes e 3 anos após os 70.",
+   "A diretriz fixa faixa de 2 a 5 anos, e aos 70 anos ou mais o prazo é de 3 anos.",
+   "A partir dos 70 anos o prazo é reduzido para 3 anos, e não ampliado para 5 anos.",
+   "O perito pode reduzir o prazo do CTB; a diretriz adota 2 a 5 anos nessa fase."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET 2025, com base na declaração de consenso da AAN, AES e EF, qual dos fatores abaixo é DESFAVORÁVEL à redução do intervalo livre de crises exigido para dirigir?",
+  "alts": [
+   "Crises ocorridas durante a mudança da medicação anticrise prescrita",
+   "Crises que não interferem na consciência nem na função motora dele",
+   "Crises ligadas a estado tóxico ou metabólico agudo que não se repete",
+   "Histórico recente de abuso de álcool ou de drogas pelo candidato",
+   "Crises que ocorrem exclusivamente durante o sono do candidato atual"
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Fatores que modulam o intervalo livre",
+  "base": "Diretriz ABRAMET 2025 — Avaliação de candidatos e condutores com epilepsia ou crise epiléptica, Seção 4, Figura 3",
+  "coment": "A diretriz reconhece que o intervalo livre de crises é o principal critério, mas não o único, e reproduz a declaração de consenso da AAN, AES e EF (Figura 3). Fatores FAVORÁVEIS à redução do intervalo: crises durante mudança de medicação; crises que não interferem na consciência ou na função motora; auras prolongadas; crises ligadas a estados tóxicos ou metabólicos agudos improváveis de se repetir; crises exclusivamente no sono. Fatores DESFAVORÁVEIS: não adesão ou informação pouco confiável; HISTÓRICO RECENTE DE ABUSO DE ÁLCOOL OU DROGAS; doença cerebral estrutural; distúrbio cerebral intratável; recorrências frequentes; sinistros causados por crises.",
+  "porAlt": [
+   "Crise na mudança de medicação é fator favorável à redução do intervalo.",
+   "Crise sem perda de consciência ou função motora é fator favorável.",
+   "Causa tóxica ou metabólica aguda não recorrente é fator favorável.",
+   "Correta: abuso recente de álcool ou drogas figura entre os fatores desfavoráveis.",
+   "Crises exclusivamente no sono aparecem entre os fatores favoráveis."
+  ]
+ },
+ {
+  "q": "Homem de 62 anos com doença de Parkinson, sem déficits cognitivos que comprometam a direção, tem incapacidade funcional moderada. O relatório padronizado do neurologista informa estágio 3 de Hoehn & Yahr. Segundo a Diretriz ABRAMET, qual é o resultado?",
+  "alts": [
+   "Apto somente na categoria B, com reavaliação do exame em prazo nunca superior a dois anos",
+   "Inapto, sem encaminhamento à Junta Médica Especial, pelo comprometimento funcional avançado",
+   "Apto na categoria B, com restrição de dirigir após o pôr do sol e reavaliação a cada três anos",
+   "Inapto temporário, com encaminhamento à Junta Médica Especial para avaliação pela NBR 14970",
+   "Necessita de novo relatório, pois a diretriz só decide com o estadiamento pela escala EDSS"
+  ],
+  "gab": 3,
+  "tema": "neuro",
+  "sub": "Parkinson: Hoehn & Yahr 2 ou 3",
+  "base": "Diretriz ABRAMET — Preditores clínicos de aptidão para dirigir em pessoas com doença de Parkinson (2022), item 4 da avaliação",
+  "coment": "A diretriz de Parkinson escalona a decisão pelo estadiamento de Hoehn & Yahr (HY) informado no relatório padronizado do neurologista: HY 1, apto na categoria B com reavaliação nunca superior a 2 anos; HY 2 OU 3, INAPTO TEMPORÁRIO e ENCAMINHADO À JUNTA MÉDICA ESPECIAL, avaliado segundo a NBR 14970 — e, se considerado apto, com reavaliação igual ou inferior a 2 anos; HY 4 ou 5, inapto. Estudos citados pela diretriz mostram risco de sinistro significativamente aumentado nos estágios 2 e 3, o que não se constatou no estágio 1. A escala EDSS é a da esclerose múltipla, não a do Parkinson.",
+  "porAlt": [
+   "Aptidão direta na categoria B é a conduta para o estágio HY 1.",
+   "Inaptidão sem JME é a conduta reservada aos estágios HY 4 e 5.",
+   "A diretriz de Parkinson não prevê restrição U nem prazo de três anos.",
+   "Correta: HY 2 ou 3 leva a inapto temporário e encaminhamento à JME.",
+   "EDSS é a escala da esclerose múltipla; o Parkinson usa Hoehn & Yahr."
+  ]
+ },
+ {
+  "q": "Mulher de 58 anos com doença de Parkinson, sem déficits cognitivos que comprometam a direção, tem incapacidade funcional moderada. O relatório padronizado solicitado ao neurologista informa estágio 1 de Hoehn & Yahr. Segundo a Diretriz ABRAMET, qual é o resultado?",
+  "alts": [
+   "Inapta temporária, com encaminhamento à Junta Médica Especial pela NBR 14970 da ABNT",
+   "Apta em todas as categorias, com reavaliação em prazo nunca superior a três anos",
+   "Inapta, pois a incapacidade moderada impede a aptidão em qualquer estágio da DP",
+   "Apta na categoria B, com reavaliação no prazo normal previsto no art. 147 do CTB",
+   "Apta na categoria B, com reavaliação do exame em prazo nunca superior a dois anos"
+  ],
+  "gab": 4,
+  "tema": "neuro",
+  "sub": "Parkinson: Hoehn & Yahr 1",
+  "base": "Diretriz ABRAMET — Preditores clínicos de aptidão para dirigir em pessoas com doença de Parkinson (2022), itens 2 e 3 da avaliação",
+  "coment": "Na diretriz de Parkinson, o candidato sem déficits cognitivos e com incapacidade funcional MODERADA (deficiência física motora moderada pela NBR 14970) exige relatório padronizado do neurologista (item 2). Com o relatório em mãos, a decisão segue o estadiamento: no HY 1 (doença unilateral), o candidato 'poderá ser considerado APTO para a condução de veículos automotores enquadrados na categoria B do CTB com reavaliação do EAFM NUNCA SUPERIOR A 2 ANOS' (item 3). A diretriz também lembra que o tempo de transição entre os estágios HY pode balizar o prazo de validade do exame. O prazo normal do CTB não se aplica.",
+  "porAlt": [
+   "O encaminhamento à JME como inapto temporário é para os estágios HY 2 e 3.",
+   "A diretriz restringe a aptidão à categoria B, com reavaliação de até 2 anos.",
+   "A incapacidade moderada leva ao relatório, e o HY 1 permite a aptidão.",
+   "O prazo não é o normal: a diretriz fixa reavaliação nunca superior a 2 anos.",
+   "Correta: o item 3 dá aptidão na categoria B com reavaliação de até 2 anos no HY 1."
+  ]
+ },
+ {
+  "q": "Candidato de 64 anos com doença de Parkinson, sem déficits cognitivos que comprometam a direção veicular, apresenta deficiência física motora moderada, segundo a NBR 14970. Segundo a Diretriz ABRAMET, qual é o próximo passo do perito?",
+  "alts": [
+   "Considerá-lo apto na categoria B, com reavaliação do exame de aptidão a cada dois anos",
+   "Considerá-lo inapto, pois a deficiência motora moderada contraindica a direção veicular",
+   "Solicitar relatório padronizado ao neurologista, com o estadiamento de Hoehn & Yahr",
+   "Encaminhá-lo direto à Junta Médica Especial, dispensando o relatório do neurologista",
+   "Solicitar relatório padronizado ao neurologista, com o escore da escala EDSS da doença"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Parkinson: quando pedir relatório",
+  "base": "Diretriz ABRAMET — Preditores clínicos de aptidão para dirigir em pessoas com doença de Parkinson (2022), itens 1 e 2 da avaliação e modelo de relatório",
+  "coment": "A diretriz separa dois perfis no ponto de partida. (1) Estágio inicial, sem déficits cognitivos, com incapacidade funcional AUSENTE OU MÍNIMA (deficiência física motora leve): apto somente na categoria B, com reavaliação a cada 2 anos. (2) Sem déficits cognitivos, mas com incapacidade funcional MODERADA: deverá ser SOLICITADO RELATÓRIO PADRONIZADO AO NEUROLOGISTA. O modelo de relatório pede especialidade, tempo de acompanhamento, CID G20, medicação, flutuações farmacológicas, comorbidades, avaliação cognitiva e o ESTADIAMENTO DE HOEHN & YAHR, escolhido por ser amplamente usado e uniformizar os resultados. A decisão final depende desse estadiamento.",
+  "porAlt": [
+   "Aptidão direta é a conduta do perfil com incapacidade ausente ou mínima.",
+   "A incapacidade moderada não leva à inaptidão direta; pede-se o relatório.",
+   "Correta: a incapacidade moderada leva ao pedido de relatório com o estadiamento HY.",
+   "O relatório não é dispensado; o encaminhamento à JME depende do estágio HY.",
+   "EDSS é a escala usada na esclerose múltipla, não na doença de Parkinson."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre doença de Parkinson, qual fármaco dopaminérgico foi apontado como o mais associado à sonolência excessiva diurna, e que instrumento é altamente recomendado para avaliar esse risco no exame?",
+  "alts": [
+   "O pramipexol; a aplicação da Escala de Sonolência de Epworth",
+   "A levodopa; a aplicação da Escala de Sonolência de Epworth",
+   "A amantadina; o estadiamento pela escala de Hoehn & Yahr da DP",
+   "O pramipexol; o teste de latências múltiplas do sono em série",
+   "O biperideno; a aplicação do Miniexame do Estado Mental (MEEM)"
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Parkinson: sonolência e ataques de sono",
+  "base": "Diretriz ABRAMET — Preditores clínicos de aptidão para dirigir em pessoas com doença de Parkinson (2022), seção 6 (Efeito do tratamento; Distúrbios do sono)",
+  "coment": "A diretriz registra que 'ataques de sono' com sinistros foram relatados com TODOS os medicamentos dopaminérgicos usados na DP. A sonolência excessiva diurna foi observada em 15,5% das pessoas com DP (contra 4% com diabetes e 1% dos controles); a monoterapia com levodopa causou sonolência em 14% dos pacientes, mas o PRAMIPEXOL foi apontado como o MAIS associado à SED. Cabe ao médico do tráfego identificar a SED, e a aplicação da ESCALA DE SONOLÊNCIA DE EPWORTH na avaliação de condutores com DP é 'altamente recomendada'. Hoehn & Yahr estadia a doença; o MEEM rastreia cognição; nenhum mede sonolência.",
+  "porAlt": [
+   "Correta: é o fármaco e o instrumento expressamente citados pela diretriz.",
+   "A levodopa causa sonolência em 14%, mas o mais associado é o pramipexol.",
+   "Amantadina causa alucinações e confusão; Hoehn & Yahr não mede sonolência.",
+   "O fármaco está certo, mas a diretriz recomenda a escala de Epworth.",
+   "Biperideno causa turvação visual e confusão; o MEEM avalia a cognição."
+  ]
+ },
+ {
+  "q": "Homem de 34 anos com esclerose múltipla remitente-recorrente traz relatório padronizado do neurologista com EDSS de 2,0, mas o teste de triagem cognitiva validado para esclerose múltipla resultou alterado. Segundo a Diretriz ABRAMET, qual é a conduta?",
+  "alts": [
+   "Apto somente na categoria B, com validade de até dois anos, pelo EDSS menor que 3,5",
+   "Encaminhamento à Junta Médica Especial, para avaliação conforme a NBR 14970 da ABNT",
+   "Inapto, pois triagem cognitiva positiva leva à inaptidão, qualquer que seja o EDSS",
+   "Apto somente na categoria B, desde que repita a triagem cognitiva com resultado normal",
+   "Inapto temporário, até novo relatório do neurologista com EDSS igual ou superior a 3,5"
+  ],
+  "gab": 2,
+  "tema": "neuro",
+  "sub": "Esclerose múltipla: triagem cognitiva positiva",
+  "base": "Diretriz ABRAMET — Avaliação de candidatos e condutores com esclerose múltipla (2024), item 8",
+  "coment": "A diretriz de esclerose múltipla exige dois elementos: teste de triagem validado para avaliação cognitiva da pessoa com EM e relatório padronizado do neurologista com o EDSS. As saídas: apto somente na categoria B, com validade igual ou inferior a 2 anos, se a triagem for NORMAL E o EDSS inferior a 3,5; Junta Médica Especial se a triagem for NORMAL e o EDSS for de 3,5 a menos de 7,0; INAPTO se a triagem for POSITIVA E/OU o EDSS for igual ou superior a 7,0. O 'e/ou' é a chave: a triagem positiva basta, ainda que o EDSS seja baixo. A diretriz lembra que o comprometimento cognitivo pode surgir cedo, mesmo sem outros déficits.",
+  "porAlt": [
+   "O EDSS baixo só leva à aptidão se a triagem cognitiva também for normal.",
+   "A JME é para triagem normal com EDSS de 3,5 a menos de 7,0.",
+   "Correta: o item 3 da diretriz declara inapto quem tem triagem cognitiva positiva.",
+   "A diretriz não prevê repetição do teste como condição da aptidão.",
+   "Não há inaptidão temporária; e um EDSS maior não melhora o resultado."
+  ]
+ },
+ {
+  "q": "Candidata de 40 anos com esclerose múltipla tem teste de triagem cognitiva validado normal e relatório padronizado do neurologista com EDSS de exatamente 3,5. Segundo a Diretriz ABRAMET, qual é a conduta?",
+  "alts": [
+   "Apta somente na categoria B, pois o EDSS de 3,5 ainda é o limite superior da aptidão direta",
+   "Encaminhá-la à Junta Médica Especial, pois o EDSS está entre 3,5 inclusive e menos de 7,0",
+   "Inapta, pois EDSS igual ou superior a 3,5 impede a condução de todo veículo automotor",
+   "Apta somente na categoria B, com validade de até cinco anos, pela triagem cognitiva normal",
+   "Inapta temporária, até nova triagem cognitiva e novo relatório com EDSS inferior a 3,0"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Esclerose múltipla: EDSS no limite",
+  "base": "Diretriz ABRAMET — Avaliação de candidatos e condutores com esclerose múltipla (2024), item 8",
+  "coment": "Os cortes da diretriz de esclerose múltipla precisam ser lidos com os sinais: APTO (somente B, validade igual ou inferior a 2 anos) com EDSS INFERIOR a 3,5; JUNTA MÉDICA ESPECIAL, com avaliação pela NBR 14970 e protocolos da ABRAMET, com EDSS IGUAL OU SUPERIOR a 3,5 e inferior a 7,0; INAPTO com EDSS igual ou superior a 7,0 (ou triagem cognitiva positiva). O valor 3,5 exato, portanto, sai da aptidão direta e vai à JME. Na escala, 3 a 3,5 corresponde a incapacidade mínima a moderada; 6 indica apoio unilateral para andar e 7, cadeira de rodas. A pegadinha é tratar 3,5 como teto da aptidão.",
+  "porAlt": [
+   "A aptidão direta exige EDSS inferior a 3,5; o valor exato já vai à JME.",
+   "Correta: 3,5 está na faixa 'igual ou superior a 3,5 e inferior a 7,0', que vai à JME.",
+   "A inaptidão por EDSS começa em 7,0; de 3,5 a menos de 7,0 o caso vai à JME.",
+   "A diretriz fixa validade igual ou inferior a 2 anos, e 3,5 não dá aptidão direta.",
+   "Não há inaptidão temporária nem corte de 3,0 na diretriz de esclerose múltipla."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esclerose múltipla, por que o Miniexame do Estado Mental e o Mini-Cog não bastam para a triagem cognitiva da pessoa com EM, e qual teste é considerado o padrão-ouro?",
+  "alts": [
+   "São longos demais para o exame pericial; o padrão-ouro é a escala EDSS do neurologista",
+   "Não são sensíveis e específicos para os domínios afetados na EM; o padrão-ouro é o SDMT",
+   "Exigem alfabetização plena do candidato; o padrão-ouro é o teste do desenho do relógio",
+   "Não são sensíveis e específicos para os domínios afetados na EM; o padrão-ouro é o MEEM",
+   "Superestimam a velocidade de processamento; o padrão-ouro é o teste de memória RAVLT"
+  ],
+  "gab": 1,
+  "tema": "neuro",
+  "sub": "Esclerose múltipla: triagem cognitiva",
+  "base": "Diretriz ABRAMET — Avaliação de candidatos e condutores com esclerose múltipla (2024), seção 3 (Déficits cognitivos) e Tabela 1",
+  "coment": "A diretriz afirma que testes comumente usados para rastrear demência, como o Miniexame do Estado Mental e o Mini-Cog, NÃO SÃO SUFICIENTEMENTE SENSÍVEIS E ESPECÍFICOS para os domínios tipicamente afetados na EM (velocidade de processamento, atenção, memória, funções executivas); por isso devem ser usados testes neuropsicológicos. Na Tabela 1, o TESTE DE MODALIDADES DE SÍMBOLOS E DÍGITOS (SDMT) é 'considerado o padrão ouro', com ênfase na velocidade de processamento e recomendado para a triagem inicial. Também são citados testes de memória (RAVLT, CVLT, BVMT-R), PST, CSCT, MSNQ, BICAMS e MACFIMS. O EDSS mede incapacidade, não cognição.",
+  "porAlt": [
+   "O problema não é a duração; e o EDSS não mede a cognição do candidato.",
+   "Correta: é a justificativa e o padrão-ouro expressos na seção de déficits cognitivos.",
+   "A diretriz não fala em alfabetização, e o padrão-ouro na EM é o SDMT.",
+   "O motivo está certo, mas o MEEM é justamente o teste considerado insuficiente.",
+   "O RAVLT é um teste de memória listado, mas o padrão-ouro é o SDMT."
+  ]
+ },
+ {
+  "q": "Condutor de 68 anos teve ataque isquêmico transitório há 2 meses, com regressão completa do déficit; a investigação da causa está em curso. Segundo a Diretriz ABRAMET sobre o condutor idoso, qual é a orientação quanto à direção veicular?",
+  "alts": [
+   "Cessar a direção por no mínimo seis meses e retomar após investigação e controle da causa",
+   "Liberar a direção de imediato, pois a regressão completa em 24 horas afasta o risco ao volante",
+   "Cessar a direção por no mínimo trinta dias e retomar sem necessidade de supervisão médica",
+   "Encaminhar de imediato à Junta Médica Especial, para avaliação conforme a NBR 14970 da ABNT",
+   "Cessar a direção em definitivo, pois o AIT no idoso indica AVC iminente e irreversível"
+  ],
+  "gab": 0,
+  "tema": "neuro",
+  "sub": "Idoso: ataque isquêmico transitório",
+  "base": "Diretriz ABRAMET — O condutor idoso (2022), item 7.8 (Avaliação neurológica — AIT)",
+  "coment": "Na avaliação neurológica do idoso, a diretriz define o AIT como déficit focal isquêmico com regressão completa em menos de 24 horas, muitas vezes consequente a arritmias cardíacas. A recomendação é a CESSAÇÃO DA CONDUÇÃO POR NO MÍNIMO SEIS MESES após o AIT e a retomada após investigação diagnóstica, identificação da etiologia, controle e acompanhamento com o especialista. Ao retomar, o condutor deve permanecer sob supervisão médica e, se aprovado no exame, orienta-se diminuir o prazo de validade. A Junta Médica Especial é o destino do AVC com comprometimento neuromuscular, motor ou sensorial persistente, não do AIT com regressão completa.",
+  "porAlt": [
+   "Correta: a diretriz recomenda no mínimo seis meses e retomada após controle da causa.",
+   "A regressão completa define o AIT, mas não dispensa o afastamento de seis meses.",
+   "O afastamento mínimo é de seis meses, e a retomada exige supervisão médica.",
+   "A JME é para o AVC com déficit persistente, e não para o AIT com regressão.",
+   "A diretriz não impõe cessação definitiva; prevê retomada após o controle."
+  ]
+ }
+]

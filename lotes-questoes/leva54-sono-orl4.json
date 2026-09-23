@@ -1,0 +1,772 @@
+[
+ {
+  "q": "Motorista de 50 anos renova a CNH categoria D. Exame: IMC de 28 kg/m², perímetro cervical de 46 cm, Mallampati modificado classe 2, pressão arterial de 126 x 82 mmHg e Escala de Epworth de 6 pontos. Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é a interpretação correta?",
+  "alts": [
+   "Há dois indícios objetivos, perímetro cervical e IMC, o que já autoriza pedir polissonografia agora",
+   "Há um único indício objetivo, o perímetro cervical, o que não basta para acionar a regra do item 1.3",
+   "Há dois indícios objetivos, perímetro cervical e pressão, o que já autoriza a aprovação temporária",
+   "Não há indício algum, pois o perímetro cervical só conta como indício acima de 48 cm nos homens",
+   "Há um indício objetivo e outro subjetivo, soma que obriga o encaminhamento para a polissonografia"
+  ],
+  "gab": 1,
+  "tema": "sono",
+  "sub": "Contagem de indícios objetivos",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.2 e 1.3",
+  "coment": "O Anexo X lista quatro parâmetros objetivos (item 1.1.1) e um subjetivo (item 1.1.2), com os cortes do item 1.2: pressão sistólica > 130 e diastólica > 85 mmHg; IMC > 30 kg/m²; perímetro cervical > 45 cm em homens e > 38 cm em mulheres, medido na cartilagem cricoide; Mallampati modificado classe 3 ou 4; e Epworth elevado. Neste caso só o perímetro cervical de 46 cm caracteriza indício. O item 1.3 exige 'dois ou mais indícios objetivos' (ou Epworth elevado) para que o perito, a critério médico, aprove temporariamente ou encaminhe à polissonografia. Um indício isolado não aciona a regra — pegadinha clássica de contagem.",
+  "porAlt": [
+   "O IMC de 28 kg/m² não é indício: o corte do item 1.2.2 é acima de 30 kg/m².",
+   "Correta: só o perímetro cervical (46 cm > 45 cm em homem) é indício; o item 1.3 exige dois ou mais objetivos.",
+   "A pressão de 126 x 82 mmHg não supera 130 x 85 mmHg, corte do item 1.2.1 do Anexo X.",
+   "O corte masculino é acima de 45 cm (item 1.2.3); 48 cm é número inventado.",
+   "Epworth de 6 não é indício, e o anexo nunca torna a polissonografia obrigatória."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos solicita mudança da categoria B para a D. Apresenta IMC de 31 kg/m², perímetro cervical de 40 cm, Mallampati modificado classe 2, pressão arterial de 124 x 80 mmHg e Epworth de 5 pontos. Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é a conduta possível?",
+  "alts": [
+   "Nenhuma conduta do Anexo X, já que o perímetro cervical de 40 cm fica abaixo do corte único de 45 cm",
+   "Aprovação temporária ou encaminhamento à polissonografia, a critério médico, por dois indícios objetivos",
+   "Inaptidão temporária automática até o resultado da polissonografia, por haver dois indícios objetivos",
+   "Sem conduta prevista no Anexo X, pois sem Epworth elevado os indícios objetivos isolados não acionam a regra",
+   "Aprovação sem ressalvas, pois o rastreamento do Anexo X alcança a renovação, mas não a mudança de categoria"
+  ],
+  "gab": 1,
+  "tema": "sono",
+  "sub": "Perímetro cervical feminino",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.1, 1.2.2, 1.2.3 e 1.3",
+  "coment": "O perímetro cervical é o único parâmetro do Anexo X com corte diferente por sexo: acima de 45 cm em homens e acima de 38 cm em mulheres, medido na altura da cartilagem cricoide (item 1.2.3). Aqui a candidata tem IMC de 31 kg/m² (> 30, item 1.2.2) e perímetro de 40 cm (> 38 cm), o que dá dois indícios objetivos. A mudança da categoria B para a D está no alcance do item 1.1 (renovação, adição e mudança para C, D e E). Pelo item 1.3, com dois ou mais indícios objetivos, o perito, a critério médico, pode aprovar temporariamente ou encaminhar para avaliação específica e polissonografia. Não há inaptidão automática.",
+  "porAlt": [
+   "O corte de 45 cm é o masculino; para mulheres o item 1.2.3 fixa acima de 38 cm.",
+   "Correta: IMC > 30 e perímetro cervical > 38 cm (corte feminino) somam dois indícios objetivos, acionando o item 1.3.",
+   "O anexo não prevê inaptidão automática: a consequência é alternativa e fica a critério médico.",
+   "Os indícios objetivos formam porta autônoma: o item 1.3 usa 'e/ou' entre Epworth e dois ou mais objetivos.",
+   "O item 1.1 inclui expressamente renovação, adição e mudança para as categorias C, D e E."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo XI da Resolução CONTRAN nº 927/2022, qual das situações abaixo NÃO integra a Escala de Sonolência de Epworth?",
+  "alts": [
+   "Como passageiro de trem, carro ou ônibus, andando uma hora",
+   "Sentado calmamente após o almoço, sem ingerir bebida alcoólica",
+   "Parado no carro por alguns minutos devido a trânsito intenso",
+   "Deitando-se para descansar à tarde, quando a situação permite",
+   "Dirigindo o próprio carro por uma hora, sem parar, em estrada"
+  ],
+  "gab": 4,
+  "tema": "sono",
+  "sub": "Itens da Escala de Epworth",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XI (Escala de Sonolência de Epworth)",
+  "coment": "O Anexo XI reproduz as oito situações da Escala de Epworth: sentado e lendo; assistindo TV; sentado em lugar público (sala de espera); como passageiro de trem, carro ou ônibus andando uma hora sem parar; deitando-se para descansar à tarde, quando as circunstâncias permitem; sentado e conversando com alguém; sentado calmamente após o almoço sem álcool; e, se tiver carro, enquanto para por alguns minutos em virtude de trânsito intenso. Cada uma vale de 0 a 3. A pegadinha é que a escala NUNCA pergunta sobre cochilar dirigindo: a situação de estrada é como passageiro, e a do carro próprio é com o veículo parado no trânsito.",
+  "porAlt": [
+   "É a quarta situação da escala: o respondente está como passageiro, não ao volante.",
+   "É a sétima situação da escala, 'sentado(a) calmamente após o almoço sem álcool'.",
+   "É a oitava situação: o veículo está parado por trânsito intenso, sem condução ativa.",
+   "É a quinta situação: 'deitando-se para descansar à tarde, quando as circunstâncias permitem'.",
+   "Correta: nenhuma das oito situações envolve conduzir; a que envolve estrada é como passageiro."
+  ]
+ },
+ {
+  "q": "Ao responder a Escala de Sonolência de Epworth do Anexo XI da Resolução CONTRAN nº 927/2022, o candidato informa que nunca passou por uma das situações listadas. Segundo as instruções da própria escala, como ele deve proceder?",
+  "alts": [
+   "Tentar calcular como aquela situação poderia tê-lo afetado e marcar a pontuação correspondente",
+   "Deixar o item em branco para que o escore total seja recalculado em proporção aos demais itens",
+   "Atribuir zero ao item, porque a escala só pontua as situações que foram efetivamente vividas",
+   "Atribuir a pontuação máxima ao item, por prudência, e anotar a ressalva no formulário RENACH",
+   "Trocar o item por uma situação parecida vivida na semana, escolhida livremente pelo examinador"
+  ],
+  "gab": 0,
+  "tema": "sono",
+  "sub": "Instruções da Escala de Epworth",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XI (enunciado da escala)",
+  "coment": "O enunciado da Escala de Epworth no Anexo XI traz três instruções que caem em prova: a pergunta é sobre a probabilidade de 'cochilar' ou adormecer, em contraste com estar simplesmente cansado; refere-se ao modo de vida comum, nos tempos atuais; e, ainda que o respondente não tenha passado por alguma das situações, deve tentar calcular como ela poderia tê-lo afetado. A escala de resposta vai de 0 (nenhuma chance) a 3 (alta chance) em oito situações, com total de 0 a 24. Não há item facultativo, recálculo proporcional nem substituição de situações pelo examinador.",
+  "porAlt": [
+   "Correta: a instrução manda, mesmo sem ter vivido a situação, 'tentar calcular como poderiam tê-lo afetado'.",
+   "A escala não prevê item em branco nem recálculo proporcional; o total é a soma das oito situações.",
+   "A instrução é o oposto: estimar a chance mesmo nas situações nunca vividas pelo respondente.",
+   "Não há regra de pontuação máxima por prudência; o candidato estima a própria chance de cochilar.",
+   "As oito situações são fixas; o examinador não as substitui por outras de sua escolha."
+  ]
+ },
+ {
+  "q": "Segundo o enunciado da Escala de Sonolência de Epworth reproduzida no Anexo XI da Resolução CONTRAN nº 927/2022, o que o candidato deve estimar em cada situação?",
+  "alts": [
+   "O grau de cansaço físico que sente em cada situação, tomando como base o pior dia do último mês",
+   "O número de vezes que efetivamente cochilou em cada situação ao longo dos últimos sete dias",
+   "A chance de cochilar ou adormecer, em contraste com estar só cansado, em seu modo de vida atual",
+   "A chance de cochilar ou adormecer em cada situação, tomando como base a fase mais crítica da vida",
+   "O tempo, em minutos, que leva para adormecer em cada situação, cronometrado pelo próprio candidato"
+  ],
+  "gab": 2,
+  "tema": "sono",
+  "sub": "O que a Escala de Epworth mede",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XI",
+  "coment": "A Escala de Epworth é o parâmetro subjetivo do Anexo X (item 1.1.2) e mede sonolência excessiva, não fadiga. Por isso o enunciado do Anexo XI pede a probabilidade de 'cochilar' ou adormecer 'em contraste com estar sentindo-se simplesmente cansado', considerando o modo de vida comum 'nos tempos atuais'. Cada uma das oito situações recebe 0 (nenhuma), 1 (pequena), 2 (moderada) ou 3 (alta chance de cochilar). A distinção entre sonolência (propensão a adormecer) e cansaço é justamente o que torna a escala útil no rastreamento de SAOS do motorista das categorias C, D e E.",
+  "porAlt": [
+   "A escala separa expressamente cochilar de estar 'simplesmente cansado'; não mede cansaço.",
+   "A escala estima a probabilidade (0 a 3), não conta episódios em período definido.",
+   "Correta: a escala pergunta a probabilidade de cochilar, distinta do cansaço, no modo de vida comum atual.",
+   "O período de referência é o modo de vida comum, nos tempos atuais, e não a pior fase.",
+   "Latência de sono é medida em exame específico; a escala atribui de 0 a 3 pontos de chance."
+  ]
+ },
+ {
+  "q": "O Anexo X da Resolução CONTRAN nº 927/2022, que trata da avaliação dos distúrbios de sono, identifica esses distúrbios por qual código da CID-10?",
+  "alts": [
+   "CID-10 G40",
+   "CID-10 F51",
+   "CID-10 G47",
+   "CID-10 R40",
+   "CID-10 G43"
+  ],
+  "gab": 2,
+  "tema": "sono",
+  "sub": "CID do Anexo X",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1",
+  "coment": "O Anexo X da Resolução CONTRAN nº 927/2022 abre com o título 'Da avaliação dos distúrbios de sono (CID 10 - G47)'. Embora o cabeçalho fale genericamente em distúrbios do sono, o item 1.1 restringe a avaliação obrigatória à Síndrome de Apneia Obstrutiva do Sono (SAOS), na renovação, adição e mudança para as categorias C, D e E, por quatro parâmetros objetivos e um subjetivo. Na prova, o código da CID costuma aparecer como detalhe de identificação do anexo; os distratores usam códigos vizinhos de neurologia e psiquiatria, como o da epilepsia (G40), que é tratada nos Anexos VIII e IX.",
+  "porAlt": [
+   "G40 é o código da epilepsia, tratada em outro anexo, e não o citado no Anexo X.",
+   "F51 corresponde aos transtornos não orgânicos do sono, e não é o código citado no Anexo X.",
+   "Correta: o item 1 do Anexo X abre com 'Da avaliação dos distúrbios de sono (CID 10 - G47)'.",
+   "R40 é código de sintoma (sonolência, estupor e coma), não o adotado no Anexo X.",
+   "G43 é o código da enxaqueca, sem relação com o rastreamento de SAOS do Anexo X."
+  ]
+ },
+ {
+  "q": "Candidato de 45 anos à adição da categoria E não apresenta nenhum indício objetivo de distúrbio do sono, mas pontua 19 na Escala de Epworth. Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "A regra do item 1.3 não se aplica, pois o Epworth só é valorizado quando somado a dois indícios objetivos",
+   "A regra do item 1.3 não se aplica, pois ela exige ao menos um indício objetivo junto do Epworth elevado",
+   "A regra do item 1.3 está acionada: a critério médico, aprovação temporária ou envio à polissonografia",
+   "A regra do item 1.3 está acionada e impõe a inaptidão temporária até o resultado da polissonografia",
+   "A regra do item 1.3 está acionada e impõe a restrição de dirigir após o pôr do sol, codificada pela letra U"
+  ],
+  "gab": 2,
+  "tema": "sono",
+  "sub": "Epworth como porta autônoma",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.3",
+  "coment": "O item 1.3 do Anexo X tem duas portas de entrada ligadas por 'e/ou': escore elevado na Escala de Epworth e/ou dois ou mais indícios objetivos. Assim, o Epworth elevado aciona a regra mesmo sem nenhum achado objetivo. A consequência é alternativa e discricionária: 'a critério médico, poderá ser aprovado temporariamente ou ser encaminhado para avaliação médica específica e realização de polissonografia'. Observe que o texto oficial se contradiz sobre o corte exato (> 12 no item 1.2.5 e 'maior ou igual a 12' no item 1.3); por isso o caso usa 19, valor que aciona a regra em qualquer leitura.",
+  "porAlt": [
+   "O item 1.3 liga Epworth e indícios objetivos por 'e/ou': qualquer das portas basta.",
+   "Não há exigência de indício objetivo associado; o Epworth elevado sozinho aciona a regra.",
+   "Correta: o Epworth elevado é porta autônoma ('e/ou') e 19 está claramente acima do corte.",
+   "O anexo não impõe inaptidão; oferece aprovação temporária ou encaminhamento, a critério médico.",
+   "A restrição U não é consequência prevista no Anexo X para o rastreamento de SAOS."
+  ]
+ },
+ {
+  "q": "Homem de 39 anos, motorista de aplicativo com CNH categoria B, tem epilepsia com crises exclusivamente durante o sono há 7 anos, nunca teve crise em vigília, Epworth de 6 e avaliação de SAOS normal. Segundo a Diretriz ABRAMET de epilepsia (2025), qual é o resultado?",
+  "alts": [
+   "Apto na categoria B com a restrição U, pois ele preenche todos os requisitos das crises no sono",
+   "Apto na categoria B sem restrição, pois as crises durante o sono não ocorrem enquanto ele dirige",
+   "Inapto, pois a aptidão nas crises exclusivas do sono exige que ele não exerça atividade remunerada",
+   "Apto após 24 meses sem crises, prazo que a diretriz aplica à categoria B com atividade remunerada",
+   "Apto com a restrição U e com redução do prazo de validade do exame para um único ano de duração"
+  ],
+  "gab": 2,
+  "tema": "sono",
+  "sub": "Crises exclusivas do sono e atividade remunerada",
+  "base": "Diretriz ABRAMET Epilepsia e Direção Veicular (2025), item 5 e tabela-resumo; Resolução CONTRAN nº 927/2022, Anexo I, pergunta 9",
+  "coment": "A Diretriz ABRAMET de 2025 admite a aptidão de quem tem crises exclusivamente durante o sono apenas na categoria B e desde que o condutor NÃO exerça atividade remunerada ao veículo, somando outras condições: nenhuma crise em vigília em toda a vida, critérios diagnósticos há no mínimo 5 anos, restrição 'U' (vedado dirigir após o pôr do sol) e exclusão de sonolência excessiva diurna (Epworth < 12 e SAOS avaliada pela Resolução 927). Na tabela-resumo, as colunas 'categoria B com atividade remunerada' e 'ACC, A, C, D, E' trazem 'Inapto' para essa condição. A atividade remunerada é identificada pela pergunta nº 9 do questionário do Anexo I.",
+  "porAlt": [
+   "Falta um requisito: não exercer atividade remunerada, e ele trabalha como motorista de aplicativo.",
+   "A restrição U é obrigatória mesmo para quem se enquadra, e a atividade remunerada o exclui.",
+   "Correta: o critério vale 'somente na Categoria B, desde que não exerçam atividade remunerada'; com atividade remunerada, a tabela indica inapto.",
+   "Os 24 meses referem-se à modificação do fármaco anticrise, não às crises exclusivas do sono.",
+   "Não há aptidão possível com atividade remunerada neste critério, com ou sem prazo reduzido."
+  ]
+ },
+ {
+  "q": "Mulher de 33 anos, categoria B, sem atividade remunerada, tem epilepsia com crises restritas ao sono há 6 anos, mas teve uma crise tônico-clônica em vigília aos 19 anos. Segundo a Diretriz ABRAMET de epilepsia (2025), ela pode ser aprovada pelo critério das crises exclusivamente no sono?",
+  "alts": [
+   "Sim, porque a crise em vigília ocorreu há mais de cinco anos, que é o intervalo exigido pela diretriz",
+   "Sim, desde que tenha Epworth inferior a 12 e aceite a restrição de não dirigir após o pôr do sol",
+   "Não, porque o critério exige no mínimo dez anos de diagnóstico de epilepsia confirmado por especialista",
+   "Não, porque o critério exige que nunca tenha havido crise em vigília em nenhum momento da vida dela",
+   "Não, porque o critério das crises exclusivas no sono se aplica somente a condutores com mais de 40 anos"
+  ],
+  "gab": 3,
+  "tema": "sono",
+  "sub": "Crise em vigília prévia",
+  "base": "Diretriz ABRAMET Epilepsia e Direção Veicular (2025), item 5 (crises exclusivamente no sono)",
+  "coment": "O item 5 da Diretriz ABRAMET de 2025 exige, para aprovar quem tem crises exclusivamente durante o sono: somente categoria B, sem atividade remunerada; ausência de crise em vigília 'em nenhum momento de sua vida'; critérios diagnósticos de epilepsia há no mínimo 5 anos; restrição 'U' obrigatória; e exclusão de sonolência excessiva diurna (Epworth < 12 e avaliação da SAOS pelos critérios da Resolução 927). A crise tônico-clônica em vigília aos 19 anos retira a candidata desse critério, ainda que antiga. Ela pode ser avaliada por outra linha da tabela (por exemplo, epilepsia com fármaco e 12 meses sem crises), mas não pela regra do sono.",
+  "porAlt": [
+   "Os 5 anos são de critérios diagnósticos de epilepsia; a crise em vigília não pode ter ocorrido nunca.",
+   "Epworth < 12 e restrição U são necessários, mas não suprem a exigência de nunca ter crise em vigília.",
+   "O prazo exigido é de no mínimo 5 anos de critérios diagnósticos; dez anos é a epilepsia 'resolvida'.",
+   "Correta: a diretriz exige 'sem ocorrência de crise em vigília em nenhum momento de sua vida'.",
+   "A diretriz não fixa idade mínima para o critério das crises exclusivamente no sono."
+  ]
+ },
+ {
+  "q": "Homem de 28 anos, sem atividade remunerada como condutor, pretende a categoria B. Tem crises epilépticas exclusivamente durante o sono, nunca teve crise em vigília, Epworth de 4 e SAOS descartada, mas preenche critérios diagnósticos de epilepsia há apenas 3 anos. Segundo a Diretriz ABRAMET de epilepsia (2025), qual é a conclusão?",
+  "alts": [
+   "Já cumpre o critério, que exige diagnóstico de epilepsia há no mínimo dois anos, como no Japão",
+   "Já cumpre o critério, que exige apenas doze meses sem crises, como na maioria dos países europeus",
+   "Ainda não cumpre o critério, que exige diagnóstico de epilepsia há no mínimo dez anos seguidos",
+   "Já cumpre o critério, desde que o neurologista o acompanhe há no mínimo seis meses contínuos",
+   "Ainda não cumpre o critério, que exige diagnóstico de epilepsia há no mínimo cinco anos inteiros"
+  ],
+  "gab": 4,
+  "tema": "sono",
+  "sub": "Tempo mínimo de diagnóstico",
+  "base": "Diretriz ABRAMET Epilepsia e Direção Veicular (2025), item 5 e seção 5 (legislações)",
+  "coment": "A diretriz brasileira de 2025 exige, para as crises exclusivamente no sono, critérios diagnósticos de epilepsia há no mínimo 5 anos, além de nunca ter tido crise em vigília, restrição 'U', categoria B sem atividade remunerada e exclusão de sonolência excessiva diurna. Os distratores usam números reais de OUTRAS regras citadas na própria diretriz: no Japão, crises exclusivamente no sono por no mínimo 2 anos; na maioria dos países da União Europeia, 12 meses sem crises para não profissionais; 10 anos sem crises e 5 sem fármaco para a epilepsia 'resolvida'; e um ano de acompanhamento mínimo pelo neurologista que emite o relatório.",
+  "porAlt": [
+   "Dois anos é a regra japonesa citada na revisão internacional, não a exigência brasileira da diretriz.",
+   "Doze meses é a regra da maioria dos países da UE; a diretriz brasileira exige 5 anos de diagnóstico.",
+   "Dez anos sem crises (e 5 sem fármaco) definem a epilepsia 'resolvida', não este critério.",
+   "O relatório exige acompanhamento mínimo de um ano, e ainda falta o tempo de diagnóstico.",
+   "Correta: o critério exige 'critérios diagnósticos de epilepsia por um período mínimo de 5 (cinco) anos'."
+  ]
+ },
+ {
+  "q": "Segundo a justificativa da Diretriz ABRAMET de epilepsia (2025) para exigir a avaliação da sonolência, qual é a frequência da apneia obstrutiva do sono em adultos com a forma refratária da epilepsia?",
+  "alts": [
+   "Afeta até um terço desses adultos, sendo comorbidade frequente",
+   "Afeta até metade desses adultos, sendo comorbidade frequente",
+   "Afeta até dois terços desses adultos, sendo comorbidade principal",
+   "Afeta cerca de um décimo desses adultos, sendo comorbidade rara",
+   "Afeta até um quarto desses adultos, sendo comorbidade ocasional"
+  ],
+  "gab": 0,
+  "tema": "sono",
+  "sub": "SAOS na epilepsia refratária",
+  "base": "Diretriz ABRAMET Epilepsia e Direção Veicular (2025), justificativa dos itens 5 e 6",
+  "coment": "A justificativa da Diretriz ABRAMET de 2025 explica por que o sono entra na avaliação da pessoa com epilepsia: há alta incidência de distúrbios do sono nessa população, com destaque para sonolência excessiva diurna, hipersonia e apneia obstrutiva do sono; a privação de sono pode agravar o controle das crises, comprometendo a condução segura; e a SAOS é comorbidade frequente, afetando até um terço dos adultos com a forma refratária. Daí a exigência, nas crises exclusivamente no sono, de Epworth inferior a 12 e de avaliação da SAOS pelos critérios da Resolução CONTRAN nº 927/2022, ligando os Anexos X e XI à neurologia.",
+  "porAlt": [
+   "Correta: a diretriz afirma que a SAOS afeta 'até um terço dos adultos com a forma refratária'.",
+   "A diretriz cita até um terço, e não metade, dos adultos com epilepsia refratária.",
+   "A proporção de dois terços é exagerada; o texto fala em até um terço.",
+   "A diretriz qualifica a SAOS como comorbidade frequente, não rara, nessa população.",
+   "O número citado é até um terço, e a diretriz a trata como comorbidade frequente."
+  ]
+ },
+ {
+  "q": "Na Figura 3 da Diretriz ABRAMET de epilepsia (2025), adaptada do consenso da American Academy of Neurology e sociedades de epilepsia, como são classificadas as crises exclusivamente no sono?",
+  "alts": [
+   "Como fator desfavorável à redução do intervalo livre de crises exigido",
+   "Como fator neutro, sem influência no intervalo livre de crises exigido",
+   "Como critério de inaptidão definitiva, qualquer que seja o intervalo",
+   "Como fator favorável à redução do intervalo livre de crises exigido",
+   "Como fator que dobra o intervalo livre de crises exigido à direção"
+  ],
+  "gab": 3,
+  "tema": "sono",
+  "sub": "Fatores que modulam o intervalo sem crises",
+  "base": "Diretriz ABRAMET Epilepsia e Direção Veicular (2025), Figura 3 (adaptada do consenso AAN/AES/EFA)",
+  "coment": "A Figura 3 da diretriz de 2025, adaptada da Declaração de Consenso da American Academy of Neurology, American Epilepsy Society e Epilepsy Foundation of America, separa fatores favoráveis e desfavoráveis à redução do intervalo livre de crises. Favoráveis: crises durante mudança de medicação, crises que não interferem na consciência ou na função motora, auras prolongadas, crises ligadas a estados tóxicos ou metabólicos agudos que não devem se repetir e crises exclusivamente no sono. Desfavoráveis: não adesão ou informação não confiável, abuso recente de álcool ou drogas, doença cerebral estrutural, distúrbio metabólico intratável, recorrências frequentes e sinistros causados por crises.",
+  "porAlt": [
+   "Na coluna desfavorável estão, por exemplo, não adesão, abuso de álcool e doença estrutural.",
+   "A figura não tem categoria neutra; as crises no sono aparecem como fator favorável.",
+   "A figura trata de ajuste do intervalo livre de crises, e não de inaptidão definitiva.",
+   "Correta: 'crises exclusivamente no sono' estão na coluna de fatores favoráveis à redução do intervalo.",
+   "Não há fator multiplicador na figura; as crises no sono favorecem a redução do intervalo."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre doença de Parkinson, qual foi a frequência de sonolência excessiva diurna observada nas pessoas com a doença, em comparação com diabéticos e grupos controle?",
+  "alts": [
+   "4% na doença de Parkinson, contra 15,5% no diabetes mellitus e 1% nos controles",
+   "33% na doença de Parkinson, contra 14% no diabetes mellitus e 4% nos controles",
+   "15,5% na doença de Parkinson, contra 10% no diabetes mellitus e 5% nos controles",
+   "15,5% na doença de Parkinson, contra 4% no diabetes mellitus e 1% nos controles",
+   "55% na doença de Parkinson, contra 4% no diabetes mellitus e 1% nos controles"
+  ],
+  "gab": 3,
+  "tema": "sono",
+  "sub": "SED na doença de Parkinson",
+  "base": "Diretriz ABRAMET Doença de Parkinson e Direção Veicular, seção 'Distúrbios do sono'",
+  "coment": "A diretriz ABRAMET sobre doença de Parkinson registra que a descrição de 'ataques de sono' com sinistros, publicada em 1999, estimulou o estudo do tema. A sonolência excessiva diurna (SED) foi observada em 15,5% das pessoas com doença de Parkinson, contra 4% das pessoas com diabetes mellitus e 1% dos controles. A terapia dopaminérgica participa da gênese: a levodopa em monoterapia causou sonolência em 14% dos pacientes, e o pramipexol foi apontado como o fármaco mais associado à SED. A diretriz conclui que identificar a SED é responsabilidade do médico do tráfego.",
+  "porAlt": [
+   "Os números estão trocados: 15,5% é a frequência na doença de Parkinson, e 4% no diabetes.",
+   "Os números não conferem; 14% é a sonolência por levodopa em monoterapia, não do diabetes.",
+   "A primeira cifra está certa, mas o diabetes teve 4% e os controles 1%.",
+   "Correta: são exatamente os números citados na seção de distúrbios do sono da diretriz.",
+   "A doença de Parkinson teve 15,5% de SED, não 55%."
+  ]
+ },
+ {
+  "q": "Homem de 64 anos com doença de Parkinson, em uso de pramipexol, relata ter adormecido de repente ao volante, sem sonolência prévia perceptível. Segundo a Diretriz ABRAMET sobre doença de Parkinson, qual é a interpretação e o instrumento recomendado ao perito?",
+  "alts": [
+   "Crise epiléptica focal induzida pelo fármaco; o eletroencefalograma é exigido na avaliação pericial",
+   "Ataque de sono exclusivo da levodopa; a polissonografia é exigida pela diretriz na avaliação pericial",
+   "Hipotensão postural isolada do fármaco; o teste de inclinação é exigido pela diretriz nessa avaliação",
+   "Evento sem relação com a medicação; o estadiamento de Hoehn e Yahr é o instrumento indicado no caso",
+   "Ataque de sono ligado ao dopaminérgico; a Escala de Epworth é altamente recomendada na avaliação"
+  ],
+  "gab": 4,
+  "tema": "sono",
+  "sub": "Ataques de sono e dopaminérgicos",
+  "base": "Diretriz ABRAMET Doença de Parkinson e Direção Veicular, seções 'Efeito do tratamento' e 'Distúrbios do sono'",
+  "coment": "A diretriz ABRAMET sobre doença de Parkinson afirma que 'ataques de sono', resultando em sinistros, foram relatados com todos os medicamentos dopaminérgicos usados no tratamento, e que o pramipexol foi apontado como o mais associado à sonolência excessiva diurna. A Escala de Sonolência de Epworth é descrita como ferramenta útil para avaliar a presença e a gravidade da SED e o risco de adormecer ao volante, e sua aplicação na avaliação de condutores com DP é 'altamente recomendada'. O relato de adormecimento súbito, sem pródromo, é justamente o que a literatura chama de ataque de sono.",
+  "porAlt": [
+   "A diretriz descreve o fenômeno como 'ataque de sono', não como crise epiléptica induzida.",
+   "Os ataques foram relatados com todos os dopaminérgicos, e a ferramenta recomendada é a Epworth.",
+   "A diretriz não exige teste de inclinação; o relato típico é de ataque de sono dopaminérgico.",
+   "Hoehn e Yahr estadia a doença motora; não mede sonolência, e o evento tem relação com o fármaco.",
+   "Correta: ataques de sono foram relatados com todos os dopaminérgicos, o pramipexol é o mais associado à SED e a Epworth é altamente recomendada."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre gravidez e puerpério, qual é a frequência estimada da apneia obstrutiva do sono nas gestações iniciais e nas mais avançadas?",
+  "alts": [
+   "8,6% nas gestações iniciais e 3,6% nas mais avançadas",
+   "1,5% nas gestações iniciais e 4,0% nas mais avançadas",
+   "3,6% nas gestações iniciais e 36% nas mais avançadas",
+   "3,6% nas gestações iniciais e 8,6% nas mais avançadas",
+   "10% nas gestações iniciais e 25% nas mais avançadas"
+  ],
+  "gab": 3,
+  "tema": "sono",
+  "sub": "SAOS na gestação",
+  "base": "Diretriz ABRAMET Gravidez, Puerpério e Direção Veicular, seção sobre distúrbios do sono",
+  "coment": "A diretriz ABRAMET sobre gravidez descreve a apneia obstrutiva do sono como repetidos episódios de obstrução das vias aéreas superiores à noite, com hipoxemia, descarga simpática e múltiplos despertares, e estima que ocorra em 3,6% das gestações iniciais e em 8,6% das mais avançadas. Idade avançada e obesidade são fatores de risco independentes, mas as mudanças fisiológicas da gestação também contribuem. O texto lembra ainda que a gravidez é fator independente para distúrbios do sono, com risco maior no terceiro trimestre (risco de insônia 2,03 vezes o dos meses iniciais), e que a gestante integra o grupo de maior risco de sonolência ao volante.",
+  "porAlt": [
+   "Os valores estão invertidos: a frequência aumenta com o avanço da gestação.",
+   "Os números não conferem com os citados na diretriz (3,6% e 8,6%).",
+   "A primeira cifra está certa, mas a das gestações avançadas é de 8,6%.",
+   "Correta: a diretriz estima 3,6% nas gestações iniciais e 8,6% nas mais avançadas.",
+   "Os números superestimam a frequência citada pela diretriz para a gestação."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre gravidez e puerpério, quais alterações fisiológicas da gestação ajudam a explicar o aumento da apneia obstrutiva do sono nessas mulheres?",
+  "alts": [
+   "Alargamento da orofaringe, secura nasal e maior capacidade residual por rebaixamento diafragmático",
+   "Estreitamento da orofaringe, congestão nasal e menor capacidade residual pela elevação do diafragma",
+   "Redução do drive respiratório, com hipoventilação e acidose, e o aumento da capacidade residual",
+   "Hipotonia do diafragma, hipertrofia das tonsilas e o aumento da complacência da parede do tórax",
+   "Anemia fisiológica, taquicardia sinusal e retenção hídrica restrita aos dois membros inferiores"
+  ],
+  "gab": 1,
+  "tema": "sono",
+  "sub": "Fisiopatologia da SAOS na gestação",
+  "base": "Diretriz ABRAMET Gravidez, Puerpério e Direção Veicular, seção sobre distúrbios do sono",
+  "coment": "A diretriz ABRAMET sobre gravidez lista as alterações do corpo materno que podem explicar o aumento da prevalência de apneia obstrutiva do sono: estreitamento do diâmetro da orofaringe, congestão nasal, alterações na permeabilidade das vias aéreas, diminuição da capacidade residual pulmonar por elevação do diafragma e aumento do drive respiratório, com hiperventilação e consequente alcalose. Idade avançada e obesidade permanecem fatores de risco independentes. Para o médico do tráfego, isso reforça que a gestante, sobretudo em fases avançadas, pertence ao grupo de maior risco de sonolência na direção veicular.",
+  "porAlt": [
+   "Cada item está invertido: a diretriz cita estreitamento, congestão e redução da capacidade residual.",
+   "Correta: são alterações citadas pela diretriz, ao lado do aumento do drive respiratório.",
+   "A diretriz cita AUMENTO do drive respiratório, com hiperventilação e alcalose.",
+   "Esses itens não constam da lista de alterações fisiológicas apontadas pela diretriz.",
+   "São alterações da gestação, mas não as apontadas como explicação para a apneia do sono."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre gravidez e puerpério, quais fatores de risco para distúrbios do sono devem ser rastreados na consulta de pré-natal?",
+  "alts": [
+   "Perímetro cervical, Mallampati e pressão arterial, pelos cortes do Anexo X da Resolução 927",
+   "Idade, índice de massa corpórea e ronco frequente, com indagação dos sintomas de sono",
+   "Idade gestacional, paridade e peso fetal, com polissonografia de rotina às gestantes",
+   "Hemoglobina, glicemia de jejum e TSH, com questionário complementar de hábitos alimentares",
+   "Tabagismo, consumo de cafeína e jornada de trabalho, com aplicação obrigatória da Epworth"
+  ],
+  "gab": 1,
+  "tema": "sono",
+  "sub": "Rastreio de distúrbios do sono no pré-natal",
+  "base": "Diretriz ABRAMET Gravidez, Puerpério e Direção Veicular, seção sobre distúrbios do sono",
+  "coment": "A diretriz reconhece a dificuldade de diagnosticar distúrbios do sono na gestante, pela falta de métodos objetivos e porque o aumento da sonolência no início da gestação é, por muitos, considerado normal. Por isso considera imperativo o rastreio dos fatores de risco — idade, índice de massa corpórea e ronco frequente — e a indagação dos sintomas relacionados ao sono no pré-natal. O aconselhamento inclui higiene do sono (evitar a posição supina, travesseiro entre as pernas, menos líquido à noite, evitar cafeína), podendo ser necessários fármacos e/ou CPAP para melhorar o sono e prevenir sinistros.",
+  "porAlt": [
+   "Esses são os parâmetros do rastreamento de condutores C, D e E, não os citados para o pré-natal.",
+   "Correta: a diretriz considera imperativo rastrear idade, IMC e ronco frequente e indagar os sintomas do sono.",
+   "A diretriz não cita esses fatores nem indica polissonografia de rotina a todas as gestantes.",
+   "Exames laboratoriais de rotina não são os fatores de risco apontados para distúrbios do sono.",
+   "Evitar cafeína aparece como higiene do sono, mas os fatores rastreados são idade, IMC e ronco."
+  ]
+ },
+ {
+  "q": "Segundo o art. 67-C do Código de Trânsito Brasileiro, qual é o tempo máximo de direção ininterrupta do motorista profissional de veículo de transporte rodoviário coletivo de passageiros ou de cargas?",
+  "alts": [
+   "Cinco horas e meia ininterruptas",
+   "Quatro horas e meia ininterruptas",
+   "Seis horas contínuas de direção",
+   "Quatro horas contínuas de direção",
+   "Oito horas contínuas de direção"
+  ],
+  "gab": 0,
+  "tema": "sono",
+  "sub": "Tempo de direção do motorista profissional",
+  "base": "Código de Trânsito Brasileiro, art. 67-C, caput (redação da Lei nº 13.103/2015)",
+  "coment": "O Capítulo III-A do CTB (condução por motoristas profissionais), com a redação da Lei nº 13.103/2015, aplica-se aos motoristas de transporte rodoviário coletivo de passageiros e de cargas (art. 67-A). O art. 67-C veda dirigir por mais de 5 horas e meia ininterruptas. O § 1º exige 30 minutos de descanso dentro de cada 6 horas no transporte de carga, e o § 1º-A exige 30 minutos a cada 4 horas no transporte de passageiros, facultado o fracionamento. É a tradução legal do controle da fadiga: a norma limita a exposição contínua ao volante, que é o substrato dos microssonos e da queda de desempenho na estrada.",
+  "porAlt": [
+   "Correta: o caput do art. 67-C veda dirigir 'por mais de 5 (cinco) horas e meia ininterruptas'.",
+   "Quatro horas e meia não é o teto do art. 67-C, que fixa cinco horas e meia ininterruptas.",
+   "Seis horas é a janela em que se observam 30 minutos de descanso no transporte de cargas.",
+   "Quatro horas é o intervalo do § 1º-A para passageiros; o teto contínuo é de 5h30.",
+   "Oito horas não é o teto de direção contínua do art. 67-C."
+  ]
+ },
+ {
+  "q": "Motorista profissional de ônibus rodoviário de passageiros pergunta ao médico do tráfego qual descanso a lei lhe impõe durante a condução. Segundo o art. 67-C do Código de Trânsito Brasileiro, qual é a regra aplicável?",
+  "alts": [
+   "Trinta minutos de descanso dentro de cada seis horas de condução, facultado o fracionamento",
+   "Trinta minutos de descanso a cada quatro horas de condução, facultado o fracionamento",
+   "Quinze minutos de descanso a cada duas horas de condução, vedado qualquer fracionamento",
+   "Uma hora de descanso a cada cinco horas e meia de condução, vedado qualquer fracionamento",
+   "Quarenta e cinco minutos de descanso a cada três horas, facultado o fracionamento"
+  ],
+  "gab": 1,
+  "tema": "sono",
+  "sub": "Descanso no transporte de passageiros",
+  "base": "Código de Trânsito Brasileiro, art. 67-C, §§ 1º e 1º-A (Lei nº 13.103/2015)",
+  "coment": "O art. 67-C do CTB diferencia os intervalos pelo tipo de transporte. No transporte de carga (§ 1º), são observados 30 minutos para descanso dentro de cada 6 horas de condução, facultado o fracionamento do descanso e do tempo de direção desde que não se ultrapassem 5 horas e meia contínuas. No transporte rodoviário de passageiros (§ 1º-A), são 30 minutos a cada 4 horas, também facultado o fracionamento. A pegadinha é trocar as janelas de 4 e 6 horas entre os dois tipos de transporte. Para o médico do tráfego, é a base legal da orientação sobre pausas contra a fadiga.",
+  "porAlt": [
+   "Essa é a regra do § 1º, para o transporte de CARGA, e não a do transporte de passageiros.",
+   "Correta: é a regra do § 1º-A do art. 67-C para o veículo rodoviário de passageiros.",
+   "O CTB não prevê essa regra; para passageiros são 30 minutos a cada 4 horas.",
+   "Cinco horas e meia é o teto de direção contínua, não o gatilho de uma hora de descanso.",
+   "Os números não correspondem ao § 1º-A, que fixa 30 minutos a cada 4 horas."
+  ]
+ },
+ {
+  "q": "Segundo o § 4º do art. 67-C do Código de Trânsito Brasileiro, o que se entende por tempo de direção ou de condução do motorista profissional?",
+  "alts": [
+   "Todo o período entre a partida e a chegada, incluídas as paradas para carga, descarga e refeição",
+   "O período ao volante somado ao tempo de espera para carga, descarga e fiscalização nas rodovias",
+   "Apenas o período em que o condutor está efetivamente ao volante, em curso entre a origem e o destino",
+   "Toda a jornada de trabalho registrada no diário de bordo, inclusive todos os intervalos de descanso",
+   "O período ao volante somado ao deslocamento sem carga até a garagem da própria empresa transportadora"
+  ],
+  "gab": 2,
+  "tema": "sono",
+  "sub": "Conceito de tempo de direção",
+  "base": "Código de Trânsito Brasileiro, art. 67-C, §§ 4º e 5º (Lei nº 13.103/2015)",
+  "coment": "O § 4º do art. 67-C define tempo de direção ou de condução como 'apenas o período em que o condutor estiver efetivamente ao volante, em curso entre a origem e o destino'. O § 5º completa: início de viagem é a partida do veículo na ida ou no retorno, com ou sem carga, e as partidas nos dias subsequentes até o destino são sua continuação. É esse tempo que se submete ao teto de 5 horas e meia contínuas e às pausas dos §§ 1º e 1º-A. O controle é do próprio motorista (art. 67-E), por registrador instantâneo inalterável de velocidade e tempo, diário de bordo, papeleta ou meio eletrônico.",
+  "porAlt": [
+   "As paradas não contam: o § 4º restringe o conceito ao tempo efetivamente ao volante.",
+   "O tempo de espera não integra o tempo de direção definido no § 4º do art. 67-C.",
+   "Correta: é a definição literal do § 4º do art. 67-C.",
+   "Jornada e tempo de direção são conceitos distintos; os descansos não são tempo de direção.",
+   "O retorno sem carga é continuação da viagem (§ 5º), mas só conta o tempo ao volante."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre medicamentos e condução veicular (2023), a Resolução da ONU sobre Segurança Viária de 12/04/2018 ampliou para doze os fatores de risco. Qual dos itens abaixo passou a integrar essa lista?",
+  "alts": [
+   "Fadiga, ao lado de condições médicas e de medicamentos que afetam a condução",
+   "Excesso de velocidade, ao lado do cinto de segurança e do uso de capacete",
+   "Idade avançada do condutor, ao lado da experiência e do tempo de habilitação",
+   "Consumo de bebida alcoólica, ao lado dos dispositivos de retenção infantil",
+   "Má conservação das vias, ao lado da sinalização deficiente e da iluminação"
+  ],
+  "gab": 0,
+  "tema": "sono",
+  "sub": "Fadiga como fator de risco da ONU",
+  "base": "Diretriz ABRAMET Medicamentos e Condução Veicular (MPPCVA, 2023), introdução",
+  "coment": "A diretriz ABRAMET sobre medicamentos potencialmente perigosos para a condução (MPPCVA) lembra que os fatores de risco eram inicialmente cinco — cinto de segurança, capacete, dispositivos de retenção infantil, consumo de bebida alcoólica e excesso de velocidade — todos tratados pela legislação brasileira. A OMS, na 2ª Conferência Global de Alto Nível (2015), chamou atenção para condições médicas e medicamentos, e a Resolução da ONU de 12/04/2018 ampliou a lista para doze, incluindo baixa visibilidade, condições médicas, medicamentos que afetam a condução, FADIGA, substâncias psicoativas, telefones celulares e dispositivos de mensagens de texto.",
+  "porAlt": [
+   "Correta: a fadiga é o item IX da lista ampliada, junto de condições médicas (VII) e medicamentos (VIII).",
+   "Velocidade, cinto e capacete já estavam entre os cinco fatores iniciais, não foram acrescentados.",
+   "Idade, experiência e tempo de habilitação não constam da lista de fatores citada na diretriz.",
+   "Álcool e retenção infantil faziam parte dos cinco fatores iniciais da lista.",
+   "Os itens acrescentados foram outros; das condições externas consta apenas a baixa visibilidade."
+  ]
+ },
+ {
+  "q": "Motorista de 57 anos, categoria D, fez tratamento e adaptou prótese auditiva. A audiometria em campo livre com a prótese mostra média de 44 dB em 500, 1000 e 2000 Hz na orelha melhor, com exame otoneurológico normal. Segundo o Anexo III da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Mantém a categoria D com prótese obrigatória, pois a média ficou abaixo de 45 dB",
+   "Não mantém a categoria D; poderá dirigir somente na ACC e nas categorias A e B",
+   "Mantém a categoria D, com espelhos retrovisores laterais e a prótese obrigatória",
+   "Fica inapto em qualquer categoria, já que a perda persiste igual ou acima de 40 dB",
+   "Poderá dirigir somente nas categorias B e C, com espelhos retrovisores nas laterais"
+  ],
+  "gab": 1,
+  "tema": "orl",
+  "sub": "Perda ≥ 40 dB após prótese",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.6 e 1.7",
+  "coment": "O Anexo III separa três situações. Perda inferior a 40 dB na média de 500, 1000 e 2000 Hz da orelha melhor: apto em qualquer categoria (item 1.4). Perda igual ou superior a 40 dB: inapto temporário e encaminhado a avaliação complementar (item 1.5). Se, após tratamento e/ou prótese, a média cair abaixo de 40 dB, apto em qualquer categoria com 'Obrigatório o uso de prótese auditiva' (item 1.6). Se permanecer igual ou superior a 40 dB, o candidato só pode dirigir na ACC e nas categorias A e B, com exame otoneurológico normal, e o veículo deve ter espelhos retrovisores nas laterais (item 1.7). O motorista de categoria D perde, portanto, as categorias profissionais.",
+  "porAlt": [
+   "O corte é 40 dB, não 45 dB; 44 dB após a prótese não permite as categorias C, D e E.",
+   "Correta: perda ≥ 40 dB após tratamento/prótese limita à ACC e às categorias A e B, com otoneurológico normal (item 1.7).",
+   "Os espelhos laterais acompanham a restrição à ACC e às categorias A e B, não a manutenção da D.",
+   "O item 1.7 não impõe inaptidão total: admite a ACC e as categorias A e B.",
+   "A categoria C não está incluída; o item 1.7 fala em ACC e categorias A e B."
+  ]
+ },
+ {
+  "q": "Candidato alcança média inferior a 40 dB na orelha melhor com prótese auditiva, e o perito registra a obrigatoriedade de seu uso. Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, qual letra codifica essa restrição na CNH?",
+  "alts": [
+   "Letra A",
+   "Letra U",
+   "Letra X",
+   "Letra T",
+   "Letra B"
+  ],
+  "gab": 4,
+  "tema": "orl",
+  "sub": "Código da restrição de prótese auditiva",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XV; Anexo III, item 1.6",
+  "coment": "Quando o candidato atinge média auditiva inferior a 40 dB graças à prótese, o item 1.6 do Anexo III manda constar a observação 'Obrigatório o uso de prótese auditiva', comprovada por audiometria em campo livre com a prótese. No Anexo XV, a tabela de restrições atribui a essa observação a letra B. As letras vizinhas caem como distratores: A (lentes corretivas), C (acelerador à esquerda), D (transmissão automática), T (vedado dirigir em rodovias e vias de trânsito rápido), U (vedado dirigir após o pôr do sol) e X (outras restrições). Decorar as letras A e B — os dois sentidos — é o mínimo esperado.",
+  "porAlt": [
+   "A letra A codifica 'Obrigatório o uso de lentes corretivas', restrição oftalmológica.",
+   "A letra U codifica 'Vedado dirigir após o pôr-do-sol'.",
+   "A letra X é reservada para 'Outras restrições', não a da prótese auditiva.",
+   "A letra T codifica 'Vedado dirigir em rodovias e vias de trânsito rápido'.",
+   "Correta: no Anexo XV, a letra B corresponde a 'Obrigatório o uso de prótese auditiva'."
+  ]
+ },
+ {
+  "q": "Na prova da voz coloquial, por que o Anexo IV da Resolução CONTRAN nº 927/2022 orienta que o examinador NÃO inspire profundamente antes de pronunciar cada palavra?",
+  "alts": [
+   "Porque há risco de que o início de cada emissão saia forte demais, alterando o volume da prova",
+   "Porque o candidato poderia perceber o ritmo respiratório e antecipar a palavra que virá a seguir",
+   "Porque o ruído da própria inspiração poderia ser captado pelo candidato como estímulo sonoro",
+   "Porque o examinador se cansaria e reduziria o volume das últimas palavras ditas durante a prova",
+   "Porque a movimentação do tórax permitiria ao candidato fazer uma espécie de leitura corporal"
+  ],
+  "gab": 0,
+  "tema": "orl",
+  "sub": "Técnica da voz coloquial",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo IV, itens 2 e 3",
+  "coment": "O Anexo IV detalha os procedimentos da prova da voz coloquial: local silencioso, sem interferência de ruído de tráfego e com pouca reverberação; examinador a dois metros; ambas as orelhas simultaneamente (item 1); palavras pronunciadas com calma e volume constante (item 2); o examinador não deve inspirar profundamente antes de cada palavra, pois 'correrá o risco de que cada início de emissão seja muito forte' (item 3); palavras dissílabas, como casa, dama, tronco (item 4); e o candidato não deve ver os lábios do examinador (item 5). Os itens 2 e 3 visam padronizar a intensidade, sem a qual o teste perde a validade.",
+  "porAlt": [
+   "Correta: o item 3 alerta para o risco de 'que cada início de emissão seja muito forte', e o item 2 exige volume constante.",
+   "O Anexo IV não menciona antecipação da palavra pelo ritmo respiratório do examinador.",
+   "O motivo citado é o início forte de cada emissão, não o ruído da inspiração.",
+   "A norma não fala em cansaço do examinador; o problema é o início forte da emissão.",
+   "A preocupação visual do Anexo IV é a leitura labial, tratada no item 5, e não o tórax."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo IV da Resolução CONTRAN nº 927/2022, que características o local da prova da voz coloquial deve reunir, além de ser silencioso?",
+  "alts": [
+   "Dispor de cabina audiométrica certificada conforme a norma ISO 8253-1",
+   "Ter isolamento acústico que mantenha o ruído de fundo abaixo de 40 dB",
+   "Não sofrer interferência de ruído de tráfego e ter pouca reverberação",
+   "Ter no mínimo quatro metros de extensão e paredes com revestimento",
+   "Ter iluminação reduzida para impedir a leitura labial pelo candidato"
+  ],
+  "gab": 2,
+  "tema": "orl",
+  "sub": "Local da voz coloquial",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo IV, itens 1 e 5",
+  "coment": "O item 1 do Anexo IV determina que a prova se realize 'em local silencioso, onde não haja interferência de ruído de tráfego e que tenha pouca reverberação', com o examinador a dois metros do candidato, em ambas as orelhas simultaneamente. A norma não exige cabina audiométrica — essa exigência, com a norma técnica ISO 8253-1, aparece no Anexo II da NR-07, para a audiometria ocupacional. O controle da leitura labial (item 5) é feito assegurando que o candidato não veja os lábios do examinador. Reprovado na voz coloquial, o candidato é encaminhado à audiometria tonal aérea (Anexo III, item 1.2).",
+  "porAlt": [
+   "A cabina ISO 8253-1 é exigência da audiometria ocupacional da NR-07, não da voz coloquial.",
+   "O Anexo IV não fixa nível numérico de ruído de fundo para a prova.",
+   "Correta: é a exigência literal do item 1 do Anexo IV.",
+   "A distância exigida é de dois metros, e não há exigência de revestimento.",
+   "A leitura labial é evitada garantindo que o candidato não veja os lábios, não por penumbra."
+  ]
+ },
+ {
+  "q": "Candidato inapto temporariamente por perda auditiva de 45 dB foi submetido a timpanoplastia, sem indicação de prótese. Segundo o Anexo III da Resolução CONTRAN nº 927/2022, como deve ser comprovado que a média passou a ser inferior a 40 dB?",
+  "alts": [
+   "Por audiometria em campo livre realizada após o tratamento",
+   "Por nova prova da voz coloquial, feita pelo próprio perito",
+   "Por relatório do cirurgião atestando o sucesso da cirurgia",
+   "Por audiometria tonal aérea realizada após o tratamento",
+   "Por exame otoneurológico realizado depois do tratamento"
+  ],
+  "gab": 3,
+  "tema": "orl",
+  "sub": "Comprovação após tratamento",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, item 1.6",
+  "coment": "O item 1.6 do Anexo III permite considerar apto em qualquer categoria o candidato que, após tratamento e/ou indicação de prótese, alcançar média inferior a 40 dB nas frequências de 500, 1000 e 2000 Hz da via aérea da orelha melhor. A comprovação muda conforme o caso: 'audiometria tonal aérea após tratamento' ou 'audiometria em campo livre com uso de prótese auditiva no caso de sua indicação' — e só neste segundo caso consta a observação de uso obrigatório de prótese. A audiometria pode ser feita por médico ou fonoaudiólogo (item 1.3). O exame otoneurológico serve à avaliação de tonturas e vertigens (item 2.1).",
+  "porAlt": [
+   "O campo livre é exigido quando há indicação de prótese auditiva, o que não é o caso.",
+   "A voz coloquial é triagem; a comprovação da média exige audiometria tonal aérea.",
+   "O item 1.6 exige a média comprovada por audiometria, não apenas relatório cirúrgico.",
+   "Correta: o item 1.6 exige 'audiometria tonal aérea após tratamento'; o campo livre é reservado ao caso de prótese.",
+   "O otoneurológico avalia tontura e vertigem; não mede a média audiométrica."
+  ]
+ },
+ {
+  "q": "Motorista de caminhão de 49 anos, categoria E, reprovado na voz coloquial, apresenta na audiometria da orelha melhor limiares de 20 dB em 500 Hz, 25 dB em 1000 Hz, 30 dB em 2000 Hz e 60 dB em 4000 Hz. Segundo o Anexo III da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Inapto temporário, pois o limiar isolado de 4000 Hz ultrapassa o corte de 40 dB",
+   "Apto só na ACC e nas categorias A e B, pela perda acima de 40 dB em 4000 Hz",
+   "Apto com uso obrigatório de prótese, pela perda de 60 dB na frequência de 4000 Hz",
+   "Inapto temporário, pois 30 dB em 2000 Hz já é perda incompatível com a categoria E",
+   "Apto em qualquer categoria, já que a média de 500, 1000 e 2000 Hz é de 25 dB"
+  ],
+  "gab": 4,
+  "tema": "orl",
+  "sub": "Média tritonal e entalhe em 4 kHz",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.4 e 1.5",
+  "coment": "O critério do Anexo III é a média aritmética dos limiares de 500, 1000 e 2000 Hz na via aérea da orelha melhor (Davis & Silverman, 1970): abaixo de 40 dB, apto em qualquer categoria (item 1.4); igual ou acima de 40 dB, inapto temporário com avaliação complementar (item 1.5). Aqui a média é (20 + 25 + 30) / 3 = 25 dB. A perda de 60 dB em 4000 Hz — padrão típico de perda induzida por ruído, cuja investigação ocupacional segue o Anexo II da NR-07 — não entra no cálculo pericial da CNH. A pegadinha é usar a frequência isolada ou incluir 4000 Hz na média.",
+  "porAlt": [
+   "O corte se aplica à média de 500, 1000 e 2000 Hz, não a uma frequência isolada.",
+   "A restrição do item 1.7 exige média ≥ 40 dB após tratamento, o que não ocorre aqui.",
+   "A prótese obrigatória decorre do item 1.6, não de perda isolada em 4000 Hz.",
+   "Não há corte por frequência isolada; a média de 25 dB é compatível com qualquer categoria.",
+   "Correta: (20 + 25 + 30) / 3 = 25 dB, abaixo de 40 dB; 4000 Hz não entra na média do Anexo III."
+  ]
+ },
+ {
+  "q": "Candidato à renovação da categoria C tem, na audiometria tonal aérea, orelha direita com 35, 40 e 45 dB e orelha esquerda com 30, 35 e 40 dB, respectivamente em 500, 1000 e 2000 Hz. Segundo o Anexo III da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Apto em qualquer categoria, pois a média da orelha melhor é de 35 dB",
+   "Inapto temporário, pois a média da orelha direita atinge exatos 40 dB",
+   "Apto só na ACC e nas categorias A e B, pela média de 40 dB à direita",
+   "Inapto temporário, pois o limiar de 45 dB em 2000 Hz supera 40 dB",
+   "Apto com prótese obrigatória, pois uma das orelhas tem média de 40 dB"
+  ],
+  "gab": 0,
+  "tema": "orl",
+  "sub": "Cálculo na orelha melhor",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.4 e 1.5",
+  "coment": "O Anexo III manda calcular a média aritmética de 500, 1000 e 2000 Hz na via aérea da ORELHA MELHOR. Orelha direita: (35 + 40 + 45) / 3 = 40 dB. Orelha esquerda: (30 + 35 + 40) / 3 = 35 dB. A orelha melhor é a esquerda, com 35 dB, abaixo do corte de 40 dB, e o candidato é apto em qualquer categoria (item 1.4). A pior orelha não define o resultado, nem um limiar isolado acima de 40 dB. A questão combina as duas armadilhas mais comuns do tema: escolher a orelha errada e confundir limiar com média.",
+  "porAlt": [
+   "Correta: a orelha esquerda é a melhor, com média (30 + 35 + 40) / 3 = 35 dB, abaixo de 40 dB.",
+   "A regra usa a orelha MELHOR; a direita, com média de 40 dB, é a pior orelha.",
+   "A restrição do item 1.7 depende da orelha melhor após tratamento, que aqui tem 35 dB.",
+   "O critério é a média das três frequências, não o limiar isolado de 2000 Hz.",
+   "A prótese obrigatória só se aplica quando é ela que corrige a média da orelha melhor."
+  ]
+ },
+ {
+  "q": "Jovem de 19 anos, candidato à primeira habilitação na categoria B, apresenta média audiométrica de exatamente 40 dB em 500, 1000 e 2000 Hz na orelha melhor, sem tratamento prévio. Segundo o Anexo III da Resolução CONTRAN nº 927/2022, qual é o resultado?",
+  "alts": [
+   "Apto em qualquer categoria, pois só perdas superiores a 40 dB causam inaptidão",
+   "Apto na categoria B, com espelhos laterais e exame otoneurológico normal exigidos",
+   "Apto com uso obrigatório de prótese auditiva, a ser adaptada depois da habilitação",
+   "Inapto definitivo, pois 40 dB impede a primeira habilitação em qualquer categoria",
+   "Inapto temporário, com encaminhamento para avaliação complementar específica"
+  ],
+  "gab": 4,
+  "tema": "orl",
+  "sub": "Valor-limite de 40 dB",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.4, 1.5 e 1.7",
+  "coment": "O corte do Anexo III é assimétrico no texto: é apto quem tem perda 'inferior a 40 dB' (item 1.4) e é inapto temporário quem tem perda 'igual ou superior a 40 dB' na orelha melhor (item 1.5), devendo ser encaminhado a avaliação complementar específica. Portanto, 40 dB exatos já levam à inaptidão temporária. Só depois do tratamento e/ou da indicação de prótese se aplicam os itens 1.6 (média < 40 dB: apto em qualquer categoria, com prótese obrigatória se for o caso) e 1.7 (média ≥ 40 dB: apenas ACC e categorias A e B, com otoneurológico normal e espelhos retrovisores laterais).",
+  "porAlt": [
+   "O item 1.5 diz 'igual ou superior a 40 dB'; o valor exato de 40 dB está incluído.",
+   "Essa é a regra do item 1.7, para quem já fez tratamento ou usa prótese sem atingir o corte.",
+   "A prótese só gera aptidão se comprovada a média abaixo de 40 dB em campo livre, antes.",
+   "A norma prevê inaptidão temporária com avaliação complementar, não inaptidão definitiva.",
+   "Correta: o item 1.5 alcança perda 'igual ou superior a 40 dB'; 40 dB exatos já é inaptidão temporária."
+  ]
+ },
+ {
+  "q": "A Diretriz ABRAMET sobre o condutor idoso distingue, na contribuição da audição para a condução segura, os sons de alerta e os estímulos de feedback. Qual dos exemplos abaixo é um estímulo de feedback?",
+  "alts": [
+   "A sirene de um veículo de emergência se aproximando",
+   "O ruído do metal atritando com os pneus do veículo",
+   "O apito de um agente de trânsito na fiscalização",
+   "A buzina de outro veículo que trafega pela mesma via",
+   "O alarme sonoro de uma travessia de trens na via"
+  ],
+  "gab": 1,
+  "tema": "orl",
+  "sub": "Sons de alerta e de feedback",
+  "base": "Diretriz ABRAMET Condutor Idoso, item 5.3.2 (Audição)",
+  "coment": "No item 5.3.2, a diretriz ABRAMET sobre o condutor idoso afirma que o papel da audição na condução segura se concentra na fase pré-colisão e o divide em dois grupos. Sons de alerta: buzinas, sirenes de veículos de emergência, apitos e alarmes de travessia de trens. Estímulos de feedback: a resposta do motor quando se acelera, os freios a ar e o metal atritando com os pneus, entre outros — sinais do próprio veículo, pelos quais se identificam problemas de funcionamento. A mesma seção destaca a presbiacusia como a doença da orelha interna mais importante para o perito, pela frequência no exame.",
+  "porAlt": [
+   "A sirene é citada entre os sons de alerta, e não entre os estímulos de feedback.",
+   "Correta: a diretriz cita 'metal atritando com os pneus' entre os estímulos de feedback, com a resposta do motor e os freios a ar.",
+   "O apito está entre os sons de alerta listados pela diretriz.",
+   "A buzina é exemplo de som de alerta, e não de estímulo de feedback do próprio veículo.",
+   "O alarme de travessia de trens é citado como som de alerta."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre o condutor idoso, por que a audição para a comunicação é especialmente relevante para motoristas das categorias C, D e E que exercem atividade remunerada?",
+  "alts": [
+   "Precisam ouvir as ordens da central de rádio, comunicação que a lei torna obrigatória",
+   "Precisam ouvir o alarme de marcha à ré, o único dispositivo sonoro de veículos pesados",
+   "Precisam perceber a buzina dos veículos menores, que os espelhos laterais não mostram",
+   "Precisam dialogar com os passageiros sem virar a cabeça para trás e tirar os olhos da via",
+   "Precisam atender ao telefone em viva-voz, conduta liberada aos profissionais em serviço"
+  ],
+  "gab": 3,
+  "tema": "orl",
+  "sub": "Comunicação nas categorias profissionais",
+  "base": "Diretriz ABRAMET Condutor Idoso, item 5.3.2 (Audição — Comunicação)",
+  "coment": "Na subseção 'Comunicação' do item 5.3.2, a diretriz ABRAMET sobre o condutor idoso afirma que a comunicação pode ser vital para a operação segura de veículos das categorias C, D e E, e que motoristas que exercem atividade remunerada devem ser capazes de ouvir o suficiente para dialogar com seus passageiros sem precisar 'virar a cabeça para trás' e deixar de olhar a via por segundos. A diretriz também observa que há poucos trabalhos sobre sinistros com condutores das categorias C, D e E com perda auditiva moderada ou severa, justamente porque eles são impedidos de operar esses veículos.",
+  "porAlt": [
+   "A diretriz não menciona central de rádio nem obrigatoriedade legal desse tipo de comunicação.",
+   "A justificativa citada é o diálogo com passageiros, não o alarme de ré.",
+   "A diretriz não usa esse argumento para a comunicação nas categorias profissionais.",
+   "Correta: a diretriz fala em ouvir o suficiente para dialogar sem 'virar a cabeça para trás' e deixar de olhar a via.",
+   "O argumento é o diálogo com passageiros; a diretriz não trata de uso de telefone aqui."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre o condutor idoso, qual é a proporção aproximada de pessoas com alguma dificuldade de audição entre 45 e 54 anos e de portadores de deficiência auditiva entre 75 e 79 anos?",
+  "alts": [
+   "Cerca de 5% entre 45 e 54 anos e 25% entre 75 e 79 anos",
+   "Cerca de 40% entre 45 e 54 anos e 90% entre 75 e 79 anos",
+   "Cerca de 20% entre 45 e 54 anos e 75% entre 75 e 79 anos",
+   "Cerca de 20% entre 45 e 54 anos e 40% entre 75 e 79 anos",
+   "Cerca de 10% entre 45 e 54 anos e 75% entre 75 e 79 anos"
+  ],
+  "gab": 2,
+  "tema": "orl",
+  "sub": "Prevalência de perda auditiva",
+  "base": "Diretriz ABRAMET Condutor Idoso, item 5.3.2 (Audição)",
+  "coment": "A diretriz ABRAMET sobre o condutor idoso informa que aproximadamente 20% das pessoas entre 45 e 54 anos apresentam alguma dificuldade de audição, enquanto 75% das pessoas entre 75 e 79 anos são portadoras de deficiência auditiva. Esses números explicam por que a presbiacusia — perda fisiológica da idade, em geral não muito intensa, mas agravada por doenças vasculares, metabólicas e autoimunes — é a doença da orelha interna mais importante para o médico perito. Na prática pericial, a triagem continua sendo a prova da voz coloquial, com audiometria tonal aérea para quem é reprovado, conforme os Anexos III e IV.",
+  "porAlt": [
+   "Os números subestimam os citados: 20% e 75%, respectivamente.",
+   "Os números superestimam os citados na diretriz (20% e 75%).",
+   "Correta: são os números citados ao final do item 5.3.2 da diretriz.",
+   "A primeira cifra está certa, mas na faixa de 75 a 79 anos são 75%.",
+   "A segunda cifra está certa, mas na faixa de 45 a 54 anos são 20%."
+  ]
+ },
+ {
+  "q": "Condutor de 74 anos com doença de Ménière apresenta crises de vertigem súbitas, imprevisíveis e incapacitantes, ainda sem controle. Segundo a Diretriz ABRAMET sobre o condutor idoso, qual é a orientação?",
+  "alts": [
+   "Dirigir durante o dia, com a restrição de vedado dirigir após o pôr do sol na CNH",
+   "Dirigir em vias urbanas, sob a restrição de vedado dirigir em rodovias, anotada na CNH",
+   "Dirigir normalmente, pois a vertigem de origem periférica não afeta a condução veicular",
+   "Não dirigir até que a condição seja tratada e controlada, desaconselhando a direção",
+   "Dirigir acompanhado por outro condutor, com redução do prazo de validade do exame"
+  ],
+  "gab": 3,
+  "tema": "orl",
+  "sub": "Vertigem incapacitante no idoso",
+  "base": "Diretriz ABRAMET Condutor Idoso, item 7.8 (tonturas, vertigens, doença de Ménière); Resolução CONTRAN nº 927/2022, Anexo III, item 2.1",
+  "coment": "No item 7.8, a diretriz ABRAMET sobre o condutor idoso trata de tonturas, vertigens, doença de Ménière e distúrbios do labirinto e do tronco cerebral: quando as vertigens são incapacitantes, o condutor idoso não deve dirigir até que a condição tenha sido tratada e controlada, e deve-se sempre desaconselhar a direção quando a vertigem for súbita, imprevisível e incapacitante. Na Resolução 927, a resposta positiva à pergunta 3 do Anexo I (tonturas e vertigens) obriga o examinador a solicitar exame otoneurológico (Anexo III, item 2.1). Restrições de horário ou de via não neutralizam um sintoma imprevisível.",
+  "porAlt": [
+   "A restrição U não resolve crises súbitas e imprevisíveis, que podem ocorrer a qualquer hora.",
+   "A restrição T não é a conduta da diretriz; a vertigem incapacitante impede a direção.",
+   "A diretriz manda não dirigir enquanto a vertigem incapacitante não estiver controlada.",
+   "Correta: vertigem incapacitante impede dirigir até tratamento e controle; se súbita, imprevisível e incapacitante, deve-se sempre desaconselhar.",
+   "Acompanhante e prazo reduzido não suprem a exigência de tratar e controlar a vertigem."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre o condutor idoso, ao aplicar a resolução do CONTRAN sobre o exame de aptidão, qual é a situação do candidato com deficiência auditiva total (surdez)?",
+  "alts": [
+   "É inapto definitivo, pois a surdez total impede a percepção dos sons de alerta da via",
+   "Pode ser aprovado em qualquer categoria, sem exigência adicional, pela compensação visual",
+   "Pode ser aprovado só na ACC, com a restrição de vedado dirigir após o pôr do sol na CNH",
+   "É inapto temporário até adaptar implante coclear, única correção aceita pela resolução",
+   "Pode ser aprovado, com restrição de categoria, exame complementar e exigências no veículo"
+  ],
+  "gab": 4,
+  "tema": "orl",
+  "sub": "Surdez total e habilitação",
+  "base": "Diretriz ABRAMET Condutor Idoso, item 7.6; Resolução CONTRAN nº 927/2022, Anexo III, item 1.7",
+  "coment": "No item 7.6, a diretriz ABRAMET sobre o condutor idoso orienta avaliar a acuidade auditiva pela prova da voz coloquial e aplicar a resolução do CONTRAN, que permite aprovar perdas unilaterais e até bilaterais dentro de certos valores, aprovar com prótese obrigatória anotada na CNH e aprovar inclusive o candidato com deficiência auditiva total (surdez), desde que com restrições de categoria, exame complementar e exigências no veículo. Na Resolução 927, isso corresponde ao item 1.7 do Anexo III: perda ≥ 40 dB não corrigível limita à ACC e às categorias A e B, com exame otoneurológico normal e espelhos retrovisores nas laterais.",
+  "porAlt": [
+   "A diretriz afirma que a resolução permite aprovar o candidato com surdez, com restrições.",
+   "Há restrição de categoria e exigências: ACC e A/B, otoneurológico normal e espelhos laterais.",
+   "O item 1.7 admite a ACC e as categorias A e B, e não prevê a restrição do pôr do sol.",
+   "A resolução não exige implante coclear; admite aprovação com restrições mesmo sem correção.",
+   "Correta: a diretriz registra que a resolução admite o surdo, com restrição de categoria, exame complementar e exigências veiculares."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus urbano, exposto a ruído acima do nível de ação informado no PGR da empresa, fará audiometria no PCMSO. Segundo o Anexo II da NR-07, qual é o repouso auditivo mínimo antes do exame?",
+  "alts": [
+   "Repouso auditivo mínimo de 14 horas até o exame",
+   "Repouso auditivo mínimo de 12 horas até o exame",
+   "Repouso auditivo mínimo de 24 horas até o exame",
+   "Repouso auditivo mínimo de 16 horas até o exame",
+   "Repouso auditivo mínimo de 8 horas até o exame"
+  ],
+  "gab": 0,
+  "tema": "orl",
+  "sub": "Audiometria ocupacional do motorista",
+  "base": "NR-07 (PCMSO), Anexo II, itens 2, 3.4 e 3.6",
+  "coment": "O Anexo II da NR-07 regula o controle médico ocupacional da exposição a níveis de pressão sonora elevados. Devem fazer audiometria de referência e sequencial todos os empregados que atuam acima dos níveis de ação informados no PGR, independentemente do uso de protetor (item 2). O empregado deve cumprir repouso auditivo mínimo de 14 horas (item 3.4), e o exame é feito por via aérea em 500, 1000, 2000, 3000, 4000, 6000 e 8000 Hz (item 3.6), na admissão, anualmente e na demissão (item 4.1). Isso não se confunde com a audiometria pericial da CNH, que usa a média de 500, 1000 e 2000 Hz (Anexo III da Resolução 927).",
+  "porAlt": [
+   "Correta: o item 3.4 do Anexo II da NR-07 exige repouso auditivo mínimo de 14 horas.",
+   "O item 3.4 fixa 14 horas, e não 12 horas, de repouso auditivo.",
+   "Vinte e quatro horas excede o mínimo de 14 horas fixado na norma.",
+   "O número correto do item 3.4 é 14 horas, não 16 horas.",
+   "Oito horas é insuficiente; a NR-07 exige no mínimo 14 horas."
+  ]
+ }
+]

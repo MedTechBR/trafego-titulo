@@ -1,0 +1,398 @@
+[
+ {
+  "q": "Taxista de 52 anos apresentou taquicardia ventricular sustentada bem tolerada, sem perda de consciência, com fração de ejeção de 45% e sem indicação de cardiodesfibrilador. Segundo a Diretriz ABRAMET/SBC/SOBRAC, quando pode voltar à direção profissional?",
+  "alts": [
+   "Quatro semanas após o evento, com controle satisfatório da arritmia",
+   "Seis meses após o evento, com controle satisfatório da arritmia",
+   "Nunca mais, já que toda TV sustentada desqualifica o profissional",
+   "Doze meses após o evento, com controle satisfatório da arritmia",
+   "Três meses após o evento, com controle satisfatório da arritmia"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "TV sustentada com FEVE > 30%",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC — Recomendações para direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.2.5.2 e Fig. 6",
+  "coment": "A diretriz separa as taquiarritmias ventriculares pela repercussão e pela função ventricular (Fig. 6). FV por causa não reversível e TV hemodinamicamente instável: 6 meses de restrição na direção privada e desqualificação para a profissional. TV sustentada sem perda de consciência com FEVE < 30%: 3 meses para a privada e desqualificação profissional. TV sustentada sem perda de consciência com FEVE > 30% e sem indicação de CDI: 4 semanas para a privada e 3 meses para a profissional, com controle satisfatório. TV não sustentada sem perda de consciência e sem cardiopatia: sem restrições. O taxista exerce atividade remunerada, logo segue a coluna profissional. O 'não dirigir profissionalmente' do Quadro 2 vale, pelo próprio texto, para a TV com repercussão hemodinâmica ou a FV recuperada — não para a TV bem tolerada do caso.",
+  "porAlt": [
+   "Quatro semanas é o prazo da direção PRIVADA nessa situação; ele é taxista.",
+   "Seis meses é a restrição privada da FV não reversível ou da TV instável.",
+   "Com FEVE > 30% e sem CDI, a direção profissional é possível após três meses.",
+   "Doze meses é o prazo profissional da síncope inexplicada, não desta TV.",
+   "Correta: TV sustentada sem perda de consciência, FEVE > 30% e sem CDI: 4 semanas (privada) e 3 meses (profissional)."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus de 41 anos submeteu-se a ablação por cateter de taquicardia por reentrada nodal, com sucesso e sem intercorrências. Segundo a Diretriz ABRAMET/SBC/SOBRAC, quando pode voltar a dirigir profissionalmente?",
+  "alts": [
+   "Quarenta e oito horas após a alta",
+   "Quatro semanas após a alta médica",
+   "Uma semana após a alta hospitalar",
+   "Três meses após a alta hospitalar",
+   "Seis meses após a alta hospitalar"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Ablação por cateter",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC — Recomendações para direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.3.5 e Fig. 7",
+  "coment": "A ablação por radiofrequência é procedimento minimamente invasivo, por punção, com hemostasia por compressão; a alta costuma ocorrer no dia seguinte ou no mesmo dia. Por isso a diretriz orienta, em geral, liberar a direção privada 48 horas após a alta e a direção comercial (profissional) após um período maior de observação, de uma semana (Fig. 7). As mesmas recomendações valem para o estudo eletrofisiológico sem indução de arritmia ventricular sustentada. A ablação é inclusive o tratamento recomendado para liberar a direção quando a taquicardia supraventricular causa síncope, pré-síncope ou tonturas; o motorista de ônibus segue a coluna profissional.",
+  "porAlt": [
+   "Quarenta e oito horas é o prazo da direção PRIVADA após a ablação.",
+   "Quatro semanas não é o prazo previsto para a ablação por cateter.",
+   "Correta: após ablação por cateter, a direção profissional é liberada uma semana após a alta (Fig. 7).",
+   "Três meses é prazo de outras situações, como TV com FEVE > 30% (profissional).",
+   "Seis meses é a observação após evento com perda de consciência em síndromes genéticas."
+  ]
+ },
+ {
+  "q": "Caminhoneiro de 47 anos teve episódio de síncope cuja causa não foi esclarecida pela investigação. Segundo a Diretriz ABRAMET/SBC/SOBRAC, qual é a recomendação para a sua direção profissional?",
+  "alts": [
+   "Aguardar uma semana antes de voltar à direção profissional",
+   "Aguardar um mês antes de voltar à direção profissional",
+   "Aguardar seis meses antes de voltar à direção profissional",
+   "Nenhuma restrição, se não houver cardiopatia estrutural",
+   "Aguardar 12 meses antes de voltar à direção profissional"
+  ],
+  "gab": 4,
+  "tema": "cardio",
+  "sub": "Síncope inexplicada",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC — Recomendações para direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.4 e Fig. 8",
+  "coment": "A Fig. 8 da diretriz resume a liberação após síncope. Episódio isolado de síncope vasovagal típica: nenhuma restrição. Síncope de causa identificada e tratada: a Fig. 8 indica uma semana (privada) e um mês (profissional), mas, quando o tratamento é marca-passo, o texto remete às regras do dispositivo (Fig. 1: 2 e 4 semanas). Síncope de causa reversível (hemorragia, desidratação): apto após tratar a doença de base. Síncope situacional com deflagrador definido: apto após uma semana de observação. Síncope de origem inexplicada ou vasovagal recorrente em 12 meses: aguardar uma semana (privada) e 12 meses (profissional). Vasovagal sem pródromos ou com o paciente sentado segue a regra da inexplicada.",
+  "porAlt": [
+   "Uma semana é o prazo da direção PRIVADA na síncope inexplicada.",
+   "Um mês aparece na Fig. 8 para a síncope de causa identificada e tratada, não para a inexplicada.",
+   "Seis meses não é o prazo da Fig. 8 para a síncope inexplicada.",
+   "Sem restrição fica só o episódio isolado de síncope vasovagal típica.",
+   "Correta: síncope de origem inexplicada exige 1 semana na direção privada e 12 meses na profissional."
+  ]
+ },
+ {
+  "q": "Motorista de caminhão de 35 anos tem bloqueio atrioventricular total congênito, assintomático e sem prejuízo da consciência. Segundo a Diretriz ABRAMET/SBC/SOBRAC, que exigências adicionais se aplicam à sua direção profissional?",
+  "alts": [
+   "Ritmo de escape com QRS estreito e ausência de pausas de 3 segundos ou mais no Holter anual",
+   "Implante prévio de marca-passo definitivo, com espera de quatro semanas após o implante",
+   "Ritmo de escape com QRS largo e ausência de pausas de 5 segundos ou mais no Holter semestral",
+   "Frequência de escape acima de 60 bpm no teste ergométrico e ecocardiograma anual normal",
+   "Nenhuma exigência adicional, já que o BAV congênito se equipara ao BAV de 1º grau isolado"
+  ],
+  "gab": 0,
+  "tema": "cardio",
+  "sub": "BAV total congênito",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC — Recomendações para direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.2.2 e Fig. 4",
+  "coment": "O BAV do 2º grau tipo II e o BAV total adquirido desqualificam para qualquer direção até tratamento eficaz, em geral marca-passo. O BAV congênito é exceção: o portador pode conduzir veículos particulares se não houver sintomas ou sinais de prejuízo da consciência. Para a direção profissional, além disso, o ritmo de escape deve ter QRS estreito e não pode haver pausas iguais ou superiores a 3 segundos no Holter anual (item 3.2.2 e Fig. 4). Atenção: o texto fala em QRS '< 110 ms' e a Fig. 4 em '≤ 110 ms' — por isso a questão cobra o conceito de escape estreito, e não o valor-limite.",
+  "porAlt": [
+   "Correta: além da ausência de sintomas, exige-se escape de QRS estreito e nenhuma pausa ≥ 3 s em Holter anual.",
+   "O BAV congênito assintomático pode dirigir sem marca-passo; a exigência é eletrocardiográfica.",
+   "O escape deve ter QRS ESTREITO, e o corte de pausa é 3 segundos, em Holter anual.",
+   "A diretriz não fixa frequência de escape nem ecocardiograma como exigência neste caso.",
+   "O BAV congênito não se equipara ao de 1º grau: na direção profissional exige escape estreito e Holter anual sem pausas ≥ 3 s."
+  ]
+ },
+ {
+  "q": "Condutor de 58 anos desenvolveu síndrome do QT longo adquirida pelo uso de um medicamento, sem síncope. Segundo a Diretriz ABRAMET/SBC/SOBRAC, em que condição poderá dirigir normalmente?",
+  "alts": [
+   "Após seis meses de observação clínica, ainda que o QTc permaneça prolongado no traçado",
+   "Após o implante de um CDI, com restrição permanente da direção profissional em seguida",
+   "Quando a causa for identificada e removida e o QTc se normalizar no eletrocardiograma",
+   "Somente na direção privada, já que a direção comercial nunca é permitida no QT longo",
+   "Após estudo eletrofisiológico sem indução de arritmia, aguardando mais uma semana"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "QT longo adquirido",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC — Recomendações para direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.3.3",
+  "coment": "A diretriz distingue as duas formas da síndrome do QT longo. A adquirida é comum em intoxicações exógenas ou como efeito colateral de alguns agentes, e o indivíduo poderá dirigir normalmente desde que a causa seja identificada e removida e ocorra normalização do intervalo QTc no ECG. A congênita é geneticamente determinada, mais complexa, e exige avaliação por especialista para liberar a direção particular nos casos de baixo risco; a direção comercial não é permitida, e qualquer evento com perda parcial ou total da consciência exige pelo menos seis meses de observação antes de voltar à direção privada.",
+  "porAlt": [
+   "Seis meses é a observação após evento com perda de consciência, e o QTc precisa normalizar.",
+   "O QT longo adquirido se resolve removendo a causa; não há indicação automática de CDI.",
+   "Correta: no QT longo adquirido, dirige normalmente após identificar e remover a causa e normalizar o QTc.",
+   "A proibição da direção comercial é da forma CONGÊNITA; a adquirida permite dirigir normalmente.",
+   "O critério é a remoção da causa com normalização do QTc, não o estudo eletrofisiológico."
+  ]
+ },
+ {
+  "q": "Motorista de aplicativo de 38 anos recebe diagnóstico de síndrome de Brugada, assintomático, e o especialista o classifica como de baixo risco. Segundo a Diretriz ABRAMET/SBC/SOBRAC, qual é a conduta quanto à direção?",
+  "alts": [
+   "Pode ser liberado também para a direção profissional, por ter sido classificado de baixo risco",
+   "Deve aguardar seis meses para as duas direções, contados da data do diagnóstico da síndrome",
+   "É inapto para qualquer direção até implantar CDI, que é o tratamento específico da síndrome",
+   "Pode ser liberado para a direção privada, mas a direção profissional não deve ser liberada",
+   "Pode ser liberado para as duas direções, com Holter anual e prazo de validade do exame reduzido"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Síndrome de Brugada",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC — Recomendações para direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.3.2 e Fig. 7",
+  "coment": "A síndrome de Brugada é genética, com alterações eletrocardiográficas típicas e risco de morte súbita; predomina em homens (8 para 1), relativamente jovens, e os eventos arrítmicos ocorrem especialmente durante o sono. Não há tratamento específico; sintomáticos ou de alto risco recebem desfibrilador. O especialista define o risco para liberar a direção privada, e a direção comercial ou profissional não deve ser liberada. Qualquer evento com perda parcial ou total da consciência exige pelo menos seis meses de observação antes de voltar à direção privada (Fig. 7). O motorista de aplicativo exerce atividade remunerada.",
+  "porAlt": [
+   "O baixo risco pesa só na direção privada; a direção comercial não deve ser liberada.",
+   "Os seis meses contam após evento com perda de consciência, não a partir do diagnóstico.",
+   "A diretriz diz que não há tratamento específico; o CDI é para sintomáticos ou de alto risco.",
+   "Correta: na síndrome de Brugada o especialista define a direção privada; a profissional é desqualificada.",
+   "A Fig. 7 desqualifica a direção profissional na síndrome de Brugada, com ou sem Holter."
+  ]
+ },
+ {
+  "q": "Candidata de 49 anos à renovação da categoria B apresenta pressão arterial de 148 x 106 mmHg, confirmada em nova aferição, com restante do exame normal. Segundo o Anexo V da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Apta, sem redução do prazo, pois a sistólica ficou abaixo de 160 mmHg",
+   "Inapta temporariamente, pois a diastólica ficou acima de 105 mmHg",
+   "Apta, com diminuição do prazo de validade do exame a critério médico",
+   "Inapta temporária, até que volte com o relatório médico do Anexo VI",
+   "Apta, com prazo reduzido só se pretendesse as categorias C, D ou E"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Hipertensão diastólica isolada",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, itens 1.2 a 1.4",
+  "coment": "O Anexo V usa três faixas, iguais para a ACC e as categorias A, B, C, D e E. Apto: sistólica < 160 E diastólica < 100 mmHg (item 1.2). Apto 'com diminuição do prazo de validade do exame a critério médico': sistólica ≥ 160 e < 180 E/OU diastólica ≥ 100 e < 110 mmHg (item 1.3). Inapto temporário: sistólica ≥ 180 E/OU diastólica ≥ 110 mmHg (item 1.4). Como a faixa intermediária usa 'e/ou', basta um dos componentes para enquadrar o candidato: aqui, a diastólica de 106 mmHg. O examinador pode ainda valer-se de relatórios do médico assistente com medidas de outras ocasiões (item 1.5, Anexo VI).",
+  "porAlt": [
+   "A regra é 'e/ou': a diastólica de 106 mmHg sozinha já leva à redução do prazo.",
+   "O corte de inaptidão temporária da diastólica é 110 mmHg, não 105 mmHg.",
+   "Correta: diastólica ≥ 100 e < 110 mmHg basta, pelo 'e/ou' do item 1.3, para o apto com prazo reduzido.",
+   "O Anexo VI é ferramenta do examinador, não condição de inaptidão nesta faixa.",
+   "O item 1.3 vale para a ACC e todas as categorias, inclusive a B."
+  ]
+ },
+ {
+  "q": "Candidato de 61 anos à renovação da categoria C apresenta pressão arterial de 184 x 96 mmHg, confirmada em nova aferição. Segundo o Anexo V da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Apto, com prazo reduzido, pois a diastólica ficou abaixo de 100 mmHg",
+   "Inapto temporariamente, pois a sistólica é igual ou superior a 180 mmHg",
+   "Apto, com prazo reduzido, pois só a diastólica define a inaptidão temporária",
+   "Inapto na categoria C, mas é possível aprová-lo de imediato na categoria B",
+   "Apto sem restrição, se trouxer no mesmo dia relatório do médico assistente"
+  ],
+  "gab": 1,
+  "tema": "cardio",
+  "sub": "Hipertensão sistólica ≥ 180 mmHg",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, item 1.4; Anexo VII (hipertensão arterial)",
+  "coment": "Pelo item 1.4 do Anexo V, é inapto temporariamente o candidato com pressão sistólica igual ou superior a 180 mmHg e/ou diastólica igual ou superior a 110 mmHg. A conjunção 'e/ou' faz com que um único componente baste: 184 x 96 mmHg é inaptidão temporária, embora a diastólica esteja normal. O Anexo VII repete os mesmos cortes nas duas colunas (ACC, A e B; C, D e E), de modo que não há faixa diferente para categorias profissionais. O perito entrega o relatório do Anexo VI, pedindo tratamento e nova verificação da pressão, e o candidato retorna quando atingir os níveis preconizados.",
+  "porAlt": [
+   "Pelo 'e/ou' do item 1.4, a sistólica de 184 mmHg basta para a inaptidão temporária.",
+   "Correta: o item 1.4 declara inapto temporário quem tem sistólica ≥ 180 e/ou diastólica ≥ 110 mmHg.",
+   "Os dois componentes contam: sistólica ≥ 180 ou diastólica ≥ 110 mmHg.",
+   "O Anexo V aplica os mesmos cortes a todas as categorias, sem rebaixamento.",
+   "O relatório do Anexo VI ajuda a avaliação, mas não converte 184 mmHg em aptidão plena."
+  ]
+ },
+ {
+  "q": "Diante de pressão arterial elevada no exame de aptidão, o perito entrega ao candidato o relatório médico do Anexo VI da Resolução CONTRAN nº 927/2022. O que esse formulário solicita quanto a novas aferições da pressão?",
+  "alts": [
+   "Que seja feita monitorização ambulatorial (MAPA) de 24 horas em até 30 dias",
+   "Que a pressão seja verificada todos os dias, de manhã e à noite, por 30 dias",
+   "Que seja feita monitorização residencial (MRPA) por sete dias consecutivos",
+   "Que a pressão seja aferida de novo em dois ou mais dias na semana seguinte",
+   "Que a pressão seja verificada uma única vez pelo cardiologista, na semana"
+  ],
+  "gab": 3,
+  "tema": "cardio",
+  "sub": "Relatório médico do Anexo VI",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VI; Anexo V, item 1.5",
+  "coment": "O Anexo VI é o 'Relatório Médico' entregue ao candidato com pressão elevada. Nele o perito registra a pressão aferida e solicita que o candidato consulte o médico de sua preferência para tratamento e que a pressão seja verificada novamente em dois ou mais dias na próxima semana; alcançados os níveis preconizados pelo seu médico, o candidato retorna trazendo o formulário, que tem campos para data, medida da PA, carimbo e telefone do médico assistente. É a via prevista no item 1.5 do Anexo V para o examinador valer-se de medidas de outras ocasiões, útil na suspeita de hipertensão do avental branco.",
+  "porAlt": [
+   "O Anexo VI não menciona MAPA; pede aferições em dois ou mais dias da próxima semana.",
+   "O formulário não fixa aferição diária por 30 dias; fala em dois ou mais dias.",
+   "O Anexo VI não menciona MRPA nem sete dias consecutivos de medida.",
+   "Correta: o Anexo VI pede que a pressão 'seja verificada novamente em dois ou mais dias na próxima semana'.",
+   "O pedido é de dois ou mais dias, pelo médico da preferência do candidato."
+  ]
+ },
+ {
+  "q": "Motorista de 66 anos com fibrilação atrial crônica, frequência ventricular bem controlada e clinicamente estável, usa anticoagulante oral. Segundo a Diretriz ABRAMET/SBC/SOBRAC, qual orientação específica ele deve receber?",
+  "alts": [
+   "Suspender o anticoagulante até o fim de cada viagem longa, para diminuir o risco de sangramento",
+   "Restringir-se à direção privada, pois a FA crônica desqualifica para a direção profissional",
+   "Ser informado de que, anticoagulado, fica mais vulnerável a hemorragias em lesões de trânsito",
+   "Dirigir só depois de ablação da FA, pois o controle da frequência não basta para a liberação",
+   "Aguardar seis meses sem nenhuma palpitação antes de retomar qualquer tipo de direção veicular"
+  ],
+  "gab": 2,
+  "tema": "cardio",
+  "sub": "Fibrilação atrial anticoagulada",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC — Recomendações para direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.2.4.2, Fig. 5 e Quadro 1",
+  "coment": "Para taquicardias supraventriculares crônicas, como fibrilação e flutter atriais, a diretriz não impõe restrição à direção, privada ou profissional, desde que a frequência esteja bem controlada e o paciente estável, com anticoagulação se indicada (Fig. 5). O Quadro 1 acrescenta orientações ao portador de FA: sintomáticos não devem dirigir; em investigação diagnóstica, devem ser desaconselhados; com controle adequado, a direção pode ser consentida sob orientação do cardiologista; alto risco tromboembólico, miocardiopatia, estenose mitral ou IC descompensada desencorajam a direção; e anticoagulados devem saber que são mais vulneráveis a hemorragias em lesões de trânsito.",
+  "porAlt": [
+   "A diretriz não orienta suspender a anticoagulação; orienta informar o maior risco de hemorragia.",
+   "FA crônica com frequência controlada e sem prejuízo da consciência não tem restrição, nem profissional.",
+   "Correta: é o item 5 do Quadro 1 (orientações ao portador de FA); com frequência controlada, não há restrição à direção.",
+   "A Fig. 5 libera a FA crônica com adequado controle da frequência, sem exigir ablação.",
+   "Não há prazo de espera para a FA crônica controlada; a Fig. 5 indica 'sem restrições'."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos, em hemodiálise há dois anos, renova a CNH categoria C. Exame físico geral normal, parecer favorável do nefrologista, ganho de peso interdialítico (GPID) de 3,8% e nenhuma intercorrência. Segundo a Diretriz ABRAMET sobre DRC dialítica, qual é o resultado?",
+  "alts": [
+   "Apto para qualquer categoria, com prazo de validade reduzido, nunca superior a cinco anos",
+   "Apto somente na categoria B, pois a hemodiálise impede as categorias profissionais C, D e E",
+   "Apto para qualquer categoria, com prazo normal de validade, pois não há intercorrências",
+   "Apto para qualquer categoria, com prazo de validade reduzido, nunca superior a um ano",
+   "Inapto temporário, porque o GPID de 3,8% ultrapassa o limite de 3% adotado pela diretriz"
+  ],
+  "gab": 0,
+  "tema": "sistemicas",
+  "sub": "Aptidão do paciente em hemodiálise",
+  "base": "Diretriz ABRAMET Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), Recomendação 4",
+  "coment": "A recomendação 4 da diretriz ABRAMET sobre DRC dialítica permite considerar apto, para qualquer categoria, o portador de DRC em procedimento dialítico com exame físico geral normal, parecer favorável do nefrologista, ganho de peso interdialítico igual ou inferior a 4,5% e sem intercorrências como hipotensão, hipoglicemia, cãibras, arritmias, dor torácica e AVC — sempre com diminuição do prazo de validade do exame, nunca superior a cinco anos. A justificativa do teto é a vulnerabilidade do acesso vascular, que exige cuidados com a fístula antes, durante e depois das sessões. Ele já passou dos três meses iniciais de tratamento.",
+  "porAlt": [
+   "Correta: é a recomendação 4 — exame normal, parecer favorável, GPID ≤ 4,5% e sem intercorrências.",
+   "A recomendação 4 admite qualquer categoria, desde que cumpridos os requisitos clínicos.",
+   "O apto vem sempre com diminuição do prazo, nunca superior a cinco anos, pela fístula.",
+   "O teto é de cinco anos, justificado pela vulnerabilidade do acesso vascular.",
+   "O limite adotado é GPID igual ou inferior a 4,5%, e 3,8% está dentro dele."
+  ]
+ },
+ {
+  "q": "Mulher de 47 anos, em hemodiálise há um ano, com parecer favorável do nefrologista e exame físico geral normal, apresenta ganho de peso interdialítico (GPID) de 6%. Segundo a Diretriz ABRAMET sobre DRC dialítica, qual é o resultado?",
+  "alts": [
+   "Inapta temporária, pois o GPID supera o limite de 4,5% adotado pela diretriz",
+   "Apta com prazo reduzido, já que o GPID ficou abaixo do limite de 7% da diretriz",
+   "Apta com prazo reduzido, pois o parecer favorável do nefrologista prevalece",
+   "Inapta definitiva, pois GPID acima de 5% indica falência do tratamento dialítico",
+   "Apta com prazo reduzido, pois o K/DOQI admite um GPID de até 6% entre as sessões"
+  ],
+  "gab": 0,
+  "tema": "sistemicas",
+  "sub": "Ganho de peso interdialítico",
+  "base": "Diretriz ABRAMET Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), Introdução e Recomendação 6",
+  "coment": "O ganho de peso interdialítico (GPID) mede o líquido acumulado entre as sessões e reflete a adesão ao tratamento; o risco é maior no paciente anúrico. A diretriz lembra que o GPID adequado não é consensual: o guideline europeu recomenda no máximo 4 a 4,5%, e o K/DOQI definiu 5%. Como critério pericial, a diretriz adota 4,5%: pela recomendação 6, é inapto temporário o dialítico com parecer desfavorável do nefrologista, OU com GPID > 4,5%, OU com intercorrências (hipotensão, hipoglicemia, cãibras, arritmias, dor torácica, AVC). As condições são alternativas, e o parecer favorável não compensa o GPID elevado.",
+  "porAlt": [
+   "Correta: a recomendação 6 declara inapto temporário o dialítico com GPID > 4,5%, mesmo com parecer favorável.",
+   "O limite adotado pela diretriz é 4,5%, e não 7%.",
+   "O GPID > 4,5% basta para a inaptidão temporária, qualquer que seja o parecer.",
+   "A consequência prevista é a inaptidão TEMPORÁRIA, não a definitiva.",
+   "O K/DOQI fixa 5%, e a diretriz adota como corte pericial 4,5%."
+  ]
+ },
+ {
+  "q": "Condutor em hemodiálise por fístula arteriovenosa no antebraço esquerdo comparece ao exame de aptidão física e mental. Segundo a Diretriz ABRAMET sobre DRC dialítica, qual é a conduta correta quanto à fístula?",
+  "alts": [
+   "Encaminhar à Junta Médica Especial, pois a fístula exige avaliação para veículo adaptado",
+   "Aferir a pressão no outro braço; a fístula não exige Junta Médica nem veículo adaptado",
+   "Dispensar a dinamometria manual, pois a fístula invalida a medida da força de preensão",
+   "Aferir a pressão no braço da fístula, que reflete melhor a pressão durante a hemodiálise",
+   "Exigir câmbio automático anotado na CNH, pela limitação de mobilidade do braço da fístula"
+  ],
+  "gab": 1,
+  "tema": "sistemicas",
+  "sub": "Fístula arteriovenosa no exame",
+  "base": "Diretriz ABRAMET Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), Entrevista geral (acesso vascular) e Recomendações 9 e 10",
+  "coment": "A diretriz trata a fístula arteriovenosa (FAV) como sinal de tratamento iniciado há mais tempo, que não interfere na dinamometria manual e impede a medida da pressão arterial no membro ipsilateral (recomendação 9). A presença de FAV não interfere na condição de dirigibilidade de veículos convencionais, não havendo necessidade de encaminhamento à Junta Médica Especial nem obrigatoriedade de veículo adaptado (recomendação 10). Na entrevista, o perito registra o acesso: cateter de duplo lúmen sugere tratamento recente; cateter PERMCATH e FAV, tratamento mais antigo; na diálise peritoneal, o acesso é o cateter de Tenckhoff.",
+  "porAlt": [
+   "A recomendação 10 afasta expressamente o encaminhamento à JME e o veículo adaptado.",
+   "Correta: a FAV impede medir a pressão no membro ipsilateral e não exige JME nem veículo adaptado (recomendações 9 e 10).",
+   "A recomendação 9 diz que a FAV NÃO interfere na mensuração da dinamometria manual.",
+   "A FAV impede a medida da pressão no membro ipsilateral; mede-se no outro braço.",
+   "A FAV não interfere na dirigibilidade de veículos convencionais, sem restrição veicular."
+  ]
+ },
+ {
+  "q": "Candidato de 60 anos, em hemodiálise há três anos, apresenta no exame pressão elevada, taquicardia, turgência jugular patológica, estertores crepitantes difusos e edema de membros inferiores. Segundo a Diretriz ABRAMET sobre DRC dialítica, qual é o resultado?",
+  "alts": [
+   "Apto com prazo reduzido, pois esses achados são esperados em todo paciente em hemodiálise",
+   "Inapto temporário, pois esses achados indicam má adesão ao tratamento dialítico em curso",
+   "Inapto definitivo, pois os achados indicam doença renal em estágio incompatível com a direção",
+   "Apto só na categoria B, com a restrição de dirigir só nos dias sem sessão de hemodiálise",
+   "Apto com prazo reduzido, condicionado a exames laboratoriais de função renal no retorno"
+  ],
+  "gab": 1,
+  "tema": "sistemicas",
+  "sub": "Sinais de má adesão à diálise",
+  "base": "Diretriz ABRAMET Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), item 3 (Exame físico) e Recomendação 5",
+  "coment": "O item 3 da diretriz lista, ao exame físico, os principais sinais de má adesão ao tratamento dialítico: níveis pressóricos elevados, taquicardia, taquidispneia leve a moderada, turgência jugular patológica, estertores crepitantes difusos e edema de membros inferiores — o retrato da hipervolemia. A recomendação 5 manda considerar inapto temporário o portador de DRC que apresente esses sinais. O tempo de tratamento (três anos) afasta a regra dos três meses iniciais, mas não a de adesão. O perito também deve aferir o peso para estimar o ganho interdialítico, marcador objetivo de assiduidade.",
+  "porAlt": [
+   "A diretriz os classifica como sinais de MÁ ADESÃO, não como achados esperados.",
+   "Correta: são os sinais de má adesão listados na diretriz, que levam à inaptidão temporária (recomendação 5).",
+   "A consequência prevista é a inaptidão temporária, reversível com a adesão ao tratamento.",
+   "Não há aptidão com restrição de categoria diante de sinais de má adesão ao tratamento.",
+   "A diretriz diz que exames laboratoriais adicionais normalmente não são necessários."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre DRC dialítica, ao aferir o peso do candidato em diálise para estimar o ganho de peso interdialítico, quanto deve ser deduzido pelas peças de vestuário que permanecem no corpo?",
+  "alts": [
+   "Cerca de 0,3 a 0,5 kg, deduzidos do valor mostrado na balança",
+   "Cerca de 2,0 a 2,5 kg, deduzidos do valor mostrado na balança",
+   "Um valor fixo de 3 kg, deduzido do peso mostrado na balança",
+   "Cerca de 1,0 a 1,5 kg, deduzidos do valor mostrado na balança",
+   "Nada, porque o candidato deve ser pesado totalmente despido"
+  ],
+  "gab": 3,
+  "tema": "sistemicas",
+  "sub": "Peso e GPID no exame",
+  "base": "Diretriz ABRAMET Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), Recomendação 7",
+  "coment": "A recomendação 7 determina que o perito afira o peso do candidato em qualquer modalidade dialítica, para calcular o valor aproximado do ganho de peso interdialítico (GPID) até aquele momento — importante fator para avaliar a assiduidade ao tratamento. Deve-se pedir a retirada de itens de vestuário e pessoais, garantindo a privacidade sem prejuízo da medida; em média, as peças que permanecem pesam 1,0 a 1,5 kg, valor a ser deduzido do mostrado na balança. O resultado é comparado com o peso seco (peso de euvolemia) informado pelo nefrologista, dado da entrevista geral.",
+  "porAlt": [
+   "O valor citado pela diretriz é maior: aproximadamente 1,0 a 1,5 kg.",
+   "O valor citado é 1,0 a 1,5 kg, e não 2,0 a 2,5 kg.",
+   "Não há valor fixo de 3 kg; a diretriz estima 1,0 a 1,5 kg.",
+   "Correta: a recomendação 7 estima as peças remanescentes em cerca de 1,0 a 1,5 kg, a deduzir.",
+   "A diretriz preserva a privacidade e manda deduzir 1,0 a 1,5 kg."
+  ]
+ },
+ {
+  "q": "Motorista de 59 anos, diabético há 20 anos, apresenta microangiopatia e neuropatia graves e irreversíveis, comprovadas em relatório do endocrinologista, sem hipoglicemia grave no último ano. Segundo a Diretriz ABRAMET sobre diabetes, qual é a conduta pericial?",
+  "alts": [
+   "Inapto temporário, até completar doze meses sem nova hipoglicemia grave",
+   "Inapto, com afastamento definitivo da condução de veículos automotores",
+   "Apto com diminuição do prazo, pois não teve hipoglicemia grave no ano",
+   "Apto apenas na categoria B, com restrição de dirigir após o pôr do sol",
+   "Apto, se fizer exame oftalmológico anual, orientação geral da diretriz"
+  ],
+  "gab": 1,
+  "tema": "sistemicas",
+  "sub": "Complicações crônicas graves",
+  "base": "Diretriz ABRAMET Diabetes Mellitus e Risco na Direção Veicular (2004), item 6.1 e fluxograma",
+  "coment": "O item 6.1 da diretriz ABRAMET sobre diabetes lista os fundamentos da avaliação: tipo 2 controlado com dieta e/ou antidiabéticos orais, apto em qualquer categoria sem restrição; insulinizado bem controlado, sem hipoglicemia nos últimos 12 meses, apto com diminuição do prazo; hipoglicemia grave com perda de consciência nos últimos 12 meses, inapto temporário; e, quando ficar evidenciado o diagnóstico de formas graves de microangiopatia, macroangiopatia e/ou neuropatia, 'o perito determinará ao examinando o definitivo afastamento da condução'. O fluxograma repete: portadores de complicação grave e irreversível 'deverão ser considerados inaptos'.",
+  "porAlt": [
+   "O prazo de 12 meses é da hipoglicemia grave; aqui a causa é a complicação crônica grave.",
+   "Correta: formas graves de microangiopatia, macroangiopatia e/ou neuropatia levam ao definitivo afastamento da condução.",
+   "A ausência de hipoglicemia não compensa complicações graves e irreversíveis.",
+   "A diretriz não prevê aptidão com restrição para as complicações graves.",
+   "O exame anual é orientação a todos, não saída para complicação grave e irreversível."
+  ]
+ },
+ {
+  "q": "Motorista de 51 anos com diabetes tipo 2 teve a dose de insulina aumentada ontem pelo endocrinologista e pergunta ao perito sobre dirigir nos próximos dias. Segundo o fluxograma da Diretriz ABRAMET sobre diabetes, qual é a orientação?",
+  "alts": [
+   "Dirigir normalmente, pois o aumento de dose só eleva o risco depois do terceiro mês de uso",
+   "Dirigir apenas à noite, período em que ocorre a menor parte dos episódios de hipoglicemia",
+   "Dirigir normalmente, desde que a glicemia de jejum passe de 180 mg/dl no próprio dia da viagem",
+   "Suspender a insulina nos dias de viagem, para eliminar o risco de hipoglicemia na direção",
+   "Evitar dirigir por ocasião da introdução ou da modificação das doses dos hipoglicemiantes"
+  ],
+  "gab": 4,
+  "tema": "sistemicas",
+  "sub": "Ajuste de dose e direção",
+  "base": "Diretriz ABRAMET Diabetes Mellitus e Risco na Direção Veicular (2004), item 4 e fluxograma (orientações)",
+  "coment": "O item 4 da diretriz ABRAMET sobre diabetes registra que a hipoglicemia tende a ser mais frequente no início do tratamento com insulina ou sulfonilureia, após modificação de esquema ou aumento da dose de insulina, ou com o desenvolvimento de insuficiência renal. Por isso o fluxograma orienta evitar dirigir por ocasião da introdução ou modificação das doses dos hipoglicemiantes, além de conservar alimentos ricos em carboidratos de absorção rápida em local de fácil acesso no veículo e fazer exames oftalmológicos anuais. Lembre ainda que cerca de 55% das hipoglicemias graves do tipo 1 ocorrem durante o sono.",
+  "porAlt": [
+   "O risco de hipoglicemia é maior justamente no início ou na modificação do esquema.",
+   "Cerca de 43% dos episódios graves ocorrem entre meia-noite e 8h; a noite não é mais segura.",
+   "A diretriz não fixa esse corte; orienta evitar dirigir na modificação das doses.",
+   "A diretriz não orienta suspender o tratamento; orienta evitar dirigir na fase de ajuste.",
+   "Correta: é orientação literal do fluxograma; a hipoglicemia é mais frequente após mudança de esquema ou aumento de dose."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre diabetes, qual hipoglicemiante oral proporciona maior risco de hipoglicemia na maioria dos estudos, e qual é o risco anual com as sulfonilureias?",
+  "alts": [
+   "Glibenclamida; cerca de 1,8% ao ano, chegando a 2% após os 65 anos",
+   "Metformina; cerca de 1,8% ao ano, chegando a 2% após os 65 anos",
+   "Glibenclamida; cerca de 18% ao ano, chegando a 20% após os 65 anos",
+   "Gliclazida; cerca de 1,8% ao ano, chegando a 2% após os 65 anos",
+   "Glibenclamida; cerca de 0,18% ao ano, chegando a 2% após 65 anos"
+  ],
+  "gab": 0,
+  "tema": "sistemicas",
+  "sub": "Sulfonilureias e hipoglicemia",
+  "base": "Diretriz ABRAMET Diabetes Mellitus e Risco na Direção Veicular (2004), item 4",
+  "coment": "O item 4 da diretriz ABRAMET sobre diabetes afirma que a hipoglicemia ao volante é evento raro, influenciado pelo tipo de diabetes e pelo tratamento. A incidência de hipoglicemia grave foi de cerca de 0,31 episódio por pessoa-ano no tipo 1 e 0,18 no tipo 2 insulinizado. Com sulfonilureias, o risco anual de hipoglicemia atinge 1,8% dos usuários, chegando a 2% nas pessoas com mais de 65 anos, e na maioria dos estudos a glibenclamida é o hipoglicemiante oral de maior risco. Como 55% das hipoglicemias graves do tipo 1 ocorrem no sono, o risco diurno ao volante seria cerca de metade do total.",
+  "porAlt": [
+   "Correta: a diretriz cita 1,8% ao ano com sulfonilureias (2% acima de 65 anos) e a glibenclamida como a de maior risco.",
+   "A metformina não é a apontada; a diretriz cita a glibenclamida como de maior risco.",
+   "O risco anual citado é de 1,8% (2% acima de 65 anos), dez vezes menor.",
+   "A diretriz aponta a glibenclamida, e não a gliclazida, como a de maior risco.",
+   "O risco anual citado é 1,8%; 0,18 é a incidência por pessoa-ano no tipo 2 com insulina."
+  ]
+ }
+]

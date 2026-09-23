@@ -1,0 +1,486 @@
+[
+ {
+  "q": "Segundo a Resolução CONTRAN nº 1.031/2026, quais procedimentos o agente pode usar para constatar a influência de substância psicoativa diversa do álcool?",
+  "alts": [
+   "Teste de etilômetro com leitura específica de canabinoides ou constatação de sinais",
+   "Exame toxicológico de larga janela colhido no local ou constatação de sinais",
+   "Aparelho que verifica a presença da substância, vedada a constatação de sinais",
+   "Teste em aparelho que verifica a presença da substância ou constatação de sinais",
+   "Coleta de sangue pelo próprio agente no local da abordagem ou constatação de sinais"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Fiscalização de outras substâncias psicoativas",
+  "base": "Resolução CONTRAN nº 1.031/2026, art. 3º, §§2º a 5º.",
+  "coment": "A Resolução CONTRAN nº 1.031/2026, que revogou a nº 432/2013, separou os meios de constatação conforme a substância. Para outras substâncias psicoativas que determinem dependência, o art. 3º, §2º, admite: I – teste em aparelho destinado à verificação da PRESENÇA da substância psicoativa; ou II – verificação dos sinais que indiquem alteração da capacidade psicomotora. O §3º é taxativo: o etilômetro destina-se EXCLUSIVAMENTE à verificação da influência de álcool, não se aplicando a outras substâncias. Imagem, vídeo e outros meios de prova podem ser usados de forma suplementar (§4º), e deve-se priorizar os testes em aparelho (§5º). Exames de sangue e laboratoriais aparecem como exames suplementares no âmbito do crime, a critério da autoridade policial (art. 9º, §3º).",
+  "porAlt": [
+   "O etilômetro serve exclusivamente para álcool (art. 3º, §3º); não detecta outras substâncias.",
+   "O toxicológico de larga janela é o do art. 148-A (habilitação), não um meio de fiscalização na via.",
+   "Os sinais continuam admitidos para outras substâncias; a norma não os veda nesse caso.",
+   "Correta: o §2º do art. 3º admite aparelho de detecção da substância ou constatação de sinais.",
+   "Exame de sangue é suplementar, a critério da autoridade policial, e não é colhido pelo agente."
+  ]
+ },
+ {
+  "q": "Motorista abordado em rodovia não apresenta sinais de alteração, mas o aparelho de detecção de substâncias psicoativas, certificado conforme a norma, dá resultado qualitativo positivo para cocaína. Qual é o enquadramento pela Resolução CONTRAN nº 1.031/2026?",
+  "alts": [
+   "Infração do art. 165-C, própria de resultado positivo em toxicológico de larga janela",
+   "Infração do art. 165 e crime do art. 306, ambos caracterizados pelo resultado positivo",
+   "Infração do art. 165, sem crime, porque o crime exige sinais de alteração da capacidade",
+   "Nenhuma infração, pois o teste qualitativo não informa a concentração da substância",
+   "Crime do art. 306 só depois da confirmação por exame em um laboratório especializado"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Aparelho de detecção positivo",
+  "base": "Resolução CONTRAN nº 1.031/2026, arts. 8º, II; 9º, II e §§1º a 3º; 10, II.",
+  "coment": "A Resolução CONTRAN nº 1.031/2026 inovou ao prever aparelho para detecção de outras substâncias psicoativas. O art. 8º, II, caracteriza a INFRAÇÃO do art. 165 por teste em aparelho destinado à verificação da presença de outras substâncias que apresente resultado QUALITATIVO POSITIVO; e o art. 9º, II, usa o mesmo resultado para caracterizar o CRIME do art. 306 (o crime não elide a infração — §1º). Exames laboratoriais são suplementares, a critério da autoridade policial, e podem servir de contraprova, permanecendo válido o resultado do aparelho (§3º). No auto, registram-se marca, modelo, número de identificação — mesmo que o dispositivo seja descartável — e o tipo de substância detectada (art. 10, II). O art. 165-C trata do toxicológico do art. 148-A, outra coisa.",
+  "porAlt": [
+   "O art. 165-C refere-se ao toxicológico de larga janela do art. 148-A, não ao teste feito na via.",
+   "Correta: o resultado qualitativo positivo caracteriza a infração (art. 8º, II) e o crime (art. 9º, II).",
+   "Pela Resolução, o resultado positivo do aparelho basta também para o crime (art. 9º, II).",
+   "A norma exige resultado qualitativo positivo; não pede concentração para caracterizar a infração.",
+   "O laboratório é suplementar e serve de contraprova; o resultado do aparelho permanece válido."
+  ]
+ },
+ {
+  "q": "Que requisito a Resolução CONTRAN nº 1.031/2026 impõe ao aparelho de teste para detecção de substâncias psicoativas diversas do álcool?",
+  "alts": [
+   "Registro na Anvisa como dispositivo de diagnóstico de uso profissional",
+   "Certificação no âmbito do SBAC, por organismo acreditado pelo Inmetro",
+   "Aprovação de modelo pela Senatran e calibração anual pelo órgão autuador",
+   "Credenciamento do fabricante como laboratório de exame toxicológico",
+   "Verificação metrológica anual pelo Inmetro, idêntica à do etilômetro"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Certificação do aparelho de drogas",
+  "base": "Resolução CONTRAN nº 1.031/2026, arts. 5º, 6º e 10, II.",
+  "coment": "O art. 6º da Resolução CONTRAN nº 1.031/2026 determina que o teste com aparelho para detecção de outras substâncias psicoativas deverá ser CERTIFICADO no âmbito do Sistema Brasileiro de Avaliação da Conformidade (SBAC), por organismo acreditado pelo Inmetro; o órgão máximo executivo de trânsito da União pode editar normas complementares (parágrafo único). É regime diferente do etilômetro, que exige modelo aprovado pelo Inmetro e aprovação nas verificações metrológicas inicial, eventual, em serviço e periódica (art. 5º). No auto de infração, o aparelho de drogas é identificado por marca, modelo e número de identificação, mesmo que seja descartável, com o tipo de substância detectada (art. 10, II). Não se confunde com o laboratório credenciado do toxicológico do art. 148-A.",
+  "porAlt": [
+   "A norma não remete à Anvisa; a exigência é certificação no âmbito do SBAC.",
+   "Correta: o art. 6º exige certificação no SBAC por organismo acreditado pelo Inmetro.",
+   "O órgão máximo executivo de trânsito da União só edita normas complementares; o requisito é o SBAC.",
+   "Laboratório credenciado é figura do toxicológico do art. 148-A, não do teste na via.",
+   "Verificação metrológica é regime do etilômetro (art. 5º); o aparelho de drogas é certificado."
+  ]
+ },
+ {
+  "q": "A Lei nº 15.153/2025 incluiu o §10 no art. 148-A do CTB. O que esse parágrafo passou a exigir?",
+  "alts": [
+   "Toxicológico negativo a cada renovação da CNH para condutores das categorias A e B",
+   "Toxicológico negativo a cada 2 anos e 6 meses para condutores com mais de 70 anos",
+   "Toxicológico negativo como condição para a primeira habilitação nas categorias A e B",
+   "Toxicológico negativo como condição para a primeira habilitação apenas na categoria D",
+   "Exame de alcoolemia negativo como condição para a primeira habilitação em A e em B"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Toxicológico na primeira habilitação",
+  "base": "CTB, art. 148-A, caput, §2º, §10 e §11 (Leis nº 14.071/2020 e nº 15.153/2025).",
+  "coment": "O caput do art. 148-A exige resultado negativo em exame toxicológico dos condutores das categorias C, D e E para obtenção e renovação da CNH, e o §2º impõe novo exame a cada 2 anos e 6 meses aos dessas categorias com menos de 70 anos. A Lei nº 15.153/2025 acrescentou o §10: a exigência de resultado negativo prevista no caput aplica-se TAMBÉM como condição para a obtenção da PRIMEIRA HABILITAÇÃO — a permissão para dirigir — por condutores das categorias A e B. Não se estendeu às renovações de A e B. A mesma lei incluiu o §11: as clínicas do exame de aptidão física e mental podem agregar, em ambiente físico próprio e segregado, posto de coleta laboratorial contratado por laboratório credenciado pelo órgão máximo executivo de trânsito da União.",
+  "porAlt": [
+   "O §10 fala da primeira habilitação; não impõe o toxicológico às renovações de A e B.",
+   "O periódico de 2 anos e 6 meses é do §2º, para C, D e E com MENOS de 70 anos.",
+   "Correta: o §10 estende a exigência do caput à primeira habilitação (permissão) em A e B.",
+   "A categoria D já estava no caput; a novidade do §10 são as categorias A e B.",
+   "O §10 trata do exame toxicológico, e não de exame de alcoolemia na habilitação."
+  ]
+ },
+ {
+  "q": "Caminhoneiro de 52 anos, categoria E, realiza o exame toxicológico periódico do §2º do art. 148-A do CTB e obtém resultado positivo. Qual consequência a lei prevê especificamente para esse resultado?",
+  "alts": [
+   "Suspensão do direito de dirigir por 12 meses, com a multa multiplicada por dez vezes",
+   "Suspensão do direito de dirigir por 3 meses, levantada com novo exame negativo no Renach",
+   "Cassação do documento de habilitação, com reabilitação a ser requerida após dois anos",
+   "Suspensão por 3 meses, somada a multa gravíssima e a curso de reciclagem obrigatório",
+   "Rebaixamento para a categoria B até que apresente dois exames negativos consecutivos"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Toxicológico periódico positivo",
+  "base": "CTB, art. 148-A, §2º, §4º e §5º, II (Leis nº 14.071/2020 e nº 14.599/2023).",
+  "coment": "O §5º do art. 148-A, com redação da Lei nº 14.599/2023, estabelece que o resultado positivo no exame PERIÓDICO do §2º acarreta ao condutor a SUSPENSÃO do direito de dirigir pelo período de 3 meses, condicionado o levantamento da suspensão à inclusão no Renach de resultado negativo em novo exame, VEDADA a aplicação de outras penalidades, ainda que acessórias (inciso II). O periódico vale para C, D e E com menos de 70 anos, a cada 2 anos e 6 meses (§2º). É garantido o direito de contraprova e de recurso administrativo, sem efeito suspensivo (§4º). Não confundir com a falta do exame (arts. 165-B e 165-D) nem com a suspensão de 12 meses dos arts. 165 e 165-A (álcool e recusa).",
+  "porAlt": [
+   "Doze meses e multa por dez são as penalidades dos arts. 165 e 165-A, não do periódico positivo.",
+   "Correta: suspensão por 3 meses, levantada com novo exame negativo incluído no Renach (§5º, II).",
+   "A lei não prevê cassação para o periódico positivo, e sim suspensão de 3 meses.",
+   "O §5º, II, veda outras penalidades, ainda que acessórias, além da suspensão de 3 meses.",
+   "Não há rebaixamento de categoria; a consequência é a suspensão de 3 meses com novo exame."
+  ]
+ },
+ {
+  "q": "Condutor da categoria D recebe resultado positivo no exame toxicológico previsto no art. 148-A do CTB e quer contestá-lo. O que lhe garante o §4º desse artigo?",
+  "alts": [
+   "Direito de contraprova e de recurso administrativo, este com efeito suspensivo",
+   "Direito de recurso com efeito suspensivo, sem direito a pedir a contraprova",
+   "Direito de contraprova somente se o resultado vier com laudo médico anexado",
+   "Direito de contraprova e de recurso administrativo, este sem efeito suspensivo",
+   "Direito de repetir o exame em outro laboratório, anulando o primeiro resultado"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Contraprova do toxicológico",
+  "base": "CTB, art. 148-A, §§4º, 6º e 9º (Leis nº 13.103/2015, nº 14.071/2020 e nº 14.599/2023).",
+  "coment": "O §4º do art. 148-A garante o direito de CONTRAPROVA e de RECURSO ADMINISTRATIVO, SEM EFEITO SUSPENSIVO, no caso de resultado positivo, nos termos das normas do Contran. O detalhe “sem efeito suspensivo” é o ponto de prova: interposto o recurso, as consequências do resultado positivo não ficam paralisadas. Outros parágrafos úteis: o §6º determina que o resultado seja divulgado somente ao interessado e não seja usado para fins estranhos ao artigo ou ao §6º do art. 168 da CLT; o §9º obriga o órgão máximo executivo de trânsito da União (a Senatran) a comunicar, pelo sistema de notificação eletrônica, o vencimento do prazo do exame com 30 dias de antecedência. A CLT (art. 168, §6º) também assegura contraprova ao motorista profissional nos exames admissional e demissional.",
+  "porAlt": [
+   "O recurso previsto no §4º não tem efeito suspensivo; essa é justamente a pegadinha.",
+   "A lei assegura a contraprova, e o recurso não suspende os efeitos do resultado.",
+   "A contraprova não depende de laudo médico anexado; é garantida pelo próprio §4º.",
+   "Correta: o §4º garante contraprova e recurso administrativo, sem efeito suspensivo.",
+   "A lei fala em contraprova e recurso, e não em repetição que anule o primeiro resultado."
+  ]
+ },
+ {
+  "q": "Candidato à renovação na categoria C apresenta toxicológico de larga janela positivo para benzodiazepínico e comprova uso prescrito de clonazepam. Segundo o MPPCVA da ABRAMET, qual é a conduta correta?",
+  "alts": [
+   "O médico do tráfego deve analisar o laudo e declará-lo inapto temporário na renovação",
+   "O médico do tráfego deve repetir o exame toxicológico em laboratório de sua confiança",
+   "O candidato é inapto temporário até que o laboratório lance resultado negativo no Renach",
+   "O uso lícito comprovado dispensa avaliar os efeitos do medicamento no exame pericial",
+   "O uso lícito comprovado não o torna inapto temporário; o laudo cabe ao Médico Revisor"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Toxicológico positivo por uso lícito",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 9 (Orientações aos Médicos do Tráfego).",
+  "coment": "O item 9 do MPPCVA reconhece que determinados medicamentos podem resultar em positividade no exame toxicológico de larga janela, obrigatório para as categorias C, D e E, e afirma que o USO LÍCITO dessas substâncias, devidamente comprovado, NÃO DEVERÁ tornar o candidato inapto temporário. Mais: não cabe ao médico do tráfego analisar toxicológicos positivos por uso lícito; os laboratórios credenciados devem disponibilizar um MÉDICO REVISOR, que insere no prontuário do condutor, via Renach, o resultado como positivo, negativo ou “positivo justificado pelo uso lícito”. Isso não dispensa o perito: ele deve sempre avaliar o risco de quem informa uso de medicamentos no questionário e orientar sobre os efeitos (clonazepam acima de 0,5–1,0 mg/dia associa-se a sedação intensa).",
+  "porAlt": [
+   "A diretriz diz que não cabe ao médico do tráfego analisar o toxicológico positivo por uso lícito.",
+   "O perito não repete o toxicológico; a análise é do Médico Revisor do laboratório credenciado.",
+   "O uso lícito comprovado não deve tornar o candidato inapto temporário, segundo o MPPCVA.",
+   "O perito deve sempre avaliar o risco dos medicamentos informados, mesmo com uso lícito.",
+   "Correta: uso lícito comprovado não gera inaptidão temporária, e a análise cabe ao Médico Revisor."
+  ]
+ },
+ {
+  "q": "Em testes de simulador citados na Diretriz ABRAMET sobre drogas, que padrão de direção foi observado três a cinco horas após o uso de MDMA (ecstasy)?",
+  "alts": [
+   "Pior posicionamento na via e tempo de reação maior, mas distância segura mantida",
+   "Melhor posição na via e tempo de reação mantido, mas distância e manobras piores",
+   "Melhor posição na via e melhora global do desempenho, sem erro de manobra ou distância",
+   "Pior posicionamento na via e sonolência intensa, com o adormecimento ao volante",
+   "Tempo de reação mantido e distância segura preservada, mas velocidade excessiva"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "MDMA e desempenho ao volante",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre drogas e motoristas (2012), item 3 — anfetaminas.",
+  "coment": "A Diretriz ABRAMET relata que, três a cinco horas após o uso de metilenodioximetanfetamina (MDMA, ecstasy), motoristas em simulador se posicionaram MELHOR na via (SDLP, desvio padrão do posicionamento lateral) e MANTIVERAM o tempo de reação, mas PIORARAM o desempenho na direção: não guardaram distância segura entre veículos e fizeram manobras imprecisas de aceleração, desaceleração e frenagem. Em outro estudo, três horas após metanfetamina ou MDMA, houve mais violações do limite de velocidade, falta de sinalização de mudança de faixa e seta mantida acionada após ingressar na via. E usuários de MDMA em abstinência não tiveram prejuízo de desempenho, mas maior exposição a situações de risco. O ponto didático: um parâmetro “normal” (SDLP) não garante direção segura.",
+  "porAlt": [
+   "O SDLP melhorou e o tempo de reação foi mantido; o que piorou foi a distância entre veículos.",
+   "Correta: SDLP melhor e reação mantida, mas sem distância segura e com manobras imprecisas.",
+   "Houve piora na direção: distância insegura e manobras imprecisas, apesar do SDLP melhor.",
+   "Sonolência e adormecimento ao volante descrevem opiáceos, não o efeito agudo do MDMA.",
+   "A distância segura NÃO foi preservada; faltou distância entre o veículo e os demais."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre drogas, qual é o efeito da cocaína logo após o início da ação farmacológica e o que ocorre com o risco após o tratamento da dependência?",
+  "alts": [
+   "Há sedação imediata e reação lenta; o risco persiste igual mesmo depois do tratamento",
+   "Há melhora sustentada do desempenho; o risco só surge na abstinência após o tratamento",
+   "Pode haver pequena melhora do desempenho; o risco aumenta após o tratamento, por rebote",
+   "Há miose e ofuscamento noturno; o risco só cai depois de dois anos de abstinência total",
+   "Pode haver pequena melhora do desempenho, com mais risco; o risco cai após o tratamento"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Cocaína e direção",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre drogas e motoristas (2012), item 3 — cocaína.",
+  "coment": "A Diretriz ABRAMET afirma que a cocaína pode ocasionar PEQUENA MELHORA no desempenho do motorista logo após o início de sua ação farmacológica, mas o condutor fica mais propenso a assumir comportamentos de risco, o que pode levar a maior envolvimento em acidentes. Usuários de cocaína apresentam alto risco de cometer infrações e de se envolver em acidentes, e esse risco É REDUZIDO APÓS O TRATAMENTO da dependência. O prejuízo decorre da perda de concentração e atenção e da maior sensibilidade à luz pela DILATAÇÃO pupilar; nervosismo, irritabilidade, agressividade, paranoia e alucinações favorecem excesso de velocidade, perda de controle, direção agressiva e manobras de alto risco. Miose e sedação são efeitos dos opiáceos.",
+  "porAlt": [
+   "Sedação e reação lenta são efeitos de opiáceos; a diretriz diz que o risco cai com o tratamento.",
+   "A melhora é pequena e inicial, e o risco acompanha o uso, reduzindo-se após o tratamento.",
+   "A diretriz afirma que o risco é REDUZIDO após o tratamento da dependência, não aumentado.",
+   "A cocaína causa midríase (dilatação), não miose, e a diretriz não fixa prazo de dois anos.",
+   "Correta: pequena melhora inicial com mais comportamento de risco; o risco cai após o tratamento."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre drogas, motoristas envolvidos em colisões fatais com delta-9-tetra-hidrocanabinol (THC) no sangue tinham qual probabilidade de ser os responsáveis pelo acidente?",
+  "alts": [
+   "1,9 vez maior, chegando a 2,7 vezes com THC igual ou superior a 5 ng/mL",
+   "2,7 vezes maior, chegando a 13,5 vezes com THC igual ou superior a 3,8 ng/mL",
+   "6,6 vezes maior, chegando a 9,1 vezes com THC igual ou superior a 10 ng/mL",
+   "1,45 vez maior, chegando a 2,7 vezes com THC igual ou superior a 5 ng/mL",
+   "2,7 vezes maior, chegando a 6,6 vezes com THC igual ou superior a 5 ng/mL"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Cannabis e responsabilidade em colisões fatais",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre drogas e motoristas (2012), item 2 — cannabis.",
+  "coment": "A Diretriz ABRAMET relata que motoristas envolvidos em colisões fatais que apresentavam THC no sangue tinham probabilidade 2,7 VEZES maior de serem responsáveis pelo acidente, alcançando 6,6 VEZES quando a dose era igual ou superior a 5 ng/mL de sangue. Outros números da mesma seção: o consumo de cannabis praticamente DUPLICA o risco de provocar acidentes (revisão sistemática); risco 1,9 vez maior em quem consome cannabis mais de 50 vezes ao ano; risco 1,89 vez maior de ser responsável por acidentes fatais; declínio de desempenho de até 35% com 5 ng/ml de THC plasmático; e doses experimentais de até 300 mcg/kg de THC produziram efeitos semelhantes a doses superiores a 0,5 g/L de etanol. Os valores 9,1, 13,5 e 1,45 pertencem à diretriz de benzodiazepínicos.",
+  "porAlt": [
+   "1,9 vez é o risco de quem consome cannabis mais de 50 vezes ao ano, não o de colisões fatais.",
+   "13,5 é risco de benzodiazepínico ansiolítico, e 3,8 ng/ml vem do MPPCVA, outro contexto.",
+   "9,1 é risco de benzodiazepínico hipnótico; 6,6 é o valor para THC de 5 ng/mL ou mais.",
+   "1,45 é o risco de benzodiazepínico de meia-vida longa em idosos, não o do THC.",
+   "Correta: 2,7 vezes maior, e 6,6 vezes com THC igual ou superior a 5 ng/mL de sangue."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre drogas, o Departamento de Transportes dos Estados Unidos estabelece que seja verificado se o condutor está utilizando quais substâncias?",
+  "alts": [
+   "Cannabis, cocaína, opiáceos, anfetaminas e fenciclidina",
+   "Cannabis, cocaína, benzodiazepínicos, anfetaminas e álcool",
+   "Cannabis, cocaína, opiáceos, anfetaminas e barbitúricos",
+   "Cocaína, anfetaminas, LSD, GHB e os benzodiazepínicos",
+   "Cannabis, cocaína, opiáceos, antidepressivos e fenciclidina"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Painel de drogas e legislação comparada",
+  "base": "Diretriz ABRAMET/AMB/CFM sobre drogas e motoristas (2012), item 5 — legislação e fiscalização.",
+  "coment": "No item 5, a Diretriz ABRAMET registra que o CTB menciona apenas o termo “substância psicoativa que determine dependência”, sem definir grupos de drogas proibidos no trânsito, enquanto, nos Estados Unidos, o Departamento de Transportes estabelece a verificação de CANNABIS, COCAÍNA, OPIÁCEOS, ANFETAMINAS e FENCICLIDINA. A diretriz recomenda que a legislação brasileira inclua como proibitivos cocaína, cannabis e anfetaminas, com padronização das técnicas analíticas, equipamentos nos laboratórios oficiais e treinamento de policiais e agentes. Registra ainda que a lei britânica exige a confirmação da debilitação, e que as leis “per se” de alguns estados norte-americanos punem a mera presença de droga ilícita, com as mesmas sanções do álcool.",
+  "porAlt": [
+   "Correta: cannabis, cocaína, opiáceos, anfetaminas e fenciclidina, segundo a diretriz.",
+   "O painel citado não inclui benzodiazepínicos nem álcool; inclui opiáceos e fenciclidina.",
+   "A quinta substância do painel é a fenciclidina, e não os barbitúricos.",
+   "LSD, GHB e benzodiazepínicos não integram o painel; cannabis e opiáceos sim.",
+   "Antidepressivos não integram o painel do Departamento de Transportes; anfetaminas sim."
+  ]
+ },
+ {
+  "q": "Segundo o MPPCVA da ABRAMET, que concentração de THC se mostrou, em meta-análise, tão prejudicial à condução quanto uma alcoolemia de 0,5 g/l?",
+  "alts": [
+   "5 ng/ml no soro, equivalente a cerca de 10 ng/ml no sangue total",
+   "3,8 ng/ml no sangue total, equivalente a cerca de 7,6 ng/ml no soro",
+   "3,8 ng/ml no soro, equivalente a cerca de 2 ng/ml no sangue total",
+   "300 ng/ml no soro, equivalente a cerca de 150 ng/ml no sangue total",
+   "2 ng/ml no soro, equivalente a cerca de 3,8 ng/ml no sangue total"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Cannabis medicinal e equivalência com o álcool",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 5-F-VII (canabinoides).",
+  "coment": "Na seção de canabinoides, o MPPCVA afirma que descoberta significativa de meta-análise foi que a concentração SÉRICA de 3,8 ng/ml de THC (~2 ng/ml no SANGUE TOTAL) demonstrou ser tão prejudicial quanto alcoolemia de 0,5 g/l. A diretriz distingue o canabidiol (CBD), com indicações em epilepsia refratária e dor crônica, do THC, princípio mais tóxico, cujos efeitos na cognição, visão e coordenação podem persistir por várias horas. Registra ainda que o órgão de cannabis medicinal de Victoria recomenda evitar dirigir com produtos que contenham THC, que a tolerância aos efeitos agudos se desenvolve com o uso diário, e que condutores em uso lícito podem ser condenados em países de “tolerância zero” pela simples presença de THC.",
+  "porAlt": [
+   "5 ng/ml é o corte da diretriz de drogas (2012) para risco de 6,6 vezes, não esta equivalência.",
+   "A inversão está errada: 3,8 ng/ml é concentração sérica, e 2 ng/ml, a do sangue total.",
+   "Correta: 3,8 ng/ml no soro, cerca de 2 ng/ml no sangue total, equivale a 0,5 g/l de álcool.",
+   "300 é a dose experimental em mcg/kg da diretriz de drogas, e não concentração em ng/ml.",
+   "Os valores estão trocados: 3,8 ng/ml no soro corresponde a cerca de 2 ng/ml no sangue."
+  ]
+ },
+ {
+  "q": "Segundo o projeto DRUID, citado no MPPCVA da ABRAMET, qual é o risco no trânsito associado a condutores em uso de medicação opioide?",
+  "alts": [
+   "8 vezes para ferimentos graves, 5 vezes para mortes e 50% maior para hospitalização",
+   "5 vezes para ferimentos graves, 8 vezes para mortes e 50% maior para hospitalização",
+   "8 vezes para ferimentos graves, 5 vezes para mortes e o dobro para hospitalização",
+   "2 vezes para ferimentos graves, 3 vezes para mortes e 20% maior para hospitalização",
+   "8 vezes para ferimentos graves, sem aumento das mortes nem das internações hospitalares"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Opioides — dados do DRUID",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 5-A-III (opioides).",
+  "coment": "O MPPCVA cita o Projeto DRUID (Driving Under the Influence of Drugs, Alcohol and Medicines), que descreve risco 8 VEZES maior para ferimentos graves, 5 VEZES maior para mortes no trânsito de condutores em uso de medicação opioide, e risco 50% MAIOR de envolvimento em sinistros que necessitam hospitalização. A influência dos opioides predomina no INÍCIO da terapia e/ou quando combinados com outros psicoativos, com risco maior em quem usa pela primeira vez, sugerindo papel da tolerância. O comprometimento neurocognitivo aparece como queda das pontuações no Miniexame do Estado Mental, e os opioides são a 3ª classe de drogas mais detectada em motociclistas. Efeitos listados: sedação, piora do tempo de reação e coordenação, déficit de atenção, miose e redução da visão periférica.",
+  "porAlt": [
+   "Correta: 8 vezes para ferimentos graves, 5 vezes para mortes e 50% maior para hospitalização.",
+   "Os multiplicadores estão invertidos: 8 vezes é para ferimentos graves e 5 vezes para mortes.",
+   "Para hospitalização o DRUID descreve risco 50% maior, e não o dobro.",
+   "Os valores do DRUID são 8 e 5 vezes e 50% maior, e não 2, 3 e 20%.",
+   "O DRUID descreve também aumento de mortes (5 vezes) e de hospitalização (50%)."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus com rinite alérgica persistente precisa de anti-histamínico. Segundo o MPPCVA da ABRAMET, qual grupo não produz comprometimento da condução após administração única e repetida?",
+  "alts": [
+   "Difenidramina, dexclorfeniramina e clemastina, ditos de primeira geração",
+   "Cetirizina, loratadina e ebastina, todos de segunda geração, sem exceção",
+   "Fexofenadina, desloratadina e levocetirizina, ditos de terceira geração",
+   "Prometazina e triprolidina, ambas incluídas na categoria III do ICADTS",
+   "Mizolastina, acrivastina e mequitazina, classificados na terceira geração"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Escolha do anti-histamínico para o condutor",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 5-E (anti-histamínicos) e item 10.",
+  "coment": "O MPPCVA divide os anti-histamínicos em três gerações: os de PRIMEIRA (difenidramina, triprolidina, terfenadina, dexclorfeniramina, clemastina) prejudicam significativamente o desempenho; os de SEGUNDA (cetirizina, loratadina, ebastina, mizolastina, acrivastina, emedastina, mequitazina) também podem prejudicar, com diferenças de pessoa para pessoa; e os de TERCEIRA geração — denominação ainda não consensuada — (fexofenadina, desloratadina e levocetirizina) NÃO produzem comprometimento após administração única e repetida. O prejuízo depende de dose, gênero e tempo entre a ingestão e a direção; a tolerância surge em média após quatro a cinco dias, mas nem sempre elimina o prejuízo; e há potencialização por álcool, barbitúricos e benzodiazepínicos. Ao prescritor, a diretriz recomenda optar pelo fármaco sem efeito prejudicial.",
+  "porAlt": [
+   "São de primeira geração e prejudicam significativamente o desempenho de condução.",
+   "A segunda geração também pode prejudicar, com diferenças individuais, segundo o MPPCVA.",
+   "Correta: fexofenadina, desloratadina e levocetirizina não produziram comprometimento.",
+   "Prometazina e triprolidina são categoria III do ICADTS: não dirigir durante o uso.",
+   "Mizolastina, acrivastina e mequitazina são listadas pela diretriz como de segunda geração."
+  ]
+ },
+ {
+  "q": "No sistema de categorização do ICADTS, citado no MPPCVA da ABRAMET, qual é a orientação ao condutor e a equivalência em alcoolemia de um medicamento da categoria II?",
+  "alts": [
+   "Não dirija sem consultar o médico; efeito equivalente à alcoolemia de 0,5 a 0,8 g/L",
+   "Não dirija antes de ler a bula; efeito equivalente à alcoolemia de 0,5 a 0,8 g/L",
+   "Não dirija enquanto utilizar o remédio; efeito equivalente à alcoolemia acima de 0,8 g/L",
+   "Não dirija sem consultar o médico; efeito equivalente à alcoolemia abaixo de 0,5 g/L",
+   "Não dirija nas duas primeiras semanas; efeito equivalente à alcoolemia de 0,3 g/L"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Categorias do ICADTS",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 6-II (ICADTS, Tabela 3).",
+  "coment": "O sistema do International Council on Alcohol, Drugs and Traffic Safety (ICADTS), reproduzido no MPPCVA, classifica os medicamentos em três categorias equivalentes a alcoolemias < 0,5 g/L, 0,5–0,8 g/L e > 0,8 g/L. Categoria I: presumivelmente seguro ou com pouca probabilidade de efeito — “Não dirija antes de ler as advertências da bula”. Categoria II: probabilidade de efeitos adversos menores/moderados — “NÃO DIRIJA SEM CONSULTAR O MÉDICO”. Categoria III: efeitos graves/potencialmente perigosos — “Não dirija enquanto utilizar este medicamento”. Já o DRUID usa como referência o prejuízo de alcoolemia de 0,3 g/L. Exemplos: buspirona I; zolpidem II; zopiclona, diazepam, alprazolam e amitriptilina III.",
+  "porAlt": [
+   "Correta: categoria II — não dirigir sem consultar o médico; equivale a 0,5–0,8 g/L.",
+   "“Ler a bula” é a orientação da categoria I, que equivale a alcoolemia abaixo de 0,5 g/L.",
+   "“Não dirija enquanto utilizar” e mais de 0,8 g/L descrevem a categoria III.",
+   "A orientação está certa, mas a categoria II equivale a 0,5–0,8 g/L, não a menos de 0,5.",
+   "0,3 g/L é a referência do DRUID, e a orientação não fala em duas primeiras semanas."
+  ]
+ },
+ {
+  "q": "Médico assistente pretende prescrever hipnótico a um taxista com insônia e consulta a categorização do ICADTS reproduzida no MPPCVA. Como estão classificados o zolpidem e a zopiclona?",
+  "alts": [
+   "Zolpidem na categoria III e zopiclona na categoria II",
+   "Zolpidem e zopiclona, ambos na categoria I da tabela",
+   "Zolpidem na categoria I e zopiclona na categoria II",
+   "Zolpidem na categoria II e zopiclona na categoria III",
+   "Zolpidem e zopiclona, ambos na categoria III da tabela"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Hipnóticos Z e condução",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), itens 5-C-III, 6-I (DRUID) e 6-II (ICADTS).",
+  "coment": "Na Tabela 3 do MPPCVA (ICADTS), entre os hipnóticos relacionados aos benzodiazepínicos, o ZOLPIDEM está na categoria II (“não dirija sem consultar o médico”) e a ZOPICLONA na categoria III (“não dirija enquanto utilizar este medicamento”). O DRUID é coerente: grau de comprometimento de 119 para zolpidem 10 mg e 240 para zopiclona 7,5 mg (zolpidem 5 mg: 0). A diretriz afirma haver evidências consistentes de que os hipnóticos Z prejudicam a condução, e cita a França, onde a dose diária de zolpidem não deve exceder 10 mg e a prescrição não deve passar de 4 semanas. Alternativas com dados favoráveis: eszopiclona 3 mg sem prejuízo no dia seguinte e lemborexant 10 mg sem diferenças 9 horas após a dose.",
+  "porAlt": [
+   "As categorias estão invertidas: zolpidem é II e zopiclona é III.",
+   "Nenhum dos dois é categoria I; a buspirona é exemplo de categoria I.",
+   "O zolpidem é categoria II, e a zopiclona é III, não II.",
+   "Correta: pela tabela do ICADTS, zolpidem é categoria II e zopiclona, categoria III.",
+   "Só a zopiclona está na III; o zolpidem está na categoria II."
+  ]
+ },
+ {
+  "q": "Motorista de 48 anos inicia amitriptilina em baixa dose, à noite, para dor neuropática. Segundo o MPPCVA da ABRAMET, o que se espera do seu desempenho na condução?",
+  "alts": [
+   "Nenhum prejuízo em baixa dose, pois o risco só aparece acima de 125 mg por dia",
+   "Prejuízo só a partir da segunda semana, quando o fármaco atinge o seu equilíbrio",
+   "Prejuízo crescente e persistente enquanto durar o tratamento inteiro, sem tolerância",
+   "Prejuízo já no primeiro dia, sem diferença significativa após duas semanas de uso",
+   "Prejuízo já no primeiro dia, que desaparece em 24 horas por tolerância imediata"
+  ],
+  "gab": 3,
+  "tema": "drogas",
+  "sub": "Antidepressivo tricíclico e direção",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 5-D-I (tricíclicos), Tabelas 2 e 3.",
+  "coment": "O MPPCVA relata que a administração NOTURNA de BAIXAS doses de amitriptilina compromete o desempenho na condução DESDE O PRIMEIRO DIA de tratamento: SDLP equivalente ao observado com alcoolemia de 0,5 (unidade grafada no texto como mg/ml), tempo de reação aumentado e teste de memória alterado. Em contraste, APÓS 2 SEMANAS não foram encontradas diferenças significativas, sugerindo tolerância aos efeitos prejudiciais. A diretriz acrescenta que tricíclicos associam-se a maior risco relativo de sinistro, principalmente em idosos, e que amitriptilina ≥ 125 mg/dia aumenta esse risco em 6 vezes. No DRUID, amitriptilina 25 e 50 mg tem grau 327 e 380; no ICADTS, é categoria III. A orientação prática: evitar dirigir no início do tratamento.",
+  "porAlt": [
+   "Mesmo em baixa dose noturna há prejuízo inicial; 125 mg/dia é o corte do risco 6 vezes maior.",
+   "O prejuízo aparece desde o primeiro dia, e é após duas semanas que ele deixa de ser significativo.",
+   "O estudo sugere tolerância: após duas semanas, não houve diferença significativa.",
+   "Correta: há prejuízo desde o primeiro dia, e após duas semanas não há diferença significativa.",
+   "A tolerância descrita surge em cerca de duas semanas, e não em 24 horas."
+  ]
+ },
+ {
+  "q": "Condutor de 60 anos inicia mirtazapina 15 mg para depressão com insônia e pergunta se pode dirigir. Segundo o MPPCVA da ABRAMET, qual informação é correta?",
+  "alts": [
+   "Não há prejuízo, pois a mirtazapina é da categoria I do ICADTS para a condução",
+   "Há prejuízo no início, com doses baixas, até 7 dias, atenuado nos dias seguintes",
+   "Há prejuízo só com doses acima de 30 mg, e não na fase inicial do tratamento",
+   "Há prejuízo persistente, que exige suspender a direção durante todo o tratamento",
+   "Há prejuízo só após 4 semanas, quando se acumula um metabólito ativo sedativo"
+  ],
+  "gab": 1,
+  "tema": "drogas",
+  "sub": "Mirtazapina e direção",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 5-D-III (outros antidepressivos) e Tabela 3 (ICADTS).",
+  "coment": "O MPPCVA destaca dois antidepressivos que comprometeram a capacidade de dirigir. Sobre a MIRTAZAPINA (antidepressivo noradrenérgico e específico serotoninérgico), há prejuízo no desempenho da condução no PERÍODO INICIAL do tratamento com doses inferiores a 30 mg (ATÉ 7 DIAS), mas esse efeito é ATENUADO nos dias seguintes, mesmo com doses maiores; dose inicial baixa pode ser mais segura para a condução. No ICADTS, a mirtazapina está na categoria III (com mianserina e trazodona). Sobre a trazodona, a diretriz relata que foi incluída na lista de medicamentos avaliados em testes toxicológicos nos EUA, pelo alto risco de sinistros. Orientação: evitar dirigir na primeira semana e reavaliar.",
+  "porAlt": [
+   "Pelo ICADTS, a mirtazapina é categoria III, e a diretriz descreve prejuízo inicial.",
+   "Correta: prejuízo no início (até 7 dias) com doses abaixo de 30 mg, atenuado depois.",
+   "O prejuízo descrito ocorre justamente no início, com doses inferiores a 30 mg.",
+   "O efeito é atenuado após os primeiros dias, mesmo com doses maiores.",
+   "O prejuízo concentra-se nos primeiros 7 dias, e não surge após 4 semanas."
+  ]
+ },
+ {
+  "q": "Segundo o MPPCVA da ABRAMET, qual afirmação sobre antidepressivos e condução veicular está correta?",
+  "alts": [
+   "A descontinuação abrupta de qualquer antidepressivo associa-se a sinistros automobilísticos",
+   "A maioria dos antidepressivos eleva o risco de sinistro até quando usada da forma correta",
+   "A associação com outros psicotrópicos reduz o prejuízo, por efeito sedativo compensatório",
+   "Os ISRS são a classe com maior sedação e maior efeito anticolinérgico entre os antidepressivos",
+   "A depressão residual não interfere na condução, cujo risco decorre somente do fármaco usado"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Antidepressivos — princípios gerais",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 5-D (antidepressivos).",
+  "coment": "O MPPCVA afirma que a grande maioria dos antidepressivos, quando usados CORRETAMENTE, NÃO aumenta o risco de sinistros, e alguns estudos sugerem até “efeito protetor” por reduzir o comprometimento psicomotor e cognitivo da própria depressão. Por outro lado, a depressão, os antidepressivos, ou a combinação de depressão residual e efeitos colaterais podem representar risco; quando prescritos com OUTROS PSICOTRÓPICOS, o potencial de prejuízo AUMENTA significativamente; e — ponto de prova — a DESCONTINUAÇÃO ABRUPTA de qualquer antidepressivo está associada à ocorrência de sinistros automobilísticos. Entre as classes, os tricíclicos têm maior risco relativo (sobretudo em idosos); os ISRS são em geral bem tolerados, mas exigem atenção à sedação, à redução do limiar convulsivo e à hipotensão postural.",
+  "porAlt": [
+   "Correta: a diretriz associa a descontinuação abrupta de qualquer antidepressivo a sinistros.",
+   "A diretriz diz o contrário: usados corretamente, a maioria não aumenta o risco de sinistro.",
+   "A associação com outros psicotrópicos aumenta significativamente o potencial de prejuízo.",
+   "Os ISRS são em geral bem tolerados; os tricíclicos concentram sedação e maior risco.",
+   "A depressão residual somada aos efeitos colaterais também pode representar risco ao dirigir."
+  ]
+ },
+ {
+  "q": "Motorista profissional com lombalgia aguda pergunta qual analgésico interfere menos na direção. Segundo o MPPCVA da ABRAMET, que opção não demonstrou comprometimento significativo em testes cognitivos e psicomotores?",
+  "alts": [
+   "Ciclobenzaprina associada ao paracetamol à noite",
+   "Codeína associada ao paracetamol de 6 em 6 horas",
+   "Carisoprodol em dose única tomada antes de deitar",
+   "Opioide fraco na primeira semana de tratamento",
+   "Anti-inflamatório não esteroide ou paracetamol"
+  ],
+  "gab": 4,
+  "tema": "drogas",
+  "sub": "Analgésicos e direção",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), itens 5-A (analgésicos) e 5-B (relaxantes musculares).",
+  "coment": "O MPPCVA registra que testes laboratoriais do desempenho cognitivo e das habilidades psicomotoras NÃO demonstram comprometimento significativo em motoristas em uso de anti-inflamatórios não esteroides (AINEs) ou paracetamol, e que usuários de ácido acetilsalicílico não se envolvem mais significativamente em sinistros. Já os opioides têm relação estatisticamente significativa com sinistros, com risco maior no início da terapia, no primeiro uso e em combinação com outros psicoativos. Os relaxantes musculares são armadilha comum na lombalgia: o carisoprodol causa sedação, raciocínio lento e falha de atenção, com risco aumentado já na primeira semana; a ciclobenzaprina causa fadiga, sonolência, visão turva, ataxia e confusão, e poucos condutores se sentem inseguros para dirigir.",
+  "porAlt": [
+   "A ciclobenzaprina causa sonolência, visão turva e ataxia, com prejuízo frequente.",
+   "A codeína é opioide, classe com relação significativa com sinistros de trânsito.",
+   "O carisoprodol causa sedação e aumenta o risco de sinistro já na primeira semana.",
+   "Opioides têm risco maior justamente no início da terapia e no primeiro uso.",
+   "Correta: AINEs e paracetamol não mostraram comprometimento significativo nos testes."
+  ]
+ },
+ {
+  "q": "Segundo o MPPCVA, o condutor que usa medicamento psicoativo lícito para tratar doença não incorre em prática ilegal pelo art. 165 do CTB. Se o fármaco o deixar com incapacidade temporária que comprometa a segurança, qual dispositivo do CTB a diretriz aponta?",
+  "alts": [
+   "Art. 165, infração gravíssima: dirigir sob influência de substância psicoativa lícita",
+   "Art. 252, III, infração gravíssima: dirigir com incapacidade física ou mental temporária",
+   "Art. 252, III, infração média: dirigir com incapacidade física ou mental temporária",
+   "Art. 306, crime: conduzir com capacidade psicomotora alterada por remédio controlado",
+   "Art. 165-C, infração gravíssima: dirigir com resultado positivo no exame toxicológico"
+  ],
+  "gab": 2,
+  "tema": "drogas",
+  "sub": "Medicamento lícito e CTB",
+  "base": "Diretriz ABRAMET sobre medicamentos e condução veicular (MPPCVA, 2023), item 7-II (legislação brasileira); CTB, art. 252, III.",
+  "coment": "O MPPCVA observa que o CTB não dispõe especificamente sobre medicamentos e direção. Os que contêm substâncias psicoativas que causam dependência poderiam ser enquadrados no art. 165, mas o motorista que utiliza substâncias psicoativas de uso lícito para tratar doenças NÃO incorre em prática ilegal, apesar do risco inerente. A diretriz ressalta, porém, que o art. 252, III, do CTB considera infração dirigir com incapacidade física ou mental temporária que comprometa a segurança do trânsito — infração de natureza MÉDIA, com penalidade de multa. Atenção: essa leitura é da diretriz, não do CTB, que não distingue substância lícita de ilícita; e a Resolução CONTRAN nº 1.031/2026 não prevê exceção para o uso prescrito quando o teste em aparelho der positivo (arts. 8º, II, e 9º, II). Na comparação internacional, a União Europeia não emite habilitação a quem usa substâncias psicotrópicas, a Nova Zelândia usa dois níveis sanguíneos e o Reino Unido pune quando há prejuízo do desempenho.",
+  "porAlt": [
+   "O MPPCVA diz que o uso lícito para tratamento não configura prática ilegal pelo art. 165.",
+   "O dispositivo está certo, mas o art. 252 é infração de natureza média, não gravíssima.",
+   "Correta: a diretriz aponta o art. 252, III — incapacidade temporária, infração média.",
+   "O MPPCVA não enquadra o uso lícito de medicamento no crime do art. 306.",
+   "O art. 165-C trata do toxicológico do art. 148-A, não da incapacidade por medicamento."
+  ]
+ },
+ {
+  "q": "Em teste de duas horas de direção contínua citado na Diretriz ABRAMET sobre benzodiazepínicos, o que ocorreu com os motoristas após a ingestão de 5 mg de diazepam?",
+  "alts": [
+   "41,7% foram julgados incapazes de prosseguir dirigindo e instruídos a parar",
+   "13,5% foram julgados incapazes de prosseguir dirigindo e instruídos a parar",
+   "41,7% tiveram piora do SDLP, mas o grupo inteiro concluiu as 2 horas de direção",
+   "Nenhum foi instruído a parar, pois 5 mg é dose sem efeito sobre a condução",
+   "90% foram julgados incapazes de prosseguir dirigindo e instruídos a parar"
+  ],
+  "gab": 0,
+  "tema": "drogas",
+  "sub": "Diazepam e direção contínua",
+  "base": "Diretriz ABRAMET/AMB/CFM “Uso de benzodiazepínicos e risco de acidente de trânsito” (2012), item 2.",
+  "coment": "A Diretriz ABRAMET sobre benzodiazepínicos relata que, em testes programados para 2 horas de direção contínua, com a ingestão de 5 mg de diazepam, 41,7% dos motoristas foram julgados INCAPAZES de prosseguir dirigindo e instruídos a PARAR. Os benzodiazepínicos são a categoria de medicamentos mais solidamente documentada quanto ao prejuízo na condução: alterações cognitivas, déficits de percepção visual e de antecipação, incoordenação, aumento do tempo de reação para frenagem e dificuldade de manter o posicionamento na via (SDLP). Estudos de tolerância mostraram prejuízo apenas nas três primeiras semanas quanto ao desvio lateral e apenas na primeira semana quanto ao controle da velocidade. No MPPCVA, o DRUID dá ao diazepam 5 mg grau 17 e a 10 mg grau 57, e o ICADTS o põe na categoria III.",
+  "porAlt": [
+   "Correta: com 5 mg de diazepam, 41,7% foram julgados incapazes e instruídos a parar.",
+   "13,5 é o risco de hospitalização com benzodiazepínico ansiolítico, não este percentual.",
+   "O estudo relata interrupção da direção em 41,7% dos motoristas, não só piora do SDLP.",
+   "Mesmo 5 mg de diazepam fez 41,7% dos motoristas serem instruídos a parar.",
+   "O percentual relatado é de 41,7%, e não de 90% dos motoristas avaliados."
+  ]
+ }
+]

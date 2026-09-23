@@ -1,0 +1,552 @@
+[
+ {
+  "q": "Motorista de 30 anos com TDAH, em uso regular de metilfenidato, com boa aderência, parecer favorável do psiquiatra e sem comorbidades, pede mudança para a categoria D. Segundo o fluxograma da Diretriz ABRAMET sobre TDAH, qual é o resultado e o prazo de validade do exame?",
+  "alts": [
+   "Inapto na categoria D, pois a diretriz restringe a pessoa com TDAH às categorias ACC, A e B",
+   "Apto na categoria D, com validade de 2 anos na 1ª aprovação e de até 5 anos a cada renovação",
+   "Apto somente na categoria B, com validade de 1 ano na 1ª aprovação e 2 anos nas renovações",
+   "Apto na categoria D, com validade de 2 anos na 1ª aprovação e de 3 anos a cada renovação",
+   "Inapto temporário na categoria D, até avaliação psicológica obrigatória com resultado apto"
+  ],
+  "gab": 3,
+  "tema": "psiq",
+  "sub": "TDAH: categorias C, D e E",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), item 15 (Fluxograma)",
+  "coment": "O fluxograma da diretriz de TDAH é binário na aptidão: EM USO de medicação para TDAH, com ADERÊNCIA à terapêutica e PARECER FAVORÁVEL do assistente, o candidato é APTO nas categorias ACC, A, B, C, D e E — a diretriz não restringe a categoria. O que muda é a validade do exame: condutores ACC, A e B sem comorbidades, 2 anos na 1ª aprovação e prazo igual ou inferior a 5 anos a cada renovação; condutores C, D e E (e ACC, A, B com comorbidades pertinentes ao TDAH), 2 ANOS na 1ª aprovação e 3 ANOS a cada renovação. A avaliação psicológica é complementar, a critério médico.",
+  "porAlt": [
+   "O fluxograma libera ACC, A, B, C, D e E ao candidato tratado e aderente.",
+   "Até 5 anos por renovação é o prazo de ACC, A e B sem comorbidades.",
+   "Não há restrição à categoria B nem validade de 1 ano no fluxograma do TDAH.",
+   "Correta: C, D e E seguem 2 anos na primeira aprovação e 3 anos a cada renovação.",
+   "A avaliação psicológica é a critério médico e não condiciona a aptidão."
+  ]
+ },
+ {
+  "q": "Estudante de 19 anos com TDAH, em uso regular de medicação, com boa aderência, parecer favorável e sem comorbidades, pede a primeira habilitação na categoria B. Segundo o fluxograma da Diretriz ABRAMET sobre TDAH, qual é o prazo de validade do exame?",
+  "alts": [
+   "2 anos nesta 1ª aprovação e, nas renovações, prazo fixo de 3 anos a cada vez",
+   "2 anos nesta 1ª aprovação e, nas renovações, prazo igual ou inferior a 5 anos",
+   "1 ano nesta 1ª aprovação e, nas renovações, prazo fixo de 2 anos a cada vez",
+   "Prazo normal do CTB desde a 1ª aprovação, pela ausência de comorbidades nele",
+   "3 anos nesta 1ª aprovação e, nas renovações, prazo igual ou inferior a 5 anos"
+  ],
+  "gab": 1,
+  "tema": "psiq",
+  "sub": "TDAH: validade em ACC, A e B",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), itens 13 e 15 (Fluxograma)",
+  "coment": "O item 13 manda o médico do tráfego, no caso de aptidão, DIMINUIR O PRAZO DE VALIDADE do exame. O fluxograma quantifica: condutores ACC, A e B (sem comorbidades pertinentes ao TDAH) — 2 ANOS na 1ª aprovação e prazo IGUAL OU INFERIOR A 5 ANOS a cada renovação; condutores ACC, A e B com comorbidades pertinentes ao TDAH e condutores C, D e E — 2 anos na 1ª aprovação e 3 anos a cada renovação. Mesmo sem comorbidades, portanto, não se usa o prazo normal do CTB.",
+  "porAlt": [
+   "Prazo fixo de 3 anos por renovação é o de C, D, E ou de quem tem comorbidades.",
+   "Correta: é a coluna de ACC, A e B sem comorbidades do fluxograma.",
+   "O fluxograma não prevê 1 ano na primeira aprovação nem 2 anos fixos depois.",
+   "O item 13 manda reduzir o prazo de validade em todo candidato apto com TDAH.",
+   "A primeira aprovação é de 2 anos, e não de 3 anos, no fluxograma do TDAH."
+  ]
+ },
+ {
+  "q": "Candidato de 25 anos informa ter TDAH. O relatório do psiquiatra confirma o diagnóstico, informa que ele não usa medicação há 2 anos, por opção própria, e dá parecer favorável à direção. Segundo o fluxograma da Diretriz ABRAMET sobre TDAH, qual é o resultado?",
+  "alts": [
+   "Apto nas categorias ACC, A e B, pois o parecer favorável do psiquiatra supre o fármaco",
+   "Inapto, pois o fluxograma exige uso de medicação e aderência, além do parecer favorável",
+   "Apto em todas as categorias, com validade de 2 anos na primeira aprovação e 3 nas renovações",
+   "Apto somente na categoria B, com avaliação psicológica obrigatória em todas as renovações",
+   "Inapto temporário por 12 meses, prazo após o qual o fluxograma dispensa o relatório médico"
+  ],
+  "gab": 1,
+  "tema": "psiq",
+  "sub": "TDAH sem medicação",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), itens 9, 15 (Fluxograma) e 17",
+  "coment": "O fluxograma tem dois ramos após o relatório padronizado: (1) EM USO de medicação para TDAH, com aderência e parecer favorável — APTO; (2) NÃO UTILIZA MEDICAÇÃO para TDAH, OU não adere à terapêutica, OU tem parecer desfavorável — INAPTO. O parecer favorável isolado não basta. A lógica está no item 9: estudos comprovam direção mais segura quando a pessoa com TDAH está medicada, e condutores tratados têm quase 70% menos probabilidade de sinistro diante de eventos inesperados; a primeira orientação do item 17 é 'não dirija se não estiver medicado'. O fluxograma usa 'inapto', e não 'inapto temporário'.",
+  "porAlt": [
+   "O parecer favorável não supre a falta de medicação no fluxograma.",
+   "Correta: sem medicação o candidato cai no ramo 'inapto' do fluxograma.",
+   "A aptidão exige uso de medicação e aderência, que faltam no caso.",
+   "Não há via de aptidão restrita à categoria B para quem não se trata.",
+   "O fluxograma não prevê prazo de 12 meses nem dispensa do relatório."
+  ]
+ },
+ {
+  "q": "Condutor de 29 anos com TDAH, em uso regular de medicação, aderente e com parecer favorável do psiquiatra, relata na anamnese que se envolveu em ocorrência grave de trânsito há 8 meses. Segundo o fluxograma da Diretriz ABRAMET sobre TDAH, qual é o resultado?",
+  "alts": [
+   "Apto, pois o fluxograma considera só a medicação, a aderência e o parecer do assistente",
+   "Inapto, pois a ocorrência grave de trânsito nos últimos 24 meses conduz a esse resultado",
+   "Inapto, pois a ocorrência grave de trânsito nos últimos 12 meses conduz a esse resultado",
+   "Apto com restrição de dirigir após o pôr do sol, até completar 12 meses do último evento",
+   "Apto, com avaliação psicológica obrigatória e validade de 1 ano, pela ocorrência relatada"
+  ],
+  "gab": 2,
+  "tema": "psiq",
+  "sub": "TDAH: ocorrência grave de trânsito",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), item 15 (Fluxograma)",
+  "coment": "No fluxograma da diretriz, além do ramo 'não utiliza medicação, não adere ou parecer desfavorável', há um terceiro gatilho que aponta para INAPTO: 'OCORRÊNCIA GRAVE DE TRÂNSITO NOS ÚLTIMOS 12 MESES'. Assim, mesmo o candidato tratado, aderente e com parecer favorável não é liberado se houver ocorrência grave nesse período. O dado conversa com a epidemiologia descrita pela diretriz: condutores com TDAH são, na maioria das vezes, os culpados nos sinistros em que se envolvem e cometem mais infrações. A pergunta nº 8 do questionário do Anexo I (acidente de trânsito) e a anamnese são as portas de entrada da informação.",
+  "porAlt": [
+   "O fluxograma tem um terceiro gatilho de inaptidão: a ocorrência grave recente.",
+   "A janela do fluxograma é de 12 meses, e não de 24 meses.",
+   "Correta: o fluxograma liga a ocorrência grave nos últimos 12 meses ao resultado inapto.",
+   "Não há restrição U na diretriz de TDAH; a ocorrência leva à inaptidão.",
+   "A ocorrência grave nos últimos 12 meses leva a inapto, não a apto."
+  ]
+ },
+ {
+  "q": "No relatório padronizado da Diretriz ABRAMET sobre TDAH, que período de aderência ao tratamento é perguntado ao médico assistente, e que opção ele tem no campo do parecer sobre a direção?",
+  "alts": [
+   "Boa aderência há pelo menos 6 meses; no parecer, é obrigado a marcar sim ou não",
+   "Boa aderência há pelo menos 24 meses; no parecer, pode marcar 'prefiro não opinar'",
+   "Boa aderência há pelo menos 12 meses; no parecer, é obrigado a marcar sim ou não",
+   "Dosagem sérica do estimulante em uso; no parecer, pode indicar as categorias liberadas",
+   "Boa aderência há pelo menos 12 meses; no parecer, pode marcar 'prefiro não opinar'"
+  ],
+  "gab": 4,
+  "tema": "psiq",
+  "sub": "TDAH: relatório padronizado",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), itens 13, 14 (Relatório) e 15",
+  "coment": "O relatório padronizado da diretriz de TDAH (CID 10 – F90), a ser solicitado preferencialmente a neurologista ou psiquiatra, pede subtipo, comorbidades, tratamento, suspensão de medicamentos, 'BOA ADERÊNCIA AO TRATAMENTO HÁ PELO MENOS 12 MESES: sim/não' e o parecer favorável ao ato de dirigir sob o ponto de vista clínico e farmacológico, com três opções: sim, não e 'PREFIRO NÃO OPINAR'. Uma nota do fluxograma registra que o item não é obrigatório caso o assistente opte por não opinar. O relatório não pede dosagem sérica, e a decisão final sobre a aptidão e as categorias é do médico perito.",
+  "porAlt": [
+   "O modelo pergunta aderência de 12 meses e admite 'prefiro não opinar'.",
+   "O período perguntado é de 12 meses, e não de 24 meses.",
+   "O período está certo, mas o modelo admite a opção 'prefiro não opinar'.",
+   "O relatório não pede dosagem sérica nem a indicação de categorias.",
+   "Correta: 12 meses de aderência e a opção 'prefiro não opinar' constam do modelo."
+  ]
+ },
+ {
+  "q": "Comparando as Diretrizes ABRAMET sobre TDAH e sobre TEA, como fica a avaliação psicológica do condutor apto nas renovações da CNH?",
+  "alts": [
+   "No TDAH é exigida em todas as renovações; no TEA é complementar e a critério médico",
+   "Em ambas é exigida só na primeira habilitação, como para qualquer condutor sem EAR",
+   "Em ambas é exigida em todas as renovações, por serem transtornos do neurodesenvolvimento",
+   "Em ambas fica vedada nas renovações, cabendo só ao perito médico avaliar a atenção",
+   "No TDAH é complementar e a critério médico; no TEA é exigida em todas as renovações"
+  ],
+  "gab": 4,
+  "tema": "psiq",
+  "sub": "Avaliação psicológica: TDAH × TEA",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), item 13; Diretriz ABRAMET — TEA e habilitação para a direção de veículos automotores, Do resultado",
+  "coment": "As duas diretrizes tratam de transtornos do neurodesenvolvimento, mas divergem neste ponto. Na de TDAH (item 13), o médico do tráfego deve 'considerar avaliação psicológica complementar na renovação da CNH para melhor testagem da função atencional (A CRITÉRIO MÉDICO, NÃO OBRIGATÓRIA)'. Na de TEA, 'a avaliação psicológica DEVERÁ SER EXIGIDA na permissão para dirigir e EM TODAS AS RENOVAÇÕES da CNH' para a aprovação do candidato ou condutor com TEA. A regra geral do CTB (art. 147, § 3º) exige avaliação psicológica só na primeira habilitação, salvo para quem exerce atividade remunerada, e as diretrizes ajustam isso ao caso clínico.",
+  "porAlt": [
+   "Inverte as diretrizes: a obrigatoriedade em todas as renovações é a do TEA.",
+   "A diretriz de TEA exige a avaliação em todas as renovações da CNH.",
+   "Na diretriz de TDAH a avaliação é complementar e não obrigatória.",
+   "Nenhuma das duas veda a avaliação psicológica nas renovações.",
+   "Correta: é a distinção literal entre as duas diretrizes."
+  ]
+ },
+ {
+  "q": "Caminhoneiro da categoria E com TDAH, em tratamento com sais de anfetamina prescritos, tem resultado positivo no exame toxicológico de larga janela de detecção. Segundo a Diretriz ABRAMET sobre TDAH, qual é o caminho correto?",
+  "alts": [
+   "Suspender o estimulante 90 dias antes da coleta, pois o uso lícito não afasta o resultado",
+   "Aceitar a suspensão de 3 meses, pois o resultado positivo não admite justificativa médica",
+   "Apresentar o laudo ao perito do exame de aptidão, que revê o resultado do laboratório",
+   "Apresentar ao laboratório laudo médico do uso prescrito, para análise pelo Médico Revisor",
+   "Refazer a coleta em outro laboratório, já que o fármaco prescrito não é detectado no exame"
+  ],
+  "gab": 3,
+  "tema": "psiq",
+  "sub": "TDAH e exame toxicológico",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), item 16",
+  "coment": "O item 16 lembra que condutores C, D e E devem comprovar resultado negativo no exame toxicológico de larga janela (CTB, art. 148-A) e que o positivo acarreta suspensão do direito de dirigir por 3 meses. Anfetaminas e metilfenidato usados no tratamento do TDAH SÃO DETECTADOS. Nesse caso, o condutor deve apresentar LAUDO MÉDICO que comprove o uso lícito da substância controlada, prescrita por profissional habilitado, AO LABORATÓRIO credenciado pela SENATRAN — na coleta ou depois do resultado, com data compatível e informando desde quando ocorre o uso. O MÉDICO REVISOR do laboratório compara prescrição e resultado e, havendo compatibilidade, emite laudo que afasta o uso indiscriminado ou recreativo.",
+  "porAlt": [
+   "A diretriz não manda suspender o tratamento; o uso lícito é comprovado por laudo.",
+   "O uso prescrito admite justificativa por laudo médico, analisado pelo Médico Revisor.",
+   "O laudo vai ao laboratório credenciado, e quem analisa é o Médico Revisor.",
+   "Correta: é o procedimento do item 16: laudo ao laboratório e análise do Médico Revisor.",
+   "O item 16 afirma que anfetaminas e metilfenidato são detectados no exame."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre TDAH, em que situação de tráfego o condutor com TDAH tende a apresentar o PIOR desempenho?",
+  "alts": [
+   "Em percursos urbanos com trânsito intenso, pelo excesso de estímulos simultâneos na via",
+   "Em longas distâncias em rodovias pouco movimentadas, pela monotonia que favorece a FAC",
+   "Em veículos com câmbio manual, pela demanda extra de tarefas durante a condução veicular",
+   "Em trajetos curtos e já conhecidos, pela tendência a subestimar os riscos do caminho",
+   "No período da manhã, pelo pico de ação do estimulante tomado logo após o despertar"
+  ],
+  "gab": 1,
+  "tema": "psiq",
+  "sub": "TDAH: nível de demanda",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), itens 6 e 7",
+  "coment": "O item 6 descreve um efeito contraintuitivo: condutores com TDAH têm MELHOR desempenho em percursos urbanos com trânsito intenso e PIOR quando conduzem por LONGAS DISTÂNCIAS EM RODOVIAS POUCO MOVIMENTADAS — a 'monotonia' que propicia a falha de atenção ao conduzir (FAC), mais prevalente quando não medicados. Estudos naturalísticos atribuíram a 'direção perigosa' à condução 'enfadonha', e tarefas secundárias (celular, viva-voz) prejudicam ainda mais nas condições de baixa demanda cognitiva. Pelo mesmo motivo, o item 7 relata melhor desempenho com câmbio manual, e a diretriz recomenda evitar o piloto automático.",
+  "porAlt": [
+   "O trânsito urbano intenso é a condição de melhor desempenho.",
+   "Correta: o item 6 aponta a rodovia monótona como a pior condição.",
+   "O câmbio manual melhorou o desempenho, segundo o item 7.",
+   "A diretriz não descreve pior desempenho em trajetos curtos.",
+   "A diretriz não relaciona o pior desempenho a um horário do dia."
+  ]
+ },
+ {
+  "q": "A Diretriz ABRAMET sobre TDAH (2023) atribui à Resolução CONTRAN nº 789/2020 o dobro do tempo no exame escrito para o candidato com TDAH. Qual é hoje a situação dessa resolução e da regra?",
+  "alts": [
+   "Foi revogada pela Resolução 927/2022, que passou a dispensar do exame teórico o candidato com TDAH",
+   "Continua vigente e garante o dobro do tempo e o uso de software específico no exame escrito",
+   "Foi revogada pela Resolução 1.020/2025, que trocou o tempo dobrado por prova oral para o TDAH",
+   "Foi revogada pela Lei nº 15.428/2026, que deixou ao perito médico a adaptação da prova teórica",
+   "Foi revogada pela Resolução 1.020/2025, que obriga a dobrar a duração do exame teórico no TDAH"
+  ],
+  "gab": 4,
+  "tema": "psiq",
+  "sub": "TDAH: exame teórico (Res. 789/2020 revogada)",
+  "base": "Resolução CONTRAN nº 1.020/2025, art. 33, § 2º, e art. 140, IV; Resolução CONTRAN nº 927/2022, art. 31; Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), item 12",
+  "coment": "O item 12 da diretriz de TDAH (2023) registra que, pela Resolução CONTRAN nº 789/2020, o candidato que comprovasse TDAH, dislexia ou deficiência auditiva no exame de aptidão física e mental teria o dobro do tempo do exame escrito e a possibilidade de software específico. Essa resolução foi REVOGADA pelo art. 140, IV, da Resolução CONTRAN nº 1.020/2025 (DOU de 09/12/2025, em vigor na publicação), que hoje normatiza a formação de condutores. Pelo art. 33, § 2º, da 1.020, a duração dos exames teóricos é de, no mínimo, uma hora, sendo OBRIGATORIAMENTE DOBRADA para candidatos com dislexia, TDAH ou TEA; o exame tem trinta questões (§ 1º) e exige vinte acertos (art. 34). A Resolução 927/2022 não tratou do tema: seu art. 31 revogou só as Resoluções 425/2012, 474/2014 e 500/2014. Lição: neste ponto a diretriz ficou desatualizada.",
+  "porAlt": [
+   "A 927/2022 revogou só as Resoluções 425, 474 e 500 (art. 31), e não dispensou o exame teórico.",
+   "A 789/2020 foi revogada pelo art. 140, IV, da Resolução CONTRAN nº 1.020/2025.",
+   "A 1.020/2025 manteve o exame teórico e dobrou sua duração; não criou prova oral.",
+   "A Lei 15.428/2026 só revogou os §§ 6º e 7º do art. 147 do CTB; não tratou da prova teórica.",
+   "Correta: art. 140, IV (revogação) e art. 33, § 2º (duração dobrada) da Resolução 1.020/2025."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre TDAH, qual transtorno mais se assemelha ao TDAH no diagnóstico diferencial do adulto, e que dado ajuda a distingui-los?",
+  "alts": [
+   "A esquizofrenia paranoide; o estimulante melhora ambos, mas só o TDAH começa na infância",
+   "A ansiedade generalizada; o benzodiazepínico melhora o TDAH, mas agrava a ansiedade",
+   "A depressão maior; o tricíclico melhora a depressão, mas agrava o TDAH no adulto jovem",
+   "O transtorno de personalidade borderline; o estimulante melhora ambos de forma igual",
+   "O transtorno bipolar em mania; o estimulante melhora o TDAH, mas pode agravar a mania"
+  ],
+  "gab": 4,
+  "tema": "psiq",
+  "sub": "TDAH: diagnóstico diferencial",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), item 4",
+  "coment": "O item 4 lista os diagnósticos diferenciais do TDAH no adulto (depressão, transtorno do humor bipolar, transtornos ansiosos, transtornos de personalidade, abuso de substâncias e transtornos psicóticos) e afirma que o que MAIS SE ASSEMELHA é o TRANSTORNO DE HUMOR BIPOLAR NA FASE DE MANIA. A distinção: no TDAH há melhora significativa com estimulante, como o metilfenidato; em bipolares, o mesmo fármaco pode INDUZIR OU AGRAVAR irritabilidade, mania e agitação. As comorbidades ocorrem em cerca de 70% dos casos, o que dificulta o diagnóstico. SAOS, epilepsia e fármacos como benzodiazepínicos também podem 'mimetizar' o TDAH.",
+  "porAlt": [
+   "O diferencial mais próximo é a mania bipolar; na esquizofrenia exclui-se o TDAH.",
+   "Benzodiazepínicos aparecem como fármacos que mimetizam o TDAH, não o tratam.",
+   "A depressão é diferencial, mas não é o quadro mais semelhante ao TDAH.",
+   "O borderline é diferencial, e a diretriz não diz que o estimulante melhora ambos.",
+   "Correta: é o diferencial e o critério apontados no item 4."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre TDAH, quais subtipos são os mais propensos a comportamentos inadequados ao volante, como excesso de velocidade, permanência na faixa da esquerda e acessos de raiva (road rage)?",
+  "alts": [
+   "Os subtipos hiperativo-impulsivo e combinado do DSM-5",
+   "Os subtipos predominantemente desatento e combinado",
+   "Somente o subtipo predominantemente desatento do DSM-5",
+   "Os subtipos desatento e hiperativo-impulsivo do DSM-5",
+   "O subtipo combinado isolado, o mais comum pelo DSM-5"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "TDAH: subtipos e risco",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), itens 2 e 5",
+  "coment": "O item 5 afirma que pessoas com TDAH dos tipos HIPERATIVO-IMPULSIVO E COMBINADO são as mais propensas a comportamentos inapropriados na direção: excesso de velocidade, permanência na faixa da esquerda, acessos de raiva e agressão (road rage). Gravidade, idade, gênero, comorbidades e fatores compensatórios (inteligência, compreensão da doença, experiência) modificam o risco caso a caso. Pelo DSM-5 (item 2), os subtipos são predominantemente desatento (27%), predominantemente hiperativo-impulsivo (18%) e combinado (55%, o mais comum). Estudo em simulador concluiu que o prejuízo se liga mais às emoções (raiva e frustração) do que à desatenção.",
+  "porAlt": [
+   "Correta: o item 5 aponta os subtipos hiperativo-impulsivo e combinado.",
+   "O desatento não está entre os subtipos apontados como mais propensos.",
+   "O desatento isolado não é o subtipo mais ligado a esses comportamentos.",
+   "Inclui o desatento e omite o combinado, que integra o grupo de risco.",
+   "O combinado é o mais comum, mas o hiperativo-impulsivo também é apontado."
+  ]
+ },
+ {
+  "q": "Condutor com TDAH tratado com metilfenidato pergunta se pode reduzir a dose por conta própria nos dias em que vai viajar de carro. Segundo a Diretriz ABRAMET sobre TDAH, qual é o risco dessa conduta?",
+  "alts": [
+   "Nenhum, pois a redução da dose melhora a atenção sustentada em estradas monótonas",
+   "Sonolência excessiva diurna, principal efeito da retirada abrupta dos estimulantes",
+   "Efeito rebote, com sintomas antes controlados voltando com gravidade até maior",
+   "Positividade no exame toxicológico, que detecta a variação da dose do estimulante",
+   "Nenhum, pois o efeito do metilfenidato persiste por semanas após reduzir a dose"
+  ],
+  "gab": 2,
+  "tema": "psiq",
+  "sub": "TDAH: efeito rebote",
+  "base": "Diretriz ABRAMET — TDAH e condução de veículos automotores (2023), itens 9 e 17",
+  "coment": "O item 9 afirma que a SUSPENSÃO da medicação ou a REDUÇÃO DA DOSE podem provocar 'EFEITO REBOTE', com surgimento de sintomas que estavam ausentes ou controlados, com GRAVIDADE MAIOR do que quando o tratamento foi iniciado. Somado a isso, o condutor com TDAH tem pior desempenho justamente em longas distâncias em rodovias pouco movimentadas (item 6). Por isso os médicos do tráfego devem alertar sobre o alto risco de dirigir sem tratamento adequado, e a primeira orientação do item 17 é 'não dirija se não estiver medicado'. O exame toxicológico detecta a substância, não a variação de dose.",
+  "porAlt": [
+   "A redução da dose traz risco; a monotonia da estrada já é a pior condição.",
+   "A diretriz descreve o efeito rebote, e não a sonolência, na retirada.",
+   "Correta: o item 9 descreve o efeito rebote na redução ou suspensão do fármaco.",
+   "O exame toxicológico detecta a substância, não a variação da dose.",
+   "A diretriz não afirma efeito que persista semanas após a redução."
+  ]
+ },
+ {
+  "q": "Candidato de 20 anos com transtorno do espectro autista, sem déficit intelectual, traz relatório do psiquiatra assinalando que ele demonstra dificuldade para lidar com as multitarefas necessárias à direção segura. Segundo a Diretriz ABRAMET sobre TEA, qual é o resultado?",
+  "alts": [
+   "Inapto, pois a dificuldade com multitarefas é condição de inaptidão prevista na diretriz",
+   "Apto com prazo de validade reduzido, pois não há déficit intelectual moderado ou grave",
+   "Apto, pois o TEA não é deficiência intelectual e não há restrição legal ao autista no Brasil",
+   "Inapto temporário, até que ele apresente nova avaliação psicológica com resultado apto",
+   "Apto com restrição de dirigir em rodovias e vias de trânsito rápido (letra T do Anexo XV)"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "TEA: condições de inaptidão",
+  "base": "Diretriz ABRAMET — TEA e habilitação para a direção de veículos automotores, Do resultado e modelo de relatório",
+  "coment": "A diretriz de TEA lista condições que, isoladas ou somadas, levam a INAPTO: déficit intelectual moderado ou grave; disfunções que possam afetar a tomada de decisões, o processamento de informações e a atenção; e DIFICULDADES PARA LIDAR COM AS MULTITAREFAS necessárias à direção segura. Basta 'uma ou mais'. Por isso o relatório padronizado (a ser preenchido por neurologista ou psiquiatra) pergunta exatamente: 'O paciente demonstra dificuldades para lidar com multitarefas, necessárias para uma direção veicular segura?'. Não haver restrição legal ao autista no Brasil não impede a inaptidão quando o exame identifica essas condições.",
+  "porAlt": [
+   "Correta: a dificuldade com multitarefas basta para a inaptidão na diretriz.",
+   "A ausência de déficit intelectual não afasta as demais condições de inaptidão.",
+   "Não haver restrição legal não impede a inaptidão pelas condições da diretriz.",
+   "A diretriz fala em inapto, não em inapto temporário condicionado a psicológica.",
+   "A diretriz não prevê a restrição T como solução para essa condição."
+  ]
+ },
+ {
+  "q": "Candidata de 23 anos com transtorno do espectro autista, sem déficit intelectual, sem disfunções de decisão, processamento ou atenção, sem dificuldade com multitarefas e sem crises convulsivas, pede a primeira habilitação. Segundo a Diretriz ABRAMET sobre TEA, qual é o resultado?",
+  "alts": [
+   "Apta, com o prazo de validade normal e avaliação psicológica restrita à primeira habilitação",
+   "Apta somente na categoria B, com validade de 1 ano e relatório psiquiátrico a cada renovação",
+   "Apta, com validade reduzida a critério do perito e avaliação psicológica em todas as renovações",
+   "Inapta temporária, pois o TEA exige 12 meses de acompanhamento antes da primeira habilitação",
+   "Apta, com validade reduzida a critério do perito e encaminhamento obrigatório à Junta Médica Especial"
+  ],
+  "gab": 2,
+  "tema": "psiq",
+  "sub": "TEA: aptidão",
+  "base": "Diretriz ABRAMET — TEA e habilitação para a direção de veículos automotores, Do resultado",
+  "coment": "Na ausência das condições de inaptidão (déficit intelectual moderado ou grave, disfunções de tomada de decisão, processamento de informações e atenção, dificuldade com multitarefas), 'o candidato com TEA poderá ser considerado APTO, com DIMINUIÇÃO DO PRAZO DE VALIDADE do exame, a critério do médico perito examinador'. E 'a AVALIAÇÃO PSICOLÓGICA deverá ser exigida na permissão para dirigir e EM TODAS AS RENOVAÇÕES da CNH'. Havendo episódios convulsivos, o perito segue a diretriz e a resolução de epilepsia. A diretriz não restringe a categoria nem fixa prazo numérico, e não prevê encaminhamento à Junta Médica Especial, própria da deficiência física.",
+  "porAlt": [
+   "A diretriz manda reduzir a validade e exigir psicológica em todas as renovações.",
+   "A diretriz não restringe a categoria nem fixa validade de 1 ano.",
+   "Correta: reproduz as duas consequências da aptidão previstas na diretriz de TEA.",
+   "Não há exigência de 12 meses de acompanhamento na diretriz de TEA.",
+   "A diretriz não prevê encaminhamento à JME para o candidato com TEA."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre TEA, por que a epilepsia deve ser sempre considerada, atentamente, no processo de habilitação da pessoa com TEA?",
+  "alts": [
+   "Sua prevalência no TEA varia de 7 a 42%, contra cerca de 1% na população geral",
+   "Sua prevalência no TEA varia de 1 a 3%, contra cerca de 0,1% na população geral",
+   "Os fármacos usados no TEA baixam o limiar convulsivo em quase todos os usuários",
+   "Sua prevalência no TEA é de 60%, risco que por si só firma o diagnóstico da ILAE",
+   "Sua prevalência no TEA varia de 20 a 80%, contra cerca de 5% na população geral"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "TEA e epilepsia",
+  "base": "Diretriz ABRAMET — TEA e habilitação para a direção de veículos automotores, item 4 (Não há restrições legais)",
+  "coment": "A diretriz afirma que, embora não existam leis que impeçam a pessoa com TEA de se habilitar, há preocupações de segurança: enquanto na população geral a prevalência de epilepsia é de 1%, em pessoas com TEA ela 'PODE VARIAR DE 7 A 42%', devendo essa comorbidade ser sempre considerada, atentamente, no processo de habilitação. Havendo episódios convulsivos, o perito deve se reportar às condições da diretriz de epilepsia e da Resolução do CONTRAN. A diretriz também lembra que, em média, uma em cada cem crianças tem TEA e que o TEA não é deficiência intelectual.",
+  "porAlt": [
+   "Correta: reproduz a faixa de 7 a 42% contra 1% citada pela diretriz.",
+   "A diretriz cita 7 a 42% no TEA e 1% na população geral.",
+   "A diretriz justifica pela prevalência, não por efeito de fármacos.",
+   "60% é o risco da definição ILAE, não a prevalência de epilepsia no TEA.",
+   "Os números corretos são 7 a 42% no TEA e 1% na população geral."
+  ]
+ },
+ {
+  "q": "Homem de 32 anos com esquizofrenia está estável, sem surtos nem internações há 2 anos. O psiquiatra informa seguimento regular com boa aderência ao tratamento há 8 meses e parecer favorável à direção. Segundo a Diretriz ABRAMET sobre esquizofrenia, ele preenche os requisitos para a aptidão?",
+  "alts": [
+   "Sim, sendo apto somente na categoria B, com validade de 1 a 2 anos no exame",
+   "Não, pois exige-se seguimento regular com boa aderência há pelo menos 24 meses",
+   "Sim, pois a ausência de internação por 2 anos supre o tempo de aderência exigido",
+   "Não, pois exige-se seguimento regular com boa aderência há pelo menos 12 meses",
+   "Não, pois a esquizofrenia impede a habilitação para conduzir veículos automotores"
+  ],
+  "gab": 3,
+  "tema": "psiq",
+  "sub": "Esquizofrenia: tempo de aderência",
+  "base": "Diretriz ABRAMET — Esquizofrenia e direção veicular (2021), item 3 (Avaliação e recomendações)",
+  "coment": "O parecer do médico assistente, preferencialmente o psiquiatra, deve contemplar no mínimo TRÊS condições cumulativas: seguimento regular com boa aderência ao tratamento há PELO MENOS 12 MESES; ausência de surtos psicóticos ou intercorrências com internação nos últimos 6 meses; e posicionamento favorável ao ato de dirigir sob o ponto de vista clínico e farmacológico. Com 8 meses de aderência, falta um requisito, e a estabilidade prolongada não o substitui. Satisfeitas as condições, o resultado é aptidão SOMENTE NA CATEGORIA B, com validade de 1 a 2 anos na primeira habilitação e de 1 a 3 anos nas renovações. A diretriz é inclusiva: não veda a habilitação.",
+  "porAlt": [
+   "A aptidão exige 12 meses de aderência, que o caso ainda não cumpre.",
+   "O mínimo exigido é de 12 meses, e não de 24 meses.",
+   "As condições são cumulativas: a estabilidade não supre a aderência.",
+   "Correta: faltam 4 meses para os 12 meses de aderência exigidos.",
+   "A diretriz admite a aptidão na categoria B quando cumpridas as condições."
+  ]
+ },
+ {
+  "q": "Mulher de 38 anos com esquizofrenia tem boa aderência ao tratamento há 3 anos, mas foi internada há 4 meses por descompensação; hoje está estável e o psiquiatra é favorável. Vai renovar a CNH categoria B. Segundo a Diretriz ABRAMET sobre esquizofrenia, qual é a conclusão?",
+  "alts": [
+   "Atende, pois a aderência de mais de 12 meses dispensa a ausência de internação recente",
+   "Ainda não atende, pois exige-se ausência de surto ou internação nos últimos 12 meses",
+   "Atende, sendo apta na categoria B com validade de 1 a 3 anos por se tratar de renovação",
+   "Ainda não atende, pois exige-se ausência de surto ou internação nos últimos 6 meses",
+   "Não atende, pois internação psiquiátrica gera inaptidão definitiva para dirigir"
+  ],
+  "gab": 3,
+  "tema": "psiq",
+  "sub": "Esquizofrenia: internação recente",
+  "base": "Diretriz ABRAMET — Esquizofrenia e direção veicular (2021), item 3 (Avaliação e recomendações) e modelo de relatório",
+  "coment": "O relatório da diretriz (CID 10 – F20) pergunta expressamente: 'Surtos psicóticos ou intercorrências com a necessidade de internação ou hospitalização nos ÚLTIMOS 6 MESES: sim/não'. A ausência desses eventos no semestre é uma das três condições cumulativas, ao lado da boa aderência há pelo menos 12 meses e do parecer favorável. Internada há 4 meses, a candidata ainda não cumpre o requisito, embora tenha aderência de 3 anos. A diretriz também registra que motoristas na fase aguda ou com sintomas psicóticos não deverão dirigir. Cumpridos os requisitos, a validade na renovação seria de 1 a 3 anos, somente na categoria B.",
+  "porAlt": [
+   "As três condições são cumulativas; aderência longa não supre a internação.",
+   "A janela da diretriz é de 6 meses, e não de 12 meses.",
+   "A validade de 1 a 3 anos só se aplica depois de cumpridas as condições.",
+   "Correta: a internação ocorreu dentro da janela de 6 meses exigida pela diretriz.",
+   "A diretriz não prevê inaptidão definitiva por uma internação psiquiátrica."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esquizofrenia, quais testes de rastreio cognitivo poderão ser úteis no exame de aptidão física e mental dos candidatos que apresentarem algum sinal de doença psiquiátrica?",
+  "alts": [
+   "O Miniexame do Estado Mental e a Escala de Sonolência de Epworth",
+   "O Addenbrooke's Cognitive Examination Revised (ACE-R) e o Mini-Cog",
+   "O SDMT e a Escala Expandida do Estado de Incapacidade (EDSS) da EM",
+   "A escala de Hoehn & Yahr e o teste do desenho do relógio isolado",
+   "O Montreal Cognitive Assessment e a Classificação Clínica de Demência"
+  ],
+  "gab": 1,
+  "tema": "psiq",
+  "sub": "Esquizofrenia: rastreio cognitivo",
+  "base": "Diretriz ABRAMET — Esquizofrenia e direção veicular (2021), item 3 (Avaliação e recomendações)",
+  "coment": "A diretriz de esquizofrenia afirma que a abordagem do médico do tráfego começa pela constatação da compensação clínica no próprio exame e que testes de rastreio cognitivo como o ADDENBROOKE'S COGNITIVE EXAMINATION REVISED (ACE-R) e o MINI-COG 'poderão ser úteis' para candidatos que apresentarem algum sinal de doença psiquiátrica. Os déficits cognitivos são a principal causa de incapacidade funcional na esquizofrenia e podem persistir mesmo com remissão dos demais sintomas. O histórico de sinistros e de violações de trânsito também é informação valiosa. SDMT e EDSS pertencem à esclerose múltipla; Hoehn & Yahr, ao Parkinson; Epworth, à sonolência.",
+  "porAlt": [
+   "Epworth mede sonolência, e o MEEM não é o teste citado nessa diretriz.",
+   "Correta: são os dois testes citados na diretriz de esquizofrenia.",
+   "SDMT e EDSS são instrumentos da diretriz de esclerose múltipla.",
+   "Hoehn & Yahr estadia a doença de Parkinson e não rastreia cognição.",
+   "MoCA e CDR não são os instrumentos citados na diretriz de esquizofrenia."
+  ]
+ },
+ {
+  "q": "Condutor de 45 anos, habilitado há 20 anos na categoria B e sem atividade remunerada ao veículo, vai renovar a CNH. Segundo o art. 147 do CTB, ele deve se submeter à avaliação psicológica nessa renovação?",
+  "alts": [
+   "Sim, pois a avaliação psicológica acompanha toda renovação do exame de aptidão física e mental",
+   "Sim, pois a partir dos 40 anos ela volta a ser exigida a cada renovação do exame de aptidão",
+   "Não, pois a avaliação psicológica foi extinta das renovações pela Lei nº 15.428, de 2026",
+   "Não, pois para quem não exerce atividade remunerada ela só é exigida na primeira habilitação",
+   "Sim, pois a avaliação psicológica passou a ser exigida a cada 10 anos de todos os condutores"
+  ],
+  "gab": 3,
+  "tema": "psiq",
+  "sub": "Avaliação psicológica: quando é exigida",
+  "base": "CTB, art. 147, § 3º (redação da Lei nº 10.350/2001)",
+  "coment": "O § 3º do art. 147 do CTB dispõe que o exame de aptidão física e mental 'incluirá avaliação psicológica preliminar e complementar sempre que a ele se submeter o condutor que EXERCE ATIVIDADE REMUNERADA AO VEÍCULO, incluindo-se esta avaliação para os demais candidatos APENAS NO EXAME REFERENTE À PRIMEIRA HABILITAÇÃO'. Condutor sem EAR, portanto, não repete a avaliação psicológica na renovação. A Lei nº 15.428/2026 revogou os §§ 6º e 7º do art. 147 e incluiu os §§ 6º e 7º do art. 148 (perito autorizado pela Senatran, preço público), mas não extinguiu o § 3º. Diretrizes específicas (TEA, esquizofrenia, TDAH) podem indicar avaliação complementar por motivo clínico.",
+  "porAlt": [
+   "A psicológica na renovação é exigida só de quem exerce atividade remunerada.",
+   "O CTB não prevê retorno da avaliação psicológica a partir dos 40 anos.",
+   "A Lei nº 15.428/2026 não revogou o § 3º do art. 147 do CTB.",
+   "Correta: é a regra literal do art. 147, § 3º, do CTB.",
+   "Não há avaliação psicológica decenal para todos os condutores no CTB."
+  ]
+ },
+ {
+  "q": "Segundo o art. 5º da Resolução CONTRAN nº 927/2022, quais processos psíquicos devem ser aferidos, por métodos e técnicas psicológicas, na avaliação psicológica do candidato?",
+  "alts": [
+   "Inteligência geral, memória, atenção e personalidade, sem avaliar o comportamento do condutor no trânsito",
+   "Tomada e processamento de informação, reflexos miotáticos, coordenação motora e acuidade visual central",
+   "Tomada e processamento de informação, tomada de decisão, comportamento, autoavaliação e personalidade",
+   "Humor, aparência, fala, orientação e memória, os mesmos itens do exame de aptidão física e mental",
+   "Atenção, memória e tempo de reação, apenas, em um único teste padronizado aplicado por meio eletrônico"
+  ],
+  "gab": 2,
+  "tema": "psiq",
+  "sub": "Avaliação psicológica: processos aferidos",
+  "base": "Resolução CONTRAN nº 927/2022, art. 5º e Anexo XIII",
+  "coment": "O art. 5º da Resolução 927 lista seis processos psíquicos a aferir (detalhados no Anexo XIII): I – TOMADA DE INFORMAÇÃO; II – PROCESSAMENTO DE INFORMAÇÃO; III – TOMADA DE DECISÃO; IV – COMPORTAMENTO; V – AUTOAVALIAÇÃO DO COMPORTAMENTO; VI – TRAÇOS DE PERSONALIDADE. O art. 6º define as técnicas: entrevistas diretas e individuais, testes psicológicos conforme o CFP, dinâmicas de grupo e escuta e intervenções verbais. Reflexos miotáticos, coordenação e acuidade visual pertencem ao exame médico. Humor, aparência, fala, orientação e memória são itens que o médico perito observa no exame físico geral (art. 4º, II, b), não a lista do art. 5º.",
+  "porAlt": [
+   "O art. 5º inclui comportamento; inteligência e memória são subitens do Anexo XIII.",
+   "Reflexos, coordenação e acuidade visual são itens do exame médico.",
+   "Correta: reúne os seis processos do art. 5º, em forma resumida.",
+   "Esses itens são observados pelo médico perito, e não a lista do art. 5º.",
+   "O art. 5º tem seis processos, e o art. 6º prevê várias técnicas, não teste único."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo XIII da Resolução CONTRAN nº 927/2022, o esforço voluntário de varrer o campo visual à frente, à procura de algum indício de perigo ou de orientação, corresponde a qual item da avaliação psicológica?",
+  "alts": [
+   "Atenção concentrada seletiva, na tomada de informação",
+   "Atenção distribuída, no processamento de informação",
+   "Detecção de estímulos, no processamento de informação",
+   "Orientação espacial, no processamento de informação",
+   "Atenção difusa ou vigilância, na tomada de informação"
+  ],
+  "gab": 4,
+  "tema": "psiq",
+  "sub": "Anexo XIII: tipos de atenção",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XIII, item 1.1",
+  "coment": "O item 1 do Anexo XIII (tomada de informação) define três modalidades de atenção: 1.1.1 ATENÇÃO DIFUSA OU VIGILÂNCIA — esforço voluntário para varrer o campo visual à frente à procura de indício de perigo ou de orientação; 1.1.2 atenção concentrada seletiva — fixação da atenção sobre pontos de importância para a direção, identificando-os no campo geral; 1.1.3 atenção distribuída — atenção a vários estímulos ao mesmo tempo. Ainda na tomada de informação estão detecção (estímulos fracos ou após ofuscamento), discriminação e identificação. Orientação espacial e avaliação de distância pertencem ao processamento de informação (item 2.1).",
+  "porAlt": [
+   "A concentrada seletiva fixa pontos importantes; não é a varredura do campo.",
+   "A distribuída é a atenção a vários estímulos ao mesmo tempo, na tomada de informação.",
+   "Detecção é perceber estímulos fracos ou após ofuscamento, na tomada de informação.",
+   "Orientação espacial é situar-se no tempo e no espaço, avaliando distâncias.",
+   "Correta: é a definição literal do item 1.1.1 do Anexo XIII."
+  ]
+ },
+ {
+  "q": "Candidato é considerado inapto temporário na avaliação psicológica. Segundo o art. 9º da Resolução CONTRAN nº 927/2022, o que deve constar e o que ocorre ao final?",
+  "alts": [
+   "Prazo de inaptidão consignado no RENACH, findo o qual se faz nova avaliação psicológica",
+   "Prazo fixo de 30 dias, findo o qual o candidato é liberado sem nova avaliação psicológica",
+   "Encaminhamento imediato à Junta Psicológica, que substitui a nova avaliação do psicólogo",
+   "Restrição codificada do Anexo XV na CNH, com validade reduzida da avaliação psicológica",
+   "Prazo definido pelo médico perito, que repete então o exame de aptidão física e mental"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "Avaliação psicológica: inapto temporário",
+  "base": "Resolução CONTRAN nº 927/2022, art. 9º, II e § 1º; art. 10, § 2º",
+  "coment": "O art. 9º define três resultados da avaliação psicológica: apto; INAPTO TEMPORÁRIO (desempenho não condizente, porém passível de adequação); e inapto. O § 1º estabelece que o resultado inapto temporário 'constará na planilha RENACH e CONSIGNARÁ PRAZO DE INAPTIDÃO, findo o qual deverá o candidato ser submetido a NOVA AVALIAÇÃO PSICOLÓGICA'. O art. 10, § 2º, manda comunicar a inaptidão ao órgão de trânsito para bloqueio do cadastro, com desbloqueio no vencimento do prazo. A norma não fixa 30 dias, e a Junta Psicológica é instância de revisão a pedido do candidato (art. 12), não etapa automática. Restrições do Anexo XV são do exame médico.",
+  "porAlt": [
+   "Correta: é o texto do art. 9º, § 1º, da Resolução 927.",
+   "A norma não fixa 30 dias e exige nova avaliação ao fim do prazo.",
+   "A Junta Psicológica é revisão a pedido do candidato, não etapa automática.",
+   "Restrições codificadas do Anexo XV pertencem ao exame médico.",
+   "O prazo é da avaliação psicológica, consignado pelo psicólogo no RENACH."
+  ]
+ },
+ {
+  "q": "Candidato discorda do resultado da sua avaliação psicológica. Segundo a Resolução CONTRAN nº 927/2022, qual é o prazo para requerer a revisão e como se compõe a Junta Psicológica?",
+  "alts": [
+   "15 dias úteis; dois psicólogos e um médico especialista em medicina de tráfego no colegiado",
+   "10 dias do conhecimento; três psicólogos peritos ou especialistas em psicologia do trânsito",
+   "30 dias do conhecimento; três psicólogos peritos ou especialistas em psicologia do trânsito",
+   "30 dias do conhecimento; cinco psicólogos designados pelo Conselho Regional de Psicologia",
+   "Sem prazo definido; um psicólogo diferente do primeiro examinador, designado pelo órgão"
+  ],
+  "gab": 2,
+  "tema": "psiq",
+  "sub": "Junta Psicológica",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 12 e 14",
+  "coment": "Pelo art. 12, independentemente do resultado do exame de aptidão física e mental e da avaliação psicológica, o candidato pode requerer, NO PRAZO DE TRINTA DIAS contados do seu conhecimento, a instauração de Junta Médica e/ou Psicológica ao órgão executivo de trânsito do Estado ou do DF. O § 2º dispõe que a Junta Psicológica é constituída por TRÊS PSICÓLOGOS PERITOS EXAMINADORES DE TRÂNSITO OU ESPECIALISTAS EM PSICOLOGIA DE TRÂNSITO. O art. 14 dá ao órgão 15 dias úteis para designar a Junta, que decide em 30 dias da designação. Mantida a inaptidão permanente, cabe recurso ao CETRAN ou CONTRANDIFE em 30 dias.",
+  "porAlt": [
+   "15 dias úteis é o prazo do órgão para designar a Junta, e ela não tem médico.",
+   "A composição está certa, mas o prazo para requerer é de 30 dias.",
+   "Correta: reúne o prazo do art. 12 e a composição do seu § 2º.",
+   "O prazo está certo, mas a Junta tem três psicólogos, e não cinco.",
+   "A norma fixa prazo de 30 dias e colegiado de três psicólogos."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre benzodiazepínicos e risco de acidentes de trânsito, comparados com motoristas que não usavam o fármaco, quais usuários NÃO apresentaram maior risco de envolvimento em acidentes?",
+  "alts": [
+   "Os usuários de benzodiazepínicos de vida-média longa",
+   "Os usuários de benzodiazepínicos de vida-média curta",
+   "Os usuários de ansiolíticos na primeira semana de uso",
+   "Os usuários de benzodiazepínicos como indutores do sono",
+   "Os usuários de benzodiazepínico associado ao álcool"
+  ],
+  "gab": 1,
+  "tema": "psiq",
+  "sub": "Benzodiazepínicos: meia-vida",
+  "base": "Diretriz ABRAMET — Uso de benzodiazepínicos e risco de acidentes de trânsito (2012), item 3",
+  "coment": "No item 3, a diretriz registra que condutores que usavam benzodiazepínicos de VIDA-MÉDIA INTERMEDIÁRIA OU LONGA apresentaram maior risco de acidentes, enquanto os que usavam os de VIDA-MÉDIA CURTA NÃO apresentaram maior risco (dado com grau de evidência D). No idoso acima de 65 anos, o risco com os de meia-vida longa na primeira semana foi 1,45 vez maior, aumentando com a dose, sem esse risco com os de vida-média curta. Os hipnóticos (indutores do sono) têm 'evidente correlação' com aumento do risco, a associação com álcool tem efeito aditivo adverso, reconhecido por todos os estudos, e o risco de hospitalização com ansiolíticos chegou a 13,5 logo após a prescrição.",
+  "porAlt": [
+   "Os de vida-média longa estão entre os de maior risco de acidente.",
+   "Correta: o item 3 diz que os de vida-média curta não mostraram maior risco.",
+   "Ansiolíticos tiveram risco muito alto (13,5) na semana após a prescrição.",
+   "Os hipnóticos têm evidente correlação com aumento do risco.",
+   "A associação com álcool tem efeito aditivo adverso sobre a direção."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre benzodiazepínicos, os estudos de tolerância mostraram prejuízo no desempenho do motorista por quanto tempo, considerando os desvios laterais na rodovia e o controle da velocidade?",
+  "alts": [
+   "Três primeiras semanas nos desvios laterais; só a primeira semana no controle de velocidade",
+   "Só a primeira semana nos desvios laterais; três primeiras semanas no controle de velocidade",
+   "Os três primeiros meses nos desvios laterais; só o primeiro mês no controle da velocidade",
+   "Por todo o tratamento em ambos, pois não se desenvolve tolerância aos benzodiazepínicos",
+   "Só as primeiras 48 horas em ambos, com tolerância plena a partir do terceiro dia de uso"
+  ],
+  "gab": 0,
+  "tema": "psiq",
+  "sub": "Benzodiazepínicos: tolerância",
+  "base": "Diretriz ABRAMET — Uso de benzodiazepínicos e risco de acidentes de trânsito (2012), item 2",
+  "coment": "O item 2 relata que estudos demonstraram desenvolvimento de TOLERÂNCIA, com prejuízo no desempenho do motorista apenas nas TRÊS PRIMEIRAS SEMANAS quando se consideram os DESVIOS LATERAIS nas rodovias, e apenas na PRIMEIRA SEMANA quando se considera a capacidade de CONTROLAR A VELOCIDADE. O item 3 converge: o risco de acidente ocorre principalmente nas duas primeiras semanas e cai até números estatisticamente insignificantes na quarta semana. Daí a recomendação de orientar o paciente a não dirigir no início do tratamento. Em teste de 2 horas de direção contínua, 5 mg de diazepam fizeram 41,7% dos motoristas serem instruídos a parar.",
+  "porAlt": [
+   "Correta: reproduz os dois prazos de tolerância descritos no item 2.",
+   "Inverte os prazos: três semanas são dos desvios laterais, e uma, da velocidade.",
+   "Os prazos são em semanas, e não em meses, segundo a diretriz.",
+   "A diretriz descreve o desenvolvimento de tolerância ao longo das semanas.",
+   "A diretriz fala em semanas, e não em 48 horas, para a tolerância."
+  ]
+ }
+]

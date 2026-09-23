@@ -1,0 +1,552 @@
+[
+ {
+  "q": "Candidata a piloto de linha aérea, em exame inicial de 1ª classe, tem acuidade visual corrigida de 20/20 no olho direito, 20/40 no esquerdo e 20/20 binocular. Quanto a esse requisito, qual o julgamento?",
+  "alts": [
+   "Atende: a 1ª classe exige 20/40 em cada olho e 20/30 na visão binocular",
+   "Atende: basta a visão binocular de 20/20, pouco importando cada olho",
+   "Não atende: a 1ª classe exige 20/20 em cada olho de forma separada",
+   "Não atende: a 1ª classe exige 20/30 ou melhor em cada olho separado",
+   "Atende, desde que a correção seja por lente de contato e não óculos"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — acuidade visual na 1ª classe",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.99(c)(1) e 67.139(c)(1)",
+  "coment": "Na 1ª classe, o 67.99(c)(1) exige acuidade visual para longe, com ou sem correção, igual ou superior a 20/30 em cada olho separadamente e igual ou superior a 20/20 na visão binocular. O olho esquerdo com 20/40 reprova a candidata, mesmo com binocular perfeita. Os números 20/40 por olho e 20/30 binocular são os da 2ª e da 5ª classes (67.139(c)(1) e 67.259(c)(1)), e a 4ª classe pede 20/40 em cada olho (67.219(b)). A 1ª classe também exige ler J1 entre 30 e 50 cm e J6 a 100 cm. A correção pode ser por óculos ou lentes de contato, e quem precisa dela deve portar óculos reserva (67.99(c)(4)).",
+  "porAlt": [
+   "Errada: 20/40 por olho e 20/30 binocular são os limites da 2ª classe, não da 1ª.",
+   "Errada: o 67.99(c)(1) exige o limite em cada olho separadamente, além do binocular.",
+   "Errada: 20/20 é o limite binocular da 1ª classe; por olho, basta 20/30.",
+   "Correta: a 1ª classe pede ≥20/30 em cada olho e ≥20/20 binocular; o olho de 20/40 reprova.",
+   "Errada: o requisito pode ser atendido com óculos ou lentes; o tipo de correção não muda o limite."
+  ]
+ },
+ {
+  "q": "Piloto comercial de 44 anos, com CMA de 1ª classe, vai revalidar. Quanto à audiometria tonal, qual a periodicidade mínima e os limites exigidos em cada ouvido?",
+  "alts": [
+   "A cada 5 anos; até 35 dB em 500 a 2.000 Hz e até 50 dB em 3.000 Hz",
+   "A cada 2 anos; até 35 dB em 500 a 2.000 Hz e até 50 dB em 3.000 Hz",
+   "A cada 2 anos; até 25 dB em 500 a 2.000 Hz e até 35 dB em 4.000 Hz",
+   "A cada ano; até 40 dB em 500 a 2.000 Hz e até 60 dB em 3.000 Hz",
+   "A cada 4 anos; até 35 dB em 500 a 3.000 Hz, com um ouvido bastando"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — audiometria na 1ª classe",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.101(a) a (d)",
+  "coment": "Pelo 67.101(a), na audiometria de tom puro o candidato não pode ter, em cada ouvido separadamente, perda maior que 35 dB em nenhuma das frequências de 500, 1.000 e 2.000 Hz, nem maior que 50 dB em 3.000 Hz. O exame é feito em todos os candidatos à obtenção, pelo menos a cada 5 anos nos candidatos à revalidação abaixo de 40 anos e pelo menos a cada 2 anos nos de 40 anos ou mais. Com 44 anos, a periodicidade é de 2 anos. Quem não atinge os limites ainda pode ser apto por discriminação da fala com ruído de cabine e voz normal a 2 m (67.101(b)); na revalidação, um ouvido pode bastar (67.101(d)). A cada 4 anos é a regra da 5ª classe.",
+  "porAlt": [
+   "Errada: 5 anos vale para revalidação abaixo dos 40; aos 44, o intervalo é de 2 anos.",
+   "Correta: 67.101(a) — a partir dos 40, a cada 2 anos; 35 dB em 500–2.000 Hz e 50 dB em 3.000 Hz.",
+   "Errada: os limites do RBAC 67 são 35 dB (500–2.000 Hz) e 50 dB em 3.000 Hz.",
+   "Errada: a periodicidade não é anual e os limites são 35 e 50 dB, não 40 e 60 dB.",
+   "Errada: a cada 4 anos é a regra da 5ª classe (67.261(a)); e 3.000 Hz tem limite próprio de 50 dB."
+  ]
+ },
+ {
+  "q": "Candidato a CMA de 2ª classe para comissário de voo não consegue ouvir voz de intensidade normal a 2 metros, de costas para o examinador, em nenhum dos ouvidos. O que o RBAC 67 prevê?",
+  "alts": [
+   "Não apto em definitivo, sem nenhuma hipótese de CMA com restrição prevista na norma",
+   "CMA com restrição: não válido para voos com rádio bilateral nem como comissário",
+   "CMA sem restrição, desde que use prótese auditiva durante todos os seus voos",
+   "CMA com restrição: válido só para voos diurnos, sem uso de rádio pelo tripulante",
+   "CMA com restrição: válido apenas como comissário em voos domésticos de curta duração"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — deficiência auditiva bilateral",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.141(a) e (d)",
+  "coment": "Na 2ª classe, candidatos que não são PP devem ouvir voz de intensidade normal (85 a 95 dB), em quarto silencioso (ruído de fundo abaixo de 50 dB, ponderação A, resposta lenta), com ambos os ouvidos, a 2 metros e de costas para o examinador (67.141(a)); o PP segue a audiometria do 67.101. Quem não atende em nenhum ouvido ainda pode obter CMA com a restrição 'Não válido para voos onde o uso de rádios para comunicações bilaterais é necessário ou para atuar como comissário de voo' (67.141(d)). Ou seja, o candidato do caso não poderá exercer justamente a função de comissário. Na 4ª e na 5ª classes, a restrição cita só o rádio bilateral.",
+  "porAlt": [
+   "Errada: o 67.141(d) admite CMA com restrição mesmo sem audição em nenhum ouvido.",
+   "Correta: 67.141(d) — restrição para voos com rádio bilateral e para atuar como comissário de voo.",
+   "Errada: o RBAC 67 não prevê liberação sem restrição condicionada a prótese auditiva.",
+   "Errada: a restrição do 67.141(d) não se refere a voos diurnos; refere-se a rádio e comissário.",
+   "Errada: a restrição impede justamente a atuação como comissário de voo."
+  ]
+ },
+ {
+  "q": "Piloto de linha aérea de 52 anos, sem antecedente cardíaco, vai revalidar o CMA de 1ª classe. Com que periodicidade o RBAC 67 exige ECG e prova de esforço em esteira?",
+  "alts": [
+   "A cada 24 meses, por ter 50 anos ou mais",
+   "A cada 6 meses, por ter 50 anos ou mais",
+   "A cada 12 meses, por ter 50 anos ou mais",
+   "Só a critério do examinador ou da ANAC",
+   "A cada 5 anos, com a avaliação psicológica"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — ECG e ergometria",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.79(d)(3) e 67.119(d)(3)",
+  "coment": "Na 1ª classe, o 67.79(d)(3)(i) exige ECG e prova de esforço em esteira em todos os exames iniciais e nas revalidações após acidente ou incidente com suspensão do CMA. Nas demais revalidações: a cada 12 meses para candidatos de 50 anos ou mais; em periodicidade que não ultrapasse 2 anos entre 30 e 50 anos; e a critério do examinador ou da ANAC abaixo de 30. Na 2ª classe (67.119(d)(3)) o intervalo para 50 anos ou mais é de 2 anos, e na 5ª, de 24 meses. O 67.79(e) lembra que esses exames periódicos servem para descobrir anomalias e não bastam, sozinhos, para julgar não apto.",
+  "porAlt": [
+   "Errada: 24 meses é a periodicidade da 2ª e da 5ª classes para quem tem 50 anos ou mais.",
+   "Errada: não há exigência semestral de ECG e esteira para candidatos sem cardiopatia.",
+   "Correta: 67.79(d)(3)(i)(A) — na 1ª classe, a partir dos 50 anos, ECG e esteira a cada 12 meses.",
+   "Errada: critério livre do examinador vale só para candidatos abaixo de 30 anos.",
+   "Errada: 5 anos é a periodicidade da avaliação psicológica, não da ergometria."
+  ]
+ },
+ {
+  "q": "Piloto comercial com infarto do miocárdio prévio busca revalidar o CMA de 1ª classe. Cumpridas as exigências de investigação, qual o desfecho mais favorável previsto no RBAC 67?",
+  "alts": [
+   "Apto sem restrição, após ao menos 6 meses do evento, com validade de 12 meses",
+   "Apto com restrição, após ao menos 180 dias do evento, com validade de 12 meses",
+   "Não apto em definitivo, pois o infarto impede toda revalidação de 1ª classe",
+   "Apto com restrição, após ao menos 2 anos do evento, com validade de 24 meses",
+   "Apto com restrição, após ao menos 1 ano do evento, com validade de até 6 meses"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — infarto do miocárdio",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.79(a)(10), (b)(1) e (c)",
+  "coment": "O infarto impede a obtenção, mas na revalidação o 67.79(b)(1) admite o candidato se, pelo menos 1 ano após o evento, houver investigação com Holter sem arritmias que exijam tratamento, cintilografia esforço-repouso sem isquemia, eco sem alterações significativas, lipidograma normal, cinecoronariografia com ventriculografia adequada, ausência de IMC ≥30 associado a cintura >102 cm (homem) ou >88 cm (mulher) e parecer psiquiátrico favorável com testes psicológicos. Pelo 67.79(c), o julgamento, em consulta com a ANAC, deve ser apto com restrição e a validade máxima é de 6 meses. Para revascularização sem infarto, o prazo mínimo cai para 180 dias; na 2ª classe, o não piloto infartado pode ser avaliado após 6 meses.",
+  "porAlt": [
+   "Errada: o julgamento é com restrição, e o prazo mínimo após infarto é de 1 ano.",
+   "Errada: 180 dias é o prazo da revascularização sem infarto, e a validade máxima é de 6 meses.",
+   "Errada: o 67.79(b)(1) permite a revalidação cumpridas as exigências.",
+   "Errada: o prazo mínimo é de 1 ano, e a validade máxima é de 6 meses, não 24.",
+   "Correta: 67.79(b)(1) e (c) — após 1 ano, apto com restrição e CMA de no máximo 6 meses."
+  ]
+ },
+ {
+  "q": "Piloto comercial com diabetes tipo 2 em uso de antidiabético oral, sem insulina, vai revalidar o CMA de 1ª classe. O que o RBAC 67 exige para julgá-lo apto?",
+  "alts": [
+   "Glicemia acima de 69 e abaixo de 180 mg/dl após 30 dias; CMA de até 12 meses",
+   "Hemoglobina glicada abaixo de 7% após 90 dias; CMA de até 6 meses de validade",
+   "Glicemia acima de 50 e abaixo de 200 mg/dl após 60 dias; validade da categoria",
+   "Nenhuma: o uso de antidiabético oral é sempre causa de inaptidão na 1ª classe",
+   "Glicemia acima de 69 e abaixo de 140 mg/dl após 60 dias; CMA de até 6 meses"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — diabetes",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.85(b) a (g)",
+  "coment": "O 67.85(b) veda antecedente ou diagnóstico de diabetes insulino-dependente. O diabetes não tratado com insulina pode ser apto se controlado só com dieta ou com dieta e antidiabético oral compatível com a função (67.85(c)). Para quem usa hipoglicemiante oral, o 67.85(f) exige período de observação de 60 dias com glicemia superior a 69 e inferior a 140 mg/dl, e limita a validade do CMA revalidado a 6 meses. Os cortes gerais: glicemia abaixo de 50 ou acima de 140 mg/dl, confirmada em duas repetições em dias diferentes, é inaptidão (67.85(d)); entre 50 e 69 ou entre 115 e 139, apto a critério (67.85(e)). Hipoglicemia reativa de difícil controle é inaptidão.",
+  "porAlt": [
+   "Errada: o teto é 140 mg/dl, a observação é de 60 dias e a validade máxima é de 6 meses.",
+   "Errada: o RBAC 67 fixa a observação em glicemia e 60 dias; HbA1c é citada só nos casos limítrofes.",
+   "Errada: abaixo de 50 ou acima de 140 mg/dl já é causa de inaptidão (67.85(d)).",
+   "Errada: o 67.85(c) admite o diabético não insulinizado controlado com antidiabético oral.",
+   "Correta: 67.85(f) — 60 dias de glicemia entre 69 e 140 mg/dl e CMA de no máximo 6 meses."
+  ]
+ },
+ {
+  "q": "Piloto de planador, com CMA de 4ª classe, está na 28ª semana de gestação de baixo risco, com supervisão obstétrica continuada. Qual o julgamento previsto no RBAC 67?",
+  "alts": [
+   "Apta: na 4ª classe, a gestante de baixo risco é apta até a 34ª semana",
+   "Apta: na 4ª classe, a gravidez não interfere, bastando avisar a ANAC",
+   "Não apta: na 4ª classe, é inapta desde a constatação da gravidez",
+   "Não apta: na 4ª classe, só pode ser apta entre a 12ª e a 26ª semana",
+   "Apta: na 4ª classe, a gestante de baixo risco é apta até a 36ª semana"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — gravidez por classe",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.13(l), 67.93, 67.213 e 67.253",
+  "coment": "O RBAC 67 trata a gravidez de forma diferente por classe. Nas 1ª e 2ª classes, a candidata é não apta assim que constatada a gravidez (67.93(a) e 67.133(a)), e o 67.13(l) proíbe qualquer função a bordo desde a constatação, exceto nas prerrogativas do CMA de 4ª classe. Na 4ª classe, a gestante só pode ser apta se a avaliação obstétrica e a supervisão continuada indicarem baixo risco e apenas entre a 12ª e a 26ª semana (67.213(a) e (b)); fora dessa janela, não apta. Na 5ª classe (piloto remoto), o limite é a 34ª semana (67.253(a)). Na 28ª semana, a piloto de planador está fora da janela.",
+  "porAlt": [
+   "Errada: a 34ª semana é o limite da 5ª classe (piloto remoto), não da 4ª.",
+   "Errada: a 4ª classe exige baixo risco, supervisão e a janela da 12ª à 26ª semana.",
+   "Errada: inaptidão desde a constatação é a regra das 1ª e 2ª classes.",
+   "Correta: 67.213(b) — apta só entre a 12ª e a 26ª semana; na 28ª, não apta.",
+   "Errada: o RBAC 67 não prevê limite na 36ª semana para nenhuma classe."
+  ]
+ },
+ {
+  "q": "Comissário de voo em tratamento de depressão com antidepressivo vai revalidar o CMA de 2ª classe. Qual a regra do RBAC 67?",
+  "alts": [
+   "Apto com restrição, desde que o tratamento dure menos de seis meses no total",
+   "Não apto, salvo se o psiquiatra, com acesso ao caso, vir que não há prejuízo",
+   "Não apto enquanto usar a medicação, sem nenhuma exceção prevista na norma",
+   "Apto, pois a vedação a antidepressivos alcança somente quem atua como piloto",
+   "Não apto, salvo parecer favorável do psicólogo após os testes de atenção e memória"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — depressão e antidepressivos",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seções 67.75(c) e 67.115(c)",
+  "coment": "O RBAC 67 lista o transtorno do humor (afetivo) entre os antecedentes ou diagnósticos incompatíveis (67.115(b)(4)), mas o 67.115(c) traz a regra específica: um candidato com depressão tratado com antidepressivos deve ser julgado não apto, a menos que o psiquiatra, com acesso aos detalhes do caso, considere que a condição não trará prejuízo ao exercício seguro das prerrogativas da licença e da habilitação. A norma remete ao Manual de Medicina de Aviação Civil da ICAO (Doc 8984). O mesmo texto vale para 1ª, 4ª e 5ª classes. A decisão é do psiquiatra, e não do psicólogo, cujo laudo avalia personalidade, atenção, memória e raciocínio.",
+  "porAlt": [
+   "Errada: a norma não fixa prazo de tratamento; a exceção depende do parecer psiquiátrico.",
+   "Correta: 67.115(c) — não apto, salvo avaliação do psiquiatra de que não há prejuízo à segurança.",
+   "Errada: o 67.115(c) prevê exceção quando o psiquiatra considera que não há prejuízo.",
+   "Errada: a regra está na 2ª classe e alcança o comissário, que não é piloto.",
+   "Errada: a exceção cabe ao psiquiatra; o psicólogo avalia personalidade, atenção, memória e raciocínio."
+  ]
+ },
+ {
+  "q": "Sobre o eletroencefalograma (EEG) na certificação de 1ª classe, o que determina o RBAC 67?",
+  "alts": [
+   "Integra toda revalidação; tem validade média de 12 meses, prorrogável até 5 anos",
+   "Integra o exame inicial; tem validade média de 2 anos, prorrogável até 5 anos",
+   "Só é pedido após trauma craniano; tem validade indefinida se o traçado é normal",
+   "Integra toda revalidação após os 40 anos; tem validade fixa de apenas 6 meses",
+   "Integra o exame inicial; tem validade média de 6 meses, prorrogável até 2 anos"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "RBAC 67 — EEG",
+  "base": "ANAC — RBAC nº 67, Emenda nº 05, seção 67.77(a)(5), (b) e (c)",
+  "coment": "Pelo 67.77(b), o EEG faz parte do exame de saúde pericial inicial; nas revalidações, fica a critério do examinador ou da ANAC. Pelo 67.77(c), tem validade média de 6 meses, prorrogável a critério do examinador ou da ANAC por período que não exceda 2 anos. Quanto ao resultado, é incompatível o EEG com grafoelementos epileptiformes; já o EEG com lentificações focais ou generalizadas permite emitir o CMA se a ressonância de crânio não mostrar lesão estrutural significativa e não houver patologia neurológica que afete a segurança de voo (67.77(a)(5)). Epilepsia é causa de inaptidão em todas as classes.",
+  "porAlt": [
+   "Errada: nas revalidações o EEG é a critério do examinador, e a validade média é de 6 meses.",
+   "Errada: a validade média é de 6 meses, prorrogável por no máximo 2 anos.",
+   "Errada: o EEG é parte de todo exame inicial, não só do pós-trauma.",
+   "Errada: não há regra por idade; e a validade de 6 meses pode ser prorrogada até 2 anos.",
+   "Correta: 67.77(b) e (c) — parte do exame inicial; validade média de 6 meses, até 2 anos."
+  ]
+ },
+ {
+  "q": "Piloto privado doou uma unidade de sangue na véspera e pretende voar. Pela classificação do manual aeromédico da FAA, que tipo de hipóxia essa doação favorece?",
+  "alts": [
+   "Hipóxica, pois a doação reduz a pressão parcial de oxigênio no alvéolo",
+   "Estagnante, pois a doação causa vasoconstrição e lentifica o fluxo",
+   "Histotóxica, pois as células perdem a capacidade de usar o oxigênio",
+   "Nenhuma, pois o volume doado se recompõe em poucas horas após doar",
+   "Hipêmica, pois o sangue passa a transportar menos oxigênio às células"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — tipos de hipóxia",
+  "base": "FAA — Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25C), cap. 17 'Aeromedical Factors', Hypemic Hypoxia",
+  "coment": "O manual da FAA divide a hipóxia em quatro tipos pela causa. Hipóxica: oxigênio insuficiente disponível ao organismo (a altitude reduz a pressão parcial de O₂). Hipêmica: o sangue não capta ou não transporta oxigênio suficiente — por redução do volume (sangramento), anemia, e sobretudo pelo monóxido de carbono, a forma mais comum. O texto cita expressamente a perda de sangue por doação: o volume pode levar várias semanas para se normalizar e, embora o efeito seja discreto no solo, há risco ao voar nesse período. Estagnante: o sangue não flui (choque, falência de bomba, força G, frio). Histotóxica: a célula não usa o oxigênio (álcool, narcóticos, venenos).",
+  "porAlt": [
+   "Errada: a hipóxia hipóxica decorre de pouco oxigênio disponível, como na altitude.",
+   "Errada: a estagnante decorre de fluxo inadequado (choque, força G, frio), não da doação.",
+   "Errada: a histotóxica é causada por álcool, narcóticos e venenos.",
+   "Errada: a FAA diz que o volume pode levar várias semanas para voltar ao normal.",
+   "Correta: a FAA cita a doação de sangue como causa de hipóxia hipêmica."
+  ]
+ },
+ {
+  "q": "Segundo o manual aeromédico da FAA, o álcool produz qual tipo de hipóxia, e com qual equivalência aproximada em altitude fisiológica?",
+  "alts": [
+   "Histotóxica; uma onça de álcool equivale a cerca de 2.000 pés a mais",
+   "Hipêmica; uma onça de álcool equivale a cerca de 2.000 pés a mais",
+   "Histotóxica; uma onça de álcool equivale a cerca de 8.000 pés a mais",
+   "Hipóxica; uma onça de álcool equivale a cerca de 5.000 pés a mais",
+   "Estagnante; uma onça de álcool equivale a cerca de 10.000 pés a mais"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — álcool e hipóxia",
+  "base": "FAA — Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25C), cap. 17 'Aeromedical Factors', Histotoxic Hypoxia",
+  "coment": "A hipóxia histotóxica é a incapacidade das células de usar o oxigênio que recebem: o oxigênio chega, mas não é aproveitado. O manual da FAA aponta como causas o álcool e outras drogas, como narcóticos e venenos, e registra que pesquisas mostraram que beber uma onça de álcool pode equivaler a cerca de 2.000 pés adicionais de altitude fisiológica. Somada à menor oferta de oxigênio em altitude, a menor capacidade do cérebro de usá-lo é uma combinação perigosa. O número de 8.000 pés aparece no manual em outro contexto: fumar ao nível do mar eleva o CO no sangue com efeitos semelhantes a voar a 8.000 pés.",
+  "porAlt": [
+   "Correta: álcool causa hipóxia histotóxica; uma onça equivale a cerca de 2.000 pés a mais.",
+   "Errada: hipêmica é a do monóxido de carbono e da anemia; o álcool é histotóxico.",
+   "Errada: o tipo está certo, mas a equivalência é de cerca de 2.000 pés; 8.000 é a do tabaco.",
+   "Errada: a hipóxica decorre de pouco oxigênio disponível, como na altitude.",
+   "Errada: estagnante é a de fluxo inadequado, como na força G excessiva."
+  ]
+ },
+ {
+  "q": "Turboélice pressurizado sofre despressurização a 25.000 pés (MSL), e o piloto não coloca a máscara de oxigênio. Qual o tempo útil de consciência estimado pela FAA?",
+  "alts": [
+   "De 1 a 2 minutos",
+   "De 5 a 10 minutos",
+   "De 3 a 5 minutos",
+   "De 2½ a 3 minutos",
+   "De 6 a 8 minutos"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — tempo útil de consciência",
+  "base": "FAA — Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25C), cap. 17, Figura 17-1 'Time of useful consciousness'",
+  "coment": "A Figura 17-1 do manual da FAA estima o tempo útil de consciência (TUC) sem oxigênio suplementar: 45.000 pés, 9 a 15 segundos; 40.000, 15 a 20 segundos; 35.000, 30 a 60 segundos; 30.000, 1 a 2 minutos; 28.000, 2½ a 3 minutos; 25.000, 3 a 5 minutos; 22.000, 5 a 10 minutos; 20.000, 30 minutos ou mais. O TUC é o tempo máximo para tomar e executar decisões racionais que salvem a vida, e não o tempo até a inconsciência. Acima de 10.000 pés os sintomas se agravam e o TUC cai rapidamente — note o salto de 30 minutos a 20.000 pés para 3 a 5 minutos a 25.000 pés.",
+  "porAlt": [
+   "Errada: 1 a 2 minutos é o TUC estimado a 30.000 pés.",
+   "Errada: 5 a 10 minutos é o TUC estimado a 22.000 pés.",
+   "Correta: a Figura 17-1 da FAA estima 3 a 5 minutos a 25.000 pés.",
+   "Errada: 2½ a 3 minutos é o TUC estimado a 28.000 pés.",
+   "Errada: o manual não traz faixa de 6 a 8 minutos; a 25.000 pés são 3 a 5 minutos."
+  ]
+ },
+ {
+  "q": "Na doença descompressiva de altitude, qual a forma clínica mais frequente e o seu local mais comum, segundo a FAA?",
+  "alts": [
+   "Bends (dor articular), em 60 a 70% dos casos, sobretudo no ombro",
+   "Chokes (pulmonar), em 60 a 70% dos casos, sobretudo retroesternal",
+   "Neurológica, em 60 a 70% dos casos, sobretudo como cefaleia forte",
+   "Cutânea, em 60 a 70% dos casos, sobretudo como prurido na face",
+   "Bends (dor articular), em 60 a 70% dos casos, sobretudo no joelho"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — doença descompressiva",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Altitude-Induced Decompression Sickness' (OK-24-1154, 2024)",
+  "coment": "Pela lei de Henry, a queda da pressão barométrica faz o nitrogênio dissolvido sair de solução e formar bolhas. O folheto da FAA informa que os bends (dor articular) respondem por cerca de 60 a 70% dos casos de doença descompressiva de altitude, sendo o ombro o local mais comum; as manifestações neurológicas aparecem em cerca de 10 a 15% (cefaleia e alterações visuais são as mais comuns); os chokes (pulmonares) são muito raros, em menos de 2%; e as manifestações cutâneas, em cerca de 10 a 15%. A dor articular piora com o movimento ativo e passivo e pode surgir em altitude, na descida ou horas depois.",
+  "porAlt": [
+   "Correta: bends respondem por 60 a 70% dos casos, e o ombro é o local mais comum.",
+   "Errada: chokes são muito raros, em menos de 2% dos casos.",
+   "Errada: a forma neurológica ocorre em cerca de 10 a 15% dos casos.",
+   "Errada: a forma cutânea ocorre em cerca de 10 a 15% dos casos.",
+   "Errada: a forma e a frequência estão certas, mas o local mais comum é o ombro."
+  ]
+ },
+ {
+  "q": "Em indivíduo saudável que NÃO mergulhou antes do voo, abaixo de qual altitude a doença descompressiva de altitude é rara, e em qual faixa ocorre a maioria dos casos, segundo a FAA?",
+  "alts": [
+   "Rara abaixo de 8.000 pés; a maioria ocorre entre 8.000 e 18.000 pés",
+   "Rara abaixo de 25.000 pés; a maioria ocorre acima de 43.000 pés",
+   "Rara abaixo de 18.000 pés; a maioria ocorre a 25.000 pés ou mais",
+   "Rara abaixo de 10.000 pés; a maioria ocorre entre 12.500 e 14.000 pés",
+   "Rara abaixo de 18.000 pés; a maioria ocorre entre 18.000 e 25.000 pés"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — doença descompressiva",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Altitude-Induced Decompression Sickness' (OK-24-1154, 2024), Predisposing Factors",
+  "coment": "O folheto da FAA afirma que não existe altitude absolutamente segura, mas que há muito pouca evidência de doença descompressiva de altitude em indivíduos saudáveis abaixo de 18.000 pés que não mergulharam. Exposições entre 18.000 e 25.000 pés mostram baixa ocorrência, e a maioria dos casos ocorre em exposições a 25.000 pés ou mais — num estudo da Força Aérea dos EUA, só 13% ocorreram abaixo de 25.000 pés. O risco cresce com a altitude, com exposições repetidas, com a velocidade de subida e o tempo em altitude, com gordura corporal, idade, frio, exercício e efeitos do álcool. Quem mergulhou pode ter o quadro em altitudes bem menores.",
+  "porAlt": [
+   "Errada: sem mergulho prévio, há muito pouca evidência de casos abaixo de 18.000 pés.",
+   "Errada: 43.000 pés aparece no folheto como teto da pré-oxigenação, não da maioria dos casos.",
+   "Correta: rara abaixo de 18.000 pés sem mergulho; maioria dos casos a 25.000 pés ou mais.",
+   "Errada: 12.500 a 14.000 pés é a faixa da regra norte-americana de oxigênio suplementar (14 CFR 91.211), não da DCS.",
+   "Errada: a faixa de 18.000 a 25.000 pés tem baixa ocorrência; a maioria vem acima dela."
+  ]
+ },
+ {
+  "q": "Em voo não pressurizado a 22.000 pés, passageiro refere dor profunda no ombro que piora ao mover a articulação; ela desaparece durante a descida de emergência. Qual a conduta, segundo a FAA?",
+  "alts": [
+   "Pousar e buscar avaliação mantendo O₂, pois a melhora na descida sugere DCS",
+   "Prosseguir ao destino, pois a melhora na descida afasta a descompressiva",
+   "Mobilizar a articulação ativamente para dissipar as bolhas de nitrogênio",
+   "Subir de novo para confirmar o diagnóstico antes de acionar algum socorro",
+   "Pousar e liberar o passageiro, pois só a forma neurológica exige avaliação"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — conduta na doença descompressiva",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Altitude-Induced Decompression Sickness' (OK-24-1154, 2024), What to do / Things to remember",
+  "coment": "Diante de suspeita de doença descompressiva de altitude, o folheto da FAA orienta: máscara de oxigênio a 100% imediatamente, descida de emergência e pouso o quanto antes; mesmo que os sintomas desapareçam na descida, pousar e buscar avaliação médica mantendo o oxigênio. Não ignorar sinais que somem na descida — isso pode confirmar o diagnóstico. Na dor articular, manter a área imóvel, sem tentar 'trabalhar' a dor com movimentos. Sinais tardios podem surgir após o retorno ao solo. Se persistirem durante a descida ou reaparecerem no solo, indica-se oxigenoterapia hiperbárica; a forma neurológica, os chokes e a pele marmórea devem sempre ser tratados em câmara hiperbárica.",
+  "porAlt": [
+   "Correta: pousar, manter O₂ e buscar avaliação; a melhora na descida pode confirmar a DCS.",
+   "Errada: a FAA manda pousar e avaliar mesmo que os sintomas desapareçam na descida.",
+   "Errada: a orientação é manter a articulação imóvel, sem mobilizá-la.",
+   "Errada: nova subida agravaria o quadro; a conduta é descer, pousar e avaliar.",
+   "Errada: todos os casos exigem avaliação; os bends leves também, mesmo se somem."
+  ]
+ },
+ {
+  "q": "Qual afirmação sobre o oxigênio a 100% na prevenção da doença descompressiva de altitude está de acordo com a FAA?",
+  "alts": [
+   "Respirar O₂ a 100% apenas durante o voo substitui a pré-oxigenação em solo",
+   "Pré-oxigenar 5 minutos antes da subida elimina o risco em qualquer altitude",
+   "A pré-oxigenação pode ser interrompida após decolar sem perda de proteção",
+   "Pré-oxigenar 30 minutos antes da subida reduz o risco; O₂ só em voo não",
+   "A pré-oxigenação é rotina obrigatória na aviação comercial de passageiros"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — pré-oxigenação",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Altitude-Induced Decompression Sickness' (OK-24-1154, 2024), Facts About Breathing 100% Oxygen",
+  "coment": "A pré-oxigenação promove a eliminação (washout) do nitrogênio dos tecidos. O folheto da FAA informa que pré-respirar oxigênio a 100% por 30 minutos antes de iniciar a subida reduz o risco para exposições curtas (10 a 30 minutos) entre 18.000 e 43.000 pés, desde que a pré-oxigenação continue sem interrupção com oxigênio a 100% em voo. E destaca que respirar oxigênio a 100% apenas durante o voo (subida, cruzeiro, descida) não reduz o risco e não substitui a pré-oxigenação. Por ser cara e logisticamente complexa, ela é usada hoje só por tripulações militares e astronautas, não na aviação civil.",
+  "porAlt": [
+   "Errada: O₂ a 100% só durante o voo não reduz o risco nem substitui a pré-oxigenação.",
+   "Errada: o protocolo citado é de 30 minutos e reduz, sem eliminar, o risco.",
+   "Errada: a pré-oxigenação precisa continuar sem interrupção com O₂ a 100% em voo.",
+   "Correta: pré-oxigenação de 30 minutos reduz o risco; O₂ apenas em voo não o reduz.",
+   "Errada: a FAA diz que ela é usada só por tripulações militares e astronautas."
+  ]
+ },
+ {
+  "q": "Segundo a FAA, como a velocidade de instalação da aceleração +Gz modifica a apresentação dos sintomas?",
+  "alts": [
+   "Instalação rápida (≥1 G/s) sempre dá sintomas visuais antes do G-LOC",
+   "Instalação gradual (~0,1 G/s) dá G-LOC sem aviso; a rápida, visão cinza",
+   "A velocidade é irrelevante; só o valor máximo de G define os sintomas",
+   "Gradual (~0,1 G/s): visão falha antes; rápida (≥1 G/s): G-LOC sem aviso",
+   "Instalação gradual (~0,1 G/s) causa red out; a rápida, blackout isolado"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — aceleração +Gz",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Acceleration in Aviation: G-Force' (OK-24-1154, 2024)",
+  "coment": "Sob +Gz (cabeça-pés), o coração precisa vencer a coluna hidrostática para perfundir o cérebro, e a retina é o primeiro alvo: visão em túnel, visão em 'cano de arma', gray out e blackout, podendo culminar na perda de consciência induzida por G (G-LOC). O folheto da FAA ressalta que os sintomas dependem da velocidade de instalação: com instalação gradual (cerca de 0,1 G por segundo), os sintomas visuais precedem o G-LOC; com instalação rápida (1 G por segundo ou mais), o G-LOC pode ocorrer sem aviso visual. Por isso a perda de visão não é um alarme confiável nas manobras bruscas. Red out é efeito do –Gz.",
+  "porAlt": [
+   "Errada: na instalação rápida o G-LOC pode vir sem aviso visual.",
+   "Errada: inverte a regra; é a instalação gradual que dá sintomas visuais antes.",
+   "Errada: a FAA afirma que os sintomas dependem da velocidade de instalação.",
+   "Correta: gradual (~0,1 G/s) dá aviso visual; rápida (≥1 G/s) pode dar G-LOC sem aviso.",
+   "Errada: red out é efeito do –Gz, não da instalação gradual de +Gz."
+  ]
+ },
+ {
+  "q": "Piloto acrobático empurra o manche para entrar num mergulho e nota o campo visual avermelhado. Qual força atua e qual o mecanismo descrito pela FAA?",
+  "alts": [
+   "+Gz, da cabeça aos pés, que esvazia a circulação da retina: o red out",
+   "–Gz, dos pés à cabeça, que dificulta o retorno venoso cefálico: red out",
+   "+Gx, do tórax às costas, que comprime o globo ocular: red out visual",
+   "–Gx, das costas ao tórax, que desloca o cristalino à frente: red out",
+   "Gy, de ombro a ombro, típica dos tonneaux, que gera gray out lateral"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — eixos de aceleração",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Acceleration in Aviation: G-Force' (OK-24-1154, 2024), G Forces",
+  "coment": "O folheto da FAA descreve os eixos: +Gx (tórax para costas) na corrida de decolagem, empurrando o piloto contra o assento; –Gx (costas para tórax) no pouso, jogando-o contra o cinto; Gy (ombro a ombro) nos tonneaux; +Gz (cabeça para pés) ao sair de um mergulho ou em loop interno; –Gz (pés para cabeça) ao empurrar para um mergulho ou em loop externo. O corpo tolera ainda pior o –Gz: o sangue é impedido de voltar pelas jugulares ao coração, enquanto o fluxo arterial para a cabeça aumenta, e o efeito visual é a perda de visão por red out. O +Gz, ao contrário, esvazia a retina e leva a gray out e blackout.",
+  "porAlt": [
+   "Errada: +Gz ocorre ao sair do mergulho e causa gray out e blackout, não red out.",
+   "Correta: empurrar para o mergulho gera –Gz; o retorno venoso cefálico é impedido e surge o red out.",
+   "Errada: +Gx é a força da decolagem, do tórax para as costas, sem red out.",
+   "Errada: –Gx ocorre no pouso, empurrando o piloto contra o cinto.",
+   "Errada: Gy ocorre nos tonneaux e não produz o red out descrito."
+  ]
+ },
+ {
+  "q": "Em que consiste a manobra anti-G (anti-G straining maneuver) descrita pela FAA?",
+  "alts": [
+   "Hiperventilar rapidamente antes da curva, para elevar a saturação de O₂",
+   "Inspirar fundo e prender o ar, relaxando toda a musculatura das pernas",
+   "Fletir a cabeça sobre o tórax, para encurtar a coluna hidrostática cerebral",
+   "Expirar contra a glote fechada contraindo panturrilhas, coxas e ombros",
+   "Fazer Valsalva de boca aberta, mantendo os membros inferiores relaxados"
+  ],
+  "gab": 3,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — manobra anti-G",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Acceleration in Aviation: G-Force' (OK-24-1154, 2024), The Anti-G Straining Maneuvers",
+  "coment": "Segundo o folheto da FAA, a manobra anti-G é uma técnica física em que o aviador empurra o ar para fora dos pulmões contra a glote fechada enquanto contrai os músculos das panturrilhas, das coxas e dos ombros. Essa resistência dificulta que o sangue se afaste do cérebro e aumenta a pressão nas carótidas, elevando a tolerância a G. É praticada por pilotos militares e, para evitar lesão, não deve ser tentada a 1 G com esforço de 100%. A maioria das aeronaves civis não comporta traje anti-G, então a proteção civil depende de hidratação, repouso, condicionamento (aeróbico mais resistido) e evitar álcool e tabaco.",
+  "porAlt": [
+   "Errada: hiperventilar não faz parte da manobra e pode causar sintomas próprios.",
+   "Errada: a manobra exige contração, e não relaxamento, da musculatura das pernas.",
+   "Errada: flexão cervical não é o mecanismo descrito pela FAA.",
+   "Correta: expiração contra a glote fechada com contração de panturrilhas, coxas e ombros.",
+   "Errada: o esforço é contra a glote fechada, com os membros contraídos, não relaxados."
+  ]
+ },
+ {
+  "q": "Piloto de acrobacia chega ao voo após festa com álcool na véspera, poucas horas de sono e sem se hidratar; treina só corrida de longa distância. Segundo a FAA, qual afirmação sobre a sua tolerância a +Gz é correta?",
+  "alts": [
+   "Só o álcool a reduz; a fadiga e a desidratação não interferem na tolerância a G",
+   "A corrida de longa distância é o treino ideal e compensa a noite mal dormida",
+   "Álcool, fadiga e desidratação a reduzem; e treino só aeróbico pode até piorá-la",
+   "A desidratação aumenta a tolerância, pois reduz o volume que o coração bombeia",
+   "A tolerância a G é fixa em cada indivíduo e não varia de um dia para o outro"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — tolerância a G",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Acceleration in Aviation: G-Force' (OK-24-1154, 2024), The Bad Things / The Good Things",
+  "coment": "O folheto da FAA chama de 'Big Three' o álcool, a fadiga e a desidratação, frequentemente associados a eventos sociais: com eles, o aviador pode ter sintomas graves de G em níveis bem menores que os habituais. Sedentarismo e tabagismo também reduzem a tolerância, que varia de um dia para o outro — por isso pilotos militares fazem um 'G warm-up'. Bem hidratado, há mais volume circulante e o coração perfunde melhor o cérebro. O condicionamento ideal combina exercício aeróbico e treino resistido; o treino apenas aeróbico pode baixar tanto a frequência cardíaca que ela não acelera o suficiente para compensar o G.",
+  "porAlt": [
+   "Errada: fadiga e desidratação integram o 'Big Three' que degrada a tolerância.",
+   "Errada: a FAA recomenda combinar aeróbico e resistido; só aeróbico pode atrapalhar.",
+   "Correta: o 'Big Three' reduz a tolerância, e o treino só aeróbico pode não bastar e até atrapalhar.",
+   "Errada: a hidratação aumenta o volume circulante e melhora a perfusão cerebral.",
+   "Errada: a FAA afirma que a tolerância a G pode flutuar de um dia para o outro."
+  ]
+ },
+ {
+  "q": "Piloto de monomotor com o aquecimento de cabine ligado apresenta cefaleia pulsátil, confusão, dispneia acentuada, sonolência marcada e visão cada vez mais turva. Pela tabela da FAA, qual a faixa provável de COHb e a primeira conduta?",
+  "alts": [
+   "De 10 a 20%; manter o aquecimento e prosseguir, pois é cefaleia leve",
+   "De 21 a 30%; desligar o aquecimento e subir para ar mais puro em altitude",
+   "Acima de 51%; manter a rota e aguardar a melhora espontânea do quadro",
+   "De 31 a 40%; fechar janelas e aumentar o aquecimento para vedar a cabine",
+   "De 41 a 50%; desligar o aquecimento, ventilar ao máximo e pousar logo"
+  ],
+  "gab": 4,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — monóxido de carbono",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Carbon Monoxide: A Deadly Menace' (OK-24-1154, 2024), Table 1 e Protection; PHAK (FAA-H-8083-25C), cap. 17",
+  "coment": "A Tabela 1 do folheto da FAA relaciona carboxi-hemoglobina e sintomas: abaixo de 10%, nenhum; 10 a 20%, cefaleia leve; 21 a 30%, cefaleia, leve aumento da respiração e sonolência; 31 a 40%, cefaleia, julgamento prejudicado, dispneia, sonolência crescente e visão turva; 41 a 50%, cefaleia pulsátil, confusão, dispneia acentuada, sonolência marcada e visão cada vez mais turva; acima de 51%, inconsciência e morte se a vítima não for retirada da fonte. Os sintomas pioram em altitude. Conduta: desligar o aquecimento, ventilar ao máximo, abrir janelas se permitido, usar oxigênio se disponível e pousar o quanto antes. O CO pode levar até 48 horas para ser eliminado.",
+  "porAlt": [
+   "Errada: 10 a 20% dá só cefaleia leve, e manter o aquecimento perpetua a exposição.",
+   "Errada: subir agrava a hipóxia; a conduta é ventilar e pousar.",
+   "Errada: acima de 51% haveria inconsciência; e nunca se aguarda melhora espontânea.",
+   "Errada: vedar a cabine e aumentar o aquecimento aumentaria a exposição ao CO.",
+   "Correta: o quadro corresponde a 41–50% de COHb; cortar a fonte, ventilar e pousar logo."
+  ]
+ },
+ {
+  "q": "Piloto que voou resfriado sente, durante o voo, dor lancinante na face e acima da sobrancelha, dor nos dentes superiores e secreção nasal sanguinolenta. Segundo a FAA, em que fase isso é mais frequente e como se previne?",
+  "alts": [
+   "Na descida; evitando voar com infecção respiratória alta ou alergia nasal",
+   "Na subida; com descongestionante em spray, que protege de modo adequado",
+   "No cruzeiro; com descongestionante oral, que não afeta o desempenho do piloto",
+   "Na descida; acelerando a razão de descida para abreviar logo o desconforto",
+   "Na subida; com manobra de Valsalva vigorosa repetida durante toda a subida"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — bloqueio sinusal",
+  "base": "FAA — Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25C), cap. 17 'Aeromedical Factors', Middle Ear and Sinus Problems",
+  "coment": "Os seios da face equalizam a pressão com a cabine por pequenos óstios ligados às fossas nasais. Infecção respiratória alta, sinusite ou alergia nasal congestionam esses óstios e, com a diferença de pressão, podem obstruí-los: é o bloqueio sinusal, que segundo o manual da FAA ocorre com maior frequência na descida. Atinge os seios frontais (acima da sobrancelha) ou maxilares; o bloqueio maxilar pode doer nos dentes superiores, e pode haver secreção sanguinolenta. Razões de descida lentas reduzem a dor. Previne-se não voando com infecção respiratória alta ou alergia nasal; sprays descongestionantes em geral não protegem adequadamente, e os orais têm efeitos colaterais que prejudicam o desempenho.",
+  "porAlt": [
+   "Correta: mais frequente na descida; previne-se não voando com IVAS ou alergia nasal.",
+   "Errada: o bloqueio é mais frequente na descida, e o spray em geral não protege adequadamente.",
+   "Errada: descongestionantes orais têm efeitos colaterais que prejudicam o desempenho.",
+   "Errada: a FAA diz que razões de descida lentas é que reduzem a dor.",
+   "Errada: o bloqueio sinusal predomina na descida, e a prevenção é não voar congestionado."
+  ]
+ },
+ {
+  "q": "Na aproximação final para uma pista mais estreita que a habitual, que ilusão tende a ocorrer e qual o erro resultante, segundo a FAA?",
+  "alts": [
+   "Ilusão de estar mais baixo; o piloto sobe o nariz e pode estolar baixo",
+   "Ilusão de estar mais longe; o piloto acelera e ultrapassa o fim da pista",
+   "Ilusão de estar mais alto; o piloto baixa o nariz e pode pousar antes",
+   "Ilusão de estar inclinado; o piloto curva e se desalinha do eixo da pista",
+   "Ilusão de estar mais alto; o piloto sobe o nariz e arremete sem motivo"
+  ],
+  "gab": 2,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — ilusões visuais de pouso",
+  "base": "FAA — Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25C), cap. 17, Runway width illusion; FAA/CAMI — 'Spatial Disorientation: Visual Illusions'",
+  "coment": "Segundo o manual da FAA, uma pista mais estreita que o habitual cria a ilusão de que a aeronave está mais alta do que realmente está; o piloto que não reconhece a ilusão faz uma aproximação mais baixa, com risco de atingir obstáculos ou pousar antes da pista. A pista mais larga tem o efeito oposto (ilusão de estar baixo), com risco de arredondar alto e pousar duro. O folheto de ilusões visuais acrescenta: pista em aclive dá ilusão de aproximação alta; pista em declive, de baixa; terreno em declive antes de pista plana, de estar baixo. O manual registra ainda que chuva no para-brisa cria ilusão de maior altitude e a bruma, de maior distância e altura, ambas levando a aproximações baixas.",
+  "porAlt": [
+   "Errada: ilusão de estar baixo é a da pista mais larga que o habitual.",
+   "Errada: a largura da pista gera ilusão de altura, não de distância.",
+   "Correta: pista estreita dá ilusão de estar alto; o piloto baixa o nariz e pode pousar antes.",
+   "Errada: a ilusão de inclinação decorre de falso horizonte, não da largura da pista.",
+   "Errada: quem se julga alto baixa o nariz; não há subida nem arremetida por essa ilusão."
+  ]
+ },
+ {
+  "q": "Para enxergar melhor um objeto pouco iluminado durante o voo noturno, o que recomenda o manual da FAA, e por quê?",
+  "alts": [
+   "Olhar direto para o objeto, projetando a imagem na fóvea rica em cones",
+   "Olhar de 5° a 10° fora do centro, projetando a imagem nos bastonetes",
+   "Olhar de 30° a 40° fora do centro, projetando a imagem no ponto cego",
+   "Fixar o objeto por vários segundos, para recrutar os cones periféricos",
+   "Olhar de 5° a 10° fora do centro, projetando a imagem nos cones foveais"
+  ],
+  "gab": 1,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — visão noturna",
+  "base": "FAA — Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25C), cap. 17, Night Vision e Dark Adaptation",
+  "coment": "Os cones se concentram na fóvea e respondem pela cor e pelo detalhe em luz intensa; os bastonetes predominam na periferia e, adaptados ao escuro, são cerca de 10.000 vezes mais sensíveis que os cones. À noite, isso cria um ponto cego noturno no centro do campo visual. Por isso o manual da FAA manda olhar de 5° a 10° fora do centro do objeto, expondo os bastonetes à imagem. Os bastonetes levam cerca de 30 minutos para a adaptação completa ao escuro, e uma luz forte a desfaz. Fixar um ponto luminoso isolado no escuro por mais de alguns segundos provoca a ilusão de autocinese.",
+  "porAlt": [
+   "Errada: olhar direto projeta na fóvea, onde fica o ponto cego noturno.",
+   "Correta: olhar 5° a 10° fora do centro expõe os bastonetes, mais sensíveis no escuro.",
+   "Errada: o ponto cego anatômico (disco óptico) não tem cones nem bastonetes.",
+   "Errada: fixar um ponto luminoso no escuro provoca autocinese, não melhora a visão.",
+   "Errada: o ângulo está certo, mas a imagem cai nos bastonetes, não nos cones foveais."
+  ]
+ },
+ {
+  "q": "Segundo o folheto da FAA sobre audição e ruído na aviação, qual o limite de exposição contínua da OSHA e em que frequência a perda auditiva induzida começa?",
+  "alts": [
+   "90 dB por 8 horas; a perda permanente começa perto de 4.000 Hz",
+   "80 dB por 8 horas; a perda permanente começa perto de 500 Hz",
+   "90 dB por 4 horas; a perda permanente começa perto de 1.000 Hz",
+   "100 dB por 8 horas; a perda permanente começa perto de 8.000 Hz",
+   "90 dB por 8 horas; a perda permanente começa perto de 2.000 Hz"
+  ],
+  "gab": 0,
+  "tema": "aeroespacial",
+  "sub": "Fisiologia de voo — ruído",
+  "base": "FAA/CAMI — Medical Facts for Pilots, 'Hearing and Noise in Aviation' (AM-400-98/3)",
+  "coment": "O folheto da FAA informa que, pela OSHA, a exposição contínua máxima permitida a ruído estável no trabalho (cockpit incluído) é de 90 dB por 8 horas, com a tabela reduzindo o tempo à medida que o nível sobe: 95 dB por 4 horas, 100 dB por 2 horas, 105 dB por 1 hora. A exposição desprotegida acima de 90 dB por 8 horas ou mais ao dia, durante anos, pode causar perda permanente, que começa perto de 4.000 Hz — fora da faixa da conversa (500 a 3.000 Hz) — e por isso passa despercebida. Desconforto ocorre por volta de 120 dB, dor a 130 dB e ruptura timpânica a 140 dB. Atenção: 90 dB/8 h é a regra norte-americana (OSHA) citada pela FAA, não a norma brasileira — aqui os limites de tolerância são os da NR-15 e seus anexos (NR-09, item 9.6.1).",
+  "porAlt": [
+   "Correta: 90 dB por 8 horas (OSHA); a perda permanente começa perto de 4.000 Hz.",
+   "Errada: o limite citado é de 90 dB por 8 horas, e 500 Hz está na faixa da conversa.",
+   "Errada: 90 dB é o limite para 8 horas; 4 horas corresponde a 95 dB.",
+   "Errada: 100 dB é tolerado por só 2 horas, e a perda começa perto de 4.000 Hz.",
+   "Errada: 2.000 Hz está na faixa da conversa; a perda começa perto de 4.000 Hz."
+  ]
+ }
+]

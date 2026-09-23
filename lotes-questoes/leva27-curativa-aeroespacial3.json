@@ -110,25 +110,25 @@
   ]
  },
  {
-  "q": "Qual é a conduta correta quanto à imobilização de fratura exposta de membro no atendimento pré-hospitalar?",
+  "q": "Segundo o Protocolo BT13 do SAMU 192, qual é a conduta correta na imobilização de fratura exposta de membro no atendimento pré-hospitalar?",
   "alts": [
    "Reduzir a fratura no local, recolocando o fragmento ósseo exposto no interior da ferida antes de imobilizar",
    "Lavar abundantemente a ferida com antisséptico concentrado antes de aplicar qualquer imobilização",
    "Deixar o membro livre até a chegada ao hospital, para não comprometer a avaliação ortopédica posterior",
-   "Cobrir com curativo estéril úmido, imobilizar na posição encontrada e avaliar o pulso distal ao final",
+   "Cobrir com curativo estéril, voltar à posição anatômica salvo dor ou resistência e reavaliar o pulso",
    "Aplicar torniquete proximal em todas as fraturas expostas, independentemente de haver sangramento ativo"
   ],
   "gab": 3,
   "tema": "curativa",
   "sub": "Fratura exposta",
-  "base": "Conteúdo programático do Edital nº 2446 — Medicina do Tráfego Curativa (trauma de extremidades).",
-  "coment": "Na fratura exposta, a conduta pré-hospitalar é cobrir a ferida com curativo estéril, preferencialmente úmido, imobilizar o membro na posição em que foi encontrado — salvo quando há comprometimento vascular distal, situação em que se realiza alinhamento cuidadoso — e reavaliar o pulso, a perfusão, a motricidade e a sensibilidade distais ANTES E DEPOIS da imobilização. Não se deve tentar reduzir a fratura recolocando o fragmento exposto, manobra que introduz contaminação em profundidade. Deixar o membro livre agrava a dor, o sangramento e a lesão de partes moles durante o transporte, e o torniquete é reservado a hemorragia exsanguinante que não cede à compressão.",
+  "base": "Protocolos de Intervenção para o SAMU 192 — Suporte Básico de Vida (Ministério da Saúde), Protocolo BT13 (fratura exposta de extremidades), condutas 3 a 8 e observações; Protocolo BP9 (torniquete)",
+  "coment": "O Protocolo BT13 do SAMU 192 manda controlar o sangramento com curativo compressivo estéril, considerar breve limpeza/enxágue com solução salina se houver sujidade grosseira, cobrir ferimentos e extremidades ósseas com curativo estéril e avaliar pulso periférico, perfusão, sensibilidade e mobilidade ANTES e DEPOIS da imobilização. Na imobilização, a ênfase é o retorno à posição anatômica, exceto se houver dor significativa e/ou resistência ao reposicionamento — e não a imobilização 'na posição encontrada', que é a regra da cabeça quando o alinhamento cervical é contraindicado (BT11). Segundo as observações do BT13, o retorno à posição anatômica pode aliviar a compressão de artérias ou nervos e melhorar a perfusão e a função neurológica. O osso exposto NÃO deve ser recolocado no interior do ferimento; se as extremidades ósseas se retraírem para dentro da ferida durante a imobilização, anota-se o fato na ficha para a equipe do hospital. O torniquete (BP9) fica restrito ao ferimento de membro com hemorragia incontrolável mesmo após compressão direta.",
   "porAlt": [
-   "Recolocar o fragmento exposto introduz contaminação em profundidade e é contraindicado no local.",
-   "A lavagem com antisséptico concentrado não é conduta pré-hospitalar e lesa tecidos viáveis.",
-   "Deixar o membro livre agrava dor, sangramento e lesão de partes moles durante o transporte.",
-   "Correta: cobrir com curativo estéril, imobilizar na posição encontrada e reavaliar o pulso distal.",
-   "O torniquete é reservado à hemorragia exsanguinante que não cede à compressão direta aplicada."
+   "O BT13 proíbe recolocar o osso exposto no interior do ferimento durante a imobilização.",
+   "O BT13 prevê só breve enxágue com solução salina, e apenas se houver sujidade grosseira.",
+   "O BT13 manda imobilizar o segmento afetado, com a técnica mais apropriada, antes do transporte.",
+   "Correta: curativo estéril, retorno à posição anatômica (salvo dor ou resistência) e reavaliação do pulso.",
+   "O torniquete (BP9) é para hemorragia de membro incontrolável mesmo após compressão direta."
   ]
  },
  {

@@ -1,0 +1,684 @@
+[
+ {
+  "q": "Durante o exame de aptidão física e mental de candidato de 44 anos à renovação da categoria B, o perito ausculta sopro cardíaco não relatado no questionário e decide pedir ecocardiograma antes de concluir. Segundo o art. 4º da Resolução CONTRAN nº 927/2022, essa solicitação:",
+  "alts": [
+   "Depende de autorização prévia do órgão executivo de trânsito, que custeia os exames adicionais",
+   "Só é admitida para candidatos às categorias C, D e E, nos processos de renovação e de adição",
+   "Exige encaminhamento à Junta Médica, única instância apta a requisitar exames adicionais",
+   "É prevista na norma, que admite exames complementares ou especializados a critério médico",
+   "É vedada, pois o perito deve concluir no ato com base apenas no exame clínico realizado"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Exames complementares a critério médico",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, IV; Anexo VII (valvulopatias).",
+  "coment": "O art. 4º da Resolução CONTRAN nº 927/2022 organiza o exame de aptidão física e mental em quatro blocos: anamnese (questionário do Anexo I e interrogatório complementar), exame físico geral, exames específicos (oftalmológico, otorrinolaringológico, cardiorrespiratório, neurológico, locomotor e, para C, D e E, distúrbios do sono) e, no inciso IV, 'exames complementares ou especializados, solicitados a critério médico'. Não há exigência de autorização do órgão de trânsito nem de Junta. No caso, o sopro é relevante porque o Anexo VII distingue valvulopatia com repercussão hemodinâmica (inapto) da sem repercussão (apto, com prazo reduzido), e só o exame complementar permite essa distinção. A pegadinha é achar que o perito precisa concluir apenas com o exame clínico do dia.",
+  "porAlt": [
+   "Não há na norma exigência de autorização do órgão de trânsito para o pedido de exames complementares.",
+   "O inciso IV não restringe os exames complementares a categorias; vale para qualquer candidato.",
+   "A Junta Médica é instância de revisão (art. 12), não a única autorizada a pedir exames adicionais.",
+   "Correta: o art. 4º, IV, prevê exames complementares ou especializados solicitados a critério médico.",
+   "Não há vedação: a própria resolução prevê exames complementares como etapa do exame pericial."
+  ]
+ },
+ {
+  "q": "Segundo o art. 4º da Resolução CONTRAN nº 927/2022, qual dos itens abaixo NÃO pertence ao exame físico geral, mas sim a um dos exames específicos?",
+  "alts": [
+   "O tipo morfológico do candidato, primeiro item listado na observação do exame físico geral",
+   "O controle de impulsos e os indícios de uso de substâncias psicoativas durante a avaliação",
+   "A coloração da pele e das mucosas, observada dentro do estado geral do candidato examinado",
+   "As deformidades e as cicatrizes, buscando enfermidades que tragam risco à direção veicular",
+   "O grau de amplitude articular dos movimentos, próprio da avaliação do aparelho locomotor"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Exame físico geral x exames específicos",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, II (alíneas a, b e c) e III, 'e'.",
+  "coment": "O exame físico geral (art. 4º, II) tem três alíneas: (a) tipo morfológico; (b) comportamento e atitude frente ao examinador, humor, aparência, fala, contactuação e compreensão, percepção e atenção, orientação, memória e concentração, controle de impulsos e indícios de uso de substâncias psicoativas; (c) estado geral, fácies, trofismo, nutrição, hidratação, coloração da pele e mucosas, deformidades e cicatrizes. Já o grau de amplitude articular dos movimentos está no art. 4º, III, 'e', a avaliação do aparelho locomotor, que explora integridade e funcionalidade de cada membro e da coluna, malformações, agenesias e amputações. A questão cobra a arquitetura do exame: o que é observação geral e o que é exame específico com anexo ou critério próprio.",
+  "porAlt": [
+   "O tipo morfológico é a alínea 'a' do exame físico geral, portanto pertence a ele.",
+   "Controle de impulsos e indícios de psicoativos estão na alínea 'b' do exame físico geral.",
+   "A coloração de pele e mucosas integra a alínea 'c' (estado geral) do exame físico geral.",
+   "Deformidades e cicatrizes estão expressamente na alínea 'c' do exame físico geral.",
+   "Correta: a amplitude articular é explorada na avaliação do aparelho locomotor, art. 4º, III, 'e'."
+  ]
+ },
+ {
+  "q": "Perito examinador entrega o questionário do Anexo I ao candidato, confere a assinatura e, como todas as respostas foram 'não', passa direto ao exame físico. Segundo o art. 4º, I, da Resolução CONTRAN nº 927/2022, qual é a falha desse procedimento?",
+  "alts": [
+   "Faltou a assinatura de duas testemunhas, exigida no Anexo I para dar validade às respostas",
+   "O questionário deveria ser preenchido pelo perito, e não pelo candidato, sob pena de nulidade",
+   "O questionário só pode ser aplicado após o exame físico geral, para não induzir as respostas",
+   "A anamnese exige, além do questionário, o interrogatório complementar conduzido pelo perito",
+   "Respostas negativas obrigam a pedir exames complementares antes de iniciar o exame físico"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Anamnese: questionário e interrogatório complementar",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, I, 'a' e 'b'; art. 2º, §2º; Anexo I.",
+  "coment": "Pelo art. 4º, I, a anamnese do exame de aptidão física e mental tem DUAS partes: (a) o questionário do Anexo I e (b) o interrogatório complementar. O questionário é respondido e assinado pelo candidato 'sob pena de responsabilidade' (as informações prestadas são de responsabilidade dele, art. 2º, §2º), mas não esgota a anamnese: cabe ao perito aprofundar, perguntar sobre medicamentos, sintomas, história ocupacional e hábitos, justamente porque o candidato pode minimizar ou omitir condições. O Anexo I prevê campo de 'Observações Médicas' assinado pelo perito, e não assinatura de testemunhas. A pegadinha é tratar o questionário todo negativo como anamnese completa.",
+  "porAlt": [
+   "O Anexo I prevê assinatura do candidato e do médico, sem qualquer exigência de testemunhas.",
+   "Quem responde e assina o questionário é o candidato; o perito conduz o interrogatório complementar.",
+   "A norma põe a anamnese antes do exame físico; não há regra de aplicá-lo depois para evitar indução.",
+   "Correta: o art. 4º, I, exige o questionário (a) e o interrogatório complementar (b) na anamnese.",
+   "Resposta negativa não obriga exame complementar, que é pedido a critério médico (art. 4º, IV)."
+  ]
+ },
+ {
+  "q": "Mulher de 55 anos, com IMC de 34 kg/m², comparece para renovar a CNH categoria B, sem exercer atividade remunerada. Segundo o art. 4º, III, 'f', da Resolução CONTRAN nº 927/2022, a avaliação dos distúrbios do sono (Anexos X a XII):",
+  "alts": [
+   "É obrigatória, porque o IMC acima de 30 kg/m² torna exigível o rastreamento em qualquer categoria",
+   "É obrigatória em toda renovação de condutores com idade igual ou superior a cinquenta anos completos",
+   "Não é exigida pela norma nesse caso, pois se destina à renovação, adição e mudança para C, D e E",
+   "É exigida apenas na primeira habilitação, sendo dispensada em todas as renovações da categoria B",
+   "É obrigatória para todas as categorias desde a Lei nº 15.428/2026, que alterou o art. 147 do CTB"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Avaliação do sono: categorias alcançadas",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, 'f'; Anexo X, item 1.1.",
+  "coment": "A avaliação dos distúrbios do sono é o único exame específico com recorte de categoria: o art. 4º, III, 'f', a exige 'quando da renovação, adição e mudança para as categorias C, D e E', e o Anexo X, item 1.1, repete que esses condutores serão avaliados quanto à SAOS por parâmetros objetivos (HAS, IMC, perímetro cervical, Mallampati) e subjetivos (Epworth). O IMC acima de 30 é um INDÍCIO dentro dessa avaliação, não um gatilho que a torne obrigatória na categoria B. Isso não impede o perito de investigar sonolência na anamnese e pedir exames a critério médico (art. 4º, IV), mas a norma não a exige para essa candidata. A Lei nº 15.428/2026 não tratou do tema.",
+  "porAlt": [
+   "O IMC > 30 kg/m² é indício dentro da avaliação do Anexo X, e não gatilho para exigi-la em qualquer categoria.",
+   "A idade de 50 anos altera a periodicidade do exame (art. 147, §2º), não a exigência da avaliação do sono.",
+   "Correta: o art. 4º, III, 'f', limita a exigência à renovação, adição e mudança para C, D e E.",
+   "Não há exigência na primeira habilitação; o recorte da norma é por categoria C, D e E.",
+   "A Lei nº 15.428/2026 tratou de peritos, preço público, CNH e RNPC, não da avaliação do sono."
+  ]
+ },
+ {
+  "q": "Condutor de 38 anos, habilitado na categoria B, perdeu a visão do olho esquerdo em trauma há dois anos, sem percepção luminosa desse lado, e pede mudança para a categoria D. O olho direito tem acuidade de 20/20 e campo de 140º. Segundo o Anexo II e o art. 8º da Resolução CONTRAN nº 927/2022, qual é o resultado para a categoria pretendida?",
+  "alts": [
+   "Inapto, pois o motivo da reprovação na categoria pretendida é irreversível e não tratável",
+   "Inapto temporário, com reavaliação após noventa dias da perda da visão do olho afetado",
+   "Apto, pois o olho direito atende ao exigido e o campo supera 120º na isóptera horizontal",
+   "Apto com diminuição do prazo de validade do exame, a critério do médico perito examinador",
+   "Apto com restrições, com o código A e a vedação de dirigir após o pôr-do-sol (código U)"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Resultado por categoria pretendida",
+  "base": "Resolução CONTRAN nº 927/2022, art. 8º, IV; Anexo II, itens 1.1.1 e 1.3.",
+  "coment": "O art. 8º define os resultados SEMPRE em relação à 'categoria pretendida'. Para C, D e E, o Anexo II, item 1.1.1, exige acuidade de 20/30 em cada olho, ou 20/30 em um e 20/40 no outro, com binocular de 20/25 — o olho sem percepção luminosa (SPL) não atende. O item 1.3 só admite a aprovação do candidato SPL na ACC e nas categorias A e B, com 20/30, campo de 120º e, decorridos 90 dias da perda, capacete com viseira. Como a perda é definitiva, o motivo da reprovação para a categoria D é irreversível: resultado 'inapto' (art. 8º, IV), e não 'inapto temporário' (reservado ao que é tratável ou corrigível). A pegadinha é o prazo de 90 dias do item 1.3.3, que só vale para ACC, A e B.",
+  "porAlt": [
+   "Correta: motivo irreversível para a categoria pretendida caracteriza 'inapto' (art. 8º, IV).",
+   "Os 90 dias do item 1.3.3 referem-se à ACC e às categorias A e B, e a perda aqui é definitiva.",
+   "Para C, D e E o Anexo II exige acuidade mínima nos DOIS olhos; o olho SPL não atende.",
+   "A redução do prazo pressupõe aprovação, que o Anexo II não admite para SPL na categoria D.",
+   "Os códigos A e U não resolvem: o candidato SPL simplesmente não pode ser aprovado na categoria D."
+  ]
+ },
+ {
+  "q": "Candidato de 26 anos à primeira habilitação nas categorias A e B responde 'não' a todas as perguntas do Anexo I, mas, no exame, apresenta hiperemia conjuntival, midríase, fala pastosa e riso imotivado. Segundo o art. 4º da Resolução CONTRAN nº 927/2022, como o perito deve considerar esses achados?",
+  "alts": [
+   "Como irrelevantes, pois a resposta negativa à pergunta 7 vincula a conclusão do perito",
+   "Como indícios de uso de psicoativos, item expresso do exame físico geral a ser valorado",
+   "Como fundamento para acionar a autoridade policial, conduta prevista no próprio art. 4º",
+   "Como matéria exclusiva da avaliação psicológica, que não compete ao médico perito de trânsito",
+   "Como motivo de inaptidão definitiva, dispensada qualquer investigação clínica complementar"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Indícios de psicoativos no exame físico",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, I e II, 'b'; art. 2º, §2º; art. 8º.",
+  "coment": "O art. 4º, II, 'b', manda o perito observar, no exame físico geral, o comportamento e a atitude do candidato, a fala, a atenção e 'indícios do uso de substâncias psicoativas'. Assim, o achado objetivo não fica anulado pela resposta 'não' à pergunta 7 (drogas ilícitas) do Anexo I: as informações prestadas são de responsabilidade do candidato (art. 2º, §2º), mas a conclusão é do perito (art. 10). O caminho é valorar o achado, aprofundar no interrogatório complementar e, se necessário, pedir exames a critério médico (art. 4º, IV), classificando o resultado pelo art. 8º. Não há na norma inaptidão automática nem dever de acionar a polícia; e o tema não é exclusivo do psicólogo.",
+  "porAlt": [
+   "A resposta do candidato não vincula o perito; o exame físico existe para detectar o que foi omitido.",
+   "Correta: indícios de uso de substâncias psicoativas constam expressamente do art. 4º, II, 'b'.",
+   "O art. 4º não prevê comunicação à polícia; trata apenas dos procedimentos médicos do exame.",
+   "O próprio exame médico inclui a observação de comportamento e de indícios de psicoativos.",
+   "A norma não prevê inaptidão definitiva automática; o achado deve ser investigado e valorado."
+  ]
+ },
+ {
+  "q": "Candidato de 66 anos à renovação da categoria B tem catarata bilateral, com acuidade de 20/70 em cada olho mesmo com a melhor correção óptica, e indicação cirúrgica já feita pelo oftalmologista. Segundo o art. 8º e o Anexo II da Resolução CONTRAN nº 927/2022, qual é o resultado adequado?",
+  "alts": [
+   "Inapto, pois a acuidade abaixo do mínimo exigido é motivo definitivo de reprovação",
+   "Inapto temporário, pois o motivo da reprovação é passível de tratamento ou correção",
+   "Apto com restrições, com o código A e o código U, vedada a direção após o pôr-do-sol",
+   "Apto com diminuição do prazo de validade, até a realização da cirurgia de catarata",
+   "Apto com restrições, com o código T, vedando o tráfego em rodovias e vias rápidas"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Inapto temporário x inapto",
+  "base": "Resolução CONTRAN nº 927/2022, art. 8º, III e IV; Anexo II, item 1.2.1.",
+  "coment": "Para ACC, A e B, o Anexo II, item 1.2.1, exige acuidade de 20/40 em cada olho ou 20/30 em um deles (com ao menos percepção luminosa no outro), obtida com ou sem correção. Com 20/70 bilateral mesmo corrigido, o candidato não atinge o mínimo: não pode ser aprovado, nem com restrições. A escolha entre os dois resultados negativos segue o art. 8º: 'inapto temporário' quando o motivo 'for passível de tratamento ou correção' (III) e 'inapto' quando irreversível (IV). Catarata com indicação cirúrgica é, por definição, corrigível, e o candidato pode voltar após a cirurgia. As restrições A, U e T pressupõem que o mínimo já foi atingido; não servem para aprovar quem está abaixo dele.",
+  "porAlt": [
+   "Inapto (definitivo) exige motivo irreversível; a catarata operável é corrigível (art. 8º, III).",
+   "Correta: motivo tratável ou corrigível caracteriza o resultado inapto temporário (art. 8º, III).",
+   "Os códigos A e U não suprem acuidade abaixo do mínimo; só registram restrições de quem foi aprovado.",
+   "Não há aprovação com prazo reduzido para quem não atinge a acuidade mínima do Anexo II.",
+   "O código T restringe vias, mas não autoriza aprovar candidato abaixo do mínimo de acuidade."
+  ]
+ },
+ {
+  "q": "Segundo o art. 4º, III, da Resolução CONTRAN nº 927/2022, qual associação entre o exame específico e os anexos que o disciplinam está correta?",
+  "alts": [
+   "Avaliação otorrinolaringológica — Anexos V a VII, com o relatório do assistente",
+   "Avaliação cardiorrespiratória — Anexos III e IV, com a prova da voz coloquial",
+   "Distúrbios do sono — Anexos XIII e XIV, com a entrevista e a escala de Epworth",
+   "Avaliação oftalmológica — Anexos II e XV, com a tabela de restrições da CNH",
+   "Avaliação neurológica — Anexos VIII e IX, com o relatório do médico assistente"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Mapa dos exames específicos e anexos",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, alíneas 'a' a 'f'.",
+  "coment": "O art. 4º, III, distribui os exames específicos assim: (a) oftalmológica — Anexo II; (b) otorrinolaringológica — Anexos III e IV (este, a prova da voz coloquial); (c) cardiorrespiratória — Anexos V, VI (relatório médico de PA) e VII (tabela cardiológica); (d) neurológica — Anexos VIII e IX (este, o relatório do médico assistente para epilepsia); (e) aparelho locomotor, sem anexo próprio; (f) distúrbios do sono — Anexos X, XI (Epworth) e XII (Mallampati), só para renovação, adição e mudança para C, D e E. Os Anexos XIII e XIV são da avaliação psicológica, e o XV é a tabela de códigos de restrição. Conhecer o mapa ajuda a localizar rápido o critério na prova.",
+  "porAlt": [
+   "Os Anexos V a VII pertencem à avaliação cardiorrespiratória, não à otorrinolaringológica.",
+   "Os Anexos III e IV pertencem à avaliação otorrinolaringológica, não à cardiorrespiratória.",
+   "Os Anexos XIII e XIV tratam da avaliação psicológica; o sono segue os Anexos X, XI e XII.",
+   "O Anexo XV é a tabela de restrições da CNH; a avaliação oftalmológica está no Anexo II.",
+   "Correta: a avaliação neurológica segue os Anexos VIII e IX, este o relatório do médico assistente."
+  ]
+ },
+ {
+  "q": "Candidato de 30 anos com amputação transtibial direita é avaliado pela Junta Médica Especial, que conclui pela aptidão desde que o veículo tenha o acelerador posicionado à esquerda. Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, qual código deve constar da CNH?",
+  "alts": [
+   "Código H — obrigatório o uso de acelerador manual e de freio manual",
+   "Código J — adaptação dos comandos de painel aos membros inferiores",
+   "Código C — obrigatório o uso de acelerador posicionado à esquerda",
+   "Código D — obrigatório o uso de veículo com transmissão automática",
+   "Código L — prolongadores dos pedais e elevação do assoalho do veículo"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Código C do Anexo XV",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, §1º; art. 8º, parágrafo único; Anexo XV.",
+  "coment": "O candidato com deficiência física é examinado por Junta Médica Especial (art. 4º, §1º), que segue a NBR 14970 (§2º). Quando a aptidão depende de adaptação, o resultado é 'apto com restrições' e as observações vão codificadas na CNH conforme o Anexo XV (art. 8º, parágrafo único). No Anexo XV, o código C é 'obrigatório o uso de acelerador à esquerda'; D é transmissão automática; H é acelerador e freio manual; J é adaptação dos comandos de painel para os membros inferiores e/ou outras partes do corpo; L é prolongadores dos pedais e elevação do assoalho. Na prática, a Junta pode combinar códigos (por exemplo C e D), mas a adaptação descrita no caso corresponde ao código C.",
+  "porAlt": [
+   "O código H é o comando manual de acelerador e freio, típico de lesões dos dois membros inferiores.",
+   "O código J trata dos comandos de painel adaptados, não do reposicionamento do acelerador.",
+   "Correta: o código C do Anexo XV corresponde ao uso obrigatório de acelerador à esquerda.",
+   "O código D é da transmissão automática, adaptação diferente da descrita pela Junta.",
+   "O código L é de prolongadores de pedais e elevação do assoalho, usado para baixa estatura."
+  ]
+ },
+ {
+  "q": "Na CNH de uma condutora com paraplegia por lesão medular consta, entre as observações, o código H. Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, o que esse código determina?",
+  "alts": [
+   "Obrigatório o uso de veículo com direção hidráulica",
+   "Obrigatório o uso de empunhadura/pomo no volante",
+   "Vedado dirigir em rodovias e vias de trânsito rápido",
+   "Obrigatório adaptar os comandos de painel ao volante",
+   "Obrigatório o uso de acelerador e de freio manual"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Código H do Anexo XV",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XV; art. 8º, II e parágrafo único.",
+  "coment": "No Anexo XV, o código H significa 'obrigatório o uso de acelerador e freio manual' — a adaptação clássica para quem não tem controle funcional dos membros inferiores, como na paraplegia. Os vizinhos que confundem: E (empunhadura/manopla/pomo no volante), F (direção hidráulica), I (adaptação dos comandos de painel ao volante), J (comandos de painel para membros inferiores e/ou outras partes do corpo) e T (vedado dirigir em rodovias e vias de trânsito rápido). O resultado desse exame é 'apto com restrições', definido no art. 8º, II, como a necessidade de registrar na CNH restrição referente ao condutor ou adaptação veicular. Dirigir sem a adaptação imposta é infração gravíssima (CTB, art. 162, VI).",
+  "porAlt": [
+   "Direção hidráulica é o código F do Anexo XV, e não o código H.",
+   "Empunhadura, manopla ou pomo no volante correspondem ao código E.",
+   "A vedação de rodovias e vias de trânsito rápido é o código T da tabela.",
+   "A adaptação dos comandos de painel ao volante é o código I da tabela.",
+   "Correta: o código H determina o uso obrigatório de acelerador e freio manual."
+  ]
+ },
+ {
+  "q": "A Junta Médica Especial conclui que candidato com sequela de lesão do plexo braquial esquerdo pode dirigir automóvel desde que equipado com pomo no volante e direção hidráulica. Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, quais códigos devem constar da CNH?",
+  "alts": [
+   "Códigos E e F — pomo no volante e direção hidráulica",
+   "Códigos K e L — alavanca de câmbio e pedais prolongados",
+   "Códigos C e D — acelerador à esquerda e caixa automática",
+   "Códigos I e J — comandos de painel ao volante e aos pés",
+   "Códigos E e X — pomo no volante e outras restrições"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Códigos E e F do Anexo XV",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XV; art. 4º, §§1º e 2º.",
+  "coment": "O Anexo XV traz, em sequência, E — 'obrigatório o uso de empunhadura/manopla/pômo no volante' e F — 'obrigatório o uso de veículo com direção hidráulica'. São as adaptações típicas de quem conduz o volante com um só membro superior funcional. O código X ('outras restrições') é a cláusula aberta para o que a tabela não prevê — não se usa quando existe código específico, como a direção hidráulica. C e D (acelerador à esquerda, transmissão automática), I e J (comandos de painel) e K e L (prolongamento de alavanca, pedais e almofadas de compensação) resolvem outros déficits. A avaliação é da Junta Médica Especial designada pelo diretor do órgão executivo estadual, seguindo a NBR 14970.",
+  "porAlt": [
+   "Correta: E é empunhadura/manopla/pomo no volante e F é veículo com direção hidráulica.",
+   "K e L tratam de prolongamentos e almofadas de compensação de altura e profundidade.",
+   "C e D tratam de acelerador à esquerda e transmissão automática, déficits de membro inferior.",
+   "I e J tratam de comandos de painel adaptados, não do pomo nem da direção hidráulica.",
+   "O código X é residual; a direção hidráulica tem código próprio, o F, na tabela."
+  ]
+ },
+ {
+  "q": "Candidata de 24 anos com acondroplasia e 1,25 m de altura é considerada apta pela Junta Médica Especial para dirigir veículo com prolongadores dos pedais e elevação do assoalho. Segundo o Anexo XV da Resolução CONTRAN nº 927/2022, qual código corresponde a essa adaptação?",
+  "alts": [
+   "Código L, que trata dos prolongadores dos pedais e da elevação do assoalho",
+   "Código K, que trata do prolongamento da alavanca de câmbio e de almofadas fixas",
+   "Código J, que trata dos comandos de painel adaptados para os membros inferiores",
+   "Código C, que trata do acelerador posicionado à esquerda do pedal de freio",
+   "Código X, que trata das outras restrições não previstas pela tabela oficial"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Código L do Anexo XV",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XV (códigos K e L); art. 4º, §1º.",
+  "coment": "O Anexo XV separa duas adaptações que a baixa estatura costuma exigir: K — 'veículo com prolongamento da alavanca de câmbio e/ou almofadas (fixas) de compensação de altura e/ou profundidade' e L — 'veículo com prolongadores dos pedais e elevação do assoalho e/ou almofadas fixas de compensação de altura e/ou profundidade'. Prolongador de pedal e elevação do assoalho estão no L. Ambos podem constar juntos quando necessários. O código J é adaptação dos comandos de painel para membros inferiores e/ou outras partes do corpo; C é o acelerador à esquerda; X é residual. O resultado é 'apto com restrições' e a avaliação cabe à Junta Médica Especial (art. 4º, §1º).",
+  "porAlt": [
+   "Correta: prolongadores dos pedais e elevação do assoalho correspondem ao código L.",
+   "O código K é da alavanca de câmbio e das almofadas; os prolongadores de pedais estão no L.",
+   "O código J é de comandos de painel adaptados, não de prolongadores dos pedais.",
+   "O código C é o acelerador à esquerda, adaptação sem relação com a baixa estatura.",
+   "O código X é residual e não se usa quando a adaptação tem código próprio na tabela."
+  ]
+ },
+ {
+  "q": "Condutor com a observação 'obrigatório o uso de lentes corretivas' (código A) na CNH é abordado em fiscalização dirigindo sem óculos nem lentes de contato. Segundo o art. 162, VI, do CTB, qual é o enquadramento?",
+  "alts": [
+   "Infração média, com multa e advertência por escrito ao condutor na primeira vez",
+   "Infração grave, com multa e recolhimento imediato do documento de habilitação",
+   "Infração gravíssima, com multa (três vezes) e suspensão do direito de dirigir",
+   "Infração gravíssima, com multa e retenção do veículo até sanar a irregularidade",
+   "Não há infração, pois a lente só é exigível de quem exerce atividade remunerada"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Descumprir restrição da CNH",
+  "base": "CTB, art. 162, VI; Resolução CONTRAN nº 927/2022, Anexo II, item 1.4; Anexo XV.",
+  "coment": "O art. 162, VI, do CTB pune quem dirige 'sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir': infração gravíssima, penalidade de multa e medida administrativa de retenção do veículo até o saneamento da irregularidade ou apresentação de condutor habilitado. É a consequência prática do resultado 'apto com restrições' do exame pericial: as observações do Anexo XV (A = lentes corretivas; B = prótese auditiva; C a S = adaptações) passam a ser exigíveis na via. A multa triplicada com retenção cabe a quem dirige sem habilitação (art. 162, I), não a este caso.",
+  "porAlt": [
+   "A infração é gravíssima, e não média; tampouco há previsão de advertência automática aqui.",
+   "A natureza é gravíssima e a medida é retenção do veículo, não recolhimento da habilitação.",
+   "A penalidade do inciso VI é multa simples, sem suspensão do direito de dirigir.",
+   "Correta: art. 162, VI — gravíssima, multa e retenção até o saneamento da irregularidade.",
+   "A restrição do código A vale para todo condutor que a recebeu, remunerado ou não."
+  ]
+ },
+ {
+  "q": "Perito aprova condutor de 45 anos na renovação da categoria B, mas, por indício de doença de caráter progressivo, reduz o prazo do exame para dois anos. Segundo o art. 159, §10, do CTB, qual será a validade da CNH expedida?",
+  "alts": [
+   "Dez anos, pois a redução vale só para o exame e não alcança o documento de habilitação",
+   "Dez anos, com obrigação de o condutor refazer só o exame médico depois de dois anos",
+   "Três anos, pois a redução proposta pelo perito conduz à próxima faixa etária legal",
+   "Cinco anos, prazo mínimo de validade da CNH fixado para qualquer condutor habilitado",
+   "Dois anos, pois a validade da CNH está condicionada à vigência do exame de aptidão"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Validade da CNH e prazo do exame",
+  "base": "CTB, art. 159, §10, e art. 147, §§2º e 4º.",
+  "coment": "O art. 159, §10, do CTB estabelece que 'a validade da Carteira Nacional de Habilitação está condicionada ao prazo de vigência do exame de aptidão física e mental'. Por isso, quando o perito usa a prerrogativa do art. 147, §4º — reduzir os prazos do §2º (10, 5 ou 3 anos) diante de indícios de deficiência física ou mental ou de progressividade de doença — a CNH sai com a validade reduzida. Não existe prazo mínimo legal de cinco anos para a CNH, nem regra que obrigue a saltar para a faixa etária seguinte: a redução é proposta pelo perito conforme o caso. A questão mostra por que o prazo registrado pelo perito tem efeito direto sobre o documento.",
+  "porAlt": [
+   "O §10 do art. 159 vincula a validade da CNH à vigência do exame; a redução alcança o documento.",
+   "A CNH não pode valer além do exame; não há renovação isolada do exame no meio da validade.",
+   "A redução do art. 147, §4º, é definida pelo perito, sem vinculação à faixa etária seguinte.",
+   "Não há prazo mínimo legal de cinco anos para a CNH; o prazo acompanha o exame de aptidão.",
+   "Correta: a validade da CNH acompanha a vigência do exame de aptidão (CTB, art. 159, §10)."
+  ]
+ },
+ {
+  "q": "Condutora completa 50 anos exatamente na data do exame de renovação da categoria B, com avaliação inteiramente normal. Segundo o art. 147, §2º, do CTB, qual periodicidade deve ser aplicada ao exame?",
+  "alts": [
+   "Dez anos, pois a faixa decenal alcança os condutores com até 50 anos completos",
+   "Três anos, pois após os 50 anos se aplica a faixa destinada aos condutores idosos",
+   "Cinco anos, pois a faixa quinquenal abrange idade igual ou superior a 50 anos",
+   "Dez anos, pois a idade considerada é a da data da primeira habilitação dela",
+   "Cinco anos, mas só se o perito propuser a redução por doença de caráter progressivo"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Periodicidade: limite dos 50 anos",
+  "base": "CTB, art. 147, §2º, I a III (redação da Lei nº 14.071/2020).",
+  "coment": "O art. 147, §2º, do CTB fixa a periodicidade do exame de aptidão física e mental: I — a cada 10 anos para condutores com idade INFERIOR a 50 anos; II — a cada 5 anos para idade IGUAL OU SUPERIOR a 50 e inferior a 70; III — a cada 3 anos para idade igual ou superior a 70. Quem completa 50 anos na data do exame já tem 'idade igual ou superior a 50' e entra na faixa quinquenal por força de lei, sem depender de proposta do perito (a proposta do §4º serve para REDUZIR aquém da faixa). A faixa decenal é para 'inferior a 50', não 'até 50'. E a idade considerada é a do condutor no exame, não a da primeira habilitação.",
+  "porAlt": [
+   "A faixa decenal é para idade inferior a 50 anos; quem tem 50 anos completos já está na quinquenal.",
+   "A faixa trienal começa aos 70 anos; entre 50 e 69 anos o prazo legal é de cinco anos.",
+   "Correta: o inciso II do §2º abrange idade igual ou superior a 50 e inferior a 70 anos.",
+   "A lei considera a idade do condutor no exame, não a idade na primeira habilitação.",
+   "Os cinco anos decorrem da própria lei; a proposta do perito (§4º) serve para reduzir o prazo."
+  ]
+ },
+ {
+  "q": "Segundo o art. 148-A, §11, do CTB, incluído pela Lei nº 15.153/2025, como a clínica que realiza o exame de aptidão física e mental pode se relacionar com a coleta do exame toxicológico?",
+  "alts": [
+   "Pode agregar posto de coleta em ambiente próprio e segregado, contratado por laboratório",
+   "Pode realizar coleta e análise, desde que o médico perito assine o laudo toxicológico",
+   "Está proibida de sediar a coleta, para evitar conflito de interesse com a perícia médica",
+   "Pode coletar na própria sala de exame médico, dispensando o contrato com laboratório",
+   "Pode sediar a coleta só se credenciada pela entidade executiva estadual para esse fim"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Posto de coleta toxicológica na clínica",
+  "base": "CTB, art. 148-A, §§7º e 11 (Leis nº 14.440/2022 e 15.153/2025).",
+  "coment": "O §11 do art. 148-A permite que 'as clínicas médicas onde forem realizados os exames de aptidão física e mental' agreguem às suas instalações, 'em ambiente físico próprio e segregado', a atividade de posto de coleta laboratorial 'devidamente contratada por laboratório credenciado pelo órgão máximo executivo de trânsito da União'. A análise continua sendo do laboratório, credenciado pela União (§7º), em regime de livre concorrência. Assim, a clínica não assina laudo toxicológico, não coleta dentro da sala do exame médico e não depende de credenciamento estadual para isso. A pegadinha é confundir o credenciamento da clínica (estadual, Resolução 927) com o do laboratório (federal).",
+  "porAlt": [
+   "Correta: posto de coleta em ambiente próprio e segregado, contratado por laboratório credenciado.",
+   "A análise e o laudo são do laboratório credenciado pela União; a clínica só pode sediar a coleta.",
+   "Não há proibição: o §11 autoriza expressamente o posto de coleta nas clínicas de aptidão.",
+   "O ambiente deve ser próprio e segregado, e a coleta depende de contrato com laboratório.",
+   "O laboratório é credenciado pelo órgão máximo executivo da União, não pelo órgão estadual."
+  ]
+ },
+ {
+  "q": "Condutor condenado por homicídio culposo na direção de veículo automotor teve reconhecida a prescrição, com base na pena concretizada na sentença. Segundo o art. 160 do CTB, para voltar a dirigir ele:",
+  "alts": [
+   "Deve submeter-se a novos exames, independentemente do reconhecimento da prescrição",
+   "Está dispensado de novos exames, porque a prescrição extingue os efeitos da condenação",
+   "Deve aguardar dois anos e então fazer só o exame de direção veicular na via pública",
+   "Deve só refazer o curso de reciclagem, sem novo exame de aptidão física e mental",
+   "Deve refazer apenas a avaliação psicológica, única exigida após condenação criminal"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Novos exames após condenação",
+  "base": "CTB, art. 160, caput; art. 263, III.",
+  "coment": "O art. 160 do CTB determina que 'o condutor condenado por delito de trânsito deverá ser submetido a novos exames para que possa voltar a dirigir, de acordo com as normas estabelecidas pelo CONTRAN, independentemente do reconhecimento da prescrição, em face da pena concretizada na sentença'. O art. 263, III, prevê ainda a cassação do documento quando condenado judicialmente por delito de trânsito, 'observado o disposto no art. 160'. Ou seja: a prescrição da pena não livra o condutor da reavaliação — a lógica é de segurança viária, não de punição. A lei não restringe os novos exames ao psicológico ou ao de direção, nem os substitui por reciclagem.",
+  "porAlt": [
+   "Correta: novos exames 'independentemente do reconhecimento da prescrição' (art. 160, caput).",
+   "O art. 160 afasta expressamente esse argumento: os exames são exigidos apesar da prescrição.",
+   "O prazo de dois anos é da reabilitação após cassação (art. 263, §2º), com todos os exames.",
+   "O art. 160 exige novos exames, e não apenas curso de reciclagem para o condutor.",
+   "A lei fala em 'novos exames', sem restringi-los à avaliação psicológica do condutor."
+  ]
+ },
+ {
+  "q": "Motorista envolvido em sinistro grave, ainda sem qualquer condenação, é convocado pela autoridade executiva estadual de trânsito para novos exames. Segundo o art. 160, §§1º e 2º, do CTB, é correto afirmar que:",
+  "alts": [
+   "A convocação depende de sentença penal condenatória já transitada em julgado",
+   "A autoridade pode exigi-los, mas é vedado reter a habilitação durante esse período",
+   "Os exames só podem ser determinados pelo juiz criminal, no curso da ação penal",
+   "A convocação é automática para todo envolvido, sem juízo da autoridade estadual",
+   "A autoridade pode exigi-los, com ampla defesa, e apreender a CNH até a aprovação"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Novos exames após sinistro grave",
+  "base": "CTB, art. 160, §§1º e 2º (redação da Lei nº 14.599/2023).",
+  "coment": "O §1º do art. 160 prevê que, 'em caso de sinistro grave, o condutor nele envolvido poderá ser submetido aos exames exigidos neste artigo, a juízo da autoridade executiva estadual de trânsito, assegurada ampla defesa ao condutor'. O §2º acrescenta que, nesse caso, a autoridade 'poderá apreender o documento de habilitação do condutor até a sua aprovação nos exames realizados'. Portanto, é medida administrativa, independente de condenação criminal, discricionária (a juízo da autoridade, e não automática) e com garantia de defesa. Para o perito, o caso chega como exame de aptidão física e mental por determinação da autoridade de trânsito.",
+  "porAlt": [
+   "A hipótese do §1º independe de condenação; a do caput é que trata do condenado.",
+   "O §2º autoriza expressamente a apreensão do documento até a aprovação nos exames.",
+   "Quem decide é a autoridade executiva estadual de trânsito, não o juiz criminal.",
+   "O §1º diz 'poderá' e 'a juízo da autoridade': não há convocação automática.",
+   "Correta: a juízo da autoridade estadual, com ampla defesa e possível apreensão da CNH."
+  ]
+ },
+ {
+  "q": "Condutor teve a CNH cassada por dirigir durante o período de suspensão do direito de dirigir. Segundo o art. 263, §2º, do CTB, quando e como ele pode voltar a se habilitar?",
+  "alts": [
+   "Após um ano da cassação, refazendo só o exame de aptidão física e mental e o psicológico",
+   "Após dois anos da cassação, requerendo reabilitação e submetendo-se a todos os exames",
+   "Após cinco anos da cassação, por novo processo iniciado com nova Permissão para Dirigir",
+   "Após dois anos da cassação, refazendo apenas o curso de reciclagem para infratores",
+   "De imediato, se aprovado em Junta Médica instaurada a pedido do próprio condutor cassado"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Reabilitação após cassação",
+  "base": "CTB, art. 263, I e §2º.",
+  "coment": "O art. 263, I, prevê a cassação do documento de habilitação quando, suspenso o direito de dirigir, o infrator conduz qualquer veículo. O §2º dispõe que, 'decorridos dois anos da cassação da Carteira Nacional de Habilitação, o infrator poderá requerer sua reabilitação, submetendo-se a todos os exames necessários à habilitação, na forma estabelecida pelo CONTRAN'. Para o perito, isso significa que o reabilitando faz o exame de aptidão física e mental como se fosse candidato à habilitação, dentro do processo completo. A Junta Médica do art. 12 da Resolução 927 é revisão de resultado de exame, não atalho para reaver documento cassado.",
+  "porAlt": [
+   "O prazo legal é de dois anos, e a reabilitação exige todos os exames, não só os de saúde.",
+   "Correta: dois anos após a cassação, com reabilitação e todos os exames (art. 263, §2º).",
+   "O art. 263, §2º, fixa dois anos, e não cinco, para requerer a reabilitação.",
+   "Após dois anos exigem-se todos os exames necessários à habilitação, não só reciclagem.",
+   "A Junta Médica revisa resultado de exame; não reverte cassação do documento de habilitação."
+  ]
+ },
+ {
+  "q": "Piloto de aeronave apresenta, na renovação da CNH, o cartão de saúde expedido pela autoridade aeronáutica. Segundo o art. 148, §5º, do CTB, qual é a possibilidade prevista para esse tripulante?",
+  "alts": [
+   "Dispensa do conjunto dos exames do processo, inclusive o escrito de legislação",
+   "Nenhuma, pois a dispensa legal alcança só militares com curso de condutor",
+   "Redução pela metade do prazo do exame médico, por equivalência aeronáutica",
+   "Dispensa do exame de aptidão física e mental, se assim o CONTRAN dispuser",
+   "Dispensa só da avaliação psicológica, mantido o exame médico de trânsito"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Dispensa dos tripulantes de aeronave",
+  "base": "CTB, art. 148, §5º; Resolução CONTRAN nº 927/2022, art. 3º, parágrafo único.",
+  "coment": "O art. 148, §5º, do CTB diz que 'o CONTRAN poderá dispensar os tripulantes de aeronaves que apresentarem o cartão de saúde expedido pelas Forças Armadas ou pelo Departamento de Aeronáutica Civil, respectivamente, da prestação do exame de aptidão física e mental'. A Resolução CONTRAN nº 927/2022 exerceu essa faculdade no art. 3º, parágrafo único: 'ficam dispensados da realização dos exames previstos no caput os candidatos que se enquadrem no §5º do art. 148 do CTB'. A dispensa prevista no CTB é a do exame de aptidão física e mental; não alcança o exame escrito de legislação nem o de direção veicular. A distratora sobre militares mistura outra regra: o art. 152, §2º, dispensa militares, policiais e bombeiros dos exames em que foram aprovados no curso de formação da corporação.",
+  "porAlt": [
+   "A dispensa do §5º refere-se ao exame de aptidão física e mental, não a todo o processo.",
+   "A dispensa de militares com curso de formação é outra regra (art. 152, §2º).",
+   "Não há previsão de redução de prazo por equivalência; a lei fala em dispensa do exame.",
+   "Correta: o CONTRAN pode dispensá-lo do exame de aptidão física e mental (art. 148, §5º).",
+   "O §5º refere-se ao exame de aptidão física e mental, e não só à avaliação psicológica."
+  ]
+ },
+ {
+  "q": "Homem de 40 anos, que não sabe ler nem escrever, procura clínica credenciada para iniciar o processo de primeira habilitação na categoria B. Segundo o art. 140 do CTB, qual é a situação dele?",
+  "alts": [
+   "Pode habilitar-se na ACC e na categoria A, mas não nas categorias B a E",
+   "Pode habilitar-se, desde que a prova escrita seja substituída por prova oral",
+   "Pode habilitar-se, desde que conste o código X (outras restrições) na CNH",
+   "Não preenche requisito legal, pois o condutor deve saber ler e escrever",
+   "Deve ser encaminhado à Junta Médica Especial, que decide o caso concreto"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "Requisitos do art. 140 do CTB",
+  "base": "CTB, art. 140, I a III.",
+  "coment": "O art. 140 do CTB estabelece os requisitos para a habilitação: I — ser penalmente imputável; II — saber ler e escrever; III — possuir Carteira de Identidade ou equivalente. São requisitos legais do candidato, anteriores e independentes do exame de aptidão física e mental. O analfabetismo não é deficiência física para fins de Junta Médica Especial (art. 4º, §1º, da Resolução 927), nem se resolve por código de restrição do Anexo XV, que registra restrições e adaptações decorrentes do exame pericial. Também não há previsão de prova oral substitutiva nem de habilitação parcial por categoria. O caso mostra que aptidão médica não basta: os requisitos legais do art. 140 vêm antes.",
+  "porAlt": [
+   "O requisito do art. 140 vale para todas as categorias, inclusive ACC e A.",
+   "O CTB não prevê substituição da prova escrita por oral para quem não é alfabetizado.",
+   "O Anexo XV registra restrições do exame pericial; não supre requisito legal do art. 140.",
+   "Correta: saber ler e escrever é requisito legal do art. 140, II, do CTB.",
+   "A Junta Médica Especial avalia candidato com deficiência física, não o analfabetismo."
+  ]
+ },
+ {
+  "q": "Motorista de 20 anos, habilitado na categoria B há dois anos e sem infrações, pede mudança para a categoria D para dirigir ônibus. O exame de aptidão física e mental é normal. Segundo o art. 145 do CTB, qual é o impedimento?",
+  "alts": [
+   "Precisaria de ao menos três anos na categoria B para mudar para a D",
+   "Ainda não é maior de vinte e um anos, requisito para a categoria D",
+   "Precisaria passar antes pela categoria C, com um ano de habilitação",
+   "Não há impedimento, pois o tempo de habilitação na B cumpre dois anos",
+   "Precisaria ter 25 anos, idade mínima para o transporte de passageiros"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "Idade mínima para as categorias D e E",
+  "base": "CTB, art. 145, I a IV.",
+  "coment": "O art. 145 do CTB exige, para habilitar-se nas categorias D e E (ou conduzir transporte coletivo, escolar, de emergência ou de produto perigoso): I — ser maior de vinte e um anos; II — estar habilitado no mínimo há dois anos na categoria B, ou no mínimo há um ano na C, quando pretender a D (e há um ano na C para a E); III — não ter cometido mais de uma infração gravíssima nos últimos 12 meses; IV — aprovação em curso especializado e de prática veicular em situação de risco. O motorista cumpre o tempo na B (dois anos), mas tem 20 anos: falta o requisito etário. Não é preciso passar pela C, e não existe idade mínima de 25 anos.",
+  "porAlt": [
+   "O art. 145, II, 'a', exige dois anos na categoria B, requisito que ele já cumpre.",
+   "Correta: o art. 145, I, exige ser maior de vinte e um anos para a categoria D.",
+   "A passagem pela C é alternativa (um ano na C), não obrigatória para chegar à D.",
+   "Há impedimento: o requisito etário do art. 145, I, não foi cumprido aos 20 anos.",
+   "A idade mínima legal para D e E é a de maior de vinte e um anos, e não 25."
+  ]
+ },
+ {
+  "q": "Motorista de aplicativo de 29 anos responde 'sim' à pergunta 9 do Anexo I, sobre exercer atividade remunerada como condutor. Além da avaliação psicológica, qual consequência dessa informação está prevista no art. 147, §5º, do CTB?",
+  "alts": [
+   "O prazo do exame passa a ser de três anos, qualquer que seja a idade dele",
+   "O condutor passa a fazer exame toxicológico, mesmo habilitado só na categoria B",
+   "O exame passa a ser feito pela Junta Médica, e não pelo perito da clínica",
+   "A informação de atividade remunerada é incluída na CNH, conforme o Contran",
+   "O condutor deve renovar o exame a cada ano enquanto exercer essa função"
+  ],
+  "gab": 3,
+  "tema": "aptidao",
+  "sub": "EAR registrada na CNH",
+  "base": "CTB, art. 147, §§3º e 5º; Resolução CONTRAN nº 927/2022, Anexo I, pergunta 9.",
+  "coment": "A pergunta 9 do Anexo I ('Você exerce atividade remunerada como condutor?') tem efeitos legais diretos. O art. 147, §3º, do CTB inclui a avaliação psicológica 'sempre que' se submeter ao exame o condutor que exerce atividade remunerada ao veículo; e o §5º determina que 'o condutor que exerce atividade remunerada ao veículo terá essa informação incluída na sua Carteira Nacional de Habilitação, conforme especificações do Conselho Nacional de Trânsito — Contran'. A periodicidade do exame continua sendo a do §2º, por idade, e o toxicológico segue a categoria (C, D e E, e a primeira habilitação A e B pelo §10 do art. 148-A), não a atividade remunerada. Não há Junta obrigatória nem renovação anual.",
+  "porAlt": [
+   "A periodicidade segue a idade (§2º); a atividade remunerada não cria prazo trienal.",
+   "O toxicológico do art. 148-A depende da categoria, não da atividade remunerada.",
+   "O exame continua com o perito credenciado; a Junta Médica é instância de revisão.",
+   "Correta: o art. 147, §5º, manda incluir a informação de atividade remunerada na CNH.",
+   "Não há renovação anual por atividade remunerada; valem as faixas do art. 147, §2º."
+  ]
+ },
+ {
+  "q": "Condutor de 40 anos, habilitado na categoria B desde os 19 e sem atividade remunerada, pede adição da categoria A. Segundo o art. 147, §3º, do CTB, a avaliação psicológica nesse processo:",
+  "alts": [
+   "É obrigatória, pois a avaliação psicológica acompanha todo exame de aptidão física",
+   "É exigida só se o condutor já tiver completado 50 anos de idade na data do exame",
+   "Não é exigida, pois para quem não é remunerado só integra a primeira habilitação",
+   "É obrigatória, pois toda adição de categoria reabre o processo de habilitação",
+   "É exigida só se a categoria acrescida for C, D ou E, de uso tipicamente profissional"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Avaliação psicológica: quando é exigida",
+  "base": "CTB, art. 147, §3º; Resolução CONTRAN nº 927/2022, Anexos XVI e XVII.",
+  "coment": "O art. 147, §3º, do CTB determina que o exame 'incluirá avaliação psicológica preliminar e complementar sempre que a ele se submeter o condutor que exerce atividade remunerada ao veículo, incluindo-se esta avaliação para os demais candidatos apenas no exame referente à primeira habilitação'. Para quem não exerce atividade remunerada, portanto, a avaliação psicológica é exigência da primeira habilitação, não de adição, mudança ou renovação. A própria Resolução 927 reflete isso: o mapa estatístico da avaliação psicológica (Anexo XVI) traz linhas de exame inicial e renovação, enquanto o do exame médico (Anexo XVII) inclui também adição e mudança de categoria. A lei não usa idade nem categoria como gatilho.",
+  "porAlt": [
+   "A avaliação psicológica não acompanha todo exame; o §3º define quando ela é incluída.",
+   "A idade de 50 anos muda a periodicidade do exame, não a exigência da avaliação psicológica.",
+   "Correta: para quem não exerce atividade remunerada, só na primeira habilitação (§3º).",
+   "Adição de categoria não reabre a primeira habilitação; o §3º limita a exigência a ela.",
+   "O critério legal é a atividade remunerada, e não a categoria acrescida ao documento."
+  ]
+ },
+ {
+  "q": "Segundo o art. 147, §1º, do CTB, o que deve ser registrado no RENACH em relação aos exames do processo de habilitação?",
+  "alts": [
+   "Os resultados de inaptidão, que servem ao bloqueio do cadastro do candidato",
+   "A íntegra do prontuário médico, inclusive o questionário do Anexo I assinado",
+   "Os resultados dos exames, vedada a identificação dos que os aplicaram",
+   "Somente o resultado final, depois do exame de direção veicular na via",
+   "Os resultados dos exames e a identificação dos respectivos examinadores"
+  ],
+  "gab": 4,
+  "tema": "aptidao",
+  "sub": "Registro no RENACH",
+  "base": "CTB, art. 147, §1º; Resolução CONTRAN nº 927/2022, arts. 2º e 10, §1º.",
+  "coment": "O art. 147, §1º, do CTB determina que 'os resultados dos exames e a identificação dos respectivos examinadores serão registrados no RENACH'. A identificação do perito é essencial porque a realização e o resultado do exame são de sua exclusiva responsabilidade (art. 10 da Resolução 927). O prontuário completo, com questionário e anotações clínicas, não vai para o RENACH: os documentos do exame são arquivados conforme as determinações do CFM e do CFP (art. 10, §1º), preservando o sigilo. O preenchimento do formulário RENACH é responsabilidade da entidade credenciada (art. 2º, §1º). O registro não se limita aos inaptos nem espera o fim do processo.",
+  "porAlt": [
+   "O RENACH recebe todos os resultados, não só as inaptidões; o bloqueio é outra providência.",
+   "O prontuário é arquivado pelas normas do CFM e do CFP, não transcrito no RENACH.",
+   "A lei exige justamente a identificação dos examinadores no RENACH.",
+   "Cada exame tem seu resultado registrado, sem esperar o término do processo.",
+   "Correta: resultados e identificação dos examinadores são registrados no RENACH."
+  ]
+ },
+ {
+  "q": "Segundo o art. 155, parágrafo único, do CTB, a autorização para aprendizagem é expedida ao aprendiz após a aprovação em quais exames?",
+  "alts": [
+   "Aptidão física e mental e direção veicular realizada na via pública",
+   "Legislação de trânsito e direção veicular, dispensado o exame médico",
+   "Aptidão física e mental, primeiros socorros e legislação de trânsito",
+   "Avaliação psicológica, primeiros socorros e direção veicular na via",
+   "Somente aptidão física e mental, o primeiro exame na ordem da lei"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "Autorização para aprendizagem",
+  "base": "CTB, art. 155, parágrafo único; art. 147, I a V.",
+  "coment": "O art. 155, parágrafo único, do CTB determina que 'ao aprendiz será expedida autorização para aprendizagem, de acordo com a regulamentação do CONTRAN, após aprovação nos exames de aptidão física, mental, de primeiros socorros e sobre legislação de trânsito'. Isso se encaixa na ordem do art. 147: I — aptidão física e mental; III — escrito sobre legislação; IV — noções de primeiros socorros; V — direção veicular, realizado na via pública. Faz sentido: o exame de direção só ocorre DEPOIS da aprendizagem, que por sua vez pressupõe a aptidão física e mental. Por isso o exame médico é chamado de 'preliminar' no art. 147, §2º.",
+  "porAlt": [
+   "O exame de direção veicular vem depois da aprendizagem, não antes da autorização.",
+   "O exame de aptidão física e mental é exigido; não há dispensa do exame médico.",
+   "Correta: aptidão física e mental, primeiros socorros e legislação (art. 155, p. único).",
+   "A direção veicular é posterior; a lista legal não cita a avaliação psicológica.",
+   "Além do exame médico, exigem-se primeiros socorros e legislação de trânsito."
+  ]
+ },
+ {
+  "q": "Permissionário de 19 anos comete infração de natureza grave no oitavo mês da Permissão para Dirigir. Segundo o art. 148, §§3º e 4º, do CTB, qual é a consequência para a obtenção da CNH?",
+  "alts": [
+   "Não obtém a CNH e deve reiniciar todo o processo de habilitação, desde o início",
+   "Recebe a CNH ao fim do ano, pois só a infração gravíssima impede a concessão",
+   "Tem a Permissão prorrogada por mais um ano, sem a necessidade de refazer os exames",
+   "Recebe a CNH após curso de reciclagem, sem reiniciar o processo de habilitação",
+   "Não obtém a CNH e refaz apenas o exame de direção veicular, mantidos os demais"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Permissão para Dirigir e reinício do processo",
+  "base": "CTB, art. 148, §§2º a 4º; art. 147.",
+  "coment": "Pelo art. 148, §2º, o candidato aprovado recebe a Permissão para Dirigir, com validade de um ano. O §3º condiciona a CNH a que o condutor 'não tenha cometido nenhuma infração de natureza grave ou gravíssima ou seja reincidente em infração média'. O §4º completa: a não obtenção da CNH 'obriga o candidato a reiniciar todo o processo de habilitação'. Reiniciar o processo significa refazer os exames do art. 147, que começam pelo exame de aptidão física e mental — daí o interesse para o perito: o ex-permissionário volta à clínica como candidato à primeira habilitação. Não há prorrogação da Permissão nem substituição por reciclagem.",
+  "porAlt": [
+   "Correta: infração grave impede a CNH e obriga a reiniciar todo o processo (§§3º e 4º).",
+   "O §3º também veda a CNH a quem cometeu infração grave, e não só gravíssima.",
+   "O CTB não prevê prorrogação da Permissão; impõe o reinício do processo (§4º).",
+   "Não há via de reciclagem para obter a CNH nessa hipótese; o processo recomeça.",
+   "O §4º fala em reiniciar 'todo o processo', não apenas o exame de direção veicular."
+  ]
+ },
+ {
+  "q": "Condutor de 58 anos é abordado dirigindo com a CNH vencida há 45 dias, por não ter renovado o exame de aptidão física e mental. Segundo o art. 162, V, do CTB, qual é o enquadramento?",
+  "alts": [
+   "Infração média, com multa, pois a tolerância para a CNH vencida é de sessenta dias",
+   "Infração grave, com multa e recolhimento do documento até a renovação do exame",
+   "Infração gravíssima, com multa e retenção do veículo até vir condutor habilitado",
+   "Infração leve, com advertência por escrito, por se tratar de pendência documental",
+   "Não há infração, pois ele segue habilitado até a data do novo exame médico pericial"
+  ],
+  "gab": 2,
+  "tema": "aptidao",
+  "sub": "CNH vencida há mais de 30 dias",
+  "base": "CTB, art. 162, V (redação da Lei nº 14.440/2022); art. 159, §§10 e 12.",
+  "coment": "O art. 162, V, do CTB tipifica dirigir 'com Carteira Nacional de Habilitação vencida há mais de 30 (trinta) dias': infração gravíssima, penalidade de multa e medida administrativa de retenção do veículo até a apresentação de condutor habilitado. Como a validade da CNH está condicionada à vigência do exame de aptidão física e mental (art. 159, §10), deixar de renovar o exame no prazo leva diretamente a essa situação. O §12 do art. 159 obriga os órgãos estaduais a enviar aviso eletrônico de vencimento com 30 dias de antecedência. A tolerância legal é de 30 dias, não 60; e não há 'habilitação até o novo exame'.",
+  "porAlt": [
+   "A tolerância legal é de 30 dias, e a natureza da infração é gravíssima.",
+   "A natureza é gravíssima e a medida é retenção do veículo, não recolhimento do documento.",
+   "Correta: vencida há mais de 30 dias — gravíssima, multa e retenção (art. 162, V).",
+   "A infração do art. 162, V, é gravíssima, e não leve; não há advertência automática.",
+   "A validade da CNH acompanha o exame (art. 159, §10); vencida há 45 dias, há infração."
+  ]
+ },
+ {
+  "q": "Condutor autorizou seu cadastro no RNPC, mas recebeu pontuação por infração de trânsito há cinco meses. Ao término da validade da CNH, qual é a situação dele, segundo o art. 268-A do CTB?",
+  "alts": [
+   "Tem renovação automática, pois basta ter autorizado o cadastro para dispensar o art. 147",
+   "Foi excluído do RNPC ao receber a pontuação e não tem a renovação automática do §7º",
+   "Tem renovação automática, desde que quite a multa, dispensado o exame de aptidão física",
+   "Tem renovação automática, mas deve refazer todos os exames do art. 147 do Código",
+   "Continua no RNPC até completar 12 meses da infração, mantendo a renovação automática"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "RNPC e renovação automática",
+  "base": "CTB, art. 268-A, caput, §§2º, 4º, II, e 7º (redação da Lei nº 15.428/2026).",
+  "coment": "O RNPC (art. 268-A) cadastra condutores que não cometeram infração sujeita a pontuação nos últimos 12 meses; a abertura do cadastro exige autorização prévia e expressa (§2º), e a exclusão ocorre, entre outras hipóteses, 'quando for atribuída ao cadastrado pontuação por infração' (§4º, II). O §7º, com a redação da Lei nº 15.428/2026, concede renovação automática, com dispensa dos procedimentos do art. 147, ao condutor que, 'ao término do período de validade' da CNH ou ACC, 'estiver cadastrado no RNPC' — sempre 'com exceção dos exames de aptidão física e mental'. Excluído pela pontuação, este condutor não tem o benefício. E, mesmo para quem tem, o exame de aptidão continua exigível.",
+  "porAlt": [
+   "A autorização do cadastro não basta: a pontuação exclui o condutor do RNPC (§4º, II).",
+   "Correta: a pontuação excluiu o condutor do RNPC, afastando a renovação automática.",
+   "Pagar a multa não reverte a exclusão, e o exame de aptidão nunca é dispensado pelo §7º.",
+   "A renovação automática dispensa os procedimentos do art. 147, salvo o exame de aptidão.",
+   "A exclusão ocorre quando a pontuação é atribuída, não após 12 meses da infração."
+  ]
+ },
+ {
+  "q": "Segundo o art. 14, VI, do CTB, qual atribuição do CETRAN se relaciona diretamente à habilitação de candidatos com deficiência física?",
+  "alts": [
+   "Designar a Junta Médica Especial que faz o exame de aptidão física e mental",
+   "Indicar um representante para compor a comissão examinadora desses candidatos",
+   "Credenciar as clínicas que examinam os candidatos com deficiência física no Estado",
+   "Homologar cada adaptação veicular prescrita antes da emissão da CNH do candidato",
+   "Aprovar a NBR 14970, que orienta as Juntas Médicas Especiais no exame pericial"
+  ],
+  "gab": 1,
+  "tema": "aptidao",
+  "sub": "CETRAN e candidato com deficiência",
+  "base": "CTB, art. 14, V, 'b', e VI; Resolução CONTRAN nº 927/2022, art. 4º, §§1º e 2º.",
+  "coment": "Entre as competências dos CETRAN, o art. 14 do CTB inclui, no inciso VI, 'indicar um representante para compor a comissão examinadora de candidatos portadores de deficiência física à habilitação para conduzir veículos automotores', e, no inciso V, 'b', julgar recursos contra decisões dos órgãos executivos estaduais nos casos de inaptidão permanente nos exames de aptidão. Já a Junta Médica Especial que faz o exame de aptidão física e mental do candidato com deficiência é designada pelo DIRETOR do órgão executivo estadual (art. 4º, §1º, da Resolução 927) e segue a NBR 14970 da ABNT (§2º) — norma técnica que não é aprovada pelo CETRAN. O credenciamento das clínicas é do órgão executivo estadual (art. 16).",
+  "porAlt": [
+   "A Junta Médica Especial é designada pelo diretor do órgão executivo estadual (art. 4º, §1º).",
+   "Correta: o art. 14, VI, atribui ao CETRAN indicar representante para essa comissão.",
+   "O credenciamento das entidades é atribuição do órgão executivo estadual (art. 16).",
+   "Não há homologação de cada adaptação pelo CETRAN; elas são definidas no exame pericial.",
+   "A NBR 14970 é norma da ABNT, não um ato aprovado pelo CETRAN."
+  ]
+ },
+ {
+  "q": "Candidata de 67 anos é considerada apta com restrições, com o código U (vedado dirigir após o pôr-do-sol), e discorda da restrição. Segundo o art. 12 da Resolução CONTRAN nº 927/2022, ela:",
+  "alts": [
+   "Pode pedir Junta Médica em trinta dias, pois cabe independentemente do resultado",
+   "Deve recorrer diretamente ao CETRAN, pois o resultado não é de inaptidão do exame",
+   "Não pode recorrer, pois a Junta Médica só cabe contra resultados de inaptidão",
+   "Pode pedir Junta Médica em quinze dias úteis, contados da emissão da nova CNH",
+   "Deve pedir ao próprio perito a revisão, única via prevista contra a restrição"
+  ],
+  "gab": 0,
+  "tema": "aptidao",
+  "sub": "Junta Médica contra qualquer resultado",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 12, 13 e 14.",
+  "coment": "O art. 12 da Resolução 927 começa com 'independentemente do resultado do exame de aptidão física e mental e da avaliação psicológica': o candidato pode requerer, no prazo de trinta dias contados do seu conhecimento, a instauração de Junta Médica e/ou Psicológica ao órgão executivo estadual para reavaliação. Logo, também o 'apto com restrições' pode ser revisto. O recurso ao CETRAN (art. 13) é posterior e restrito à manutenção de inaptidão permanente pela Junta. Os quinze dias úteis do art. 14, §1º, são o prazo para o órgão DESIGNAR a Junta, não para o candidato pedir. A norma não prevê revisão pelo próprio perito como via recursal.",
+  "porAlt": [
+   "Correta: a Junta Médica pode ser requerida em trinta dias, qualquer que seja o resultado.",
+   "O CETRAN só aprecia recurso depois que a Junta mantém inaptidão permanente (art. 13).",
+   "O art. 12 admite a Junta 'independentemente do resultado', inclusive o apto com restrições.",
+   "Quinze dias úteis é o prazo do órgão para designar a Junta (art. 14, §1º), não do candidato.",
+   "A via prevista na norma é a Junta Médica do órgão estadual, não a revisão pelo perito."
+  ]
+ }
+]

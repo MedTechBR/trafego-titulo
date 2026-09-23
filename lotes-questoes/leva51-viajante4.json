@@ -1,0 +1,684 @@
+[
+ {
+  "q": "Paciente de 52 anos fez colecistectomia videolaparoscópica não complicada há 6 dias e pergunta, na consulta pré-viagem, se pode embarcar amanhã em voo comercial. Segundo o CDC Yellow Book, qual é a orientação?",
+  "alts": [
+   "Liberar: após 5 dias de cirurgia abdominal sem complicação, o voo já é seguro",
+   "Adiar: o voo é contraindicado antes de 6 semanas de cirurgia torácica ou abdominal",
+   "Liberar, com meia elástica, pois o único risco relevante do voo é a trombose venosa",
+   "Adiar: o voo é contraindicado antes de 10 dias de cirurgia torácica ou abdominal",
+   "Adiar: o voo é contraindicado antes de 30 dias de cirurgia abdominal, mesmo simples"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Cirurgia recente e voo",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. The Pre-Travel Consultation (Assess individual risk) e cap. Air Travel (Barotrauma)",
+  "coment": "No capítulo da consulta pré-viagem, o CDC Yellow Book dá dois exemplos de contraindicação à viagem aérea: menos de 2 semanas após infarto do miocárdio não complicado e menos de 10 dias após cirurgia torácica ou abdominal. O fundamento físico é a lei de Boyle: a cabine é pressurizada a uma altitude equivalente de até cerca de 2.440 m, e o gás residual em cavidade fechada se expande na subida. O capítulo de viagem aérea reforça que quem fez cirurgia recente, sobretudo intra-abdominal, cardiotorácica ou intraocular, deve consultar o médico antes de voar. Pegadinha: não existe no Brasil norma legal que fixe esse prazo — o número vem de fonte técnica (CDC) e deve ser citado como tal; distratores com 6 semanas ou 30 dias misturam prazos de outras situações.",
+  "porAlt": [
+   "5 dias não é o corte; o prazo citado pelo CDC para cirurgia abdominal é de 10 dias.",
+   "6 semanas não é o prazo do CDC para cirurgia torácica ou abdominal não complicada; o corte é de 10 dias.",
+   "O risco do pós-operatório não se resume à trombose: há também a expansão de gás residual (lei de Boyle) na cabine.",
+   "Correta: o CDC lista a viagem aérea como contraindicada antes de 10 dias de cirurgia torácica ou abdominal; com 6 dias, o paciente deve aguardar.",
+   "30 dias não é o prazo citado; o CDC fala em menos de 10 dias para cirurgia torácica ou abdominal."
+  ]
+ },
+ {
+  "q": "Motociclista de 28 anos teve pneumotórax traumático após colisão, tratado com drenagem; o pulmão está totalmente reexpandido há 8 dias e ele quer voltar para casa de avião. Pela tabela de doenças crônicas do CDC Yellow Book, qual é a conduta?",
+  "alts": [
+   "Liberar o voo: no pneumotórax traumático, bastam 6 dias após a reexpansão completa",
+   "Liberar o voo: com o pulmão reexpandido não há prazo, pois a cabine é pressurizada",
+   "Adiar o voo: no pneumotórax traumático, esperar 30 dias após a reexpansão completa",
+   "Adiar o voo: no pneumotórax traumático, esperar 6 semanas após a retirada do dreno",
+   "Adiar o voo: no pneumotórax traumático, esperar 14 dias após a reexpansão completa"
+  ],
+  "gab": 4,
+  "tema": "viajante",
+  "sub": "Pneumotórax e voo",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Travelers with Chronic Illnesses, Tabela 2.4.2 (Pneumothorax)",
+  "coment": "A Tabela 2.4.2 do capítulo de viajantes com doenças crônicas do CDC Yellow Book traz dois prazos distintos para o pneumotórax: adiar a viagem se houver menos de 6 dias da reexpansão completa (pneumotórax em geral, com a orientação de consultar a companhia se houver dreno) e adiar se houver menos de 14 dias da reexpansão no pneumotórax TRAUMÁTICO. O motivo é a lei de Boyle: a cabine é pressurizada ao equivalente de até cerca de 2.440 m (8.000 pés), e o gás aprisionado na pleura se expande na subida, podendo converter um pneumotórax residual em hipertensivo. A pegadinha é trocar os dois prazos: 6 dias vale para o pneumotórax não traumático; para a vítima de trauma, como o motociclista do caso, são 14 dias.",
+  "porAlt": [
+   "6 dias é o prazo do CDC para o pneumotórax NÃO traumático após reexpansão completa; no traumático são 14 dias.",
+   "A cabine é pressurizada acima do nível do mar; gás residual se expande (Boyle), por isso existe prazo mínimo.",
+   "30 dias não é o prazo da tabela do CDC; para o traumático, o corte é de 14 dias após a reexpansão.",
+   "O CDC conta o prazo a partir da reexpansão completa, e o corte é de 14 dias, não 6 semanas após retirar o dreno.",
+   "Correta: para o pneumotórax traumático, o CDC orienta adiar se houver menos de 14 dias da reexpansão; com 8 dias, ainda não pode voar."
+  ]
+ },
+ {
+  "q": "Na avaliação de aptidão para viagem aérea, abaixo de qual valor de hemoglobina o CDC Yellow Book recomenda adiar o voo, salvo anemia crônica e estável?",
+  "alts": [
+   "10,0 g/dL, adiando-se também se a causa for sangramento agudo ainda não controlado",
+   "7,0 g/dL, adiando-se também se a causa for sangramento agudo ainda não controlado",
+   "8,5 g/dL, sem ressalva para sangramento agudo, que não interfere na aptidão ao voo",
+   "8,5 g/dL, adiando-se também se a causa for sangramento agudo ainda não controlado",
+   "12,0 g/dL, adiando-se também se a causa for sangramento agudo ainda não controlado"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Anemia e voo",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Travelers with Chronic Illnesses, Tabela 2.4.2 (Blood Disorders — Anemia)",
+  "coment": "Anemia está entre as condições em que a queda da pressão parcial de oxigênio na cabine (lei de Dalton) pesa: o capítulo de viagem aérea do CDC cita a anemia, inclusive a falciforme, como condição que pode se exacerbar com a pressurização equivalente a 1.830–2.440 m. A Tabela 2.4.2 do capítulo de doenças crônicas fixa o corte: adiar a viagem se a hemoglobina for menor que 8,5 g/dL (5,3 mmol/L), a menos que a anemia seja crônica e estável, e adiar se a causa for sangramento agudo ainda não controlado; pode haver necessidade de oxigênio suplementar. Na mesma tabela, a doença falciforme tem regra própria: adiar se houve crise nos 9 dias anteriores. Distratores com 7, 10 ou 12 g/dL misturam limiares de outros contextos.",
+  "porAlt": [
+   "10,0 g/dL não é o corte do CDC; o limiar citado é de 8,5 g/dL.",
+   "7,0 g/dL é limiar de transfusão em outros contextos, não o corte do CDC para o voo, que é de 8,5 g/dL.",
+   "O valor está certo, mas a tabela manda adiar também quando a causa é sangramento agudo que não parou.",
+   "Correta: a Tabela 2.4.2 manda adiar se Hb < 8,5 g/dL (5,3 mmol/L), salvo anemia crônica e estável, e também se houver sangramento agudo não controlado.",
+   "12,0 g/dL é valor de referência de normalidade, não o corte para adiar o voo, que é de 8,5 g/dL."
+  ]
+ },
+ {
+  "q": "Motorista profissional com epilepsia teve crise tônico-clônica generalizada cerca de 12 horas antes de um voo internacional. Segundo o CDC Yellow Book, qual é a orientação para a viagem aérea?",
+  "alts": [
+   "Liberar, pois a crise ocorreu há mais de 6 horas e o risco de recorrência em voo é desprezível",
+   "Adiar por no mínimo 90 dias, prazo exigido após qualquer crise antes de viagem aérea comercial",
+   "Adiar, pois a crise ocorreu há menos de 24 horas, e só viajar quando estável com a medicação",
+   "Liberar, desde que viaje com acompanhante e dose extra do anticonvulsivante na bagagem de mão",
+   "Adiar por 7 dias, prazo mínimo após crise generalizada antes de qualquer voo de longa duração"
+  ],
+  "gab": 2,
+  "tema": "viajante",
+  "sub": "Epilepsia e voo",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Travelers with Chronic Illnesses, Tabela 2.4.2 (Seizure disorder)",
+  "coment": "A Tabela 2.4.2 do CDC Yellow Book trata da crise recente — tônico-clônica generalizada, de início desconhecido ou crise de início recente — com duas regras: adiar a viagem se o evento ocorreu menos de 24 horas antes da partida e retardá-la até que o paciente esteja estável com a medicação. A pegadinha para o médico do tráfego é misturar este prazo, que trata apenas de aptidão para ser PASSAGEIRO, com os prazos de aptidão para CONDUZIR veículo, que seguem o Anexo VIII da Resolução CONTRAN 927/2022 e a Diretriz ABRAMET de epilepsia e são muito mais longos. Liberar para voar não significa liberar para dirigir no destino. Na mesma tabela, o AIT tem corte de 2 dias e o AVC com menos de 2 semanas exige oxigênio suplementar.",
+  "porAlt": [
+   "6 horas não é o corte; o CDC fala em menos de 24 horas antes da partida.",
+   "90 dias não é prazo do CDC para voo; não confundir com critérios de aptidão para DIRIGIR, que são outra matéria.",
+   "Correta: a Tabela 2.4.2 manda adiar se a crise ocorreu há menos de 24 horas e retardar a viagem até a estabilização com a medicação.",
+   "Acompanhante e dose extra não substituem o prazo: com menos de 24 horas da crise, a viagem deve ser adiada.",
+   "7 dias não é o prazo da tabela do CDC; o corte é de 24 horas, somado à estabilidade com a medicação."
+  ]
+ },
+ {
+  "q": "Paciente tratado de pneumonia comunitária está assintomático, mas a radiografia de controle ainda mostra opacidade residual; tem voo marcado para a próxima semana. Segundo o CDC Yellow Book, qual é a orientação?",
+  "alts": [
+   "O voo é permitido se assintomático, mesmo que a radiografia ainda não tenha se resolvido",
+   "O voo só é permitido após resolução radiológica completa, mesmo com o paciente assintomático",
+   "O voo deve ser adiado por 6 semanas a contar do diagnóstico, independentemente dos sintomas",
+   "O voo só é permitido com oxigênio suplementar obrigatório durante toda a duração da viagem",
+   "O voo só é permitido após tomografia de tórax normal e espirometria sem nenhuma alteração"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Pneumonia e voo",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Travelers with Chronic Illnesses, Tabela 2.4.2 (Pneumonia)",
+  "coment": "Para a pneumonia, a Tabela 2.4.2 do CDC Yellow Book tem três orientações: adiar a viagem se houver sintomas ou se o viajante for considerado contagioso; permitir a viagem ao paciente assintomático, mesmo que a radiografia de tórax ainda não tenha se resolvido; e considerar oxigênio para o voo se o viajante for mais velho, se o voo for longo ou se a pneumonia for recente. O ponto que cai é a dissociação clínico-radiológica: a imagem demora a normalizar e não é, sozinha, critério de inaptidão. Na mesma tabela, a tuberculose segue regra diferente — adiar até que deixe de ser contagiosa e seja liberada pelas autoridades de saúde pública.",
+  "porAlt": [
+   "Correta: a Tabela 2.4.2 permite a viagem ao paciente sem sintomas, mesmo que a radiografia de tórax ainda não tenha se resolvido.",
+   "O CDC diz o contrário: a radiografia não resolvida não impede a viagem do paciente assintomático.",
+   "Não há prazo fixo de 6 semanas; adia-se enquanto houver sintomas ou risco de contágio.",
+   "O oxigênio é apenas considerado (paciente mais velho, voo longo, pneumonia recente), não obrigatório.",
+   "Tomografia e espirometria normais não são exigidas; o critério é a ausência de sintomas e de contágio."
+  ]
+ },
+ {
+  "q": "Paciente com DPOC em oxigenoterapia domiciliar fará voo internacional partindo dos Estados Unidos. Segundo o CDC Yellow Book, qual orientação sobre o oxigênio está correta?",
+  "alts": [
+   "Pode embarcar com o próprio cilindro, desde que avise a companhia com 24 horas de antecedência",
+   "Não pode embarcar com o próprio cilindro e deve avisar a companhia 72 horas antes, ou mais",
+   "Não pode embarcar com o próprio cilindro; basta pedir o oxigênio à tripulação já dentro do avião",
+   "Pode embarcar com o próprio cilindro sem aviso prévio, por se tratar de equipamento médico",
+   "Não precisa de oxigênio, pois a cabine de aeronave comercial é pressurizada ao nível do mar"
+  ],
+  "gab": 1,
+  "tema": "viajante",
+  "sub": "Oxigênio suplementar em voo",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Air Travel (Travelers who require supplemental oxygen) e cap. Travelers with Chronic Illnesses, Tabela 2.4.2",
+  "coment": "O CDC Yellow Book é explícito: quem precisa de oxigênio suplementar em voo deve providenciar o próprio oxigênio em solo, na partida, nas escalas e na chegada; regras federais (norte-americanas) proíbem o passageiro de levar o próprio oxigênio a bordo; e a companhia deve ser avisada com pelo menos 72 horas de antecedência, porque nem toda aeronave ou voo oferece oxigênio. Algumas companhias só aceitam concentradores portáteis aprovados pela FAA, e é preciso preencher formulário médico com a participação do médico assistente. O fundamento fisiológico é a pressurização da cabine a um equivalente de até 2.440 m (8.000 pés), que reduz a pressão parcial de oxigênio e descompensa quem já depende de O2 em solo. Distrator a evitar: 'cabine ao nível do mar'. Atenção: a proibição do cilindro próprio é regra federal norte-americana relatada pelo CDC, não norma brasileira; fora dos EUA valem as regras da autoridade de aviação local e de cada companhia.",
+  "porAlt": [
+   "O próprio cilindro não é permitido e o aviso é de pelo menos 72 horas, não 24 horas.",
+   "Correta: regras federais dos EUA proíbem levar o próprio oxigênio a bordo, e o passageiro deve avisar a companhia com 72 horas ou mais de antecedência.",
+   "O oxigênio de bordo precisa ser combinado antes (≥72 h); nem toda aeronave ou voo o oferece.",
+   "Não é permitido embarcar com o próprio oxigênio, e o aviso prévio é obrigatório.",
+   "A cabine é pressurizada ao equivalente de até cerca de 2.440 m, não ao nível do mar."
+  ]
+ },
+ {
+  "q": "Viajante de 45 anos com trombose venosa profunda prévia fará voo de 11 horas. Segundo as diretrizes do American College of Chest Physicians citadas no CDC Yellow Book, qual é a recomendação?",
+  "alts": [
+   "Tomar ácido acetilsalicílico antes do embarque, profilaxia de escolha em viagens de longa duração",
+   "Deambular, exercitar panturrilhas, sentar no corredor e usar meia abaixo do joelho de 15–30 mmHg",
+   "Usar meia de compressão acima do joelho de 40–50 mmHg e preferir o assento junto à janela do avião",
+   "Iniciar anticoagulante oral direto na véspera, conduta padronizada e aprovada para o viajante",
+   "Nenhuma medida específica, pois o risco só aumenta em viagens aéreas acima de 12 horas seguidas"
+  ],
+  "gab": 1,
+  "tema": "viajante",
+  "sub": "TEV do viajante — ACCP",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Deep Vein Thrombosis and Pulmonary Embolism (Society guidelines — ACCP)",
+  "coment": "O CDC Yellow Book resume duas diretrizes para o TEV do viajante. A do American College of Chest Physicians vale para viagens acima de 6 horas em quem tem risco aumentado (TEV prévio é fator de risco do Box 7.3.1): deambulação frequente, exercício de panturrilha, assento no corredor e meia de compressão graduada abaixo do joelho, bem ajustada, de 15–30 mmHg no tornozelo (recomendação fraca, grau 2C). Para quem não tem risco aumentado, a meia não é recomendada, e o ACCP desaconselha AAS ou anticoagulante para prevenir TEV no viajante. O mesmo capítulo registra que o assento na janela dobrou o risco em um estudo (6 vezes se IMC ≥30), e que DOAC nessa indicação é uso off-label, sem base de evidência. A 'síndrome da classe econômica' é, no fundo, imobilidade.",
+  "porAlt": [
+   "O ACCP desaconselha AAS e anticoagulantes para prevenir TEV no viajante de longa distância.",
+   "Correta: para viagem acima de 6 horas com risco aumentado, o ACCP recomenda deambulação, exercício de panturrilha, assento no corredor e meia abaixo do joelho de 15–30 mmHg no tornozelo.",
+   "A meia recomendada é abaixo do joelho, de 15–30 mmHg; e o assento na janela está associado a MAIOR risco.",
+   "Não há base de evidência para DOAC nessa indicação; o uso seria off-label, segundo o CDC.",
+   "O risco não começa só em 12 horas; o ACCP trata de viagens acima de 6 horas em quem tem risco aumentado."
+  ]
+ },
+ {
+  "q": "Puérpera de 30 anos, com cesariana há 3 semanas, fará viagem de ônibus de 9 horas. Segundo as diretrizes da American Society of Hematology resumidas no CDC Yellow Book, qual profilaxia de TEV é sugerida?",
+  "alts": [
+   "Nenhuma, pois as diretrizes de TEV do viajante se aplicam somente ao transporte aéreo comercial",
+   "Anticoagulante oral direto em dose plena, a opção com melhor evidência para o viajante",
+   "Meia de compressão ou heparina de baixo peso; se inviáveis, nenhuma profilaxia é feita",
+   "AAS como primeira escolha, reservando a heparina só para as viagens acima de 12 horas seguidas",
+   "Meia de compressão ou heparina de baixo peso profilática; se inviáveis, AAS em vez de nada"
+  ],
+  "gab": 4,
+  "tema": "viajante",
+  "sub": "TEV do viajante — ASH",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Deep Vein Thrombosis and Pulmonary Embolism (Society guidelines — ASH; Preventive measures)",
+  "coment": "Para viajantes de longa distância (acima de 4 horas) com risco substancialmente aumentado — cirurgia recente, TEV prévio, PÓS-PARTO, neoplasia ativa ou 2 ou mais fatores —, a American Society of Hematology sugere meia de compressão graduada ou HBPM profilática; se nenhuma for viável, sugere AAS em vez de nenhuma profilaxia. Para quem não tem fator de risco, a ASH desaconselha meia, HBPM e AAS. O CDC acrescenta que não há dose formal de HBPM, mas enoxaparina 40 mg ou 1 mg/kg SC cerca de 4 horas antes do voo já foi sugerida, e que DOAC seria off-label. O ponto de medicina do tráfego: o risco aumentado também aparece no ônibus, no carro e no trem, porque o mecanismo principal é a imobilidade, não a cabine.",
+  "porAlt": [
+   "O risco decorre da imobilidade e vale também para ônibus, carro e trem; a ASH fala em viagem acima de 4 horas.",
+   "Não há evidência para DOAC na prevenção do TEV do viajante; seria uso off-label.",
+   "A ASH sugere AAS justamente quando meia ou HBPM não forem viáveis, em vez de deixar sem profilaxia.",
+   "O AAS é alternativa de exceção, não primeira escolha, e o corte da ASH é acima de 4 horas, não 12.",
+   "Correta: para viagem acima de 4 horas com risco substancialmente aumentado (pós-parto, cirurgia recente), a ASH sugere meia ou HBPM e, se inviáveis, AAS em vez de nenhuma profilaxia."
+  ]
+ },
+ {
+  "q": "Sobre a hidratação e a abstenção de álcool como medidas de prevenção do tromboembolismo venoso associado à viagem, o que afirma o CDC Yellow Book?",
+  "alts": [
+   "Há evidência robusta de que a desidratação causa TEV, e hidratar-se é a principal medida preventiva",
+   "A hidratação reduz o TEV pela metade em ensaios clínicos, efeito equivalente ao da meia elástica",
+   "Não há evidência direta de proteção: hidratar-se é razoável, mas não é medida específica anti-TEV",
+   "O álcool em pequena dose protege contra o TEV por vasodilatação e pode ser recomendado no voo",
+   "A hidratação só previne o TEV quando associada ao AAS, combinação indicada a todos os viajantes"
+  ],
+  "gab": 2,
+  "tema": "viajante",
+  "sub": "TEV do viajante — hidratação",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Deep Vein Thrombosis and Pulmonary Embolism (Preventive measures — Hydration)",
+  "coment": "É uma pegadinha clássica: o senso comum diz que 'beber água previne trombose no avião'. O CDC Yellow Book é cuidadoso — não há evidência de associação entre desidratação e TEV da viagem, nem evidência direta de que hidratação frequente ou evitar álcool protejam. Teoricamente, a desidratação poderia aumentar a viscosidade do sangue, e o álcool pode induzir diurese e favorecer a imobilidade; por isso manter-se hidratado é razoável e pouco provável de causar dano, mas NÃO pode ser recomendado especificamente para prevenir o TEV. As medidas com racional mais sólido são as que combatem a estase venosa: deambulação, exercício de panturrilha, assento no corredor e, para quem tem risco aumentado, meia de compressão. Evitar excesso de álcool continua valendo por outros motivos, como sono e jet lag.",
+  "porAlt": [
+   "O CDC afirma justamente que NÃO há evidência de associação entre desidratação e TEV associado à viagem.",
+   "Não há ensaio que mostre esse efeito; a meia de compressão é que tem evidência de reduzir TVP assintomática.",
+   "Correta: o CDC diz que não há evidência de associação entre desidratação e TEV da viagem nem de efeito protetor da hidratação; é razoável manter-se hidratado, mas não se pode recomendá-lo especificamente contra o TEV.",
+   "O álcool pode induzir diurese e favorecer a imobilidade; não há recomendação de consumo.",
+   "Não há recomendação de AAS para todos; ACCP e ASH desaconselham profilaxia em quem não tem risco."
+  ]
+ },
+ {
+  "q": "Pelos critérios diagnósticos do transtorno de jet lag (ICSD-3) reproduzidos no CDC Yellow Book, qual combinação caracteriza o quadro?",
+  "alts": [
+   "Insônia ou sonolência após voo transmeridiano de ao menos 5 fusos, com prejuízo em 1–2 dias",
+   "Insônia ou sonolência após qualquer voo acima de 8 horas, mesmo sem mudança de fuso horário",
+   "Insônia ou sonolência após voo transmeridiano de ao menos 2 fusos, com prejuízo após 7 dias",
+   "Cansaço após voo norte-sul longo, com prejuízo funcional imediato ao desembarque no destino",
+   "Insônia ou sonolência após voo transmeridiano de ao menos 2 fusos, com prejuízo em 1–2 dias"
+  ],
+  "gab": 4,
+  "tema": "viajante",
+  "sub": "Jet lag — critérios diagnósticos",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Jet Lag Disorder, Tabela 7.4.1 (critérios da ICSD-3, AASM 2014)",
+  "coment": "O CDC Yellow Book reproduz os critérios da Classificação Internacional dos Distúrbios do Sono (ICSD-3, AASM 2014) para o transtorno de jet lag, subtipo de distúrbio do ritmo circadiano. A: insônia ou sonolência diurna excessiva, com redução do tempo total de sono, associada a viagem transmeridiana através de PELO MENOS DOIS fusos horários. B: prejuízo da função diurna, mal-estar geral ou sintomas somáticos (por exemplo, gastrintestinais) em 1–2 dias após a viagem. C: o distúrbio não é mais bem explicado por outra condição, medicação ou uso de substância. Os três critérios são obrigatórios. Para o médico do tráfego, o elo é direto: quem chega de voo transmeridiano e assume a direção soma sonolência circadiana ao déficit de sono.",
+  "porAlt": [
+   "O número mínimo de fusos do critério A é 2, não 5.",
+   "Sem travessia de fusos não há jet lag; voo longo sem mudança de fuso causa fadiga de viagem.",
+   "O critério B situa o prejuízo em 1–2 dias após a viagem, não após 7 dias.",
+   "Voo norte-sul não atravessa fusos significativos; o quadro é fadiga de viagem, não jet lag.",
+   "Correta: o critério A exige insônia ou sonolência diurna com redução do sono total após viagem transmeridiana de pelo menos 2 fusos, e o B, prejuízo funcional ou sintomas somáticos em 1–2 dias."
+  ]
+ },
+ {
+  "q": "Um viajante cruzará 6 fusos horários rumo ao leste e, na volta, os mesmos 6 fusos rumo ao oeste. Pela taxa média de adaptação citada no CDC Yellow Book, quanto tempo leva, aproximadamente, a readaptação em cada trecho?",
+  "alts": [
+   "Cerca de 6 dias na ida para o leste e cerca de 4 dias na volta para o oeste",
+   "Cerca de 4 dias na ida para o leste e cerca de 6 dias na volta para o oeste",
+   "Cerca de 6 dias em cada trecho, pois a direção do voo não altera a adaptação",
+   "Cerca de 3 dias na ida para o leste e cerca de 2 dias na volta para o oeste",
+   "Cerca de 12 dias na ida para o leste e cerca de 9 dias na volta para o oeste"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Jet lag — cálculo da adaptação",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Jet Lag Disorder (Introduction — taxa média de adaptação)",
+  "coment": "O CDC Yellow Book explica que o período intrínseco do ritmo circadiano é um pouco maior que 24 horas, por isso é mais fácil ATRASAR o relógio biológico do que adiantá-lo. Viajando para o leste, o relógio da parede fica 'mais tarde' e o viajante precisa ADIANTAR o relógio interno; para o oeste, precisa atrasá-lo. As taxas médias citadas são de 1,5 hora por dia para o oeste e de 1 hora por dia para o leste. Com 6 fusos: 6 ÷ 1 = cerca de 6 dias na ida para o leste e 6 ÷ 1,5 = cerca de 4 dias na volta para o oeste. O cálculo interessa ao médico do tráfego porque define por quanto tempo o condutor recém-chegado conviverá com sonolência fora de hora.",
+  "porAlt": [
+   "Correta: a taxa média é de 1 h/dia para o leste (6 fusos ≈ 6 dias) e de 1,5 h/dia para o oeste (6 fusos ≈ 4 dias).",
+   "Inverteu as direções: adiantar o relógio (leste) é mais lento que atrasá-lo (oeste).",
+   "A direção importa: a adaptação é mais lenta para o leste do que para o oeste.",
+   "Os valores supõem 2 e 3 h/dia; as taxas citadas são de 1 h/dia (leste) e 1,5 h/dia (oeste).",
+   "Os valores supõem 0,5 h/dia; as taxas citadas são de 1 h/dia (leste) e 1,5 h/dia (oeste)."
+  ]
+ },
+ {
+  "q": "Na orientação de melatonina para o jet lag de viagem rumo ao leste, qual conduta está de acordo com o CDC Yellow Book?",
+  "alts": [
+   "Dose baixa, de 0,5 a 1 mg, no início da noite do relógio interno, evitando doses acima de 5 mg",
+   "Dose alta, acima de 5 mg, ao despertar no destino, para suprimir a melatonina endógena matinal",
+   "Dose baixa, de 0,5 a 1 mg, pela manhã do relógio interno, para adiantar o ritmo circadiano",
+   "Dose de 10 mg de madrugada, no pico da melatonina endógena, para potencializar o seu efeito",
+   "Qualquer dose e horário, pois a melatonina age só como hipnótico e não desloca o ritmo interno"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Jet lag — melatonina",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Jet Lag Disorder (Timed melatonin; Figura 7.4.2)",
+  "coment": "A melatonina é secretada pela pineal no escuro; o pico plasmático ocorre por volta de 3–4 h da manhã. Segundo o CDC Yellow Book, tomar melatonina quando o relógio interno 'acha' que é início da noite produz AVANÇO de fase — o que ajuda na viagem para o LESTE (a figura do capítulo sugere cerca de 90 minutos antes de deitar); tomá-la quando o relógio interno 'acha' que é manhã produz ATRASO de fase, útil para o oeste. Tomá-la no pico endógeno (0–5 h do relógio interno) é pouco eficaz, e o horário errado pode aumentar o desalinhamento. Doses de 0,5–1 mg costumam bastar; doses acima de 5 mg não são recomendadas, e o produto não é regulado pela FDA, podendo o conteúdo diferir do rótulo.",
+  "porAlt": [
+   "Correta: 0,5–1 mg costuma bastar; tomada no início da noite do relógio interno adianta a fase (viagem para leste), e doses acima de 5 mg não são recomendadas.",
+   "Doses acima de 5 mg não são recomendadas, e, tomada na manhã do relógio interno, a melatonina produz atraso de fase, útil para o OESTE.",
+   "Melatonina pela manhã do relógio interno ATRASA a fase — útil para o oeste, não para o leste.",
+   "Tomar quando a melatonina endógena está alta (0h–5h do relógio interno) é pouco eficaz, e 10 mg excede o recomendado.",
+   "O horário é decisivo: tomada na hora errada, a melatonina pode aumentar o desalinhamento."
+  ]
+ },
+ {
+  "q": "Motorista de aplicativo fará viagem internacional atravessando vários fusos e pede algo para dormir no destino antes de voltar a dirigir. Segundo o CDC Yellow Book, que classe deve ser evitada no manejo do jet lag?",
+  "alts": [
+   "Melatonina em dose baixa, pelo risco de dependência e de sonolência residual na manhã seguinte",
+   "Hipnóticos de meia-vida curta, como o zolpidem, que a AASM proíbe no manejo do transtorno de jet lag",
+   "Cafeína durante o dia no destino, estimulante sem nenhum papel no manejo da sonolência diurna",
+   "Anti-histamínicos e benzodiazepínicos de meia-vida longa, pelo prejuízo cognitivo e de desempenho",
+   "Exposição à luz natural no destino, que prolonga a dessincronia em qualquer direção do voo realizado"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Jet lag — hipnóticos e estimulantes",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Jet Lag Disorder (Hypnotics and stimulants)",
+  "coment": "O CDC Yellow Book lista, conforme a AASM, as estratégias padrão para o jet lag: melatonina e luz no horário certo, programação do sono, hipnóticos, estimulantes e, em viagens curtas, manter o horário de casa. Hipnóticos como zolpidem e eszopiclona são opções, com atenção à meia-vida e aos efeitos adversos. Mas anti-histamínicos, benzodiazepínicos de meia-vida longa e agonistas de receptor benzodiazepínico de meia-vida longa DEVEM SER EVITADOS, porque pioram o prejuízo cognitivo, aumentam o risco de quedas, prejudicam o desempenho físico e têm efeitos gastrintestinais. Para a medicina do tráfego o recado é direto: sedação residual no dia seguinte e volante não combinam — o mesmo raciocínio das diretrizes ABRAMET sobre benzodiazepínicos e medicamentos.",
+  "porAlt": [
+   "A melatonina em dose baixa (0,5–1 mg) é uma das estratégias recomendadas, não algo a evitar.",
+   "Zolpidem e eszopiclona são opções citadas pela AASM para o jet lag, considerando meia-vida e efeitos.",
+   "A cafeína é usada para sustentar o alerta de dia, parando algumas horas antes de dormir.",
+   "Correta: o CDC manda evitar anti-histamínicos, benzodiazepínicos e agonistas de meia-vida longa, que pioram a cognição, aumentam quedas e prejudicam o desempenho.",
+   "A luz natural no destino é a principal aliada para ressincronizar o relógio biológico."
+  ]
+ },
+ {
+  "q": "Segundo o capítulo de cinetose do CDC Yellow Book, qual é a contramedida mais eficaz contra a cinetose e qual teoria a fundamenta?",
+  "alts": [
+   "Pulseira de acupressão, que bloqueia o conflito previsto pela teoria do conflito sensorial",
+   "Escopolamina em adesivo, superior à habituação completa segundo o conflito sensorial",
+   "Leitura durante a viagem, que distrai o conflito previsto pela teoria do modelo interno",
+   "Gengibre diário, que corrige o desequilíbrio previsto pela teoria da hipóxia labiríntica",
+   "Habituação, que atualiza o modelo interno previsto pela teoria do conflito sensorial"
+  ],
+  "gab": 4,
+  "tema": "viajante",
+  "sub": "Cinetose — mecanismo e habituação",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Motion Sickness (Mechanisms and theories; Tabela 7.6.1)",
+  "coment": "A explicação mais aceita para a cinetose é a teoria do conflito sensorial (neural mismatch): os padrões de entrada vestibular, visual e cinestésica não batem com o previsto por um 'modelo interno' do cérebro — no porão do navio, o labirinto informa movimento enquanto a visão diz que nada se move. Daí as contramedidas comportamentais que reduzem o conflito (olhar o horizonte, evitar ler, evitar mover a cabeça, sentar perto das asas no avião, ser o condutor) e a habituação, que atualiza o modelo interno. Pela Tabela 7.6.1, a habituação plenamente adquirida é mais eficaz que qualquer droga e sem efeitos colaterais, mas é lenta, específica do estímulo e pode exigir reexposição. A respiração controlada tem cerca de metade da eficácia das drogas; pulseiras de acupressão não superam o placebo.",
+  "porAlt": [
+   "Em ensaios de laboratório, pulseiras de acupressão não foram melhores que placebo.",
+   "O CDC afirma o inverso: a habituação plenamente adquirida é mais eficaz que qualquer droga atual.",
+   "Ler ou fazer varredura visual AUMENTA o conflito visuovestibular; a orientação é evitar.",
+   "A evidência do gengibre é fraca e contraditória, e 'hipóxia labiríntica' não é a teoria aceita.",
+   "Correta: a habituação (dessensibilização por exposições repetidas) é a contramedida mais eficaz — mais que qualquer droga —, e a teoria mais aceita é a do conflito sensorial (neural mismatch)."
+  ]
+ },
+ {
+  "q": "Viajante adulto fará cruzeiro de 5 dias com previsão de mar agitado (estímulo intenso e prolongado). Segundo o CDC Yellow Book, qual é o fármaco preferido para prevenir a cinetose?",
+  "alts": [
+   "Ondansetrona oral, antiemético potente com ação direta sobre os centros vestibulares",
+   "Loratadina oral, anti-histamínico pouco sedativo que atravessa a barreira encefálica",
+   "Escopolamina transdérmica, com início de ação em 6–8 horas e duração de 72 horas",
+   "Escopolamina transdérmica, com início de ação em 15 minutos e duração de 8 horas",
+   "Meclizina oral, reservada ao estímulo intenso de curta exposição, até 2 horas"
+  ],
+  "gab": 2,
+  "tema": "viajante",
+  "sub": "Cinetose — escolha do fármaco",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Motion Sickness (Pharmacologic countermeasures; Tabela 7.6.2)",
+  "coment": "O CDC Yellow Book organiza a escolha em adultos pela duração e pela intensidade: exposição curta (até 6 horas) com estímulo leve a moderado — meclizina ou dimenidrinato; estímulo intenso — prometazina. Exposição longa (mais de 6 horas) com estímulo leve — meclizina ou dimenidrinato; estímulo moderado a intenso — adesivo de escopolamina. Pela Tabela 7.6.2, a escopolamina transdérmica de 1 mg começa a agir em 6–8 horas e dura 72 horas, por isso deve ser aplicada com antecedência; o adesivo nunca deve ser cortado. Todo fármaco eficaz contra a cinetose age no sistema nervoso central: anti-histamínicos 'não sedativos' (cetirizina, fexofenadina, loratadina) e antagonistas 5-HT3 (ondansetrona) não funcionam. A medicação é mais eficaz tomada antes da exposição, pois a estase gástrica prejudica a absorção oral.",
+  "porAlt": [
+   "Os antagonistas 5-HT3 não são eficazes na cinetose porque não agem nos centros vestibulares centrais.",
+   "Anti-histamínicos pouco sedativos foram desenhados para NÃO penetrar no cérebro e por isso não funcionam na cinetose.",
+   "Correta: para exposição acima de 6 horas com estímulo moderado a intenso, o CDC indica o adesivo de escopolamina (1 mg: início em 6–8 h, duração de 72 h).",
+   "O adesivo tem início lento (6–8 h) e duração de 72 h; 15 minutos é o início da via intramuscular.",
+   "A meclizina é indicada para estímulo leve a moderado; para estímulo intenso e curto, a escolha é a prometazina."
+  ]
+ },
+ {
+  "q": "Homem de 68 anos, com glaucoma e hiperplasia prostática com retenção urinária prévia, pede prevenção de cinetose para viagem de barco. Segundo o CDC Yellow Book, qual orientação está correta?",
+  "alts": [
+   "Evitar a escopolamina, contraindicada no glaucoma e no risco de retenção urinária prostática",
+   "Preferir a prometazina, por ser a menos sedativa entre os fármacos usados contra a cinetose",
+   "Preferir a escopolamina, que dá menos boca seca e olho seco que os anti-histamínicos orais",
+   "Preferir a ondansetrona, eficaz na cinetose por agir diretamente sobre os centros vestibulares",
+   "Cortar o adesivo de escopolamina ao meio, ajustando a dose ao paciente de idade mais avançada"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Cinetose — contraindicações",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Motion Sickness (Pharmacologic countermeasures; Children and motion sickness)",
+  "coment": "Todos os fármacos contra a cinetose têm efeitos adversos; o mais comum é a sonolência. Segundo o CDC Yellow Book, a escopolamina é um pouco menos sedativa que o dimenidrinato e a meclizina, enquanto a prometazina é a mais sedativa; boca e olhos secos são mais comuns com a escopolamina. A escopolamina NÃO deve ser usada em viajantes com glaucoma ou em risco de retenção urinária prostática — exatamente o paciente do caso. O adesivo transdérmico nunca deve ser cortado para 'ajustar a dose', porque isso desorganiza a liberação. Em crianças, a escopolamina (inclusive o adesivo) pode causar alucinações e confusão e deve ser evitada. Como os efeitos variam, o CDC sugere uma dose-teste antes da partida — e a sonolência importa para quem vai dirigir ao desembarcar.",
+  "porAlt": [
+   "Correta: o CDC diz que a escopolamina não deve ser usada em viajantes com glaucoma ou com risco de retenção urinária prostática.",
+   "A prometazina é a MAIS sedativa do grupo, segundo o CDC.",
+   "Boca seca e olho seco são mais comuns justamente com a escopolamina.",
+   "A ondansetrona não é eficaz na cinetose, pois não age nos centros vestibulares centrais.",
+   "O adesivo nunca deve ser cortado, pois isso desorganiza o mecanismo de liberação do fármaco."
+  ]
+ },
+ {
+  "q": "Turista de 35 anos, residente ao nível do mar e sem antecedente de mal agudo da montanha, voará direto para La Paz (cerca de 3.650 m) e dormirá lá na primeira noite. Pela tabela de risco do CDC Yellow Book, qual é a classificação e a conduta?",
+  "alts": [
+   "Alto risco, pois dormirá acima de 3.400 m no 1º dia: recomendar fortemente a acetazolamida",
+   "Baixo risco, pois não tem antecedente de mal agudo da montanha: profilaxia não está indicada",
+   "Médio risco, pois dormirá entre 2.750 e 3.400 m no 1º dia: apenas considerar a acetazolamida",
+   "Alto risco, pois dormirá acima de 3.400 m no 1º dia: indicar nifedipino a todos os viajantes",
+   "Sem risco, pois o bom condicionamento físico protege o adulto jovem do mal agudo da montanha"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Altitude — estratificação de risco",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. High-Altitude Travel and Altitude Illness (Tabela 3.5.1; Destinations with risk)",
+  "coment": "A Tabela 3.5.1 do CDC Yellow Book estratifica o risco de mal agudo da montanha (partindo de menos de 1.200 m) por três variáveis: antecedente de doença da altitude, altitude de dormir no 1º dia (baixo: <2.750 m; médio: 2.750–3.400 m; alto: >3.400 m) e ritmo de subida. Alto risco: encorajar fortemente a acetazolamida profilática e levar dexametasona para emergência; médio: considerar acetazolamida; baixo: profilaxia não indicada. O capítulo cita La Paz (~3.650 m) e Cusco (~3.350 m) como destinos alcançados de avião, com taxas de doença que se aproximam de 50% e 'limiar baixo' para quimioprofilaxia; às vezes é possível dormir 1–2 noites em cota mais baixa antes de subir. Treino e condicionamento físico não alteram o risco.",
+  "porAlt": [
+   "Correta: dormir acima de 3.400 m no primeiro dia é critério de alto risco na Tabela 3.5.1; a conduta é encorajar fortemente a acetazolamida e levar dexametasona para emergência.",
+   "Basta um critério de alto risco (altitude de dormir no 1º dia) para classificar o viajante como alto risco.",
+   "La Paz (~3.650 m) está acima de 3.400 m, faixa de alto risco, não de médio.",
+   "O nifedipino é reservado à prevenção do edema pulmonar em pessoas particularmente suscetíveis.",
+   "Treino e condicionamento físico não alteram o risco de doença da altitude, segundo o CDC."
+  ]
+ },
+ {
+  "q": "Trekker a 4.800 m, com cefaleia desde a véspera, passa a apresentar ataxia de marcha, confusão e sonolência. Segundo o CDC Yellow Book, qual é o diagnóstico mais provável e a conduta em área remota?",
+  "alts": [
+   "Mal agudo da montanha leve: repouso na mesma altitude e analgésico comum por 48 horas",
+   "Edema pulmonar de altitude: nifedipino e subida controlada até o próximo acampamento da rota",
+   "Edema cerebral de altitude: ficar na mesma altitude e iniciar acetazolamida 125 mg 12/12 h",
+   "Mal agudo da montanha leve: nova subida de 500 m para acelerar a aclimatação ao local",
+   "Edema cerebral de altitude: iniciar a descida, com dexametasona e oxigênio se disponíveis"
+  ],
+  "gab": 4,
+  "tema": "viajante",
+  "sub": "Altitude — edema cerebral",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. High-Altitude Travel and Altitude Illness (HACE; Preventing severe altitude illness or death)",
+  "coment": "O CDC Yellow Book define o edema cerebral de altitude (HACE) como o 'estágio final' do mal agudo da montanha: diferentemente deste, apresenta achados neurológicos — alteração do estado mental, ATAXIA, confusão e sonolência, semelhantes à intoxicação alcoólica. É raro abaixo de 4.300 m e pode evoluir para coma em 12–24 horas após o início da ataxia sem tratamento ou descida. Em área remota, inicia-se a descida para qualquer suspeito, com dexametasona (8 mg uma vez, depois 4 mg de 6/6 h) e oxigênio se houver; se a descida for impossível, oxigênio ou câmara hiperbárica portátil podem salvar a vida. As três regras de ouro: reconhecer os sintomas iniciais, nunca subir para dormir mais alto com sintomas e descer se piorarem apesar de repouso ou tratamento.",
+  "porAlt": [
+   "Ataxia e confusão não são do mal agudo da montanha, que não tem achados neurológicos.",
+   "O quadro é neurológico, e nunca se sobe com sintomas de doença da altitude.",
+   "Acetazolamida 125 mg 12/12 h é dose de PREVENÇÃO; no edema cerebral a prioridade é descer.",
+   "Nunca se sobe para dormir mais alto com sintomas, por menores que pareçam.",
+   "Correta: ataxia e alteração do estado mental definem o edema cerebral de altitude; em área remota, descer, associando dexametasona e oxigênio se disponíveis."
+  ]
+ },
+ {
+  "q": "Na consulta pré-viagem para trekking em grande altitude, qual das condições abaixo o CDC Yellow Book classifica como CONTRAINDICAÇÃO à subida, e não apenas como situação de cautela ou sem risco extra?",
+  "alts": [
+   "Traço falciforme, mesmo sem nenhum episódio prévio de crise ou complicação",
+   "Infarto do miocárdio ou AVC ocorridos menos de 90 dias antes da subida",
+   "Diabetes mellitus com bom controle glicêmico e monitorização da glicemia",
+   "Apneia obstrutiva do sono leve a moderada, sem hipoxemia no domicílio",
+   "Coronariopatia já revascularizada, estável e sem angina residual atual"
+  ],
+  "gab": 1,
+  "tema": "viajante",
+  "sub": "Altitude — doenças preexistentes",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. High-Altitude Travel and Altitude Illness (Tabela 3.5.3)",
+  "coment": "A Tabela 3.5.3 do CDC Yellow Book separa as condições preexistentes em três colunas. Provavelmente sem risco extra: asma controlada, DPOC leve, coronariopatia revascularizada, diabetes, hipertensão controlada, apneia leve/moderada, gestação de baixo risco, epilepsia controlada. Cautela: angina estável, DPOC moderada, coronariopatia não revascularizada, apneia grave, hipertensão pulmonar leve, traço falciforme, ceratotomia radial, lactentes com menos de 6 semanas. Contraindicações: angina instável, asma instável, lesões cerebrais expansivas, DPOC grave, insuficiência cardíaca descompensada, INFARTO OU AVC COM MENOS DE 90 DIAS da subida, gestação de alto risco, hipertensão pulmonar com PSAP >60 mmHg, anemia falciforme e epilepsia mal controlada. A pegadinha é o par traço falciforme (cautela) × anemia falciforme (contraindicação).",
+  "porAlt": [
+   "O traço falciforme está na coluna 'cautela'; contraindicação é a anemia falciforme.",
+   "Correta: infarto ou AVC com menos de 90 dias antes da subida estão na coluna de contraindicações da Tabela 3.5.3.",
+   "O diabetes está na coluna 'provavelmente sem risco extra', com monitorização cuidadosa da glicemia.",
+   "A apneia leve a moderada está em 'sem risco extra'; a grave é que exige cautela.",
+   "A coronariopatia revascularizada está em 'sem risco extra'; a não revascularizada exige cautela."
+  ]
+ },
+ {
+  "q": "Viajante apresenta diarreia aquosa tolerável, sem febre nem sangue, que não atrapalha a programação da viagem. Pela classificação funcional de gravidade adotada no CDC Yellow Book, qual é a conduta?",
+  "alts": [
+   "Diarreia leve: azitromicina em dose única de 1.000 mg, preferida em qualquer destino visitado",
+   "Diarreia moderada: ciprofloxacino por 3 dias, obrigatório pela duração superior a 24 horas",
+   "Diarreia grave: azitromicina, pois toda diarreia do viajante é considerada grave por definição",
+   "Diarreia leve: antibiótico não recomendado; considerar loperamida ou subsalicilato de bismuto",
+   "Diarreia leve: rifaximina profilática nos dias seguintes, para evitar um segundo episódio"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Diarreia do viajante — gravidade",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Travelers' Diarrhea (Tabela 1.6.2 — definições funcionais, painel de 2016)",
+  "coment": "Em 2016, um painel de especialistas propôs classificar a diarreia do viajante pelo IMPACTO FUNCIONAL, e não pela frequência de evacuações, e o CDC Yellow Book adota essa régua na Tabela 1.6.2. Leve: tolerável, não angustia, não interfere nas atividades — antibiótico não recomendado; considerar subsalicilato de bismuto ou loperamida. Moderada: angustia ou interfere nas atividades — antibiótico pode ser usado (azitromicina, fluoroquinolona, rifaximina se não invasiva); loperamida em monoterapia ou adjuvante. Grave: incapacitante ou impede as atividades, e TODA disenteria é grave — antibiótico indicado, azitromicina preferida; loperamida só como adjuvante, nunca em monoterapia na diarreia com sangue ou febre. A lógica é poupar antibiótico pelo risco de colonização por enterobactérias ESBL e de C. difficile.",
+  "porAlt": [
+   "Na diarreia leve o antibiótico não é recomendado; a azitromicina é preferida na diarreia GRAVE.",
+   "A classificação é funcional, não pela duração; e o quadro descrito é leve, não moderado.",
+   "Grave é a diarreia incapacitante; toda DISENTERIA é grave, mas não toda diarreia do viajante.",
+   "Correta: diarreia tolerável, que não interfere nas atividades, é leve: antibiótico não recomendado, considerar subsalicilato de bismuto ou loperamida.",
+   "Antibiótico profilático não é recomendado para a maioria dos viajantes."
+  ]
+ },
+ {
+  "q": "Viajante de 60 anos em uso de varfarina pergunta se pode usar subsalicilato de bismuto para prevenir a diarreia do viajante. Segundo o CDC Yellow Book, qual é a orientação?",
+  "alts": [
+   "Pode usar: o subsalicilato de bismuto reduz a incidência em cerca de 90%, sem interações",
+   "Pode usar: o único efeito adverso relevante do bismuto é o escurecimento de língua e fezes",
+   "Deve preferir antibiótico profilático, recomendado à maioria dos viajantes com comorbidade",
+   "Não deve usar: o subsalicilato de bismuto é contraindicado a quem usa anticoagulante",
+   "Pode usar por tempo ilimitado, pois a segurança do bismuto em uso prolongado está provada"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Diarreia do viajante — profilaxia",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Travelers' Diarrhea (Non-antimicrobial drugs for prophylaxis — Bismuth subsalicylate)",
+  "coment": "O subsalicilato de bismuto é o principal agente não antibiótico estudado para prevenir a diarreia do viajante: estudos no México mostraram redução de cerca de 50% na incidência. Efeitos comuns: escurecimento da língua e das fezes, constipação, náusea e, raramente, zumbido. Segundo o CDC Yellow Book, NÃO devem tomá-lo pessoas com alergia a AAS, gota ou insuficiência renal e as que usam anticoagulantes, metotrexato ou probenecida; quem já usa AAS ou salicilatos corre risco de toxicidade por salicilato. Não é recomendado para menores de 3 anos nem gestantes, e a segurança acima de 3 semanas não foi estabelecida. O antibiótico profilático reduziria a diarreia em 90%, mas não é recomendado para quase ninguém.",
+  "porAlt": [
+   "A redução é de cerca de 50% em estudos no México; os 90% referem-se a antibióticos em estudos antigos.",
+   "Além do escurecimento, há constipação, náusea, raramente zumbido, e risco de toxicidade por salicilato.",
+   "O antibiótico profilático não é recomendado para a maioria; só raramente em hospedeiro de alto risco.",
+   "Correta: o CDC lista quem usa anticoagulante (além de alergia a AAS, gota, insuficiência renal, metotrexato e probenecida) entre os que não devem tomar o bismuto.",
+   "A segurança do uso por mais de 3 semanas não foi estabelecida."
+  ]
+ },
+ {
+  "q": "Engenheiro sem contraindicações embarca em 2 dias para área de malária resistente à cloroquina. Segundo o CDC Yellow Book, qual quimioprofilaxia se adapta a esse prazo, e com qual esquema?",
+  "alts": [
+   "Mefloquina semanal, iniciada 1–2 dias antes e mantida por 7 dias após sair da área de risco",
+   "Atovaquona-proguanil diária, iniciada 1–2 dias antes e mantida 7 dias após sair da área",
+   "Cloroquina semanal, iniciada 1–2 dias antes e mantida por 4 semanas após sair da área",
+   "Atovaquona-proguanil diária, iniciada 2 semanas antes e mantida 4 semanas após sair",
+   "Doxiciclina diária, iniciada 1–2 dias antes e suspensa no mesmo dia em que sair da área"
+  ],
+  "gab": 1,
+  "tema": "viajante",
+  "sub": "Malária — quimioprofilaxia",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Malaria (Tabelas 4.10.2 e 4.10.3 — chemoprophylaxis)",
+  "coment": "Todos os esquemas de quimioprofilaxia envolvem tomar o fármaco antes, durante e depois da exposição. O CDC Yellow Book resume os tempos: atovaquona-proguanil — diária, início 1–2 dias antes, manter 7 dias após sair; doxiciclina — diária, início 1–2 dias antes, manter 4 semanas após (contraindicada em gestantes e menores de 8 anos); mefloquina — semanal, início 2 semanas ou mais antes, manter 4 semanas após; cloroquina — semanal, início 1–2 semanas antes, manter 4 semanas após, só em área sensível; primaquina — diária, 1–2 dias antes e 7 dias após; tafenoquina — ataque de 3 dias antes. Para o viajante de última hora em área resistente à cloroquina, servem atovaquona-proguanil ou doxiciclina (e tafenoquina/primaquina com G6PD documentado). Nenhum fármaco é 100% protetor: combinar com barreira contra o mosquito.",
+  "porAlt": [
+   "A mefloquina deve começar 2 semanas ou mais antes e continuar 4 semanas após — não serve para última hora.",
+   "Correta: a atovaquona-proguanil começa 1–2 dias antes, é diária durante a exposição e continua por 7 dias após sair da área endêmica.",
+   "A cloroquina não serve em área com resistência à cloroquina e começa 1–2 semanas antes.",
+   "O início 1–2 dias antes e os 7 dias após são justamente o que torna a atovaquona-proguanil útil aqui.",
+   "A doxiciclina começa 1–2 dias antes, mas deve continuar por 4 semanas após sair da área."
+  ]
+ },
+ {
+  "q": "Gestante no segundo trimestre não pode adiar viagem a área de malária sensível à mefloquina. Entre as opções de quimioprofilaxia, qual o CDC Yellow Book considera utilizável em todos os trimestres?",
+  "alts": [
+   "Doxiciclina, utilizável em todos os trimestres da gestação e durante a amamentação",
+   "Atovaquona-proguanil, utilizável em todos os trimestres da gestação e na lactação",
+   "Primaquina, utilizável em todos os trimestres desde que o G6PD materno seja normal",
+   "Mefloquina, utilizável em todos os trimestres da gestação e durante a amamentação",
+   "Tafenoquina, utilizável em todos os trimestres desde que o G6PD materno seja normal"
+  ],
+  "gab": 3,
+  "tema": "viajante",
+  "sub": "Malária — gestante",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Malaria (Tabela 4.10.2 — benefícios e limitações dos fármacos)",
+  "coment": "Pela Tabela 4.10.2 do CDC Yellow Book, apenas dois fármacos de quimioprofilaxia podem ser usados em todos os trimestres da gestação: a cloroquina (só em área sensível à cloroquina) e a mefloquina (também na amamentação), esta desde que a área não tenha resistência à mefloquina. Doxiciclina, atovaquona-proguanil, primaquina e tafenoquina não podem ser usadas por gestantes; primaquina e tafenoquina exigem ainda G6PD quantitativo documentado antes da prescrição, pelo risco de hemólise. A mefloquina tem suas próprias contraindicações — depressão ativa ou recente, ansiedade generalizada, psicose, esquizofrenia, outros transtornos psiquiátricos maiores e crises convulsivas — e deve começar 2 semanas ou mais antes. A pegadinha é achar que G6PD normal libera primaquina ou tafenoquina na gestação.",
+  "porAlt": [
+   "A doxiciclina não pode ser usada por gestantes nem por quem amamenta.",
+   "A atovaquona-proguanil não pode ser usada por gestantes nem por quem amamenta lactente com menos de 5 kg.",
+   "A primaquina é contraindicada na gestação, independentemente do G6PD materno.",
+   "Correta: a Tabela 4.10.2 registra que a mefloquina pode ser usada em todos os trimestres da gestação e na amamentação.",
+   "A tafenoquina é contraindicada na gestação, independentemente do G6PD materno."
+  ]
+ },
+ {
+  "q": "Viajante retorna de região com transmissão de febre de Lassa e inicia febre 30 dias após deixar a área. Segundo o CDC Yellow Book, como esse intervalo pesa na hipótese de febre hemorrágica viral?",
+  "alts": [
+   "Torna-a mais provável, pois o período de incubação dessas febres costuma passar de 21 dias",
+   "Não altera a hipótese, pois essas febres podem surgir anos após o retorno, como a malária",
+   "Torna-a desprezível, pois o período de incubação dessas febres raramente passa de 21 dias",
+   "Torna-a desprezível, pois o período de incubação dessas febres nunca passa de 7 dias corridos",
+   "Torna-a desprezível, pois o período de incubação dessas febres nunca passa de 14 dias"
+  ],
+  "gab": 2,
+  "tema": "viajante",
+  "sub": "Consulta pós-viagem — incubação",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Post-Travel Evaluation of the Ill Traveler (incubation periods)",
+  "coment": "Na consulta pós-viagem, o CDC Yellow Book usa o período de incubação como filtro do diagnóstico diferencial. A maioria das infecções da viagem tem incubação curta, e o doente procura atendimento no primeiro mês: dengue e outras arboviroses, influenza e diarreia do viajante (até 2 semanas). Com 2–6 semanas: hepatites virais, HIV agudo, leishmaniose, MALÁRIA e febre tifoide. Meses ou anos depois: leishmaniose, malária, esquistossomose, estrongiloidíase, filariose e tuberculose — por isso, malária deve ser considerada em qualquer febril que tenha estado em área endêmica no último ANO. Para as febres hemorrágicas virais (Lassa, Ebola, Marburg, Crimeia-Congo), a incubação raramente passa de 21 dias; sintomas iniciados depois disso tornam o risco desprezível — mas a malária continua na lista.",
+  "porAlt": [
+   "O CDC diz o contrário: a incubação raramente passa de 21 dias.",
+   "Quem pode surgir meses ou anos depois são malária, leishmaniose, esquistossomose, estrongiloidíase, filariose e tuberculose.",
+   "Correta: as incubações das febres hemorrágicas virais raramente excedem 21 dias; sintomas iniciados depois disso tornam o risco desprezível.",
+   "O teto citado é de 21 dias, não 7.",
+   "O teto citado é de 21 dias, não 14."
+  ]
+ },
+ {
+  "q": "Viajante vacinado contra febre amarela há 4 dias sai de área com risco de transmissão rumo a país que tem o vetor e exige o certificado. Segundo o Anexo 7 do Regulamento Sanitário Internacional, o que pode ocorrer?",
+  "alts": [
+   "Pode partir e entrar livremente, pois a data da dose já basta para comprovar a proteção",
+   "Não pode partir, pois o RSI proíbe o embarque com certificado que ainda não está válido",
+   "Pode partir, mas no destino ficar em quarentena obrigatória por 21 dias após a chegada",
+   "Não pode partir até completar 30 dias da vacinação, quando o certificado passa a valer",
+   "Pode partir, mas no destino ficar em quarentena até o certificado valer ou por até 6 dias"
+  ],
+  "gab": 4,
+  "tema": "viajante",
+  "sub": "RSI — certificado ainda não válido",
+  "base": "OMS — Regulamento Sanitário Internacional (2005), Anexo 7, item 2(a), 2(c) e 2(h)",
+  "coment": "O Anexo 7 do RSI (2005) fixa, para a febre amarela: período de incubação de SEIS dias; proteção a partir de 10 dias após a vacina aprovada pela OMS; proteção e validade do certificado por toda a vida, começando 10 dias após a vacinação (emenda WHA67.13, em vigor desde 11/07/2016). O item 2(c) diz que o viajante com certificado ainda não válido pode ser autorizado a partir, mas no destino se aplica o item 2(h): o país com vetor pode exigir que o viajante vindo de área de risco sem certificado válido fique em quarentena até o certificado se tornar válido ou por no máximo seis dias contados da última exposição possível, o que ocorrer primeiro. No caso, faltam 6 dias para a validade — o limite de quarentena coincide. O CDC Yellow Book resume: sem prova de vacinação, recusa de entrada, quarentena de até 6 dias ou vacina no local.",
+  "porAlt": [
+   "O certificado só vale 10 dias após a vacinação; antes disso o país com vetor pode aplicar a quarentena.",
+   "O RSI prevê expressamente que o viajante com certificado ainda não válido pode ser autorizado a partir.",
+   "O limite da quarentena é de 6 dias (período de incubação adotado pelo RSI), não 21 dias.",
+   "A validade começa 10 dias após a vacinação, não 30 dias.",
+   "Correta: o Anexo 7 permite a partida com certificado ainda não válido, mas o país com vetor pode impor quarentena até o certificado valer ou por no máximo 6 dias da última exposição, o que ocorrer primeiro."
+  ]
+ },
+ {
+  "q": "Mulher de 40 anos com miastenia gravis associada a timoma precisa viajar a trabalho para país que exige o CIVP de febre amarela. Segundo o CDC Yellow Book, qual é a conduta?",
+  "alts": [
+   "Vacinar, pois a miastenia é só precaução, com decisão compartilhada sobre o risco da vacina",
+   "Vacinar com dose fracionada, que reduz o evento adverso e é aceita pelo Regulamento Sanitário",
+   "Não vacinar, pois é contraindicação; dar isenção médica e reforçar a proteção contra mosquitos",
+   "Não vacinar e dispensar documentos, pois a contraindicação por si garante a entrada no país",
+   "Vacinar, pois só há contraindicação em menores de 6 meses e em quem tem alergia a ovo de galinha"
+  ],
+  "gab": 2,
+  "tema": "viajante",
+  "sub": "Febre amarela — contraindicações",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Yellow Fever (Box 4.21.1; Medical waivers) e OMS — RSI (2005), Anexo 6, item 9",
+  "coment": "O Box 4.21.1 do CDC Yellow Book lista as CONTRAINDICAÇÕES à vacina de febre amarela: idade menor que 6 meses; alergia a componente da vacina (ovo, proteína de galinha, gelatina); HIV sintomático ou CD4 abaixo de 200; DOENÇA DO TIMO com disfunção imune (miastenia gravis, timoma); imunodeficiência ou imunossupressão, genética ou por tratamento (transplantados, pacientes oncológicos em imunossupressão, drogas imunossupressoras ou imunomoduladoras). As PRECAUÇÕES são: 6–8 meses, 60 anos ou mais, HIV assintomático com CD4 200–499, gestação e amamentação. Timectomia incidental ou radioterapia indireta remota não impedem a vacina. Com contraindicação e viagem inevitável, o CDC orienta isenção médica (seção própria do ICVP e carta assinada com o carimbo do centro) e proteção rigorosa contra picadas; o Anexo 6 do RSI manda registrar os motivos por escrito em inglês ou francês.",
+  "porAlt": [
+   "Precauções são idade de 6–8 meses, 60 anos ou mais, HIV assintomático com CD4 200–499, gestação e amamentação; doença do timo é contraindicação.",
+   "A dose fracionada não atende às exigências do RSI: não se emite comprovante internacional com ela.",
+   "Correta: doença do timo com disfunção imune (miastenia gravis, timoma) é contraindicação à vacina; emite-se isenção médica e reforça-se a proteção contra picadas.",
+   "A isenção médica é documentada e pode não ser aceita pelo país de destino; convém consultar o consulado.",
+   "As contraindicações incluem também doença do timo, imunossupressão e HIV com CD4 abaixo de 200."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo 7 do Regulamento Sanitário Internacional (2005), quem, em área com risco de transmissão de febre amarela, deve obrigatoriamente ter certificado válido de vacinação?",
+  "alts": [
+   "Quem trabalha em ponto de entrada da área e todo tripulante de veículo que use esse ponto",
+   "Somente o passageiro que desembarca, ficando dispensados os trabalhadores e os tripulantes",
+   "Somente o tripulante de aeronave, ficando dispensadas as tripulações de navios e trens",
+   "Todo morador da área com risco, trabalhe ou não em porto, aeroporto ou passagem de fronteira",
+   "Somente o piloto em comando, pois o restante da tripulação não tem contato com a área"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "RSI — trabalhadores e tripulantes",
+  "base": "OMS — Regulamento Sanitário Internacional (2005), Anexo 7, item 2(f) e 2(g)",
+  "coment": "O Anexo 7 do RSI (2005) traz uma regra ocupacional que interessa diretamente à medicina do tráfego: toda pessoa empregada em um ponto de entrada (porto, aeroporto ou passagem de fronteira terrestre) situado em área onde a OMS determinou haver risco de transmissão de febre amarela, e todo membro da tripulação de um meio de transporte que use esse ponto de entrada, deve possuir certificado válido de vacinação contra a febre amarela (item 2(g)). O mesmo anexo obriga os Estados a designar centros específicos de vacinação (item 2(f)) e exige vacina aprovada pela OMS (item 2(e)). No Brasil, o CIVP é emitido pela Anvisa; a validade começa 10 dias após a vacinação e se estende por toda a vida — não há reforço para renovar o certificado.",
+  "porAlt": [
+   "Correta: o item 2(g) exige certificado válido de toda pessoa empregada em ponto de entrada em área de risco e de todo membro da tripulação de meio de transporte que use esse ponto.",
+   "O item 2(g) alcança justamente trabalhadores do ponto de entrada e tripulantes.",
+   "O RSI fala em tripulação de qualquer meio de transporte (conveyance), não só de aeronaves.",
+   "O item 2(g) não trata de moradores em geral, e sim de trabalhadores do ponto de entrada e tripulantes.",
+   "A exigência alcança todo membro da tripulação, não apenas o piloto em comando."
+  ]
+ },
+ {
+  "q": "Além da febre amarela, em quais situações excepcionais o serviço federal de emissão do Certificado Internacional de Vacinação ou Profilaxia (Anvisa) prevê o CIVP?",
+  "alts": [
+   "Covid-19, emitido pela mesma via, e sarampo, para qualquer viagem internacional de turismo",
+   "Raiva, para viagem a área rural, e hepatite A, para estadia em país de saneamento precário",
+   "Meningite, na peregrinação a Meca (Hajj), e poliomielite, na estadia em país com transmissão",
+   "Febre tifoide, para a peregrinação a Meca (Hajj), e cólera, para estadia em país com surto ativo",
+   "Meningite, para qualquer viagem à África, e poliomielite, para qualquer viagem internacional"
+  ],
+  "gab": 2,
+  "tema": "viajante",
+  "sub": "CIVP — outras doenças",
+  "base": "Anvisa/gov.br — serviço 'Obter o Certificado Internacional de Vacinação e Profilaxia' (atualizado em 24/04/2026); OMS — RSI (2005), Anexos 6 e 7",
+  "coment": "O CIVP é o documento que comprova a vacinação de febre amarela, necessário porque alguns países a exigem para entrada — inclusive em escala ou conexão. A página oficial do serviço acrescenta que, em situações excepcionais, pode ser solicitado CIVP para MENINGITE (peregrinação a Meca, o Hajj) e para POLIOMIELITE (estadia em países com transmissão da doença). O CDC Yellow Book confirma o contexto: a Arábia Saudita exige a vacina meningocócica quadrivalente dos peregrinos, e há recomendações e exigências de vacina contra pólio para quem visita países com circulação do poliovírus. Pelo Anexo 7 do RSI, a febre amarela é a única doença designada especificamente no próprio Regulamento; as demais exigências (como a meningocócica da Arábia Saudita para o Hajj e a de pólio em países com circulação do poliovírus) decorrem de recomendações ou de regras próprias de cada país. O comprovante de Covid-19 é emitido só no Meu SUS Digital.",
+  "porAlt": [
+   "O comprovante de Covid-19 é emitido apenas no Meu SUS Digital, não pelo CIVP; sarampo não é citado.",
+   "Raiva e hepatite A são vacinas de viajante, mas não constam como situações de CIVP no serviço.",
+   "Correta: a página do serviço (gov.br/Anvisa) prevê, em situações excepcionais, o CIVP para meningite (Hajj) e para poliomielite (estadia em países com transmissão).",
+   "A situação ligada ao Hajj é a meningite, não a febre tifoide; cólera não é citada.",
+   "As situações são específicas: meningite para o Hajj e pólio para estadia em país com transmissão."
+  ]
+ },
+ {
+  "q": "Viajante que fará trilha em região com serpentes peçonhentas pergunta sobre primeiros socorros em caso de picada. Segundo o CDC Yellow Book, qual orientação está correta?",
+  "alts": [
+   "Aplicar torniquete apertado acima da picada e buscar atendimento em até 24 horas depois",
+   "Imobilizar o membro com tala e buscar o soro logo, sem torniquete, corte nem sucção",
+   "Fazer incisão sobre as marcas das presas e sugar o veneno antes de buscar atendimento",
+   "Capturar a serpente viva para identificação antes de iniciar o transporte do ferido",
+   "Aplicar compressa de ervas no local e aguardar a evolução antes de buscar o soro"
+  ],
+  "gab": 1,
+  "tema": "viajante",
+  "sub": "Animais peçonhentos — primeiros socorros",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Poisonings, Envenomations, and Toxic Exposures During Travel (Snakes)",
+  "coment": "O CDC Yellow Book orienta a prevenção (calça comprida, meias e botas altas em trilha, lanterna à noite, olhar antes de sentar ou pôr a mão em buracos e galhos, sacudir roupas e calçados, não dormir no chão) e os primeiros socorros: NÃO usar torniquete que interrompa o fluxo sanguíneo, NÃO cortar a pele ao redor das presas, NÃO tentar sugar o veneno, NÃO usar tratamento tópico, ervas ou remédios populares. Imobilizar o membro com tala pode ajudar; bandagem de pressão-imobilização pode ser considerada para veneno neurotóxico. O ponto central é o acesso rápido ao atendimento, que muitas vezes exige soro antiveneno, difícil de obter em áreas remotas — por isso a consulta pré-viagem deve localizar o serviço mais próximo com soro. Leigo não deve capturar a serpente; foto ajuda.",
+  "porAlt": [
+   "Torniquete que interrompe o fluxo sanguíneo não é recomendado, e o atraso no atendimento pode ser fatal.",
+   "Correta: o CDC não recomenda torniquete, corte, sucção nem remédios caseiros; imobilizar o membro com tala pode ajudar, e o acesso rápido ao tratamento, que muitas vezes exige soro, é a medida mais importante.",
+   "Cortar a pele e sugar o veneno não são recomendados.",
+   "Pessoa sem treino não deve tentar capturar a serpente; uma fotografia pode ajudar na identificação.",
+   "Tratamentos tópicos, ervas e remédios populares não são recomendados; atrasar o soro é perigoso."
+  ]
+ },
+ {
+  "q": "Segundo o CDC Yellow Book, qual das orientações abaixo sobre o transporte de medicamentos em viagem internacional está INCORRETA?",
+  "alts": [
+   "Levar os medicamentos na bagagem de mão, e não na despachada, durante todo o trajeto da viagem",
+   "Passar os comprimidos para um organizador semanal, o que facilita a identificação na alfândega",
+   "Verificar as restrições também nos países de escala, e não apenas no destino final da viagem",
+   "Não despachar remédios pelo correio nem levar os de terceiros que não sejam familiares juntos",
+   "Considerar que zolpidem e pseudoefedrina podem ser restritos ou proibidos em alguns países"
+  ],
+  "gab": 1,
+  "tema": "viajante",
+  "sub": "Medicamentos na viagem",
+  "base": "CDC Yellow Book 2026 (Health Information for International Travel), cap. Traveling with Prohibited or Restricted Medications (Tabela 2.6.2) e cap. Travelers with Chronic Illnesses",
+  "coment": "O CDC Yellow Book resume na Tabela 2.6.2 o que fazer e o que não fazer com medicamentos em viagem internacional. Fazer: manter nas embalagens originais rotuladas; levar na bagagem de mão; conhecer as leis do destino e dos países de TRÂNSITO; saber que os nomes comerciais mudam entre países. Não fazer: transferir para organizador de comprimidos; despachar na bagagem; levar remédios de terceiros que não sejam familiares viajando junto; enviar pelo correio; transportar substâncias para uso não médico. Consequências de levar medicamento proibido: atraso, confisco, recusa de entrada ou prisão. Narcóticos, benzodiazepínicos, zolpidem, anfetaminas para TDAH e pseudoefedrina são os exemplos citados; o CDC recomenda carta médica com nome genérico, dose e indicação de cada medicamento, e quantidade para toda a viagem e alguns dias a mais.",
+  "porAlt": [
+   "Orientação válida segundo o CDC, logo não é a resposta: a bagagem de mão reduz extravio, dano e furto e garante a presença do dono se algo for questionado.",
+   "Correta: esta é a orientação incorreta: o CDC manda manter os medicamentos nas embalagens originais rotuladas e evitar organizadores, porque neles os comprimidos não são identificáveis.",
+   "Orientação válida segundo o CDC, logo não é a resposta: é preciso conhecer as regras dos países de trânsito, como nas escalas.",
+   "Orientação válida segundo o CDC, logo não é a resposta: enviar pelo correio ou levar remédio de terceiros costuma ser ilegal (importação/exportação).",
+   "Orientação válida segundo o CDC, logo não é a resposta: o zolpidem exige permissão ou é proibido em alguns países, e a pseudoefedrina é ilegal em alguns."
+  ]
+ },
+ {
+  "q": "Família de Fortaleza planeja viagem de carro pelo interior do Brasil e pergunta se precisa do CIVP de febre amarela. Segundo o Ministério da Saúde e a Anvisa, qual é a orientação?",
+  "alts": [
+   "Não precisa do CIVP, exigido por outros países; a vacina é recomendada a partir dos 9 meses",
+   "Precisa do CIVP para circular entre estados, emitido pela Anvisa com validade de 10 anos",
+   "Não precisa da vacina, que o MS recomenda só para a viagem internacional a área de risco",
+   "Precisa do CIVP só para as crianças, que a partir dos 6 meses já devem ser certificadas",
+   "Não precisa do CIVP, e a vacina é recomendada a partir dos 5 anos, em dose única de reforço"
+  ],
+  "gab": 0,
+  "tema": "viajante",
+  "sub": "Febre amarela — viagem nacional",
+  "base": "Ministério da Saúde — 'Viajantes e a Febre Amarela' (Viagens Nacionais e Internacionais); Anvisa/gov.br — serviço de emissão do CIVP",
+  "coment": "O edital cobra a imunização do viajante 'dentro do território nacional e para outros países', e as regras são diferentes. Viagem NACIONAL: o Ministério da Saúde recomenda a vacina contra febre amarela para toda a população a partir dos 9 meses; como os anticorpos protetores surgem entre o 7º e o 10º dia após a dose, ela deve ser aplicada no mínimo 10 dias antes da viagem para que a pessoa seja considerada protegida; uma dose confere proteção por toda a vida; somam-se calça e camisa de manga longa e repelente. Viagem INTERNACIONAL: alguns países exigem, com base no RSI (2005), a comprovação pelo CIVP — que não é exigido para circular dentro do Brasil. O CIVP vale a partir de 10 dias da vacinação e por toda a vida, e é emitido para crianças a partir de 9 meses.",
+  "porAlt": [
+   "Correta: o CIVP serve para entrar em países que o exigem; para viagens nacionais, o MS recomenda a vacina a toda a população a partir dos 9 meses, no mínimo 10 dias antes.",
+   "Não há exigência de CIVP para circular entre estados, e a validade do CIVP é vitalícia, não de 10 anos.",
+   "O MS recomenda a vacina para toda a população, inclusive nas viagens nacionais.",
+   "Não há CIVP para viagem nacional, e a vacina é recomendada a partir dos 9 meses, não dos 6.",
+   "A recomendação do MS é a partir dos 9 meses; uma dose confere proteção por toda a vida."
+  ]
+ }
+]

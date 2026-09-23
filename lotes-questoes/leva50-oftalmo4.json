@@ -1,0 +1,486 @@
+[
+ {
+  "q": "Candidato de 29 anos, habilitado na categoria B, requer adição da categoria C. Apresenta acuidade de 20/30 em cada olho, visão binocular de 20/25 e campo visual na isóptera horizontal de 125º no olho direito e 100º no esquerdo. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende à categoria C, pois basta que um dos olhos alcance o campo de 120º na isóptera",
+   "Atende à categoria C, pois o campo exigido nas categorias profissionais é de 60º por olho",
+   "Não atende à categoria C, pois a acuidade de 20/30 em cada olho é insuficiente para ela",
+   "Não atende à categoria C, que exige campo igual ou superior a 120º em cada um dos olhos",
+   "Atende à categoria C, pois a visão binocular de 20/25 compensa o campo menor em um olho"
+  ],
+  "gab": 3,
+  "tema": "oftalmo",
+  "sub": "Campo visual nas categorias profissionais",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1, 1.1.2 e 1.2.2.",
+  "coment": "Para as categorias C, D e E, o Anexo II exige, cumulativamente, acuidade igual ou superior a 20/30 em cada olho (ou 20/30 em um e 20/40 no outro), visão binocular mínima de 20/25 (item 1.1.1) e visão periférica na isóptera horizontal igual ou superior a 120º EM CADA UM DOS OLHOS (item 1.1.2). O candidato cumpre a acuidade e a binocular, mas o olho esquerdo tem 100º — abaixo do piso. A alternativa '120º em um olho' e a de '60º por olho' descrevem a regra das categorias ACC, A e B (item 1.2.2: 60º em cada olho ou 120º em um olho), que não se estende às profissionais. Um parâmetro não compensa o outro: as exigências são simultâneas.",
+  "porAlt": [
+   "A regra de 120º em um só olho vale para ACC, A e B, e não para as categorias profissionais.",
+   "O piso de 60º por olho é das categorias ACC, A e B; nas profissionais são 120º em cada olho.",
+   "A acuidade de 20/30 em cada olho atende à categoria C; a falha do candidato está no campo.",
+   "Correta: nas categorias C, D e E o campo deve ser de 120º em cada um dos olhos, sem alternativa.",
+   "As exigências são cumulativas; a boa visão binocular não compensa o campo insuficiente."
+  ]
+ },
+ {
+  "q": "Candidata de 19 anos à primeira habilitação na categoria B apresenta, sem correção e sem melhora com lentes, acuidade de 20/40 no olho direito e 20/60 no esquerdo, com campo de 130º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende, pois basta 20/40 no melhor olho para a ACC e as categorias A e B",
+   "Não atende, pois não tem 20/40 em cada olho nem 20/30 em um dos olhos",
+   "Atende, pois a visão binocular dela certamente alcança o piso de 20/25",
+   "Não atende, pois a categoria B exige 20/30 em cada um dos dois olhos",
+   "Atende, pois o campo de 130º em cada olho compensa a acuidade menor"
+  ],
+  "gab": 1,
+  "tema": "oftalmo",
+  "sub": "Acuidade nas categorias A e B",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.2.1.",
+  "coment": "O item 1.2.1 admite, para ACC, A e B, duas formas de cumprir a acuidade: igual ou superior a 20/40 (0,50) EM CADA UM DOS OLHOS; ou igual ou superior a 20/30 (0,66) em um dos olhos, com pelo menos percepção luminosa no outro. A candidata tem 20/40 no melhor olho e 20/60 no pior: não cumpre a primeira via (o olho esquerdo está abaixo de 20/40) nem a segunda (nenhum olho chega a 20/30). Não existe regra de '20/40 no melhor olho'. A visão binocular de 20/25 é exigência apenas das categorias C, D e E, e a norma não prevê compensação entre campo e acuidade. A categoria B também não exige 20/30 em cada olho — esse é o piso das profissionais.",
+  "porAlt": [
+   "Não há regra de 20/40 no melhor olho; ou 20/40 em cada olho, ou 20/30 em um deles.",
+   "Correta: não cumpre 20/40 em cada olho nem 20/30 em um olho com percepção luminosa no outro.",
+   "A binocular de 20/25 só é exigida em C, D e E e não substitui a acuidade monocular.",
+   "A categoria B não exige 20/30 em cada olho; a falha está em não ter 20/40 no pior olho.",
+   "A norma não admite compensação entre campo visual e acuidade central na aprovação."
+  ]
+ },
+ {
+  "q": "Candidato de 40 anos à categoria B tem ambliopia antiga no olho esquerdo, que apenas conta dedos, com percepção luminosa preservada. O olho direito tem 20/25 e campo de 130º; o esquerdo, campo de 40º. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é o resultado?",
+  "alts": [
+   "Inapto: a categoria B exige 20/40 em cada um dos olhos, e o olho esquerdo só conta os dedos",
+   "Apto: tem 20/30 ou mais em um olho com percepção luminosa no outro, e 120º ou mais em um olho",
+   "Inapto: o campo do olho esquerdo está abaixo dos 60º exigidos em cada olho na categoria B",
+   "Apto somente na ACC, pois a combinação com percepção luminosa não alcança a categoria B ou A",
+   "Apto, mas só após noventa dias, com capacete de viseira indicado no laudo do perito médico"
+  ],
+  "gab": 1,
+  "tema": "oftalmo",
+  "sub": "Olho com percepção luminosa: categorias A e B",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.2.1 e 1.2.2.",
+  "coment": "Para ACC, A e B, o item 1.2.1 admite acuidade igual ou superior a 20/30 em um dos olhos, com pelo menos percepção luminosa (PL) no outro — o candidato tem 20/25 no direito e PL no esquerdo. O item 1.2.2 admite campo igual ou superior a 60º em cada olho OU igual ou superior a 120º em um olho — ele tem 130º no direito, o que basta, ainda que o esquerdo tenha só 40º. Os noventa dias e o capacete com viseira são ressalvas do item 1.3, que trata do candidato SEM percepção luminosa (SPL) — situação diferente desta, em que a PL está preservada. A combinação com PL vale para ACC, A e B, não apenas para a ACC.",
+  "porAlt": [
+   "A via de 20/40 em cada olho é uma das opções; a outra, de 20/30 com PL no outro, é cumprida.",
+   "Correta: cumpre a via de 20/30 com PL no outro olho e a via de 120º em um olho, no item 1.2.",
+   "O campo pode ser 60º em cada olho ou 120º em um; os 130º do olho direito bastam sozinhos.",
+   "A combinação com percepção luminosa vale para ACC, A e B, e não apenas para a ACC.",
+   "Noventa dias e capacete são ressalvas do candidato SEM percepção luminosa, não deste caso."
+  ]
+ },
+ {
+  "q": "Candidato de 67 anos, renovando a categoria B, tem catarata densa no olho esquerdo, com apenas percepção luminosa e campo não mensurável. O olho direito tem 20/30 e campo de 110º na isóptera horizontal. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende: tem 20/30 em um olho com percepção luminosa no outro, o que basta na categoria B",
+   "Atende: para a categoria B o campo exigido é de 60º em pelo menos um dos olhos avaliados",
+   "Não atende: sem 60º em cada olho, o olho único precisaria ter pelo menos 120º de campo",
+   "Não atende: a acuidade de 20/30 no olho direito é insuficiente sem o outro olho funcional",
+   "Atende: na renovação, o campo visual é dispensado para condutores acima de 65 anos"
+  ],
+  "gab": 2,
+  "tema": "oftalmo",
+  "sub": "Campo no olho único funcional",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.2.1 e 1.2.2.",
+  "coment": "A acuidade está cumprida: o item 1.2.1 admite 20/30 em um olho com pelo menos percepção luminosa no outro. Mas o campo é exigência autônoma e cumulativa. O item 1.2.2 pede, para ACC, A e B, visão periférica na isóptera horizontal igual ou superior a 60º em cada um dos olhos OU igual ou superior a 120º em um olho. Com o olho esquerdo sem campo mensurável, a primeira via cai; resta a segunda, e o olho direito tem só 110º. Resultado: não atende. Como a catarata é passível de tratamento, o caso se enquadra na lógica do inapto temporário do art. 8º, III. A norma não dispensa o campo na renovação nem por idade.",
+  "porAlt": [
+   "A acuidade está cumprida, mas o campo é exigência cumulativa e não foi alcançado.",
+   "Na B o campo é de 60º em CADA olho ou 120º em um; 60º em um só olho não basta.",
+   "Correta: sem 60º em cada olho, seria preciso 120º no olho único, e ele tem apenas 110º.",
+   "Os 20/30 no olho direito cumprem a acuidade pela via da percepção luminosa no outro.",
+   "A norma não dispensa a avaliação de campo visual na renovação nem por faixa etária."
+  ]
+ },
+ {
+  "q": "Candidata de 36 anos perdeu a visão do olho esquerdo há seis meses (sem percepção luminosa). O olho direito tem 20/25, mas o campo na isóptera horizontal é de 100º. Pretende a categoria B. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende, pois para a categoria B basta campo de 60º em cada olho ou 100º no olho único",
+   "Não atende, pois o candidato sem percepção luminosa num olho precisa de 120º de campo",
+   "Atende, pois já decorreram noventa dias da perda e a acuidade de 20/25 supera 20/30",
+   "Não atende, pois a candidata sem percepção luminosa precisa de 20/20 no olho restante",
+   "Atende, desde que o laudo indique capacete com viseira e a restrição U na habilitação"
+  ],
+  "gab": 1,
+  "tema": "oftalmo",
+  "sub": "Olho sem percepção luminosa: campo de 120º",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.3 e subitens 1.3.1 a 1.3.3.",
+  "coment": "O item 1.3 abre a ACC e as categorias A e B ao candidato sem percepção luminosa (SPL) em um olho, mas com três parâmetros cumulativos: acuidade visual central igual ou superior a 20/30 (1.3.1); visão periférica na isóptera horizontal igual ou superior a 120º (1.3.2); e, decorridos no mínimo noventa dias da perda da visão, indicação no laudo do uso de capacete de segurança com viseira protetora, sem limitação de campo visual (1.3.3). A candidata cumpre a acuidade (20/25) e o prazo (seis meses), mas tem só 100º de campo. Não há exigência de 20/20, e nem o capacete nem a restrição U suprem o campo insuficiente.",
+  "porAlt": [
+   "Com um olho SPL não há a via de 60º em cada olho; o olho restante precisa de 120º de campo.",
+   "Correta: o subitem 1.3.2 exige 120º de campo, e a candidata tem apenas 100º no olho restante.",
+   "Acuidade e prazo estão cumpridos, mas o campo de 120º também é exigência do item 1.3.",
+   "O item 1.3 exige 20/30 no olho restante, e não 20/20; a falha da candidata é o campo.",
+   "O capacete é ressalva adicional e não supre o campo; a restrição U não compensa o déficit."
+  ]
+ },
+ {
+  "q": "Motorista de 33 anos, portador de estrabismo desde a infância, com 20/20 no melhor olho e 20/40 no outro e campo de 130º em cada olho, requer adição da categoria C. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende: 20/20 em um olho e 20/40 no outro cumprem a combinação admitida para a categoria C",
+   "Atende: basta que o campo seja de 120º em pelo menos um olho, como exige o item do estrabismo",
+   "Não atende agora: deve aguardar noventa dias após a correção cirúrgica do desvio ocular dele",
+   "Não atende: o portador de estrabismo pode ser aprovado somente na ACC e nas categorias A e B",
+   "Atende: o estrabismo só pode restringir a categoria A, pela necessidade de visão de profundidade"
+  ],
+  "gab": 3,
+  "tema": "oftalmo",
+  "sub": "Estrabismo e categorias profissionais",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 2.1.",
+  "coment": "O item 2 (motilidade ocular, tropia) é taxativo: 'Portadores de estrabismo poderão ser aprovados SOMENTE na ACC e nas categorias A e B', com acuidade igual ou superior a 20/30 no melhor olho (2.1.1) e visão periférica na isóptera horizontal igual ou superior a 120º em pelo menos um dos olhos (2.1.2). Por isso, ainda que a acuidade pareça cumprir a combinação 20/30 + 20/40 do item 1.1.1, o estrabismo exclui as categorias C, D e E. O prazo de noventa dias pertence ao candidato sem percepção luminosa (item 1.3), não ao estrabismo, e a norma não limita o estrabismo à categoria A — ao contrário, a A está entre as permitidas.",
+  "porAlt": [
+   "A combinação do item 1.1.1 não se aplica ao estrábico, que o item 2.1 limita a ACC, A e B.",
+   "Os parâmetros do item 2.1 valem só para ACC, A e B; não abrem a categoria C ao estrábico.",
+   "Os noventa dias são do candidato sem percepção luminosa, e não do portador de estrabismo.",
+   "Correta: o item 2.1 limita o portador de estrabismo à ACC e às categorias A e B.",
+   "A categoria A é uma das permitidas ao estrábico; as vedadas são C, D e E."
+  ]
+ },
+ {
+  "q": "Candidato de 20 anos com estrabismo convergente pretende a categoria B. Apresenta acuidade de 20/40 em cada olho, com a melhor correção possível, e campo de 130º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende, pois 20/40 em cada olho é o piso de acuidade da categoria B para todos",
+   "Atende, pois o campo de 130º em cada olho supera os 120º exigidos no estrabismo",
+   "Não atende, pois o portador de estrabismo precisa de 20/25 de visão binocular",
+   "Atende, com a restrição U, que veda a direção após o pôr do sol ao estrábico adulto",
+   "Não atende, pois o portador de estrabismo precisa de 20/30 ou mais no melhor olho"
+  ],
+  "gab": 4,
+  "tema": "oftalmo",
+  "sub": "Estrabismo: 20/30 no melhor olho",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.2.1 e 2.1.",
+  "coment": "Para o candidato sem estrabismo, 20/40 em cada olho atenderia à categoria B pelo item 1.2.1. Mas o item 2.1 estabelece parâmetros próprios para o portador de estrabismo, aprovável somente na ACC e nas categorias A e B 'segundo os seguintes parâmetros': acuidade visual central igual ou superior a 20/30 (0,66) no MELHOR olho (2.1.1) e visão periférica na isóptera horizontal igual ou superior a 120º em pelo menos um dos olhos (2.1.2). Com 20/40 no melhor olho, o candidato não alcança o piso. O campo está cumprido, mas os parâmetros são cumulativos. Visão binocular de 20/25 é exigência das categorias C, D e E, e a restrição U não supre acuidade.",
+  "porAlt": [
+   "O piso de 20/40 em cada olho não vale para o estrábico, que tem parâmetros próprios no item 2.1.",
+   "O campo está cumprido, mas a acuidade de 20/30 no melhor olho também é exigida no item 2.1.",
+   "A binocular de 20/25 é das categorias C, D e E; a falha aqui é a acuidade do melhor olho.",
+   "Restrição de horário não supre a acuidade mínima exigida do portador de estrabismo.",
+   "Correta: o item 2.1.1 exige 20/30 no melhor olho do estrábico, e ele tem apenas 20/40."
+  ]
+ },
+ {
+  "q": "Candidata de 25 anos com estrabismo divergente pretende a categoria A. O olho direito tem 20/25 e campo de 125º; o esquerdo, 20/200 e campo de 70º. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Não atende, pois o estrábico precisa de 120º de campo em cada um dos dois olhos",
+   "Atende, pois tem 20/30 ou mais no melhor olho e 120º ou mais em pelo menos um olho",
+   "Não atende, pois o olho esquerdo com 20/200 está abaixo de 20/40 exigido no pior olho",
+   "Atende somente na ACC, pois o estrabismo exclui a condução de motocicletas em via",
+   "Não atende, pois o estrábico precisa de 20/30 de acuidade em cada um dos olhos"
+  ],
+  "gab": 1,
+  "tema": "oftalmo",
+  "sub": "Estrabismo: parâmetros cumpridos",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 2.1 e subitens 2.1.1 e 2.1.2.",
+  "coment": "O item 2.1 permite aprovar o portador de estrabismo na ACC e nas categorias A e B com dois parâmetros: acuidade igual ou superior a 20/30 no melhor olho (2.1.1) e campo na isóptera horizontal igual ou superior a 120º em pelo menos um dos olhos (2.1.2). A candidata tem 20/25 no melhor olho e 125º no direito: atende. A norma não exige nada do pior olho do estrábico — nem acuidade mínima, nem campo mínimo. A categoria A está expressamente entre as permitidas. Exigências 'em cada olho' pertencem a outros itens.",
+  "porAlt": [
+   "O item 2.1.2 exige 120º em pelo menos um dos olhos, e não em cada um deles.",
+   "Correta: 20/25 no melhor olho e 125º em um olho cumprem os subitens 2.1.1 e 2.1.2.",
+   "O item 2.1 não fixa acuidade mínima para o pior olho do portador de estrabismo.",
+   "A categoria A está entre as permitidas ao estrábico, ao lado da ACC e da B.",
+   "O item 2.1.1 exige 20/30 no melhor olho, e não em cada um dos dois olhos."
+  ]
+ },
+ {
+  "q": "Candidato de 30 anos à categoria B apresenta, sem correção, 20/40 em cada olho, visão binocular de 20/40 e campo de 130º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Inapto, pois a visão binocular deve alcançar 20/25 em qualquer categoria pretendida",
+   "Apto com restrição A, pois toda acuidade abaixo de 20/30 exige lentes corretoras",
+   "Inapto temporário, até que a correção óptica eleve a visão binocular para 20/30",
+   "Apto com restrição U, pois a visão binocular de 20/40 limita a direção noturna dele",
+   "Apto sem restrição visual, pois não há piso de visão binocular nas categorias A e B"
+  ],
+  "gab": 4,
+  "tema": "oftalmo",
+  "sub": "Visão binocular: só nas profissionais",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1, 1.2.1 e 1.4.",
+  "coment": "A visão binocular mínima de 20/25 (0,80) aparece apenas no item 1.1.1, que trata das categorias C, D e E. Para ACC, A e B, o item 1.2.1 pede 20/40 em cada olho ou 20/30 em um olho com pelo menos percepção luminosa no outro, sem qualquer piso binocular. O candidato tem 20/40 em cada olho SEM correção — então também não há motivo para a observação 'obrigatório o uso de lentes corretoras', que o item 1.4 reserva aos valores obtidos com correção óptica. O campo de 130º em cada olho supera o exigido (60º em cada ou 120º em um). A restrição U (Anexo XV) não decorre de acuidade binocular.",
+  "porAlt": [
+   "O piso binocular de 20/25 consta apenas do item das categorias C, D e E, e não da B.",
+   "A observação de lentes corretoras só cabe quando os valores são obtidos com correção.",
+   "Não há exigência binocular na categoria B que justifique inaptidão temporária.",
+   "A restrição U não decorre da visão binocular; não há fundamento para ela neste caso.",
+   "Correta: a binocular de 20/25 só é exigida em C, D e E, e ele cumpre a acuidade sem correção."
+  ]
+ },
+ {
+  "q": "Condutor de 42 anos, habilitado na categoria B, tem ambliopia profunda no olho esquerdo, com apenas percepção luminosa; o olho direito tem 20/20 e campo de 140º. Requer adição da categoria C. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende: 20/30 ou mais em um olho com percepção luminosa no outro basta em qualquer das categorias",
+   "Atende: o olho direito com 20/20 dispensa a avaliação do olho esquerdo nas categorias de carga",
+   "Não atende agora: deve aguardar noventa dias e usar capacete com viseira para obter a categoria C",
+   "Atende: basta a visão binocular de 20/25, alcançada graças ao excelente olho direito do condutor",
+   "Não atende: as categorias C, D e E exigem pelo menos 20/40 no outro olho, além de 20/30 no melhor"
+  ],
+  "gab": 4,
+  "tema": "oftalmo",
+  "sub": "Percepção luminosa e categorias profissionais",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1, 1.1.2 e 1.2.1.",
+  "coment": "A combinação '20/30 em um olho com pelo menos percepção luminosa (PL) no outro' existe apenas no item 1.2.1, que trata de ACC, A e B. Para C, D e E, o item 1.1.1 exige 20/30 em cada olho ou 20/30 em um e 20/40 no outro, com visão binocular mínima de 20/25 — e o item 1.1.2 exige 120º de campo em cada olho. Um olho com apenas PL não alcança 20/40 nem tem campo mensurável, então a adição da C é impossível. A binocular de 20/25 é condição adicional, não substitui a acuidade monocular. Noventa dias e capacete com viseira são ressalvas do candidato sem percepção luminosa (item 1.3), restrito a ACC, A e B.",
+  "porAlt": [
+   "A combinação com percepção luminosa no outro olho só vale para ACC e categorias A e B.",
+   "O Anexo II exige acuidade e campo em cada olho nas profissionais; não há essa dispensa.",
+   "Capacete e noventa dias pertencem ao item 1.3, restrito a ACC, A e B, e não abrem a C.",
+   "A binocular de 20/25 é exigência adicional e não supre a acuidade mínima do pior olho.",
+   "Correta: nas profissionais o pior olho precisa de pelo menos 20/40, o que a PL não alcança."
+  ]
+ },
+ {
+  "q": "Motorista de 58 anos, categoria C, operou catarata nos dois olhos com implante de lentes intraoculares. Sem óculos, tem 20/30 em cada olho, visão binocular de 20/25 e campo de 125º em cada olho. Na renovação, como o perito deve registrar o resultado?",
+  "alts": [
+   "Apto, sem a observação de uso obrigatório de lentes corretoras na habilitação",
+   "Apto com restrições, com o código A de uso obrigatório de lentes corretivas",
+   "Apto com restrições, com o código X, por se tratar de lente intraocular implantada",
+   "Apto com restrições, com o código U, pela perda de sensibilidade ao contraste",
+   "Inapto temporário, até completar um ano de estabilidade após a última cirurgia"
+  ],
+  "gab": 0,
+  "tema": "oftalmo",
+  "sub": "Lente intraocular na categoria profissional",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1, 1.1.2 e 1.4; art. 8º.",
+  "coment": "O motorista cumpre todos os parâmetros das categorias C, D e E: 20/30 em cada olho, binocular de 20/25 e 120º ou mais em cada olho. Resta saber se a lente intraocular gera restrição. O item 1.4 permite obter os valores sem ou com correção óptica, devendo, neste último caso, constar da CNH 'obrigatório o uso de lentes corretoras' — mas ressalva expressamente: 'As lentes intra-oculares não estão enquadradas nesta obrigatoriedade'. Como não há outra restrição, o resultado é simplesmente apto (art. 8º, I). Não cabe código X para LIO, nem U sem queixa de visão noturna, e a norma não fixa prazo de estabilidade pós-cirúrgica.",
+  "porAlt": [
+   "Correta: a LIO não gera a observação de lentes corretoras, e todos os parâmetros foram cumpridos.",
+   "O item 1.4 exclui expressamente as lentes intraoculares da observação de lentes corretoras.",
+   "Não há restrição a registrar pela LIO; o código X é residual e não se aplica a este caso.",
+   "Não há dado de visão noturna alterada que fundamente a restrição U neste motorista.",
+   "O Anexo II não fixa prazo de estabilidade pós-cirúrgica; os parâmetros já estão cumpridos."
+  ]
+ },
+ {
+  "q": "Candidato de 23 anos à categoria A tem olho esquerdo com percepção luminosa apenas. O olho direito tem 20/80 sem correção e 20/30 com óculos, e campo de 125º. Segundo a Resolução CONTRAN nº 927/2022, qual é o resultado do exame?",
+  "alts": [
+   "Inapto, pois a acuidade exigida deve ser obtida sem correção óptica nas categorias A e B",
+   "Apto sem restrições, pois a correção óptica é irrelevante quando o campo supera 120º",
+   "Apto com restrições, com o código A de uso obrigatório de lentes corretivas na CNH",
+   "Inapto, pois o olho com percepção luminosa impede a habilitação na categoria A",
+   "Apto com restrições, com o código A e com capacete de viseira indicado no laudo"
+  ],
+  "gab": 2,
+  "tema": "oftalmo",
+  "sub": "Percepção luminosa com correção óptica",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.2.1, 1.2.2 e 1.4; art. 8º, II e parágrafo único; Anexo XV (código A).",
+  "coment": "Pelo item 1.2.1, a ACC e as categorias A e B admitem 20/30 em um olho com pelo menos percepção luminosa no outro; pelo item 1.2.2, 120º em um olho bastam. O item 1.4 permite obter a acuidade sem ou com correção óptica, devendo, neste último caso, constar da CNH 'obrigatório o uso de lentes corretoras'. Por isso o resultado é 'apto com restrições' (art. 8º, II), com a observação codificada no Anexo XV — código A, 'obrigatório o uso de lentes corretivas'. O capacete com viseira é ressalva do candidato SEM percepção luminosa (item 1.3); aqui a percepção luminosa está preservada, então essa exigência não se aplica.",
+  "porAlt": [
+   "O item 1.4 admite expressamente obter a acuidade com correção óptica, com o registro na CNH.",
+   "Obtida a acuidade com óculos, o registro de lentes corretoras é obrigatório pelo item 1.4.",
+   "Correta: cumpre o item 1.2 com óculos, o que gera apto com restrições e o código A na CNH.",
+   "A percepção luminosa no outro olho é admitida no item 1.2.1 para ACC, A e B.",
+   "O capacete com viseira é do candidato sem percepção luminosa, e aqui ela está preservada."
+  ]
+ },
+ {
+  "q": "Candidato de 26 anos à categoria B tem deuteranomalia diagnosticada em teste de Ishihara, mas identifica corretamente as luzes vermelha, amarela e verde do semáforo na posição padronizada. Acuidade e campo estão normais. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão quanto à visão cromática?",
+  "alts": [
+   "Atende, pois a exigência é reconhecer as luzes semafóricas em posição padronizada",
+   "Não atende, pois qualquer discromatopsia diagnosticada em teste formal reprova",
+   "Atende apenas com a restrição U, que veda a direção após o pôr do sol ao candidato",
+   "Não atende nas categorias A e B, mas poderia ser aprovado na ACC com restrição",
+   "Atende, desde que apresente laudo oftalmológico com teste de Farnsworth normal"
+  ],
+  "gab": 0,
+  "tema": "oftalmo",
+  "sub": "Discromatopsia e visão cromática",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 3.1; art. 17, II, 'p'.",
+  "coment": "O item 3.1 do Anexo II adota critério funcional, não diagnóstico: 'Candidatos à direção de veículos devem ser capazes do reconhecimento das luzes semafóricas em posição padronizada, prevista no CTB'. Ter discromatopsia em teste de pranchas não reprova por si; reprova a incapacidade de reconhecer o semáforo. Coerentemente, o art. 17, II, 'p' exige da entidade médica apenas 'material para identificação das cores verde, vermelha e amarela', e não baterias de testes cromáticos. A norma não impõe restrição U ao discromatópsico, não distingue ACC das categorias A e B nesse ponto e não exige laudo com Farnsworth.",
+  "porAlt": [
+   "Correta: o critério do item 3.1 é funcional, de reconhecer as luzes semafóricas padronizadas.",
+   "O diagnóstico de discromatopsia não reprova por si; o critério é reconhecer o semáforo.",
+   "A norma não associa a restrição U à discromatopsia de quem reconhece o semáforo.",
+   "O critério cromático é o mesmo para todos os candidatos, sem distinguir ACC de A e B.",
+   "O Anexo II não exige laudo com teste de Farnsworth; basta reconhecer as luzes do semáforo."
+  ]
+ },
+ {
+  "q": "O Anexo XXI da Resolução CONTRAN nº 927/2022 traz as perguntas da avaliação objetiva que o candidato faz do exame. A pergunta 'O médico pediu para você ler uma letra após acender uma luz forte?' verifica a realização de qual teste do Anexo II?",
+  "alts": [
+   "Acuidade visual central sob iluminação padronizada, medida com a tabela de optotipos iluminada",
+   "Reconhecimento das luzes semafóricas em posição padronizada, próprio do teste de visão cromática",
+   "Recuperação após ofuscamento direto, do teste de limiar de visão noturna e reação ao ofuscamento",
+   "Reflexo fotomotor direto e consensual, exigido na avaliação da motilidade ocular e da tropia",
+   "Visão periférica na isóptera horizontal, medida com um estímulo luminoso de alta intensidade"
+  ],
+  "gab": 2,
+  "tema": "oftalmo",
+  "sub": "Anexo XXI: teste de ofuscamento",
+  "base": "Resolução CONTRAN nº 927/2022, art. 11, §2º; Anexo XXI; Anexo II, item 4.1.",
+  "coment": "O art. 11 manda que os examinados avaliem objetivamente os exames, logo após realizá-los, pelos modelos dos Anexos XXI e XXII, com uma pergunta por quesito sorteada para cada candidato. No quesito 'Avaliação oftalmológica' do Anexo XXI, uma das perguntas é justamente se o médico pediu para ler uma letra após acender uma luz forte. Ela corresponde ao item 4 do Anexo II — teste de limiar de visão noturna e reação ao ofuscamento —, segundo o qual o candidato deverá possuir visão em baixa luminosidade e RECUPERAÇÃO APÓS OFUSCAMENTO DIRETO: a luz forte ofusca, e a leitura da letra em seguida mede a readaptação. O art. 17, II, 'k' exige equipamento para avaliar o ofuscamento e a visão noturna.",
+  "porAlt": [
+   "A acuidade central é medida sem ofuscamento prévio; a luz forte caracteriza o item 4.",
+   "A visão cromática usa as luzes do semáforo, e não a leitura de letra após luz forte.",
+   "Correta: ler a letra logo após a luz forte mede a recuperação após ofuscamento do item 4.",
+   "O Anexo II não prevê reflexo fotomotor, e a motilidade trata do estrabismo (tropia).",
+   "A isóptera horizontal mede a extensão do campo, e não a leitura após estímulo luminoso."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, qual fração dos condutores idosos com deficiências visuais tem a falsa impressão de possuir condições para dirigir com segurança, e qual é a orientação decorrente?",
+  "alts": [
+   "Dois terços; desaconselhar a direção a todo idoso cuja visão não alcance os limites legais",
+   "Um quarto; desaconselhar a direção apenas ao idoso com queixa espontânea de ofuscamento",
+   "Metade; restringir a direção ao período diurno para todo idoso com catarata diagnosticada",
+   "Dois terços; restringir a direção às vias urbanas para todo idoso acima de 65 anos de idade",
+   "Um terço; exigir exame oftalmológico anual de todo idoso, independentemente de sua acuidade"
+  ],
+  "gab": 0,
+  "tema": "oftalmo",
+  "sub": "Idoso: autopercepção da perda visual",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 5.3.1 (Visão).",
+  "coment": "A diretriz afirma que os médicos do tráfego têm papel primordial na prevenção dos sinistros de idosos com deficiências visuais: devem aconselhar revisões oftalmológicas periódicas e a mudança dos hábitos de dirigir de acordo com a perda visual, 'uma vez que 2/3 dos condutores com idade avançada e deficiências visuais têm a falsa impressão de possuir condições para dirigir com segurança'. E conclui: 'Deve-se desaconselhar a direção de veículos para todos condutores idosos cuja capacidade visual não alcançar os limites determinados pela legislação de trânsito'. O 'um quarto' da diretriz é outro dado: a fração de idosos cuja principal queixa é a sensibilidade aos faróis em sentido contrário.",
+  "porAlt": [
+   "Correta: dois terços têm a falsa impressão, e desaconselha-se quem não alcança os limites legais.",
+   "Um quarto é a fração que se queixa dos faróis; a falsa impressão atinge dois terços.",
+   "A fração é de dois terços, e a diretriz não restringe ao dia todo idoso com catarata.",
+   "A fração está certa, mas a diretriz não restringe a direção às vias urbanas por idade.",
+   "A fração é de dois terços, e a diretriz recomenda revisões periódicas, sem fixar exame anual."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, a que se deve a maior dificuldade do idoso para dirigir à noite?",
+  "alts": [
+   "Maior resistência ao ofuscamento, mas perda da visão de cores, por degeneração exclusiva dos cones da retina",
+   "Menor resistência ao ofuscamento e adaptação mais rápida à baixa luz, por midríase senil e cristalino claro",
+   "Perda da acomodação para perto e diplopia noturna, por fraqueza da musculatura ocular extrínseca do idoso",
+   "Menor resistência ao ofuscamento e adaptação lenta à baixa luz, por meios mais densos e menos fotorreceptores",
+   "Redução do campo visual temporal e aumento do reflexo fotomotor, por atrofia do nervo óptico com a idade"
+  ],
+  "gab": 3,
+  "tema": "oftalmo",
+  "sub": "Idoso: visão noturna e ofuscamento",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 5.3.1 (Visão).",
+  "coment": "A diretriz explica que, com a idade, há declínio da acuidade e do campo visual, e 'maior dificuldade em dirigir à noite, devido à diminuição da resistência ao ofuscamento, redução na velocidade de adaptação à visibilidade naturalmente diminuída, devido ao aumento da densidade dos meios de transparência óptica e redução dos fotorreceptores retinianos'. Acrescenta que 65 anos tem sido sugerida como a idade crítica em que a acuidade se reduz significativamente em baixa luminosidade. É o substrato fisiológico do item 4 do Anexo II da Resolução 927, que exige visão em baixa luminosidade e recuperação após ofuscamento direto.",
+  "porAlt": [
+   "A diretriz fala em diminuição, e não em aumento, da resistência ao ofuscamento no idoso.",
+   "A adaptação à baixa luminosidade fica mais lenta, e os meios ópticos ficam mais densos.",
+   "Acomodação e diplopia não são os mecanismos apontados para a dificuldade noturna do idoso.",
+   "Correta: menor resistência ao ofuscamento e adaptação lenta, por meios densos e menos fotorreceptores.",
+   "A diretriz não atribui a dificuldade noturna a campo temporal reduzido ou reflexo aumentado."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre diabetes e condução veicular, o que caracteriza a retinopatia diabética como fator de risco para a direção?",
+  "alts": [
+   "A acuidade central cai de forma lenta e assimétrica, preservando um dos olhos para a direção",
+   "A perda visual costuma ser precedida de hipoglicemia grave, o que permite prever o seu aparecimento",
+   "Estudos robustos demonstram ser ela a principal causa de acidentes entre condutores diabéticos",
+   "A acuidade central pode ficar preservada por um tempo e ser perdida abruptamente nos dois olhos",
+   "A perda visual atinge só a visão de cores, sem repercussão sobre a acuidade e o campo visual"
+  ],
+  "gab": 3,
+  "tema": "oftalmo",
+  "sub": "Retinopatia diabética",
+  "base": "Diretriz ABRAMET — Diabetes e condução veicular, item 2.1 (identificação dos fatores de risco).",
+  "coment": "Entre os fatores de risco da evolução crônica do diabetes, a diretriz descreve a retinopatia diabética como uma das principais causas de cegueira adquirida e complicação crônica frequente, e destaca: 'A acuidade visual central pode estar preservada temporariamente e ser perdida abruptamente nos dois olhos'. É por isso que o acompanhamento oftalmológico importa mesmo em quem hoje cumpre os cortes do Anexo II. A diretriz registra também que, apesar de trabalhos associarem diabetes e risco de acidentes, 'não há estudos suficientes que correlacionem a doença ocular diabética como causa do acidente' — daí o erro da alternativa que fala em estudos robustos.",
+  "porAlt": [
+   "A diretriz descreve perda possivelmente abrupta e bilateral, e não lenta e assimétrica.",
+   "A diretriz não vincula o surgimento da perda visual a episódios de hipoglicemia grave.",
+   "A diretriz afirma não haver estudos suficientes ligando a doença ocular à causa do acidente.",
+   "Correta: a acuidade pode ficar preservada por um tempo e ser perdida abruptamente nos dois olhos.",
+   "A retinopatia é causa de cegueira adquirida, com repercussão sobre a acuidade central."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esclerose múltipla, na neurite óptica qual é o padrão de defeito de campo visual mais prevalente e como costuma ser a evolução temporal do déficit?",
+  "alts": [
+   "Hemianopsia bitemporal; piora nas quatro primeiras semanas e recuperação iniciada após seis meses",
+   "Escotoma centrocecal; piora nas duas primeiras semanas e recuperação iniciada nas primeiras quatro",
+   "Escotoma centrocecal; piora nos dois primeiros dias e recuperação completa sempre em uma semana",
+   "Quadrantanopsia superior; piora nas duas primeiras semanas e ausência de recuperação espontânea",
+   "Constrição concêntrica; piora progressiva por três meses e recuperação iniciada após o primeiro ano"
+  ],
+  "gab": 1,
+  "tema": "oftalmo",
+  "sub": "Neurite óptica na esclerose múltipla",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, seção 'Déficits visuais'.",
+  "coment": "A diretriz aponta a neurite óptica como a manifestação visual mais comum da esclerose múltipla, com perda visual, dor periorbital e déficit de visão de cores; a perda é geralmente unilateral e varia de leve (20/20) a grave (sem percepção de luz). Os padrões de campo incluem defeitos difusos ou focais, 'sendo o escotoma centrocecal o mais prevalente'. Quanto ao tempo: 'os déficits visuais frequentemente progridem nas primeiras duas semanas, com início da recuperação visual geralmente ocorrendo nas primeiras quatro semanas'. Para o perito, isso sinaliza que a medida feita em plena fase aguda pode não refletir o estado visual das semanas seguintes.",
+  "porAlt": [
+   "Hemianopsia bitemporal é lesão quiasmática; a diretriz aponta o escotoma centrocecal.",
+   "Correta: escotoma centrocecal; progressão em até duas semanas e recuperação iniciada em até quatro.",
+   "O padrão está certo, mas a piora dura até duas semanas e a recuperação começa em até quatro.",
+   "Quadrantanopsia não é o padrão citado, e a diretriz descreve recuperação nas primeiras semanas.",
+   "Constrição concêntrica não é o padrão citado, e os prazos da diretriz são de semanas, não meses."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esclerose múltipla, lesões nas vias visuais eferentes podem causar desalinhamento ocular e nistagmo. Quais sintomas resultam, respectivamente, dessas duas alterações?",
+  "alts": [
+   "Diplopia, pelo desalinhamento ocular, e oscilopsia, pelo nistagmo",
+   "Oscilopsia, pelo desalinhamento ocular, e diplopia, pelo nistagmo",
+   "Escotoma central, pelo desalinhamento, e fotofobia, pelo nistagmo",
+   "Discromatopsia, pelo desalinhamento, e diplopia, pelo nistagmo",
+   "Diplopia, pelo desalinhamento ocular, e hemianopsia, pelo nistagmo"
+  ],
+  "gab": 0,
+  "tema": "oftalmo",
+  "sub": "Esclerose múltipla: diplopia e oscilopsia",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, seção 'Déficits visuais'.",
+  "coment": "A diretriz afirma que 'lesões nas vias visuais eferentes podem resultar em desalinhamento ocular e nistagmo causando diplopia e oscilopsia, respectivamente'. O desalinhamento dos eixos visuais produz imagem dupla (diplopia); o nistagmo produz a ilusão de que o ambiente oscila (oscilopsia). A diretriz ressalta ainda a relevância da diplopia como PRIMEIRO sintoma de esclerose múltipla, o que torna importante o médico do tráfego conhecer o achado para o diagnóstico precoce. O escotoma centrocecal e o déficit de cores pertencem à neurite óptica — via aferente —, e não às lesões eferentes descritas no enunciado.",
+  "porAlt": [
+   "Correta: o desalinhamento causa diplopia, e o nistagmo causa oscilopsia, na ordem da diretriz.",
+   "A ordem está invertida: o desalinhamento produz diplopia, e o nistagmo, oscilopsia.",
+   "Escotoma e fotofobia não são os sintomas das lesões eferentes descritas na diretriz.",
+   "A discromatopsia é da neurite óptica; o desalinhamento ocular produz diplopia.",
+   "O desalinhamento produz diplopia, mas o nistagmo produz oscilopsia, e não hemianopsia."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esclerose múltipla, quais efeitos adversos do tratamento medicamentoso da doença podem contribuir para comprometer a direção veicular segura?",
+  "alts": [
+   "Hipoglicemia grave e retinopatia tóxica, que reduz o campo visual",
+   "Sonolência excessiva e crises epilépticas, que tiram a consciência",
+   "Hipotensão postural e catarata precoce, que aumenta o ofuscamento",
+   "Neuropatia periférica e glaucoma agudo, que reduz o campo visual",
+   "Arritmias cardíacas e edema macular, que reduz a acuidade central"
+  ],
+  "gab": 4,
+  "tema": "oftalmo",
+  "sub": "Esclerose múltipla: edema macular do tratamento",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, seção 'Efeitos colaterais do tratamento medicamentoso'.",
+  "coment": "A diretriz lista os medicamentos da esclerose múltipla — interferons, acetato de glatirâmero, teriflunomida, moduladores do receptor de esfingosina 1-fosfato, fumaratos, cladribina e três tipos de anticorpos monoclonais — e afirma que 'os efeitos adversos que podem contribuir para o comprometimento da direção veicular segura incluem arritmias cardíacas e edema macular'. O edema macular é o efeito de interesse oftalmológico: compromete a acuidade visual central, parâmetro medido pelo Anexo II da Resolução 927. As demais combinações não constam da diretriz como efeitos do tratamento da EM relevantes para a direção.",
+  "porAlt": [
+   "Hipoglicemia e retinopatia tóxica não são os efeitos citados pela diretriz de esclerose múltipla.",
+   "A diretriz não cita sonolência nem crises epilépticas como efeitos do tratamento da doença.",
+   "Hipotensão postural e catarata não constam entre os efeitos adversos listados pela diretriz.",
+   "Neuropatia periférica e glaucoma agudo não são os efeitos adversos apontados pela diretriz.",
+   "Correta: a diretriz cita arritmias cardíacas e edema macular como efeitos adversos relevantes."
+  ]
+ },
+ {
+  "q": "Motorista de 52 anos renova a CNH categoria E. Apresenta 20/25 no olho direito e 20/30 no esquerdo, visão binocular de 20/20 e campo visual na isóptera horizontal de exatamente 120º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Não atende, pois o campo precisa ser superior a 120º em cada olho, e não igual a esse valor",
+   "Não atende, pois a categoria E exige 20/25 em cada olho, e o olho esquerdo tem só 20/30",
+   "Atende, pois todos os cortes são 'igual ou superior', e 120º em cada olho cumprem o item",
+   "Atende apenas com a restrição T, por estar exatamente no limite do campo visual exigido",
+   "Não atende, pois a categoria E exige campo mínimo de 140º em cada olho pela carga articulada"
+  ],
+  "gab": 2,
+  "tema": "oftalmo",
+  "sub": "Valores no limite: 'igual ou superior'",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1 e 1.1.2.",
+  "coment": "Todos os cortes do Anexo II são redigidos como 'igual ou superior a': acuidade igual ou superior a 20/30 em cada olho, visão binocular mínima de 20/25 (item 1.1.1) e visão periférica na isóptera horizontal igual ou superior a 120º em cada um dos olhos (item 1.1.2). O motorista tem 20/25 e 20/30 (ambos ≥ 20/30), binocular de 20/20 (melhor que 20/25) e exatamente 120º em cada olho — o valor-limite está incluído. Resultado: atende. A categoria E segue os mesmos parâmetros de C e D, sem piso de 140º nem exigência de 20/25 em cada olho; 20/25 é o piso da visão BINOCULAR. Estar no limite não gera restrição T.",
+  "porAlt": [
+   "O item 1.1.2 diz 'igual ou superior a 120º'; o valor exato de 120º está incluído no corte.",
+   "O piso de 20/25 é da visão binocular; em cada olho a exigência é de 20/30 ou mais.",
+   "Correta: os cortes são 'igual ou superior', e 120º em cada olho cumprem o item 1.1.2.",
+   "Estar no limite não gera restrição; a restrição T trata de rodovias e vias de trânsito rápido.",
+   "A categoria E segue os mesmos parâmetros de C e D, com 120º em cada um dos olhos."
+  ]
+ },
+ {
+  "q": "O Anexo II da Resolução CONTRAN nº 927/2022 abre a ACC e as categorias A e B tanto ao candidato sem percepção luminosa em um olho (item 1.3) quanto ao portador de estrabismo (item 2.1), com parâmetros semelhantes. Qual exigência existe APENAS para o candidato sem percepção luminosa?",
+  "alts": [
+   "Indicação no laudo de capacete com viseira sem limitação de campo, decorridos noventa dias da perda",
+   "Acuidade visual central igual ou superior a 20/30, equivalente a 0,66, no olho de melhor desempenho",
+   "Visão periférica na isóptera horizontal igual ou superior a 120º no olho de melhor desempenho visual",
+   "Restrição da habilitação à ACC e às categorias A e B, vedadas as categorias C, D e E ao candidato",
+   "Registro na CNH do código A, de uso obrigatório de lentes corretivas, qualquer que seja a acuidade"
+  ],
+  "gab": 0,
+  "tema": "oftalmo",
+  "sub": "Olho sem percepção luminosa × estrabismo",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.3 e 2.1.",
+  "coment": "Os dois itens convergem em quase tudo: ambos liberam somente a ACC e as categorias A e B; ambos exigem acuidade igual ou superior a 20/30 (no olho restante, no item 1.3.1; no melhor olho, no item 2.1.1); e ambos exigem 120º de campo na isóptera horizontal (item 1.3.2; e em pelo menos um dos olhos, no item 2.1.2). A diferença está no item 1.3.3, exclusivo do candidato sem percepção luminosa: 'decorridos, no mínimo, noventa dias da perda da visão, deverá o laudo médico indicar o uso de capacete de segurança com viseira protetora, sem limitação de campo visual'. O código A só surge se a acuidade for obtida com correção óptica (item 1.4), em qualquer dos dois casos.",
+  "porAlt": [
+   "Correta: o capacete com viseira após noventa dias é ressalva exclusiva do item 1.3.3.",
+   "A acuidade de 20/30 é exigida nos dois itens, no olho restante ou no melhor olho.",
+   "O campo de 120º é exigido nos dois itens, e não apenas no do candidato sem percepção luminosa.",
+   "A limitação à ACC e às categorias A e B é comum aos dois itens, e não exclusiva do 1.3.",
+   "O código A só cabe quando a acuidade é obtida com correção, nos dois casos igualmente."
+  ]
+ }
+]

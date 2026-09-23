@@ -1,0 +1,596 @@
+[
+ {
+  "q": "Segundo a Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla, que relaciona deficiência física e restrições na categoria B, qual conjunto de códigos é indicado para a deficiência moderada ou grave dos dois membros inferiores (paraplegia)?",
+  "alts": [
+   "D, E, F e H: câmbio automático, empunhadura no volante, direção hidráulica e freio e acelerador manuais",
+   "C, D, F e L: acelerador à esquerda, câmbio automático, direção hidráulica e prolongadores de pedais",
+   "D, E, F e J: câmbio automático, empunhadura no volante, direção hidráulica e comandos para os dois pés",
+   "C, E, G e H: acelerador à esquerda, empunhadura, automação de embreagem e freio e acelerador manuais",
+   "D, I, K e H: câmbio automático, comandos no volante, alavanca de câmbio longa e freio e acelerador manuais"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Adaptações na paraplegia",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, Tabela 2; Resolução CONTRAN nº 927/2022, Anexo XV.",
+  "coment": "Na paraplegia os membros inferiores não acionam pedais, e toda a condução migra para os membros superiores. Por isso a Tabela 2 da diretriz de esclerose múltipla indica, para a deficiência física moderada ou grave de MID + MIE, transmissão automática/automatizada {D} + empunhadura/manopla/pomo articulado no volante {E} + direção hidráulica/elétrica {F} + freio e acelerador manuais {H}. A empunhadura permite girar o volante com uma só mão enquanto a outra opera o comando manual de freio e acelerador. Distratores típicos: C (acelerador à esquerda) pressupõe um pé funcional; L (prolongadores) resolve alcance, não paralisia; J transfere comandos do painel para os membros inferiores, justamente os comprometidos. A tabela da diretriz prevê adaptações apenas para a categoria B.",
+  "porAlt": [
+   "Correta: é o conjunto da Tabela 2 para paraplegia, todo apoiado nos membros superiores do condutor.",
+   "Acelerador à esquerda e prolongadores exigem pé funcional, ausente na paraplegia moderada ou grave.",
+   "J leva comandos do painel aos membros inferiores, justamente os segmentos paralisados neste caso.",
+   "Acelerador à esquerda e automação de embreagem pressupõem acionamento de pedais com os pés.",
+   "K e I não integram o conjunto indicado; falta ainda a direção hidráulica prevista na tabela."
+  ]
+ },
+ {
+  "q": "Na Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla, as restrições indicadas para hemiplegia/hemiparesia DIREITA e ESQUERDA na categoria B são quase idênticas. Qual adaptação aparece apenas no caso da hemiparesia direita?",
+  "alts": [
+   "A direção hidráulica ou elétrica (F), porque o membro superior direito não gira o volante sozinho",
+   "O acelerador à esquerda (C), porque o pé direito comprometido não aciona com segurança o pedal",
+   "A transmissão automática ou automatizada (D), porque a embreagem exige o pé do lado comprometido",
+   "Os comandos do painel ao volante (I), porque os comandos ficam do lado do hemicorpo comprometido",
+   "A empunhadura no volante (E), porque somente a mão direita comprometida precisa de apoio no aro"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Hemiparesia direita × esquerda",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, Tabela 2; Resolução CONTRAN nº 927/2022, Anexo XV (código C).",
+  "coment": "A Tabela 2 indica para a hemiparesia esquerda: transmissão automática/automatizada {D} + empunhadura/manopla/pomo articulado no volante {E} + direção hidráulica/elétrica {F} + comandos do painel ao volante ou no pomo articulado {I}. Para a hemiparesia direita, o mesmo conjunto acrescido do acelerador à esquerda {C}. A lógica é mecânica: acelerador e freio ficam do lado direito, e o pé direito comprometido não os aciona com segurança; o acelerador é transferido para o pé esquerdo sadio. D, E, F e I aparecem nos dois lados, porque qualquer hemiparesia compromete um membro superior (daí empunhadura, direção assistida e comandos no volante) e um membro inferior (daí a dispensa da embreagem).",
+  "porAlt": [
+   "A direção hidráulica ou elétrica (F) consta nos dois lados, e não apenas na hemiparesia direita.",
+   "Correta: só a hemiparesia direita recebe o acelerador à esquerda, que leva o pedal ao pé sadio.",
+   "A transmissão automática (D) é indicada nas duas hemiparesias, direita e esquerda, da tabela.",
+   "Os comandos do painel ao volante (I) aparecem tanto na hemiparesia direita quanto na esquerda.",
+   "A empunhadura no volante (E) consta nas duas hemiparesias, pois ambas comprometem uma das mãos."
+  ]
+ },
+ {
+  "q": "Segundo a Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla, qual restrição é indicada, na categoria B, para a deficiência física moderada ou grave isolada do membro inferior ESQUERDO?",
+  "alts": [
+   "Transmissão automática/automatizada (D) ou embreagem manual/automação de embreagem (G)",
+   "Acelerador à esquerda (C) associado à transmissão automática/automatizada do veículo (D)",
+   "Freio e acelerador manuais (H) associados à direção hidráulica ou elétrica do veículo (F)",
+   "Prolongadores dos pedais e elevação do assoalho (L) com almofadas fixas de compensação",
+   "Comandos do painel para os membros inferiores (J) associados à empunhadura no volante (E)"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Deficiência do membro inferior esquerdo",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, Tabela 2; Resolução CONTRAN nº 927/2022, Anexo XV (códigos D e G).",
+  "coment": "No automóvel convencional o membro inferior esquerdo tem uma única função: acionar a embreagem. Por isso a Tabela 2 da diretriz de esclerose múltipla indica, para a deficiência moderada ou grave isolada do MIE, apenas transmissão automática/automatizada {D} OU embreagem manual/automação de embreagem {G} — ambas eliminam a necessidade do pedal de embreagem. O acelerador à esquerda (C) seria contraproducente, pois transferiria um comando justamente para o membro comprometido; C serve ao comprometimento do lado direito (MID, hemiparesia direita). Freio e acelerador manuais (H) servem a quem não usa o pé direito, como na paraplegia, e prolongadores (L) resolvem alcance, não déficit motor. É a restrição mais enxuta da tabela.",
+  "porAlt": [
+   "Correta: D ou G eliminam o pedal de embreagem, única função do pé esquerdo no carro convencional.",
+   "O acelerador à esquerda levaria o comando ao membro comprometido; ele serve ao déficit do lado direito.",
+   "Freio e acelerador manuais servem a quem não usa o pé direito; aqui o pé direito sadio aciona os pedais.",
+   "Os prolongadores corrigem alcance insuficiente, como na baixa estatura, e não déficit motor do MIE.",
+   "Levar comandos aos membros inferiores não ajuda quem tem justamente um membro inferior comprometido."
+  ]
+ },
+ {
+  "q": "A Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla indica restrições para a deficiência física moderada ou grave de UM membro superior (direito ou esquerdo) na categoria B. Qual das adaptações abaixo NÃO faz parte desse conjunto?",
+  "alts": [
+   "Transmissão automática ou automatizada (D), que dispensa a troca manual de marchas",
+   "Empunhadura, manopla ou pomo articulado no volante (E), para girar com uma só mão",
+   "Direção hidráulica ou elétrica (F), que reduz a força exigida para girar o volante",
+   "Comandos do painel ao volante (I) ou para os membros inferiores e voz (J) do condutor",
+   "Acelerador à esquerda (C), destinado ao comprometimento do membro inferior direito"
+  ],
+  "gab": 4,
+  "tema": "locomotor",
+  "sub": "Deficiência de um membro superior",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, Tabela 2; Resolução CONTRAN nº 927/2022, Anexo XV.",
+  "coment": "Para a deficiência moderada ou grave do MSD ou do MSE, a Tabela 2 indica: transmissão automática/automatizada {D} + empunhadura/manopla/pomo articulado no volante {E} + direção hidráulica/elétrica {F} + comandos do painel ao volante ou no pomo articulado {I} OU para os membros inferiores e/ou comando de voz {J}. O raciocínio: com uma só mão útil, o condutor não pode soltar o volante para trocar marchas (D), precisa girar o aro com uma mão (E), com menos força (F), e alcançar setas, faróis e limpador sem largar a direção (I ou J). O acelerador à esquerda (C) nada tem a ver com o membro superior — é adaptação para o membro inferior direito, presente na hemiparesia direita.",
+  "porAlt": [
+   "A transmissão automática consta do conjunto, pois com uma só mão útil não se troca marcha manualmente.",
+   "A empunhadura no volante consta do conjunto, permitindo girar o aro com a única mão funcional.",
+   "A direção hidráulica ou elétrica consta do conjunto, reduzindo a força necessária no volante.",
+   "Os comandos do painel ao volante (I) ou para os pés e voz (J) constam, como alternativas, do conjunto.",
+   "Correta: o acelerador à esquerda serve ao membro inferior direito e não consta da linha do membro superior."
+  ]
+ },
+ {
+  "q": "Candidato com deficiência do membro superior esquerdo consegue conduzir com segurança, mas não alcança os comandos do painel sem soltar o volante. A Junta Médica Especial conclui pela aptidão com adaptação dos comandos do painel ao volante. Qual é o código correspondente no Anexo XV?",
+  "alts": [
+   "Código J, adaptação dos comandos de painel para os membros inferiores",
+   "Código E, uso obrigatório de empunhadura, manopla ou pomo no volante",
+   "Código I, adaptação dos comandos de painel ao volante do veículo",
+   "Código K, prolongamento da alavanca de câmbio e almofadas fixas",
+   "Código X, outras restrições não contempladas nas letras da tabela"
+  ],
+  "gab": 2,
+  "tema": "locomotor",
+  "sub": "Comandos do painel: códigos I × J",
+  "base": "Resolução CONTRAN nº 927/2022, art. 8º, parágrafo único; Anexo XV (códigos I e J).",
+  "coment": "O Anexo XV tem dois códigos para comandos do painel, diferenciados pelo DESTINO do comando. I = 'obrigatório o uso de adaptação dos comandos de painel ao volante' — os comandos passam a ser operados sem tirar as mãos do volante. J = 'obrigatório o uso de adaptação dos comandos de painel para os membros inferiores e/ou outras partes do corpo' — usado quando os membros superiores não podem operá-los. No caso, o candidato tem um membro superior funcional e conduz normalmente; o problema é soltar o volante para alcançar os comandos, daí I. E (empunhadura) ajuda a girar o volante com uma só mão, mas não resolve o acesso aos comandos. X é cláusula residual, reservada ao que as demais letras não contemplam.",
+  "porAlt": [
+   "J transfere comandos para os membros inferiores ou outras partes do corpo, destino diverso do prescrito.",
+   "E é a empunhadura para girar o volante, e não a adaptação que leva os comandos até ele.",
+   "Correta: I leva os comandos do painel ao volante, sem que o condutor precise soltar a direção.",
+   "K prolonga a alavanca de câmbio, ajuste de alcance que não envolve os comandos do painel.",
+   "X é residual, para hipóteses sem letra própria; aqui existe código específico na tabela."
+  ]
+ },
+ {
+  "q": "Candidato com sequela de lesão do plexo braquial esquerdo, sem força útil para a manopla de embreagem, é considerado apto pela Junta Médica Especial para a categoria A desde que a motocicleta tenha esse comando adaptado. Qual código do Anexo XV será registrado?",
+  "alts": [
+   "Código O: motocicleta com manopla do freio dianteiro adaptada",
+   "Código P: motocicleta com a manopla de embreagem adaptada",
+   "Código M: motocicleta com pedal de câmbio adaptado na máquina",
+   "Código N: motocicleta com pedal do freio traseiro adaptado",
+   "Código G: veículo com embreagem manual ou com sua automação"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Motocicleta: códigos M a P",
+  "base": "Resolução CONTRAN nº 927/2022, art. 8º, parágrafo único; Anexo XV (códigos M a S).",
+  "coment": "O bloco das motocicletas no Anexo XV percorre os comandos da máquina em sequência: M = pedal de câmbio adaptado; N = pedal do freio traseiro adaptado; O = manopla do freio dianteiro adaptada; P = manopla de embreagem adaptada. Depois vêm Q (motocicleta com carro lateral ou triciclo), R (motoneta com carro lateral ou triciclo) e S (motocicleta com automação de troca de marchas). Como a Junta prescreveu adaptação da manopla de embreagem, o código é P. A armadilha é o G: ele também fala em embreagem, mas está no bloco C a L, das adaptações do veículo em geral ('veículo com embreagem manual ou com automação de embreagem ou com transmissão automática'), e não é o código de motocicleta.",
+  "porAlt": [
+   "O é a manopla do freio dianteiro, comando diferente da manopla de embreagem prescrita.",
+   "Correta: P é o código da motocicleta com manopla de embreagem adaptada, no bloco M a S.",
+   "M é o pedal de câmbio, comando acionado pelo pé, não pela mão comprometida do candidato.",
+   "N é o pedal do freio traseiro, comando de pé que não foi objeto da adaptação prescrita.",
+   "G fala em embreagem, mas pertence ao bloco C a L, e não ao bloco das motocicletas (M a S)."
+  ]
+ },
+ {
+  "q": "Candidato à categoria A com deficiência física é considerado apto pela Junta Médica Especial desde que conduza MOTONETA equipada com carro lateral ou na forma de triciclo. Qual código do Anexo XV corresponde a essa restrição?",
+  "alts": [
+   "Código Q, que se refere à motocicleta com carro lateral ou triciclo",
+   "Código S, que se refere à motocicleta com troca de marchas automática",
+   "Código T, que veda a condução em rodovias e vias de trânsito rápido",
+   "Código X, que abrange as demais restrições não previstas na tabela",
+   "Código R, que se refere à motoneta com carro lateral ou triciclo"
+  ],
+  "gab": 4,
+  "tema": "locomotor",
+  "sub": "Motoneta × motocicleta: códigos Q × R",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XV (códigos Q e R).",
+  "coment": "O par Q/R é a pegadinha clássica do Anexo XV, porque o texto das duas linhas é idêntico exceto pelo tipo de veículo: Q = 'obrigatório o uso de motocicleta com carro lateral ou triciclo'; R = 'obrigatório o uso de motoneta com carro lateral ou triciclo'. Como o enunciado especifica MOTONETA, o código é R. S é a motocicleta com automação de troca de marchas, T é restrição de local (vedado rodovias e vias de trânsito rápido) e X é a cláusula residual, que só se usa quando nenhuma letra específica descreve a restrição.",
+  "porAlt": [
+   "Q tem o mesmo texto, mas se refere à motocicleta, e o enunciado especifica motoneta.",
+   "S trata da automação da troca de marchas na motocicleta, não do carro lateral ou triciclo.",
+   "T é restrição de local de circulação e não descreve adaptação do veículo de duas rodas.",
+   "X é residual e não se aplica quando há letra específica para a restrição descrita.",
+   "Correta: R é a motoneta com carro lateral ou triciclo; Q traz o mesmo texto para motocicleta."
+  ]
+ },
+ {
+  "q": "Candidato de 38 anos com sequela de poliomielite no membro superior direito apresenta dinamometria de 12 kgf nessa mão, pretendendo a categoria B. A Junta Médica Especial o considera apto com direção hidráulica e empunhadura no volante. Qual é a análise correta?",
+  "alts": [
+   "Incorreta a conclusão: o piso de 20 kgf em cada mão vale para todos; resultado inapto temporário",
+   "Correta a conclusão, mas só com dinamometria ≥ 20 kgf na outra mão e códigos F e H na habilitação",
+   "Incorreta a conclusão: com menos de 20 kgf a Junta só pode liberar a ACC; códigos F e E na CNH",
+   "Correta a conclusão: na deficiência física a força exigida fica a critério da Junta; códigos F e E",
+   "Correta a conclusão, mas os códigos seriam D e E, pois direção hidráulica não tem letra própria"
+  ],
+  "gab": 3,
+  "tema": "locomotor",
+  "sub": "Dinamometria na pessoa com deficiência",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, itens 1.3.1 e 1.3.2; art. 4º, §1º; Anexo XV (códigos E e F).",
+  "coment": "O item 1.3.1 do Anexo VIII fixa 20 kgf em cada mão para ACC, A e B e 30 kgf para C, D e E. Mas o item 1.3.2 abre a exceção: 'para o portador de deficiência física os valores exigidos na dinamometria ficarão a critério da Junta Médica Especial'. Não há corte fixo, porque a força necessária depende da adaptação prescrita. Direção hidráulica reduz a força para girar o volante (código F: 'obrigatório o uso de veículo com direção hidráulica') e a empunhadura permite girá-lo com uma só mão (código E: 'empunhadura/manopla/pômo no volante'). O resultado é apto com restrições, com as duas letras na CNH. Direção hidráulica tem letra própria (F); H é acelerador e freio manuais.",
+  "porAlt": [
+   "O piso de 20 kgf do item 1.3.1 não se aplica à pessoa com deficiência física, pelo item 1.3.2.",
+   "Não há exigência de 20 kgf na outra mão, e H é acelerador e freio manuais, não prescritos aqui.",
+   "A norma não limita a Junta à ACC; o critério de força fica inteiramente a cargo dela no caso.",
+   "Correta: pelo item 1.3.2 a força exigida fica a critério da Junta, e as adaptações são F e E.",
+   "A direção hidráulica tem letra própria, F; D é transmissão automática, que não foi prescrita."
+  ]
+ },
+ {
+  "q": "Entre os exames específicos listados no art. 4º, III, da Resolução CONTRAN nº 927/2022, qual é o único que NÃO remete a um anexo próprio, tendo seus critérios descritos no próprio corpo do artigo?",
+  "alts": [
+   "A avaliação otorrinolaringológica, descrita na alínea 'b' do próprio art. 4º, III",
+   "A avaliação cardiorrespiratória, descrita na alínea 'c' do próprio art. 4º, III",
+   "A avaliação dos distúrbios do sono, descrita na alínea 'f' do próprio art. 4º, III",
+   "A avaliação neurológica, descrita na alínea 'd' do próprio art. 4º, III da norma",
+   "A avaliação do aparelho locomotor, descrita na alínea 'e' do próprio art. 4º, III"
+  ],
+  "gab": 4,
+  "tema": "locomotor",
+  "sub": "Locomotor: exame sem anexo próprio",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, alíneas 'a' a 'f'.",
+  "coment": "O art. 4º, III lista seis exames específicos e, para cinco deles, remete a anexos: oftalmológica (Anexo II), otorrinolaringológica (Anexos III e IV), cardiorrespiratória (Anexos V, VI e VII), neurológica (Anexos VIII e IX) e distúrbios do sono (Anexos X, XI e XII, exigida na renovação, adição e mudança para C, D e E). A avaliação do aparelho locomotor (alínea 'e') é a única sem anexo: o próprio texto diz que serão exploradas a integridade e funcionalidade de cada membro e da coluna vertebral, buscando-se constatar malformações, agenesias ou amputações, e o grau de amplitude articular dos movimentos. Os números usados no exame do locomotor — a dinamometria — ficam no Anexo VIII, da avaliação neurológica.",
+  "porAlt": [
+   "A avaliação otorrinolaringológica remete aos Anexos III e IV da resolução, não ao corpo.",
+   "A avaliação cardiorrespiratória remete aos Anexos V, VI e VII da resolução em vigor.",
+   "A avaliação dos distúrbios do sono remete aos Anexos X, XI e XII da resolução em vigor.",
+   "A avaliação neurológica remete aos Anexos VIII e IX, que trazem inclusive a dinamometria.",
+   "Correta: o locomotor é descrito na alínea 'e' e não remete a anexo próprio da resolução."
+  ]
+ },
+ {
+  "q": "O Anexo XXI da Resolução CONTRAN nº 927/2022 traz as perguntas da avaliação objetiva que o próprio candidato faz do exame. Qual das perguntas abaixo NÃO consta do quesito 'Avaliação do aparelho locomotor'?",
+  "alts": [
+   "O médico pediu para você se agachar e se levantar sem apoio durante o exame?",
+   "O médico pediu para você virar o pescoço para um lado e depois para o outro?",
+   "O médico pediu para você levantar e abaixar os braços durante o seu exame?",
+   "O médico pediu para você caminhar na ponta dos pés e depois nos calcanhares?",
+   "Você apertou um aparelho para medir a força em cada uma das suas mãos no exame?"
+  ],
+  "gab": 3,
+  "tema": "locomotor",
+  "sub": "Anexo XXI: avaliação objetiva do locomotor",
+  "base": "Resolução CONTRAN nº 927/2022, art. 11, §§1º e 2º; Anexo XXI.",
+  "coment": "O art. 11 determina que os exames sejam avaliados objetivamente pelos examinados, logo após a sua realização, nos modelos dos Anexos XXI e XXII, com uma pergunta por quesito, sorteada aleatoriamente para cada candidato. No Anexo XXI, o quesito 'Avaliação do aparelho locomotor' traz quatro perguntas: agachar-se e levantar-se sem apoio; virar o pescoço para um lado e para o outro; levantar e abaixar os braços; e apertar um aparelho para medir a força em cada uma das mãos (a dinamometria). A marcha na ponta dos pés e nos calcanhares aparece na diretriz ABRAMET do condutor idoso como manobra de membros inferiores, mas não integra o Anexo XXI.",
+  "porAlt": [
+   "Agachar-se e levantar-se sem apoio é pergunta expressa do quesito do locomotor.",
+   "Virar o pescoço para um lado e para o outro consta do quesito do aparelho locomotor.",
+   "Levantar e abaixar os braços consta expressamente do quesito do aparelho locomotor.",
+   "Correta: marcha na ponta dos pés e nos calcanhares não é pergunta do Anexo XXI.",
+   "Apertar o aparelho de força em cada mão (dinamometria) consta do quesito do locomotor."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, na avaliação do QUADRIL do candidato, qual plano de movimento é o mais significativo para a direção veicular?",
+  "alts": [
+   "O plano sagital, de flexão e extensão, importante para a postura sentada e o alcance dos pedais",
+   "O plano frontal, de abdução e adução, importante para a entrada e a saída do assento do veículo",
+   "O plano transverso, de rotações interna e externa, importante para alternar entre os dois pedais",
+   "O plano frontal, de inclinação lateral do tronco, importante para a checagem dos pontos cegos",
+   "O plano transverso, de rotação do tronco sobre a pelve, importante para as manobras de marcha à ré"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Quadril: plano sagital",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 8.3 (Quadril).",
+  "coment": "No item 8.3, a diretriz do condutor idoso afirma que o quadril é fundamental para a manutenção da postura sentada, e que a limitação de movimento pode dificultar manter-se nessa posição para a direção veicular; é importante no uso dos pedais e para o alcance deles. Os movimentos a avaliar são flexão/extensão, abdução/adução e rotações interna e externa — mas o texto destaca que 'o plano sagital (flexão/extensão) é o mais significativo para a direção veicular'. As rotações e a abdução/adução são avaliadas, mas não recebem esse destaque. A pergunta explora exatamente a hierarquia estabelecida pela diretriz.",
+  "porAlt": [
+   "Correta: a diretriz aponta o plano sagital, de flexão e extensão, como o mais significativo.",
+   "Abdução e adução são avaliadas, mas a diretriz não as coloca como o plano mais significativo.",
+   "As rotações interna e externa são avaliadas, mas não recebem o destaque dado ao plano sagital.",
+   "A inclinação lateral do tronco não é o movimento do quadril destacado pela diretriz do idoso.",
+   "A rotação do tronco sobre a pelve não é o plano apontado como o mais significativo no item."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, qual articulação 'determina o alcance aos pedais', e qual movimento dela deve ser avaliado?",
+  "alts": [
+   "O tornozelo, avaliando-se a amplitude de flexão plantar e dorsal na marcha nas pontas",
+   "O joelho, avaliando-se a amplitude de flexão e extensão em pé (agachamento) e sentado",
+   "O quadril, avaliando-se a amplitude das rotações interna e externa na posição sentada",
+   "A coluna lombar, avaliando-se a flexão do tronco à frente com os joelhos em extensão",
+   "O joelho, avaliando-se a estabilidade ligamentar com o candidato deitado no divã de exame"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Joelho e alcance aos pedais",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 8.4 (Joelho).",
+  "coment": "O item 8.4 da diretriz do condutor idoso é direto: 'A articulação do joelho determina o alcance aos pedais. O movimento que precisa ser avaliado é amplitude de movimento de flexão/extensão.' E indica como avaliar: em pé, fazendo um agachamento; sentado, avaliando a postura sentada e o grau de flexão do joelho. O quadril (item 8.3) também participa do uso e do alcance dos pedais, mas nele o destaque é o plano sagital, não as rotações. Estabilidade ligamentar em decúbito e flexão do tronco não são o que a diretriz manda testar. O tornozelo não é nomeado como a articulação que determina o alcance.",
+  "porAlt": [
+   "A diretriz não atribui ao tornozelo a determinação do alcance aos pedais do veículo conduzido.",
+   "Correta: o joelho determina o alcance aos pedais, com flexão e extensão avaliadas em pé e sentado.",
+   "No quadril o plano destacado é o sagital; as rotações não definem o alcance aos pedais.",
+   "A flexão do tronco não é a avaliação indicada pela diretriz para o alcance aos pedais.",
+   "A diretriz manda avaliar a amplitude de flexão e extensão, e não a estabilidade ligamentar."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, o que é correto afirmar sobre o EQUILÍBRIO na avaliação do aparelho locomotor?",
+  "alts": [
+   "Quando alterado é compensado por transmissão automática e empunhadura; avalia-se por Romberg e dinamometria",
+   "Quando alterado leva só à restrição U; avalia-se o equilíbrio estático pelo TUG e o dinâmico por Romberg",
+   "Quando alterado pode ser impeditivo e não se corrige por adaptação veicular; avalia-se por Romberg e TUG",
+   "Quando alterado é corrigido por almofadas de compensação fixas; avalia-se por agachamento sem apoio",
+   "Quando alterado pode reduzir apenas o prazo de validade; avalia-se por Romberg e pela marcha em linha reta"
+  ],
+  "gab": 2,
+  "tema": "locomotor",
+  "sub": "Equilíbrio: não corrigível por adaptação",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 8.5 (Equilíbrio).",
+  "coment": "O item 8.5 da diretriz do idoso traz três afirmações: quando alterado, o equilíbrio pode ser impeditivo para a direção veicular; 'as alterações do equilíbrio não podem ser corrigidas com adaptações veiculares'; o equilíbrio estático é avaliado pelo sinal/manobra de Romberg e o dinâmico pelo teste Timed Up and Go (TUG). É o contraponto importante à lógica do Anexo XV: déficit de força ou de amplitude em um segmento pode ser compensado por adaptação, mas o déficit de equilíbrio não. Inverter os testes (TUG para o estático, Romberg para o dinâmico) é a pegadinha. O Anexo VIII da Resolução 927 também avalia a coordenação por meio do equilíbrio estático e dinâmico.",
+  "porAlt": [
+   "A diretriz afirma que as alterações do equilíbrio não são corrigíveis por adaptações veiculares.",
+   "Os testes estão invertidos: Romberg avalia o estático e o TUG avalia o equilíbrio dinâmico.",
+   "Correta: pode ser impeditivo, não se corrige por adaptação, e avalia-se por Romberg e TUG.",
+   "Almofadas de compensação são adaptação veicular, que a diretriz diz não corrigir o equilíbrio.",
+   "A diretriz aponta o equilíbrio alterado como possivelmente impeditivo, não só redutor de prazo."
+  ]
+ },
+ {
+  "q": "A Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa lista adaptações veiculares capazes de minimizar os efeitos da diminuição da força muscular. Qual das adaptações abaixo NÃO consta dessa lista?",
+  "alts": [
+   "Prolongadores dos pedais com elevação do assoalho do veículo conduzido",
+   "Veículo com a transmissão automática ou com a transmissão automatizada",
+   "Empunhadura, manopla ou pomo articulado instalado no volante do carro",
+   "Veículo com direção hidráulica ou com direção elétrica de assistência",
+   "Adaptação dos comandos de painel no volante ou por meio de comando de voz"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Adaptações para redução de força no idoso",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 5.2.1.",
+  "coment": "No item 5.2.1 (declínio da função e velocidade motora), a diretriz afirma que a diminuição da força muscular pode afetar significativamente os aspectos operacionais da condução, o que pode ser minimizado por tecnologias embarcadas e/ou adaptações veiculares, e lista: veículo com transmissão automática ou automatizada; empunhadura/manopla/pomo articulado no volante; veículo com direção hidráulica ou elétrica; acelerador e freio manuais; adaptação dos comandos de painel no volante ou no pomo articulado; adaptação dos comandos de painel com comando de voz. Prolongadores de pedais e elevação do assoalho (código L do Anexo XV) resolvem problema de ALCANCE por estatura, e não de força — por isso não aparecem na lista.",
+  "porAlt": [
+   "Correta: prolongadores de pedais resolvem alcance por estatura e não constam da lista do idoso.",
+   "A transmissão automática ou automatizada consta expressamente da lista da diretriz do idoso.",
+   "A empunhadura, manopla ou pomo articulado no volante consta da lista da diretriz do idoso.",
+   "A direção hidráulica ou elétrica consta expressamente entre as adaptações da diretriz do idoso.",
+   "Os comandos de painel no volante e por comando de voz constam da lista da diretriz do idoso."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa, quais manobras são indicadas na avaliação dos MEMBROS INFERIORES do candidato idoso?",
+  "alts": [
+   "Marcha em linha reta com os olhos fechados, salto unipodal e subida de um degrau de 45 cm",
+   "Teste de Lasègue bilateral, manobra de Romberg sensibilizada e dinamometria dos membros inferiores",
+   "Marcha na ponta dos pés e nos calcanhares, levantar-se de uma cadeira e fazer um agachamento",
+   "Marcha na ponta dos pés, flexão plantar contra resistência e medida do perímetro das panturrilhas",
+   "Levantar-se de uma cadeira, caminhar dez metros e medir a velocidade da marcha com cronômetro"
+  ],
+  "gab": 2,
+  "tema": "locomotor",
+  "sub": "Membros inferiores no idoso",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, itens 8 e 8.2.",
+  "coment": "No item 8, a diretriz manda avaliar a movimentação geral durante o EAFM, notando assimetrias e ausência de membros ou segmentos, com movimentação ativa sistemática (coluna e tronco, pescoço, membros superiores e inferiores), marcha, coordenação, cadência, claudicação, uso de órteses, próteses ou dispositivos de auxílio, e a capacidade de sentar-se e levantar da cadeira com e sem ajuda dos braços. Para os membros inferiores (item 8.2), especifica: marcha na ponta dos pés e nos calcanhares, levantar-se de uma cadeira e fazer um agachamento. Salto unipodal, Lasègue, dinamometria de membros inferiores e caminhada de dez metros não constam do item.",
+  "porAlt": [
+   "Salto unipodal e degrau de 45 cm não constam do item; os 45 cm são a altura da cadeira do TUG.",
+   "Lasègue e dinamometria de membros inferiores não fazem parte das manobras do item 8.2.",
+   "Correta: são as três manobras do item 8.2 para os membros inferiores do candidato idoso.",
+   "Flexão plantar resistida e perímetro das panturrilhas não constam das manobras da diretriz.",
+   "O item 8.2 não indica caminhada de dez metros cronometrada; o TUG usa percurso de 3 metros."
+  ]
+ },
+ {
+  "q": "A Diretriz ABRAMET sobre mobilidade e condução veicular da pessoa idosa relaciona o envelhecimento a maior incidência de sinistros em um tipo específico de situação viária, apontando uma possível causa musculoesquelética. Qual é essa associação?",
+  "alts": [
+   "Sinistros nas ultrapassagens em rodovias, que podem dever-se à redução da força de preensão",
+   "Sinistros nos cruzamentos de vias, que podem dever-se à menor mobilidade do pescoço do idoso",
+   "Sinistros em marcha à ré, que podem dever-se à perda da flexão do quadril no plano sagital",
+   "Sinistros nas rotatórias, que podem dever-se à diminuição da amplitude de rotação do ombro",
+   "Sinistros em aclives, que podem dever-se à perda de força do tornozelo no pedal de freio"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Mobilidade cervical e cruzamentos",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 5.2.1.",
+  "coment": "No item 5.2.1, ao tratar do declínio da função e da velocidade motora, a diretriz descreve a perda de tecido muscular, a osteoartrose e a osteoporose do envelhecimento e afirma que 'o envelhecimento associa-se à maior incidência de sinistros nos cruzamentos de vias, que pode dever-se, entre outros, à menor mobilidade do pescoço'. A lógica: no cruzamento, o condutor precisa girar a cabeça para os dois lados para detectar o fluxo transversal. É por isso que o Anexo XXI da Resolução 927 inclui entre as perguntas do locomotor 'o médico pediu para você virar o pescoço para um lado e depois para o outro?'. As demais associações não constam da diretriz.",
+  "porAlt": [
+   "A diretriz não associa ultrapassagens em rodovia à redução da força de preensão manual.",
+   "Correta: a diretriz associa os sinistros nos cruzamentos à menor mobilidade do pescoço do idoso.",
+   "A marcha à ré e a flexão do quadril não compõem a associação descrita pela diretriz.",
+   "Rotatórias e rotação do ombro não são a situação nem a causa apontadas pelo texto.",
+   "Aclives e força do tornozelo não constam da associação feita pela diretriz do idoso."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre doença de Parkinson, as Juntas Médicas Especiais seguem a NBR 14970 da ABNT. Como a diretriz distribui as partes dessa norma no processo?",
+  "alts": [
+   "Parte 1 no exame da Junta; Parte 2 na prova prática, para dirimir a dúvida sobre o veículo apropriado",
+   "Parte 3 no exame da Junta; Parte 2 na vistoria do veículo adaptado, feita pelo órgão de trânsito",
+   "Parte 2 no exame da Junta; Parte 3 na acessibilidade das instalações físicas da clínica credenciada",
+   "Parte 2 no exame da Junta; Parte 3 na prova prática, para dirimir a dúvida sobre o veículo apropriado",
+   "Parte 1 no exame da Junta; Parte 3 na homologação das adaptações pelo Conselho Estadual de Trânsito"
+  ],
+  "gab": 3,
+  "tema": "locomotor",
+  "sub": "NBR 14970: Partes 2 e 3",
+  "base": "Diretriz ABRAMET — Doença de Parkinson (legislação brasileira); Resolução CONTRAN nº 927/2022, art. 4º, §§1º e 2º.",
+  "coment": "A diretriz de Parkinson reproduz o art. 4º, §§1º e 2º da Resolução 927 com um detalhe a mais: havendo deficiência física motora que impeça a dirigibilidade de veículo convencional, o EAFM é realizado por Junta Médica Especial designada pelo Diretor do órgão executivo de trânsito, e as Juntas 'seguirão o determinado na NBR 14970 – Parte 2'. E acrescenta: 'as dúvidas sobre a necessidade ou não do uso de veículo apropriado devem ser sanadas na prova prática de direção veicular, conforme a NBR 14970 – Parte 3'. A acessibilidade das instalações da clínica é matéria de outra norma, a NBR 9050 (art. 17, I, 'b' da Resolução 927).",
+  "porAlt": [
+   "A diretriz cita a Parte 2 para a Junta e a Parte 3 para a prova prática, e não as Partes 1 e 2.",
+   "As partes estão invertidas, e a diretriz não menciona vistoria do veículo pelo órgão de trânsito.",
+   "A acessibilidade das instalações é regida pela NBR 9050, e não pela Parte 3 da NBR 14970.",
+   "Correta: a Parte 2 orienta o exame da Junta e a Parte 3 a prova prática sobre o veículo apropriado.",
+   "A diretriz não cita a Parte 1 nem atribui ao Conselho Estadual homologação de adaptações."
+  ]
+ },
+ {
+  "q": "Condutor de 74 anos teve acidente vascular cerebral há oito meses e mantém hemiparesia com comprometimento motor persistente. Comparece para renovar a CNH categoria B. Segundo a Diretriz ABRAMET sobre a pessoa idosa, qual é a conduta?",
+  "alts": [
+   "Considerá-lo apto sem restrições, pois já decorreram mais de seis meses do evento",
+   "Considerá-lo inapto definitivo, pois a sequela motora de AVC veda a condução no idoso",
+   "Considerá-lo apto com a restrição U, que veda a condução após o pôr do sol, e renovar",
+   "Encaminhá-lo à Junta Médica Especial, para avaliação segundo a NBR 14970 da ABNT",
+   "Aguardar doze meses do AVC para então aplicar o corte de 20 kgf de força em cada mão"
+  ],
+  "gab": 3,
+  "tema": "locomotor",
+  "sub": "Sequela de AVC no idoso",
+  "base": "Diretriz ABRAMET — Mobilidade e condução veicular da pessoa idosa, item 7.8; Resolução CONTRAN nº 927/2022, art. 4º, §§1º e 2º.",
+  "coment": "Na avaliação neurológica do idoso, a diretriz trata do AVC em duas hipóteses: quem apresenta recuperação completa, sem evidência de dano neurológico permanente, poderá retomar a condução; persistindo o comprometimento das funções neuromuscular, motora ou sensorial, o condutor 'deverá ser encaminhado para a Junta Médica Especial dos Órgãos Executivos de Trânsito' e avaliado segundo a NBR 14.970 da ABNT. É a mesma porta de entrada do art. 4º, §§1º e 2º da Resolução 927 para a deficiência física. O prazo de seis meses aparece na diretriz para o AIT (cessação mínima da condução), não para o AVC com sequela. E a Junta, por ser caso de deficiência física, define a força exigida (Anexo VIII, 1.3.2).",
+  "porAlt": [
+   "Os seis meses da diretriz referem-se ao AIT; a sequela motora persistente exige a Junta Médica Especial.",
+   "A diretriz não veda a condução: com sequela persistente, remete à Junta Médica Especial para avaliação.",
+   "A restrição U trata de horário, e não resolve nem avalia o déficit motor persistente do AVC.",
+   "Correta: persistindo o comprometimento motor, o idoso vai à Junta Médica Especial pela NBR 14970.",
+   "Na deficiência física, a força exigida na dinamometria fica a critério da Junta Médica Especial."
+  ]
+ },
+ {
+  "q": "Motorista estaciona em vaga reservada a pessoas com deficiência sem credencial que comprove essa condição. Segundo o art. 181 do CTB, qual é o enquadramento?",
+  "alts": [
+   "Infração grave, com multa e a remoção do veículo como medida administrativa",
+   "Infração gravíssima, com multa e remoção do veículo como medida administrativa",
+   "Infração média, com multa e a retenção do veículo como medida administrativa",
+   "Infração gravíssima, com multa e retenção do veículo como medida administrativa",
+   "Infração grave, com multa e o recolhimento da CNH como medida administrativa"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Vaga reservada à pessoa com deficiência",
+  "base": "CTB (Lei nº 9.503/1997), art. 181, XX (incluído pela Lei nº 13.281/2016).",
+  "coment": "O art. 181, XX do CTB, incluído pela Lei nº 13.281/2016, tipifica estacionar o veículo 'nas vagas reservadas às pessoas com deficiência ou idosos, sem credencial que comprove tal condição': infração gravíssima, penalidade multa, medida administrativa remoção do veículo. Como em todo o art. 181 (estacionamento), a medida é a REMOÇÃO — e o §1º determina que a autoridade aplique a penalidade preferencialmente após a remoção. A retenção (medida típica de irregularidade sanável com o condutor presente) é a do art. 162, VI, que pune dirigir sem as adaptações impostas. A natureza gravíssima distingue a vaga de PcD/idoso de várias outras hipóteses do mesmo artigo, que são graves ou médias.",
+  "porAlt": [
+   "A infração do inciso XX é gravíssima, e não grave, embora a medida seja de fato a remoção.",
+   "Correta: o art. 181, XX é gravíssimo, com multa e remoção do veículo como medida administrativa.",
+   "A infração é gravíssima e a medida do art. 181 é a remoção do veículo, e não a sua retenção.",
+   "A natureza gravíssima está certa, mas a medida do art. 181 é a remoção, e não a retenção.",
+   "A infração é gravíssima e o art. 181, XX não prevê recolhimento da CNH como medida."
+  ]
+ },
+ {
+  "q": "Segundo o art. 214 do CTB, deixar de dar preferência de passagem a pedestre com deficiência física, criança, idoso ou gestante configura infração de qual natureza?",
+  "alts": [
+   "Grave, com penalidade de multa, prevista no inciso III do mesmo artigo",
+   "Média, com penalidade de multa, prevista no inciso III do mesmo artigo",
+   "Gravíssima, com multa e suspensão do direito de dirigir do infrator",
+   "Gravíssima, com penalidade de multa, prevista no inciso III do artigo",
+   "Grave, com multa e retenção do veículo até a travessia do pedestre"
+  ],
+  "gab": 3,
+  "tema": "locomotor",
+  "sub": "Preferência ao pedestre com deficiência",
+  "base": "CTB (Lei nº 9.503/1997), art. 214, III.",
+  "coment": "O art. 214 pune deixar de dar preferência de passagem a pedestre e a veículo não motorizado, em várias hipóteses. O inciso III — 'portadores de deficiência física, crianças, idosos e gestantes' — é infração gravíssima, com penalidade de multa. No texto compilado, a mesma natureza gravíssima alcança os incisos I e II (pedestre na faixa; pedestre que não concluiu a travessia mesmo com sinal verde para o veículo), ao passo que os incisos IV e V (travessia iniciada sem sinalização; pedestre atravessando a via transversal para onde o veículo se dirige) são infrações GRAVES — daí a pegadinha da alternativa 'grave'. O dispositivo não prevê suspensão do direito de dirigir nem retenção do veículo. Para o médico de tráfego, o art. 214, III compõe, com o art. 181, XX (vaga reservada) e o art. 147-A (acessibilidade no processo de habilitação), o conjunto de proteções à pessoa com deficiência no CTB.",
+  "porAlt": [
+   "A natureza da infração do inciso III é gravíssima, e não grave, segundo o texto do CTB.",
+   "A infração do inciso III é gravíssima, e não média, conforme o texto compilado do CTB.",
+   "O inciso III prevê penalidade de multa, sem suspensão do direito de dirigir do infrator.",
+   "Correta: o inciso III é infração gravíssima, com penalidade de multa, no texto do CTB.",
+   "A infração é gravíssima, e o inciso III não prevê retenção do veículo como medida."
+  ]
+ },
+ {
+  "q": "Candidato com deficiência física é examinado pela Junta Médica Especial e recebe resultado 'inapto'. Discorda do resultado. Segundo a Resolução CONTRAN nº 927/2022, qual é o caminho correto?",
+  "alts": [
+   "Recorrer diretamente ao CETRAN em 30 dias, porque a Junta Médica Especial já é a instância revisional",
+   "Requerer Junta Médica revisional em 15 dias úteis; mantida a inaptidão, recorrer ao CONTRAN em 30 dias",
+   "Recorrer à JARI em 30 dias, que designará uma Junta Especial de Saúde com dois especialistas em tráfego",
+   "Requerer nova Junta Médica Especial em 60 dias; mantida a inaptidão, recorrer ao CETRAN em 20 dias úteis",
+   "Requerer Junta Médica revisional em 30 dias; mantida a inaptidão permanente, recorrer ao CETRAN em 30 dias"
+  ],
+  "gab": 4,
+  "tema": "locomotor",
+  "sub": "Junta Médica Especial × Junta revisional",
+  "base": "Resolução CONTRAN nº 927/2022, arts. 4º, §1º, 12, 13, 14 e 15.",
+  "coment": "A Junta Médica Especial (art. 4º, §1º) realiza o EXAME de aptidão física e mental do candidato com deficiência física — é exame de primeira mão, não instância recursal. Por isso seu resultado segue o rito geral do Capítulo III: 'independentemente do resultado', o candidato pode requerer, no prazo de trinta dias do conhecimento, a instauração de Junta Médica (três médicos peritos examinadores de trânsito ou especialistas em medicina de tráfego) ao órgão executivo estadual (art. 12). Mantido o resultado de inaptidão permanente, cabe recurso ao CETRAN (ou CONTRANDIFE) em trinta dias do conhecimento da revisão (art. 13), que designa Junta Especial de Saúde (art. 15). Os 15 dias úteis são o prazo do órgão para designar a Junta; os 20 dias úteis, para remeter o recurso.",
+  "porAlt": [
+   "A Junta Médica Especial é o exame inicial da PcD, e não a instância de revisão prevista no art. 12.",
+   "Os 15 dias úteis são do órgão para designar a Junta, e o recurso é ao CETRAN, não ao CONTRAN.",
+   "O recurso não vai à JARI; é o CETRAN que designa a Junta Especial de Saúde para julgá-lo.",
+   "A revisão é por Junta Médica em 30 dias, e 20 dias úteis é o prazo de remessa ao CETRAN.",
+   "Correta: revisão por Junta Médica em 30 dias e, mantida a inaptidão, recurso ao CETRAN em 30 dias."
+  ]
+ },
+ {
+  "q": "A Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla, que relaciona deficiências e restrições veiculares, prevê adaptações apenas para uma categoria. Qual é ela, e por quê?",
+  "alts": [
+   "Categoria A, porque a motocicleta é o veículo em que a fadiga da EM traz o maior risco de queda",
+   "Categoria B, porque o Anexo XV da Resolução 927 só admite adaptações em automóveis de passeio comuns",
+   "Categorias A e B, porque a EM veda as categorias profissionais em qualquer grau do EDSS avaliado",
+   "Categoria C, porque os veículos de carga já saem de fábrica com câmbio automatizado e direção leve",
+   "Categoria B, porque a própria diretriz recomenda a aptidão da pessoa com EM apenas nessa categoria"
+  ],
+  "gab": 4,
+  "tema": "locomotor",
+  "sub": "Esclerose múltipla: adaptações só na categoria B",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, Tabela 2 (nota de rodapé) e item 8.",
+  "coment": "A nota da Tabela 2 é explícita: 'Esta Tabela prevê adaptações apenas para a Categoria B, uma vez que a Diretriz recomenda aptidão de PEM apenas para essa Categoria.' Coerentemente, o item 8 da diretriz considera apto 'somente categoria B', com validade do EAFM igual ou inferior a 2 anos, o candidato com triagem cognitiva normal e EDSS inferior a 3,5; entre 3,5 e 7,0 o caso vai à Junta Médica Especial (NBR 14970); com EDSS igual ou superior a 7,0 ou triagem positiva, inapto. O Anexo XV da Resolução 927 não se limita a automóveis — tem todo um bloco de motocicletas (M a S) — e a diretriz não libera a categoria A.",
+  "porAlt": [
+   "A diretriz não libera a categoria A à pessoa com EM, nem traz adaptações para motocicleta.",
+   "O Anexo XV tem códigos de motocicleta (M a S); a limitação à B vem da própria diretriz de EM.",
+   "A tabela e a diretriz se limitam à categoria B; a categoria A não é incluída pela diretriz.",
+   "A diretriz não prevê adaptações para a categoria C, que não recomenda à pessoa com EM.",
+   "Correta: a nota da tabela limita as adaptações à B porque a diretriz só recomenda aptidão nela."
+  ]
+ },
+ {
+  "q": "Depois de listar as adaptações veiculares possíveis, o que a Diretriz ABRAMET sobre esclerose múltipla recomenda quanto ao PREPARO da pessoa com EM para conduzir o veículo adaptado?",
+  "alts": [
+   "Prova prática de direção a cada renovação e proibição de conduzir sozinha em rodovias e vias rápidas",
+   "Dispensa de treinamento, pois as adaptações do Anexo XV já saem homologadas pelo fabricante do carro",
+   "Treinamento específico para conduzir veículos automotores adaptados, antes de assumir a direção",
+   "Relatório anual do fisioterapeuta e troca obrigatória das adaptações a cada nova renovação da CNH",
+   "Curso de direção defensiva repetido a cada dois anos e restrição U para evitar a fadiga noturna"
+  ],
+  "gab": 2,
+  "tema": "locomotor",
+  "sub": "Esclerose múltipla: treinamento no veículo adaptado",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, seção de adaptações veiculares (Treinamento; Reavaliações periódicas).",
+  "coment": "Depois de listar as adaptações (acelerador à esquerda, transmissão automática/automatizada, empunhadura/manopla/pomo articulado, direção hidráulica/elétrica, embreagem manual/automação, freio e acelerador manuais, comandos do painel ao volante, para os membros inferiores ou por voz), a diretriz traz a recomendação de treinamento: 'PEM devem receber treinamento específico para conduzir veículos automotores adaptados'. Adaptação sem treinamento não basta, porque o condutor precisa automatizar comandos novos (por exemplo, frear com a mão). Em seguida, recomenda reavaliações periódicas para identificar se houve progressão da doença e ajustar as adaptações veiculares se necessário. A diretriz não impõe prova prática a cada renovação, relatório de fisioterapeuta ou restrição U como regra.",
+  "porAlt": [
+   "A diretriz não impõe prova prática a cada renovação nem vedação de rodovias à pessoa com EM.",
+   "A diretriz recomenda expressamente o treinamento, e não a sua dispensa pela homologação.",
+   "Correta: a diretriz recomenda treinamento específico para conduzir veículos adaptados.",
+   "A diretriz não exige relatório do fisioterapeuta nem troca obrigatória das adaptações.",
+   "A diretriz não prevê curso bienal de direção defensiva nem a restrição U como regra."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre esclerose múltipla, como evoluem os déficits motores que afetam a condução ao longo da doença?",
+  "alts": [
+   "Podem surgir desde o início e se acentuam após dez anos; o declínio motor supera o cognitivo",
+   "Surgem só após dez anos de doença e evoluem em paralelo ao declínio cognitivo, na mesma taxa",
+   "Podem surgir desde o início e estabilizam após dez anos; o declínio cognitivo supera o motor",
+   "Surgem só nas formas progressivas e regridem nos surtos; o declínio motor é menor que o cognitivo",
+   "Podem surgir desde o início e melhoram com o tratamento; motor e cognição permanecem estáveis"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Esclerose múltipla: evolução do déficit motor",
+  "base": "Diretriz ABRAMET — Esclerose Múltipla, seção 'Déficits motores'.",
+  "coment": "A diretriz afirma que as dificuldades motoras associadas à piora da capacidade de conduzir podem manifestar-se desde os estágios iniciais da doença e tendem a se acentuar significativamente após dez anos, resultando em dificuldades para acionar os pedais de freio e acelerador, girar o volante e mobilizar o câmbio. Cita estudo prospectivo que acompanhou pacientes por até 10 anos desde o diagnóstico: cognição e função motora pioraram significativamente, mas o declínio MOTOR foi mais pronunciado que o cognitivo. Dirigir pode ser inseguro durante surtos e mais seguro nos períodos de estabilidade. É o fundamento das adaptações veiculares e das reavaliações em intervalos mais curtos.",
+  "porAlt": [
+   "Correta: surgem desde o início, acentuam-se após dez anos, e o declínio motor supera o cognitivo.",
+   "Os déficits podem surgir desde o início, e o declínio motor foi mais pronunciado que o cognitivo.",
+   "Os déficits se acentuam, e não estabilizam, após dez anos; e o declínio motor supera o cognitivo.",
+   "Não se restringem às formas progressivas, e o declínio motor foi maior, não menor, que o cognitivo.",
+   "A diretriz descreve piora significativa da função motora e da cognição ao longo do seguimento."
+  ]
+ },
+ {
+  "q": "Sobre a estrutura da tabela de restrições do Anexo XV da Resolução CONTRAN nº 927/2022, é correto afirmar que:",
+  "alts": [
+   "Vai da letra A à Z em sequência, reservando as letras V, W, Y e Z para as motocicletas",
+   "Vai da letra A à X em sequência, com V para visão monocular e W para prótese de membro",
+   "Vai da letra A à U em sequência e salta para o X, 'outras restrições', sem letras V e W",
+   "Vai da letra A à U em sequência e termina no V, 'outras restrições', sem as letras W a Z",
+   "Vai da letra A à S em sequência, com T, U e X agrupadas como restrições de motocicleta"
+  ],
+  "gab": 2,
+  "tema": "locomotor",
+  "sub": "Estrutura do Anexo XV",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XV; art. 8º, parágrafo único.",
+  "coment": "O Anexo XV tem 22 códigos: A (lentes corretivas) e B (prótese auditiva), restrições do condutor; C a L, adaptações do veículo em geral (acelerador à esquerda, transmissão automática, empunhadura, direção hidráulica, embreagem/automação, acelerador e freio manuais, comandos do painel ao volante ou aos membros inferiores, alavanca de câmbio, prolongadores de pedais); M a S, motocicleta e motoneta; T (vedado dirigir em rodovias e vias de trânsito rápido) e U (vedado dirigir após o pôr do sol), restrições de circunstância; e X, 'outras restrições'. Não existem as letras V e W — alternativa que cite código V para visão monocular ou W para prótese está inventando. T e U não são de motocicleta: valem para qualquer veículo.",
+  "porAlt": [
+   "A tabela não chega ao Z; após o U ela salta diretamente para o X, de outras restrições.",
+   "Não existem as letras V e W na tabela; visão e prótese não têm códigos com essas letras.",
+   "Correta: a tabela segue de A a U e salta para o X, 'outras restrições', sem V nem W.",
+   "A cláusula de outras restrições é o X, e não o V, que simplesmente não existe na tabela.",
+   "T e U são restrições de circunstância para qualquer veículo, não restrições de motocicleta."
+  ]
+ },
+ {
+  "q": "Candidato com agenesia parcial do antebraço direito é considerado apto pela Junta Médica Especial para a categoria B, desde que o veículo tenha a alavanca de câmbio prolongada. Qual código do Anexo XV deve constar da CNH?",
+  "alts": [
+   "Código L: prolongadores dos pedais e elevação do assoalho e/ou almofadas de compensação",
+   "Código K: prolongamento da alavanca de câmbio e/ou almofadas fixas de compensação",
+   "Código G: veículo com embreagem manual, com automação de embreagem ou câmbio automático",
+   "Código D: veículo com transmissão automática, dispensando a alavanca de câmbio manual",
+   "Código I: adaptação dos comandos de painel ao volante do veículo, incluindo o câmbio"
+  ],
+  "gab": 1,
+  "tema": "locomotor",
+  "sub": "Prolongamento da alavanca de câmbio",
+  "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, 'e' e §1º; Anexo XV (código K).",
+  "coment": "O art. 4º, III, 'e' manda explorar malformações, agenesias ou amputações, e o §1º remete o candidato com deficiência física à Junta Médica Especial. Prescrita a alavanca de câmbio prolongada, o código é K: 'obrigatório o uso de veículo com prolongamento da alavanca de câmbio e/ou almofadas (fixas) de compensação de altura e/ou profundidade'. O vizinho L traz os prolongadores dos PEDAIS e a elevação do assoalho — alcance dos membros inferiores. D (transmissão automática) eliminaria a alavanca manual, mas não foi a adaptação prescrita; G é o código de embreagem/automação; e I leva os comandos de PAINEL ao volante, não a alavanca de câmbio.",
+  "porAlt": [
+   "L trata dos prolongadores dos pedais e da elevação do assoalho, ajuste dos membros inferiores.",
+   "Correta: K é o prolongamento da alavanca de câmbio, com ou sem almofadas de compensação.",
+   "G refere-se à embreagem manual, automação de embreagem ou câmbio automático, não à alavanca.",
+   "D é transmissão automática; a Junta prescreveu prolongar a alavanca, e não eliminá-la.",
+   "I leva os comandos do painel ao volante e não abrange o prolongamento da alavanca de câmbio."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre diabetes e condução veicular, quais complicações crônicas da doença podem levar à amputação de membro inferior e à consequente necessidade de adaptação veicular?",
+  "alts": [
+   "O pé diabético, manifestação da neuropatia, e a insuficiência arterial periférica dos membros inferiores",
+   "A retinopatia proliferativa e a nefropatia diabética, pela perda de massa muscular dos membros inferiores",
+   "A hipoglicemia grave recorrente e a cetoacidose, pelas quedas com fratura grave dos membros inferiores",
+   "A neuropatia autonômica cardiovascular e a hipotensão postural, pelas quedas com fratura grave do fêmur",
+   "A doença arterial coronária e a doença cerebrovascular, pelas sequelas motoras nos membros inferiores"
+  ],
+  "gab": 0,
+  "tema": "locomotor",
+  "sub": "Diabetes: amputação e adaptação veicular",
+  "base": "Diretriz ABRAMET — Diabetes e condução veicular, item 2.1 (identificação dos fatores de risco).",
+  "coment": "Ao listar os fatores de risco da evolução crônica do diabetes para a direção veicular, a diretriz cita duas vias que terminam em amputação: a neuropatia diabética, cujo 'pé diabético' é importante manifestação, 'podendo resultar em amputação de membro inferior e à necessidade de adaptação veicular para esses condutores'; e a insuficiência arterial periférica de membros inferiores, que, conforme a gravidade, pode necessitar amputação e veículos especialmente adaptados. Sobre a neuropatia, a diretriz registra associação com aumento do risco de acidentes, 'porém não de modo significativo'. Retinopatia, hipoglicemia e doença cardiovascular são fatores de risco citados, mas por outros mecanismos.",
+  "porAlt": [
+   "Correta: pé diabético e insuficiência arterial periférica são as vias apontadas para a amputação.",
+   "Retinopatia e nefropatia não são apontadas pela diretriz como causas de amputação de membro.",
+   "A hipoglicemia é o maior risco agudo, mas não é a via de amputação descrita pela diretriz.",
+   "A neuropatia autonômica e a hipotensão postural não são a via de amputação citada no texto.",
+   "A doença coronária e a cerebrovascular são citadas pelo relato de mortes ao volante, não por amputação."
+  ]
+ }
+]

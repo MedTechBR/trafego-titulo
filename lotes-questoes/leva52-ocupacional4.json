@@ -1,0 +1,574 @@
+[
+ {
+  "q": "Motorista empregado de uma transportadora de cargas conduz o caminhão por 5 horas e 50 minutos seguidos, sem nenhuma parada, em rodovia com pontos de descanso disponíveis. À luz do CTB, qual é a análise correta?",
+  "alts": [
+   "Cumpriu a lei, pois o limite de direção ininterrupta no transporte de cargas é de 6 horas",
+   "Cumpriu a lei, pois o limite de direção contínua só alcança o transporte de passageiros",
+   "Violou o limite de 4 horas de direção ininterrupta previsto para o transporte de cargas",
+   "Cumpriu a lei, pois o tempo contínuo só é contado depois da primeira hora de viagem",
+   "Violou o limite de 5 horas e meia de direção ininterrupta fixado no art. 67-C do CTB"
+  ],
+  "gab": 4,
+  "tema": "ocupacional",
+  "sub": "Tempo máximo de direção ininterrupta",
+  "base": "CTB, art. 67-C, caput (redação da Lei nº 13.103/2015).",
+  "coment": "O art. 67-C do CTB veda ao motorista profissional dirigir por mais de 5 horas e meia ININTERRUPTAS veículos de transporte rodoviário coletivo de passageiros ou de transporte rodoviário de cargas. O limite vale para os dois tipos de transporte (art. 67-A). O que muda entre carga e passageiros é a regra da pausa: 30 minutos dentro de cada 6 horas para carga (§1º) e 30 minutos a cada 4 horas para passageiros (§1º-A). A pegadinha clássica é confundir o '6 horas' da pausa de carga com o teto de direção contínua: mesmo que a pausa de 30 minutos se refira a cada 6 horas, a condução contínua não pode passar de 5h30. No caso, 5h50 seguidas excede o teto, havendo pontos de parada disponíveis (sem situação excepcional do §2º).",
+  "porAlt": [
+   "Errada: 6 horas é o período de referência da pausa de 30 minutos no transporte de carga, não o teto de direção contínua.",
+   "Errada: o limite do art. 67-C abrange tanto o transporte coletivo de passageiros quanto o de cargas.",
+   "Errada: 4 horas é a referência da pausa no transporte de passageiros (§1º-A), não o teto contínuo de carga.",
+   "Errada: o CTB não prevê carência inicial; todo o período efetivamente ao volante conta como direção.",
+   "Correta: o art. 67-C veda dirigir por mais de 5 horas e meia ininterruptas, e 5h50 excede esse limite."
+  ]
+ },
+ {
+  "q": "Para o motorista profissional de transporte rodoviário de cargas, qual é a regra de descanso durante a condução prevista no art. 67-C, §1º, do CTB?",
+  "alts": [
+   "30 minutos de descanso a cada 4 horas, fracionáveis em períodos de no mínimo 5 minutos",
+   "30 minutos dentro de cada 6 horas, fracionáveis, sem passar de 5h30 contínuas ao volante",
+   "15 minutos de descanso a cada 3 horas, sem possibilidade de fracionamento dessa pausa",
+   "1 hora de descanso dentro de cada 6 horas, contínua e obrigatoriamente fora da cabine",
+   "30 minutos de descanso a cada 5 horas e meia, vedado o fracionamento do tempo de direção"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "Pausa na condução de carga",
+  "base": "CTB, art. 67-C, §1º (redação da Lei nº 13.103/2015).",
+  "coment": "Pelo §1º do art. 67-C, serão observados 30 minutos para descanso dentro de cada 6 horas na condução de veículo de transporte de carga, sendo facultado o fracionamento dessa pausa e do tempo de direção, DESDE QUE não ultrapassadas 5 horas e meia contínuas no exercício da condução. Para o transporte de passageiros a regra é outra: 30 minutos a cada 4 horas (§1º-A), e a CLT (art. 235-E, I) permite fracionar esse intervalo em períodos de no mínimo 5 minutos. A questão explora justamente a troca entre as duas regras e a ideia errada de que a pausa não pode ser fracionada.",
+  "porAlt": [
+   "Errada: 30 minutos a cada 4 horas é a regra do transporte de passageiros, e a fração mínima de 5 minutos vem da CLT para passageiros.",
+   "Correta: 30 minutos dentro de cada 6 horas, fracionáveis, respeitado o teto de 5h30 contínuas.",
+   "Errada: a lei fixa 30 minutos, não 15, e expressamente faculta o fracionamento.",
+   "Errada: a pausa de condução é de 30 minutos; o intervalo de 1 hora da CLT é o de refeição.",
+   "Errada: a referência é cada 6 horas, e o fracionamento da pausa e da direção é facultado pela lei."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus rodoviário intermunicipal pergunta ao médico do tráfego da empresa qual pausa a lei exige durante a condução. Segundo o CTB, a resposta correta é:",
+  "alts": [
+   "30 minutos de descanso a cada 4 horas de condução, facultado o fracionamento da pausa",
+   "30 minutos de descanso dentro de cada 6 horas de condução, como no transporte de cargas",
+   "1 hora de descanso a cada 4 horas de condução, vedado qualquer fracionamento da pausa",
+   "15 minutos de descanso a cada 2 horas de condução, facultado o fracionamento da pausa",
+   "Nenhuma pausa fixa, pois a lei deixa o intervalo para o acordo coletivo da categoria"
+  ],
+  "gab": 0,
+  "tema": "ocupacional",
+  "sub": "Pausa na condução de passageiros",
+  "base": "CTB, art. 67-C, §1º-A (redação da Lei nº 13.103/2015); CLT, art. 235-E, I.",
+  "coment": "O §1º-A do art. 67-C do CTB determina que serão observados 30 minutos para descanso A CADA 4 HORAS na condução de veículo rodoviário de passageiros, sendo facultado o seu fracionamento e o do tempo de direção. A CLT complementa (art. 235-E, I): no transporte de passageiros, o intervalo de condução pode ser fracionado em períodos de no mínimo 5 minutos. A regra do transporte de cargas é diferente (30 minutos dentro de cada 6 horas, §1º). O teto de 5h30 de direção ininterrupta do caput vale para ambos. A pausa é imposta por lei federal e não fica ao arbítrio de acordo coletivo.",
+  "porAlt": [
+   "Correta: o §1º-A fixa 30 minutos a cada 4 horas para passageiros, com fracionamento facultado.",
+   "Errada: 'dentro de cada 6 horas' é a regra do transporte de cargas (§1º), não a de passageiros.",
+   "Errada: a pausa é de 30 minutos, não 1 hora, e o fracionamento é expressamente facultado.",
+   "Errada: a lei não fixa 15 minutos a cada 2 horas; a referência é de 30 minutos a cada 4 horas.",
+   "Errada: a pausa é fixada pelo CTB, norma de trânsito que não depende de negociação coletiva."
+  ]
+ },
+ {
+  "q": "No transporte de passageiros, a CLT (art. 235-E, I) faculta o fracionamento do intervalo de condução previsto no CTB. Qual é a duração mínima de cada fração desse intervalo?",
+  "alts": [
+   "Períodos de no mínimo 10 minutos cada, até somar o intervalo exigido pelo CTB",
+   "Períodos de no mínimo 15 minutos cada, até somar o intervalo exigido pelo CTB",
+   "Períodos de no mínimo 20 minutos cada, até somar o intervalo exigido pelo CTB",
+   "Não há mínimo, desde que a soma das pausas alcance o intervalo exigido pelo CTB",
+   "Períodos de no mínimo 5 minutos cada, até somar o intervalo exigido pelo CTB"
+  ],
+  "gab": 4,
+  "tema": "ocupacional",
+  "sub": "Fracionamento do intervalo de condução",
+  "base": "CLT, art. 235-E, I (redação da Lei nº 13.103/2015); CTB, art. 67-C, §1º-A.",
+  "coment": "O art. 235-E da CLT traz regras próprias do transporte de passageiros. Seu inciso I faculta o fracionamento do intervalo de condução previsto no CTB (30 minutos a cada 4 horas, art. 67-C, §1º-A) em períodos de NO MÍNIMO 5 MINUTOS. Assim, paradas curtas em pontos de embarque podem compor o intervalo, mas frações inferiores a 5 minutos não contam. É um número de corte pequeno e fácil de cobrar. Para o transporte de cargas a CLT não fixa essa fração mínima; ali o CTB faculta o fracionamento desde que não se ultrapassem 5h30 contínuas de direção.",
+  "porAlt": [
+   "Errada: a CLT fixa 5 minutos como fração mínima, e não 10 minutos.",
+   "Errada: 15 minutos não é o corte legal; a fração mínima é de 5 minutos.",
+   "Errada: 20 minutos não é o corte legal; a fração mínima é de 5 minutos.",
+   "Errada: a lei estabelece um mínimo por fração; pausas muito curtas não compõem o intervalo.",
+   "Correta: o art. 235-E, I, da CLT admite frações de no mínimo 5 minutos cada."
+  ]
+ },
+ {
+  "q": "Segundo o art. 67-C, §4º, do CTB, o que se entende por tempo de direção ou de condução do motorista profissional?",
+  "alts": [
+   "Todo o período à disposição do empregador, incluindo carga, descarga e esperas em barreiras",
+   "O período entre a partida na origem e a chegada ao destino, incluídas as paradas de refeição",
+   "Apenas o período em que o condutor está de fato ao volante, em curso entre origem e destino",
+   "O tempo com o motor ligado, inclusive com o veículo estacionado para climatizar a cabine",
+   "A jornada diária anotada no diário de bordo, descontados apenas os intervalos de repouso"
+  ],
+  "gab": 2,
+  "tema": "ocupacional",
+  "sub": "Conceito de tempo de direção",
+  "base": "CTB, art. 67-C, §§4º e 5º (redação da Lei nº 13.103/2015).",
+  "coment": "O §4º do art. 67-C define: entende-se como tempo de direção ou de condução APENAS o período em que o condutor estiver efetivamente ao volante, em curso entre a origem e o destino. É esse tempo que se compara com o teto de 5h30 ininterruptas e com as pausas dos §§1º e 1º-A. Não se confunde com a jornada de trabalho da CLT (art. 235-C), que é conceito trabalhista mais amplo. O §5º completa: início de viagem é a partida do veículo na ida ou no retorno, com ou sem carga, e as partidas nos dias seguintes até o destino são sua continuação. Carga, descarga, esperas e refeições não são tempo de direção.",
+  "porAlt": [
+   "Errada: tempo à disposição do empregador é noção de jornada trabalhista, não de tempo de direção.",
+   "Errada: as paradas para refeição não são tempo ao volante e não entram no cômputo da direção.",
+   "Correta: o §4º restringe o tempo de direção ao período efetivamente ao volante, entre origem e destino.",
+   "Errada: motor ligado com veículo estacionado não é condução em curso entre origem e destino.",
+   "Errada: jornada anotada é conceito trabalhista e inclui atividades que não são direção efetiva."
+  ]
+ },
+ {
+  "q": "Motorista de carga atinge o limite de direção contínua em trecho de serra sem acostamento, sob neblina, sem nenhum local seguro para parar. Segundo o CTB, como ele deve proceder?",
+  "alts": [
+   "Seguir dirigindo só até um local seguro, registrando a situação excepcional e justificada",
+   "Parar logo no leito da pista, pois o limite de direção contínua não admite qualquer exceção",
+   "Seguir dirigindo até o destino final, desde que compense o excesso na jornada do dia seguinte",
+   "Seguir dirigindo por até 1 hora adicional, sem necessidade de registrar a ocorrência havida",
+   "Acionar o empregador, a quem cabe autorizar por escrito qualquer prorrogação do limite legal"
+  ],
+  "gab": 0,
+  "tema": "ocupacional",
+  "sub": "Situação excepcional de inobservância",
+  "base": "CTB, art. 67-C, §2º; CLT, art. 235-D, §6º (redação da Lei nº 13.103/2015).",
+  "coment": "O §2º do art. 67-C prevê que, em situações excepcionais de inobservância justificada do tempo de direção, DEVIDAMENTE REGISTRADAS, o tempo de direção poderá ser elevado pelo período necessário para que condutor, veículo e carga cheguem a um lugar que ofereça a segurança e o atendimento demandados, desde que não haja comprometimento da segurança rodoviária. A CLT tem regra espelho para a jornada (art. 235-D, §6º). O §8º do art. 67-C remete ao Contran a definição das situações excepcionais por indisponibilidade de pontos de parada, e o art. 67-E, §1º-A, afasta a penalidade nesses casos. A prorrogação é limitada ao necessário para chegar ao local seguro, não ao destino, e depende de registro.",
+  "porAlt": [
+   "Correta: o §2º permite elevar o tempo de direção apenas até um local seguro, com registro da situação.",
+   "Errada: parar em pista sem acostamento sob neblina criaria risco maior, e a lei prevê exceção justificada.",
+   "Errada: a elevação vai só até um lugar seguro, não até o destino, e não há mecanismo de compensação.",
+   "Errada: a lei não fixa 1 hora adicional e exige que a situação excepcional seja devidamente registrada.",
+   "Errada: a lei não condiciona a exceção a autorização escrita do empregador, e sim a justificativa e registro."
+  ]
+ },
+ {
+  "q": "Segundo o art. 67-E do CTB, a quem cabe controlar e registrar o tempo de condução do motorista profissional, e qual requisito se impõe ao equipamento registrador?",
+  "alts": [
+   "Ao empregador; o registrador pode ser ajustado pelo condutor para corrigir falhas de marcação",
+   "À autoridade de trânsito; o registrador fica lacrado e só é lido nas fiscalizações da via",
+   "Ao embarcador da carga; o registrador é instalado e mantido pelo contratante do frete rodoviário",
+   "Ao médico do trabalho; o registrador deve alimentar os dados do PCMSO do motorista empregado",
+   "Ao próprio motorista; o registrador deve funcionar sem interferência do condutor nos dados"
+  ],
+  "gab": 4,
+  "tema": "ocupacional",
+  "sub": "Controle e registro do tempo de direção",
+  "base": "CTB, art. 67-E, caput e §§1º a 4º (redação da Lei nº 13.103/2015).",
+  "coment": "O art. 67-E atribui ao PRÓPRIO MOTORISTA PROFISSIONAL a responsabilidade por controlar e registrar o tempo de condução do art. 67-C, com vistas à sua estrita observância; a inobservância dos descansos o sujeita às penalidades do CTB (§1º). O controle se faz por registrador instantâneo inalterável de velocidade e tempo, diário de bordo, papeleta ou ficha de trabalho externo, ou meios eletrônicos instalados no veículo, conforme norma do Contran (§2º). O equipamento deve funcionar de forma INDEPENDENTE de qualquer interferência do condutor quanto aos dados registrados (§3º), e a guarda, preservação e exatidão das informações do registrador são de responsabilidade do condutor (§4º).",
+  "porAlt": [
+   "Errada: a lei atribui o controle ao motorista, e o registrador não pode sofrer interferência do condutor.",
+   "Errada: o controle cabe ao motorista, não à autoridade de trânsito, que apenas fiscaliza.",
+   "Errada: o art. 67-E não atribui ao embarcador o controle do tempo de condução.",
+   "Errada: o registro de direção é obrigação de trânsito do motorista, não parte do PCMSO.",
+   "Correta: o motorista controla e registra o tempo, e o equipamento funciona sem interferência dele nos dados."
+  ]
+ },
+ {
+  "q": "Motorista de caminhão é flagrado em desacordo com o tempo de direção e de descanso do art. 67-C do CTB. Ele já cometera a mesma infração 8 meses antes. Qual consequência o CTB prevê?",
+  "alts": [
+   "A infração, que é grave, é convertida em gravíssima, com suspensão do direito de dirigir",
+   "A infração segue média, mas a multa é aplicada em dobro, sem retenção do veículo na via",
+   "A infração, que é leve, é convertida em média, com remoção do veículo para o depósito",
+   "A infração, que é média, é convertida em grave, com retenção do veículo para o descanso",
+   "A infração, que é média, é convertida em gravíssima, com recolhimento da habilitação"
+  ],
+  "gab": 3,
+  "tema": "ocupacional",
+  "sub": "Infração ao tempo de direção e descanso",
+  "base": "CTB, art. 230, XXIII e §1º (redação da Lei nº 13.103/2015).",
+  "coment": "Conduzir veículo de transporte de carga ou coletivo de passageiros em desacordo com o art. 67-C, quanto ao tempo de permanência ao volante e aos intervalos de descanso, é infração MÉDIA (art. 230, XXIII), com multa e medida administrativa de RETENÇÃO do veículo para cumprimento do tempo de descanso aplicável. O §1º do art. 230 determina que, se o condutor cometeu infração igual nos últimos 12 meses, a penalidade é convertida AUTOMATICAMENTE em infração GRAVE. O §2º acrescenta que, para condutor estrangeiro, a liberação do veículo depende do pagamento ou depósito da multa. Como a reincidência ocorreu dentro de 12 meses, a infração passa a grave.",
+  "porAlt": [
+   "Errada: a infração de origem é média e a reincidência a converte em grave, sem suspensão do direito de dirigir.",
+   "Errada: a lei não dobra a multa; converte a infração em grave, e a retenção do veículo é prevista.",
+   "Errada: a infração não é leve, e a medida é retenção para descanso, não remoção ao depósito.",
+   "Correta: a infração média do art. 230, XXIII, vira grave na reincidência em 12 meses, com retenção para descanso.",
+   "Errada: a conversão legal é para grave, não gravíssima, e não há recolhimento da habilitação."
+  ]
+ },
+ {
+  "q": "Segundo o art. 235-C da CLT, qual é a jornada diária de trabalho do motorista profissional empregado e o limite de sua prorrogação?",
+  "alts": [
+   "8 horas, prorrogáveis por 4 horas extras, ou por até 6 horas se houver convenção ou acordo coletivo",
+   "10 horas, prorrogáveis por 2 horas extras, ou por até 4 horas se houver convenção ou acordo coletivo",
+   "8 horas, prorrogáveis por 1 hora extra, ou por até 2 horas se houver convenção ou acordo coletivo",
+   "6 horas, prorrogáveis por 2 horas extras, ou por até 4 horas se houver convenção ou acordo coletivo",
+   "8 horas, prorrogáveis por 2 horas extras, ou por até 4 horas se houver convenção ou acordo coletivo"
+  ],
+  "gab": 4,
+  "tema": "ocupacional",
+  "sub": "Jornada do motorista empregado",
+  "base": "CLT, art. 235-C, caput (redação da Lei nº 13.103/2015).",
+  "coment": "O caput do art. 235-C da CLT fixa a jornada diária do motorista profissional empregado em 8 horas, admitindo prorrogação por até 2 horas extraordinárias ou, MEDIANTE PREVISÃO EM CONVENÇÃO OU ACORDO COLETIVO, por até 4 horas extraordinárias. As horas extras são pagas com o acréscimo constitucional ou compensadas (§5º), e a hora noturna segue o art. 73 da CLT (§6º). O art. 235-F admite ainda, por convenção ou acordo coletivo, a jornada especial de 12 horas de trabalho por 36 de descanso. Para o médico do tráfego ocupacional, a jornada é variável central na análise de fadiga e deve ser lida junto com os limites de direção do CTB, que são normas distintas.",
+  "porAlt": [
+   "Errada: a prorrogação ordinária é de até 2 horas, e a negociada de até 4 horas, não 4 e 6.",
+   "Errada: a jornada básica é de 8 horas, não de 10 horas.",
+   "Errada: a prorrogação é de até 2 horas ou, por negociação coletiva, de até 4 horas.",
+   "Errada: a jornada básica do motorista empregado é de 8 horas, não de 6 horas.",
+   "Correta: 8 horas diárias, com até 2 horas extras ou até 4 horas por convenção ou acordo coletivo."
+  ]
+ },
+ {
+  "q": "Segundo a CLT, qual intervalo para refeição é assegurado ao motorista profissional empregado de transporte rodoviário de cargas?",
+  "alts": [
+   "Intervalo mínimo de 30 minutos para refeição, que não pode coincidir com a parada do CTB",
+   "Intervalo mínimo de 2 horas para refeição, que não pode coincidir com a parada obrigatória do CTB",
+   "Intervalo mínimo de 1 hora para refeição, que pode coincidir com a parada obrigatória do CTB",
+   "Intervalo mínimo de 15 minutos para refeição, somado à parada obrigatória prevista no CTB",
+   "Intervalo mínimo de 1 hora para refeição, que deve ser somado à parada obrigatória do CTB"
+  ],
+  "gab": 2,
+  "tema": "ocupacional",
+  "sub": "Intervalo para refeição",
+  "base": "CLT, art. 235-C, §2º (redação da Lei nº 13.103/2015).",
+  "coment": "O §2º do art. 235-C da CLT assegura ao motorista profissional empregado intervalo MÍNIMO DE 1 HORA para refeição, podendo esse período COINCIDIR com o tempo de parada obrigatória na condução do veículo estabelecido pelo CTB (art. 67-C), exceto para o motorista enquadrado no §5º do art. 71 da CLT (transporte coletivo de passageiros, em que o intervalo pode ser reduzido ou fracionado por negociação coletiva). No transporte de passageiros, o art. 235-E, II, permite ainda fracionar a hora de refeição em 2 períodos. O distrator mais sutil é o que exige somar o intervalo à parada: a lei permite a coincidência, não impõe a soma.",
+  "porAlt": [
+   "Errada: o mínimo legal é de 1 hora, e a lei admite a coincidência com a parada do CTB.",
+   "Errada: a lei fixa mínimo de 1 hora, não 2 horas, e admite a coincidência com a parada.",
+   "Correta: 1 hora no mínimo, podendo coincidir com a parada obrigatória de condução do CTB.",
+   "Errada: 15 minutos é inferior ao mínimo legal de 1 hora para refeição.",
+   "Errada: a duração está certa, mas a lei permite coincidir, e não obriga a somar, com a parada do CTB."
+  ]
+ },
+ {
+  "q": "Segundo o art. 168, §6º, da CLT, em que momentos do vínculo de emprego se exige exame toxicológico do motorista profissional, e com quais garantias?",
+  "alts": [
+   "Antes da admissão e no desligamento, com direito à contraprova e sigilo dos resultados",
+   "Na admissão e em cada exame periódico anual, com contraprova e divulgação ao sindicato",
+   "Só no desligamento, com direito a recurso e envio do resultado ao órgão de trânsito local",
+   "Antes da admissão e no retorno de férias, sem contraprova e com resultado ao Detran",
+   "Só após sinistro de trânsito, com direito à contraprova e envio do laudo ao empregador"
+  ],
+  "gab": 0,
+  "tema": "ocupacional",
+  "sub": "Toxicológico admissional e demissional",
+  "base": "CLT, art. 168, §§6º e 7º (incluídos pela Lei nº 13.103/2015).",
+  "coment": "O §6º do art. 168 da CLT determina que serão exigidos exames toxicológicos PREVIAMENTE À ADMISSÃO e POR OCASIÃO DO DESLIGAMENTO do motorista profissional, assegurados o DIREITO À CONTRAPROVA em caso de resultado positivo e a CONFIDENCIALIDADE dos resultados. O §7º exige janela de detecção mínima de 90 dias, específica para substâncias psicoativas que causem dependência ou comprovadamente comprometam a capacidade de direção. Durante o vínculo, a exigência vem do art. 235-B, VII (exame e programa de controle ao menos a cada 2 anos e 6 meses). A Lei nº 14.599/2023 (art. 5º) incumbiu o Ministério do Trabalho de regulamentar a aplicação e a fiscalização desses exames.",
+  "porAlt": [
+   "Correta: exame antes da admissão e no desligamento, com contraprova e confidencialidade asseguradas.",
+   "Errada: a CLT não exige toxicológico anual nem prevê divulgação ao sindicato; há dever de sigilo.",
+   "Errada: a exigência inclui a admissão, e o resultado é confidencial, não enviado ao trânsito.",
+   "Errada: férias não são momento previsto, e a contraprova é garantida pela lei.",
+   "Errada: a lei fixa admissão e desligamento, independentemente da ocorrência de sinistro."
+  ]
+ },
+ {
+  "q": "Motorista de carreta, categoria E, fez há 45 dias o exame toxicológico exigido pelo CTB, com resultado negativo, e agora será admitido por uma transportadora. Segundo a CLT, o que se aplica ao toxicológico admissional?",
+  "alts": [
+   "O exame do CTB não pode ser usado, pois o admissional exige coleta após a assinatura do contrato",
+   "O exame do CTB pode ser aproveitado, pois foi feito nos últimos 60 dias, com janela de 90 dias",
+   "O exame do CTB pode ser aproveitado, pois a CLT aceita toxicológico feito nos últimos 180 dias",
+   "O exame do CTB não pode ser usado, pois a CLT só aceita toxicológico feito nos últimos 30 dias",
+   "O exame do CTB pode ser aproveitado, desde que o médico do trabalho repita a coleta no ato"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "Aproveitamento do toxicológico do CTB",
+  "base": "CLT, art. 168, §7º; CLT, art. 235-B, VII (Lei nº 13.103/2015); CTB, art. 148-A, §1º.",
+  "coment": "O §7º do art. 168 da CLT exige, para os exames admissional e demissional, toxicológico com janela de detecção mínima de 90 dias e admite expressamente que seja UTILIZADO o exame toxicológico previsto no CTB, DESDE QUE REALIZADO NOS ÚLTIMOS 60 DIAS. O exame do CTB (art. 148-A, §1º) também tem janela mínima de 90 dias. Como o exame foi feito há 45 dias, está dentro do prazo e pode ser aproveitado. A mesma janela de 60 dias vale para o programa periódico do art. 235-B, VII. Se tivesse sido feito há 75 dias, um novo exame seria necessário. A pegadinha é trocar o prazo de aproveitamento (60 dias) pela janela de detecção (90 dias).",
+  "porAlt": [
+   "Errada: a CLT admite o aproveitamento do exame do CTB, sem exigir coleta posterior ao contrato.",
+   "Correta: o exame do CTB feito nos últimos 60 dias pode ser usado, e ele tem janela mínima de 90 dias.",
+   "Errada: o prazo de aproveitamento é de 60 dias, não de 180 dias.",
+   "Errada: o prazo legal de aproveitamento é de 60 dias, e 45 dias estão dentro dele.",
+   "Errada: a lei não condiciona o aproveitamento a nova coleta pelo médico do trabalho."
+  ]
+ },
+ {
+  "q": "Segundo o art. 235-B, VII, da CLT, com que frequência mínima o motorista empregado deve submeter-se ao toxicológico e ao programa de controle de uso de droga e álcool do empregador, e o que ocorre se recusar?",
+  "alts": [
+   "Pelo menos a cada 12 meses; a recusa gera suspensão automática da CNH pelo órgão de trânsito",
+   "Pelo menos a cada 5 anos; a recusa é presumida resultado positivo para todos os efeitos legais",
+   "Pelo menos a cada 2 anos e 6 meses; a recusa é infração disciplinar, passível de penalização",
+   "Pelo menos a cada 2 anos e 6 meses; a recusa é permitida sem sanção, em nome do sigilo médico",
+   "Pelo menos a cada 3 anos; a recusa é infração disciplinar, mas só após a segunda convocação"
+  ],
+  "gab": 2,
+  "tema": "ocupacional",
+  "sub": "Programa de controle de drogas e álcool",
+  "base": "CLT, art. 235-B, VII e parágrafo único (redação da Lei nº 13.103/2015).",
+  "coment": "Entre os deveres do motorista profissional empregado, o art. 235-B, VII, da CLT inclui submeter-se a exames toxicológicos com janela de detecção mínima de 90 dias e a PROGRAMA DE CONTROLE DE USO DE DROGA E DE BEBIDA ALCOÓLICA instituído pelo empregador, com sua ampla ciência, PELO MENOS UMA VEZ A CADA 2 ANOS E 6 MESES, podendo ser usado o exame do CTB se realizado nos últimos 60 dias. O parágrafo único estabelece que a RECUSA do empregado em se submeter ao teste ou ao programa será considerada INFRAÇÃO DISCIPLINAR, passível de penalização nos termos da lei. A periodicidade coincide com a do toxicológico periódico do CTB para C, D e E.",
+  "porAlt": [
+   "Errada: a periodicidade não é anual, e a sanção da recusa é disciplinar, não suspensão da CNH.",
+   "Errada: o intervalo é de 2 anos e 6 meses, e a lei qualifica a recusa como infração disciplinar.",
+   "Correta: ao menos a cada 2 anos e 6 meses, e a recusa é infração disciplinar passível de penalização.",
+   "Errada: o prazo está certo, mas a recusa é expressamente infração disciplinar.",
+   "Errada: o intervalo legal é de 2 anos e 6 meses, e a lei não exige duas convocações."
+  ]
+ },
+ {
+  "q": "Motorista de 72 anos, categoria D, renovou a CNH há 1 ano com toxicológico negativo e pergunta se precisará de novo toxicológico antes da próxima renovação. Segundo o art. 148-A do CTB, a resposta é:",
+  "alts": [
+   "Não, pois o toxicológico periódico de 2 anos e 6 meses só alcança quem tem menos de 70 anos",
+   "Sim, pois o toxicológico periódico de 2 anos e 6 meses alcança todos os condutores C, D e E",
+   "Sim, pois acima de 70 anos o toxicológico periódico passa a ser exigido a cada 1 ano e 6 meses",
+   "Não, pois o toxicológico periódico só é exigido de quem exerce atividade remunerada ao volante",
+   "Não, pois acima de 65 anos o toxicológico deixa de ser exigido inclusive na renovação da CNH"
+  ],
+  "gab": 0,
+  "tema": "ocupacional",
+  "sub": "Toxicológico periódico e idade",
+  "base": "CTB, art. 148-A, caput e §2º (redação da Lei nº 14.071/2020).",
+  "coment": "O caput do art. 148-A exige resultado negativo em exame toxicológico para a OBTENÇÃO e a RENOVAÇÃO da CNH nas categorias C, D e E, sem limite de idade. O §2º acrescenta o exame PERIÓDICO intermediário: condutores C, D e E COM IDADE INFERIOR A 70 ANOS são submetidos a novo exame a cada 2 anos e 6 meses a partir da obtenção ou renovação, independentemente da validade dos demais exames do art. 147. O antigo §3º (1 ano e 6 meses para CNH de 3 anos) foi revogado pela Lei nº 14.071/2020. Assim, o condutor de 72 anos não faz o periódico intermediário, mas continuará sujeito ao toxicológico na próxima renovação.",
+  "porAlt": [
+   "Correta: o periódico de 2 anos e 6 meses só alcança quem tem menos de 70 anos; na renovação, o exame segue exigido.",
+   "Errada: o §2º restringe o periódico a condutores com idade inferior a 70 anos.",
+   "Errada: não há periódico de 1 ano e 6 meses para idosos; o antigo §3º foi revogado.",
+   "Errada: o art. 148-A vincula o exame às categorias C, D e E, não à atividade remunerada.",
+   "Errada: o caput exige o exame na renovação das categorias C, D e E, sem corte etário."
+  ]
+ },
+ {
+  "q": "Condutor da categoria C tem resultado positivo no exame toxicológico periódico do art. 148-A, §2º, do CTB. Qual é a consequência prevista no §5º do mesmo artigo?",
+  "alts": [
+   "Suspensão do direito de dirigir por 12 meses, levantada após curso de reciclagem obrigatório",
+   "Cassação da CNH, com reabilitação somente após 2 anos e novo processo de habilitação completo",
+   "Suspensão do direito de dirigir por 3 meses, levantada só com novo exame negativo no Renach",
+   "Suspensão do direito de dirigir por 6 meses, somada a multa gravíssima e remoção do veículo",
+   "Advertência por escrito e novo exame em 90 dias, sem suspensão do direito de dirigir no período"
+  ],
+  "gab": 2,
+  "tema": "ocupacional",
+  "sub": "Toxicológico periódico positivo",
+  "base": "CTB, art. 148-A, §§4º e 5º (redação das Leis nº 14.071/2020 e nº 14.599/2023).",
+  "coment": "Pelo §5º do art. 148-A (redação da Lei nº 14.599/2023), o resultado positivo no exame periódico do §2º acarreta a SUSPENSÃO DO DIREITO DE DIRIGIR PELO PERÍODO DE 3 MESES, condicionado o levantamento da suspensão à inclusão no RENACH de resultado NEGATIVO em novo exame, vedada a aplicação de outras penalidades, ainda que acessórias. O §4º garante contraprova e recurso administrativo, sem efeito suspensivo. Não confundir com o art. 165-C, que pune como infração gravíssima quem DIRIGE tendo obtido resultado positivo no exame do caput, nem com o art. 165-D, que pune quem deixa de fazer o periódico após 30 dias do vencimento.",
+  "porAlt": [
+   "Errada: a suspensão é de 3 meses, e o levantamento depende de novo exame negativo, não de curso.",
+   "Errada: a lei prevê suspensão de 3 meses, e não cassação da habilitação.",
+   "Correta: suspensão por 3 meses, levantada somente com resultado negativo em novo exame lançado no Renach.",
+   "Errada: a suspensão é de 3 meses, e o §5º veda outras penalidades, ainda que acessórias.",
+   "Errada: a consequência legal é a suspensão do direito de dirigir, não mera advertência."
+  ]
+ },
+ {
+  "q": "Segundo a Lei nº 13.103/2015, qual seguro deve ser assegurado e custeado pelo empregador ao motorista profissional empregado?",
+  "alts": [
+   "Seguro obrigatório para morte, invalidez por acidente e funeral, de no mínimo 5 vezes o piso",
+   "Seguro obrigatório para morte, invalidez por acidente e funeral, de no mínimo 10 vezes o piso",
+   "Seguro obrigatório para morte, invalidez por acidente e funeral, de no mínimo 20 vezes o piso",
+   "Seguro facultativo para morte e invalidez, custeado em partes iguais pelo empregado e empresa",
+   "Seguro obrigatório só para morte por acidente, em valor fixado a cada ano pelo órgão de trânsito"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "Direitos do motorista profissional",
+  "base": "Lei nº 13.103/2015, art. 2º, IV e V, alínea 'c'.",
+  "coment": "O art. 2º da Lei nº 13.103/2015 lista direitos do motorista profissional. Para o empregado, a alínea 'c' do inciso V garante benefício de SEGURO DE CONTRATAÇÃO OBRIGATÓRIA, assegurado e CUSTEADO PELO EMPREGADOR, com cobertura de morte natural, morte por acidente, invalidez total ou parcial decorrente de acidente, traslado e auxílio-funeral, no valor mínimo de 10 VEZES O PISO SALARIAL da categoria ou valor superior fixado em convenção ou acordo coletivo. O mesmo artigo assegura acesso gratuito a programas de formação, atendimento pelo SUS às enfermidades que mais os acometam e serviços especializados de medicina ocupacional, públicos ou privados, à sua escolha (inciso IV).",
+  "porAlt": [
+   "Errada: o piso legal é de 10 vezes o piso salarial, não de 5 vezes.",
+   "Correta: seguro obrigatório custeado pelo empregador, com mínimo de 10 vezes o piso salarial.",
+   "Errada: 20 vezes não é o mínimo legal; a lei fixa 10 vezes o piso salarial da categoria.",
+   "Errada: o seguro é de contratação obrigatória e custeado pelo empregador, não dividido.",
+   "Errada: a cobertura inclui morte natural, invalidez, traslado e funeral, e o valor é vinculado ao piso."
+  ]
+ },
+ {
+  "q": "Segundo a Lei nº 13.103/2015, o que é assegurado ao motorista profissional dependente de substâncias psicoativas?",
+  "alts": [
+   "Afastamento compulsório com rescisão do contrato de trabalho, sem direito a tratamento custeado",
+   "Tratamento pago pelo empregador em clínica indicada pelo sindicato da categoria profissional",
+   "Atendimento só no serviço de medicina ocupacional da empresa, vedado o encaminhamento ao SUS",
+   "Pleno atendimento nas unidades de saúde do SUS, admitidos convênios com entidades privadas",
+   "Cassação da CNH e tratamento compulsório em unidade credenciada pelo órgão de trânsito local"
+  ],
+  "gab": 3,
+  "tema": "ocupacional",
+  "sub": "Dependência química no motorista profissional",
+  "base": "Lei nº 13.103/2015, art. 3º; art. 2º, II.",
+  "coment": "O art. 3º da Lei nº 13.103/2015 determina que aos motoristas profissionais dependentes de substâncias psicoativas é assegurado o PLENO ATENDIMENTO pelas unidades de saúde municipal, estadual e federal, no âmbito do SISTEMA ÚNICO DE SAÚDE, podendo ser realizados CONVÊNIOS COM ENTIDADES PRIVADAS para o cumprimento da obrigação. O art. 2º, II, reforça o direito a atendimento profilático, terapêutico e reabilitador pelo SUS, especialmente quanto às enfermidades que mais os acometem. A lógica da lei é de cuidado e reabilitação; as consequências de trânsito (toxicológico positivo, suspensão) seguem pelo CTB, e as disciplinares, pela CLT.",
+  "porAlt": [
+   "Errada: a lei não prevê afastamento compulsório com rescisão; assegura atendimento pelo SUS.",
+   "Errada: a lei atribui o atendimento ao SUS, e não ao empregador em clínica do sindicato.",
+   "Errada: a lei assegura justamente o atendimento no SUS, sem restringi-lo ao serviço da empresa.",
+   "Correta: o art. 3º garante pleno atendimento no SUS, com possibilidade de convênios privados.",
+   "Errada: a Lei nº 13.103/2015 não prevê cassação da CNH nem tratamento compulsório."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus ficou afastado 32 dias por pneumonia, sem relação com o trabalho. Segundo a NR-07, o que é exigido antes que ele reassuma a direção?",
+  "alts": [
+   "Dispensa-se exame, pois o retorno só é exigido se o afastamento decorre de doença ocupacional",
+   "Exame de retorno em até 10 dias após reassumir, pela ausência igual ou superior a 30 dias",
+   "Dispensa-se exame, pois o retorno só é exigido em afastamentos iguais ou superiores a 60 dias",
+   "Exame de retorno ao trabalho antes de reassumir, pela ausência igual ou superior a 30 dias",
+   "Exame periódico antecipado, pois a NR-07 não prevê exame específico de retorno ao trabalho"
+  ],
+  "gab": 3,
+  "tema": "ocupacional",
+  "sub": "Exame de retorno ao trabalho",
+  "base": "NR-07 (Portaria SEPRT nº 6.734/2020), itens 7.5.6, 7.5.9 e 7.5.9.1.",
+  "coment": "A NR-07 lista cinco exames obrigatórios no PCMSO: admissional, periódico, de retorno ao trabalho, de mudança de riscos ocupacionais e demissional (item 7.5.6). Pelo item 7.5.9, no exame de retorno o exame clínico deve ser realizado ANTES que o empregado reassuma suas funções, quando ausente por período IGUAL OU SUPERIOR A 30 DIAS por motivo de doença ou acidente, DE NATUREZA OCUPACIONAL OU NÃO. O item 7.5.9.1 acrescenta que a avaliação deve definir a necessidade de retorno gradativo. Para o motorista, o momento é crítico: sequelas, medicamentos sedativos e descondicionamento podem comprometer a condução.",
+  "porAlt": [
+   "Errada: a NR-07 exige o retorno por doença ou acidente de natureza ocupacional ou não.",
+   "Errada: o exame de retorno deve ser feito antes de o empregado reassumir, e não depois.",
+   "Errada: o corte da norma é de 30 dias, e não de 60 dias.",
+   "Correta: afastamento de 30 dias ou mais, ocupacional ou não, exige exame de retorno antes de reassumir.",
+   "Errada: o exame de retorno ao trabalho é um dos cinco exames obrigatórios do item 7.5.6."
+  ]
+ },
+ {
+  "q": "Transportadora de grau de risco 3 desliga um motorista cujo último exame clínico ocupacional foi feito há 100 dias. Segundo a NR-07, o exame demissional:",
+  "alts": [
+   "Pode ser dispensado, pois a dispensa para grau de risco 3 exige exame feito há menos de 135 dias",
+   "Deve ser realizado, pois a dispensa para grau de risco 3 exige exame feito há menos de 90 dias",
+   "Pode ser dispensado, pois a NR-07 dispensa o demissional se houver ASO anterior de qualquer data",
+   "Deve ser realizado, pois a NR-07 não admite dispensar o demissional em nenhum grau de risco",
+   "Pode ser dispensado, pois a dispensa para grau de risco 3 exige exame feito há menos de 180 dias"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "Exame demissional",
+  "base": "NR-07 (Portaria SEPRT nº 6.734/2020), item 7.5.11.",
+  "coment": "Pelo item 7.5.11 da NR-07, no exame demissional o exame clínico deve ser realizado em até 10 DIAS contados do término do contrato, podendo ser DISPENSADO caso o exame clínico ocupacional mais recente tenha sido realizado há menos de 135 DIAS para organizações de GRAUS DE RISCO 1 E 2, e há menos de 90 DIAS para organizações de GRAUS DE RISCO 3 E 4. Na empresa de grau 3, o último exame de 100 dias atrás não está dentro dos 90 dias, e o demissional é obrigatório. A pegadinha é aplicar o prazo de 135 dias, que vale só para os graus 1 e 2. O demissional é também o momento do toxicológico de desligamento do motorista (CLT, art. 168, §6º).",
+  "porAlt": [
+   "Errada: 135 dias é o prazo de dispensa dos graus de risco 1 e 2, não do grau 3.",
+   "Correta: no grau de risco 3 a dispensa exige exame com menos de 90 dias, e 100 dias excede o prazo.",
+   "Errada: a dispensa depende de o último exame ter sido feito dentro do prazo do grau de risco.",
+   "Errada: a NR-07 admite a dispensa, desde que respeitados os prazos por grau de risco.",
+   "Errada: 180 dias não é prazo da NR-07; os cortes são 135 e 90 dias conforme o grau de risco."
+  ]
+ },
+ {
+  "q": "Segundo a NR-07, qual é a periodicidade do exame clínico periódico do motorista empregado exposto a riscos ocupacionais identificados e classificados no PGR?",
+  "alts": [
+   "A cada dois anos, podendo ser antecipado a critério do médico responsável pelo PCMSO",
+   "A cada três anos se tiver menos de 45 anos, a critério do médico responsável",
+   "A cada seis meses, sem possibilidade de alteração pelo médico responsável pelo PCMSO",
+   "A cada ano ou a intervalos menores, a critério do médico responsável pelo PCMSO",
+   "No prazo de renovação da CNH, pois o exame de trânsito substitui o exame periódico"
+  ],
+  "gab": 3,
+  "tema": "ocupacional",
+  "sub": "Periodicidade do exame periódico",
+  "base": "NR-07 (Portaria SEPRT nº 6.734/2020), item 7.5.8, II.",
+  "coment": "O item 7.5.8, II, da NR-07 fixa a periodicidade do exame clínico periódico: (a) para empregados EXPOSTOS A RISCOS OCUPACIONAIS identificados e classificados no PGR e para portadores de doenças crônicas que aumentem a susceptibilidade a tais riscos, A CADA ANO OU A INTERVALOS MENORES, a critério do médico responsável (ou conforme o Anexo IV, para condições hiperbáricas); (b) para os demais empregados, A CADA DOIS ANOS. A NR-07 vigente não usa mais faixas etárias para definir a periodicidade. O exame de aptidão física e mental do trânsito é exame distinto, com finalidade própria, e não substitui o periódico ocupacional.",
+  "porAlt": [
+   "Errada: dois anos é a periodicidade dos empregados não expostos a riscos classificados no PGR.",
+   "Errada: a NR-07 vigente não fixa periodicidade por faixa etária nem prazo de três anos.",
+   "Errada: seis meses não é a regra do exame clínico, e o médico pode reduzir o intervalo.",
+   "Correta: para expostos a riscos do PGR, exame a cada ano ou a intervalos menores, a critério do médico.",
+   "Errada: o exame de trânsito e o periódico ocupacional são distintos e um não substitui o outro."
+  ]
+ },
+ {
+  "q": "Motorista de van de entregas será transferido para dirigir caminhão-tanque com exposição a vapores de combustível. Segundo a NR-07, quando deve ser feito o exame de mudança de risco ocupacional?",
+  "alts": [
+   "Em até 30 dias após a mudança, adequando o controle médico aos riscos da nova função",
+   "No próximo exame periódico, quando os novos riscos já tiverem sido incluídos no PCMSO",
+   "Em até 10 dias após a mudança, como no prazo previsto para o exame clínico demissional",
+   "Obrigatoriamente antes da data da mudança, adequando o controle médico aos novos riscos",
+   "Só se o motorista apresentar sintomas ligados aos riscos da nova função que assumiu"
+  ],
+  "gab": 3,
+  "tema": "ocupacional",
+  "sub": "Exame de mudança de risco ocupacional",
+  "base": "NR-07 (Portaria SEPRT nº 6.734/2020), itens 7.5.6, 'd', e 7.5.10.",
+  "coment": "O exame de mudança de riscos ocupacionais é um dos cinco exames obrigatórios do PCMSO (item 7.5.6, 'd'). Segundo o item 7.5.10, ele deve, OBRIGATORIAMENTE, ser realizado ANTES DA DATA DA MUDANÇA, adequando-se o controle médico aos novos riscos. A lógica é preventiva: avaliar se o empregado está apto para os novos riscos e registrar a condição de base antes da exposição, para comparação futura. No caso, a passagem para o caminhão-tanque traz exposição química e exigências novas, e o exame deve anteceder a transferência. O prazo de 10 dias do término do contrato é regra do demissional.",
+  "porAlt": [
+   "Errada: a norma exige que o exame seja feito antes da mudança, e não até 30 dias depois.",
+   "Errada: o exame de mudança de risco é específico e não se confunde com o periódico.",
+   "Errada: o prazo de 10 dias é do exame demissional, e a mudança de risco exige exame prévio.",
+   "Correta: o item 7.5.10 manda realizar o exame obrigatoriamente antes da data da mudança.",
+   "Errada: o exame é obrigatório e não depende de sintomas relacionados aos novos riscos."
+  ]
+ },
+ {
+  "q": "Qual dos itens abaixo integra o conteúdo mínimo obrigatório do Atestado de Saúde Ocupacional (ASO) do motorista, segundo a NR-07?",
+  "alts": [
+   "Diagnóstico com o código da CID, com data e registro profissional do médico examinador",
+   "Resultado numérico de cada exame complementar, com os valores de referência usados",
+   "Parecer do sindicato da categoria sobre a aptidão, com assinatura do representante legal",
+   "Categoria da CNH e validade do exame de aptidão física e mental emitido pelo Detran",
+   "Definição de apto ou inapto para a função, com data e registro do médico examinador"
+  ],
+  "gab": 4,
+  "tema": "ocupacional",
+  "sub": "Conteúdo mínimo do ASO",
+  "base": "NR-07 (Portaria SEPRT nº 6.734/2020), itens 7.5.19 e 7.5.19.1.",
+  "coment": "Para cada exame clínico ocupacional, o médico emite o ASO, que deve ser comprovadamente disponibilizado ao empregado (item 7.5.19). O item 7.5.19.1 lista o conteúdo mínimo: razão social e CNPJ ou CAEPF da organização; nome completo do empregado, CPF e função; descrição dos perigos ou fatores de risco do PGR que necessitem controle médico, ou sua inexistência; indicação e data dos exames clínicos e complementares realizados; DEFINIÇÃO DE APTO OU INAPTO PARA A FUNÇÃO; nome e registro do médico responsável pelo PCMSO, se houver; e data, registro profissional e assinatura do médico que realizou o exame. A lista não inclui diagnóstico nem CID; os dados clínicos são registrados no prontuário médico individual (item 7.6.1).",
+  "porAlt": [
+   "Errada: o conteúdo mínimo do item 7.5.19.1 não inclui diagnóstico nem CID; dados clínicos vão ao prontuário.",
+   "Errada: o ASO indica quais exames foram feitos e a data, não os resultados numéricos.",
+   "Errada: a aptidão é definida pelo médico, e não há parecer sindical no ASO.",
+   "Errada: o ASO trata da aptidão ocupacional, não de dados da habilitação de trânsito.",
+   "Correta: a definição de apto ou inapto e a data e o registro do médico examinador constam do item 7.5.19.1."
+  ]
+ },
+ {
+  "q": "Segundo o glossário da NR-07, o que são 'atividades críticas', cuja avaliação do estado de saúde o PCMSO deve incluir?",
+  "alts": [
+   "Aquelas que exijam avaliação médica específica para definir a aptidão do empregado",
+   "Aquelas que expõem o empregado a agentes químicos acima dos limites de tolerância",
+   "Aquelas realizadas em condições hiperbáricas, como mergulho e trabalho em tubulões",
+   "Aquelas que resultaram em acidente de trabalho com afastamento superior a 15 dias",
+   "Aquelas executadas em turno noturno, em revezamento ou em jornada prolongada diária"
+  ],
+  "gab": 0,
+  "tema": "ocupacional",
+  "sub": "Atividades críticas no PCMSO",
+  "base": "NR-07 (Portaria SEPRT nº 6.734/2020), itens 7.3.2.2 e 7.5.3; Glossário.",
+  "coment": "O item 7.5.3 da NR-07 determina que o PCMSO inclua a avaliação do estado de saúde dos empregados em ATIVIDADES CRÍTICAS, considerando os riscos envolvidos e a investigação de patologias que possam impedir o exercício dessas atividades com segurança. O glossário define atividades críticas como 'aquelas que exijam avaliação médica específica para definir a aptidão do empregado'. A condução de veículos a serviço da empresa pode ser enquadrada pelo PCMSO nesse conceito, com investigação dirigida de sono, visão, uso de sedativos e doenças que causam perda súbita de consciência. Ao mesmo tempo, o item 7.3.2.2 lembra que o PCMSO não deve ter caráter de seleção de pessoal.",
+  "porAlt": [
+   "Correta: o glossário define atividades críticas como as que exigem avaliação médica específica de aptidão.",
+   "Errada: exposição química acima de limites é tema do Anexo I, não a definição de atividade crítica.",
+   "Errada: condições hiperbáricas têm anexo próprio (Anexo IV), mas não definem atividade crítica.",
+   "Errada: afastamento acima de 15 dias é critério previdenciário, não definição de atividade crítica.",
+   "Errada: turno e jornada não compõem a definição do glossário da NR-07."
+  ]
+ },
+ {
+  "q": "Motorista de caminhão exposto a ruído acima do nível de ação será desligado; sua última audiometria foi feita 100 dias antes do fim do contrato. Segundo o Anexo II da NR-07:",
+  "alts": [
+   "Não pode ser aceita, pois a norma só admite audiometria feita até 90 dias antes do desligamento",
+   "Não pode ser aceita, pois a audiometria demissional deve ser feita após o término do contrato",
+   "Pode ser aceita como demissional, pois a norma admite audiometria feita até 120 dias antes",
+   "Pode ser aceita como demissional, pois a norma admite audiometria feita até 180 dias antes",
+   "Não pode ser aceita, pois a audiometria só é exigida na admissão e nos exames periódicos"
+  ],
+  "gab": 2,
+  "tema": "ocupacional",
+  "sub": "Audiometria demissional",
+  "base": "NR-07, Anexo II, itens 2, 3.4, 4.1 e 4.1.1.",
+  "coment": "O Anexo II da NR-07 exige exames audiométricos de referência e sequenciais para todos os empregados que trabalham em ambientes com níveis de pressão sonora acima dos níveis de ação do PGR, independentemente do uso de protetor auditivo (item 2). A audiometria deve ser feita, no mínimo, NA ADMISSÃO, ANUALMENTE e NA DEMISSÃO (item 4.1), e na demissão PODE SER ACEITO exame realizado ATÉ 120 DIAS antes da data de finalização do contrato (item 4.1.1). O intervalo pode ser reduzido pelo médico do trabalho (4.2), e o empregado deve cumprir repouso auditivo mínimo de 14 horas antes do exame (3.4). Com 100 dias, a audiometria pode ser aceita.",
+  "porAlt": [
+   "Errada: o limite de aceitação da audiometria na demissão é de 120 dias, não de 90 dias.",
+   "Errada: a norma admite exame realizado antes do fim do contrato, dentro de 120 dias.",
+   "Correta: o item 4.1.1 admite na demissão audiometria feita até 120 dias antes do fim do contrato.",
+   "Errada: 180 dias excede o prazo de 120 dias fixado no item 4.1.1.",
+   "Errada: o item 4.1 inclui expressamente a audiometria na demissão."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus tem audiometria sequencial com limiares de 30 dB em 4.000 e 6.000 Hz, mais elevados que nas demais frequências, sugestiva de PAINPSE. Segundo o Anexo II da NR-07, qual é a conduta quanto à aptidão?",
+  "alts": [
+   "A PAINPSE indica inaptidão definitiva para a função, com emissão de CAT e afastamento imediato dela",
+   "A PAINPSE, por si só, não indica inaptidão; a aptidão é definida caso a caso pelo médico do trabalho",
+   "A PAINPSE indica inaptidão temporária até nova audiometria, repetida em 30 dias longe de ruído alto",
+   "A PAINPSE, por si só, não indica inaptidão; a aptidão é definida pelo perito do órgão de trânsito",
+   "A PAINPSE só indica inaptidão se passar de 25 dB em 500 Hz, frequência principal da fala coloquial"
+  ],
+  "gab": 1,
+  "tema": "ocupacional",
+  "sub": "PAINPSE e aptidão",
+  "base": "NR-07, Anexo II, itens 5.2, 6, 8 e 9.",
+  "coment": "O item 5.2 do Anexo II considera sugestivos de PAINPSE os audiogramas com limiares ACIMA DE 25 dB nas frequências de 3.000, 4.000 e/ou 6.000 Hz, mais elevados que nas demais frequências. O item 8 é taxativo: a PAINPSE, POR SI SÓ, NÃO É INDICATIVA DE INAPTIDÃO para o trabalho; a análise considera história clínica e ocupacional, otoscopia, idade, tempos e níveis de exposição, demanda auditiva da função, exposição a ototóxicos e programas de conservação auditiva. O diagnóstico conclusivo e a definição da aptidão cabem ao MÉDICO DO TRABALHO responsável pelo PCMSO (item 6); nos casos de desencadeamento ou agravamento, ele também deve incluí-lo no relatório analítico (item 9). A aptidão para a CNH é avaliação distinta, pelo Anexo III da Resolução CONTRAN nº 927/2022.",
+  "porAlt": [
+   "Errada: o item 8 afirma que a PAINPSE, por si só, não indica inaptidão para o trabalho.",
+   "Correta: a PAINPSE isolada não indica inaptidão, e a aptidão é definida pelo médico do trabalho do PCMSO.",
+   "Errada: a norma não prevê inaptidão temporária automática nem retestagem em 30 dias.",
+   "Errada: a aptidão ocupacional é atribuição do médico do trabalho do PCMSO, não do perito de trânsito.",
+   "Errada: a PAINPSE afeta tipicamente 3.000 a 6.000 Hz, e a norma não fixa esse corte em 500 Hz."
+  ]
+ },
+ {
+  "q": "Motorista de aplicativo, com a observação de atividade remunerada (EAR) na CNH, acumula 34 pontos em 12 meses, incluindo duas infrações gravíssimas. Segundo o CTB, qual é a situação?",
+  "alts": [
+   "Não é suspenso, pois com EAR o limite é de 40 pontos, qualquer que seja a natureza da infração",
+   "É suspenso, pois com duas infrações gravíssimas o limite de pontos cai para 20 em 12 meses",
+   "É suspenso, pois com qualquer infração gravíssima o limite de pontos cai para 30 em 12 meses",
+   "Não é suspenso, pois para quem exerce atividade remunerada o limite é de 60 pontos em 12 meses",
+   "É suspenso, pois quem exerce atividade remunerada tem limite fixo de 30 pontos em 12 meses"
+  ],
+  "gab": 0,
+  "tema": "ocupacional",
+  "sub": "Pontuação do condutor com EAR",
+  "base": "CTB, art. 261, I, e §§5º a 7º (redação da Lei nº 14.071/2020); CTB, art. 147, §5º.",
+  "coment": "Pelo art. 261, I, a suspensão por pontos ocorre, em 12 meses, com 20 pontos se houver 2 ou mais gravíssimas, 30 pontos se houver 1 gravíssima e 40 pontos se não houver gravíssima. Para o condutor que EXERCE ATIVIDADE REMUNERADA ao veículo, o §5º determina que a suspensão só seja imposta ao atingir o limite da alínea 'c' (40 PONTOS), INDEPENDENTEMENTE DA NATUREZA DAS INFRAÇÕES. O mesmo parágrafo faculta a ele um curso preventivo de reciclagem ao atingir 30 pontos em 12 meses. Concluído o curso, os pontos são eliminados (§6º), e não se pode repetir a opção em 12 meses (§7º). A informação de atividade remunerada consta da CNH (art. 147, §5º). Com 34 pontos, ele não é suspenso, mas já pode fazer o curso preventivo.",
+  "porAlt": [
+   "Correta: com EAR, a suspensão só ocorre aos 40 pontos, independentemente da natureza das infrações.",
+   "Errada: o corte de 20 pontos vale para o condutor comum; com EAR o limite é de 40 pontos.",
+   "Errada: o corte de 30 pontos vale para o condutor comum com 1 gravíssima; com EAR o limite é de 40.",
+   "Errada: o CTB não prevê 60 pontos; para quem exerce atividade remunerada o limite é de 40 pontos.",
+   "Errada: 30 pontos é o gatilho do curso preventivo facultativo, não da suspensão."
+  ]
+ }
+]

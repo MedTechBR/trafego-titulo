@@ -11,8 +11,8 @@
   "gab": 2,
   "tema": "alcool",
   "sub": "Procedimentos de fiscalização",
-  "base": "CTB, art. 277 e art. 165-A (redação da Lei nº 13.281/2016).",
-  "coment": "O art. 277 prevê que o condutor envolvido em sinistro de trânsito ou alvo de fiscalização seja submetido a teste, exame clínico, perícia ou outro procedimento que, por meios técnicos ou científicos, permita certificar influência de álcool ou outra substância psicoativa. A pluralidade de meios é deliberada e se articula com o art. 165-A, que torna a RECUSA a qualquer desses procedimentos infração gravíssima autônoma, com as mesmas penalidades do art. 165 — multa multiplicada por dez, suspensão do direito de dirigir por 12 meses, recolhimento do documento e retenção do veículo, com multa em dobro na reincidência em até 12 meses. Assim, recusar não é estratégia de defesa: gera a mesma punição administrativa.",
+  "base": "CTB, art. 277 e art. 165-A (redação da Lei nº 13.281/2016); Resolução CONTRAN nº 1.031/2026, arts. 3º e 9º.",
+  "coment": "O art. 277 prevê que o condutor envolvido em sinistro de trânsito ou alvo de fiscalização seja submetido a teste, exame clínico, perícia ou outro procedimento que, por meios técnicos ou científicos, permita certificar influência de álcool ou outra substância psicoativa. A Resolução CONTRAN nº 1.031/2026, que disciplina o artigo e revogou a 432/2013, organiza esses meios: para o álcool, etilômetro ou constatação de sinais; para outras substâncias, teste em aparelho certificado ou sinais, com prioridade para os testes (art. 3º); exame de sangue, exame clínico com laudo de médico perito e exames laboratoriais ficam como provas suplementares do crime, a critério da autoridade policial (art. 9º, IV a VI e §3º). A RECUSA a qualquer desses procedimentos é infração gravíssima autônoma (art. 165-A), com as mesmas penalidades do art. 165 — multa multiplicada por dez e suspensão do direito de dirigir por 12 meses, com multa em dobro na reincidência em até 12 meses. Assim, recusar não é estratégia de defesa: gera a mesma punição administrativa.",
   "porAlt": [
    "O etilômetro é apenas um dos meios possíveis, não sendo o único admitido pela legislação vigente.",
    "O exame de sangue é um dos meios possíveis, mas a lei não o torna exclusivo nem obrigatório.",
@@ -253,14 +253,14 @@
   "gab": 0,
   "tema": "alcool",
   "sub": "Penalidade da recusa ao teste",
-  "base": "CTB, art. 165-A (incluído pela Lei nº 13.281/2016).",
-  "coment": "O art. 165-A tipifica a recusa a ser submetido a teste, exame clínico, perícia ou outro procedimento do art. 277 como infração GRAVÍSSIMA, com multa multiplicada por DEZ e suspensão do direito de dirigir por 12 meses, além das medidas administrativas de recolhimento do documento de habilitação e retenção do veículo, observado o §4º do art. 270. O parágrafo único prevê multa em dobro na reincidência em até 12 meses. São exatamente as mesmas consequências do art. 165 — o que retira qualquer vantagem prática da recusa. Além disso, a recusa não impede a caracterização do crime do art. 306, que pode ser constatado por sinais de alteração da capacidade psicomotora ou por outros meios de prova.",
+  "base": "CTB, art. 165-A (incluído pela Lei nº 13.281/2016); Resolução CONTRAN nº 1.031/2026, arts. 8º e 12.",
+  "coment": "O art. 165-A tipifica a recusa a ser submetido a teste, exame clínico, perícia ou outro procedimento do art. 277 como infração GRAVÍSSIMA, com multa multiplicada por DEZ e suspensão do direito de dirigir por 12 meses; o parágrafo único prevê multa em dobro na reincidência em até 12 meses. O texto do CTB lista ainda como medidas administrativas o recolhimento do documento de habilitação e a retenção do veículo, mas a Resolução CONTRAN nº 1.031/2026 (art. 12) determina que o agente não recolha o documento. São as mesmas consequências do art. 165 — o que retira qualquer vantagem prática da recusa. E a Resolução 1.031 fecha a porta: a recusa leva ao art. 165-A desde que NÃO estejam presentes pelo menos dois sinais de alteração da capacidade psicomotora; presentes dois ou mais sinais, aplica-se o próprio art. 165, sem prejuízo do crime do art. 306 (art. 8º, §§1º e 2º). O condutor também não escolhe a modalidade de verificação (art. 8º, §3º).",
   "porAlt": [
    "Correta: gravíssima, multa multiplicada por dez e suspensão do direito de dirigir por doze meses.",
    "A infração é gravíssima, e não grave, com multa multiplicada e suspensão de doze meses.",
    "A infração não é média, e a suspensão do direito de dirigir está expressamente prevista na lei.",
    "Não há previsão de advertência por escrito para a recusa, que é infração gravíssima desde a primeira.",
-   "A multa é multiplicada por dez e há recolhimento do documento e retenção do veículo conduzido."
+   "A multa é multiplicada por dez, não simples, e há suspensão por doze meses e retenção do veículo."
   ]
  }
 ]

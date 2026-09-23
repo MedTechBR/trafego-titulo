@@ -1,0 +1,596 @@
+[
+ {
+  "q": "Motorista habilitado na categoria B é contratado para conduzir uma van de passageiros com 12 lugares, excluído o do motorista, e peso bruto total de 3.400 kg. Segundo o art. 143 do CTB, em qual categoria ele precisa estar habilitado?",
+  "alts": [
+   "Categoria D, pois a lotação excede oito lugares, excluído o do motorista, mesmo com PBT abaixo de 3.500 kg",
+   "Categoria B, pois o peso bruto total do veículo não excede três mil e quinhentos quilogramas, que é o limite dela",
+   "Categoria C, pois todo veículo utilitário de uso comercial exige a categoria imediatamente superior à categoria B",
+   "Categoria E, pois o transporte de passageiros acima de oito lugares é atribuição privativa da última categoria",
+   "Categoria B com curso especializado, pois a lotação só pesa no enquadramento quando o PBT supera 3.500 kg"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Categorias de habilitação (art. 143)",
+  "base": "CTB, art. 143, II e IV (redação da Lei nº 14.440/2022).",
+  "coment": "O art. 143 define a categoria B pelo veículo motorizado não abrangido pela A 'cujo peso bruto total não exceda a três mil e quinhentos quilogramas E cuja lotação não exceda a oito lugares, excluído o do motorista'. Os dois limites são cumulativos. A categoria D (inciso IV, redação da Lei nº 14.440/2022) abrange os veículos das categorias B e C e o veículo motorizado de transporte de passageiros cuja lotação exceda oito lugares, excluído o do motorista. Logo, a van de 12 lugares exige a D, mesmo com PBT de 3.400 kg. A pegadinha é olhar só o peso. Lembre ainda que o art. 145 impõe requisitos próprios para a D (maior de 21 anos, tempo de habilitação, cursos).",
+  "porAlt": [
+   "Correta: a categoria B exige, cumulativamente, PBT até 3.500 kg E lotação até oito lugares; excedida a lotação em transporte de passageiros, a categoria é a D.",
+   "O PBT dentro do limite não basta: a categoria B também limita a lotação a oito lugares, excluído o do motorista.",
+   "A categoria C é definida pelo transporte de carga com PBT acima de 3.500 kg, não por ser utilitário comercial.",
+   "A categoria E é a de combinação de veículos; o transporte de mais de oito passageiros em veículo simples é da D.",
+   "Os dois critérios da categoria B são independentes; basta exceder a lotação para sair da B, e curso não substitui categoria."
+  ]
+ },
+ {
+  "q": "Condutor habilitado na categoria B pretende tracionar, com sua caminhonete (unidade tratora enquadrada na categoria B), um reboque de 2.000 kg de peso bruto total, sem passageiros. Respeitada a capacidade máxima de tração, qual é a situação segundo o art. 143 do CTB?",
+  "alts": [
+   "Precisa da categoria E, pois toda combinação de veículos com reboque exige a categoria específica de combinação",
+   "Pode conduzir a combinação na própria categoria B, pois a unidade acoplada tem menos de 6.000 kg de PBT",
+   "Precisa da categoria C, pois a soma do peso da caminhonete com o do reboque ultrapassa o limite de 3.500 kg",
+   "Pode conduzir só se o reboque tiver menos de 750 kg, que é o limite de reboque previsto para a categoria B",
+   "Pode conduzir desde que tenha ao menos um ano na categoria B e nenhuma infração gravíssima em 12 meses"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Combinação de veículos na categoria B (art. 143, §4º)",
+  "base": "CTB, art. 143, V e §4º (incluído pela Lei nº 14.440/2022).",
+  "coment": "A categoria E (art. 143, V) é a do condutor de combinação de veículos cuja unidade tratora se enquadre nas categorias B, C ou D e cuja unidade acoplada (reboque, semirreboque, trailer ou articulada) tenha 6.000 kg ou mais de PBT, ou lotação acima de oito lugares. O §4º, incluído pela Lei nº 14.440/2022, completa a regra: respeitada a capacidade máxima de tração da unidade tratora, os condutores das categorias B, C e D podem conduzir combinação cuja tratora se enquadre na sua categoria e cuja unidade acoplada tenha menos de 6.000 kg de PBT e lotação até oito lugares. Atenção ao §3º: com mais de uma unidade tracionada, exige-se a E independentemente do peso.",
+  "porAlt": [
+   "A categoria E só é exigida quando a unidade acoplada tem 6.000 kg ou mais de PBT ou lotação acima de oito lugares.",
+   "Correta: o §4º do art. 143 permite a B, C e D conduzir combinação cuja tratora seja da respectiva categoria e cuja unidade acoplada tenha menos de 6.000 kg de PBT e lotação até oito lugares.",
+   "O CTB não soma os pesos para esse fim: o critério é o PBT da unidade acoplada, inferior a 6.000 kg no caso.",
+   "O limite de 750 kg não consta do art. 143; o parâmetro legal para a unidade acoplada é inferior a 6.000 kg.",
+   "Esses requisitos de tempo e de infrações gravíssimas se referem à obtenção da categoria C, não à combinação na B."
+  ]
+ },
+ {
+  "q": "Segundo o §2º-A do art. 143 do CTB, incluído pela Lei nº 15.503/2026, o condutor da categoria B está autorizado a conduzir veículo a motor de propulsão elétrica, ou híbrido com tração predominantemente elétrica, com peso bruto total de até:",
+  "alts": [
+   "4.250 kg, observados eventuais critérios adicionais dispostos em regulamento do Contran",
+   "3.500 kg, que é o mesmo limite de peso aplicado aos veículos a combustão da categoria B",
+   "6.000 kg, o mesmo limite de peso previsto para o motor-casa conduzido na categoria B",
+   "5.000 kg, desde que a lotação não exceda oito lugares, excluído o lugar do motorista",
+   "4.500 kg, desde que o condutor tenha ao menos um ano de habilitação prévia na categoria B"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Veículo elétrico na categoria B (Lei 15.503/2026)",
+  "base": "CTB, art. 143, §2º-A (incluído pelo art. 14 da Lei nº 15.503/2026, em vigor desde a publicação em 14/09/2026 — art. 19).",
+  "coment": "A Lei nº 15.503/2026 incluiu o §2º-A no art. 143: 'São os condutores da categoria B autorizados a conduzir veículo a motor de propulsão elétrica ou híbrida com tração predominantemente elétrica com peso bruto total de até 4.250 kg, observados eventuais critérios adicionais dispostos em regulamento do Contran'. A Lei nº 15.503, de 14/09/2026 (conversão da MP nº 1.366/2026), entrou em vigor na data da publicação (DOU de 14/09/2026, edição extra), sem vacatio legis. Não confunda com o §2º (motor-casa até 6.000 kg ou lotação até oito lugares) nem com o §4º (combinação com unidade acoplada abaixo de 6.000 kg). Alteração de 2026: é o tipo de novidade legislativa que costuma cair.",
+  "porAlt": [
+   "Correta: é exatamente o que diz o §2º-A do art. 143, incluído pela Lei nº 15.503/2026.",
+   "O §2º-A criou limite próprio, maior que os 3.500 kg da regra geral, para o elétrico ou híbrido predominantemente elétrico.",
+   "Os 6.000 kg são do motor-casa (§2º); para o elétrico o teto é de 4.250 kg.",
+   "O valor de 5.000 kg não consta da lei; o limite do elétrico na categoria B é de 4.250 kg.",
+   "Não há exigência de tempo de habilitação no §2º-A, e o limite legal é de 4.250 kg."
+  ]
+ },
+ {
+  "q": "Condutor de 25 anos, habilitado há 14 meses na categoria B, deseja habilitar-se na categoria C. Nos últimos 12 meses cometeu duas infrações gravíssimas. Segundo o art. 143, §1º, do CTB, qual é a situação?",
+  "alts": [
+   "Pode habilitar-se na C, pois já cumpriu o tempo mínimo de um ano de habilitação na categoria B",
+   "Não pode habilitar-se na C, pois precisaria de no mínimo dois anos de habilitação na categoria B",
+   "Pode habilitar-se na C, pois o limite de infrações gravíssimas só vale para as categorias D e E",
+   "Não pode habilitar-se na C, pois a categoria exige idade mínima de vinte e um anos e curso prévio",
+   "Não pode habilitar-se na C, pois cometeu mais de uma infração gravíssima nos últimos doze meses"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Requisitos da categoria C (art. 143, §1º)",
+  "base": "CTB, art. 143, §1º (redação da Lei nº 14.440/2022).",
+  "coment": "Pelo §1º do art. 143, com a redação da Lei nº 14.440/2022, 'para habilitar-se na categoria C, o condutor deverá estar habilitado no mínimo há 1 (um) ano na categoria B e não ter cometido mais de uma infração gravíssima nos últimos 12 (doze) meses'. Os requisitos são cumulativos: ele tem tempo suficiente, mas duas gravíssimas o impedem. Compare com o art. 145 (D e E): maior de 21 anos, dois anos na B ou um na C para a D, um ano na C para a E, não mais de uma gravíssima em 12 meses e cursos especializados. A C não exige 21 anos.",
+  "porAlt": [
+   "O tempo de um ano está cumprido, mas os requisitos são cumulativos e o de infrações não foi atendido.",
+   "Para a C bastam um ano na B; os dois anos na B são exigência para a categoria D (art. 145).",
+   "O §1º do art. 143 exige também para a C não ter mais de uma infração gravíssima em 12 meses.",
+   "Maior de 21 anos e curso especializado são requisitos do art. 145 para D e E, não para a C; ele tem 25 anos.",
+   "Correta: o §1º exige um ano na B E não ter cometido mais de uma gravíssima em 12 meses; o segundo requisito falhou."
+  ]
+ },
+ {
+  "q": "Mulher de 24 anos, habilitada há 18 meses na categoria B e sem infrações, pretende habilitar-se na categoria D para conduzir ônibus. Segundo o art. 145 do CTB, qual é a situação?",
+  "alts": [
+   "Já pode: basta ser maior de vinte e um anos e ter mais de um ano na B",
+   "Ainda não pode: para a D exigem-se vinte e cinco anos e três anos na B",
+   "Ainda não pode: para a D exige-se ao menos dois anos na B ou um ano na C",
+   "Já pode: o tempo de habilitação só é exigido de quem pretende a categoria E",
+   "Ainda não pode: para a D exigem-se dois anos prévios de habilitação na C"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Requisitos da categoria D (art. 145)",
+  "base": "CTB, art. 145, I a IV.",
+  "coment": "Para habilitar-se nas categorias D e E, ou conduzir transporte coletivo, escolares, emergência ou produto perigoso, o art. 145 exige: (I) ser maior de 21 anos; (II) estar habilitado no mínimo há dois anos na B, ou há um ano na C, para a D, e há um ano na C para a E; (III) não ter cometido mais de uma infração gravíssima nos últimos 12 meses (Lei nº 14.071/2020); (IV) aprovação em curso especializado e em curso de prática veicular em situação de risco. A candidata tem idade e ficha limpa, mas só 18 meses na B. Pegadinha clássica: confundir o um ano na B (exigido para a C) com os dois anos exigidos para a D.",
+  "porAlt": [
+   "A idade está atendida, mas o tempo mínimo na B para a D é de dois anos, não de um.",
+   "A idade mínima do art. 145 é 'maior de vinte e um anos', e o tempo na B é de dois anos.",
+   "Correta: o art. 145, II, a, exige, para a D, no mínimo dois anos na B ou um ano na C; ela tem só 18 meses na B.",
+   "O art. 145 prevê tempo mínimo de habilitação tanto para a D quanto para a E.",
+   "Não é obrigatório passar pela C: dois anos na B bastam; e, pela C, o tempo seria de um ano."
+  ]
+ },
+ {
+  "q": "Candidato pretende habilitar-se na categoria E. Qual das exigências abaixo NÃO consta do art. 145 do CTB?",
+  "alts": [
+   "Ser maior de vinte e um anos de idade na data do requerimento da nova categoria",
+   "Ter exercido atividade remunerada ao volante por no mínimo dois anos consecutivos",
+   "Estar habilitado no mínimo há um ano na categoria C antes de requerer a categoria E",
+   "Não ter cometido mais de uma infração gravíssima nos doze meses anteriores ao pedido",
+   "Ser aprovado em curso especializado e em curso de prática veicular em situação de risco"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Requisitos da categoria E (art. 145) — qual NÃO",
+  "base": "CTB, art. 145, I a IV e parágrafo único.",
+  "coment": "O art. 145 lista quatro requisitos para as categorias D e E (e para conduzir transporte coletivo de passageiros, escolares, emergência ou produto perigoso): maior de 21 anos; tempo mínimo de habilitação (para a E, um ano na C); não mais de uma infração gravíssima nos últimos 12 meses; e aprovação em curso especializado e em curso de treinamento de prática veicular em situação de risco. O parágrafo único esclarece que a participação no curso especializado independe do requisito de infrações. Não há exigência de experiência prévia em atividade remunerada. Lembre que, além disso, a categoria E está sujeita ao exame toxicológico do art. 148-A.",
+  "porAlt": [
+   "É requisito do art. 145, I: ser maior de vinte e um anos.",
+   "Correta: o art. 145 não exige experiência prévia em atividade remunerada ao volante.",
+   "É requisito do art. 145, II, b: estar habilitado há no mínimo um ano na C para a E.",
+   "É requisito do art. 145, III, na redação da Lei nº 14.071/2020.",
+   "É requisito do art. 145, IV, nos termos da normatização do Contran."
+  ]
+ },
+ {
+  "q": "Técnico de enfermagem habilitado na categoria D quer passar a conduzir a ambulância do serviço. Além dos requisitos do art. 145, o que o art. 145-A do CTB exige dele?",
+  "alts": [
+   "Treinamento especializado e reciclagem em cursos específicos a cada três anos, nos termos do Contran",
+   "Curso de socorrista reconhecido pelo Ministério da Saúde, renovado a cada dois anos de atividade",
+   "Exame de aptidão física e mental a cada ano e avaliação psicológica a cada renovação da habilitação",
+   "Habilitação há pelo menos um ano na categoria E, sem nenhuma infração gravíssima nesse mesmo período",
+   "Treinamento especializado e reciclagem em cursos específicos a cada cinco anos, nos termos do Contran"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Condutor de ambulância (art. 145-A)",
+  "base": "CTB, art. 145-A (incluído pela Lei nº 12.998/2014) e art. 145.",
+  "coment": "O art. 145 já estende seus requisitos (maior de 21 anos, tempo de habilitação, limite de gravíssimas e cursos especializados) a quem conduz veículo de emergência. O art. 145-A, incluído pela Lei nº 12.998/2014, acrescenta para as ambulâncias: 'o candidato deverá comprovar treinamento especializado e reciclagem em cursos específicos a cada 5 (cinco) anos, nos termos da normatização do Contran'. Para o médico do tráfego, o ponto interessa na orientação de profissionais de saúde que assumem a condução. Não confunda com a reciclagem do art. 268, que é penalidade/medida ligada a infrações e sinistros, nem com a periodicidade do exame de aptidão física e mental.",
+  "porAlt": [
+   "A periodicidade legal da reciclagem é de cinco anos, não de três.",
+   "O CTB não vincula a condução de ambulância a curso do Ministério da Saúde; fala em cursos normatizados pelo Contran.",
+   "O CTB não cria exame de aptidão anual para condutor de ambulância; a periodicidade segue o art. 147, §2º.",
+   "Não se exige categoria E; o art. 145 trata o veículo de emergência como hipótese própria de requisitos.",
+   "Correta: o art. 145-A exige treinamento especializado e reciclagem em cursos específicos a cada 5 anos, conforme o Contran."
+  ]
+ },
+ {
+  "q": "Produtor rural habilitado apenas na categoria B precisa conduzir, em via pública, um trator de roda destinado a trabalho agrícola. Segundo o art. 144 do CTB, qual é a situação?",
+  "alts": [
+   "Não pode conduzi-lo, pois trator de roda em via pública exige habilitação nas categorias C, D ou E",
+   "Pode conduzi-lo só dentro da propriedade, pois na via pública se exige no mínimo a categoria C",
+   "Não pode conduzi-lo, pois equipamento agrícola na via exige autorização municipal específica",
+   "Pode conduzi-lo, pois o parágrafo único admite a B para trator de roda e equipamento agrícola",
+   "Pode conduzi-lo só se somar à categoria B a Autorização para Conduzir Ciclomotor em vigor"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Trator e equipamento agrícola (art. 144)",
+  "base": "CTB, art. 144, caput e parágrafo único (incluído pela Lei nº 13.097/2015).",
+  "coment": "O caput do art. 144 dispõe que o trator de roda, o de esteira, o misto e o equipamento automotor destinado a movimentação de cargas ou trabalho agrícola, de terraplenagem, construção ou pavimentação só podem ser conduzidos na via pública por condutor habilitado nas categorias C, D ou E. O parágrafo único, incluído pela Lei nº 13.097/2015, abre a exceção: 'o trator de roda e os equipamentos automotores destinados a executar trabalhos agrícolas poderão ser conduzidos em via pública também por condutor habilitado na categoria B'. A pegadinha é responder pelo caput e esquecer a exceção. Trator de esteira e máquinas de terraplenagem continuam exigindo C, D ou E.",
+  "porAlt": [
+   "Essa é a regra do caput, mas o parágrafo único abre exceção para a B no trator de roda e no equipamento agrícola.",
+   "A exceção do parágrafo único vale justamente para a via pública, e não exige a categoria C.",
+   "A autorização municipal é para veículos de propulsão humana e tração animal (art. 141, §1º), não para tratores.",
+   "Correta: o parágrafo único do art. 144 (Lei nº 13.097/2015) permite a categoria B para trator de roda e equipamentos agrícolas.",
+   "A ACC se refere a ciclomotores e não tem relação com a condução de tratores."
+  ]
+ },
+ {
+  "q": "Segundo o art. 148-A do CTB, qual é a janela de detecção mínima exigida no exame toxicológico dos condutores das categorias C, D e E?",
+  "alts": [
+   "Trinta dias, para aferir o consumo de substâncias psicoativas que comprometam a direção",
+   "Cento e oitenta dias, para aferir o uso de substâncias psicoativas que afetem a direção",
+   "Sessenta dias, com amostra de urina colhida no mesmo dia do exame de aptidão física e mental",
+   "Noventa dias na primeira habilitação e trinta dias nas renovações periódicas seguintes",
+   "Noventa dias, para aferir o consumo de substâncias psicoativas que comprometam a direção"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Exame toxicológico: janela de detecção (art. 148-A, §1º)",
+  "base": "CTB, art. 148-A, caput e §1º (incluído pela Lei nº 13.103/2015).",
+  "coment": "O caput do art. 148-A (redação da Lei nº 14.071/2020) exige dos condutores das categorias C, D e E resultado negativo em exame toxicológico para obter e renovar a CNH. O §1º define o objeto e a técnica: o exame 'buscará aferir o consumo de substâncias psicoativas que, comprovadamente, comprometam a capacidade de direção e deverá ter janela de detecção mínima de 90 (noventa) dias, nos termos das normas do Contran'. É por isso que se fala em exame de larga janela de detecção, distinto do teste de alcoolemia ou de triagem pontual feito na fiscalização. Não confundir os 90 dias com os 30 dias de tolerância após o vencimento do exame periódico (arts. 165-B e 165-D).",
+  "porAlt": [
+   "Trinta dias é o prazo de tolerância do art. 165-D, não a janela de detecção do exame.",
+   "A lei fixa o mínimo em noventa dias; cento e oitenta não é o parâmetro legal.",
+   "A janela mínima é de noventa dias, e a lei não vincula a coleta ao dia do exame de aptidão.",
+   "A janela mínima de noventa dias vale para todos os exames do art. 148-A, sem distinção.",
+   "Correta: o §1º do art. 148-A fixa janela de detecção mínima de 90 dias, nos termos das normas do Contran."
+  ]
+ },
+ {
+  "q": "Motorista da categoria E dirige caminhão sem ter realizado o exame toxicológico exigido pelo art. 148-A do CTB. Na primeira ocorrência, qual é o enquadramento previsto no art. 165-B?",
+  "alts": [
+   "Infração gravíssima, com multa multiplicada por dez e suspensão do direito de dirigir por 12 meses",
+   "Infração grave, com multa simples e retenção do veículo até a apresentação de condutor habilitado",
+   "Infração gravíssima, com multa multiplicada por três e cassação imediata do documento de habilitação",
+   "Infração gravíssima, com multa multiplicada por cinco; suspensão só na reincidência em 12 meses",
+   "Crime de trânsito, com detenção de seis meses a um ano e suspensão do direito de dirigir veicular"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Dirigir sem o exame toxicológico (art. 165-B)",
+  "base": "CTB, art. 165-B (redação da Lei nº 14.599/2023) e art. 148-A, §8º.",
+  "coment": "O art. 165-B tipifica 'dirigir veículo sem realizar o exame toxicológico previsto no art. 148-A': infração gravíssima, penalidade de multa (cinco vezes) e, em caso de reincidência no período de até 12 meses, multa (dez vezes) e suspensão do direito de dirigir. O parágrafo único esclarece que, para o exame periódico do §2º, a infração se configura quando o condutor dirigir após o trigésimo dia do vencimento. O §8º do art. 148-A acrescenta que a não realização impede obter ou renovar a CNH até exame negativo. Diferencie do 165-C (dirigir com resultado positivo) e do 165-D (deixar de fazer o periódico, mesmo sem dirigir).",
+  "porAlt": [
+   "Multa dez vezes com suspensão de 12 meses é a penalidade do art. 165 (álcool), não a do 165-B.",
+   "A infração do art. 165-B é gravíssima, não grave.",
+   "O art. 165-B não prevê multa triplicada nem cassação.",
+   "Correta: o art. 165-B prevê gravíssima com multa (cinco vezes) e, na reincidência em 12 meses, multa (dez vezes) e suspensão.",
+   "Não se trata de crime: o art. 165-B está no capítulo das infrações administrativas."
+  ]
+ },
+ {
+  "q": "Condutor de 45 anos, categoria D, deixa vencer o prazo do exame toxicológico periódico do §2º do art. 148-A. Segundo o art. 165-D do CTB, a partir de quando se configura a infração e quem aplica a penalidade?",
+  "alts": [
+   "Após trinta dias do vencimento; aplica-a o órgão executivo de trânsito de registro da CNH",
+   "No dia seguinte ao vencimento; aplica-a o órgão com circunscrição sobre a via da abordagem",
+   "Após sessenta dias do vencimento; aplica-a o órgão máximo executivo de trânsito da União",
+   "Após trinta dias do vencimento; aplica-a a JARI vinculada ao órgão de trânsito do domicílio",
+   "Após noventa dias, prazo coincidente com a janela mínima de detecção do próprio exame"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Deixar de fazer o toxicológico periódico (art. 165-D)",
+  "base": "CTB, art. 165-D e parágrafo único (incluídos pela Lei nº 14.599/2023); art. 148-A, §9º.",
+  "coment": "O art. 165-D tipifica 'deixar de realizar o exame toxicológico previsto no §2º do art. 148-A, após 30 (trinta) dias do vencimento do prazo estabelecido': infração gravíssima, multa (cinco vezes). O parágrafo único atribui a competência 'ao órgão ou entidade executivos de trânsito de registro da CNH do infrator' — é uma infração de prontuário, que não depende de flagrante na via. Se, além disso, o condutor dirigir após o trigésimo dia, incide também o art. 165-B. O §9º do art. 148-A manda o órgão máximo executivo da União avisar o vencimento com 30 dias de antecedência, pela notificação eletrônica do art. 282-A.",
+  "porAlt": [
+   "Correta: o art. 165-D fala em 'após 30 (trinta) dias do vencimento' e seu parágrafo único atribui a competência ao órgão de registro da CNH.",
+   "Há tolerância de trinta dias, e a infração independe de abordagem na via.",
+   "O prazo é de trinta dias, e a competência é do órgão executivo de registro da CNH, não da União.",
+   "A JARI julga recursos (art. 17); não aplica penalidades.",
+   "Os noventa dias são a janela de detecção (§1º do art. 148-A), não o prazo de tolerância."
+  ]
+ },
+ {
+  "q": "Condutor é abordado em fiscalização com a CNH vencida há 20 dias. Considerando o art. 162, V, do CTB, é correto afirmar que:",
+  "alts": [
+   "Incide infração gravíssima, com multa e retenção do veículo até vir condutor com habilitação válida",
+   "Não incide o inciso V, que exige CNH vencida há mais de trinta dias para configurar a infração",
+   "Incide infração grave, com multa e recolhimento da CNH até a renovação do exame de aptidão física",
+   "Incide infração média, com multa, por se tratar de documento vencido há menos de sessenta dias",
+   "Incide o crime do art. 309, pois dirigir com a CNH vencida equivale a dirigir sem a habilitação"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "CNH vencida (art. 162, V)",
+  "base": "CTB, art. 162, V (redação da Lei nº 14.440/2022).",
+  "coment": "O art. 162, V, na redação da Lei nº 14.440/2022, tipifica dirigir 'com Carteira Nacional de Habilitação vencida há mais de 30 (trinta) dias': infração gravíssima, multa e retenção do veículo até a apresentação de condutor habilitado. Com 20 dias de vencimento, não se configura essa infração. O mesmo marco de 30 dias aparece em outros pontos: o art. 268-A exclui do RNPC quem tem a CNH vencida há mais de 30 dias, e o art. 159, §12, manda avisar o condutor 30 dias antes do vencimento. Lembre que a validade da CNH depende do exame de aptidão física e mental (art. 159, §10).",
+  "porAlt": [
+   "A infração gravíssima com retenção só se configura após trinta dias do vencimento.",
+   "Correta: pela redação da Lei nº 14.440/2022, o inciso V pune dirigir com a CNH vencida há mais de 30 dias.",
+   "O inciso V não prevê infração grave nem recolhimento; e o prazo de vinte dias não a configura.",
+   "O CTB não prevê infração média nem prazo de sessenta dias para a CNH vencida.",
+   "O art. 309 pune dirigir sem habilitação ou com ela cassada, gerando perigo de dano; CNH vencida não se equipara."
+  ]
+ },
+ {
+  "q": "Proprietário entrega a direção do seu carro a um amigo habilitado que, após plantão de 36 horas, mal consegue manter os olhos abertos. No plano administrativo, qual é o enquadramento do proprietário segundo o CTB?",
+  "alts": [
+   "Infração média do art. 252, com multa, por permitir a condução com incapacidade física temporária",
+   "Nenhuma infração, pois o amigo é habilitado e a responsabilidade recai apenas sobre quem conduz",
+   "Infração gravíssima do art. 166, com multa, por confiar a direção a quem não tem condições físicas",
+   "Infração gravíssima do art. 163, com multa triplicada, por entregar a direção a pessoa inabilitada",
+   "Infração grave do art. 166, com multa e retenção do veículo até a apresentação de outro condutor"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Confiar a direção a quem não tem condições (art. 166)",
+  "base": "CTB, art. 166; comparar com arts. 163 e 310.",
+  "coment": "O art. 166 tipifica 'confiar ou entregar a direção de veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança': infração gravíssima, penalidade de multa. É a figura que alcança o dono do veículo quando o condutor é habilitado mas está sem condições (sonolência extrema, intoxicação, doença aguda). Se o condutor não fosse habilitado, estivesse suspenso ou com categoria diferente, incidiria o art. 163. Na esfera penal, o art. 310 pune permitir, confiar ou entregar a direção a quem, por seu estado de saúde física ou mental ou por embriaguez, não esteja em condições de conduzir com segurança.",
+  "porAlt": [
+   "O art. 252, III, pune quem dirige com incapacidade temporária; quem entrega a direção responde pelo art. 166.",
+   "O art. 166 alcança justamente quem entrega a direção a pessoa habilitada sem condições físicas ou psíquicas.",
+   "Correta: o art. 166 pune confiar ou entregar a direção a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não está em condições: gravíssima, multa.",
+   "O art. 163 remete ao art. 162 (não habilitado, suspenso etc.); o amigo é habilitado.",
+   "A infração do art. 166 é gravíssima e sua penalidade é só a multa."
+  ]
+ },
+ {
+  "q": "Condutor com o braço direito imobilizado por tala após entorse recente, condição que compromete a segurança do trânsito, é flagrado dirigindo. Qual é o enquadramento previsto no art. 252 do CTB?",
+  "alts": [
+   "Dirigir com incapacidade física ou mental temporária que compromete a segurança: média, multa",
+   "Dirigir com incapacidade física temporária: infração gravíssima, com multa e suspensão do direito",
+   "Dirigir sem a adaptação imposta na habilitação: infração gravíssima, com multa e retenção do veículo",
+   "Dirigir com uma só das mãos: infração gravíssima, por equiparação ao uso do telefone celular",
+   "Dirigir sem atenção ou sem os cuidados indispensáveis à segurança: infração leve, com multa"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Incapacidade física temporária (art. 252, III)",
+  "base": "CTB, art. 252, III, V e parágrafo único; art. 169.",
+  "coment": "O art. 252 reúne condutas de natureza média, punidas com multa, entre elas dirigir 'III - com incapacidade física ou mental temporária que comprometa a segurança do trânsito'. É o tipo aplicável a lesões agudas, efeitos transitórios de medicamentos ou pós-operatório imediato, situações frequentes na orientação do médico do tráfego. Não confundir com o art. 162, VI (descumprir restrição imposta na habilitação, gravíssima) nem com o art. 169 (dirigir sem atenção, leve). O parágrafo único do art. 252 transforma em gravíssima apenas a hipótese do inciso V (uma só mão) quando o condutor está segurando ou manuseando telefone celular.",
+  "porAlt": [
+   "Correta: o art. 252, III, pune dirigir 'com incapacidade física ou mental temporária que comprometa a segurança do trânsito': média, multa.",
+   "A infração do art. 252, III, é média e não prevê suspensão do direito de dirigir.",
+   "O art. 162, VI, pressupõe adaptação imposta na habilitação; a tala decorre de lesão aguda, não de restrição pericial.",
+   "Dirigir com uma das mãos (art. 252, V) só vira gravíssima se o condutor segurar ou manusear celular.",
+   "O art. 169 é tipo genérico; a incapacidade física temporária tem tipo específico no art. 252, III."
+  ]
+ },
+ {
+  "q": "Qual é a diferença de enquadramento, no art. 244 do CTB, entre conduzir motocicleta sem capacete e conduzi-la com capacete sem viseira nem óculos de proteção?",
+  "alts": [
+   "Ambas são gravíssimas, com multa e suspensão do direito de dirigir e retenção até regularização",
+   "Sem capacete é gravíssima, com suspensão; sem viseira ou óculos é grave, com apreensão do veículo",
+   "Sem capacete é gravíssima, com suspensão do direito de dirigir; sem viseira ou óculos é média",
+   "Sem capacete é grave, com retenção do veículo; sem viseira ou óculos é leve, com advertência",
+   "Ambas são médias, com multa e retenção do veículo até a regularização do item de proteção"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Capacete e viseira (art. 244, I e X)",
+  "base": "CTB, art. 244, I e X (redação da Lei nº 14.071/2020); art. 54, I.",
+  "coment": "O art. 54, I, exige que motociclistas circulem 'utilizando capacete de segurança, com viseira ou óculos protetores'. Na tipificação, a Lei nº 14.071/2020 separou as condutas: o art. 244, I (sem capacete ou vestuário conforme o Contran) integra o bloco dos incisos I a V, gravíssimo, com multa e suspensão do direito de dirigir, retenção e recolhimento do documento; já o inciso X (capacete sem viseira ou óculos, ou em desacordo com o Contran) e o XI (passageiro nessa condição) são infrações médias, com multa e retenção do veículo até regularização. A diferença de gravidade reflete o risco: TCE versus lesão ocular e perda de visão.",
+  "porAlt": [
+   "A Lei nº 14.071/2020 separou o capacete sem viseira ou óculos (inciso X) como infração média.",
+   "O inciso X é médio, com retenção até regularização; não é grave nem prevê apreensão.",
+   "Correta: o inciso I está no bloco gravíssimo com suspensão; o inciso X (sem viseira ou óculos) é infração média, com multa e retenção.",
+   "Conduzir sem capacete é gravíssima com suspensão, não grave.",
+   "Conduzir sem capacete é gravíssima com suspensão do direito de dirigir, não média."
+  ]
+ },
+ {
+  "q": "Segundo as definições do Anexo I do CTB, qual veículo se enquadra como ciclomotor, cuja condução se vincula à Autorização para Conduzir Ciclomotor (ACC)?",
+  "alts": [
+   "De duas ou três rodas, a combustão de até 125 cm³ ou elétrico de até 4 kW, e até 60 km/h",
+   "De duas ou três rodas, a combustão de até 50 cm³ ou elétrico de até 4 kW, e até 50 km/h",
+   "Só de duas rodas, a combustão de até 50 cm³ ou elétrico de até 1 kW, e até 25 km/h de máxima",
+   "De duas ou três rodas, a combustão de até 50 cm³ ou elétrico de até 10 kW, e até 80 km/h",
+   "De duas ou três rodas, a combustão de qualquer cilindrada, se limitado a 50 km/h de fábrica"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Ciclomotor (Anexo I do CTB)",
+  "base": "CTB, Anexo I (definição de ciclomotor); arts. 141 e 269, §3º, III.",
+  "coment": "O Anexo I do CTB define CICLOMOTOR como 'veículo de 2 (duas) ou 3 (três) rodas, provido de motor de combustão interna, cuja cilindrada não exceda a 50 cm³ (...) ou de motor de propulsão elétrica com potência máxima de 4 kW (quatro quilowatts), e cuja velocidade máxima de fabricação não exceda a 50 km/h'. O art. 141 atribui ao Contran regulamentar a autorização para conduzir ciclomotores, e o art. 269, §3º (Lei nº 14.599/2023), lista como documentos de habilitação a CNH, a Permissão para Dirigir e a Autorização para Conduzir Ciclomotor. Os três limites (cilindrada ou potência, e velocidade) são cumulativos e caem como números vizinhos.",
+  "porAlt": [
+   "125 cm³ e 60 km/h não são os limites do ciclomotor; os limites são 50 cm³ e 50 km/h.",
+   "Correta: o Anexo I define ciclomotor como veículo de 2 ou 3 rodas, com motor a combustão até 50 cm³ ou elétrico até 4 kW, e velocidade máxima de fabricação até 50 km/h.",
+   "O ciclomotor pode ter duas ou três rodas, e o limite elétrico é de 4 kW, com até 50 km/h.",
+   "O limite elétrico é de 4 kW e a velocidade máxima de fabricação, de 50 km/h.",
+   "A cilindrada é parte da definição: o motor a combustão não pode exceder 50 cm³."
+  ]
+ },
+ {
+  "q": "Condutor habilitado há muitos anos, que nunca fez curso de direção defensiva nem de primeiros socorros, vai renovar os exames. Segundo o art. 150 do CTB, qual é a situação?",
+  "alts": [
+   "Está dispensado deles, pois os cursos só se exigem na formação da primeira habilitação",
+   "Deverá fazê-los só se exercer atividade remunerada ao veículo, conforme dispõe o CTB",
+   "Deverá fazê-los só se tiver setenta anos ou mais na data da renovação dos exames",
+   "Deverá ser submetido a esses cursos na renovação, conforme normatização do Contran",
+   "Deverá fazê-los só se tiver sido suspenso do direito de dirigir nos últimos 12 meses"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Cursos na renovação (art. 150)",
+  "base": "CTB, art. 150 e parágrafo único; art. 148, §1º.",
+  "coment": "O art. 150 dispõe: 'Ao renovar os exames previstos no artigo anterior, o condutor que não tenha curso de direção defensiva e primeiros socorros deverá a eles ser submetido, conforme normatização do CONTRAN'. A regra dialoga com o art. 148, §1º, que tornou obrigatório, na formação de condutores, o curso de direção defensiva e de conceitos básicos de proteção ao meio ambiente. O parágrafo único do art. 150 obriga a empresa que usa condutores contratados para operar sua frota a fornecer curso de direção defensiva, primeiros socorros e outros conforme o Contran, ponto que interessa à medicina do tráfego ocupacional.",
+  "porAlt": [
+   "O art. 150 alcança justamente quem se habilitou sem esses cursos e vai renovar.",
+   "O art. 150 não restringe a exigência a quem exerce atividade remunerada.",
+   "O CTB não vincula a exigência do art. 150 à idade do condutor.",
+   "Correta: o art. 150 manda submeter aos cursos, na renovação, o condutor que não os tenha, conforme o Contran.",
+   "A suspensão leva ao curso de reciclagem (art. 268, II), que é outra exigência."
+  ]
+ },
+ {
+  "q": "Condutor habilitado na categoria C conduz caminhão que traciona dois reboques em sequência, cada um com 2.500 kg de peso bruto total. Segundo o art. 143 do CTB, qual categoria é exigida?",
+  "alts": [
+   "Categoria C, pois cada unidade acoplada tem menos de 6.000 kg de PBT, dentro do limite do §4º",
+   "Categoria C, pois a soma dos dois reboques, 5.000 kg, fica abaixo do limite de 6.000 kg da E",
+   "Categoria D, pois a combinação com mais de um reboque se equipara à de transporte coletivo",
+   "Categoria E, pois com mais de uma unidade tracionada ela é exigida independentemente do peso",
+   "Categoria E só se a soma dos reboques chegar a 6.000 kg; abaixo disso, basta a categoria C"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Combinação com mais de uma unidade tracionada (art. 143, §3º)",
+  "base": "CTB, art. 143, V e §§3º e 4º.",
+  "coment": "A categoria E (art. 143, V) é, em regra, a da combinação cuja unidade acoplada tem 6.000 kg ou mais de PBT ou lotação acima de oito lugares, e o §4º permite às categorias B, C e D conduzir combinação com unidade acoplada abaixo de 6.000 kg. O §3º cria a exceção que costuma cair: 'Aplica-se o disposto no inciso V ao condutor da combinação de veículos com mais de uma unidade tracionada, independentemente da capacidade de tração ou do peso bruto total'. Com dois reboques em sequência, a categoria é a E, ainda que cada reboque seja leve. Lembre que a E exige um ano na C, maior de 21 anos e cursos (art. 145).",
+  "porAlt": [
+   "O §4º só vale para combinação com uma unidade acoplada; com duas tracionadas, incide o §3º.",
+   "O peso é irrelevante quando há mais de uma unidade tracionada: exige-se a E pelo §3º.",
+   "A categoria D é a do transporte de passageiros; a combinação de veículos é da E.",
+   "Correta: o §3º do art. 143 aplica o inciso V (categoria E) à combinação com mais de uma unidade tracionada, independentemente da capacidade de tração ou do PBT.",
+   "O §3º afasta expressamente o critério do peso bruto total nessa situação."
+  ]
+ },
+ {
+  "q": "Segundo o art. 152 do CTB, como deve ser composta a comissão perante a qual se realiza o exame de direção veicular?",
+  "alts": [
+   "Por dois membros designados pelo CETRAN, ambos habilitados na mesma categoria pretendida pelo candidato",
+   "Por três membros designados pelo dirigente do órgão local, ao menos um em categoria igual ou superior",
+   "Por três membros designados pelo CONTRAN, todos habilitados na categoria E há no mínimo cinco anos",
+   "Por um examinador credenciado pela autoescola, habilitado na categoria igual ou superior à pretendida",
+   "Por cinco membros designados pelo órgão executivo local, incluindo um médico perito examinador de trânsito"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Comissão do exame de direção veicular (art. 152)",
+  "base": "CTB, art. 152, caput e §1º (caput com redação da Lei nº 13.281/2016); art. 148, caput.",
+  "coment": "O art. 152 (redação da Lei nº 13.281/2016) determina que o exame de direção veicular seja realizado perante comissão integrada por 3 membros designados pelo dirigente do órgão executivo local de trânsito, e o §1º exige que pelo menos um deles seja habilitado em categoria igual ou superior à pretendida pelo candidato. O art. 148 reforça a distinção: os exames de habilitação, exceto os de direção veicular, podem ser aplicados por entidades públicas ou privadas credenciadas pelo órgão executivo estadual. Ou seja, o exame de aptidão física e mental pode ser feito em clínica credenciada, mas a prova prática de direção fica com a comissão do órgão.",
+  "porAlt": [
+   "A comissão tem três membros e é designada pelo dirigente do órgão executivo local, não pelo CETRAN.",
+   "Correta: o caput do art. 152 exige comissão de três membros designados pelo dirigente do órgão executivo local, e o §1º exige ao menos um habilitado em categoria igual ou superior.",
+   "Quem designa é o dirigente do órgão executivo local, e a exigência é de ao menos um membro em categoria igual ou superior.",
+   "O exame de direção não é delegável a entidade credenciada (art. 148) e exige comissão de três membros.",
+   "A comissão tem três membros, e não se exige médico perito no exame de direção veicular."
+  ]
+ },
+ {
+  "q": "Policial militar concluiu, na corporação, curso de formação de condutor que observa as normas do Contran, com aprovação nos exames. Segundo o art. 152, §2º, do CTB, ao requerer o documento de habilitação ele:",
+  "alts": [
+   "Deve repetir os exames do art. 147 perante o órgão, pois o curso da corporação não produz efeitos civis",
+   "É dispensado inclusive dos exames não realizados no curso, por ser agente de segurança pública",
+   "É dispensado só do exame de direção veicular, devendo refazer os demais exames perante o DETRAN",
+   "É dispensado, para a concessão do documento, dos exames a que se submeteu com aprovação no curso",
+   "É dispensado dos exames desde que tenha mais de vinte e um anos e dois anos de serviço ativo"
+  ],
+  "gab": 3,
+  "tema": "legislacao",
+  "sub": "Dispensa de exames para militares e policiais (art. 152, §2º)",
+  "base": "CTB, art. 152, §§2º e 3º (redação da Lei nº 13.281/2016).",
+  "coment": "O §2º do art. 152 (redação da Lei nº 13.281/2016) dispõe que os militares das Forças Armadas e os policiais e bombeiros dos órgãos de segurança pública da União, dos Estados e do DF que possuírem curso de formação de condutor ministrado em suas corporações serão dispensados, para a concessão do documento de habilitação, 'dos exames aos quais se houverem submetido com aprovação naquele curso, desde que neles sejam observadas as normas estabelecidas pelo Contran'. O §3º exige requerimento instruído com ofício do comandante, chefe ou diretor, com dados de identificação e categoria, acompanhado de cópia das atas dos exames. A dispensa é seletiva: vale só para o que foi aprovado no curso.",
+  "porAlt": [
+   "A lei reconhece o curso da corporação para fins de dispensa dos exames nele aprovados.",
+   "A dispensa alcança apenas os exames feitos com aprovação no curso, não os demais.",
+   "A dispensa não se limita ao exame de direção: abrange os exames aprovados no curso.",
+   "Correta: o §2º dispensa militares, policiais e bombeiros dos exames a que se submeteram com aprovação no curso da corporação, observadas as normas do Contran.",
+   "O §2º não exige idade mínima de 21 anos nem tempo de serviço para a dispensa."
+  ]
+ },
+ {
+  "q": "Após a Lei nº 15.428/2026, como o CTB trata o valor cobrado pelo exame de aptidão física e mental, em comparação com o valor do exame toxicológico do art. 148-A?",
+  "alts": [
+   "Ambos passaram a ter preço público fixado pela União e corrigido anualmente pelo IPCA",
+   "Aptidão: preço livre entre as clínicas; toxicológico: preço público fixado pelo órgão estadual",
+   "Ambos têm preço fixado pelo órgão executivo estadual, corrigido pelo INPC a cada dois anos",
+   "Aptidão: preço fixado pelo CETRAN; toxicológico: preço fixado pelo órgão executivo da União",
+   "Aptidão: preço público da União, corrigido pelo IPCA; toxicológico: em livre concorrência"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Preço dos exames: aptidão × toxicológico (Lei 15.428/2026)",
+  "base": "CTB, art. 148, §7º (incluído pela Lei nº 15.428/2026); art. 148-A, §7º (redação da Lei nº 14.440/2022).",
+  "coment": "A Lei nº 15.428/2026 incluiu o §7º no art. 148: os valores dos exames de aptidão física e mental e da avaliação psicológica 'observarão preço público fixado pelo órgão máximo executivo de trânsito da União, conforme regulamentação do Contran, e serão atualizados anualmente pelo IPCA ou por outro índice oficial que venha a substituí-lo'. O exame toxicológico tem regime oposto: o §7º do art. 148-A manda realizá-lo 'em regime de livre concorrência, pelos laboratórios credenciados pelo órgão máximo executivo de trânsito da União', vedado aos entes públicos fixar preços, limitar o número de empresas ou de locais e estabelecer exclusividade territorial. Comparar os dois regimes é pegadinha provável.",
+  "porAlt": [
+   "O toxicológico segue em livre concorrência, e é vedado aos entes públicos fixar seu preço.",
+   "A lógica está invertida: o preço público é do exame de aptidão, e o toxicológico não tem preço fixado.",
+   "Quem fixa o preço público da aptidão é o órgão máximo executivo da União, com correção pelo IPCA.",
+   "O CETRAN não fixa preço de exame, e o toxicológico não pode ter preço fixado por ente público.",
+   "Correta: o art. 148, §7º, prevê preço público fixado pela União e corrigido pelo IPCA; o art. 148-A, §7º, veda aos entes públicos fixar preço do toxicológico."
+  ]
+ },
+ {
+  "q": "Quem deve avisar o condutor, e com que antecedência, sobre o vencimento da CNH (art. 159, §12) e sobre o vencimento do prazo do exame toxicológico periódico (art. 148-A, §9º)?",
+  "alts": [
+   "CNH: órgão máximo executivo da União; toxicológico: órgão estadual de trânsito; ambos 30 dias antes",
+   "CNH: órgão estadual de trânsito; toxicológico: laboratório credenciado; ambos 60 dias antes do prazo",
+   "Ambos cabem ao órgão estadual de trânsito, por carta registrada, com 15 dias de antecedência mínima",
+   "CNH: a clínica credenciada de exames; toxicológico: empregador do motorista; ambos 30 dias antes",
+   "CNH: órgão estadual de trânsito; toxicológico: órgão máximo executivo da União; ambos 30 dias antes"
+  ],
+  "gab": 4,
+  "tema": "legislacao",
+  "sub": "Avisos de vencimento: CNH × toxicológico (arts. 159, §12, e 148-A, §9º)",
+  "base": "CTB, art. 159, §12 (Lei nº 14.071/2020); art. 148-A, §9º (Lei nº 14.599/2023).",
+  "coment": "Dois avisos de 30 dias, com emissores diferentes. O §12 do art. 159 (Lei nº 14.071/2020): 'Os órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal enviarão por meio eletrônico, com 30 (trinta) dias de antecedência, aviso de vencimento da validade da CNH a todos os condutores cadastrados no Renach com endereço na respectiva unidade da Federação'. O §9º do art. 148-A (Lei nº 14.599/2023): compete ao órgão máximo executivo de trânsito da União comunicar, pelo sistema de notificação eletrônica do art. 282-A, o vencimento do prazo do exame toxicológico com 30 dias de antecedência, bem como as penalidades da não realização. A infração do art. 165-D só se configura 30 dias após o vencimento.",
+  "porAlt": [
+   "As competências estão invertidas: CNH pelo órgão estadual e toxicológico pela União.",
+   "O laboratório não é o responsável pelo aviso, e a antecedência legal é de 30 dias.",
+   "Os avisos são por meio eletrônico, com 30 dias, e o do toxicológico cabe à União.",
+   "Nem a clínica nem o empregador têm esse dever no CTB; os avisos cabem aos órgãos de trânsito.",
+   "Correta: o §12 do art. 159 atribui aos órgãos estaduais o aviso eletrônico da CNH, e o §9º do art. 148-A atribui à União o do toxicológico, ambos com 30 dias."
+  ]
+ },
+ {
+  "q": "Condutor é abordado sem portar a CNH, e o agente consegue acessar, naquele momento, o sistema informatizado que confirma que ele é habilitado. Segundo o art. 159 do CTB, qual é a situação?",
+  "alts": [
+   "Comete infração por não portar o documento, ainda que a habilitação seja confirmada",
+   "O porte só é dispensado se ele apresentar cópia autenticada do documento de habilitação",
+   "O porte do documento é dispensado, pois foi possível verificar a habilitação no sistema",
+   "O veículo fica retido até a apresentação do documento original de habilitação no local",
+   "O porte só é dispensado para quem tem a CNH digital instalada no próprio aparelho celular"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Porte do documento de habilitação (art. 159, §1º-A)",
+  "base": "CTB, art. 159, §§1º, 1º-A e 5º.",
+  "coment": "O §1º do art. 159 torna obrigatório o porte da Permissão para Dirigir ou da CNH quando o condutor está à direção. O §1º-A, incluído pela Lei nº 14.071/2020, flexibiliza: 'O porte do documento de habilitação será dispensado quando, no momento da fiscalização, for possível ter acesso ao sistema informatizado para verificar se o condutor está habilitado'. O §5º mantém que a CNH e a Permissão só têm validade quando apresentadas em original, o que afasta cópias. Desde a Lei nº 15.428/2026, o caput do art. 159 prevê que a CNH pode ser emitida em meio físico ou digital, a critério do condutor, e equivale a documento de identidade.",
+  "porAlt": [
+   "O §1º-A afasta a exigência do porte justamente quando o sistema confirma a habilitação.",
+   "O §5º diz que o documento só vale em original; cópia autenticada não é a hipótese de dispensa.",
+   "Correta: o §1º-A do art. 159 (Lei nº 14.071/2020) dispensa o porte quando é possível acessar o sistema e verificar a habilitação.",
+   "Confirmada a habilitação no sistema, não há irregularidade que justifique a retenção.",
+   "A dispensa do §1º-A não depende de o condutor ter a versão digital da CNH."
+  ]
+ },
+ {
+  "q": "Condutor de 52 anos é considerado apto no exame de aptidão física e mental para renovar a CNH, mas tem multas vencidas no prontuário. Segundo o art. 159, §8º, do CTB, qual é a consequência?",
+  "alts": [
+   "A renovação da validade da CNH só será feita após a quitação dos débitos do prontuário",
+   "A renovação é feita normalmente, pois débitos de multa não interferem na validade da CNH",
+   "A renovação é feita com validade reduzida à metade, até a quitação dos débitos pendentes",
+   "O exame de aptidão é anulado e deverá ser repetido depois da quitação dos débitos devidos",
+   "A renovação é feita, e os débitos passam a ser cobrados em dobro na próxima renovação"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Renovação e débitos do prontuário (art. 159, §8º)",
+  "base": "CTB, art. 159, §§8º e 10.",
+  "coment": "O §8º do art. 159 dispõe: 'A renovação da validade da Carteira Nacional de Habilitação ou a emissão de uma nova via somente será realizada após quitação de débitos constantes do prontuário do condutor'. O ponto interessa ao perito porque o condutor sai apto da clínica, mas a CNH renovada só é emitida pelo órgão depois da regularização. O §10 do mesmo artigo condiciona a validade da CNH à vigência do exame de aptidão física e mental, e o §7º determina um único registro no RENACH para cada condutor, agregando todas as suas informações. Débito não altera o prazo de validade fixado pelo perito.",
+  "porAlt": [
+   "Correta: o §8º condiciona a renovação da validade da CNH, ou a emissão de nova via, à quitação dos débitos do prontuário.",
+   "O §8º vincula expressamente a renovação à quitação dos débitos constantes do prontuário.",
+   "O CTB não prevê validade reduzida por débitos; prevê que a renovação espera a quitação.",
+   "O resultado do exame não é anulado pelos débitos; só a renovação fica condicionada à quitação.",
+   "O CTB não prevê cobrança em dobro na renovação seguinte."
+  ]
+ },
+ {
+  "q": "Condutor habilitado apenas na categoria B é flagrado dirigindo caminhão de carga com peso bruto total de 9.000 kg. Segundo o art. 162 do CTB, qual é o enquadramento?",
+  "alts": [
+   "Gravíssima, com multa multiplicada por três vezes e recolhimento do documento de habilitação dele",
+   "Grave, com multa simples e retenção do veículo até a apresentação de um condutor habilitado na C",
+   "Gravíssima, com multa multiplicada por duas vezes e retenção do veículo até vir condutor habilitado",
+   "Gravíssima, com multa multiplicada por dez vezes e suspensão do direito de dirigir por 12 meses",
+   "Média, com multa simples, pois ele é habilitado, só que numa categoria diferente da que se exige"
+  ],
+  "gab": 2,
+  "tema": "legislacao",
+  "sub": "Categoria diferente da do veículo (art. 162, III)",
+  "base": "CTB, art. 162, I a III (redação da Lei nº 13.281/2016); art. 143, III.",
+  "coment": "O caminhão de carga com PBT acima de 3.500 kg exige a categoria C (art. 143, III). Dirigi-lo com a B configura o art. 162, III: 'com CNH ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo' — infração gravíssima, penalidade de multa (duas vezes) e retenção do veículo até a apresentação de condutor habilitado. Compare os incisos vizinhos: I (sem CNH, PPD ou ACC) e II (com documento cassado ou direito de dirigir suspenso) têm multa três vezes, e o II ainda prevê recolhimento do documento. Se houvesse crime (por exemplo, lesão culposa), a categoria diferente seria agravante do art. 298, IV.",
+  "porAlt": [
+   "Multa triplicada é a do inciso I (sem habilitação) e do II (cassada ou suspensa), este com recolhimento.",
+   "A infração do inciso III é gravíssima, não grave.",
+   "Correta: o art. 162, III (categoria diferente da do veículo), é gravíssima, multa (duas vezes) e retenção até a apresentação de condutor habilitado.",
+   "Multa dez vezes com suspensão de 12 meses é a penalidade do art. 165 (álcool).",
+   "Ser habilitado em outra categoria não abranda a infração: o inciso III é gravíssimo."
+  ]
+ },
+ {
+  "q": "Condutor habilitado na categoria D passa a dirigir a ambulância de um serviço municipal sem ter feito o treinamento especializado exigido pelo art. 145-A. Flagrado, qual é o enquadramento previsto no art. 162 do CTB?",
+  "alts": [
+   "Inciso III, categoria diferente da do veículo: gravíssima, com multa em dobro e retenção do veículo",
+   "Inciso VII, sem os cursos especializados obrigatórios: gravíssima, multa e retenção do veículo",
+   "Inciso I, sem possuir habilitação: gravíssima, com multa triplicada e retenção do veículo no local",
+   "Não comete infração, pois a categoria D já autoriza a condução de qualquer veículo de emergência",
+   "Nenhuma infração de trânsito, cabendo só sanção trabalhista ao empregador que o designou para isso"
+  ],
+  "gab": 1,
+  "tema": "legislacao",
+  "sub": "Sem os cursos especializados obrigatórios (art. 162, VII)",
+  "base": "CTB, art. 162, VII (incluído pela Lei nº 14.440/2022); arts. 145 e 145-A.",
+  "coment": "O art. 145 exige cursos especializados para quem conduz transporte coletivo, escolares, emergência ou produto perigoso, e o art. 145-A acrescenta, para ambulâncias, treinamento especializado e reciclagem em cursos específicos a cada 5 anos. A consequência de dirigir sem eles foi tipificada pela Lei nº 14.440/2022 no art. 162, VII: dirigir 'sem possuir os cursos especializados ou específicos obrigatórios' — infração gravíssima, penalidade de multa e medida administrativa de retenção do veículo até a apresentação de condutor habilitado. Quem entrega a direção a pessoa nessas condições responde, pelo art. 163, com as mesmas penalidades do art. 162.",
+  "porAlt": [
+   "A categoria D é compatível com o veículo; o que falta é o curso específico do art. 145-A.",
+   "Correta: o inciso VII do art. 162 (Lei nº 14.440/2022) pune dirigir sem os cursos especializados ou específicos obrigatórios: gravíssima, multa e retenção.",
+   "Ele é habilitado; a irregularidade é a falta do curso, não a ausência de habilitação.",
+   "Para ambulância, o art. 145-A exige treinamento especializado e reciclagem a cada cinco anos, além da categoria.",
+   "A falta do curso obrigatório é infração de trânsito tipificada no art. 162, VII."
+  ]
+ },
+ {
+  "q": "O art. 298 do CTB lista circunstâncias que sempre agravam as penalidades dos crimes de trânsito. Qual das circunstâncias abaixo NÃO consta desse rol?",
+  "alts": [
+   "Ter o condutor recusado o teste do etilômetro oferecido pelo agente na blitz",
+   "Cometer o crime sem possuir Permissão para Dirigir ou Carteira de Habilitação",
+   "Exercer profissão que exige cuidados especiais com o transporte de passageiros",
+   "Cometê-lo sobre faixa de trânsito destinada a pedestres, temporária ou permanente",
+   "Utilizar veículo sem placas, com placas falsas ou com placas que foram adulteradas"
+  ],
+  "gab": 0,
+  "tema": "legislacao",
+  "sub": "Agravantes dos crimes de trânsito (art. 298) — qual NÃO",
+  "base": "CTB, art. 298, I a VII; art. 165-A.",
+  "coment": "O art. 298 enumera as circunstâncias que sempre agravam as penalidades dos crimes de trânsito: I - dano potencial para duas ou mais pessoas ou grande risco de grave dano patrimonial a terceiros; II - veículo sem placas, com placas falsas ou adulteradas; III - sem Permissão para Dirigir ou CNH; IV - com habilitação de categoria diferente da do veículo; V - profissão ou atividade que exige cuidados especiais com o transporte de passageiros ou de carga; VI - veículo com equipamentos ou características adulterados que afetem a segurança ou o funcionamento; VII - sobre faixa destinada a pedestres. A recusa ao teste tem consequência própria no plano administrativo (art. 165-A e art. 277, §3º; pela Resolução CONTRAN nº 1.031/2026, art. 8º, §§1º e 2º, se houver pelo menos dois sinais de alteração aplica-se o art. 165 em vez do 165-A, sem prejuízo do crime do art. 306), e não figura entre as agravantes penais.",
+  "porAlt": [
+   "Correta: a recusa ao etilômetro gera a infração administrativa do art. 165-A, mas não está no rol de agravantes do art. 298.",
+   "É agravante do art. 298, III: sem Permissão para Dirigir ou Carteira de Habilitação.",
+   "É agravante do art. 298, V: profissão ou atividade que exige cuidados especiais com passageiros ou carga.",
+   "É agravante do art. 298, VII: sobre faixa de trânsito destinada a pedestres.",
+   "É agravante do art. 298, II: veículo sem placas, com placas falsas ou adulteradas."
+  ]
+ }
+]

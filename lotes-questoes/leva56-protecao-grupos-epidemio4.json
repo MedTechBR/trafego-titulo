@@ -1,0 +1,728 @@
+[
+ {
+  "q": "Tutor pergunta ao médico do tráfego se pode levar seu cão de porte médio solto no banco traseiro em trajetos urbanos a 40 km/h. Segundo a Diretriz ABRAMET sobre transporte de animais de companhia, qual é a resposta fundamentada na cinemática do sinistro?",
+  "alts": [
+   "Não: a 40 km/h o animal solto é projetado com força de 40 vezes o seu peso, podendo chegar a uma tonelada",
+   "Não: a 40 km/h o animal solto é projetado com força de cerca de 4 vezes o seu peso, ferindo apenas a si próprio",
+   "Não: a 40 km/h o animal solto é projetado com força de cerca de 400 vezes o seu peso, acima de dez toneladas",
+   "Sim: no banco traseiro, o encosto dianteiro retém o animal e a essa velocidade a força gerada é desprezível",
+   "Sim: a força de projeção só se torna relevante acima de 80 km/h, quando passa de cerca de 227 kg de pressão"
+  ],
+  "gab": 0,
+  "tema": "protecao",
+  "sub": "Animais — cinemática do animal solto",
+  "base": "Diretriz ABRAMET/CRMV-PR 'Transporte de animais de companhia (cães e gatos) em veículos automotores' (2021), item 3.1 (Fatores de risco para transporte de animais) e item 5.2",
+  "coment": "A diretriz ABRAMET/CRMV-PR usa a cinemática do sinistro para desfazer a ideia de que o animal 'pequeno' ou 'no banco de trás' não oferece risco. Cães e gatos transportados sem dispositivo de retenção, em veículo a 40 km/h, em colisão frontal ou traseira, são projetados para a frente com força igual a 40 vezes o seu peso — um cão de porte médio pode atingir uma tonelada de força de impacto, letal para ele e para os demais ocupantes. Outros exemplos do texto: cão de 4,5 kg a 80 km/h exerce cerca de 227 kg de pressão; cão de 36 kg a 50 km/h, cerca de 1 tonelada. Por isso, mesmo que alguém tente segurá-lo no colo, é mais seguro retê-lo em dispositivo apropriado. A ejeção também é citada: sinistros com expulsão do carro têm 75% de mortalidade para pessoas (UNRSC, 2009).",
+  "porAlt": [
+   "Correta: a diretriz afirma que, a 40 km/h, cães e gatos sem retenção são projetados com força igual a 40 vezes o seu peso; um cão médio pode atingir uma tonelada.",
+   "O fator correto é 40 vezes o peso, não 4; e a diretriz ressalta que o impacto pode ser letal para o animal e para os demais ocupantes.",
+   "O fator de 400 vezes não consta da diretriz; o valor citado é de 40 vezes o peso do animal a 40 km/h.",
+   "A diretriz alerta justamente que o animal solto no banco traseiro é projetado para o alto e para a frente, ferindo-se e agravando lesões dos ocupantes da frente.",
+   "O exemplo de 227 kg refere-se a um cão de 4,5 kg a 80 km/h; não é um limiar abaixo do qual a força seria irrelevante."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre transporte de animais de companhia, qual dispositivo de retenção é apontado como boa escolha para os gatos, e por quê?",
+  "alts": [
+   "Grade de contenção entre os bancos, pois os gatos toleram mal o confinamento e precisam circular pelo veículo",
+   "Capa protetora do banco traseiro, pois restringe a mobilidade do gato e dispensa a fixação ao cinto do veículo",
+   "Cinto peitoral acoplado ao cinto do veículo, pois os gatos aceitam bem a coleira e ficam quietos no banco traseiro",
+   "Cadeirinha fixada no encosto de cabeça, pois os gatos, de pequeno porte, adaptam-se melhor a assentos abertos",
+   "Caixa de transporte presa pelo cinto, pois gatos se assustam fácil, são ágeis e escapam dos demais dispositivos"
+  ],
+  "gab": 4,
+  "tema": "protecao",
+  "sub": "Animais — dispositivo indicado para gatos",
+  "base": "Diretriz ABRAMET/CRMV-PR 'Transporte de animais de companhia (cães e gatos) em veículos automotores' (2021), item 5.2 (Dispositivos de retenção — 1. Caixas de transporte)",
+  "coment": "A diretriz descreve cinco mecanismos populares de retenção: caixas de transporte, cadeirinhas (assentos, cestinhos), cintos de segurança com coleira peitoral, grades de contenção e capas protetoras de banco traseiro. A caixa de transporte, fixada pelo cinto de segurança, é a forma mais convencional, especialmente para cães de pequeno porte e gatos, e é apontada como boa escolha para gatos porque eles se assustam com facilidade, são mais ágeis e têm capacidade de se soltar dos demais dispositivos. Se, excepcionalmente, a caixa tiver de ir no banco dianteiro (o que não é indicado), deve ser afastada o máximo possível para trás, pelo risco do disparo do airbag. A diretriz lembra ainda que, embora a maioria das caixas populares não proteja plenamente, usá-las é melhor do que nenhum dispositivo.",
+  "porAlt": [
+   "A grade de contenção é indicada para animais de grande porte e deixa o animal 'solto' na área escolhida; não é a opção citada para gatos.",
+   "A capa protetora é indicada para animais de médio e grande porte e só reduz a distração quando ajustada ao cinto de segurança.",
+   "A diretriz destaca o contrário: gatos têm capacidade de se soltar dos demais dispositivos, por isso a caixa é a boa escolha.",
+   "As cadeirinhas são recomendadas para animais de pequeno e médio porte que não se adaptam às caixas, não como escolha preferencial para gatos.",
+   "Correta: a diretriz indica a caixa de transporte fixada pelo cinto como boa escolha para gatos, que se assustam facilmente, são ágeis e conseguem se soltar dos demais dispositivos."
+  ]
+ },
+ {
+  "q": "Família transporta cão de grande porte no bagageiro de um utilitário, separado dos ocupantes por grade de contenção. Segundo a Diretriz ABRAMET sobre animais de companhia, qual é a limitação desse dispositivo?",
+  "alts": [
+   "É contraindicada para cães de grande porte, sendo recomendada só para os gatos e os cães de porte pequeno",
+   "Impede lesões do animal, mas é proibida pelo CTB por reduzir a visibilidade traseira do condutor do veículo",
+   "Não impede que o animal se fira na desaceleração brusca, pois ele continua solto na área em que é transportado",
+   "Protege o animal na colisão, mas não reduz a distração que os latidos e o movimento dele causam ao condutor",
+   "Exige que o animal viaje sedado, pois a grade não impede que ele salte sobre os bancos dianteiros do veículo"
+  ],
+  "gab": 2,
+  "tema": "protecao",
+  "sub": "Animais — limitação da grade de contenção",
+  "base": "Diretriz ABRAMET/CRMV-PR 'Transporte de animais de companhia (cães e gatos) em veículos automotores' (2021), item 5.2 (Dispositivos de retenção — 4. Grades de contenção)",
+  "coment": "As grades de contenção são divisórias de diversos materiais e formatos indicadas para animais de grande porte: há modelos para o centro (entre os bancos dianteiros), laterais (impedem o cão de saltar pela janela) e os que restringem o animal à traseira de caminhonete ou de veículo de grande porte. A limitação destacada pela diretriz é que elas NÃO impedem o risco de o animal sofrer ferimentos em desaceleração brusca, uma vez que ele continua 'solto' na área em que se optou por transportá-lo. Em outras palavras, a grade separa (reduz distração e interação física com os ocupantes), mas não retém. Lembre ainda que transportar animais na caçamba de picapes e caminhonetes não é permitido, conforme a análise da própria diretriz sobre o CTB.",
+  "porAlt": [
+   "É o inverso: a diretriz indica as grades de contenção justamente para animais de grande porte.",
+   "A diretriz não afirma proibição pelo CTB; e o dispositivo não impede lesões do animal na desaceleração.",
+   "Correta: as grades limitam a circulação, mas não impedem ferimentos na desaceleração brusca, já que o animal está 'solto' na área em que se optou por transportá-lo.",
+   "A proteção na colisão é exatamente o que a grade NÃO garante; sua função é limitar a circulação do animal.",
+   "Sedação não é recomendação da diretriz; a grade é feita justamente para impedir o acesso do animal à área dos ocupantes."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre animais de companhia, citando o Center for Pet Safety, qual é o alerta sobre afivelar o cinto do veículo em torno da caixa transportadora do animal?",
+  "alts": [
+   "É o método de fixação mais seguro que existe e dispensa certificação, pois retém integralmente a caixa do animal",
+   "Não é seguro sem certificação ou teste de colisão do fabricante: é comum a caixa ser esmagada contra o cinto",
+   "Só é seguro no banco dianteiro, onde o airbag amortece a caixa e protege o animal durante a colisão frontal",
+   "É seguro apenas com caixas de plástico rígido, pois as de tecido se rompem sob a tensão do cinto do veículo",
+   "Deve ser trocado pela caixa solta no assoalho traseiro, que absorve melhor a energia da desaceleração brusca"
+  ],
+  "gab": 1,
+  "tema": "protecao",
+  "sub": "Animais — caixa presa pelo cinto",
+  "base": "Diretriz ABRAMET/CRMV-PR 'Transporte de animais de companhia (cães e gatos) em veículos automotores' (2021), item 5.2 (Caixas de transporte; Center for Pet Safety)",
+  "coment": "A diretriz cita dois centros que testam produtos para transporte de pets por meio de testes de impacto e certificação: o SP Technical Research Institute of Sweden (Safe Pet Crate Test) e o norte-americano Center for Pet Safety (CPS). Segundo o CPS, afivelar o cinto do carro na gaiola ou caixa do animal não é seguro, a menos que o fabricante forneça certificação ou vídeo de teste de colisão que mostre a integridade estrutural após o impacto — é muito comum o impacto resultar em esmagamento da caixa contra o cinto e lesão do animal. Outro teste do CPS mostrou falha da correia de ancoragem de uma cadeirinha com réplica de cão de 12 kg. Ainda assim, a diretriz pondera que usar caixa, mesmo imperfeita, traz mais benefício do que nenhum dispositivo, porque reduz a distração do condutor. No Brasil, não há regulamentação que controle a eficácia desses produtos.",
+  "porAlt": [
+   "O alerta do CPS é justamente que o método não é seguro sem certificação; não há dispensa.",
+   "Correta: segundo o CPS, afivelar o cinto na caixa não é seguro sem certificação ou vídeo de teste de colisão do fabricante; é comum a caixa ser esmagada contra o cinto, lesando o animal.",
+   "O banco dianteiro não é indicado; se inevitável, a caixa deve ser afastada ao máximo para trás pelo risco do disparo do airbag.",
+   "A diretriz não faz distinção por material da caixa; o problema descrito é o esmagamento contra o cinto sem certificação.",
+   "A caixa solta vira projétil; a diretriz recomenda a fixação pelo cinto, com a ressalva sobre certificação do produto."
+  ]
+ },
+ {
+  "q": "Condutor é abordado dirigindo com um cão pequeno acomodado entre os braços e as pernas. À luz do CTB, conforme analisado na Diretriz ABRAMET sobre animais de companhia, qual é o enquadramento?",
+  "alts": [
+   "Art. 235: conduzir animal nas partes externas do veículo; infração grave, com retenção para transbordo",
+   "Art. 252, II: dirigir levando animal à esquerda ou entre braços e pernas; gravíssima, com suspensão",
+   "Art. 252, II: dirigir levando animal à esquerda ou entre os braços e pernas; infração média, com multa",
+   "Não há infração, pois o CTB não regulamenta o local do veículo em que o animal deve ser transportado",
+   "Art. 168: transportar animal sem as normas de segurança especiais; gravíssima, com retenção do veículo"
+  ],
+  "gab": 2,
+  "tema": "protecao",
+  "sub": "Animais — enquadramento no CTB",
+  "base": "CTB (Lei 9.503/1997), arts. 252, II, e 235; Diretriz ABRAMET/CRMV-PR 'Transporte de animais de companhia (cães e gatos) em veículos automotores' (2021), item 4.4 (Legislações pertinentes)",
+  "coment": "A diretriz lembra que o CTB não regulamenta a forma nem o local do veículo em que o animal deve ser transportado — não há norma que exija, por exemplo, caixa de transporte —, mas pune situações específicas. O art. 252, II, tipifica 'dirigir o veículo transportando pessoas, animais ou volume à sua esquerda ou entre os braços e pernas' (infração média, multa), para evitar prejuízo à condução por obstáculo. O art. 235 pune conduzir pessoas, animais ou carga nas partes externas do veículo (infração grave, multa, retenção para transbordo); a diretriz acrescenta que não é permitido levar animais na caçamba de picapes nem com a cabeça ou parte do corpo para fora. O art. 28 (domínio do veículo, com atenção) e o art. 169 (dirigir sem atenção, infração leve) completam o quadro. Pegadinha: o art. 168 é das crianças.",
+  "porAlt": [
+   "O art. 235 trata da condução nas PARTES EXTERNAS do veículo (infração grave); o cão estava no colo do condutor.",
+   "O dispositivo está certo, mas a natureza não: a conduta do inciso II do art. 252 é infração média, punida apenas com multa.",
+   "Correta: o art. 252, II, pune dirigir transportando pessoas, animais ou volume à esquerda ou entre os braços e pernas; a infração é média, com multa.",
+   "O CTB de fato não define onde o animal deve viajar, mas pune expressamente levá-lo à esquerda ou entre os braços e pernas do condutor.",
+   "O art. 168 refere-se ao transporte de CRIANÇAS sem as normas de segurança especiais, não de animais."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre animais de companhia, como deve ser utilizado o cinto de segurança destinado a cães?",
+  "alts": [
+   "Com adaptador preso à coleira de pescoço e acoplado ao encaixe do cinto, de preferência no banco do passageiro",
+   "Com adaptador preso à coleira peitoral e acoplado ao encaixe do cinto, de preferência no centro do banco traseiro",
+   "Com adaptador preso à coleira peitoral e amarrado ao encosto de cabeça dianteiro, restrito aos cães de pequeno porte",
+   "Com guia longa presa à coleira de pescoço, permitindo que o cão se deite livremente no assoalho do banco traseiro",
+   "Com adaptador preso à coleira peitoral e fixado na lateral do banco traseiro, junto à janela, para melhor ventilação"
+  ],
+  "gab": 1,
+  "tema": "protecao",
+  "sub": "Animais — cinto de segurança para cães",
+  "base": "Diretriz ABRAMET/CRMV-PR 'Transporte de animais de companhia (cães e gatos) em veículos automotores' (2021), item 5.2 (Dispositivos de retenção — 3. Cintos de segurança)",
+  "coment": "Entre os dispositivos descritos, os cintos de segurança para cães são recomendados para animais de pequeno, médio e grande porte, fixados preferencialmente na posição central do banco traseiro, com os adaptadores presos às coleiras PEITORAIS e acoplados ao encaixe do cinto de segurança do veículo, o que proporciona melhor distribuição de forças e proteção durante desaceleração repentina, conforme normas dos fabricantes. Além de reduzir a distração do condutor, alguns modelos tiveram eficácia comprovada na integridade física segundo o Center for Pet Safety. A diretriz traz, porém, um alerta: um Border Collie sofreu traumatismo de vértebra torácica por falha de um cinto peitoral numa colisão a 60 km/h — a eficácia depende do produto, e não há no Brasil regulamentação que controle esses dispositivos.",
+  "porAlt": [
+   "A diretriz fala em coleira PEITORAL (melhor distribuição de forças) e em posição central do banco traseiro, não no banco da frente.",
+   "Correta: a diretriz recomenda cintos para cães de pequeno, médio e grande porte, fixados preferencialmente na posição central do banco traseiro, com adaptadores presos às coleiras peitorais e acoplados ao encaixe do cinto.",
+   "O cinto para cães é indicado para pequeno, médio e grande porte e é acoplado ao encaixe do cinto do veículo, não ao encosto dianteiro.",
+   "Guia longa deixa o animal praticamente solto, o que não impede o deslocamento na desaceleração nem a distração do condutor.",
+   "A posição preferencial citada é a central do banco traseiro; a janela, inclusive, não deve permitir que o animal ponha o corpo para fora."
+  ]
+ },
+ {
+  "q": "Mãe será removida de ambulância e não há cuidador disponível para o filho de 11 anos, que é sadio. Segundo a Diretriz ABRAMET sobre transporte de crianças em ambulâncias, como deve viajar o menino?",
+  "alts": [
+   "No banco lateral do compartimento do paciente, com cinto subabdominal, ao lado da maca em que vai a mãe",
+   "No banco dianteiro da ambulância, com cinto de três pontos, já que o ideal (outro veículo) não é possível",
+   "No colo de um profissional da equipe, no assento do socorrista, voltado para o sentido de marcha do veículo",
+   "No compartimento do paciente, em assento de elevação fixado ao banco lateral e voltado para a maca da mãe",
+   "Na própria maca junto com a mãe, contido por três cintas transversais no tórax, no quadril e nos joelhos"
+  ],
+  "gab": 1,
+  "tema": "protecao",
+  "sub": "Ambulância — criança sadia acompanhante",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.1 (criança que não está doente ou ferida)",
+  "coment": "A diretriz divide o transporte em cinco situações. Na primeira — criança sadia acompanhando um paciente — o IDEAL é transportá-la em outro veículo com sistema de retenção apropriado ou deixá-la sob supervisão de cuidador responsável. Não sendo possível, segue-se uma sequência: 1.2 a partir dos 10 anos, banco dianteiro da ambulância com cinto de três pontos; 1.3 antes dos 10 anos, mas já com 1,45 m, banco dianteiro em DRC apropriado; 1.4 DRC no assento do socorrista, fixado com cinto de três pontos (voltado para trás confere um pouco mais de segurança; bebê abaixo de um ano obrigatoriamente de costas); 1.5 cinto de dois pontos só a partir de 4 anos, com o banco voltado para trás; 1.6 DRC fixado na maca; 1.7 bancos laterais devem ser evitados. O colo nunca é aceitável, e cabe ao gestor do serviço prover os DRC.",
+  "porAlt": [
+   "O banco lateral envolve risco significativamente maior e deve ser evitado; seu uso é excepcional e exige fixação segura de DRC.",
+   "Correta: o ideal é outro veículo com retenção ou um cuidador; não sendo possível, a criança a partir de 10 anos viaja no banco dianteiro da ambulância com cinto de três pontos.",
+   "O transporte no colo, em qualquer assento, torna o risco ainda maior e não deve ser realizado.",
+   "Aos 11 anos não se usa assento de elevação por idade, e o banco lateral deve ser evitado pelo risco de lesão cervical e TCE.",
+   "A maca é da paciente; as três cintas transversais são a contenção da criança DOENTE transportada na maca, não de acompanhante sadio."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre transporte de crianças em ambulâncias, por que os bancos laterais do compartimento do paciente não devem ser usados para transportar crianças?",
+  "alts": [
+   "O impacto frontal desloca a cabeça lateralmente, com risco de lesão cervical e TCE, ligado a mais de 60% das mortes",
+   "O impacto traseiro projeta a cabeça para a frente, com risco de fratura de face, ligada a mais de 60% das mortes",
+   "O impacto frontal comprime o abdome contra o cinto lateral, com risco de lesão visceral, ligada a 40% das mortes",
+   "O impacto lateral projeta a criança contra a maca, com risco de trauma torácico, ligado a mais de 60% das mortes",
+   "Impedem o acesso da equipe durante a reanimação, embora sejam biomecanicamente seguros para as crianças maiores"
+  ],
+  "gab": 0,
+  "tema": "protecao",
+  "sub": "Ambulância — banco lateral",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 6 (Riscos a serem administrados) e item 7.1 (subitem 1.7)",
+  "coment": "Os ocupantes do compartimento do paciente têm probabilidade significativamente maior de morte ou ferimentos graves do que os dos bancos dianteiros. Foram documentados traumatismos cranioencefálicos em ocupantes do banco lateral, associados a mais de 60% das mortes nesses veículos. Esses assentos deveriam ter proteção lateral para a cabeça, e a diretriz recomenda que não sejam usados para crianças: como esse banco costuma ficar paralelo à maca, a força do impacto FRONTAL produz movimento LATERAL da cabeça da criança, com grande risco de lesão cervical e TCE. Só excepcionalmente, em ambulâncias com cintos de desenho próprio (duplos, cruzados e retráteis) que permitam fixar com segurança um DRC voltado para a frente ou para trás, esse local pode ser utilizado. A taxa de mortalidade por sinistro com ambulância por km é estimada em mais de 10 vezes a dos caminhões.",
+  "porAlt": [
+   "Correta: no banco lateral, o impacto frontal do veículo resulta em movimento lateral da cabeça da criança; o TCE de ocupantes desse banco está associado a mais de 60% das mortes nesses veículos.",
+   "O mecanismo descrito é o impacto FRONTAL com movimento lateral da cabeça; a fratura de face não é a lesão apontada.",
+   "A diretriz não descreve compressão abdominal nem o percentual de 40%; o problema é cervical e craniano.",
+   "O mecanismo é o impacto frontal que desloca a cabeça lateralmente; trauma torácico contra a maca não é o citado.",
+   "O banco lateral é biomecanicamente o problema: envolve risco significativamente maior e deveria ter proteção lateral para a cabeça."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos em choque séptico, sob monitorização contínua e infusão de drogas vasoativas, será transportada na maca da ambulância. Segundo a Diretriz ABRAMET, qual é a contenção mínima recomendada?",
+  "alts": [
+   "Pelo menos duas cintas transversais de retenção, posicionadas no tórax e no quadril da criança",
+   "Uma única cinta transversal no quadril, liberando o tórax para a monitorização e as intervenções",
+   "Pelo menos quatro cintas transversais, na cabeça, no tórax, no quadril e nos tornozelos da criança",
+   "Pelo menos três cintas transversais de retenção, posicionadas no tórax, no quadril e nos joelhos",
+   "Duas cintas cruzadas sobre os ombros, em X, fixadas à maca, sem necessidade de cinta nos membros"
+  ],
+  "gab": 3,
+  "tema": "protecao",
+  "sub": "Ambulância — contenção na maca",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.3 (criança que requer monitoramento ou intervenções contínuas/intensivas)",
+  "coment": "Para a criança doente ou ferida cuja condição exige monitoramento ou intervenções médicas contínuas e/ou intensivas (situação 3), a diretriz manda transportá-la na maca, com conforto e segurança, levando em conta as lesões e a doença, de modo a permitir assistência adequada, contida com pelo menos três cintas (ou material equivalente ou superior) de retenção transversais: tórax, quadril e joelhos. Quando bebê, pode ser usado DRC apropriado fixado na maca. A mesma regra das três cintas aparece na situação 2 (maca como alternativa ao assento do socorrista) e na situação 4 (imobilização em prancha, fixando primeiro a cabeça, depois tronco e membros, e por fim a prancha na maca). Se uma intervenção exigir retirar restrições, elas devem ser recolocadas assim que possível, com a marcha interrompida durante o procedimento.",
+  "porAlt": [
+   "Duas cintas ficam abaixo do mínimo; a diretriz exige três, incluindo a dos joelhos.",
+   "Uma única cinta não retém o tórax nem os membros; o mínimo é de três cintas transversais.",
+   "O número e os pontos não conferem: são três cintas, no tórax, no quadril e nos joelhos.",
+   "Correta: a criança na maca deve ser contida com pelo menos três cintas (ou material equivalente ou superior) de retenção transversais — tórax, quadril e joelhos.",
+   "A diretriz especifica cintas TRANSVERSAIS em três níveis, não um arranjo em X restrito aos ombros."
+  ]
+ },
+ {
+  "q": "Puérpera com hemorragia pós-parto será removida de ambulância junto com o recém-nascido sadio. Segundo a Diretriz ABRAMET sobre transporte de crianças em ambulâncias, qual é a disposição recomendada?",
+  "alts": [
+   "Mãe na maca e RN no colo dela, contido junto ao tórax materno pelas cintas da própria maca",
+   "Mãe na maca e RN em bebê conforto no banco dianteiro, com a face voltada para a frente",
+   "Mãe no banco lateral e RN em bebê conforto fixado na maca, com a face voltada para a frente",
+   "Mãe na maca e RN em bebê conforto no banco lateral, com a face voltada para a maca da mãe",
+   "Mãe na maca e RN em bebê conforto no assento do socorrista, com a face voltada para trás"
+  ],
+  "gab": 4,
+  "tema": "protecao",
+  "sub": "Ambulância — mãe com recém-nascido",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.5 (transporte simultâneo de crianças com outras pessoas)",
+  "coment": "Na situação 5 — transporte simultâneo de crianças com outras pessoas —, cada paciente ou acompanhante deve ser cuidado como se fosse o único. No caso específico de mãe com recém-nascido, o RN deve estar em DRC apropriado (bebê conforto), conforme as diretrizes da ABRAMET, no assento do socorrista, com a face voltada para trás, e a maca é utilizada pela mãe. Se os recursos disponíveis não atenderem a todos, o transporte é feito no espaço disponível, com a ambulância em velocidade bem abaixo da permitida para a via e evitando movimentos bruscos. A regra que não admite exceção: a criança, especialmente o RN, nunca deve ser transportada no colo de um adulto. Lembre que o bebê abaixo de um ano no assento do socorrista deve estar obrigatoriamente com a face voltada para trás.",
+  "porAlt": [
+   "A criança, especialmente o RN, nunca deve ser transportada no colo de um adulto.",
+   "O RN deve ficar de costas para o movimento, e a indicação é o assento do socorrista, não o banco dianteiro.",
+   "A maca é da mãe (paciente), e o banco lateral deve ser evitado; o RN não deve ficar de frente.",
+   "O banco lateral envolve risco significativamente maior e deve ser evitado para crianças.",
+   "Correta: no transporte de mãe com RN, o bebê vai em bebê conforto no assento do socorrista, com a face voltada para trás, e a maca é usada pela mãe."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre transporte de crianças em ambulâncias, uma criança de 15 kg sem DRC, em ambulância a 56 km/h que desacelera bruscamente, sofre impacto equivalente a:",
+  "alts": [
+   "Cerca de 1.800 J, como uma queda de aproximadamente 5 metros, a altura de um segundo andar",
+   "Cerca de 180 J, como uma queda de aproximadamente 1,2 metro, a altura de uma mesa comum",
+   "Cerca de 1.800 J, como uma queda de aproximadamente 12 metros, a altura de um quarto andar",
+   "Cerca de 18.000 J, como uma queda de aproximadamente 120 metros, a de um arranha-céu alto",
+   "Cerca de 1.800 J, como uma queda de aproximadamente 30 metros, a altura de um décimo andar"
+  ],
+  "gab": 2,
+  "tema": "protecao",
+  "sub": "Ambulância — energia do impacto na criança solta",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 6 (Riscos a serem administrados no transporte de crianças em ambulâncias)",
+  "coment": "Para justificar o uso de dispositivo de retenção para crianças (DRC) também nas ambulâncias, a diretriz faz a conta: uma criança de 15 kg, em ambulância a 56 km/h, em desaceleração brusca, é projetada com energia de 1.800 joules — o equivalente a uma queda de cerca de 12 metros de altura, a do quarto andar de um edifício. No mesmo raciocínio, a 36 km/h o impacto equivale a uma queda de 5 metros. Como a energia cinética cresce com o quadrado da velocidade, a diferença entre 36 e 56 km/h mais que dobra a 'altura de queda'. Além de se ferir gravemente, a criança sem DRC pode lesar outros ocupantes. A diretriz acrescenta que o DRC de criança envolvida em sinistro não deve ser reutilizado e que, sempre que possível, deve ser usado, apesar da dificuldade de definir o melhor local de fixação.",
+  "porAlt": [
+   "A queda de 5 metros corresponde, no mesmo raciocínio da diretriz, à velocidade de 36 km/h, não a 56 km/h.",
+   "O valor da energia está subestimado em dez vezes; a diretriz fala em 1.800 J.",
+   "Correta: a diretriz calcula 1.800 joules para a criança de 15 kg a 56 km/h, equivalentes a uma queda de cerca de 12 metros, o quarto andar de um edifício.",
+   "O valor está superestimado em dez vezes; a energia citada é de 1.800 J, equivalente a cerca de 12 m.",
+   "A energia está certa, mas a equivalência não: 1.800 J correspondem a cerca de 12 metros (quarto andar)."
+  ]
+ },
+ {
+  "q": "Durante o transporte de criança sob monitorização intensiva, a equipe precisa soltar parte das cintas da maca para realizar uma intervenção. Segundo a Diretriz ABRAMET, qual é a conduta?",
+  "alts": [
+   "Manter a marcha em velocidade reduzida e recolocar as restrições só na chegada ao hospital de destino",
+   "Interromper a marcha durante a intervenção e manter a criança sem restrições até o final do trajeto",
+   "Manter a marcha normal, pois a prioridade assistencial dispensa as restrições durante toda a remoção",
+   "Interromper a marcha durante a intervenção e recolocar as restrições assim que for medicamente possível",
+   "Passar a criança para o colo do socorrista, que a contém durante a intervenção com o veículo andando"
+  ],
+  "gab": 3,
+  "tema": "protecao",
+  "sub": "Ambulância — intervenção durante o transporte",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.3 (subitem 3.2)",
+  "coment": "A diretriz reconhece que a equipe de socorro, usando cinto, terá dificuldade para certas intervenções (como a RCP) e que nem sempre será possível obedecer às normas de segurança de outros veículos. Por isso, para a criança que exige monitoramento ou intervenções contínuas/intensivas, estabelece: se o estado da criança demandar intervenções que exijam eliminar algumas restrições, logo que as intervenções forem concluídas e seja medicamente possível, as restrições devem ser recolocadas o mais rapidamente possível; e, no melhor interesse da criança e dos profissionais, durante essas intervenções a marcha da ambulância deve ser interrompida. Os tripulantes do compartimento do paciente devem usar cinto em qualquer posição, e os familiares acompanhantes devem ir no banco da frente. A responsabilidade pelo transporte seguro é da equipe, e cabe ao gestor prover os DRC.",
+  "porAlt": [
+   "A diretriz manda recolocar as restrições logo que medicamente possível, e não apenas na chegada; e recomenda interromper a marcha.",
+   "Parar a marcha está correto, mas a criança não deve seguir sem restrições: elas devem ser recolocadas assim que possível.",
+   "A prioridade assistencial não dispensa a contenção; as restrições só são retiradas pelo tempo da intervenção.",
+   "Correta: concluídas as intervenções, as restrições devem ser recolocadas o mais rápido possível, e, no melhor interesse da criança e da equipe, a marcha deve ser interrompida durante elas.",
+   "O colo, em qualquer assento, torna o risco ainda maior e não deve ser realizado."
+  ]
+ },
+ {
+  "q": "A ambulância disponível tem o assento do socorrista equipado apenas com cinto de dois pontos. Segundo a Diretriz ABRAMET, em que condição uma criança acompanhante pode, excepcionalmente, viajar nele?",
+  "alts": [
+   "A partir de 1 ano de idade, sempre com o banco voltado para trás",
+   "A partir de 4 anos, sempre com o banco voltado à frente do veículo",
+   "A partir de 10 anos de idade, com o banco voltado em qualquer direção",
+   "Em qualquer idade, desde que no colo de um adulto também contido",
+   "A partir de 4 anos de idade, sempre com o banco voltado para trás"
+  ],
+  "gab": 4,
+  "tema": "protecao",
+  "sub": "Ambulância — assento do socorrista com cinto de dois pontos",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.1 (subitem 1.5)",
+  "coment": "Na sequência de alternativas para a criança sadia que acompanha um paciente, a diretriz prevê o uso do assento do socorrista com DRC apropriado fixado por cinto de três pontos (Isofix/Latch, quando disponível, acrescenta segurança), lembrando que esse assento voltado para trás confere um pouco mais de segurança e que o bebê abaixo de um ano deve ir em bebê conforto obrigatoriamente de costas. O subitem 1.5 traz a exceção: quando o assento do socorrista for dotado de cinto de DOIS pontos, uma criança a partir de 4 anos poderá ser transportada excepcionalmente com essa retenção, sempre com o banco voltado para trás. Nas demais situações, a preferência pelo assento voltado para trás se repete: é o caso do RN com a mãe, que vai em bebê conforto no assento do socorrista, de costas, com a mãe na maca.",
+  "porAlt": [
+   "A idade mínima para essa exceção é de 4 anos; bebês e crianças pequenas precisam de DRC apropriado.",
+   "A idade está certa, mas o banco deve estar sempre voltado para TRÁS.",
+   "A partir de 10 anos a criança vai no banco dianteiro com cinto de três pontos; a exceção do cinto de dois pontos exige banco voltado para trás.",
+   "O transporte no colo, em qualquer assento, torna o risco maior e não deve ser realizado.",
+   "Correta: quando o assento do socorrista tiver cinto de dois pontos, uma criança a partir de 4 anos pode ser transportada excepcionalmente com essa retenção, sempre com o banco voltado para trás."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET 'Segurança no transporte veicular de crianças – Parte II', qual é a recomendação sobre os banquinhos auxiliares do tipo shield booster?",
+  "alts": [
+   "São apropriados a partir de 4 anos, desde que retidos pela faixa subabdominal do cinto do veículo",
+   "Substituem o assento de elevação a partir de 18 kg, pois dispensam o uso do cinto de três pontos",
+   "Não são apropriados a crianças de qualquer idade, pelo maior risco de ferimentos a eles associado",
+   "São apropriados apenas no centro do banco traseiro, onde o escudo almofadado absorve o impacto",
+   "São indicados até 36 kg, quando a criança já deixou a cadeirinha e ainda não alcança os 1,45 m"
+  ],
+  "gab": 2,
+  "tema": "protecao",
+  "sub": "Crianças — shield booster",
+  "base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças – Parte II' (2006), item 2.4",
+  "coment": "O assento de elevação (booster seat) é indicado quando a cadeirinha ficou pequena, mas a criança ainda não tem altura para usar o cinto do veículo; ele eleva a criança para que o cinto de TRÊS pontos fique corretamente posicionado, e seu uso é aconselhado até 36 kg e cerca de 10 anos. Coisa bem diferente são os banquinhos auxiliares chamados shield boosters: um escudo almofadado retido apenas pela faixa subabdominal do veículo. A diretriz é categórica — não são apropriados para crianças de qualquer idade, pois estudos mostram risco aumentado de ferimentos. Na mesma linha, os 'cintos de segurança infantis' de dimensões reduzidas não garantem a retenção em testes dinâmicos e não são aconselháveis. Outro ponto: a avaliação equivocada dos pais de que a criança já cabe no cinto adulto é a causa mais frequente do não uso do booster.",
+  "porAlt": [
+   "Ser retido apenas pela faixa subabdominal é justamente a característica do shield booster que a diretriz condena.",
+   "O assento de elevação deve ser usado COM o cinto de três pontos; o shield booster não o substitui.",
+   "Correta: a diretriz afirma que os shield boosters, escudo almofadado retido só pela faixa subabdominal, não são apropriados para crianças de qualquer idade, pelo risco aumentado de ferimentos.",
+   "A diretriz não abre exceção de posição: esses banquinhos não são apropriados em nenhuma situação.",
+   "Essa faixa (até 36 kg e 1,45 m) é a do assento de elevação (booster), não a do shield booster."
+  ]
+ },
+ {
+  "q": "Médico do tráfego orienta candidato a condutor sobre a convivência com ciclistas. Segundo o CTB, citado na Diretriz ABRAMET sobre bicicletas, que distância lateral deve ser guardada ao ultrapassar uma bicicleta?",
+  "alts": [
+   "Um metro e cinquenta centímetros, sob pena de infração gravíssima, com multa (art. 201)",
+   "Um metro, sob pena de infração média, com multa e retenção do veículo (art. 201)",
+   "Dois metros, sob pena de infração grave, com multa e suspensão do direito (art. 201)",
+   "Um metro e meio só em rodovias; nas vias urbanas basta um metro de distância (art. 201)",
+   "Um metro e cinquenta centímetros, sob pena de infração média, com multa (art. 201)"
+  ],
+  "gab": 4,
+  "tema": "grupos",
+  "sub": "Ciclistas — distância lateral na ultrapassagem",
+  "base": "CTB (Lei 9.503/1997), art. 201; Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas' (2022), item 3 (Legislação)",
+  "coment": "A diretriz ABRAMET sobre bicicletas lembra que o CTB adotou o princípio da responsabilidade no trânsito: o condutor do veículo de maior porte é responsável pela segurança do menor, os motorizados pelos não motorizados e, juntos, pela incolumidade do pedestre. Daí as infrações para o condutor que oferece risco ao ciclista, como a do art. 201: 'deixar de guardar a distância lateral de um metro e cinquenta centímetros ao passar ou ultrapassar bicicleta' — infração média, penalidade multa. Para o ciclista, o art. 255 pune conduzir bicicleta em passeios onde não seja permitido ou de forma agressiva (média, multa e remoção da bicicleta). O art. 58 manda a bicicleta circular, na falta de ciclovia, ciclofaixa ou acostamento, nos bordos da pista, no mesmo sentido da via, com preferência sobre os automotores; e o art. 68, §1º, equipara o ciclista desmontado ao pedestre.",
+  "porAlt": [
+   "A distância está certa, mas a infração do art. 201 é MÉDIA, não gravíssima.",
+   "A distância exigida é de 1,50 m, e o art. 201 não prevê retenção do veículo.",
+   "A distância é de 1,50 m e a infração é média, sem suspensão do direito de dirigir.",
+   "O art. 201 não distingue rodovias de vias urbanas: a distância é sempre de 1,50 m.",
+   "Correta: o art. 201 pune deixar de guardar a distância lateral de 1,50 m ao passar ou ultrapassar bicicleta; infração média, penalidade de multa."
+  ]
+ },
+ {
+  "q": "Ciclista usa o capacete folgado e, às vezes, virado para trás. Segundo a Diretriz ABRAMET sobre bicicletas, qual é o efeito descrito desses erros de uso?",
+  "alts": [
+   "Mal ajustado, eleva em 52% o risco de TCE; virado para trás, duplica o risco de ferimento na cabeça",
+   "Mal ajustado, triplica o risco de TCE; virado para trás, não altera o risco de ferimento na cabeça",
+   "Mal ajustado, duplica o risco de TCE; virado para trás, eleva em 52% o risco de ferimento na cabeça",
+   "Mal ajustado, não altera o risco de TCE; virado para trás, eleva em 25% o risco de ferimento na cabeça",
+   "Mal ajustado, duplica o risco de TCE; virado para trás, reduz em 52% o risco de lesão na coluna cervical"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "Ciclistas — capacete mal ajustado",
+  "base": "Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas' (2022), item 5 (Capacete)",
+  "coment": "Ajustar o capacete é imprescindível: mal ajustado, ele pode sair da cabeça durante a queda. A diretriz cita estudos comparativos segundo os quais capacetes mal ajustados duplicam o risco de TCE e, usados virados para trás, aumentam em 52% o risco de ferimentos na cabeça em relação ao capacete centralizado. Técnica de ajuste descrita: medir o perímetro cefálico dois dedos acima das orelhas; capacete nivelado cobrindo parte da testa; fivelas laterais formando um 'V' na altura da orelha; cerca de dois dedos entre o queixo e a fivela. Deve ser substituído após queda ou rachadura e, conforme o uso, a cada 3 a 5 anos. Bem usado, o capacete reduz em até 85% o risco de TCE, até 88% o de lesão cerebral grave e até 65% o de lesões faciais. No Brasil, a norma é a ABNT NBR 16175 com o INMETRO.",
+  "porAlt": [
+   "Os números estão trocados: duplicar é o efeito do mau ajuste; 52% é o do capacete virado para trás.",
+   "O mau ajuste DUPLICA (não triplica) o risco, e o uso virado para trás também o eleva, em 52%.",
+   "Correta: estudos comparativos citados mostram que capacetes mal ajustados duplicam o risco de TCE e, virados para trás, aumentam em 52% o risco de ferimentos na cabeça.",
+   "O mau ajuste é relevante — pode fazer o capacete sair da cabeça na queda — e duplica o risco de TCE.",
+   "O capacete virado para trás AUMENTA em 52% o risco de ferimento na cabeça; não há redução de lesão cervical."
+  ]
+ },
+ {
+  "q": "Segundo o art. 105, VI, do CTB, reproduzido na Diretriz ABRAMET sobre bicicletas, qual dos itens abaixo NÃO é equipamento obrigatório da bicicleta?",
+  "alts": [
+   "Campainha que identifique a bicicleta em movimento",
+   "Capacete de segurança certificado para o ciclista",
+   "Espelho retrovisor do lado esquerdo, junto ao guidom",
+   "Sinalização noturna dianteira, traseira e lateral",
+   "Sinalização noturna retrorrefletiva nos dois pedais"
+  ],
+  "gab": 1,
+  "tema": "grupos",
+  "sub": "Ciclistas — equipamentos obrigatórios da bicicleta",
+  "base": "CTB (Lei 9.503/1997), art. 105, VI; Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas' (2022), itens 3 e 8",
+  "coment": "O art. 105, VI, do CTB lista como equipamentos obrigatórios das bicicletas: campainha, sinalização noturna dianteira, traseira, lateral e nos pedais, e espelho retrovisor do lado esquerdo. A Resolução CONTRAN 46/98, reproduzida na diretriz, detalha para bicicletas com aro superior a vinte: retrovisor esquerdo acoplado ao guidom e sem haste; campainha (dispositivo sonoro capaz de identificar a bicicleta em movimento); e retrorrefletores com alcance mínimo de 30 metros — brancos ou amarelos na dianteira, vermelhos na traseira e de qualquer cor nas laterais e pedais. O capacete, por sua vez, NÃO é obrigatório pela legislação brasileira. A diretriz, porém, recomenda que seu uso seja fortemente encorajado e discute critérios para uma eventual obrigatoriedade, lembrando que a abordagem abrangente (educação, legislação e fiscalização) é a mais eficaz para sustentar a adesão.",
+  "porAlt": [
+   "A campainha consta do art. 105, VI, do CTB, e a Res. CONTRAN 46/98 a define como dispositivo sonoro capaz de identificar a bicicleta em movimento.",
+   "Correta: o capacete não é equipamento obrigatório da bicicleta nem exigido do ciclista pela legislação brasileira; a diretriz apenas recomenda fortemente o seu uso.",
+   "O espelho retrovisor do lado esquerdo é obrigatório (art. 105, VI); a Res. 46/98 detalha que é acoplado ao guidom.",
+   "A sinalização noturna dianteira, traseira e lateral é obrigatória pelo art. 105, VI, do CTB.",
+   "A sinalização noturna nos pedais também integra a lista do art. 105, VI, do CTB."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre bicicletas, qual perfil é composto apenas por fatores associados ao aumento da mortalidade por sinistros de bicicleta?",
+  "alts": [
+   "Menina de 10 a 15 anos que pedala pela manhã, menos de 1 hora por semana, em ciclovias de área urbana",
+   "Homem de 30 a 40 anos que pedala ao meio-dia, menos de 1 hora por semana, em ciclofaixas de área urbana",
+   "Menino de 10 a 15 anos que pedala ao anoitecer, mais de 3 horas por semana, em rodovias de área rural",
+   "Mulher de 20 a 29 anos que pedala à tarde, cerca de 2 horas por semana, em calçadas autorizadas a isso",
+   "Menino de 5 a 9 anos que pedala ao meio-dia, menos de 1 hora por semana, em parques fechados ao trânsito"
+  ],
+  "gab": 2,
+  "tema": "grupos",
+  "sub": "Ciclistas — fatores associados à mortalidade",
+  "base": "Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas' (2022), item 2 (Fatores de risco)",
+  "coment": "A diretriz enumera fatores associados ao aumento da mortalidade por sinistros de bicicleta, descritos em estudos observacionais: idade entre 10 e 15 anos e gênero masculino; deslocamentos ao amanhecer, ao anoitecer ou à noite; deslocamentos frequentes (por exemplo, mais de 3 horas por semana); e deslocamentos em rodovias e em áreas rurais. Outros dados do texto: ciclistas de 50 anos ou mais têm duas vezes mais probabilidade de lesão grave (estudo australiano); a maioria dos acidentes e mortes ocorre entre 6h e 9h e entre 15h e 21h, horários de pico; e a velocidade lidera os fatores — a tolerância de um usuário vulnerável é ultrapassada por veículo a mais de 30 km/h, e a probabilidade de lesão fatal do ciclista sobe 11 vezes acima de 64,4 km/h e 16 vezes a 80,5 km/h.",
+  "porAlt": [
+   "O sexo citado como fator é o masculino, não o feminino; e a baixa exposição semanal e as ciclovias urbanas não estão entre os fatores listados.",
+   "Meio-dia, baixa exposição semanal e ciclofaixas não figuram entre os fatores de maior mortalidade.",
+   "Correta: idade de 10 a 15 anos e sexo masculino associam-se a maior mortalidade, somados a deslocamentos ao amanhecer, anoitecer ou noite, frequentes (> 3 h/semana), em rodovias e áreas rurais.",
+   "Sexo feminino, exposição de cerca de 2 horas semanais e calçadas autorizadas não estão entre os fatores associados pela diretriz.",
+   "A faixa citada é de 10 a 15 anos; meio-dia e parques fechados não estão entre os fatores de risco."
+  ]
+ },
+ {
+  "q": "Pai conduz motocicleta levando na garupa o filho de 8 anos, que usa capacete adequado. Segundo o CTB vigente, qual é o enquadramento dessa conduta?",
+  "alts": [
+   "Infração gravíssima (art. 244, V), com multa e suspensão do direito de dirigir",
+   "Infração média (art. 244, V), só com multa, pois a criança usava o capacete",
+   "Nenhuma infração, pois o CTB só veda na garupa as crianças com menos de 7 anos",
+   "Infração grave (art. 244, II), com multa e retenção até a troca do passageiro",
+   "Infração grave (art. 244, IX), com multa e apreensão do veículo para regularizar"
+  ],
+  "gab": 0,
+  "tema": "grupos",
+  "sub": "Motociclista — transporte de criança",
+  "base": "CTB (Lei 9.503/1997), art. 244, V, com redação da Lei 14.071/2020",
+  "coment": "O art. 244 do CTB reúne as infrações do condutor de motocicleta, motoneta ou ciclomotor. O inciso V, com redação dada pela Lei 14.071/2020, pune conduzir 'transportando criança menor de 10 (dez) anos de idade ou que não tenha, nas circunstâncias, condições de cuidar da própria segurança': infração gravíssima, penalidade de multa e suspensão do direito de dirigir, com medida administrativa de retenção do veículo até regularização e recolhimento do documento de habilitação. O capacete da criança não descaracteriza a infração, porque o critério é a idade (ou a incapacidade de cuidar da própria segurança). Os arts. 54 e 55 exigem, para condutor e passageiro, capacete com viseira ou óculos (condutor) e vestuário conforme o CONTRAN, com o passageiro em assento suplementar atrás do condutor ou em carro lateral. É orientação típica ao candidato motociclista no exame de aptidão.",
+  "porAlt": [
+   "Correta: o art. 244, V (redação da Lei 14.071/2020), pune transportar criança menor de 10 anos ou sem condições de cuidar da própria segurança: gravíssima, multa e suspensão do direito de dirigir.",
+   "O uso de capacete não afasta a infração: o critério é a idade inferior a 10 anos, e a natureza é gravíssima.",
+   "O limite legal é de 10 anos (ou a falta de condições de cuidar da própria segurança), não 7.",
+   "O inciso II trata do passageiro sem capacete ou fora do assento suplementar; aqui a infração é a idade da criança.",
+   "O inciso IX refere-se ao transporte remunerado de mercadorias em desacordo com o art. 139-A."
+  ]
+ },
+ {
+  "q": "A Resolução 74/299 da Assembleia Geral da ONU declarou a Segunda Década de Ação pela Segurança no Trânsito. Segundo o Plano Global da OMS, qual é o período e a meta dessa Década?",
+  "alts": [
+   "2021–2030, com redução de pelo menos 50% das mortes e lesões no trânsito no período",
+   "2011–2020, com redução de pelo menos 50% das mortes e lesões no trânsito no período",
+   "2021–2030, com redução de pelo menos 30% das mortes e lesões no trânsito no período",
+   "2021–2030, com meta de zerar as mortes no trânsito nos países de alta renda até 2030",
+   "2020–2029, com redução de pelo menos 75% das mortes de pedestres e de ciclistas no mundo"
+  ],
+  "gab": 0,
+  "tema": "epidemiologia",
+  "sub": "Década de Ação 2021–2030 — meta",
+  "base": "OMS/Comissões Regionais da ONU, Global Plan for the Decade of Action for Road Safety 2021–2030 (2021), Introdução e Parte V (Monitoramento); Resolução A/RES/74/299 da Assembleia Geral da ONU",
+  "coment": "O Plano Global para a Década de Ação pela Segurança no Trânsito 2021–2030 foi elaborado pela OMS com as Comissões Regionais da ONU. Ele parte da Resolução 74/299 da Assembleia Geral, que declarou, por unanimidade, a Segunda Década de Ação (2021–2030) com a meta explícita de reduzir as mortes e lesões no trânsito em pelo menos 50% no período; a segurança viária também integra os Objetivos de Desenvolvimento Sustentável (metas 3.6 e 11.2). Pelas estimativas do Plano, a redução visada é da ordem de 650 mil mortes globalmente. O principal mecanismo de monitoramento é o Global status report on road safety da OMS, com linha de base em 2021 e avaliações de meio (2025) e fim de período (2030). A primeira Década de Ação foi 2011–2020. O Plano propõe uma abordagem integrada de Sistema Seguro e cita cerca de 1,3 milhão de mortes e 50 milhões de feridos por ano.",
+  "porAlt": [
+   "Correta: a Resolução 74/299 declarou a Década de Ação 2021–2030 com a meta explícita de reduzir mortes e lesões no trânsito em pelo menos 50% no período.",
+   "2011–2020 foi a PRIMEIRA Década de Ação; a Resolução 74/299 declarou a segunda, de 2021 a 2030.",
+   "O período está certo, mas a meta é de pelo menos 50%, não 30%.",
+   "A meta é global (redução de pelo menos 50%), não de zerar mortes em um grupo de países; 'zero' é a premissa de longo prazo do Sistema Seguro.",
+   "Período e meta errados: 2021–2030, com redução de ao menos 50% de todas as mortes e lesões, não só de vulneráveis."
+  ]
+ },
+ {
+  "q": "O Plano Global da OMS para a Década de Ação 2021–2030 se apoia na abordagem de Sistema Seguro. Qual das afirmativas NÃO corresponde a um princípio dessa abordagem?",
+  "alts": [
+   "Antecipar e acomodar os erros humanos, de modo que o sistema os tolere sem produzir mortes nem lesões",
+   "Projetar vias e veículos que limitem as forças do impacto a níveis compatíveis com a tolerância humana",
+   "Compartilhar a responsabilidade com quem projeta as vias, fabrica os veículos e administra a segurança",
+   "Buscar zero mortes e lesões graves, sem sacrificar a segurança por custo ou menor tempo de viagem",
+   "Atribuir ao condutor a responsabilidade principal, pois a maioria dos sinistros decorre de erro humano"
+  ],
+  "gab": 4,
+  "tema": "epidemiologia",
+  "sub": "Sistema Seguro — princípios",
+  "base": "OMS/Comissões Regionais da ONU, Global Plan for the Decade of Action for Road Safety 2021–2030 (2021), Parte I (Building on the Safe System approach)",
+  "coment": "Segundo o Plano Global, a abordagem de Sistema Seguro — elemento central da Década de Ação — reconhece o transporte viário como sistema complexo em que pessoas, veículos e infraestrutura devem interagir com alto nível de segurança. Um Sistema Seguro: (1) antecipa e acomoda os erros humanos; (2) incorpora projetos de vias e veículos que limitam as forças do impacto a níveis dentro da tolerância humana, para prevenir morte ou lesão grave; (3) motiva quem projeta e mantém as vias, fabrica os veículos e administra os programas de segurança a compartilhar a responsabilidade com os usuários, de modo que, ocorrido o sinistro, se busquem soluções em todo o sistema em vez de culpar apenas o condutor; (4) busca melhoria proativa e contínua de vias e veículos; e (5) parte da premissa de zero mortes ou lesões graves, sem trocar segurança por custo ou rapidez. O elo com a medicina do tráfego é a tolerância humana a impactos.",
+  "porAlt": [
+   "É princípio: o Sistema Seguro antecipa e acomoda os erros humanos.",
+   "É princípio: vias e veículos devem limitar as forças do impacto a níveis dentro da tolerância humana.",
+   "É princípio: a responsabilidade é compartilhada com quem projeta e mantém vias, fabrica veículos e administra programas de segurança.",
+   "É princípio: o sistema deve produzir zero mortes ou lesões graves, sem comprometer a segurança por custo ou rapidez.",
+   "Correta (NÃO é princípio): o Sistema Seguro busca soluções em todo o sistema, em vez de culpar apenas o condutor ou os demais usuários da via."
+  ]
+ },
+ {
+  "q": "Segundo o Plano Global da Década de Ação 2021–2030, por que um Sistema Seguro limitaria a velocidade a 50 km/h ou menos em vias com interseções onde se esperam impactos laterais?",
+  "alts": [
+   "Porque veículos conformes às normas da ONU limitam as forças a níveis sobreviventes em impactos laterais até 50 km/h",
+   "Porque veículos conformes às normas da ONU limitam as forças a níveis sobreviventes em impactos frontais até 50 km/h",
+   "Porque acima de 50 km/h a distância total de parada passa a superar a largura média das interseções nas cidades",
+   "Porque pedestres atropelados a até 50 km/h têm probabilidade de morte inferior a 10% nas interseções das cidades",
+   "Porque acima de 50 km/h os airbags laterais deixam de ser acionados, anulando a proteção de quem vai no veículo"
+  ],
+  "gab": 0,
+  "tema": "epidemiologia",
+  "sub": "Sistema Seguro — gestão da velocidade",
+  "base": "OMS/Comissões Regionais da ONU, Global Plan for the Decade of Action for Road Safety 2021–2030 (2021), Parte III (Speed management) e Box 2",
+  "coment": "A gestão da velocidade é fator transversal no Sistema Seguro. O Plano Global explica que veículos que atendem às normas veiculares da ONU (ou equivalentes nacionais) são projetados para limitar as forças sobre ocupantes e pedestres a níveis sobreviventes em impactos LATERAIS até velocidades de colisão de 50 km/h; por isso, um Sistema Seguro limitaria a 50 km/h ou menos as vias com interseções onde se esperam impactos laterais. Em áreas urbanas densas, com mistura previsível de carros, ciclistas, motociclistas e pedestres, há forte evidência de que nem o melhor projeto viário e veicular garante segurança acima de 30 km/h — daí o limite máximo de 30 km/h, salvo forte evidência em contrário. O Box 2 cita ambientes de velocidade como 30 km/h nos centros urbanos, até 80 km/h em rodovias rurais de pista simples e 100 km/h em vias expressas.",
+  "porAlt": [
+   "Correta: o Plano explica que veículos conformes às normas da ONU limitam as forças sobre ocupantes e pedestres a níveis sobreviventes em impactos laterais de até 50 km/h.",
+   "O raciocínio do Plano se refere aos impactos LATERAIS, típicos das interseções, e não aos frontais.",
+   "A justificativa do Plano é biomecânica (forças sobreviventes no impacto lateral), não a distância de parada.",
+   "Nas diretrizes, a morte de pedestre a 50 km/h passa de 80%; por isso, onde há mistura de usuários, o limite recomendado é 30 km/h.",
+   "Não há no Plano afirmação sobre falha de acionamento de airbag acima de 50 km/h."
+  ]
+ },
+ {
+  "q": "Segundo o Plano Global da OMS para a Década de Ação 2021–2030, qual é a situação dos países de baixa e média renda na distribuição das mortes no trânsito?",
+  "alts": [
+   "Concentram cerca de 60% das mortes, embora tenham mais de 90% dos veículos motorizados do mundo",
+   "Concentram mais de 90% das mortes, embora tenham menos de 60% dos veículos motorizados do mundo",
+   "Concentram mais de 90% das mortes, fatia equivalente à sua participação na frota mundial de veículos",
+   "Concentram cerca de 50% das mortes, embora tenham menos de 30% dos veículos motorizados do mundo",
+   "Concentram mais de 75% das mortes, embora tenham menos de 20% dos veículos motorizados do mundo"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Países de baixa e média renda",
+  "base": "OMS/Comissões Regionais da ONU, Global Plan for the Decade of Action for Road Safety 2021–2030 (2021), Parte III (Focus on low- and middle-income countries)",
+  "coment": "O Plano Global dedica uma seção aos países de baixa e média renda, que respondem por mais de 90% de todas as mortes no trânsito embora possuam menos de 60% dos veículos motorizados do mundo — atingir a meta da Década exige, portanto, atenção e apoio especiais a esses países. O documento sugere que eles podem 'saltar etapas' e adotar diretamente uma abordagem integrada de transporte seguro e sustentável, em vez de intervenções isoladas. A diretriz ABRAMET sobre tolerância humana a impactos converge: em países de baixa e média renda (perfil em que o Brasil se encaixa), reduções de velocidade têm impacto ainda maior, pela maior presença de usuários vulneráveis, frota heterogênea e infraestrutura menos padronizada. O Plano também lembra que o trânsito é a principal causa de morte entre pessoas de 5 a 29 anos.",
+  "porAlt": [
+   "Os números estão invertidos: mais de 90% das mortes com menos de 60% da frota.",
+   "Correta: segundo o Plano, os países de baixa e média renda respondem por mais de 90% das mortes no trânsito, apesar de terem menos de 60% dos veículos motorizados do mundo.",
+   "A desproporção é o ponto central: a fatia das mortes (> 90%) supera muito a da frota (< 60%).",
+   "Os percentuais não conferem com o Plano: > 90% das mortes e < 60% dos veículos.",
+   "Os percentuais não conferem com o Plano: > 90% das mortes e < 60% dos veículos."
+  ]
+ },
+ {
+  "q": "A matriz de Haddon, apresentada no Relatório Mundial sobre Prevenção de Lesões no Trânsito da OMS (2004), organiza as oportunidades de intervenção cruzando quais dimensões?",
+  "alts": [
+   "Três níveis de prevenção (primária, secundária e terciária) e três fatores: humano, veículo e via",
+   "Duas fases do evento (antes e depois da colisão) e quatro fatores: humano, veículo, via e clima",
+   "Três fases do evento (pré-colisão, colisão e pós-colisão) e dois fatores: o humano e a infraestrutura",
+   "Três fases do evento (pré-colisão, colisão e pós-colisão) e três fatores: humano, veículo e ambiente",
+   "Quatro eixos (educação, engenharia, fiscalização e socorro) e três fatores: humano, veículo e via"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Matriz de Haddon — estrutura",
+  "base": "OMS, World report on road traffic injury prevention (Peden M et al., 2004), capítulo 1, Figura 1.3 (The Haddon Matrix)",
+  "coment": "O Relatório Mundial da OMS (2004) lembra que William Haddon Jr descreveu o transporte viário como um sistema 'homem-máquina' mal projetado, que precisava de tratamento sistêmico. Ele definiu três fases da sequência temporal de um sinistro — pré-colisão, colisão e pós-colisão — e a tríade epidemiológica humano, máquina (veículo e equipamento) e ambiente, que interagem em cada fase. A matriz resultante, de nove células, modela um sistema dinâmico em que cada célula é uma oportunidade de intervenção. Na pré-colisão, busca-se prevenir o sinistro (informação, atitudes, condições do veículo, projeto da via, limites de velocidade); na colisão, prevenir a lesão (uso de retenção, retenção dos ocupantes, objetos de beira de via protetores); na pós-colisão, manter a vida (primeiros socorros, acesso ao ocupante, resgate). Não confundir com o 'trinômio' educação–engenharia–fiscalização.",
+  "porAlt": [
+   "A matriz não usa os níveis de prevenção; usa as fases temporais do evento.",
+   "São três fases (incluindo a própria colisão) e três fatores; o clima entra no fator ambiente.",
+   "As fases estão certas, mas os fatores são três: humano, veículo/equipamento e ambiente.",
+   "Correta: Haddon definiu três fases da sequência temporal do sinistro (pré-colisão, colisão e pós-colisão) e a tríade humano, veículo/equipamento e ambiente, formando uma matriz de nove células.",
+   "Educação, engenharia e fiscalização compõem o 'trinômio do trânsito'; não são os eixos da matriz de Haddon."
+  ]
+ },
+ {
+  "q": "Uma prefeitura treina taxistas e motoristas de ônibus em primeiros socorros para vítimas de trânsito. Na matriz de Haddon (OMS, 2004), em que célula se classifica essa intervenção?",
+  "alts": [
+   "Fase pré-colisão, fator humano — como a informação, as atitudes e a fiscalização policial do condutor",
+   "Fase de colisão, fator humano — como o uso dos dispositivos de retenção pelos ocupantes do veículo",
+   "Fase pós-colisão, fator ambiente — como os recursos de resgate e o congestionamento da via afetada",
+   "Fase pós-colisão, fator humano — como a habilidade em primeiros socorros e o acesso ao socorro médico",
+   "Fase pós-colisão, fator veículo — como a facilidade de acesso ao ocupante e o risco de incêndio dele"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Matriz de Haddon — classificação de intervenção",
+  "base": "OMS, World report on road traffic injury prevention (Peden M et al., 2004), Figura 1.3; OMS/Comissões Regionais da ONU, Global Plan for the Decade of Action for Road Safety 2021–2030 (2021), Parte II (Post-crash response, Box 5)",
+  "coment": "Na matriz de Haddon reproduzida pela OMS (2004), a fase pós-colisão tem como objetivo a manutenção da vida. Suas células são: fator humano — habilidade em primeiros socorros e acesso a socorro médico; fator veículo/equipamento — facilidade de acesso ao ocupante e risco de incêndio; fator ambiente — recursos de resgate e congestionamento. Treinar leigos em primeiros socorros é, portanto, intervenção pós-colisão sobre o fator humano. O Plano Global 2021–2030 recomenda exatamente isso: capacitar socorristas leigos, como policiais, bombeiros e motoristas profissionais (taxistas e condutores de transporte público), que frequentemente chegam primeiro à cena, e protegê-los com leis do 'Bom Samaritano'; propõe ainda número único de emergência de cobertura nacional e registros de trauma. Pegadinha: recursos de resgate (ambulâncias, equipes) ficam no fator ambiente.",
+  "porAlt": [
+   "Informação, atitudes e fiscalização são itens da fase pré-colisão, voltados a evitar o sinistro, não a socorrer a vítima.",
+   "O uso de dispositivos de retenção pertence à fase de colisão (prevenção da lesão durante o impacto).",
+   "Recursos de resgate e congestionamento são itens da célula pós-colisão × ambiente, não da capacitação de pessoas.",
+   "Correta: na matriz, a célula pós-colisão × humano traz 'habilidade em primeiros socorros' e 'acesso a médicos'; treinar leigos que chegam primeiro à cena atua aí.",
+   "Facilidade de acesso e risco de incêndio são atributos do veículo na pós-colisão, não habilidades humanas."
+  ]
+ },
+ {
+  "q": "Segundo o Relatório Mundial sobre Prevenção de Lesões no Trânsito (OMS, 2004), o risco no trânsito é função de quatro elementos. Quais são eles?",
+  "alts": [
+   "Exposição, probabilidade de colisão dada a exposição, gravidade do veículo envolvido e custo do tratamento",
+   "Exposição, probabilidade de colisão dada a exposição, probabilidade de lesão dada a colisão e seu desfecho",
+   "Condutor, veículo, via e ambiente, avaliados em conjunto nas fases de pré-colisão, colisão e pós-colisão",
+   "Velocidade, álcool, não uso do cinto e não uso do capacete, os quatro fatores de comportamento principais",
+   "Tamanho da frota, população, extensão da malha viária e número de condutores habilitados na região estudada"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Elementos do risco no trânsito",
+  "base": "OMS, World report on road traffic injury prevention (Peden M et al., 2004), capítulo 3 (Risk factors), Introdução e Figura 3.1",
+  "coment": "No capítulo de fatores de risco, o Relatório Mundial da OMS define que, no trânsito, o risco é função de quatro elementos: (1) a exposição — a quantidade de deslocamento no sistema por diferentes usuários ou dada densidade populacional; (2) a probabilidade subjacente de colisão, dada certa exposição; (3) a probabilidade de lesão, dada uma colisão; e (4) o desfecho da lesão. A Figura 3.1 agrupa os fatores de risco nessa lógica: fatores que influenciam a exposição (econômicos, demográficos, uso do solo, mistura de tráfego rápido com vulneráveis); que influenciam o envolvimento na colisão (velocidade, álcool e drogas, fadiga, ser homem jovem, escuridão, defeitos do veículo e da via, visão deficiente); que influenciam a gravidade (tolerância humana, velocidade, não uso de cinto, retenção infantil e capacete); e que influenciam a gravidade pós-colisão (atraso na detecção, incêndio, dificuldade de resgate, falta de atendimento pré-hospitalar).",
+  "porAlt": [
+   "Os dois primeiros elementos estão certos, mas os demais são a probabilidade de lesão dada a colisão e o desfecho da lesão.",
+   "Correta: o relatório define o risco como função da exposição, da probabilidade de colisão dada a exposição, da probabilidade de lesão dada a colisão e do desfecho da lesão.",
+   "Essa é a lógica de fatores e fases da matriz de Haddon, não os quatro elementos do risco.",
+   "São fatores de risco comportamentais importantes, mas não os quatro elementos que compõem o risco.",
+   "São indicadores de denominador para taxas, não os elementos que definem o risco no relatório."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre bicicletas, com base em dados da OMS, qual é a probabilidade de morte por quilômetro percorrido em relação ao ocupante de veículo de passeio?",
+  "alts": [
+   "Ciclista 20 vezes maior, pedestre 9 vezes e motociclista 8 vezes",
+   "Ciclista 8 vezes maior, pedestre 9 vezes e motociclista 20 vezes",
+   "Ciclista 8 vezes maior, pedestre 20 vezes e motociclista 9 vezes",
+   "Ciclista 3 vezes maior, pedestre 4 vezes e motociclista 10 vezes",
+   "Ciclista 9 vezes maior, pedestre 8 vezes e motociclista 30 vezes"
+  ],
+  "gab": 1,
+  "tema": "epidemiologia",
+  "sub": "Risco por quilômetro segundo o modo de deslocamento",
+  "base": "Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas' (2022), item 2 (Fatores de risco), citando WHO, Save lives: a road safety technical package (2017)",
+  "coment": "A diretriz ABRAMET sobre bicicletas, citando o pacote técnico 'Save lives' da OMS (2017), afirma que, por quilômetro percorrido, quem se desloca de bicicleta tem 8 vezes maior probabilidade de morrer em sinistro de trânsito do que o ocupante de veículo de passeio — sinistralidade superada apenas pelos deslocamentos a pé (9 vezes) e de motocicleta (20 vezes). O mesmo ordenamento aparece no Relatório Mundial da OMS (2004), com dados da União Europeia: o risco de morte do usuário de veículo motorizado de duas rodas é 20 vezes o do ocupante de carro. A diretriz observa que a superioridade numérica dos sinistros com pedestres e motociclistas fez os ciclistas serem negligenciados nas políticas de prevenção, e chama o ciclista de 'segundo usuário mais vulnerável das vias'. Atenção ao denominador: o risco é por quilômetro percorrido, não por habitante.",
+  "porAlt": [
+   "Os valores do ciclista e do motociclista estão trocados; o maior risco é o do motociclista (20 vezes).",
+   "Correta: por km percorrido, o ciclista tem 8 vezes maior probabilidade de morrer que o ocupante de veículo de passeio, superado pelo pedestre (9 vezes) e pelo motociclista (20 vezes).",
+   "Os valores do pedestre e do motociclista estão trocados.",
+   "Os multiplicadores estão subestimados; a diretriz cita 8, 9 e 20 vezes.",
+   "Ciclista e pedestre estão trocados, e o motociclista é de 20 vezes, não 30."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, que cita o Relatório Global sobre Segurança Viária 2023 da OMS, como evoluiu o número anual de mortes no trânsito?",
+  "alts": [
+   "Caiu de 1,35 milhão em 2018 para 0,68 milhão, redução aproximada de 50%",
+   "Subiu de 1,19 milhão em 2018 para 1,35 milhão, aumento aproximado de 12%",
+   "Caiu de 1,50 milhão em 2018 para 1,35 milhão, redução aproximada de 10%",
+   "Caiu de 1,35 milhão em 2018 para 1,19 milhão, redução aproximada de 12%",
+   "Manteve-se estável, próximo de 1,25 milhão de mortes por ano, de 2018 a 2021"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Relatório Global da OMS 2023 — mortalidade",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (2025), item 1 (Introdução), citando WHO, Global status report on road safety 2023",
+  "coment": "A diretriz ABRAMET de 2025 abre com os dados do Relatório Global sobre Segurança Viária 2023 da OMS, atualizados até 2021: o número anual de mortes caiu de 1,35 milhão em 2018 para 1,19 milhão, redução aproximada de 12%. Apesar do progresso, os feridos não fatais seguem entre 20 e 50 milhões por ano. Os sinistros continuam sendo a principal causa de morte entre jovens de 5 a 29 anos, a terceira na faixa de 30 a 44 anos e estão entre as 12 principais causas em todas as idades, com contingente expressivo de sequelas e incapacidades, sobretudo nas regiões de menor renda. Não confunda com a meta da Década de Ação 2021–2030 (redução de pelo menos 50% das mortes e lesões) nem com a cifra de 'quase 1,3 milhão' que o Plano Global usou como ponto de partida.",
+  "porAlt": [
+   "A redução de 50% é a META da Década de Ação para 2030, não o resultado observado.",
+   "O sentido está invertido: houve queda de 1,35 para 1,19 milhão.",
+   "O ponto de partida em 2018 era de 1,35 milhão, e o valor atual é de 1,19 milhão.",
+   "Correta: o relatório de 2023 (dados até 2021), citado pela diretriz, mostra queda de 1,35 milhão em 2018 para 1,19 milhão de mortes, redução de cerca de 12%.",
+   "Houve redução discreta, de cerca de 12%, e não estabilidade."
+  ]
+ },
+ {
+  "q": "Após flexibilizar a fiscalização, uma cidade registra aumento de 5% na velocidade média do tráfego. Segundo o Modelo de Potência de Nilsson, citado pela ABRAMET, qual é o efeito esperado?",
+  "alts": [
+   "Cerca de 10% mais sinistros, 15% mais feridos graves e 20% mais mortes",
+   "Cerca de 5% mais sinistros, 5% mais feridos graves e 5% mais mortes",
+   "Cerca de 20% mais sinistros, 15% mais feridos graves e 10% mais mortes",
+   "Cerca de 10% mais sinistros, 20% mais feridos graves e 40% mais mortes",
+   "Cerca de 2% mais sinistros, 5% mais feridos graves e 10% mais mortes"
+  ],
+  "gab": 0,
+  "tema": "epidemiologia",
+  "sub": "Modelo de Potência de Nilsson",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (2025), item 6 (Relação entre velocidade com o risco e gravidade dos sinistros)",
+  "coment": "Göran Nilsson quantificou em 1982 a relação entre velocidade e risco, dando origem ao Modelo de Potência (Power Model), confirmado por metanálises internacionais. Nilsson demonstrou que o risco relativo de fatalidade aumenta segundo relação exponencial aproximada à QUARTA potência da velocidade (comparando a velocidade média inicial com a velocidade após a mudança); por isso, o efeito é maior quanto mais grave o desfecho. A diretriz resume: um acréscimo de apenas 5% na velocidade média gera cerca de 10% mais sinistros, 15% mais feridos graves e 20% mais mortes — e, inversamente, reduções modestas produzem grandes ganhos. A OMS acrescenta que reduzir em 15% a velocidade média pode diminuir em quase 50% o risco de sinistros fatais e graves em colisões com excesso de velocidade. O conceito de 'velocidade tolerável', adotado pela OMS, pela União Europeia e pelo Vision Zero, deriva desse modelo. Lembre: energia cinética cresce com o quadrado da velocidade.",
+  "porAlt": [
+   "Correta: pelo modelo de Nilsson, um acréscimo de 5% na velocidade média resulta em cerca de 10% mais sinistros, 15% mais feridos graves e 20% mais mortes.",
+   "O efeito não é linear: o risco de morte cresce aproximadamente com a quarta potência da velocidade.",
+   "A ordem está invertida: o maior aumento é o das mortes (20%), e o menor, o dos sinistros (10%).",
+   "Feridos graves e mortes estão superestimados; os valores são 15% e 20%.",
+   "Os valores estão subestimados; a diretriz cita 10%, 15% e 20%."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, qual foi o efeito da instalação de radares de velocidade nas rodovias federais brasileiras entre 2011 e 2018?",
+  "alts": [
+   "Queda de cerca de 50% nos sinistros e de 9% nas mortes, efeito ampliado pelo aviso prévio obrigatório",
+   "Queda de cerca de 5% nos sinistros e de 0,9% nas mortes, efeito ampliado pelo aviso prévio obrigatório",
+   "Nenhuma queda nos sinistros e alta de 0,9% nas mortes, por frenagem brusca junto aos radares de aviso prévio",
+   "Queda de cerca de 5% nos sinistros e de 0,9% nas mortes, efeito limitado pelo aviso prévio obrigatório",
+   "Queda de cerca de 15% nos sinistros e de 20% nas mortes, efeito limitado pela pouca cobertura da malha viária"
+  ],
+  "gab": 3,
+  "tema": "epidemiologia",
+  "sub": "Radares nas rodovias federais brasileiras",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (2025), item 11 (Impactos da velocidade excessiva em países com baixa e média renda)",
+  "coment": "A diretriz traz dado nacional sobre fiscalização eletrônica: a instalação de radares de velocidade nas rodovias federais brasileiras entre 2011 e 2018 reduziu os sinistros em cerca de 5%, as vítimas levemente feridas em 5,3%, as gravemente feridas em 2,7% e as fatalidades em 0,9%. O texto destaca que reduções aparentemente modestas representam impacto significativo em números absolutos, e que o efeito poderia ter sido maior se a legislação não exigisse anunciar previamente a presença dos radares, o que reduz seu potencial de moderação de velocidade. Outros dados da mesma seção: estudo do IPEA (2010–2019) apontou o excesso de velocidade como principal causa dos sinistros com morte nas rodovias federais, e, de janeiro a agosto de 2023, excesso de velocidade e ultrapassagens proibidas somaram 1.693.324 autuações, quase metade das autuações da PRF.",
+  "porAlt": [
+   "Os percentuais estão superestimados, e a diretriz considera o aviso prévio um LIMITADOR do efeito.",
+   "Os percentuais estão certos, mas a diretriz afirma que o aviso prévio obrigatório REDUZ o potencial dos radares.",
+   "Houve redução de sinistros e de mortes, e não aumento.",
+   "Correta: a diretriz relata redução de cerca de 5% nos sinistros, 5,3% nos feridos leves, 2,7% nos graves e 0,9% nas mortes, efeito que poderia ser maior sem a exigência de anunciar previamente os radares.",
+   "Os percentuais não conferem; e o limitador apontado é o aviso prévio, não a densidade de radares."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre bicicletas (2022), como evoluiu a participação dos ciclistas no total de óbitos do trânsito brasileiro?",
+  "alts": [
+   "Passou de 3,5% dos óbitos em 1996 para 0,9% em 2020",
+   "Passou de 0,9% dos óbitos em 1996 para 13,5% em 2020",
+   "Passou de 0,9% dos óbitos em 1996 para 3,5% em 2020",
+   "Manteve-se estável, em cerca de 3,5%, de 1996 a 2020",
+   "Passou de 9,0% dos óbitos em 1996 para 35% em 2020"
+  ],
+  "gab": 2,
+  "tema": "epidemiologia",
+  "sub": "Ciclistas no total de óbitos no Brasil",
+  "base": "Diretriz ABRAMET 'Sinistros de trânsito decorrentes dos deslocamentos em bicicletas' (2022), item 1.3 (Epidemiologia dos sinistros de trânsito envolvendo ciclistas)",
+  "coment": "A diretriz mostra o crescimento do peso dos ciclistas na mortalidade do trânsito brasileiro: de 0,9% do total de óbitos em 1996 para 3,5% em 2020. Na última década, o SIM registrou 13.718 óbitos e o SUS mais de 13 mil internações em sinistros com ciclistas, 84% do sexo masculino e metade entre 20 e 49 anos. O total de acidentes graves com ciclistas aumentou 30% nos cinco primeiros meses de 2021 em relação a 2020 (5.022 para 6.792), no contexto da pandemia, que elevou o uso da bicicleta para deslocamento e trabalho (ciclo-entregadores, CBO 5191-10). O Brasil tem a sexta maior frota de bicicletas do mundo, estimada em mais de 70 milhões, número incerto porque bicicletas não exigem registro. O TCE responde por um terço dos atendimentos de emergência, dois terços das internações hospitalares e três quartos dos sinistros fatais com ciclistas.",
+  "porAlt": [
+   "O sentido está invertido: a participação dos ciclistas aumentou.",
+   "O ponto final está superestimado: 3,5% em 2020.",
+   "Correta: as vítimas ciclistas, que em 1996 eram 0,9% do total de óbitos no trânsito brasileiro, chegaram a 3,5% em 2020.",
+   "Não houve estabilidade: a participação quase quadruplicou, de 0,9% para 3,5%.",
+   "Os percentuais estão multiplicados por dez; os corretos são 0,9% e 3,5%."
+  ]
+ },
+ {
+  "q": "Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, com dados do SIH/SUS até julho de 2025, que parcela das internações por trânsito coube a pedestres, ciclistas e motociclistas?",
+  "alts": [
+   "Cerca de 77%, com os pedestres respondendo pelo maior número absoluto de internações",
+   "Cerca de 45%, com os motociclistas respondendo pelo maior número absoluto de internações",
+   "Cerca de 25%, com os ciclistas respondendo pelo maior número absoluto de internações",
+   "Cerca de 95%, com os pedestres respondendo pelo maior número absoluto de internações",
+   "Cerca de 77%, com os motociclistas respondendo pelo maior número absoluto de internações"
+  ],
+  "gab": 4,
+  "tema": "epidemiologia",
+  "sub": "Internações de usuários vulneráveis (SIH/SUS 2025)",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (2025), item 5 (Usuários vulneráveis das vias), com dados do SIH/SUS",
+  "coment": "A diretriz destaca que pedestres, ciclistas e motociclistas têm risco muito maior de lesões graves e fatais por estarem desprotegidos das estruturas de absorção de impacto dos veículos fechados. Segundo o SIH/SUS, até julho de 2025 foram registradas 19.059 internações de pedestres, 10.527 de ciclistas e 98.364 de motociclistas, que juntos representam 77,42% de todas as internações hospitalares relacionadas a vítimas do trânsito. Na mortalidade (DataSUS, janeiro a setembro de 2025), foram 1.992 óbitos de motociclistas, 916 de pedestres e 258 de ciclistas. O motociclista domina tanto internações quanto óbitos. A mesma seção lembra que a probabilidade de morte de pedestre adulto é de cerca de 10% a 30 km/h, 50% a 45 km/h e mais de 80% a 50 km/h — valores ainda mais críticos para idosos e crianças.",
+  "porAlt": [
+   "O percentual está certo, mas os motociclistas (98.364) superam em muito os pedestres (19.059).",
+   "O percentual correto é de cerca de 77% (77,42%).",
+   "O percentual está subestimado, e os ciclistas (10.527) são o menor dos três grupos.",
+   "O percentual está superestimado, e o maior número é o dos motociclistas.",
+   "Correta: até julho de 2025 foram 19.059 internações de pedestres, 10.527 de ciclistas e 98.364 de motociclistas — juntos, 77,42% das internações por trânsito, com amplo predomínio dos motociclistas."
+  ]
+ },
+ {
+  "q": "Vítima de colisão tem três lesões pontuadas pela Abbreviated Injury Scale (AIS) como 1, 2 e 3. Segundo a Diretriz ABRAMET sobre tolerância humana a impactos, qual é o seu MAIS e o que ele indica?",
+  "alts": [
+   "MAIS 3, grave: há potencial risco à vida e necessidade de hospitalização",
+   "MAIS 6, soma das três lesões: a lesão é considerada incompatível com a vida",
+   "MAIS 2, média das três lesões: moderada, requer cuidado sem ameaçar a vida",
+   "MAIS 3, crítica: a lesão é quase sempre fatal, com ameaça imediata à vida",
+   "MAIS 1, a de menor gravidade: é uma lesão leve e sem risco vital algum"
+  ],
+  "gab": 0,
+  "tema": "epidemiologia",
+  "sub": "Escala MAIS",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (2025), item 8 (Escala Abreviada de Lesões Máximas — MAIS)",
+  "coment": "A Abbreviated Injury Scale (AIS) atribui a cada lesão um valor de 1 a 6: 1 menor (leve, sem risco vital); 2 moderada (requer cuidados, sem ameaçar a vida); 3 grave (potencial risco à vida, necessita hospitalização); 4 muito grave (ameaça imediata à vida); 5 crítica (quase sempre fatal); 6 máxima (incompatível com a vida). O MAIS (Maximum AIS) é a pontuação MAIS ALTA entre todas as lesões identificadas no mesmo indivíduo — reflete, portanto, a lesão mais grave sofrida, sem somar nem tirar média. Essa padronização permite comparar bases de dados, países e períodos, e é amplamente usada pela OMS e pela União Europeia. Pegadinha: o MAIS não é a soma nem a média das pontuações — basta uma lesão AIS 3 para o indivíduo ser MAIS 3, mesmo que as demais sejam leves.",
+  "porAlt": [
+   "Correta: o MAIS é a pontuação mais alta entre as lesões do indivíduo (aqui, 3), que corresponde a lesão grave, com potencial risco à vida e necessidade de hospitalização.",
+   "O MAIS não é a soma das pontuações; é a maior delas. AIS 6 é a lesão incompatível com a vida.",
+   "O MAIS não é a média; é a maior pontuação. AIS 2 é moderada.",
+   "O valor 3 está certo, mas a descrição não: 'crítica, quase sempre fatal' é o nível 5; o 4 é ameaça imediata à vida.",
+   "O MAIS reflete a lesão MAIS grave, não a menos grave."
+  ]
+ }
+]
