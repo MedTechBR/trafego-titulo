@@ -184,6 +184,7 @@ if (typeof window !== "undefined") (function () {
 
     async init() {
       this.meta = this.arm().load("tt_syncmeta", { ligado: false, lastPull: {}, itens: {} });
+      this.conferePlano();
       if (this.meta.ligado) { await this.ligarSDK(); } // retoma sessão salva
       else if (navigator.onLine !== false) {
         // Desde 21/09/2026 o app mora em medtechbr.com.br, o MESMO domínio do portal:
@@ -221,11 +222,46 @@ if (typeof window !== "undefined") (function () {
       this.user = u;
       if (!u) { if (this.meta.ligado) this.mudaEstado("deslogado", ""); else if (this.estado === "carregando") this.mudaEstado("desligado", ""); this.pararTimers(); this.render(); return }
       this.meta.ligado = true; this.salvaMeta();
+      this.fechaExigeConta();
+      /* acesso por produto comprado (/_mtacesso.js): só trava quando o TráfegoTítulo estiver à venda */
+      if (window.MTAcesso) MTAcesso.verificar({ appId: "trafegotitulo", user: u, signOut: () => this.sair() }).catch(() => {});
       this.sombra = await this.carregaSombra();
       await this.ciclo("login");
       this.armaTimers();
       this.render();
     },
+
+    /* Enquanto o TráfegoTítulo não estiver à venda (planos.json sem checkout), o app segue
+       aberto sem conta, como sempre. Quando estiver, estudar exige a conta MedTech: sem
+       login, aparece a tela de entrada; com login, o _mtacesso.js confere a compra. */
+    conferePlano() {
+      if (!window.MTAcesso) return;
+      MTAcesso.carregarPlanos().then(P => {
+        if (!MTAcesso.vendaAtiva(P, "trafegotitulo")) return;
+        this.exigeConta = true;
+        setTimeout(() => { if (!this.user) this.mostraExigeConta(); }, 3500);   // dá tempo de achar a sessão do portal
+      });
+    },
+    mostraExigeConta() {
+      if (document.getElementById("ttConta")) return;
+      const d = document.createElement("div"); d.id = "ttConta";
+      d.style.cssText = "position:fixed;inset:0;z-index:99990;background:rgba(0,0,0,.86);display:flex;align-items:center;justify-content:center;padding:20px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,sans-serif";
+      d.innerHTML = '<form style="background:#111;color:#fff;border:1px solid rgba(255,255,255,.14);border-radius:18px;padding:24px;max-width:380px;width:100%">' +
+        '<h2 style="font-size:20px;font-weight:600;margin:0 0 8px">Entre na sua conta MedTech</h2>' +
+        '<p style="font-size:14px;color:rgba(255,255,255,.65);margin:0 0 16px;line-height:1.5">O TráfegoTítulo faz parte dos planos da MedTech. Entre com a conta em que você assinou; o seu progresso fica salvo nela.</p>' +
+        '<input id="ttcEmail" type="email" autocomplete="email" placeholder="E-mail" required style="width:100%;padding:12px;border-radius:10px;border:1px solid rgba(255,255,255,.2);background:#1b1b1b;color:#fff;font-size:15px;margin-bottom:10px">' +
+        '<input id="ttcSenha" type="password" autocomplete="current-password" placeholder="Senha" required style="width:100%;padding:12px;border-radius:10px;border:1px solid rgba(255,255,255,.2);background:#1b1b1b;color:#fff;font-size:15px;margin-bottom:12px">' +
+        '<button type="submit" style="width:100%;padding:13px;border:0;border-radius:999px;background:#fff;color:#000;font-weight:600;font-size:15px;cursor:pointer">Entrar</button>' +
+        '<div id="ttcMsg" style="font-size:13px;color:#F87171;min-height:18px;margin-top:10px"></div>' +
+        '<p style="font-size:13px;margin:6px 0 0"><a href="/app.html" style="color:rgba(255,255,255,.75)">Criar conta ou recuperar a senha no portal</a></p></form>';
+      document.body.appendChild(d);
+      d.querySelector("form").addEventListener("submit", async e => {
+        e.preventDefault();
+        await this.entrar(d.querySelector("#ttcEmail").value.trim(), d.querySelector("#ttcSenha").value);
+        if (!this.user) d.querySelector("#ttcMsg").textContent = this.detalhe || "Não foi possível entrar.";
+      });
+    },
+    fechaExigeConta() { const d = document.getElementById("ttConta"); if (d) d.remove(); },
 
     async entrar(email, senha) {
       if (!(await this.ligarSDK())) return;
@@ -240,7 +276,7 @@ if (typeof window !== "undefined") (function () {
       }
       this.render();
     },
-    async sair() { this.pararTimers(); try { await firebase.auth().signOut() } catch (e) { } this.mudaEstado("deslogado", "sessão encerrada"); this.render() },
+    async sair() { this.pararTimers(); try { await firebase.auth().signOut() } catch (e) { } this.mudaEstado("deslogado", "sessão encerrada"); this.render(); if (this.exigeConta) this.mostraExigeConta() },
     desligar() { this.meta.ligado = false; this.salvaMeta(); this.pararTimers(); this.mudaEstado("desligado", ""); this.render() },
 
     /* ---------- ciclo puxar/empurrar ---------- */
