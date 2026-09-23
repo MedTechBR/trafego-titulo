@@ -69,6 +69,32 @@ da placa, então nada é decorativo.
 - **O que NÃO fazer**: voltar a rotular todo cartão com micro-título em CAIXA ALTA (era o principal
   "tell" de template), usar azul genérico como cor de marca, ou pôr sombra/raio fora dos tokens.
 
+### Camada "viva" (23/09/2026, tt-v15) — SOBRESCREVE o "sem sombra/raio fora dos tokens" acima
+Pedido do Matheus ao aprovar o ClínicaMed cm-v97/v98: "aplique as mesmas mudanças de layout nos meus outros
+aplicativos de estudo, respeitando as cores de cada um" + "quando eu abra a página, já consiga visualizar a questão
+toda". Está num bloco único no FIM do `<style>` (comentário `tt-v15: camada "viva"`) + ganchos JS mínimos
+(bloco `camada viva` antes de `util`). Nada de dados, chaves, banco, sync ou gabarito foi tocado.
+- **Cor por seção, tirada das famílias reais de placas** (`body[data-aba]` → `--ac/--acOn/--acInk/--acSup`, posto
+  por `irAba`): Questões e Painel = âmbar de advertência (marca); Simulado = laranja de obras; Prática = azul de
+  serviços; Leitura = marrom de turismo; Cartões = preto da educativa; Erros = vermelho de regulamentação; Plano =
+  verde de indicação; Ajustes = cinza. Como na placa, sobre âmbar e laranja o texto é ESCURO; nas demais, branco.
+  Acerto continua `--ok` verde, erro `--err` vermelho. Cada aba do cabeçalho/barra inferior/folha "Mais" mostra o
+  ícone num círculo da cor da sua placa (`[data-aba=x]{--c}` no CSS, sem JS).
+- **Forma:** cartões 22 px, botões/selects em pílula, letra da alternativa e ícones em círculo, filtro de Questões
+  vira uma barra-pílula fina.
+- **Movimento:** `vivo(sec)` (entrada escalonada, `.mini .gd`/`[data-conta]` sobem de 0, `.barra i` e anel `[data-off]`
+  se preenchem; com `setTimeout` de garantia porque aba oculta congela o rAF), `entraQuestao/entraSim` (questão desliza
+  na direção de anterior/próxima), acerto pulsa com sinal de certo, erro treme, chip "N seguidas" (`COMBO`),
+  `confete()` quando `metaDia()` é batida. `metaDia()` = (alvo − respostas até ontem) ÷ dias até a prova, só se a data
+  e o alvo estiverem definidos no Painel. `prefers-reduced-motion` desliga tudo.
+- **Painel:** herói em âmbar (como placa de advertência) com anel do acerto geral e marca no corte de 60%, questões
+  vistas/total, respostas, meta do dia; atalhos em pílula (refazer as que errei, cartões de hoje, leituras, casos);
+  os 4 indicadores viraram blocos tingidos (azul, verde, laranja, marrom). Só números que o app já calcula.
+- **Questão inteira na tela (medido em 1512×763, 1 a cada 7 questões = 150):** Questões 100% antes e depois
+  (com os botões Anterior/Responder/Próxima: 99,3% → 100%). Simulado: **0% → 100%**, porque a grade de 50 números
+  agora fica numa coluna fixa à direita (≥1000 px, via `#sec-simulado:has(#cronSim)`; a revisão usa o mesmo layout).
+- Continua proibido: gradiente, emoji, fonte nova, travessão em texto novo de interface.
+
 ### Auditoria visual por DOM (roda no navegador, não é screenshot)
 O script de contraste usado está no histórico da sessão: percorre `body *`, calcula a razão WCAG entre
 `color` e o primeiro fundo opaco ancestral, e reporta o que fica abaixo do mínimo — repetindo para os

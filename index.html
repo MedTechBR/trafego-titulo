@@ -324,6 +324,282 @@ textarea{min-height:80px}
 @media(prefers-reduced-motion:reduce){
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
 }
+/* ============================================================
+   23/09/2026, tt-v15: camada "viva" (portada do ClínicaMed cm-v97/v98, aprovada pelo Matheus).
+   Pedido: "muito quadrado, tudo da mesma cor e pouco dinâmico" + "quando eu abra a página, já
+   consiga visualizar a questão toda". A identidade Asfalto & Sinalização continua: o âmbar de
+   advertência é a marca (Questões e Painel), e cada seção ganha a cor de uma família REAL de
+   placas brasileiras: laranja de obras (Simulado), azul de serviços (Prática), marrom de turismo
+   (Leitura), preto da educativa (Cartões), vermelho de regulamentação (Erros), verde de indicação
+   (Plano), cinza (Ajustes). Onde a placa usa símbolo preto (advertência, obras), o texto sobre a
+   cor também é escuro. Tudo aqui SOBRESCREVE o que está acima; nada de dados foi tocado.
+   Sem gradiente, sem emoji. Movimento reduzido desliga tudo no fim do bloco.
+   ============================================================ */
+:root{
+  --rG:22px; --rM:16px;
+  --mola:cubic-bezier(.34,1.56,.64,1); --suave:cubic-bezier(.22,1,.36,1);
+  --shV:0 1px 2px rgba(24,27,33,.04),0 8px 22px -10px rgba(24,27,33,.16);
+  --shVM:0 16px 36px -14px rgba(24,27,33,.30),0 2px 6px rgba(24,27,33,.06);
+  /* famílias de placa: fill / texto sobre o fill / tinta sobre papel / tinta clara (fundo escuro) */
+  --s-adv:#E29215;  --s-adv-on:#20170A; --s-adv-ink:#8A5108; --s-adv-lt:#F2A93B;
+  --s-obra:#E8691C; --s-obra-on:#20170A; --s-obra-ink:#A6420A; --s-obra-lt:#FF9A5C;
+  --s-reg:#C0261F;  --s-reg-on:#FFFFFF; --s-reg-ink:#B0221B; --s-reg-lt:#F58A82;
+  --s-serv:#1D5FA6; --s-serv-on:#FFFFFF; --s-serv-ink:#1D5FA6; --s-serv-lt:#86B7F2;
+  --s-ind:#12704A;  --s-ind-on:#FFFFFF; --s-ind-ink:#12704A; --s-ind-lt:#5FD39A;
+  --s-tur:#8A5431;  --s-tur-on:#FFFFFF; --s-tur-ink:#7A4A2B; --s-tur-lt:#DDA784;
+  --s-edu:#2F3540;  --s-edu-on:#FFFFFF; --s-edu-ink:#2F3540; --s-edu-lt:#C5CAD3;
+  --s-cinza:#5E6773; --s-cinza-on:#FFFFFF; --s-cinza-ink:#55606C; --s-cinza-lt:#A9B1BC;
+  --ac:var(--s-adv); --acOn:var(--s-adv-on); --acInk:var(--s-adv-ink); --acLt:var(--s-adv-lt);
+  --acSup:color-mix(in srgb,var(--ac) 12%,var(--pan));
+}
+:root[data-tema=escuro]{
+  --shV:0 1px 2px rgba(0,0,0,.45),0 10px 24px -14px rgba(0,0,0,.8);
+  --shVM:0 18px 40px -16px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.4);
+  --s-adv:#F2A93B; --s-adv-on:#1A1206; --s-adv-ink:#F2A93B;
+  --s-obra-ink:#FF9A5C; --s-reg-ink:#F58A82; --s-serv-ink:#86B7F2; --s-ind-ink:#5FD39A;
+  --s-tur-ink:#DDA784; --s-edu:#C5CAD3; --s-edu-on:#14171D; --s-edu-ink:#C5CAD3; --s-cinza-ink:#A9B1BC;
+  --acSup:color-mix(in srgb,var(--ac) 20%,var(--pan));
+}
+@media (prefers-color-scheme:dark){:root:not([data-tema=claro]){
+  --shV:0 1px 2px rgba(0,0,0,.45),0 10px 24px -14px rgba(0,0,0,.8);
+  --shVM:0 18px 40px -16px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.4);
+  --s-adv:#F2A93B; --s-adv-on:#1A1206; --s-adv-ink:#F2A93B;
+  --s-obra-ink:#FF9A5C; --s-reg-ink:#F58A82; --s-serv-ink:#86B7F2; --s-ind-ink:#5FD39A;
+  --s-tur-ink:#DDA784; --s-edu:#C5CAD3; --s-edu-on:#14171D; --s-edu-ink:#C5CAD3; --s-cinza-ink:#A9B1BC;
+  --acSup:color-mix(in srgb,var(--ac) 20%,var(--pan));
+}}
+/* cor da seção (body[data-aba], posto por irAba): a mesma variável pinta botões, barras, foco e aba ativa */
+body[data-aba=simulado]{--ac:var(--s-obra);--acOn:var(--s-obra-on);--acInk:var(--s-obra-ink);--acLt:var(--s-obra-lt)}
+body[data-aba=pratica]{--ac:var(--s-serv);--acOn:var(--s-serv-on);--acInk:var(--s-serv-ink);--acLt:var(--s-serv-lt)}
+body[data-aba=leitura]{--ac:var(--s-tur);--acOn:var(--s-tur-on);--acInk:var(--s-tur-ink);--acLt:var(--s-tur-lt)}
+body[data-aba=cartoes]{--ac:var(--s-edu);--acOn:var(--s-edu-on);--acInk:var(--s-edu-ink);--acLt:var(--s-edu-lt)}
+body[data-aba=erros]{--ac:var(--s-reg);--acOn:var(--s-reg-on);--acInk:var(--s-reg-ink);--acLt:var(--s-reg-lt)}
+body[data-aba=plano]{--ac:var(--s-ind);--acOn:var(--s-ind-on);--acInk:var(--s-ind-ink);--acLt:var(--s-ind-lt)}
+body[data-aba=ajustes]{--ac:var(--s-cinza);--acOn:var(--s-cinza-on);--acInk:var(--s-cinza-ink);--acLt:var(--s-cinza-lt)}
+body[data-aba]{--acSup:color-mix(in srgb,var(--ac) 12%,var(--pan))}
+:root[data-tema=escuro] body[data-aba]{--acSup:color-mix(in srgb,var(--ac) 20%,var(--pan))}
+@media (prefers-color-scheme:dark){:root:not([data-tema=claro]) body[data-aba]{--acSup:color-mix(in srgb,var(--ac) 20%,var(--pan))}}
+/* cada botão de aba carrega a cor da sua placa (--c) */
+[data-aba=questoes],[data-aba=painel]{--c:var(--s-adv);--cOn:#20170A;--cLt:var(--s-adv-lt);--cInk:var(--s-adv-ink)}
+[data-aba=simulado]{--c:var(--s-obra);--cOn:var(--s-obra-on);--cLt:var(--s-obra-lt);--cInk:var(--s-obra-ink)}
+[data-aba=pratica]{--c:var(--s-serv);--cOn:#fff;--cLt:var(--s-serv-lt);--cInk:var(--s-serv-ink)}
+[data-aba=leitura]{--c:var(--s-tur);--cOn:#fff;--cLt:var(--s-tur-lt);--cInk:var(--s-tur-ink)}
+[data-aba=cartoes]{--c:#C5CAD3;--cOn:#14171D;--cLt:var(--s-edu-lt);--cInk:var(--s-edu-ink)}
+[data-aba=erros]{--c:var(--s-reg);--cOn:#fff;--cLt:var(--s-reg-lt);--cInk:var(--s-reg-ink)}
+[data-aba=plano]{--c:var(--s-ind);--cOn:#fff;--cLt:var(--s-ind-lt);--cInk:var(--s-ind-ink)}
+[data-aba=ajustes]{--c:var(--s-cinza);--cOn:#fff;--cLt:var(--s-cinza-lt);--cInk:var(--s-cinza-ink)}
+body[data-aba]{--c:initial}
+
+/* ---------- cabeçalho: abas em pílula, ícone em círculo da cor da placa ---------- */
+nav#abas{max-width:1080px;gap:4px}
+nav#abas button{gap:8px;padding:6px 14px 6px 6px;transition:background .2s,color .2s,transform .15s var(--mola)}
+nav#abas button svg{width:30px;height:30px;padding:6px;border-radius:50%;background:color-mix(in srgb,var(--c) 20%,transparent);color:var(--cLt);transition:transform .25s var(--mola),background .2s,color .2s}
+nav#abas button:hover svg{transform:scale(1.1) rotate(-6deg)}
+nav#abas button.on,nav#abas button.on:hover{background:var(--c);color:var(--cOn)}
+nav#abas button.on svg{background:color-mix(in srgb,var(--cOn) 14%,transparent);color:var(--cOn)}
+.marca{border-radius:50%}
+@media(min-width:721px) and (max-width:1040px){nav#abas button{padding:6px 10px 6px 5px;gap:6px}nav#abas button svg{width:26px;height:26px;padding:5px}}
+@media(max-width:720px){
+  #barraAbas button svg{width:48px;height:27px;padding:3px 13px;border-radius:999px;transition:background .2s,color .2s,transform .25s var(--mola)}
+  #barraAbas button[data-aba].on,#barraAbas button[data-aba].on:hover{background:transparent;color:var(--cLt)}
+  #barraAbas button[data-aba].on svg{background:var(--c);color:var(--cOn);transform:translateY(-1px)}
+  #barraAbas button[data-mais].on{background:rgba(255,255,255,.08);color:#F0ECE4}
+}
+#maisFolha{border-radius:26px 26px 0 0}
+#maisFolha .grade button{border-radius:20px;transition:transform .2s var(--mola),background .2s}
+#maisFolha .grade button svg{width:40px;height:40px;padding:9px;border-radius:50%;background:color-mix(in srgb,var(--c) 16%,var(--pan));color:var(--cInk)}
+#maisFolha .grade button.on{border-color:var(--c);background:color-mix(in srgb,var(--c) 12%,var(--pan))}
+#maisFolha .grade button:active{transform:scale(.96)}
+
+/* ---------- superfícies e controles ---------- */
+.cartao{border-radius:var(--rG);box-shadow:var(--shV);border-color:var(--line2);padding:20px 22px}
+.cartao h2{font-size:15px;gap:10px}
+.cartao.leiBarra{padding:10px 12px}
+.cartao h2::before{width:10px;height:10px;border-radius:50%;background:var(--ac);box-shadow:0 0 0 4px color-mix(in srgb,var(--ac) 18%,transparent)}
+.btn{border-radius:999px;padding:10px 20px;background:var(--ac);color:var(--acOn);font-weight:650;
+  box-shadow:0 6px 16px -6px color-mix(in srgb,var(--ac) 60%,transparent);transition:transform .15s var(--mola),box-shadow .2s,filter .2s,background .2s}
+.btn:hover,:root[data-tema=escuro] .btn:hover{background:var(--ac);color:var(--acOn);filter:brightness(1.07);transform:translateY(-1px);box-shadow:0 10px 22px -8px color-mix(in srgb,var(--ac) 70%,transparent)}
+.btn:active{transform:scale(.96)}
+.btn.fant{background:var(--pan);color:var(--ink2);border:1px solid var(--line);box-shadow:none}
+.btn.fant:hover,:root[data-tema=escuro] .btn.fant:hover{background:var(--acSup);border-color:color-mix(in srgb,var(--ac) 45%,var(--line));color:var(--ink);filter:none;box-shadow:none}
+.btn.perigo,.btn.perigo:hover{background:var(--err);color:#fff;box-shadow:0 6px 16px -6px color-mix(in srgb,var(--err) 60%,transparent)}
+:root[data-tema=escuro] .btn.perigo,:root[data-tema=escuro] .btn.perigo:hover{color:#1A0A09}
+@media (prefers-color-scheme:dark){:root:not([data-tema=claro]) .btn.perigo,:root:not([data-tema=claro]) .btn.perigo:hover{color:#1A0A09}}
+.btn[disabled]{box-shadow:none}
+input,select,textarea{border-radius:14px}
+select,input[type=date],input[type=number]{border-radius:999px;padding-left:16px;padding-right:14px}
+input:focus,select:focus,textarea:focus{border-color:var(--ac);box-shadow:0 0 0 4px color-mix(in srgb,var(--ac) 18%,transparent)}
+input:focus-visible,select:focus-visible,textarea:focus-visible,button:focus-visible,.alt:focus-visible{outline-color:var(--ac)}
+input[type=checkbox]{accent-color:var(--ac)}
+.chip{padding:4px 11px;font-weight:550}
+.barra{height:9px;background:var(--pan2)}
+.barra i{background:var(--ac);transition:width 1s var(--suave)}
+.rolagem table tr.clic:hover{background:var(--acSup)}
+details>summary{border-radius:999px}
+
+/* ---------- questão ---------- */
+.q-topo{gap:7px}
+.q-topo .chip:first-child{background:var(--acSup);border-color:transparent;color:var(--acInk);font-weight:650}
+#qFav{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;transition:transform .2s var(--mola),background .2s}
+#qFav:hover{background:var(--pan2);transform:scale(1.08)}
+.q-enun{font-size:16.5px;line-height:1.66;margin:8px 0 14px}
+.alt{border-radius:18px;padding:7px 12px 7px 9px;margin-bottom:7px;min-height:46px;align-items:center;gap:12px;
+  transition:transform .18s var(--mola),border-color .15s,background .15s,box-shadow .2s}
+.alt .txt{padding:3px 0}
+.alt .letra{width:30px;height:30px;border-radius:50%;border:0;background:var(--pan2);color:var(--ink2);font-size:13.5px;transition:background .2s,color .2s,transform .25s var(--mola)}
+button.alt:not(.certa):not(.errada):hover{border-color:var(--ac);background:var(--acSup);transform:translateX(3px);box-shadow:0 6px 18px -8px color-mix(in srgb,var(--ac) 45%,transparent)}
+button.alt:not(.certa):not(.errada):hover .letra{background:var(--ac);color:var(--acOn);transform:scale(1.08)}
+.alt.sel{border-color:var(--ac);background:var(--acSup)}
+.alt.sel .letra{background:var(--ac);color:var(--acOn)}
+.alt.certa{border-color:var(--ok);background:var(--okBg)}
+.alt.errada{border-color:var(--err);background:var(--errBg)}
+.alt.certa .letra{background:var(--ok);color:#fff}
+.alt.errada .letra{background:var(--err);color:#fff}
+:root[data-tema=escuro] .alt.certa .letra,:root[data-tema=escuro] .alt.errada .letra{color:#101318}
+@media (prefers-color-scheme:dark){:root:not([data-tema=claro]) .alt.certa .letra,:root:not([data-tema=claro]) .alt.errada .letra{color:#101318}}
+#qAlts .alt.certa{animation:vvAcerto .55s var(--mola)}
+#qAlts .alt.errada{animation:vvTreme .45s}
+#qAlts .alt.certa .letra{font-size:0}
+#qAlts .alt.certa .letra::before{content:"";width:13px;height:7px;border-left:3px solid currentColor;border-bottom:3px solid currentColor;transform:translateY(-2px) rotate(-45deg);animation:vvMarca .45s var(--mola) .1s both}
+.alt .risco{border-radius:50%;padding:4px;align-self:center}
+.alt:not(:hover) .risco{opacity:.28}
+.coment{border-left:0;border-radius:var(--rM);padding:16px 18px;background:var(--acSup);border:1px solid color-mix(in srgb,var(--ac) 25%,transparent);animation:vvDesliza .4s ease both}
+.coment:has(> b.verde){background:var(--okBg);border-color:var(--okLine)}
+.coment:has(> b.vermelho){background:var(--errBg);border-color:var(--errLine)}
+.coment .porq,.coment .base{border-top-color:color-mix(in srgb,currentColor 14%,transparent)}
+.navq{margin-top:12px}
+.qCombo{display:inline-flex;align-items:center;gap:5px;border-radius:999px;padding:4px 11px 4px 8px;font-size:12px;font-weight:700;
+  background:color-mix(in srgb,var(--s-obra) 16%,var(--pan));color:var(--s-obra-ink);animation:vvPop .45s var(--mola)}
+.qCombo svg{width:15px;height:15px;fill:currentColor;stroke:none}
+#qCorpo.entra>.cartao,#sec-simulado .cartao.entra{animation:vvEntraQ .38s var(--suave) both}
+#qCorpo.entra.volta>.cartao,#sec-simulado .cartao.entra.volta{animation-name:vvEntraQv}
+
+/* barra de filtros fina e cartão da questão mais largo (cm-v98) */
+body[data-aba=questoes] main{max-width:1060px;padding-top:14px}
+#sec-questoes>.cartao:first-child{border-radius:999px;padding:6px 8px 6px 8px;margin-bottom:12px;box-shadow:none;background:var(--pan3)}
+#sec-questoes>.cartao:first-child .linha{gap:8px;flex-wrap:nowrap}
+#sec-questoes>.cartao:first-child select{border-color:transparent;background:var(--pan)}
+#sec-questoes>.cartao:first-child label{white-space:nowrap;padding:0 6px}
+#sec-questoes>.cartao:first-child #fqEmbaralha{border-radius:50%;width:44px;padding:0;justify-content:center;flex:none}
+#qCorpo>.cartao{padding:18px 28px 18px}
+@media(max-width:720px){
+  #sec-questoes>.cartao:first-child{border-radius:var(--rG);padding:8px}
+  #sec-questoes>.cartao:first-child .linha{flex-wrap:wrap;row-gap:6px}
+  #sec-questoes>.cartao:first-child select{flex:1 1 130px}
+  #sec-questoes>.cartao:first-child label{margin-right:auto}
+  #qCorpo>.cartao{padding:16px 14px}
+  .alt{padding:8px 10px 8px 8px}
+  button.alt:not(.certa):not(.errada):hover{transform:none}
+}
+
+/* ---------- simulado: grade de questões ao lado da questão em tela larga ---------- */
+.gradeSim button{border-radius:50%;aspect-ratio:1;padding:0;transition:transform .15s var(--mola),background .2s,border-color .2s}
+.gradeSim button:hover{border-color:var(--ac);transform:scale(1.08)}
+.gradeSim button.resp{background:var(--acSup);color:var(--acInk);border-color:color-mix(in srgb,var(--ac) 40%,transparent)}
+.gradeSim button.atual{outline-color:var(--ac)}
+#cronSim{display:inline-flex;align-items:center;gap:8px;color:var(--acInk)}
+#cronSim::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--ac);animation:vvPulsa 2s ease-in-out infinite}
+@media(min-width:1000px){
+  body[data-aba=simulado]:has(#cronSim) main,body[data-aba=simulado]:has(#revVoltar) main{max-width:1240px;padding-top:14px}
+  #sec-simulado:has(#cronSim),#sec-simulado:has(#revVoltar){display:grid!important;grid-template-columns:minmax(0,1fr) 290px;gap:16px;align-items:start}
+  #sec-simulado:has(#cronSim)>.cartao:first-child,#sec-simulado:has(#revVoltar)>.cartao:first-child{grid-column:2;grid-row:1;position:sticky;top:calc(var(--hAlt,110px) + 12px);margin:0}
+  #sec-simulado:has(#cronSim)>.cartao:last-child,#sec-simulado:has(#revVoltar)>.cartao:last-child{grid-column:1;grid-row:1;margin:0;padding:18px 28px}
+  #sec-simulado:has(#cronSim) .gradeSim,#sec-simulado:has(#revVoltar) .gradeSim{grid-template-columns:repeat(5,1fr);gap:6px}
+  #sec-simulado:has(#cronSim) .gradeSim button,#sec-simulado:has(#revVoltar) .gradeSim button{min-height:0}
+  #sec-simulado:has(#cronSim)>.cartao:first-child .linha{flex-wrap:wrap}
+}
+
+/* ---------- Painel: herói em âmbar de advertência, indicadores coloridos ---------- */
+.vHero{position:relative;overflow:hidden;border-radius:28px;padding:28px 32px;margin-bottom:14px;background:var(--s-adv);color:#20170A;
+  display:flex;gap:28px;align-items:center;box-shadow:0 18px 40px -18px color-mix(in srgb,var(--s-adv) 80%,transparent)}
+:root[data-tema=escuro] .vHero{color:#1A1206}
+.vHero .losango{position:absolute;border:3px solid currentColor;border-radius:14px;transform:rotate(45deg);opacity:.10;pointer-events:none}
+.vHero .l1{width:220px;height:220px;right:-60px;top:-110px;animation:vvFlutua 9s ease-in-out infinite}
+.vHero .l2{width:90px;height:90px;right:230px;bottom:-56px;opacity:.08;animation:vvFlutua 7s ease-in-out infinite reverse}
+.vHero .txt{flex:1;min-width:0;position:relative}
+.vHero small{display:inline-flex;align-items:center;gap:7px;font-size:12.5px;font-weight:700;background:rgba(32,23,10,.10);padding:5px 12px 5px 9px;border-radius:999px}
+.vHero small svg{width:16px;height:16px}
+.vHero h2{font-family:var(--fD);font-size:29px;line-height:1.12;margin:12px 0 6px;font-weight:800;letter-spacing:-.03em}
+.vHero p{margin:0 0 18px;font-size:14.5px;font-weight:500;max-width:52ch}
+.vHero .acoesH{display:flex;gap:10px;flex-wrap:wrap}
+.vHero .btn{background:#20170A;color:#F2A93B;box-shadow:0 8px 18px -8px rgba(32,23,10,.6)}
+.vHero .btn:hover{background:#20170A;color:#F2A93B}
+.vHero .btn.fant{background:transparent;color:#20170A;border:1.5px solid rgba(32,23,10,.45);box-shadow:none}
+.vHero .btn.fant:hover{background:rgba(32,23,10,.08);color:#20170A;border-color:#20170A}
+.vAnel{position:relative;width:132px;height:132px;flex:none}
+.vAnel svg{transform:rotate(-90deg);display:block}
+.vAnel .trilho{fill:none;stroke:rgba(32,23,10,.14);stroke-width:12}
+.vAnel .arco{fill:none;stroke:#20170A;stroke-width:12;stroke-linecap:round;transition:stroke-dashoffset 1.4s var(--suave)}
+.vAnel .corte{stroke:#20170A;stroke-width:3;opacity:.55}
+.vAnel .val{position:absolute;inset:0;display:grid;place-content:center;text-align:center;line-height:1}
+.vAnel .val b{font-family:var(--fD);font-size:33px;font-weight:800;letter-spacing:-.03em}
+.vAnel .val b.vazio{font-size:15px}
+.vAnel .val>span{font-size:11.5px;font-weight:600;margin-top:5px}
+.vAtalhos{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.vAtalhos button{display:inline-flex;align-items:center;gap:9px;border-radius:999px;padding:6px 16px 6px 6px;min-height:44px;font-weight:600;font-size:13.5px;
+  background:color-mix(in srgb,var(--c) 13%,var(--pan));color:var(--ink);border:1px solid color-mix(in srgb,var(--c) 22%,transparent);transition:transform .2s var(--mola),box-shadow .2s}
+.vAtalhos button:hover{transform:translateY(-2px);box-shadow:0 8px 18px -10px color-mix(in srgb,var(--c) 70%,transparent)}
+.vAtalhos button svg{width:32px;height:32px;padding:7px;border-radius:50%;background:var(--c);color:var(--cOn)}
+.vAtalhos button b{font-family:var(--fD);font-variant-numeric:tabular-nums}
+.cardsMini{gap:12px}
+.mini{--k:var(--s-serv);--kInk:var(--s-serv-ink);border-radius:22px;border:1px solid color-mix(in srgb,var(--k) 20%,transparent);
+  background:color-mix(in srgb,var(--k) 11%,var(--pan));box-shadow:none;padding:16px 18px;transition:transform .2s var(--mola),box-shadow .2s}
+:root[data-tema=escuro] .mini{background:color-mix(in srgb,var(--k) 18%,var(--pan))}
+@media (prefers-color-scheme:dark){:root:not([data-tema=claro]) .mini{background:color-mix(in srgb,var(--k) 18%,var(--pan))}}
+.mini:hover{transform:translateY(-3px);box-shadow:0 12px 26px -14px color-mix(in srgb,var(--k) 70%,transparent)}
+.mini::before{display:none}
+.mini:nth-child(2){--k:var(--s-ind);--kInk:var(--s-ind-ink)}
+.mini:nth-child(3){--k:var(--s-obra);--kInk:var(--s-obra-ink)}
+.mini:nth-child(4){--k:var(--s-tur);--kInk:var(--s-tur-ink)}
+.mini .rot{text-transform:none;letter-spacing:0;font-size:12.5px;color:var(--ink2);font-weight:600}
+.mini .gd{color:var(--kInk);font-size:30px;font-weight:800}
+.mini .peq.mut{color:var(--ink2)}
+
+/* ---------- Leitura, Prática, Cartões ---------- */
+.leiLin{border-radius:20px;padding:15px 16px;border-color:var(--line2);transition:transform .2s var(--mola),box-shadow .2s,border-color .2s}
+.leiLin:hover{transform:translateY(-2px);box-shadow:var(--shVM);border-color:color-mix(in srgb,var(--ac) 40%,var(--line));background:var(--pan)}
+.leiMarca{border-radius:50%;border:0;background:var(--acSup);color:var(--acInk);width:38px;height:38px}
+.leiLin.lida .leiMarca{background:var(--ok);color:#fff}
+.grupoLei{border-bottom:0;margin:24px 2px 10px;color:var(--acInk)}
+.casoLin{border-radius:18px;transition:transform .2s var(--mola),border-color .2s,background .2s}
+.casoLin:hover{border-color:var(--ac);background:var(--acSup);transform:translateX(3px)}
+.cenario{border-left:0;border-radius:var(--rM);background:var(--acSup)}
+.espelho{border-left:0;border-radius:var(--rM);border:1px solid var(--okLine);animation:vvDesliza .4s ease both}
+.flash .frente{font-size:21px}
+.flash .verso{border-radius:var(--rM);background:var(--pan3);border-color:var(--line)}
+.flash .verso:not([hidden]){animation:vvVira .5s var(--suave) both;transform-origin:top}
+#leiQuadro{border-radius:var(--rG)}
+.faixa{animation:vvDesliza .3s ease both}
+
+/* ---------- movimento ---------- */
+.anima>*{animation:vvSobe .5s var(--suave) both;animation-delay:calc(var(--i,0) * 55ms)}
+@keyframes vvSobe{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes vvPop{0%{transform:scale(.4);opacity:0}100%{transform:scale(1);opacity:1}}
+@keyframes vvMarca{0%{transform:translateY(-2px) rotate(-45deg) scale(.2);opacity:0}100%{transform:translateY(-2px) rotate(-45deg) scale(1);opacity:1}}
+@keyframes vvAcerto{0%{transform:scale(1)}35%{transform:scale(1.02)}100%{transform:scale(1)}}
+@keyframes vvTreme{0%,100%{transform:translateX(0)}20%{transform:translateX(-7px)}40%{transform:translateX(6px)}60%{transform:translateX(-4px)}80%{transform:translateX(2px)}}
+@keyframes vvDesliza{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+@keyframes vvEntraQ{from{opacity:0;transform:translateX(26px)}to{opacity:1;transform:none}}
+@keyframes vvEntraQv{from{opacity:0;transform:translateX(-26px)}to{opacity:1;transform:none}}
+@keyframes vvFlutua{0%,100%{translate:0 0}50%{translate:-14px 12px}}
+@keyframes vvVira{from{opacity:0;transform:perspective(700px) rotateX(-70deg)}to{opacity:1;transform:none}}
+@keyframes vvPulsa{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.45;transform:scale(.8)}}
+.confete{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:200}
+
+@media(max-width:720px){
+  .cartao{padding:16px 15px;border-radius:20px}
+  .vHero{flex-direction:column-reverse;align-items:flex-start;padding:22px 20px;border-radius:24px;gap:16px}
+  .vHero h2{font-size:23px}
+  .vAnel{width:112px;height:112px;align-self:center}.vAnel svg{width:112px;height:112px}.vAnel .val b{font-size:27px}
+  .vHero .acoesH .btn{flex:1 1 auto;justify-content:center}
+  .mini{padding:14px}.mini .gd{font-size:24px}
+  .vAtalhos button{font-size:13px}
+}
+@media(prefers-reduced-motion:reduce){
+  .anima>*,.vHero .losango,#qAlts .alt,#qAlts .alt .letra::before,.coment,.espelho,.flash .verso,.qCombo,#qCorpo.entra>.cartao,#sec-simulado .cartao.entra,#cronSim::before,.faixa{animation:none!important}
+  .barra i,.vAnel .arco{transition:none!important}
+  .btn,.alt,.mini,.leiLin,.casoLin,.vAtalhos button{transform:none!important}
+}
 </style>
 </head>
 <body>
@@ -571,6 +847,7 @@ function medeCabecalho(){
 addEventListener("resize",medeCabecalho);
 function irAba(id,semHash){
   abaAtual=id;
+  document.body.dataset.aba=id;   /* camada viva: a cor da seção sai daqui (CSS body[data-aba]) */
   if(id!=="leitura"){LEI.aberta=null;document.body.classList.remove("lendo")}
   document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b.dataset.aba===id));
   const mais=document.querySelector("#barraAbas [data-mais]");
@@ -578,8 +855,10 @@ function irAba(id,semHash){
   document.querySelectorAll("main section").forEach(s=>s.classList.toggle("on",s.id==="sec-"+id));
   if(!semHash&&location.hash!=="#"+id)history.replaceState(null,"","#"+id);
   ST.pos.aba=id;ARM.save("tt_pos",ST.pos);
-  ({questoes:montaQuestoes,simulado:montaSimulado,pratica:montaPratica,leitura:montaLeitura,painel:montaPainel,
+  const r=({questoes:montaQuestoes,simulado:montaSimulado,pratica:montaPratica,leitura:montaLeitura,painel:montaPainel,
     cartoes:montaCartoes,erros:montaErros,plano:montaPlano,ajustes:montaAjustes}[id]||(()=>{}))();
+  const sec=$("#sec-"+id);
+  if(r&&r.then)r.then(()=>vivo(sec));else vivo(sec);
 }
 addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(ABAS.some(a=>a[0]===h))irAba(h,true)});
 
@@ -832,8 +1111,8 @@ function desenhaQuestao(){
     <div id="qFeed"></div>
   </div>`;
   $("#qFav").onclick=()=>{if(ST.fav[q._ch])delete ST.fav[q._ch];else ST.fav[q._ch]=1;ARM.save("tt_fav",ST.fav);desenhaQuestao()};
-  $("#qAnt").onclick=()=>{if(QST.idx>0){QST.idx--;desenhaQuestao()}};
-  $("#qProx").onclick=()=>{if(QST.idx<QST.lista.length-1){QST.idx++;desenhaQuestao()}};
+  $("#qAnt").onclick=()=>{if(QST.idx>0){QST.idx--;desenhaQuestao();entraQuestao(true)}};
+  $("#qProx").onclick=()=>{if(QST.idx<QST.lista.length-1){QST.idx++;desenhaQuestao();entraQuestao(false)}};
   $("#qResp").onclick=()=>respondeQuestao(q);
   box.querySelectorAll(".alt").forEach(el=>ligaAlternativa(el,q));
 }
@@ -890,6 +1169,7 @@ function respondeQuestao(q){
     UI.banner("info","Anotado no log de erros — complete o motivo e a lição na aba Erros.");
     bl.disabled=true;
   };
+  vivoResposta(ok);
 }
 
 /* ================== SIMULADO ================== */
@@ -963,11 +1243,12 @@ function desenhaSimAtivo(){
   sec.querySelectorAll(".gradeSim button").forEach(b=>b.onclick=()=>{s.pos=+b.dataset.i;ARM.save("tt_simativo",s);desenhaSimAtivo()});
   sec.querySelectorAll("#simAlts .alt").forEach(b=>b.onclick=()=>{
     s.resp[q._ch]=+b.dataset.i;ARM.save("tt_simativo",s);
-    if(s.pos<qs.length-1){s.pos++;ARM.save("tt_simativo",s)}
-    desenhaSimAtivo();
+    const avancou=s.pos<qs.length-1;
+    if(avancou){s.pos++;ARM.save("tt_simativo",s)}
+    desenhaSimAtivo();if(avancou)entraSim(false);
   });
-  $("#simAnt").onclick=()=>{if(s.pos>0){s.pos--;ARM.save("tt_simativo",s);desenhaSimAtivo()}};
-  $("#simProx").onclick=()=>{if(s.pos<qs.length-1){s.pos++;ARM.save("tt_simativo",s);desenhaSimAtivo()}};
+  $("#simAnt").onclick=()=>{if(s.pos>0){s.pos--;ARM.save("tt_simativo",s);desenhaSimAtivo();entraSim(true)}};
+  $("#simProx").onclick=()=>{if(s.pos<qs.length-1){s.pos++;ARM.save("tt_simativo",s);desenhaSimAtivo();entraSim(false)}};
   $("#simFim").onclick=()=>{
     const faltam=qs.length-Object.keys(s.resp).length;
     if(faltam&&!confirm(`Ainda faltam ${faltam} questões. Entregar mesmo assim?`))return;
@@ -1028,8 +1309,8 @@ function desenhaRevisao(iSim,pos,recem){
     </div>
   </div>`;
   $("#revVoltar").onclick=()=>montaSimulado();
-  $("#revAnt").onclick=()=>{if(pos>0)desenhaRevisao(iSim,pos-1)};
-  $("#revProx").onclick=()=>{if(pos<det.length-1)desenhaRevisao(iSim,pos+1)};
+  $("#revAnt").onclick=()=>{if(pos>0){desenhaRevisao(iSim,pos-1);entraSim(true)}};
+  $("#revProx").onclick=()=>{if(pos<det.length-1){desenhaRevisao(iSim,pos+1);entraSim(false)}};
   sec.querySelectorAll(".gradeSim button").forEach(b=>b.onclick=()=>desenhaRevisao(iSim,+b.dataset.i));
 }
 
@@ -1220,7 +1501,7 @@ function montaPainel(){
   // prática descritiva
   const pr=Object.values(ST.treino);
   const prN=pr.length, prMed=prN?pr.reduce((a,v)=>a+(v.nota||0),0)/prN:null;
-  sec.innerHTML=`
+  sec.innerHTML=`${heroiPainel(totalResp,unicas,accG)}${atalhosPainel()}
   <div class="cardsMini">
     <div class="mini"><div class="rot">Respostas</div><div class="gd">${totalResp}</div><div class="peq mut">${unicas} questões únicas</div></div>
     <div class="mini"><div class="rot">Acerto geral</div><div class="gd">${accG===null?"—":Math.round(accG*100)+"%"}</div><div class="peq mut">todas as tentativas</div></div>
@@ -1294,6 +1575,7 @@ function montaPainel(){
       <td style="min-width:110px"><div class="barra"><i style="width:${Math.min(100,c.n/30*100)}%"></i></div></td></tr>`).join("")}
     </table></div>
   </div>`;
+  ligaHeroi(sec);
   const salvaMeta=()=>{ST.meta={dataProva:$("#metaData").value||null,alvo:+$("#metaAlvo").value||null};ARM.save("tt_meta",ST.meta);pintaContagem();montaPainel()};
   sec.querySelectorAll("[data-cur]").forEach(sl=>sl.onchange=()=>{
     const c=ST.cfg.curric||(ST.cfg.curric={});
@@ -1566,6 +1848,137 @@ async function montaAjustes(){
       setTimeout(()=>location.reload(),800);
     }catch(e){location.reload()}
   };
+}
+
+/* ================== camada viva (23/09/2026, tt-v15) ==================
+   Só apresentação: entrada escalonada, contadores, barras e anel que se preenchem, questão que
+   desliza na direção da navegação, sequência de acertos, confete ao bater a meta do dia e o herói
+   do Painel. Lê o estado (ST) e nunca grava nada por conta própria. */
+let COMBO=0;
+const reduzMov=()=>matchMedia("(prefers-reduced-motion:reduce)").matches;
+function vivo(sec){
+  if(!sec||document.body.classList.contains("lendo"))return;
+  sec.classList.remove("anima");void sec.offsetWidth;sec.classList.add("anima");
+  [...sec.children].forEach((c,k)=>c.style.setProperty("--i",Math.min(k,12)));
+  const reduz=reduzMov();
+  /* números dos indicadores sobem de 0 até o valor (só inteiros: "123", "56%", "3 d") */
+  sec.querySelectorAll(".mini .gd,[data-conta]").forEach(el=>{
+    if(el.children.length)return;
+    const m=/^(\d+)(%| d)?$/.exec(el.textContent.trim());if(!m)return;
+    const fim=+m[1],suf=m[2]||"";
+    if(reduz||!fim)return;
+    const t0=performance.now(),d=900;let feito=false;
+    const passo=t=>{if(feito)return;const p=Math.max(0,Math.min(1,(t-t0)/d)),e=1-Math.pow(1-p,3);el.textContent=Math.round(fim*e)+suf;if(p<1)requestAnimationFrame(passo);else feito=true};
+    el.textContent="0"+suf;requestAnimationFrame(passo);
+    /* aba em segundo plano congela o requestAnimationFrame: o valor final chega de qualquer jeito */
+    setTimeout(()=>{feito=true;el.textContent=fim+suf},d+150);
+  });
+  if(reduz)return;
+  /* barras e anel: nascem vazios e se preenchem */
+  const barras=[...sec.querySelectorAll(".barra i")].map(el=>{const w=el.style.width;el.style.transition="none";el.style.width="0";return [el,w]});
+  const aneis=[...sec.querySelectorAll("[data-off]")];
+  aneis.forEach(el=>{el.style.transition="none";el.style.strokeDashoffset=el.getAttribute("stroke-dasharray")});
+  void sec.offsetWidth;
+  setTimeout(()=>{
+    barras.forEach(([el,w])=>{el.style.transition="";el.style.width=w});
+    aneis.forEach(el=>{el.style.transition="";el.style.strokeDashoffset=el.dataset.off});
+  },40);
+}
+/* a questão entra pela direita (próxima) ou pela esquerda (anterior) */
+function entra(el,volta){
+  if(!el)return;
+  el.classList.remove("entra","volta");void el.offsetWidth;el.classList.add("entra");if(volta)el.classList.add("volta");
+}
+const entraQuestao=volta=>entra($("#qCorpo"),volta);
+const entraSim=volta=>entra($("#sec-simulado>.cartao:last-child"),volta);
+
+/* meta do dia derivada da meta que ele já definiu no Painel (data da prova + alvo de questões):
+   o que falta do alvo, contando só o que foi respondido ATÉ ONTEM, dividido pelos dias até a prova.
+   Estável durante o dia. Sem data ou sem alvo: não há meta e não há confete. */
+function metaDia(){
+  const m=ST.meta||{};if(!m.dataProva||!m.alvo)return null;
+  const dias=Math.round((new Date(m.dataProva+"T12:00:00")-new Date(dataISO()+"T12:00:00"))/86400000);
+  if(dias<=0)return null;
+  const hj=dataISO();let total=0,hoje=0;
+  Object.values(ST.resp).forEach(r=>r.hist.forEach(h=>{total++;if(h.d===hj)hoje++}));
+  const meta=Math.ceil(Math.max(0,m.alvo-(total-hoje))/dias);
+  return meta>0?{meta,hoje}:null;
+}
+const ICO_RAIO='<svg class="ic" viewBox="0 0 24 24"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></svg>';
+function vivoResposta(ok){
+  COMBO=ok?COMBO+1:0;
+  const t=$("#sec-questoes .q-topo"),v=$("#sec-questoes .qCombo");if(v)v.remove();
+  if(t&&COMBO>=2){const c=document.createElement("span");c.className="qCombo";c.innerHTML=`${ICO_RAIO}${COMBO} seguidas`;t.insertBefore(c,$("#qFav"))}
+  const md=metaDia();
+  if(md&&md.hoje===md.meta){confete();UI.banner("ok",`Meta do dia batida: ${md.meta} questões.`)}
+}
+/* confete leve em canvas, nas cores das placas: 1,6 s e some sozinho; nada com movimento reduzido */
+function confete(){
+  if(reduzMov())return;
+  const cv=document.createElement("canvas");cv.className="confete";document.body.appendChild(cv);
+  const dpr=devicePixelRatio||1,W=cv.width=innerWidth*dpr,H=cv.height=innerHeight*dpr,x=cv.getContext("2d");
+  const cores=["#E29215","#E8691C","#C0261F","#1D5FA6","#12704A","#8A5431","#2F3540"];
+  const ps=[...Array(140)].map(()=>({x:W/2+(Math.random()-.5)*W*.3,y:H*.35,vx:(Math.random()-.5)*26*dpr,vy:(-Math.random()*22-6)*dpr,
+    s:(6+Math.random()*7)*dpr,r:Math.random()*6,vr:(Math.random()-.5)*.4,c:cores[Math.random()*cores.length|0],f:Math.random()<.5}));
+  const t0=performance.now();
+  const q=t=>{const el=t-t0;x.clearRect(0,0,W,H);
+    ps.forEach(p=>{p.vy+=.9*dpr;p.vx*=.985;p.x+=p.vx;p.y+=p.vy;p.r+=p.vr;x.save();x.translate(p.x,p.y);x.rotate(p.r);x.globalAlpha=Math.max(0,1-el/1600);x.fillStyle=p.c;
+      if(p.f)x.fillRect(-p.s/2,-p.s/4,p.s,p.s/2);else{x.beginPath();x.moveTo(0,-p.s/2);x.lineTo(p.s/2,0);x.lineTo(0,p.s/2);x.lineTo(-p.s/2,0);x.closePath();x.fill()}x.restore()});
+    if(el<1600)requestAnimationFrame(q);else cv.remove()};
+  requestAnimationFrame(q);
+}
+
+/* herói do Painel: só números que o app já calcula (respostas, questões vistas, acerto, meta) */
+const ICO_ADV='<svg class="ic" viewBox="0 0 24 24"><path d="M12 2.5 21.5 12 12 21.5 2.5 12z"/><path d="M12 8v4.5M12 15.8h.01"/></svg>';
+function heroiPainel(totalResp,unicas,accG){
+  const d=ST.meta&&ST.meta.dataProva;
+  const dias=d?Math.round((new Date(d+"T12:00:00")-new Date(dataISO()+"T12:00:00"))/86400000):null;
+  const selo=dias===null?"Painel de estudo":dias>1?`faltam ${dias} dias para a prova`:dias===1?"a prova é amanhã":dias===0?"a prova é hoje":"prova realizada";
+  const md=metaDia();
+  const pct=accG===null?null:Math.round(accG*100);
+  const R=54,C=+(2*Math.PI*R).toFixed(2),off=pct===null?C:+(C*(1-pct/100)).toFixed(2);
+  return `<div class="vHero">
+    <span class="losango l1" aria-hidden="true"></span><span class="losango l2" aria-hidden="true"></span>
+    <div class="txt">
+      <small>${ICO_ADV}${esc(selo)}</small>
+      <h2><span data-conta>${unicas}</span> de ${BANCO.length} questões já vistas</h2>
+      <p>${totalResp} respostas no total${md?`, ${md.hoje} hoje de uma meta de ${md.meta}`:""}. Corte da teórica: 6,0.</p>
+      <div class="acoesH">
+        <button class="btn" data-vh="questoes">Continuar questões</button>
+        <button class="btn fant" data-vh="simulado">Simulado</button>
+      </div>
+    </div>
+    <div class="vAnel" role="img" aria-label="Acerto geral: ${pct===null?"sem respostas ainda":pct+"%"}; marca no corte de 60%">
+      <svg viewBox="0 0 132 132" width="132" height="132" aria-hidden="true">
+        <circle class="trilho" cx="66" cy="66" r="${R}"/>
+        <circle class="arco" cx="66" cy="66" r="${R}" stroke-dasharray="${C}" stroke-dashoffset="${off}" data-off="${off}"/>
+        <line class="corte" x1="106" y1="66" x2="126" y2="66" transform="rotate(216 66 66)"/>
+      </svg>
+      <div class="val">${pct===null?`<b class="vazio">sem dados</b>`:`<b><span data-conta>${pct}</span>%</b>`}<span>acerto geral</span></div>
+    </div>
+  </div>`;
+}
+function atalhosPainel(){
+  let erradas=0;
+  for(const [ch,r] of Object.entries(ST.resp)){if(QIDX.has(ch)&&r.hist.length&&!r.hist[r.hist.length-1].ok)erradas++}
+  const hoje=cartoesDeHoje().length, lidas=Object.keys(ST.lidas).length, totL=LEITURAS.filter(i=>i.f).length;
+  const casos=PRATICA.filter(c=>ST.treino[c.id]&&ST.treino[c.id].nota!==undefined&&ST.treino[c.id].d).length;
+  const ic=id=>((ABAS.find(a=>a[0]===id)||[])[2]||"");
+  const bt=(vh,cor,on,icone,txt)=>`<button data-vh="${vh}" style="--c:var(--s-${cor});--cOn:${on}"><svg class="ic" viewBox="0 0 24 24">${icone}</svg>${txt}</button>`;
+  return `<div class="vAtalhos">
+    ${erradas?bt("erradas","reg","#fff",ic("erros"),`Refazer as que errei <b>${erradas}</b>`):""}
+    ${bt("cartoes","edu","var(--s-edu-on)",ic("cartoes"),`Cartões para hoje <b>${hoje}</b>`)}
+    ${bt("leitura","tur","#fff",ic("leitura"),`Leituras <b>${lidas}/${totL}</b>`)}
+    ${bt("pratica","serv","#fff",ic("pratica"),`Casos práticos <b>${casos}/${PRATICA.length}</b>`)}
+  </div>`;
+}
+function ligaHeroi(sec){
+  sec.querySelectorAll("[data-vh]").forEach(b=>b.onclick=()=>{
+    const v=b.dataset.vh;
+    if(v==="erradas"){ST.pos.fq={tema:"",status:"erradas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes")}
+    else irAba(v);
+    window.scrollTo(0,0);
+  });
 }
 
 /* ---------- util ---------- */
