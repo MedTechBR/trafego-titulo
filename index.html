@@ -818,6 +818,37 @@ tr.clic:focus-visible{outline:2px solid var(--ac);outline-offset:-2px}
   .pgTitulo .selo,.faixa{animation:none!important}
   .btIco{transform:none!important}
 }
+
+/* ---------- 23/09/2026, tt-v16: a questão inteira na tela do celular (PWA) ----------
+   Pedido do Matheus com print do iPhone: ao abrir, só se viam o enunciado e duas alternativas.
+   O que empurrava: cabeçalho de 58 px, filtros em duas linhas (114 px), etiquetas em até três
+   linhas e alternativas de 92 px (o texto usava 278 dos 376 px e quebrava em três linhas). */
+@media(max-width:720px){
+  main{padding-top:6px!important;padding-left:8px!important;padding-right:8px!important}
+  .topo{padding:5px 12px 4px!important;gap:9px}
+  .topo .sub{display:none}
+  .marca{width:30px!important;height:30px!important}.marca svg{width:18px!important;height:18px!important}
+  .btTema{width:36px!important;height:36px!important}
+  #sec-questoes>.cartao:first-child{padding:6px 6px 6px 8px!important;margin-bottom:8px!important}
+  #sec-questoes>.cartao:first-child .linha{flex-wrap:nowrap!important;gap:6px!important}
+  #sec-questoes>.cartao:first-child select{flex:1 1 0;min-width:0;height:36px!important;min-height:36px!important;font-size:14px!important;padding-top:0!important;padding-bottom:0!important}
+  #sec-questoes>.cartao:first-child label{white-space:nowrap;font-size:12.5px!important;flex:none}
+  #sec-questoes>.cartao:first-child label input{width:18px;height:18px}
+  #fqEmbaralha{width:36px!important;height:36px!important;min-height:36px!important;flex:none;padding:0!important}
+  #qCorpo>.cartao{padding:11px 10px 12px!important}
+  .q-topo{flex-wrap:nowrap!important;padding-right:0!important;margin-bottom:8px!important;gap:5px!important;min-width:0}
+  .q-topo .chip{min-width:0;flex:0 1 auto;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:11.5px!important;padding:3px 9px!important}
+  .q-topo .chip:first-child{flex-shrink:.6}
+  .q-topo .qMeta{position:static!important;flex:none;margin-left:auto}
+  .q-enun{margin-bottom:10px!important;line-height:1.55!important}
+  .alt{padding:5px 6px 5px 6px!important;gap:9px!important;margin-bottom:6px!important;min-height:44px!important;font-size:14.5px!important;line-height:1.42!important}
+  .alt .txt{padding:2px 0!important}
+  .alt .letra{width:27px!important;height:27px!important;font-size:12.5px!important}
+  .alt .risco{padding:2px!important;margin-left:0!important}
+  .alt .risco svg{width:13px!important;height:13px!important}
+  #qFav{width:32px!important;height:32px!important}
+  #pgTitulo:empty{display:none}
+}
 </style>
 </head>
 <body>
