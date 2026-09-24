@@ -95,6 +95,27 @@ toda". Está num bloco único no FIM do `<style>` (comentário `tt-v15: camada "
   agora fica numa coluna fixa à direita (≥1000 px, via `#sec-simulado:has(#cronSim)`; a revisão usa o mesmo layout).
 - Continua proibido: gradiente, emoji, fonte nova, travessão em texto novo de interface.
 
+### Camada viva, 2ª rodada (23/09/2026, tt-v16, guia `MedTech/VIVA-2026-09.md`)
+Bloco CSS `tt-v16` no fim do `<style>` + ganchos JS pequenos. Dados, chaves, banco, leituras e `sync.js` intocados.
+- **Inter local** em `fonts/` (woff2 latim enxuto, ~24 KB cada, OFL em `fonts/OFL.txt`); Archivo e Google Fonts saíram
+  do index (`--fD` = Inter). Não usar `<link rel=preload crossorigin>` para as fontes: por file:// dá erro de CORS no console.
+  As leituras (`leituras/*.html` + `_leitura.css`) AINDA pedem Archivo+Inter ao Google e têm rótulos em caixa alta: ficaram
+  de fora por serem conteúdo; o SW mantém o cache `tt-fontes-v1` só por causa delas.
+- **Barra lateral clara** ≥900 px (252 px; só ícones entre 900 e 1179), grupos Estudar/Acompanhar, contagem e tema no pé;
+  `medeCabecalho()` zera `--hAlt` quando o cabeçalho é lateral. Tablet: abas no topo. Celular: cabeçalho claro de uma linha
+  + barra inferior clara (`repeat(5,minmax(0,1fr))`: com `1fr` puro ela estourava 390 px). Faixa asfalto `body::before` na
+  altura de `safe-area-inset-top`: a status bar do iPhone instalado é `black-translucent` (texto branco).
+- **Título de página** `#pgTitulo` com selo na cor da seção (`pintaTitulo`/`infoAba`); só leitor de tela em Questões, leitura
+  aberta e simulado em curso. **Avisos** (`UI.banner`) viraram pílula flutuante com ícone; sucesso some em 6 s.
+- **Painel:** o anel do herói mostra a **meta do dia** quando há data+alvo (senão, acerto geral com o corte de 60%); o
+  indicador "Acerto geral" ganhou barra com a marca de 60%; indicadores com ícone em círculo.
+- **Função:** atalhos (`atalhos()`): Questões A–E/1–5, Enter responde e avança, setas; Simulado A–E e setas; Cartões espaço
+  e 1–4; Leitura `/` busca e Esc fecha. Busca nas leituras (sem acento), "Zerar marcações" no fim da lista com confirmação.
+  Estados vazios com botão (filtro de Questões/Prática, Cartões, Plano). Log de erros vira cartões no celular, campo salvo
+  pisca verde, 16 px (sem zoom do iOS). `inputmode` nos números. Excluir com ícone de lixeira.
+- Verificado: contraste AA por DOM nas telas principais nos dois temas (0 falhas), sem rolagem lateral em 390 px,
+  fluxo por teclado de ponta a ponta, `node testa_sync.js` 29/29, `valida_banco.py` sem erro duro.
+
 ### Auditoria visual por DOM (roda no navegador, não é screenshot)
 O script de contraste usado está no histórico da sessão: percorre `body *`, calcula a razão WCAG entre
 `color` e o primeiro fundo opaco ancestral, e reporta o que fica abaixo do mínimo — repetindo para os

@@ -1,13 +1,15 @@
 /* TráfegoTítulo — service worker.
    REGRA DE DEPLOY: bumpar CACHE a CADA deploy (tt-v2, tt-v3...) — sem isso o usuário
    fica preso na versão velha e qualquer correção vira fantasma. */
-const CACHE = 'tt-v15';
+const CACHE = 'tt-v16';
 const FONTES = 'tt-fontes-v1';
 const NUCLEO = [
   './', 'index.html',
   'banco.js', 'taxonomia.js', 'flash.js', 'pratica.js', 'leituras.js',
   'leituras/_leitura.css', 'leituras/_leitura.js',
   'sync.js',
+  // tt-v16: a Inter do app é servida daqui (sem Google Fonts no index)
+  'fonts/inter-400.woff2', 'fonts/inter-500.woff2', 'fonts/inter-600.woff2', 'fonts/inter-700.woff2',
   'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png'
 ];
 
@@ -32,8 +34,9 @@ self.addEventListener('fetch', e => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
 
-  // Fontes do Google (Archivo/Inter): stale-while-revalidate em cache próprio,
-  // para a identidade tipográfica sobreviver offline. Nunca some no bump do CACHE.
+  // Fontes do Google (Archivo/Inter): hoje só as páginas de leitura (leituras/*.html) ainda as pedem;
+  // o index usa a Inter local desde a tt-v16. Stale-while-revalidate em cache próprio, para sobreviver
+  // offline. Nunca some no bump do CACHE.
   if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com') {
     e.respondWith(caches.open(FONTES).then(c =>
       c.match(req).then(hit => {
