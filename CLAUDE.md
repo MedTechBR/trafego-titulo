@@ -1,5 +1,13 @@
 # TráfegoTítulo — app de estudo para o Título de Especialista em Medicina do Tráfego (AMB/ABRAMET)
 
+
+> **25/09/2026 — conta e sincronização trocadas (SUBSTITUI o que este arquivo diz sobre `sync.js`/`nuvem.js`/`MT.save`).**
+> O app só abre logado e salva sozinho durante o uso. Motor único em `~/Documents/Claude/_mtsync/`
+> (`mtsync.js`; ler o README de lá): um documento por item em `users/{uid}/apps/<app>/sync/`, fila offline
+> do Firestore, recebimento em tempo real, migração única do formato antigo. Sem exportar/importar/restaurar
+> backup na interface. Mexeu no motor: `node _mtsync/teste.js` e copiar para os quatro apps.
+> Aqui: `conta-estudo.js` (cópia) + `sync-legado.js` (núcleo do sync.js antigo, só para a migração; `node testa_sync.js` ainda o testa).
+
 App pessoal do Matheus. Derivado do **RadioTítulo** (mesma arquitetura e mesmo design system);
 o que muda é o conteúdo, o formato da prova e o módulo da teórico-prática.
 
