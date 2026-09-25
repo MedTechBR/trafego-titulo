@@ -3,7 +3,7 @@
    simulados e um armazém falso que reproduz a superfície usada do Firestore
    (docs por item + consulta ts>x). Roda: node testa_sync.js */
 "use strict";
-const C = require("./sync.js");
+const C = require("./sync-legado.js");
 let RELOGIO = 1_000_000; const tique = () => ++RELOGIO;
 
 const loja = {}; // {col:{id:doc}}

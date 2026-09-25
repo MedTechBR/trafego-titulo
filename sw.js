@@ -1,13 +1,14 @@
 /* TráfegoTítulo — service worker.
    REGRA DE DEPLOY: bumpar CACHE a CADA deploy (tt-v2, tt-v3...) — sem isso o usuário
    fica preso na versão velha e qualquer correção vira fantasma. */
-const CACHE = 'tt-v17';
+const CACHE = 'tt-v18';
 const FONTES = 'tt-fontes-v1';
 const NUCLEO = [
   './', 'index.html',
   'banco.js', 'taxonomia.js', 'flash.js', 'pratica.js', 'leituras.js',
   'leituras/_leitura.css', 'leituras/_leitura.js',
-  'sync.js',
+  'mtsync.js', 'conta-estudo.js', 'sync-legado.js',
+  'vendor/firebase-app-compat.js', 'vendor/firebase-auth-compat.js', 'vendor/firebase-firestore-compat.js',
   // tt-v16: a Inter do app é servida daqui (sem Google Fonts no index)
   'fonts/inter-400.woff2', 'fonts/inter-500.woff2', 'fonts/inter-600.woff2', 'fonts/inter-700.woff2',
   'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png'

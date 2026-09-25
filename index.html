@@ -13,6 +13,9 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="TráfegoTítulo">
 <title>TráfegoTítulo</title>
+<!-- conta + sincronização (cópia de ~/Documents/Claude/_mtsync/). Síncrono no <head>: o portão
+     cobre a tela antes do primeiro pixel do app e só sai com a conta confirmada. -->
+<script src="mtsync.js"></script>
 <script>try{var _t=localStorage.getItem("tt_tema");if(_t)document.documentElement.dataset.tema=_t}catch(e){}</script>
 <style>
 /* Inter servida pelo próprio app (fonts/, latim enxuto, OFL em fonts/OFL.txt): nada de Google Fonts. */
@@ -982,7 +985,7 @@ const ARM={
     try{raw=localStorage.getItem(k)}catch(e){falhou=true;this.travas[k]="leitura falhou: "+e.message}
     if(raw===null&&!falhou)return fb;          // nunca gravada: fallback é seguro
     if(!falhou){ try{return JSON.parse(raw)}catch(e){this.travas[k]="JSON corrompido"} }
-    UI.banner("erro",`Falha ao ler ${k}. A gravação dessa chave ficou bloqueada para não apagar dados. Exporte o backup em Ajustes.`,true);
+    UI.banner("erro",`Falha ao ler ${k} neste aparelho. Para não apagar nada, essa parte não será gravada até reabrir o app; o que já está na sua conta continua salvo.`,true);
     return fb;
   },
   save(k,v){
@@ -2068,46 +2071,8 @@ function montaPlano(){
 /* ================== AJUSTES ================== */
 async function montaAjustes(){
   const sec=$("#sec-ajustes");
-  let uso="";
-  try{if(navigator.storage&&navigator.storage.estimate){const e=await navigator.storage.estimate();
-    uso=`${(e.usage/1048576).toFixed(1)} MB usados de ~${(e.quota/1048576).toFixed(0)} MB`}}catch(e){}
-  const bks=await ARM.listaBackups();
   sec.innerHTML=`
   <div id="slotSync"></div>
-  <div class="cartao"><h2>Proteção de dados</h2>
-    <table>
-      <tr><td>Armazenamento persistente</td><td>${ARM.persistOK===true?'<span class="verde">concedido</span>':ARM.persistOK===false?'<span class="ambar">negado pelo navegador (comum no iPhone); o espelho IndexedDB e os backups cobrem</span>':'<span class="mut">não informado</span>'}</td></tr>
-      <tr><td>Espelho IndexedDB</td><td>${ARM.db?'<span class="verde">ativo</span>':'<span class="vermelho">indisponível</span>'}</td></tr>
-      <tr><td>Uso de armazenamento</td><td>${uso||'<span class="mut">não informado</span>'}</td></tr>
-      <tr><td>Chaves travadas</td><td>${Object.keys(ARM.travas).length?'<span class="vermelho">'+esc(Object.keys(ARM.travas).join(", "))+"</span>":'<span class="verde">nenhuma</span>'}</td></tr>
-    </table>
-    <div class="linha" style="margin-top:10px">
-      <button class="btn" id="ajExporta" type="button">Exportar backup (.json)</button>
-      <label class="btn fant" style="cursor:pointer" tabindex="0" role="button" id="ajImportaRot">Importar backup<input type="file" id="ajImporta" accept=".json,application/json" hidden></label>
-      <button class="btn fant" id="ajSnap" type="button">Criar backup interno agora</button>
-    </div>
-  </div>
-  <div class="cartao"><h2>Backups internos (últimos ${bks.length})</h2>
-    ${bks.length?`<div class="rolagem"><table><tr><th>Quando</th><th>Motivo</th><th>Chaves</th><th></th></tr>
-      ${bks.map(b=>`<tr><td>${esc((b.quando||"").replace("T"," ").slice(0,16))}</td><td>${esc(b.motivo)}</td><td>${b.n}</td>
-        <td><button class="btn fant peq" type="button" data-rest="${b.id}">Restaurar</button></td></tr>`).join("")}</table></div>`
-      :'<p class="mut peq">Nenhum ainda. Eles são criados automaticamente durante o uso.</p>'}
-  </div>
-  <details class="cartao" id="ajRecupera">
-    <summary style="cursor:pointer;font-weight:650;font-size:14.5px;min-height:44px;display:flex;align-items:center">Trazer o progresso do endereço antigo (medtechbr.github.io)</summary>
-    <div style="margin-top:12px">
-    <p class="peq">O app mudou de <b>medtechbr.github.io</b> para <b>medtechbr.com.br</b>. O navegador guarda os dados por endereço, então seu progresso <b>não foi apagado</b>: ficou preso no endereço antigo, que agora redireciona para cá. Para trazê-lo:</p>
-    <ol class="peq" style="padding-left:20px;margin:8px 0 12px">
-      <li>Ligue o <b>modo avião</b> (ou desligue o Wi-Fi e os dados).</li>
-      <li>Abra o app <b>do jeito que você estudava antes</b>: pelo ícone da tela inicial, ou pelo endereço antigo <b>medtechbr.github.io/trafego-titulo</b> no mesmo navegador. Sem internet ele abre a cópia guardada, com seu progresso.</li>
-      <li>Em <b>Ajustes</b>, toque em <b>Exportar backup</b>. Se o arquivo não baixar, abra-o e use <b>Copiar</b>.</li>
-      <li>Religue a internet, abra <b>medtechbr.com.br/trafego-titulo</b> e use <b>Importar backup</b> ou cole o texto abaixo.</li>
-    </ol>
-    <p class="peq mut" style="margin-bottom:10px">No iPhone, o ícone da tela inicial e o Safari guardam dados separados: faça o passo 2 no mesmo lugar onde você respondia as questões.</p>
-    <textarea id="ajCola" rows="4" style="width:100%" placeholder="Cole aqui o conteúdo do backup (começa com {&quot;__app&quot;:&quot;trafego-titulo&quot;…)"></textarea>
-    <div class="linha" style="margin-top:8px"><button class="btn" id="ajColaImporta" type="button">Importar o texto colado</button></div>
-  </div>
-  </details>
   <div class="cartao"><h2>Aplicativo</h2>
     <table>
       <tr><td>Versão</td><td>${V}</td></tr>
@@ -2121,35 +2086,6 @@ async function montaAjustes(){
   </div>`;
   
   if(window.TTSYNC)TTSYNC.renderCartao($("#slotSync"));
-  $("#ajExporta").onclick=()=>{baixaArquivo("trafego-titulo-backup-"+dataISO()+".json",JSON.stringify(ARM.exporta(),null,1),"application/json");UI.banner("ok","Backup baixado. Guarde o arquivo fora do celular.")};
-  $("#ajImportaRot").onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();$("#ajImporta").click()}};
-  $("#ajImporta").onchange=async e=>{
-    const f=e.target.files[0];if(!f)return;
-    try{
-      const obj=JSON.parse(await f.text());
-      const n=await ARM.importa(obj);
-      if(n===null){UI.banner("erro","Esse arquivo não parece um backup do TráfegoTítulo.");return}
-      carregaEstado();UI.banner("ok",`Backup importado: ${n} chaves restauradas (o estado anterior virou backup interno).`);
-      montaAjustes();
-    }catch(err){UI.banner("erro","Não consegui ler o arquivo: "+err.message)}
-  };
-  $("#ajColaImporta").onclick=async()=>{
-    const txt=$("#ajCola").value.trim();
-    if(!txt){UI.banner("info","Cole o conteúdo do backup no campo acima.");return}
-    try{
-      const obj=JSON.parse(txt.slice(txt.indexOf("{"),txt.lastIndexOf("}")+1));
-      const n=await ARM.importa(obj);
-      if(n===null){UI.banner("erro","Esse texto não parece um backup do TráfegoTítulo.");return}
-      carregaEstado();UI.banner("ok",`Backup importado: ${n} chaves restauradas (o estado anterior virou backup interno).`);
-      montaAjustes();
-    }catch(err){UI.banner("erro","Não consegui ler o texto colado: "+err.message)}
-  };
-  $("#ajSnap").onclick=async()=>{await ARM.snapshot("manual");UI.banner("ok","Backup interno criado.");montaAjustes()};
-  sec.querySelectorAll("[data-rest]").forEach(b=>b.onclick=async()=>{
-    if(!confirm("Restaurar este backup? O estado atual vira um novo backup interno antes."))return;
-    const ok=await ARM.restaura(+b.dataset.rest);
-    if(ok){carregaEstado();UI.banner("ok","Backup restaurado.");montaAjustes()}else UI.banner("erro","Não consegui restaurar.");
-  });
   $("#ajAtualiza").onclick=async()=>{
     $("#ajAtualiza").disabled=true;
     try{
@@ -2417,7 +2353,6 @@ function pintaContagem(){
   $("#subTopo").textContent=`${BANCO.length} questões e ${PRATICA.length} casos`;
   iniciaTema();
   pintaContagem();
-  if(ARM.recuperado)UI.banner("ok",`Dados recuperados do espelho interno (IndexedDB): ${ARM.recuperado.n} chaves, último espelho de ${ARM.recuperado.quando.slice(0,16).replace("T"," ")}. O localStorage tinha sido apagado pelo navegador.`,true);
   if(ARM.persistOK===false)console.warn("storage.persist() negado — comum no iOS; espelho IDB ativo.");
   if(ST.simativo&&!ST.simativo.fim)UI.banner("info","Há um simulado em andamento. Retome na aba Simulado.");
   /* deep link vindo das leituras: ?area=<tema> abre Questões já filtrado */
@@ -2440,6 +2375,9 @@ function pintaContagem(){
 window.__tt={get ST(){return ST},ARM,chaveQ,chaveTxt,QIDX,irAba,registraResposta,V,escuroAgora,pintaContagem,embaralha,espalhaTemas,get QST(){return QST}};
 </script>
 <script src="/_mtacesso.js?v=1"></script>
-<script src="sync.js"></script>
+<script>window.CONTA_CFG={app:"trafego-titulo",nome:"TráfegoTítulo",pref:"tt_",global:"TTSYNC",ganchos:"__tt",core:"TTSYNC_CORE",
+  pronto:"tt-pronto",prontoFlag:"__ttPronto",idb:"tt-db",legadoApp:"trafego-titulo",acesso:"trafegotitulo",lidas:true,corVar:"--brand2"};</script>
+<script src="sync-legado.js"></script>
+<script src="conta-estudo.js"></script>
 </body>
 </html>
