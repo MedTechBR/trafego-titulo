@@ -31,8 +31,8 @@
   font-size:.8em;font-weight:700;display:inline-flex;align-items:center;justify-content:center}
 .mtt-btn svg{flex:none;width:16px;height:16px;opacity:.7}
 .mtt-btn.mtt-ativo{border-color:var(--mtt-ac);box-shadow:0 0 0 1px var(--mtt-ac) inset}
-.mtt-fundo{position:fixed;inset:0;z-index:9990;background:rgba(10,12,20,.38)}
-.mtt-pai{box-sizing:border-box;position:fixed;z-index:9991;display:flex;flex-direction:column;background:var(--mtt-sup);color:var(--mtt-tinta);
+.mtt-fundo{position:fixed;inset:0;z-index:100000;background:rgba(10,12,20,.38)}
+.mtt-pai{box-sizing:border-box;position:fixed;z-index:100001;display:flex;flex-direction:column;background:var(--mtt-sup);color:var(--mtt-tinta);
   border:1px solid var(--mtt-fio);border-radius:var(--mtt-raio,18px);box-shadow:0 18px 50px rgba(0,0,0,.28);
   width:min(440px,calc(100vw - 24px));max-height:min(620px,calc(100vh - 40px));overflow:hidden;font-size:15px}
 .mtt-cab{display:flex;align-items:center;gap:8px;padding:14px 14px 8px}
@@ -106,11 +106,15 @@
     injetaCss();
     const opcoes = (cfg.opcoes || []).filter(o => o && o.id != null);
     const validos = new Set(opcoes.map(o => String(o.id)));
-    const limpa = ids => [...new Set((ids || []).map(String))].filter(id => validos.has(id));
+    const ordem = new Map(opcoes.map((o, i) => [String(o.id), i]));
+    /* sempre na ordem das opções (a do edital), não na ordem dos cliques */
+    const limpa = ids => [...new Set((ids || []).map(String))].filter(id => validos.has(id)).sort((a, b) => ordem.get(a) - ordem.get(b));
     let sel = limpa(cfg.selecionados);
     if (sel.length === opcoes.length) sel = [];
     const rotuloTodos = cfg.rotuloTodos || "Todos os temas";
     const [uni1, uniN] = cfg.unidade || ["questão", "questões"];
+    const [item1, itemN] = cfg.item || ["tema", "temas"];   /* ex.: ["área","áreas"] */
+    const verbo = cfg.verbo || "Mostrar";                     /* ex.: "Usar" no simulado */
     const nomeDe = new Map(opcoes.map(o => [String(o.id), o.nome]));
 
     let btn = alvo;
@@ -127,7 +131,7 @@
     function resumo() {
       if (!sel.length) return {txt: rotuloTodos, qtd: 0};
       if (sel.length === 1) return {txt: nomeDe.get(sel[0]), qtd: 0};
-      return {txt: sel.length + " temas", qtd: 0};  /* os nomes vão no title e no aria-label */
+      return {txt: sel.length + " " + itemN, qtd: 0};  /* os nomes vão no title e no aria-label */
     }
     function pintaBotao() {
       const r = resumo();
@@ -148,7 +152,7 @@
       btn.setAttribute("aria-expanded", "false");
       btn.focus({preventScroll: true});
       if (confirmar) {
-        let novo = [...rascunho];
+        let novo = limpa([...rascunho]);
         if (novo.length === opcoes.length) novo = [];
         const mudou = novo.length !== sel.length || novo.some(id => !sel.includes(id));
         sel = novo; pintaBotao();
@@ -169,7 +173,7 @@
       const temBusca = opcoes.length > 10;
       pai.innerHTML = `
         <div class="mtt-cab"><h3>${esc(cfg.titulo || "Temas")}</h3><button type="button" class="mtt-x" aria-label="Fechar sem aplicar">×</button></div>
-        ${temBusca ? `<input class="mtt-busca" type="search" placeholder="Buscar tema" aria-label="Buscar tema" autocomplete="off">` : ""}
+        ${temBusca ? `<input class="mtt-busca" type="search" placeholder="Buscar ${esc(item1)}" aria-label="Buscar ${esc(item1)}" autocomplete="off">` : ""}
         <div class="mtt-atal"><button type="button" data-a="todos">Todos</button><button type="button" data-a="nenhum">Limpar</button></div>
         <div class="mtt-lista" role="group" aria-label="${esc(cfg.titulo || "Temas")}"></div>
         <div class="mtt-pe"><span class="mtt-info" aria-live="polite"></span><button type="button" class="mtt-ok">Aplicar</button></div>`;
@@ -184,7 +188,7 @@
 
       function desenha() {
         const vis = opcoes.filter(o => !termo || norm(o.nome).includes(termo) || norm(o.grupo || "").includes(termo));
-        if (!vis.length) { lista.innerHTML = `<div class="mtt-vazio">Nenhum tema com “${esc(termo)}”.</div>`; return; }
+        if (!vis.length) { lista.innerHTML = `<div class="mtt-vazio">Nada encontrado para “${esc(termo)}”.</div>`; return; }
         const grupos = [];
         vis.forEach(o => { const g = o.grupo || ""; let G = grupos.find(x => x.g === g); if (!G) grupos.push(G = {g, os: []}); G.os.push(o); });
         const mostraGrupo = grupos.length > 1 || (grupos[0] && grupos[0].g);
@@ -205,8 +209,8 @@
         const efetivo = ids.length ? ids : opcoes.map(o => String(o.id));
         const n = cfg.conta ? cfg.conta(ids.length ? ids : []) : efetivo.reduce((s, id) => s + (+(opcoes.find(o => String(o.id) === id) || {}).n || 0), 0);
         const temN = cfg.conta || opcoes.some(o => o.n != null);
-        info.textContent = (ids.length ? (ids.length === 1 ? "1 tema" : ids.length + " temas") : rotuloTodos) + (temN ? ` · ${n} ${n === 1 ? uni1 : uniN}` : "");
-        ok.textContent = temN ? `Mostrar ${n} ${n === 1 ? uni1 : uniN}` : "Aplicar";
+        info.textContent = (ids.length ? (ids.length === 1 ? "1 " + item1 : ids.length + " " + itemN) : rotuloTodos) + (temN ? ` · ${n} ${n === 1 ? uni1 : uniN}` : "");
+        ok.textContent = temN ? `${verbo} ${n} ${n === 1 ? uni1 : uniN}` : "Aplicar";
         ok.disabled = temN && n === 0;
       }
       lista.addEventListener("change", e => {

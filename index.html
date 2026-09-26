@@ -1516,7 +1516,7 @@ function montaSimulado(){
     ARM.save("tt_simativo",ST.simativo);
     desenhaSimAtivo();
   };
-  const simTemas=MTTemas.monta($("#simTema"),{opcoes:opcoesTemas(),selecionados:[],titulo:"Temas do simulado",
+  const simTemas=MTTemas.monta($("#simTema"),{opcoes:opcoesTemas(),selecionados:[],titulo:"Temas do simulado",verbo:"Usar",
     aoMudar:ids=>{const n=BANCO.filter(q=>!ids.length||ids.includes(q.tema)).length;
       $("#simAviso").textContent=ids.length?`${n} questões nos temas escolhidos.`:""}});
   sec.querySelectorAll("[data-rev]").forEach(b=>b.onclick=()=>desenhaRevisao(+b.dataset.rev,0));
