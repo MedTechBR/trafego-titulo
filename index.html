@@ -482,6 +482,10 @@ body[data-aba=questoes] main{max-width:1060px;padding-top:14px}
 #sec-questoes>.cartao:first-child{border-radius:999px;padding:6px 8px 6px 8px;margin-bottom:12px;box-shadow:none;background:var(--pan3)}
 #sec-questoes>.cartao:first-child .linha{gap:8px;flex-wrap:nowrap}
 #sec-questoes>.cartao:first-child select{border-color:transparent;background:var(--pan)}
+/* 25/09: seletor de vários temas (mtfiltro.js) ocupa o lugar do antigo select de tema */
+#sec-questoes>.cartao:first-child .mtt-btn{flex:1.4 1 0;min-width:0;border-color:transparent;background:var(--pan)}
+#sec-questoes>.cartao:first-child .mtt-btn.mtt-ativo{border-color:var(--ac)}
+#sec-simulado .mtt-btn{min-width:min(260px,100%)}
 #sec-questoes>.cartao:first-child label{white-space:nowrap;padding:0 6px}
 #sec-questoes>.cartao:first-child #fqEmbaralha{border-radius:50%;width:44px;padding:0;justify-content:center;flex:none}
 #qCorpo>.cartao{padding:18px 28px 18px}
@@ -834,6 +838,7 @@ tr.clic:focus-visible{outline:2px solid var(--ac);outline-offset:-2px}
   .btTema{width:36px!important;height:36px!important}
   #sec-questoes>.cartao:first-child{padding:6px 6px 6px 8px!important;margin-bottom:8px!important}
   #sec-questoes>.cartao:first-child .linha{flex-wrap:nowrap!important;gap:6px!important}
+  #sec-questoes>.cartao:first-child .mtt-btn{flex:1.6 1 0;min-width:0;height:36px;min-height:36px;font-size:14px;padding:0 10px;gap:6px}
   #sec-questoes>.cartao:first-child select{flex:1 1 0;min-width:0;height:36px!important;min-height:36px!important;font-size:14px!important;padding-top:0!important;padding-bottom:0!important}
   #sec-questoes>.cartao:first-child label{white-space:nowrap;font-size:12.5px!important;flex:none}
   #sec-questoes>.cartao:first-child label input{width:18px;height:18px}
@@ -886,6 +891,7 @@ tr.clic:focus-visible{outline:2px solid var(--ac);outline-offset:-2px}
   <section id="sec-ajustes"></section>
 </main>
 
+<script src="mtfiltro.js"></script>
 <script src="taxonomia.js"></script>
 <script src="banco.js"></script>
 <script src="flash.js"></script>
@@ -1301,25 +1307,35 @@ function espalhaTemas(lista){
 }
 
 /* assinatura do filtro: muda o filtro, refaz a ordem */
-function assinaturaQ(f,n){return [f.tema,f.status,f.real?1:0,n].join("|")}
+function assinaturaQ(f,n){return [f.temas.slice().sort().join(","),f.status,f.real?1:0,n].join("|")}
+
+/* o filtro "Só prova real" só aparece se o banco tiver alguma questão de prova real */
+const TEM_REAL=BANCO.some(q=>q.fonte);
+/* opções do seletor de vários temas (mtfiltro.js), agrupadas pelo eixo do edital */
+function opcoesTemas(){
+  const n={};BANCO.forEach(q=>n[q.tema]=(n[q.tema]||0)+1);
+  return TAXONOMIA.map(t=>({id:t.id,nome:t.nome,grupo:t.eixo,n:n[t.id]||0}));
+}
 
 /* ================== QUESTÕES ================== */
 const QST={lista:[],idx:0,respondida:false,selecionada:null};
 function filtrosQ(){
   const f=ST.pos.fq||{};
-  return {tema:f.tema||"",status:f.status||"todas",real:!!f.real};
+  /* temas: lista (vazia = todos). Estado antigo gravava um tema só em "tema". */
+  return {temas:MTTemas.lista(f.temas!=null?f.temas:f.tema),status:f.status||"todas",real:TEM_REAL&&!!f.real};
 }
-function aplicaFiltroQ(refazOrdem){
-  const f=filtrosQ();
-  QST.lista=BANCO.filter(q=>{
-    if(f.tema&&q.tema!==f.tema)return false;
+function passaFiltroQ(q,f){
+    if(f.temas.length&&!f.temas.includes(q.tema))return false;
     if(f.real&&!q.fonte)return false;
     const r=respostaDe(q);
     if(f.status==="nao"&&r)return false;
     if(f.status==="erradas"&&!(r&&r.hist.length&&!r.hist[r.hist.length-1].ok))return false;
     if(f.status==="favoritas"&&!ST.fav[q._ch])return false;
     return true;
-  });
+}
+function aplicaFiltroQ(refazOrdem){
+  const f=filtrosQ();
+  QST.lista=BANCO.filter(q=>passaFiltroQ(q,f));
   ordenaQuestoes(f,refazOrdem);
 }
 
@@ -1346,22 +1362,23 @@ function montaQuestoes(){
   sec.innerHTML=`
   <div class="cartao">
     <div class="linha">
-      <select id="fqTema"><option value="">Todos os temas</option>
-        ${TAXONOMIA.map(t=>`<option value="${t.id}" ${f.tema===t.id?"selected":""}>${esc(t.nome)}</option>`).join("")}</select>
+      <span id="fqTema"></span>
       <select id="fqStatus">
         <option value="todas" ${f.status==="todas"?"selected":""}>Todas</option>
         <option value="nao" ${f.status==="nao"?"selected":""}>Não respondidas</option>
         <option value="erradas" ${f.status==="erradas"?"selected":""}>Que errei</option>
         <option value="favoritas" ${f.status==="favoritas"?"selected":""}>Favoritas</option>
       </select>
-      <label class="linha peq mut" style="gap:5px"><input type="checkbox" id="fqReal" ${f.real?"checked":""}> Só prova real</label>
+      ${TEM_REAL?`<label class="linha peq mut" style="gap:5px"><input type="checkbox" id="fqReal" ${f.real?"checked":""}> Só prova real</label>`:""}
       <button class="btn fant" id="fqEmbaralha" title="Reembaralhar (temas espalhados)" aria-label="Reembaralhar as questões"><svg class="ic" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
     </div>
   </div>
   <div id="qCorpo"></div>`;
-  $("#fqTema").onchange=e=>{ST.pos.fq={...filtrosQ(),tema:e.target.value};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
+  MTTemas.monta($("#fqTema"),{opcoes:opcoesTemas(),selecionados:f.temas,titulo:"Temas",
+    conta:ids=>{const g={...filtrosQ(),temas:ids};return BANCO.reduce((n,q)=>n+(passaFiltroQ(q,g)?1:0),0)},
+    aoMudar:ids=>{ST.pos.fq={...filtrosQ(),temas:ids};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()}});
   $("#fqStatus").onchange=e=>{ST.pos.fq={...filtrosQ(),status:e.target.value};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
-  $("#fqReal").onchange=e=>{ST.pos.fq={...filtrosQ(),real:e.target.checked};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
+  if(TEM_REAL)$("#fqReal").onchange=e=>{ST.pos.fq={...filtrosQ(),real:e.target.checked};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
   $("#fqEmbaralha").onclick=()=>{aplicaFiltroQ(true);QST.idx=0;ST.pos.chq=null;ARM.save("tt_pos",ST.pos);desenhaQuestao()};
   aplicaFiltroQ();
   // continuar de onde parei — por CHAVE, nunca por índice
@@ -1373,7 +1390,7 @@ function desenhaQuestao(){
   const box=$("#qCorpo");
   if(!QST.lista.length){
     box.innerHTML=`<div class="cartao vazio"><p>Nenhuma questão com esses filtros.</p><button class="btn" type="button" id="qLimpa">Mostrar todas as questões</button></div>`;
-    $("#qLimpa").onclick=()=>{ST.pos.fq={tema:"",status:"todas",real:false};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
+    $("#qLimpa").onclick=()=>{ST.pos.fq={temas:[],status:"todas",real:false};ARM.save("tt_pos",ST.pos);QST.idx=0;montaQuestoes()};
     return}
   const q=QST.lista[QST.idx];
   QST.respondida=false;QST.selecionada=null;
@@ -1478,8 +1495,7 @@ function montaSimulado(){
     <div class="linha">
       <label class="peq mut">Questões <input id="simN" type="number" inputmode="numeric" min="5" max="50" value="${Math.min(50,BANCO.length)}" style="width:92px"></label>
       <label class="peq mut">Minutos <input id="simMin" type="number" inputmode="numeric" min="5" max="240" value="110" style="width:92px"></label>
-      <select id="simTema"><option value="">Todos os temas</option>
-        ${TAXONOMIA.map(t=>`<option value="${t.id}">${esc(t.nome)}</option>`).join("")}</select>
+      <span id="simTema"></span>
       <button class="btn" id="simComeca">Começar</button>
     </div>
     <p class="peq mut" id="simAviso" style="margin-top:8px"></p>
@@ -1491,8 +1507,8 @@ function montaSimulado(){
       <td><button class="btn fant peq" type="button" data-rev="${ST.sim.length-1-i}">Rever</button></td></tr>`).join("")}
   </table></div></div>`:""}`;
   $("#simComeca").onclick=()=>{
-    const n=+$("#simN").value||50, min=+$("#simMin").value||110, tema=$("#simTema").value;
-    let pool=BANCO.filter(q=>!tema||q.tema===tema);
+    const n=+$("#simN").value||50, min=+$("#simMin").value||110, temas=simTemas.valor();
+    let pool=BANCO.filter(q=>!temas.length||temas.includes(q.tema));
     if(pool.length<n)$("#simAviso").textContent=`Só há ${pool.length} questões nesse filtro; o simulado vai usar todas.`;
     const qs=espalhaTemas(embaralha(pool.slice()).slice(0,n)).map(q=>q._ch);
     if(!qs.length)return;
@@ -1500,6 +1516,9 @@ function montaSimulado(){
     ARM.save("tt_simativo",ST.simativo);
     desenhaSimAtivo();
   };
+  const simTemas=MTTemas.monta($("#simTema"),{opcoes:opcoesTemas(),selecionados:[],titulo:"Temas do simulado",
+    aoMudar:ids=>{const n=BANCO.filter(q=>!ids.length||ids.includes(q.tema)).length;
+      $("#simAviso").textContent=ids.length?`${n} questões nos temas escolhidos.`:""}});
   sec.querySelectorAll("[data-rev]").forEach(b=>b.onclick=()=>desenhaRevisao(+b.dataset.rev,0));
 }
 function desenhaSimAtivo(){
@@ -1887,7 +1906,7 @@ function montaPainel(){
   sec.querySelectorAll("tr.clic").forEach(tr=>{
     tr.tabIndex=0;tr.title="Treinar este tema";
     tr.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();tr.click()}};
-    tr.onclick=()=>{ST.pos.fq={tema:tr.dataset.tema,status:"todas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes");window.scrollTo(0,0)};
+    tr.onclick=()=>{ST.pos.fq={temas:[tr.dataset.tema],status:"todas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes");window.scrollTo(0,0)};
   });
 }
 
@@ -2065,7 +2084,7 @@ function montaPlano(){
   });
   sec.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>{ST.plano.splice(+b.dataset.del,1);ARM.save("tt_plano",ST.plano);montaPlano()});
   sec.querySelectorAll("[data-vai]").forEach(b=>b.onclick=()=>{
-    ST.pos.fq={tema:b.dataset.vai,status:"todas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes")});
+    ST.pos.fq={temas:[b.dataset.vai],status:"todas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes")});
 }
 
 /* ================== AJUSTES ================== */
@@ -2227,7 +2246,7 @@ function atalhosPainel(){
 function ligaHeroi(sec){
   sec.querySelectorAll("[data-vh]").forEach(b=>b.onclick=()=>{
     const v=b.dataset.vh;
-    if(v==="erradas"){ST.pos.fq={tema:"",status:"erradas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes")}
+    if(v==="erradas"){ST.pos.fq={temas:[],status:"erradas",real:false};ST.pos.chq=null;ARM.save("tt_pos",ST.pos);irAba("questoes")}
     else irAba(v);
     window.scrollTo(0,0);
   });
@@ -2359,7 +2378,7 @@ function pintaContagem(){
   try{
     const area=new URLSearchParams(location.search).get("area");
     if(area&&TAXONOMIA.some(t=>t.id===area)){
-      ST.pos.fq={tema:area,status:"todas",real:false};ST.pos.chq=null;
+      ST.pos.fq={temas:[area],status:"todas",real:false};ST.pos.chq=null;
       ARM.save("tt_pos",ST.pos);
       history.replaceState(null,"",location.pathname+"#questoes");
     }

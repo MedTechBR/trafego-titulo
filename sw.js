@@ -1,11 +1,11 @@
 /* TráfegoTítulo — service worker.
    REGRA DE DEPLOY: bumpar CACHE a CADA deploy (tt-v2, tt-v3...) — sem isso o usuário
    fica preso na versão velha e qualquer correção vira fantasma. */
-const CACHE = 'tt-v18';
+const CACHE = 'tt-v19';
 const FONTES = 'tt-fontes-v1';
 const NUCLEO = [
   './', 'index.html',
-  'banco.js', 'taxonomia.js', 'flash.js', 'pratica.js', 'leituras.js',
+  'banco.js', 'mtfiltro.js', 'taxonomia.js', 'flash.js', 'pratica.js', 'leituras.js',
   'leituras/_leitura.css', 'leituras/_leitura.js',
   'mtsync.js', 'conta-estudo.js', 'sync-legado.js',
   'vendor/firebase-app-compat.js', 'vendor/firebase-auth-compat.js', 'vendor/firebase-firestore-compat.js',
