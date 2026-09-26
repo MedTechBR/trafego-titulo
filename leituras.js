@@ -2,6 +2,23 @@
    `area` liga a leitura ao tema do banco de questões (taxonomia.js) e alimenta o
    botão "treinar questões". `min` é o tempo estimado de leitura. */
 window.LEITURAS=[
+ {grupo:"★ Aulão de véspera", sub:"os temas marcados no aulão do IBEPEM (26/09) — seção provisória"},
+ {f:"aulao-1-pericia-legislacao.html", tipo:"Tabelas de corte", area:"vespera", min:22,
+  t:"Aulão 1: perícia e legislação (EAFM, juntas, PcD, toxicológico)",
+  s:"Junta em 30 dias do conhecimento (art. 12), CETRAN só com inaptidão permanente mantida (art. 13), Junta Especial de Saúde com mínimo de 3 e 2 especialistas, Anexo XV, toxicológico a cada 2a6m para menores de 70."},
+ {f:"aulao-2-exames-especificos.html", tipo:"Tabelas de corte", area:"vespera", min:22,
+  t:"Aulão 2: exames específicos (oftalmo, ORL, cardio, neuro, sono)",
+  s:"Binocular 20/25 em C/D/E; olho único 20/30, 120º e 90 dias; voz coloquial a 2 m; PA 160/100 e 180/110; IAM 8/12, marca-passo 2/6 (figura da diretriz: 4); 20/30 kgf; AIT 6 meses; Epworth e os indícios objetivos."},
+ {f:"aulao-3-doencas.html", tipo:"Tabelas de corte", area:"vespera", min:22,
+  t:"Aulão 3: epilepsia, diabetes, DRC, psiquiatria e idoso",
+  s:"Epilepsia 12m/24m/5a, crise só no sono, resolvida; diabetes <70 mg/dl; DRC <3 meses, GPID ≤4,5%, ≤5 anos; Hoehn & Yahr, EDSS 3,5/7,0; TDAH; TEA; esquizofrenia; fragilidade e TUG."},
+ {f:"aulao-4-alcool-drogas-celular.html", tipo:"Tabelas de corte", area:"vespera", min:20,
+  t:"Aulão 4: epidemiologia, álcool, drogas e celular",
+  s:"Ranking de óbitos (moto, carro, pedestre) × internações (moto, pedestre, carro), 1ª causa de 5 a 29 anos, doses e faixas de alcoolemia, etilômetro 0,05 e 0,34, ICADTS <0,5/0,5–0,8/>0,8 e o celular: 3 s, 1 g/L, 400% e 23×."},
+ {f:"aulao-5-protecao-aph.html", tipo:"Tabelas de corte", area:"vespera", min:24,
+  t:"Aulão 5: retenção infantil, cinto, impacto e cena",
+  s:"Res. 819 × ABRAMET 2006 (bebê conforto 1 ano/13 kg, elevação até 7,5 anos/15–36 kg), gestante, airbag, cinto 60/44%, ambulância em 5 situações, 30/50 e 70/50 km/h, Nilsson, sinalização em passos, START/JumpSTART, TUC."},
+
  {grupo:"Revisão final", sub:"a semana da prova"},
  {f:"revisao-vespera-numeros.html", tipo:"Tabelas de corte", area:"aptidao", min:30,
   t:"Revisão de véspera: os números que caem",

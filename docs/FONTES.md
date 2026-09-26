@@ -86,6 +86,7 @@ Era **download truncado**: baixado inteiro, tem 4,6 MB, 42 páginas e 88 KB de t
 | **Res. CONTRAN 1.020/2025** (processo de habilitação; **revoga a 789/2020**, art. 140, IV; art. 33 §2º = tempo dobrado do teórico) | `gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao10202025.pdf` |
 | Res. CONTRAN 819/2021 (dispositivo de retenção infantil — vigente) | `gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf` |
 | Res. CONTRAN 996/2023 (patinetes/autopropelidos) | mesmo diretório, `Resolucao9962023.pdf` |
+| Res. CONTRAN 923/2022 (exame toxicológico de larga janela; Anexo I = grupos e cut offs; validade 90 dias da coleta) | mesmo diretório, `Resolucao9232022.pdf` (GET com `Range:`) → `fontes/contran923-2022.txt` |
 | Lei 15.503/2026 (art. 14 inclui o §2º-A do art. 143 do CTB: B dirige elétrico/híbrido até 4.250 kg; vigência na publicação, 14/09/2026) | `planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15503.htm` |
 | Código Civil (art. 792 **revogado** pela Lei 15.040/2024 — o art. 4º da Lei 6.194 remete a ele) | `planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm` |
 | ADI 5322 (STF) — acórdão de mérito e embargos (Lei do Motorista) | cópias do TRT-3 (o site do STF bloqueia); ver `fontes/adi5322-*.txt` |
