@@ -857,6 +857,9 @@ tr.clic:focus-visible{outline:2px solid var(--ac);outline-offset:-2px}
   #qFav{width:32px!important;height:32px!important}
   #pgTitulo:empty{display:none}
 }
+/* bandeira de sinalizar erro (mtsinal.js) — mesmo tamanho da estrela de favorita */
+.q-topo .msn-btn{width:40px;height:40px;min-width:40px;min-height:40px;padding:0;border-radius:50%}
+@media(max-width:720px){.q-topo .msn-btn{width:32px;height:32px;min-width:32px;min-height:32px}}
 </style>
 </head>
 <body>
@@ -892,6 +895,7 @@ tr.clic:focus-visible{outline:2px solid var(--ac);outline-offset:-2px}
 </main>
 
 <script src="mtfiltro.js"></script>
+<script src="mtsinal.js"></script>
 <script src="taxonomia.js"></script>
 <script src="banco.js"></script>
 <script src="flash.js"></script>
@@ -948,7 +952,7 @@ const UI={
 // (Este ARM veio do RadioTitulo com "rt_" fixo no codigo: a lista de backups dizia 0 chaves e
 //  restaurar nao devolvia nada, em silencio. Nao voltar a escrever o prefixo literal.)
 const PREF="tt_";
-const TTKEYS=["resp","riscos","fav","flash","erros","plano","meta","cfg","sim","simativo","pos","treino","atividade","lidas","syncmeta"].map(s=>PREF+s);
+const TTKEYS=["resp","riscos","fav","flash","erros","plano","meta","cfg","sim","simativo","pos","treino","atividade","sinal","lidas","syncmeta"].map(s=>PREF+s);
 const ARM={
   db:null, travas:{}, persistOK:null, tsBackup:0, recuperado:null,
   async boot(){
@@ -1049,7 +1053,7 @@ const ARM={
 let ST={};
 function carregaEstado(){
   ST={
-    resp:ARM.load("tt_resp",{}), riscos:ARM.load("tt_riscos",{}), fav:ARM.load("tt_fav",{}),
+    resp:ARM.load("tt_resp",{}), riscos:ARM.load("tt_riscos",{}), fav:ARM.load("tt_fav",{}), sinal:ARM.load("tt_sinal",{}),
     flash:ARM.load("tt_flash",{}), erros:ARM.load("tt_erros",[]), plano:ARM.load("tt_plano",[]),
     meta:ARM.load("tt_meta",{}), cfg:ARM.load("tt_cfg",{}), sim:ARM.load("tt_sim",[]),
     simativo:ARM.load("tt_simativo",null), pos:ARM.load("tt_pos",{}), treino:ARM.load("tt_treino",{}),
@@ -1311,6 +1315,16 @@ function assinaturaQ(f,n){return [f.temas.slice().sort().join(","),f.status,f.re
 
 /* o filtro "Só prova real" só aparece se o banco tiver alguma questão de prova real */
 const TEM_REAL=BANCO.some(q=>q.fonte);
+/* sinalizar questão com erro (mtsinal.js): fica na lista da conta (sincroniza) e vai para a caixa central da
+   administração (função mtSinal; medtechbr.com.br/sinalizacoes.html) */
+let SINAL=null;
+function sinalizador(){
+  if(!SINAL&&window.MTSinal)SINAL=MTSinal.cria({app:"TráfegoTítulo",le:()=>ST.sinal||{},
+    grava:o=>{ST.sinal=o;ARM.save("tt_sinal",ST.sinal)},
+    central:{app:"trafego-titulo",token:()=>window.MTS&&MTS.usuario?MTS.usuario.getIdToken():null}});
+  return SINAL;
+}
+function abreQuestaoSinal(ch){ST.pos.fq={temas:[],status:"todas",real:false};ST.pos.chq=ch;ARM.save("tt_pos",ST.pos);irAba("questoes");window.scrollTo(0,0)}
 /* opções do seletor de vários temas (mtfiltro.js), agrupadas pelo eixo do edital */
 function opcoesTemas(){
   const n={};BANCO.forEach(q=>n[q.tema]=(n[q.tema]||0)+1);
@@ -1331,6 +1345,7 @@ function passaFiltroQ(q,f){
     if(f.status==="nao"&&r)return false;
     if(f.status==="erradas"&&!(r&&r.hist.length&&!r.hist[r.hist.length-1].ok))return false;
     if(f.status==="favoritas"&&!ST.fav[q._ch])return false;
+  if(f.status==="sinal"&&!(ST.sinal||{})[q._ch])return false;
     return true;
 }
 function aplicaFiltroQ(refazOrdem){
@@ -1368,6 +1383,7 @@ function montaQuestoes(){
         <option value="nao" ${f.status==="nao"?"selected":""}>Não respondidas</option>
         <option value="erradas" ${f.status==="erradas"?"selected":""}>Que errei</option>
         <option value="favoritas" ${f.status==="favoritas"?"selected":""}>Favoritas</option>
+        <option value="sinal" ${f.status==="sinal"?"selected":""}>Sinalizadas</option>
       </select>
       ${TEM_REAL?`<label class="linha peq mut" style="gap:5px"><input type="checkbox" id="fqReal" ${f.real?"checked":""}> Só prova real</label>`:""}
       <button class="btn fant" id="fqEmbaralha" title="Reembaralhar (temas espalhados)" aria-label="Reembaralhar as questões"><svg class="ic" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg></button>
@@ -1401,7 +1417,7 @@ function desenhaQuestao(){
     <div class="q-topo">
       <span class="chip">${esc(TNOME[q.tema]||q.tema)}</span>${q.sub?`<span class="chip">${esc(q.sub)}</span>`:""}${selo}
       <span class="qMeta"><span class="mut peq qNum">${QST.idx+1} de ${QST.lista.length}</span>
-      <button id="qFav" type="button" title="${ST.fav[q._ch]?"Tirar dos favoritos":"Favoritar"}" aria-label="Favoritar questão" aria-pressed="${!!ST.fav[q._ch]}" style="color:${ST.fav[q._ch]?"var(--warn)":"var(--mut)"}">
+      <span id="qSinal"></span><button id="qFav" type="button" title="${ST.fav[q._ch]?"Tirar dos favoritos":"Favoritar"}" aria-label="Favoritar questão" aria-pressed="${!!ST.fav[q._ch]}" style="color:${ST.fav[q._ch]?"var(--warn)":"var(--mut)"}">
         <svg class="ic" viewBox="0 0 24 24" ${ST.fav[q._ch]?'fill="currentColor"':""}><path d="M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></svg></button></span>
     </div>
     <div class="q-enun">${esc(q.q)}</div>
@@ -1418,6 +1434,7 @@ function desenhaQuestao(){
     <div id="qFeed"></div>
   </div>`;
   $("#qFav").onclick=()=>{if(ST.fav[q._ch])delete ST.fav[q._ch];else ST.fav[q._ch]=1;ARM.save("tt_fav",ST.fav);desenhaQuestao()};
+  { const S=sinalizador(); if(S)S.botao($("#qSinal"),{chave:q._ch,q:q.q,tema:TNOME[q.tema]||q.tema,extra:"gabarito "+LETRAS[q.gab]}); }
   $("#qAnt").onclick=()=>{if(QST.idx>0){QST.idx--;desenhaQuestao();entraQuestao(true)}};
   $("#qProx").onclick=()=>{if(QST.idx<QST.lista.length-1){QST.idx++;desenhaQuestao();entraQuestao(false)}};
   $("#qResp").onclick=()=>respondeQuestao(q);
@@ -1606,7 +1623,7 @@ function desenhaRevisao(iSim,pos,recem){
   </div>
   <div class="cartao">
     <div class="q-topo"><span class="chip">${esc(TNOME[q.tema]||q.tema)}</span>
-      ${q.fonte?`<span class="chip real">${esc(q.fonte.banca)} ${esc(q.fonte.ano)}</span>`:`<span class="chip aut">autoral</span>`}</div>
+      ${q.fonte?`<span class="chip real">${esc(q.fonte.banca)} ${esc(q.fonte.ano)}</span>`:`<span class="chip aut">autoral</span>`}<span id="revSinal" style="margin-left:auto"></span></div>
     <div class="q-enun">${esc(q.q)}</div>
     ${q.alts.map((a,i)=>`<div class="alt ${i===q.gab?"certa":""} ${d.alt===i&&i!==q.gab?"errada":""}">
       <span class="letra">${LETRAS[i]}</span><span class="txt">${esc(a)}</span></div>`).join("")}
@@ -1619,6 +1636,7 @@ function desenhaRevisao(iSim,pos,recem){
     </div>
   </div>`;
   $("#revVoltar").onclick=()=>montaSimulado();
+  { const S=sinalizador(); if(S)S.botao($("#revSinal"),{chave:q._ch,q:q.q,tema:TNOME[q.tema]||q.tema,extra:"gabarito "+LETRAS[q.gab]+" (revisão de simulado)"}); }
   $("#revAnt").onclick=()=>{if(pos>0){desenhaRevisao(iSim,pos-1);entraSim(true)}};
   $("#revProx").onclick=()=>{if(pos<det.length-1){desenhaRevisao(iSim,pos+1);entraSim(false)}};
   sec.querySelectorAll(".gradeSim button").forEach(b=>b.onclick=()=>desenhaRevisao(iSim,+b.dataset.i));
@@ -2035,6 +2053,11 @@ function montaErros(){
     baixaArquivo("trafego-titulo-erros-"+dataISO()+".csv",[cab,...li].join("\n"),"text/csv");
     UI.banner("ok","CSV do log de erros baixado.");
   };
+  /* questões sinalizadas com erro de conteúdo (mtsinal.js) */
+  const cs=document.createElement("div");cs.className="cartao";
+  cs.innerHTML=`<h2>Questões sinalizadas</h2><p class="peq mut" style="margin-bottom:10px">Questões que você marcou com a bandeira por erro de conteúdo. Elas também vão para a caixa de revisão do MedTech.</p><div id="listaSinal"></div>`;
+  sec.appendChild(cs);
+  { const S=sinalizador(); if(S)S.lista($("#listaSinal"),{abreQuestao:abreQuestaoSinal}); }
 }
 
 /* ================== PLANO ================== */

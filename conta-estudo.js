@@ -22,6 +22,8 @@
     meta: { tipo: "doc", vazio: {} }, cfg: { tipo: "doc", vazio: {} }
   };
   if (K.lidas) COLECOES.lidas = { tipo: "mapa" };
+  /* questões sinalizadas com erro (mtsinal.js); mapa tem lápide, então tirar a bandeira propaga */
+  COLECOES.sinal = { tipo: "mapa" };
 
   /* ---------- formato antigo: uma vez por conta ---------- */
   async function legado(ctx) {
