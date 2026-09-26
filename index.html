@@ -1319,7 +1319,7 @@ const TEM_REAL=BANCO.some(q=>q.fonte);
    administração (função mtSinal; medtechbr.com.br/sinalizacoes.html) */
 let SINAL=null;
 function sinalizador(){
-  if(!SINAL&&window.MTSinal)SINAL=MTSinal.cria({app:"TráfegoTítulo",le:()=>ST.sinal||{},
+  if(!SINAL&&window.MTSinal)SINAL=MTSinal.cria({app:"TráfegoTítulo",exemplo:"Ex.: a correta seria a C, pelo art. 147 do CTB",le:()=>ST.sinal||{},
     grava:o=>{ST.sinal=o;ARM.save("tt_sinal",ST.sinal)},
     central:{app:"trafego-titulo",token:()=>window.MTS&&MTS.usuario?MTS.usuario.getIdToken():null}});
   return SINAL;

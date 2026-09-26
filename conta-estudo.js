@@ -52,7 +52,8 @@
   }
 
   async function limparLocal() {
-    try { Object.keys(localStorage).filter(k => k.startsWith(K.pref) && k !== K.pref + "tema").forEach(k => localStorage.removeItem(k)) } catch (e) {}
+    /* inclui a fila de envio das sinalizações (mtsinal.js): senão sairia com o login da conta nova */
+    try { Object.keys(localStorage).filter(k => (k.startsWith(K.pref) && k !== K.pref + "tema") || k === "msn_fila:" + K.app).forEach(k => localStorage.removeItem(k)) } catch (e) {}
     try { if (ARM().db) ARM().db.close() } catch (e) {}
     await new Promise(r => { try { const q = indexedDB.deleteDatabase(K.idb); q.onsuccess = q.onerror = q.onblocked = () => r() } catch (e) { r() } });
   }
