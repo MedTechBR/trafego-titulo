@@ -17582,7 +17582,7 @@ window.BANCO=[
 "alts": [
 "Sim, pois duas semanas após o implante já bastam para liberar qualquer modalidade de condução",
 "Não, pois o portador de marca-passo fica permanentemente desqualificado da direção profissional",
-"Não, pois a direção profissional exige quatro semanas após o implante do marca-passo definitivo",
+"Não, pois a direção profissional exige seis semanas após o implante do marca-passo definitivo",
 "Sim, pois o controle eletrônico normal dispensa a exigência de intervalo mínimo após o implante",
 "Não, pois a direção profissional exige três meses completos após o implante do marca-passo cardíaco"
 ],
@@ -17590,11 +17590,11 @@ window.BANCO=[
 "tema": "cardio",
 "sub": "Marca-passo e retorno à direção",
 "base": "Diretriz ABRAMET/SBC/SOBRAC 'Recomendações brasileiras para direção veicular em portadores de dispositivos cardíacos eletrônicos implantáveis e arritmias cardíacas', Fig. 1.",
-"coment": "A diretriz separa direção PRIVADA (ACC, A e B, sem atividade remunerada) de direção PROFISSIONAL (ACC, A, B, C, D e E, com atividade remunerada ao veículo). Para o marca-passo: implante — 2 semanas na privada e 4 semanas na profissional; troca de gerador — 1 semana e 2 semanas; troca de eletrodo — 2 semanas e 4 semanas. Em todos os casos exigem-se ainda quatro condições cumulativas: nenhum prejuízo no nível de consciência após o implante, captura e sensibilidade normais ao eletrocardiograma, nenhuma evidência de mau funcionamento do sistema e controles clínico e eletrônico regulares. O taxista exerce atividade remunerada, portanto está na coluna profissional e precisa completar 4 semanas. Atenção: a própria diretriz se contradiz — a figura traz 4 semanas para a direção profissional, mas o texto do item 2.1 fala em 6 semanas, o mesmo corte do Anexo VII da Resolução 927. Em qualquer das leituras, 3 semanas é insuficiente.",
+"coment": "A diretriz separa direção PRIVADA (ACC, A e B, sem atividade remunerada) de direção PROFISSIONAL (ACC, A, B, C, D e E, com atividade remunerada ao veículo). Para o marca-passo: implante — 2 semanas na privada e 4 semanas na profissional; troca de gerador — 1 semana e 2 semanas; troca de eletrodo — 2 semanas e 4 semanas. Em todos os casos exigem-se ainda quatro condições cumulativas: nenhum prejuízo no nível de consciência após o implante, captura e sensibilidade normais ao eletrocardiograma, nenhuma evidência de mau funcionamento do sistema e controles clínico e eletrônico regulares. O taxista exerce atividade remunerada, portanto está na coluna profissional e precisa completar 4 semanas. Vale a Resolução CONTRAN nº 927/2022 (Anexo VII), mais recente que a diretriz de 2012: 6 semanas para as categorias C, D e E (a Figura 1 da diretriz trazia 4). Em qualquer das leituras, 3 semanas é insuficiente.",
 "porAlt": [
 "O prazo de duas semanas é o da direção privada, que não alcança quem exerce atividade remunerada.",
 "O marca-passo não desqualifica permanentemente: essa coluna é a do CDI na direção profissional.",
-"Correta: a coluna profissional exige quatro semanas após o implante, e ele está com apenas três.",
+"Correta: 3 semanas não bastam; a direção profissional exige 6 semanas (Anexo VII da Res. 927/2022).",
 "As condições clínicas são exigências somadas ao prazo mínimo, e não substitutas desse intervalo.",
 "O prazo de três meses corresponde ao implante de ressincronizador na direção privada, não ao marca-passo."
 ]
@@ -21859,7 +21859,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "Juntas: quem recorre ao CETRAN",
 "base": "Resolução CONTRAN nº 927/2022, arts. 12 e 13; CTB, art. 14, V, 'b'",
-"coment": "Ponto marcado com duas estrelas no aulão. O art. 12 da Resolução CONTRAN nº 927/2022 permite requerer Junta Médica 'independentemente do resultado'. Já o art. 13 restringe o degrau seguinte: 'Mantido o resultado de inaptidão PERMANENTE pela Junta Médica ou Psicológica caberá, no prazo de trinta dias [...] recurso ao CETRAN'. O CTB diz o mesmo no art. 14, V, 'b': o CETRAN julga recursos 'nos casos de inaptidão permanente'. Inapto temporário tem o caminho da Junta revisional e, vencido o prazo, novo exame; não chega ao Conselho nem à Junta Especial de Saúde.",
+"coment": "O art. 12 da Resolução CONTRAN nº 927/2022 permite requerer Junta Médica 'independentemente do resultado'. Já o art. 13 restringe o degrau seguinte: 'Mantido o resultado de inaptidão PERMANENTE pela Junta Médica ou Psicológica caberá, no prazo de trinta dias [...] recurso ao CETRAN'. O CTB diz o mesmo no art. 14, V, 'b': o CETRAN julga recursos 'nos casos de inaptidão permanente'. Inapto temporário tem o caminho da Junta revisional e, vencido o prazo, novo exame; não chega ao Conselho nem à Junta Especial de Saúde.",
 "porAlt": [
 "O prazo de trinta dias do art. 13 existe, mas só para quem teve mantida a inaptidão permanente, o que não é o caso.",
 "Correta: o art. 13 abre o recurso ao CETRAN/CONTRANDIFE apenas quando a Junta mantém a inaptidão PERMANENTE; inapto temporário não recorre ao Conselho.",
@@ -21882,7 +21882,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "Juntas: quem recorre ao CETRAN",
 "base": "Resolução CONTRAN nº 927/2022, art. 13; CTB, art. 14, V, 'b'",
-"coment": "O art. 13 da Resolução CONTRAN nº 927/2022 exige duas condições cumulativas para o recurso ao CETRAN/CONTRANDIFE: que o resultado seja de inaptidão permanente e que ele tenha sido MANTIDO pela Junta Médica (ou Psicológica). Se a Junta revisional converte o 'inapto' do perito em 'inapto temporário', a segunda condição falha e o candidato cumpre o prazo e volta a exame. É a mesma regra das duas estrelas do aulão vista de outro ângulo: o que abre a porta do Conselho é a inaptidão permanente confirmada na revisão, não o resultado inicial.",
+"coment": "O art. 13 da Resolução CONTRAN nº 927/2022 exige duas condições cumulativas para o recurso ao CETRAN/CONTRANDIFE: que o resultado seja de inaptidão permanente e que ele tenha sido MANTIDO pela Junta Médica (ou Psicológica). Se a Junta revisional converte o 'inapto' do perito em 'inapto temporário', a segunda condição falha e o candidato cumpre o prazo e volta a exame. É a mesma regra do inapto temporário vista de outro ângulo: o que abre a porta do Conselho é a inaptidão permanente confirmada na revisão, não o resultado inicial.",
 "porAlt": [
 "O que abre o recurso é o resultado da revisão, não o do perito: o art. 13 fala em inaptidão permanente 'mantida' pela Junta.",
 "Correta: o gatilho do art. 13 é a inaptidão permanente MANTIDA pela Junta; se a Junta a converte em temporária, não há recurso ao Conselho.",
@@ -21905,7 +21905,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "Juntas: composição",
 "base": "Resolução CONTRAN nº 927/2022, art. 12, §1º, e art. 15, parágrafo único",
-"coment": "Duas juntas, duas composições. A Junta Médica revisional (art. 12, §1º) é instaurada pelo órgão executivo estadual e 'constituída por três profissionais médicos peritos examinadores de trânsito OU especialistas em medicina de tráfego'. A Junta Especial de Saúde (art. 15) é designada pelo Conselho para julgar o recurso e deve ter 'no mínimo, três médicos, sendo dois especialistas em Medicina de Tráfego' (ou três psicólogos, dois especialistas em psicologia do trânsito, quando for o caso). Na aula foi anotado 'Junta de recurso: 3 médicos especialistas'; a norma diz 'peritos ou especialistas' para a revisional.",
+"coment": "Duas juntas, duas composições. A Junta Médica revisional (art. 12, §1º) é instaurada pelo órgão executivo estadual e 'constituída por três profissionais médicos peritos examinadores de trânsito OU especialistas em medicina de tráfego'. A Junta Especial de Saúde (art. 15) é designada pelo Conselho para julgar o recurso e deve ter 'no mínimo, três médicos, sendo dois especialistas em Medicina de Tráfego' (ou três psicólogos, dois especialistas em psicologia do trânsito, quando for o caso). Quem exige dois especialistas é só a JES; a revisional aceita 'peritos ou especialistas'.",
 "porAlt": [
 "A Junta Médica não exige três especialistas, e a JES tem mínimo de três médicos, não cinco.",
 "A Junta Médica tem três membros, não cinco, e a JES exige dois especialistas, não apenas um.",
@@ -21951,7 +21951,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "Juntas: prazos",
 "base": "Resolução CONTRAN nº 927/2022, art. 12, caput; art. 14, §§1º e 2º",
-"coment": "O art. 12 da Resolução CONTRAN nº 927/2022 fixa o prazo de trinta dias 'contados do seu conhecimento', e não da data do exame. Contando de 20 de março, quando o candidato soube do resultado, 15 de abril é o 26º dia: pedido tempestivo. Se a contagem fosse da data do exame (2 de março), ele estaria fora do prazo, e é esse o erro que a banca explora. Os outros números da alternativa são prazos reais, mas de outros atos: quinze dias úteis para o órgão designar a Junta e vinte dias úteis para remeter o recurso ao CETRAN (art. 14, §§1º e 2º). Na aula foi anotado 'contados do resultado'; a norma diz 'do seu conhecimento'.",
+"coment": "O art. 12 da Resolução CONTRAN nº 927/2022 fixa o prazo de trinta dias 'contados do seu conhecimento', e não da data do exame. Contando de 20 de março, quando o candidato soube do resultado, 15 de abril é o 26º dia: pedido tempestivo. Se a contagem fosse da data do exame (2 de março), ele estaria fora do prazo, e é esse o erro que a banca explora. Os outros números da alternativa são prazos reais, mas de outros atos: quinze dias úteis para o órgão designar a Junta e vinte dias úteis para remeter o recurso ao CETRAN (art. 14, §§1º e 2º).",
 "porAlt": [
 "O termo inicial não é a data do exame; a norma fala em 'contados do seu conhecimento'.",
 "Quinze dias úteis é o prazo do ÓRGÃO para designar a Junta (art. 14, §1º), não o do candidato.",
@@ -22020,7 +22020,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "Juntas: fluxo",
 "base": "Resolução CONTRAN nº 927/2022, arts. 12 e 13",
-"coment": "A sequência da Resolução CONTRAN nº 927/2022 é obrigatória. O art. 12 dá ao candidato trinta dias para pedir a Junta Médica (ou Psicológica). O art. 13 só abre o recurso ao CETRAN/CONTRANDIFE quando 'mantido o resultado de inaptidão permanente pela Junta Médica ou Psicológica', com prazo de trinta dias 'contados a partir do conhecimento do resultado da revisão'. Sem revisão pela Junta, não existe decisão 'mantida', e o Conselho não tem o que julgar. Na aula: perito → Junta revisional → CETRAN (Junta Especial de Saúde).",
+"coment": "A sequência da Resolução CONTRAN nº 927/2022 é obrigatória. O art. 12 dá ao candidato trinta dias para pedir a Junta Médica (ou Psicológica). O art. 13 só abre o recurso ao CETRAN/CONTRANDIFE quando 'mantido o resultado de inaptidão permanente pela Junta Médica ou Psicológica', com prazo de trinta dias 'contados a partir do conhecimento do resultado da revisão'. Sem revisão pela Junta, não existe decisão 'mantida', e o Conselho não tem o que julgar. Fluxo: perito → Junta revisional → CETRAN (Junta Especial de Saúde).",
 "porAlt": [
 "O resultado do perito não abre o recurso ao CETRAN; só a inaptidão mantida na revisão da Junta.",
 "Não há recurso direto; e o prazo do art. 13 conta do conhecimento do resultado da revisão, não do exame.",
@@ -22043,7 +22043,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "Juntas: Junta Médica Especial",
 "base": "Resolução CONTRAN nº 927/2022, arts. 4º, 12 e 15; CTB, art. 14, VI",
-"coment": "A Resolução CONTRAN nº 927/2022 trata a Junta Médica Especial em dois parágrafos do art. 4º: ela é 'designada pelo Diretor do órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal' (§1º) e 'seguirá o determinado na NBR 14970 da ABNT' (§2º). Não há número mínimo de membros, ao contrário da Junta Médica revisional (três, art. 12, §1º), da Junta Psicológica (três, art. 12, §2º) e da Junta Especial de Saúde (mínimo três, dois especialistas, art. 15). O que o CTB acrescenta é que o CETRAN indica um representante para a comissão examinadora de candidatos com deficiência física (art. 14, VI). A anotação da aula confere com a norma neste ponto.",
+"coment": "A Resolução CONTRAN nº 927/2022 trata a Junta Médica Especial em dois parágrafos do art. 4º: ela é 'designada pelo Diretor do órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal' (§1º) e 'seguirá o determinado na NBR 14970 da ABNT' (§2º). Não há número mínimo de membros, ao contrário da Junta Médica revisional (três, art. 12, §1º), da Junta Psicológica (três, art. 12, §2º) e da Junta Especial de Saúde (mínimo três, dois especialistas, art. 15). O que o CTB acrescenta é que o CETRAN indica um representante para a comissão examinadora de candidatos com deficiência física (art. 14, VI).",
 "porAlt": [
 "A Junta Médica revisional tem composição fixada: três médicos peritos examinadores ou especialistas (art. 12, §1º).",
 "A Junta Especial de Saúde tem mínimo fixado: três médicos, dois especialistas em medicina de tráfego (art. 15).",
@@ -22066,7 +22066,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "Juntas: prazos",
 "base": "Resolução CONTRAN nº 927/2022, arts. 13 e 14, §2º",
-"coment": "O art. 13 da Resolução CONTRAN nº 927/2022: 'Mantido o resultado de inaptidão permanente pela Junta Médica ou Psicológica caberá, no prazo de trinta dias, contados a partir do conhecimento do resultado da revisão, recurso ao CETRAN ou ao CONTRANDIFE'. De 10 de junho a 15 de julho são 35 dias: fora do prazo. O recurso é apresentado no órgão executivo estadual do domicílio (art. 14), que tem vinte dias úteis para remeter os documentos ao Conselho (art. 14, §2º). É o mesmo número (trinta dias) do pedido de Junta: o aulão resumiu como '30 + 30'.",
+"coment": "O art. 13 da Resolução CONTRAN nº 927/2022: 'Mantido o resultado de inaptidão permanente pela Junta Médica ou Psicológica caberá, no prazo de trinta dias, contados a partir do conhecimento do resultado da revisão, recurso ao CETRAN ou ao CONTRANDIFE'. De 10 de junho a 15 de julho são 35 dias: fora do prazo. O recurso é apresentado no órgão executivo estadual do domicílio (art. 14), que tem vinte dias úteis para remeter os documentos ao Conselho (art. 14, §2º). É o mesmo número (trinta dias) do pedido de Junta: '30 + 30' para o candidato.",
 "porAlt": [
 "Não há prazo de sessenta dias no Capítulo III; o recurso ao CETRAN é de trinta dias.",
 "O texto do art. 13 diz 'trinta dias', sem 'úteis'; só os prazos do órgão (art. 14) são em dias úteis.",
@@ -22112,7 +22112,7 @@ window.BANCO=[
 "temaOrig": "aptidao",
 "sub": "EAFM: exames específicos",
 "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, 'f'; Anexo X, item 1.1",
-"coment": "O art. 4º, III, da Resolução CONTRAN nº 927/2022 lista seis exames específicos: oftalmológico, otorrinolaringológico, cardiorrespiratório, neurológico, do aparelho locomotor e dos distúrbios do sono. Só o último tem gatilho próprio: é 'exigida quando da renovação, adição e mudança para as categorias C, D e E (Anexos X, XI e XII)'. O motorista da B que muda para a C está no alcance. Na aula foi anotado 'renovação/adição C, D, E ou indícios'; a norma não traz 'ou indícios' e inclui a MUDANÇA de categoria. A primeira habilitação fica fora do rastreamento obrigatório.",
+"coment": "O art. 4º, III, da Resolução CONTRAN nº 927/2022 lista seis exames específicos: oftalmológico, otorrinolaringológico, cardiorrespiratório, neurológico, do aparelho locomotor e dos distúrbios do sono. Só o último tem gatilho próprio: é 'exigida quando da renovação, adição e mudança para as categorias C, D e E (Anexos X, XI e XII)'. O motorista da B que muda para a C está no alcance. O texto não traz 'ou indícios' e inclui a MUDANÇA de categoria. A primeira habilitação fica fora do rastreamento obrigatório.",
 "porAlt": [
 "A mudança para C está expressamente no texto, ao lado da renovação e da adição.",
 "Os indícios objetivos são o conteúdo da avaliação (Anexo X), não a condição para fazê-la.",
@@ -22204,7 +22204,7 @@ window.BANCO=[
 "temaOrig": "locomotor",
 "sub": "PcD: códigos do Anexo XV",
 "base": "Resolução CONTRAN nº 927/2022, Anexo XV; ABRAMET, Diretriz Esclerose Múltipla, Tabela 2",
-"coment": "Na aula, a linha do membro inferior direito ficou 'C+D ou C+G ou DEFIH'. O Anexo XV da Resolução CONTRAN nº 927/2022 é a referência dos códigos: C = acelerador à esquerda; D = veículo com transmissão automática; G = veículo com embreagem manual OU com automação de embreagem OU com transmissão automática; H = acelerador e freio manual. Armadilha: a Tabela 2 da Diretriz ABRAMET de esclerose múltipla imprime, nessa linha, 'embreagem manual/automação de embreagem {E}' e 'freio e acelerados manuais {I}'; pelas definições do Anexo XV, as letras corretas são G e H. Na CNH vale o código do Anexo XV.",
+"coment": "O Anexo XV da Resolução CONTRAN nº 927/2022 é a referência dos códigos: C = acelerador à esquerda; D = veículo com transmissão automática; G = veículo com embreagem manual OU com automação de embreagem OU com transmissão automática; H = acelerador e freio manual. Armadilha: a Tabela 2 da Diretriz ABRAMET de esclerose múltipla imprime, nessa linha, 'embreagem manual/automação de embreagem {E}' e 'freio e acelerados manuais {I}'; pelas definições do Anexo XV, as letras corretas são G e H. Na CNH vale o código do Anexo XV.",
 "porAlt": [
 "E é empunhadura/manopla/pomo no volante; a Tabela 2 da diretriz de EM traz '{E}' por erro de digitação nessa linha, mas o código da embreagem é G.",
 "Correta: no Anexo XV, C é 'acelerador à esquerda' e G é 'veículo com embreagem manual ou com automação de embreagem ou com transmissão automática'.",
@@ -22227,7 +22227,7 @@ window.BANCO=[
 "temaOrig": "locomotor",
 "sub": "PcD: códigos de motocicleta",
 "base": "Resolução CONTRAN nº 927/2022, Anexo XV",
-"coment": "O bloco de motocicleta do Anexo XV da Resolução CONTRAN nº 927/2022 vai de M a S: M, pedal de câmbio adaptado; N, pedal do freio traseiro adaptado; O, manopla do freio dianteiro adaptada; P, manopla de embreagem adaptada; Q, motocicleta com carro lateral ou triciclo; R, motoneta com carro lateral ou triciclo; S, motocicleta com automação de troca de marchas. No desenho do aulão: embreagem (P) e câmbio (M) de um lado; freio dianteiro (O), acelerador e freio traseiro (N) do outro. Adaptar o pedal é M; eliminar a troca manual é S.",
+"coment": "O bloco de motocicleta do Anexo XV da Resolução CONTRAN nº 927/2022 vai de M a S: M, pedal de câmbio adaptado; N, pedal do freio traseiro adaptado; O, manopla do freio dianteiro adaptada; P, manopla de embreagem adaptada; Q, motocicleta com carro lateral ou triciclo; R, motoneta com carro lateral ou triciclo; S, motocicleta com automação de troca de marchas. Na moto: embreagem (P) e câmbio (M) de um lado; freio dianteiro (O), acelerador e freio traseiro (N) do outro. Adaptar o pedal é M; eliminar a troca manual é S.",
 "porAlt": [
 "M adapta o pedal de câmbio, que continua existindo; a Junta exigiu a troca automática, sem pedal.",
 "Correta: o código S do Anexo XV é 'obrigatório o uso de motocicleta com automação de troca de marchas'.",
@@ -22250,7 +22250,7 @@ window.BANCO=[
 "temaOrig": "locomotor",
 "sub": "PcD: códigos de motocicleta",
 "base": "Resolução CONTRAN nº 927/2022, Anexo XV",
-"coment": "Os quatro comandos da motocicleta têm, cada um, a sua letra no Anexo XV da Resolução CONTRAN nº 927/2022, na ordem M, N, O, P: pedal de câmbio (M), pedal do freio traseiro (N), manopla do freio dianteiro (O) e manopla de embreagem (P). Os dois primeiros são de pé; os dois últimos, de mão. Não confundir com H (acelerador e freio manual), que é adaptação de automóvel para quem não aciona os pedais, como na paraplegia. A anotação da aula (freio dianteiro O, freio traseiro N, embreagem P, câmbio M) confere com o anexo.",
+"coment": "Os quatro comandos da motocicleta têm, cada um, a sua letra no Anexo XV da Resolução CONTRAN nº 927/2022, na ordem M, N, O, P: pedal de câmbio (M), pedal do freio traseiro (N), manopla do freio dianteiro (O) e manopla de embreagem (P). Os dois primeiros são de pé; os dois últimos, de mão. Não confundir com H (acelerador e freio manual), que é adaptação de automóvel para quem não aciona os pedais, como na paraplegia.",
 "porAlt": [
 "Correta: no Anexo XV, N é 'obrigatório o uso de motocicleta com pedal do freio traseiro adaptado'.",
 "O é a manopla do freio DIANTEIRO, comando de mão.",
@@ -22273,7 +22273,7 @@ window.BANCO=[
 "temaOrig": "locomotor",
 "sub": "PcD: classificação",
 "base": "ABRAMET, Diretriz Esclerose Múltipla, Tabela 2; ABRAMET, Diretriz Doença de Parkinson (NBR 14.970)",
-"coment": "A classificação de gravidade veio do aulão: deficiência leve, sem comprometimento funcional dos segmentos, não precisa de adaptação; moderada ou grave, com comprometimento das funções dos segmentos envolvidos na segurança, vai à Junta Médica Especial. Na Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla, cada linha de membro (MSD ou MSE; MSE+MSD; MID; MIE; MID+MIE) começa por 'Deficiência física moderada ou grave'. A graduação leve/moderada segue a NBR 14.970 da ABNT, como mostra a Diretriz ABRAMET de Parkinson ('deficiência física motora leve, em conformidade com a NBR 14.970'). A tabela prevê adaptações só para a B.",
+"coment": "Na Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla, cada linha de membro (MSD ou MSE; MSE+MSD; MID; MIE; MID+MIE) começa por 'Deficiência física moderada ou grave'. A graduação leve/moderada segue a NBR 14.970 da ABNT, como mostra a Diretriz ABRAMET de Parkinson ('deficiência física motora leve, em conformidade com a NBR 14.970'). A tabela prevê adaptações só para a B. Na mesma diretriz de EM, o encaminhamento à Junta Médica Especial é para EDSS de 3,5 a menos de 7,0, com triagem cognitiva normal.",
 "porAlt": [
 "A tabela não inclui a deficiência leve; o texto de cada linha é 'moderada ou grave'.",
 "Correta: todas as linhas de membros e a da paraplegia começam por 'Deficiência física moderada ou grave'.",
@@ -22296,7 +22296,7 @@ window.BANCO=[
 "temaOrig": "locomotor",
 "sub": "PcD: classificação",
 "base": "Resolução CONTRAN nº 927/2022, art. 4º, §§1º e 2º; ABRAMET, Diretriz Doença de Parkinson",
-"coment": "O art. 4º, §1º, da Resolução CONTRAN nº 927/2022 diz apenas que 'o exame de aptidão física e mental do candidato com deficiência física será realizado por Junta Médica Especial designada pelo Diretor' do órgão estadual; o §2º manda a Junta seguir a NBR 14970 da ABNT. A graduação que o aulão ensinou (leve, sem comprometimento funcional, não passa pela JME; moderada ou grave, com comprometimento dos segmentos envolvidos na segurança, vai à JME) vem da NBR 14970 e das diretrizes: a de Parkinson considera APTO, só na categoria B, o candidato com 'deficiência física motora leve, em conformidade com a NBR 14.970', e manda à JME os estágios HY 2 ou 3. Na prova, cite a fonte da graduação.",
+"coment": "O art. 4º, §1º, da Resolução CONTRAN nº 927/2022 diz apenas que 'o exame de aptidão física e mental do candidato com deficiência física será realizado por Junta Médica Especial designada pelo Diretor' do órgão estadual; o §2º manda a Junta seguir a NBR 14970 da ABNT. A graduação leve/moderada vem da NBR 14970, aplicada pelas diretrizes ABRAMET: a de Parkinson considera APTO, só na categoria B, o candidato com 'deficiência física motora leve, em conformidade com a NBR 14.970', e manda à JME os estágios HY 2 ou 3. Na prova, cite a fonte da graduação.",
 "porAlt": [
 "O art. 4º, §1º, não distingue graus; fala em 'candidato com deficiência física'.",
 "A resolução não prevê dispensa da Junta pelo uso de prótese.",
@@ -22342,7 +22342,7 @@ window.BANCO=[
 "temaOrig": "locomotor",
 "sub": "PcD: adaptações por deficiência",
 "base": "ABRAMET, Diretriz Esclerose Múltipla, Tabela 2; Res. CONTRAN nº 927/2022, Anexo XV",
-"coment": "Leitura linha a linha da Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla (categoria B). MSD ou MSE: D + E + F + I ou J. MSE+MSD: D + empunhadura comandada com os pés (*) + F + J + volante nos pés (*). MID+MIE (paraplegia): D + E + F + H. Hemiplegia direita: C + D + E + F + I. Hemiplegia esquerda: D + E + F + I. Em todas essas linhas estão D (transmissão automática/automatizada) e F (direção hidráulica/elétrica). Só as linhas de UM membro inferior fogem do padrão (MIE: D ou G; MID: combinações com C). Na aula foi anotado 'MI simultâneos: D E F I H'; a Tabela 2 não traz o I na paraplegia. Decorar 'D-F sempre' e depois a letra que diferencia cada quadro.",
+"coment": "Leitura linha a linha da Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla (categoria B). MSD ou MSE: D + E + F + I ou J. MSE+MSD: D + empunhadura comandada com os pés (*) + F + J + volante nos pés (*). MID+MIE (paraplegia): D + E + F + H. Hemiplegia direita: C + D + E + F + I. Hemiplegia esquerda: D + E + F + I. Em todas essas linhas estão D (transmissão automática/automatizada) e F (direção hidráulica/elétrica). Só as linhas de UM membro inferior fogem do padrão (MIE: D ou G; MID: combinações com C). A paraplegia não tem o I: é D, E, F e H. Decorar 'D-F sempre' e depois a letra que diferencia cada quadro.",
 "porAlt": [
 "O pomo (E) falta na linha dos dois membros superiores, que usa empunhadura comandada com os pés (*).",
 "Correta: D e F estão nas linhas de um membro superior, dos dois membros superiores, da paraplegia e das duas hemiplegias.",
@@ -22365,7 +22365,7 @@ window.BANCO=[
 "temaOrig": "legislacao",
 "sub": "Infrações ligadas à saúde",
 "base": "CTB, art. 162, VI; Res. CONTRAN nº 927/2022, art. 8º, parágrafo único, e Anexo XV",
-"coment": "O art. 162, VI, do CTB reúne as infrações 'de saúde' do aulão: dirigir 'sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir'. Infração gravíssima; penalidade, multa (sem fator multiplicador); medida administrativa, retenção do veículo até o saneamento da irregularidade ou a apresentação de condutor habilitado. As restrições constam da CNH como observações codificadas do Anexo XV (Res. 927, art. 8º, parágrafo único) e acompanham o condutor. O mesmo inciso cobre quem tem código A sem óculos e código B sem prótese auditiva.",
+"coment": "O art. 162, VI, do CTB reúne as infrações ligadas à saúde: dirigir 'sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir'. Infração gravíssima; penalidade, multa (sem fator multiplicador); medida administrativa, retenção do veículo até o saneamento da irregularidade ou a apresentação de condutor habilitado. As restrições constam da CNH como observações codificadas do Anexo XV (Res. 927, art. 8º, parágrafo único) e acompanham o condutor. O mesmo inciso cobre quem tem código A sem óculos e código B sem prótese auditiva.",
 "porAlt": [
 "O art. 252, III, é para incapacidade TEMPORÁRIA; aqui a regra específica é a das adaptações impostas.",
 "O inciso III trata de CNH de categoria diferente da do veículo; a categoria (B) é a correta.",
@@ -22388,7 +22388,7 @@ window.BANCO=[
 "temaOrig": "legislacao",
 "sub": "Infrações ligadas à saúde",
 "base": "CTB, art. 252, V e parágrafo único; art. 169",
-"coment": "Na aula foi anotado 'dirigir com apenas uma mão' entre as gravíssimas; o CTB diz outra coisa. O art. 252, V, pune dirigir 'com apenas uma das mãos, exceto quando deva fazer sinais regulamentares de braço, mudar a marcha do veículo, ou acionar equipamentos e acessórios do veículo' como infração MÉDIA, com multa. O parágrafo único, incluído pela Lei 13.281/2016, a torna GRAVÍSSIMA 'no caso de o condutor estar segurando ou manuseando telefone celular'. Usar fone ou celular (inciso VI) também é média; o que agrava é o celular na mão. Na moto, soltar o guidom é o art. 244, VII (grave).",
+"coment": "Dirigir com uma mão não é, por si, gravíssima. O art. 252, V, pune dirigir 'com apenas uma das mãos, exceto quando deva fazer sinais regulamentares de braço, mudar a marcha do veículo, ou acionar equipamentos e acessórios do veículo' como infração MÉDIA, com multa. O parágrafo único, incluído pela Lei 13.281/2016, a torna GRAVÍSSIMA 'no caso de o condutor estar segurando ou manuseando telefone celular'. Usar fone ou celular (inciso VI) também é média; o que agrava é o celular na mão. Na moto, soltar o guidom é o art. 244, VII (grave).",
 "porAlt": [
 "Correta: o art. 252, V, é infração média; o parágrafo único a torna gravíssima quando o condutor está segurando ou manuseando telefone celular.",
 "Sem celular, dirigir com uma das mãos é média; a gravíssima exige o celular na mão (parágrafo único).",
@@ -22411,7 +22411,7 @@ window.BANCO=[
 "temaOrig": "legislacao",
 "sub": "Transporte de crianças",
 "base": "CTB, art. 244, V (Lei 14.071/2020)",
-"coment": "O art. 244, V, do CTB (redação da Lei 14.071/2020) pune conduzir motocicleta, motoneta ou ciclomotor 'transportando criança menor de 10 (dez) anos de idade OU que não tenha, nas circunstâncias, condições de cuidar da própria segurança'. Infração gravíssima; multa e suspensão do direito de dirigir; retenção do veículo até regularização e recolhimento do documento de habilitação. São dois critérios alternativos: idade abaixo de dez anos ou incapacidade de cuidar da própria segurança. A anotação da aula ('proibido transportar <10 anos ou sem condições de cuidar da própria segurança') confere com o texto.",
+"coment": "O art. 244, V, do CTB (redação da Lei 14.071/2020) pune conduzir motocicleta, motoneta ou ciclomotor 'transportando criança menor de 10 (dez) anos de idade OU que não tenha, nas circunstâncias, condições de cuidar da própria segurança'. Infração gravíssima; multa e suspensão do direito de dirigir; retenção do veículo até regularização e recolhimento do documento de habilitação. São dois critérios alternativos: idade abaixo de dez anos ou incapacidade de cuidar da própria segurança.",
 "porAlt": [
 "A idade é só um dos critérios; o 'ou' do inciso V inclui quem não pode cuidar da própria segurança.",
 "O inciso XI trata de passageiro com capacete sem viseira; não é o caso.",
@@ -22457,7 +22457,7 @@ window.BANCO=[
 "temaOrig": "legislacao",
 "sub": "Categorias e requisitos",
 "base": "CTB, art. 145, III, IV e parágrafo único (Leis 12.619/2012 e 14.071/2020)",
-"coment": "Na aula: para D ou E, '≥21 anos; >2 anos na B ou >1 ano na C para D; >1 ano na C para E; não mais de uma gravíssima em 12 meses'. O art. 145 do CTB traz ainda o inciso IV (curso especializado e curso de prática veicular em situação de risco) e um parágrafo único que cai em prova: 'A participação em curso especializado previsto no inciso IV independe da observância do disposto no inciso III'. Ele pode fazer o curso agora, mas só se habilita na E quando deixar de ter mais de uma gravíssima nos últimos 12 meses (inciso III, redação da Lei 14.071/2020).",
+"coment": "Para D ou E, o art. 145 do CTB exige ser maior de 21 anos; no mínimo 2 anos na B ou 1 ano na C para a D; 1 ano na C para a E; e não mais de uma gravíssima em 12 meses. Traz ainda o inciso IV (curso especializado e curso de prática veicular em situação de risco) e um parágrafo único que cai em prova: 'A participação em curso especializado previsto no inciso IV independe da observância do disposto no inciso III'. Ele pode fazer o curso agora, mas só se habilita na E quando deixar de ter mais de uma gravíssima nos últimos 12 meses (inciso III, redação da Lei 14.071/2020).",
 "porAlt": [
 "O curso não depende do inciso III; o parágrafo único o dispensa para a participação.",
 "O art. 145 vale para a D e para a E; o limite de uma gravíssima alcança as duas.",
@@ -22480,7 +22480,7 @@ window.BANCO=[
 "temaOrig": "legislacao",
 "sub": "Requisitos da habilitação",
 "base": "CTB, art. 140, I a III; Res. CONTRAN nº 1.020/2025, art. 17",
-"coment": "O art. 140 do CTB exige três requisitos: I, ser penalmente imputável; II, saber ler e escrever; III, possuir Carteira de Identidade ou equivalente. A Res. CONTRAN nº 1.020/2025 repete-os no art. 17 e acrescenta a inscrição no CPF. Emancipação é instituto civil; não torna o menor de 18 anos penalmente imputável. Na aula foi anotado 'Lei 14.071/2020 – art. 140'; no compilado do Planalto, os três incisos são da redação original e o caput atual é da Lei 14.599/2023. A Lei 14.071/2020 mudou outros pontos (arts. 64, 145, 147, 148-A, 244).",
+"coment": "O art. 140 do CTB exige três requisitos: I, ser penalmente imputável; II, saber ler e escrever; III, possuir Carteira de Identidade ou equivalente. A Res. CONTRAN nº 1.020/2025 repete-os no art. 17 e acrescenta a inscrição no CPF. Emancipação é instituto civil; não torna o menor de 18 anos penalmente imputável. No compilado do Planalto, os três incisos são da redação original e o caput atual é da Lei 14.599/2023. A Lei 14.071/2020 mudou outros pontos (arts. 64, 145, 147, 148-A, 244).",
 "porAlt": [
 "Correta: o art. 140, I, exige 'ser penalmente imputável'; a emancipação civil não altera a imputabilidade penal.",
 "A capacidade civil não é o critério do CTB; o requisito é a imputabilidade penal.",
@@ -22503,7 +22503,7 @@ window.BANCO=[
 "temaOrig": "legislacao",
 "sub": "Categorias e requisitos",
 "base": "CTB, art. 143, II a V (Lei 14.440/2022)",
-"coment": "As categorias do art. 143 do CTB: A, veículo motorizado de duas ou três rodas; B, até 3.500 kg de PBT e até oito lugares além do motorista; C, veículo da B e veículo de carga com PBT acima de 3.500 kg; D, veículo das categorias B e C e veículo de passageiros com lotação acima de oito lugares (redação da Lei 14.440/2022); E, combinação em que a unidade tratora é B, C ou D e a unidade acoplada tem 6.000 kg ou mais de PBT, ou lotação acima de oito lugares. A ACC é para ciclomotor (até 50 cm³ ou 4 kW e até 50 km/h, Anexo I). Na aula, 'D: passageiros >8 lugares' ficou incompleto: a D também abrange B e C.",
+"coment": "As categorias do art. 143 do CTB: A, veículo motorizado de duas ou três rodas; B, até 3.500 kg de PBT e até oito lugares além do motorista; C, veículo da B e veículo de carga com PBT acima de 3.500 kg; D, veículo das categorias B e C e veículo de passageiros com lotação acima de oito lugares (redação da Lei 14.440/2022); E, combinação em que a unidade tratora é B, C ou D e a unidade acoplada tem 6.000 kg ou mais de PBT, ou lotação acima de oito lugares. A ACC é para ciclomotor (até 50 cm³ ou 4 kW e até 50 km/h, Anexo I). Armadilha: a D não é só 'passageiros acima de 8 lugares'; ela também abrange B e C.",
 "porAlt": [
 "A redação da Lei 14.440/2022 inclui na D os veículos das categorias B e C.",
 "Os 6.000 kg da E referem-se à unidade ACOPLADA (reboque, semirreboque), não ao caminhão isolado.",
@@ -22549,7 +22549,7 @@ window.BANCO=[
 "temaOrig": "legislacao",
 "sub": "Exame toxicológico",
 "base": "CTB, art. 148-A, caput e §2º (Lei 14.071/2020)",
-"coment": "O art. 148-A do CTB exige toxicológico negativo dos condutores das categorias C, D e E na obtenção e na renovação (caput) e, no §2º, um exame intermediário: condutores C, D e E com idade inferior a 70 anos 'serão submetidos a novo exame a cada período de 2 anos e 6 meses, a partir da obtenção ou renovação da CNH, independentemente da validade dos demais exames'. Com 70 anos ou mais, só o exame da renovação. Na aula foi anotado 'a cada 2,5 anos p/ C, D e E <70 anos', que confere. Desde a Lei 15.153/2025 (§10), o exame também é exigido na primeira habilitação A e B.",
+"coment": "O art. 148-A do CTB exige toxicológico negativo dos condutores das categorias C, D e E na obtenção e na renovação (caput) e, no §2º, um exame intermediário: condutores C, D e E com idade inferior a 70 anos 'serão submetidos a novo exame a cada período de 2 anos e 6 meses, a partir da obtenção ou renovação da CNH, independentemente da validade dos demais exames'. Com 70 anos ou mais, só o exame da renovação. Desde a Lei 15.153/2025 (§10), o exame também é exigido na primeira habilitação A e B.",
 "porAlt": [
 "O periódico existe justamente porque a CNH dos C, D e E pode valer mais do que 2 anos e 6 meses.",
 "O prazo do toxicológico não é atrelado à metade da validade do exame médico.",
@@ -22572,7 +22572,7 @@ window.BANCO=[
 "temaOrig": "drogas",
 "sub": "Exame toxicológico",
 "base": "Res. CONTRAN nº 923/2022, art. 14, §1º, e Anexo I",
-"coment": "O art. 14, §1º, da Res. CONTRAN nº 923/2022 manda testar as substâncias do Anexo I, com os cut offs de triagem e confirmação. São cinco grupos: anfetaminas (anfetamina, metanfetamina, MDA, MDMA, anfepramona e femproporex, 0,2 ng/mg); mazindol (0,5 ng/mg); canabinoides (THC 0,1 ou THC-COOH 0,001 ng/mg na triagem; THC-COOH 0,0002 na confirmação); cocaína (0,5 ng/mg; benzoilecgonina, cocaetileno e norcocaína 0,05); opiáceos (morfina, codeína e heroína, 0,2 ng/mg). A lista da aula (maconha, cocaína, opiáceos, anfetaminas, ecstasy, anfepramona, femproporex, mazindol) confere. Benzodiazepínico e álcool não entram.",
+"coment": "O art. 14, §1º, da Res. CONTRAN nº 923/2022 manda testar as substâncias do Anexo I, com os cut offs de triagem e confirmação. São cinco grupos: anfetaminas (anfetamina, metanfetamina, MDA, MDMA, anfepramona e femproporex, 0,2 ng/mg); mazindol (0,5 ng/mg); canabinoides (THC 0,1 ou THC-COOH 0,001 ng/mg na triagem; THC-COOH 0,0002 na confirmação); cocaína (0,5 ng/mg; benzoilecgonina, cocaetileno e norcocaína 0,05); opiáceos (morfina, codeína e heroína, 0,2 ng/mg). Benzodiazepínico e álcool não entram.",
 "porAlt": [
 "Opiáceos estão no anexo, confirmados por morfina, codeína e heroína.",
 "Canabinoides estão no anexo: THC ou THC-COOH na triagem e THC-COOH na confirmação.",
@@ -22687,7 +22687,7 @@ window.BANCO=[
 "temaOrig": "oftalmo",
 "sub": "Binocularidade (★)",
 "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.1.1 e 1.1.2",
-"coment": "O item 1.1.1 do Anexo II admite, para C, D e E, duas combinações de acuidade: 20/30 (0,66) em cada olho, ou 20/30 em um olho e 20/40 (0,50) no outro, com visão binocular mínima de 20/25 (0,80). O candidato está exatamente na combinação assimétrica e alcança 20/25 com os dois olhos abertos, que é o ponto que o professor marcou com estrela no aulão. O campo exigido (item 1.1.2) é de 120º em cada olho, e ele tem 125º. Todos os parâmetros estão satisfeitos. Pegadinha: não existe piso binocular de 20/20, e o olho de 20/40 não afasta as categorias profissionais quando o binocular chega a 20/25.",
+"coment": "O item 1.1.1 do Anexo II admite, para C, D e E, duas combinações de acuidade: 20/30 (0,66) em cada olho, ou 20/30 em um olho e 20/40 (0,50) no outro, com visão binocular mínima de 20/25 (0,80). O candidato está exatamente na combinação assimétrica e alcança 20/25 com os dois olhos abertos. O campo exigido (item 1.1.2) é de 120º em cada olho, e ele tem 125º. Todos os parâmetros estão satisfeitos. Pegadinha: não existe piso binocular de 20/20, e o olho de 20/40 não afasta as categorias profissionais quando o binocular chega a 20/25.",
 "porAlt": [
 "Errada: a própria norma admite a alternativa 20/30 em um olho e 20/40 no outro.",
 "Errada: o piso binocular é 20/25 (0,80), não 20/20.",
@@ -22756,9 +22756,9 @@ window.BANCO=[
 "temaOrig": "oftalmo",
 "sub": "Visão monocular (★)",
 "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.3.3",
-"coment": "O item 1.3 abre a ACC e as categorias A e B ao candidato sem percepção luminosa em um olho, desde que observados três parâmetros: acuidade de 20/30 ou mais (1.3.1), campo de 120º ou mais na isóptera horizontal (1.3.2) e, 'decorridos, no mínimo, noventa dias da perda da visão', laudo indicando capacete de segurança com viseira protetora, sem limitação de campo visual (1.3.3). No aulão foi anotado 'mais de 30 dias'; a norma diz noventa. A motocicleta não é vedada: a categoria A está entre as permitidas, e é justamente por isso que o capacete com viseira aparece no laudo.",
+"coment": "O item 1.3 abre a ACC e as categorias A e B ao candidato sem percepção luminosa em um olho, desde que observados três parâmetros: acuidade de 20/30 ou mais (1.3.1), campo de 120º ou mais na isóptera horizontal (1.3.2) e, 'decorridos, no mínimo, noventa dias da perda da visão', laudo indicando capacete de segurança com viseira protetora, sem limitação de campo visual (1.3.3). A diretriz ABRAMET do condutor idoso (2022, item 7.5) repete os noventa dias. A motocicleta não é vedada: a categoria A está entre as permitidas, e é justamente por isso que o capacete com viseira aparece no laudo.",
 "porAlt": [
-"Errada: trinta dias foi a anotação da aula; o texto do item 1.3.3 diz noventa dias.",
+"Errada: o item 1.3.3 diz no mínimo noventa dias, e não trinta.",
 "Errada: o prazo não é de seis meses e a norma fala em capacete com viseira, não em óculos.",
 "Errada: não há prazo de um ano nem restrição U no item 1.3.",
 "Errada: o prazo é de noventa dias e a categoria A (motocicleta) é permitida.",
@@ -22802,7 +22802,7 @@ window.BANCO=[
 "temaOrig": "oftalmo",
 "sub": "Visão monocular (★)",
 "base": "Lei nº 14.126/2021, art. 1º",
-"coment": "O art. 1º da Lei 14.126, de 22/03/2021, classifica a visão monocular como deficiência sensorial, do tipo visual, 'para todos os efeitos legais', e o parágrafo único manda aplicar a ela o § 2º do art. 2º do Estatuto da Pessoa com Deficiência (Lei 13.146/2015). Foi o ponto marcado na aula ('é PcD'). Não confunda com a Junta Médica Especial: a Resolução 927 (art. 4º, § 1º) manda à JME o candidato com deficiência física, e o olho único tem critério próprio no Anexo II, item 1.3 (ACC, A e B; 20/30; 120º; 90 dias; capacete com viseira).",
+"coment": "O art. 1º da Lei 14.126, de 22/03/2021, classifica a visão monocular como deficiência sensorial, do tipo visual, 'para todos os efeitos legais', e o parágrafo único manda aplicar a ela o § 2º do art. 2º do Estatuto da Pessoa com Deficiência (Lei 13.146/2015). Não confunda com a Junta Médica Especial: a Resolução 927 (art. 4º, § 1º) manda à JME o candidato com deficiência física, e o olho único tem critério próprio no Anexo II, item 1.3 (ACC, A e B; 20/30; 120º; 90 dias; capacete com viseira).",
 "porAlt": [
 "Errada: a lei fala em deficiência sensorial, do tipo visual, e não motora.",
 "Errada: a lei classifica a visão monocular como deficiência, sem condicionar ao campo.",
@@ -22870,8 +22870,8 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "oftalmo",
 "sub": "Visão noturna e ofuscamento",
-"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1; Anexo XV",
-"coment": "O item 4.1 do Anexo II diz que o candidato 'deverá possuir visão em baixa luminosidade e recuperação após ofuscamento direto', sem distinguir categoria, e o art. 17, II, k, obriga a entidade a ter equipamento para avaliar ofuscamento e visão noturna. O Anexo XV define o código U como 'vedado dirigir após o pôr-do-sol'; o T é 'vedado dirigir em rodovias e vias de trânsito rápido', e o X é 'outras restrições'. Na aula foi anotado que a falha nesse teste leva à restrição U. É a restrição coerente, mas repare que o Anexo II não escreve o código: ele só exige a função.",
+"base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1; Anexo XV; Diretriz ABRAMET — O condutor idoso (2022), item 7.5",
+"coment": "O item 4.1 do Anexo II diz que o candidato 'deverá possuir visão em baixa luminosidade e recuperação após ofuscamento direto', sem distinguir categoria, e o art. 17, II, k, obriga a entidade a ter equipamento para avaliar ofuscamento e visão noturna. O Anexo XV define o código U como 'vedado dirigir após o pôr-do-sol'; o T é 'vedado dirigir em rodovias e vias de trânsito rápido', e o X é 'outras restrições'. O Anexo II não escreve o código; quem o liga à falha é a diretriz ABRAMET do condutor idoso (dez/2022, item 7.5): reprovado na visão noturna e/ou no ofuscamento, avaliação oftalmológica específica; comprovada patologia ocular persistente, apto com a restrição U e diminuição do prazo a critério médico.",
 "porAlt": [
 "Errada: o código T veda rodovias e vias de trânsito rápido, não o período noturno.",
 "Errada: a exigência vale para todos os candidatos, e U não trata de rodovias.",
@@ -23146,37 +23146,37 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "cardio",
 "sub": "Marca-passo (★)",
-"base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Figura 1",
-"coment": "A Figura 1 da diretriz de DCEI divide a direção em privada (condutor que não exerce atividade remunerada: ACC, A, B) e profissional (exerce atividade remunerada: ACC a E). Para o marca-passo, os prazos são: implante 2 e 4 semanas; troca de gerador 1 e 2 semanas; troca de eletrodo 2 e 4 semanas. Afastamento permanente na direção profissional é regra do CDI, não do marca-passo. Lembre a contradição: o texto do item 2.1 da mesma diretriz e o Anexo VII da Resolução 927 falam em 2 e 6 semanas para o implante.",
+"base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), Figura 1; Resolução CONTRAN nº 927/2022, Anexo VII",
+"coment": "A Figura 1 da diretriz de DCEI (elaboração final em outubro de 2012) divide a direção em privada (condutor que não exerce atividade remunerada) e profissional (exerce atividade remunerada). Para o marca-passo, a troca de gerador tem 1 semana (privada) e 2 semanas (profissional), e a troca de eletrodo, 2 e 4 semanas. A Resolução 927/2022 não trata de troca de gerador nem de eletrodo, então esses prazos continuam sendo os da diretriz. Para o IMPLANTE, a regra vigente é a do Anexo VII da Resolução 927/2022, mais recente: 2 semanas na ACC, A e B e 6 semanas em C, D e E (igual ao texto do item 2.1 da diretriz; a Figura 1 traz 4 para o profissional, em contradição com o próprio texto). Afastamento permanente na direção profissional é regra do CDI, não do marca-passo.",
 "porAlt": [
-"Errada: 2 e 4 semanas são os prazos do implante e da troca de eletrodo.",
+"Errada: na Figura 1, 2 e 4 semanas são os prazos da troca de eletrodo.",
 "Errada: afastamento permanente é regra do CDI na direção profissional.",
-"Errada: 2 e 6 semanas é o implante no Anexo VII e no texto da diretriz.",
+"Errada: 2 e 6 semanas é o implante pelo Anexo VII da Resolução 927/2022.",
 "Errada: esses prazos não constam da Figura 1 do marca-passo.",
 "Correta: troca de gerador, 1 semana (privada) e 2 semanas (profissional)."
 ]
 },
 {
-"q": "Sobre o afastamento da direção PROFISSIONAL após o implante de marca-passo, assinale a alternativa que descreve corretamente as fontes.",
+"q": "Motorista de ônibus de 52 anos, categoria D, implantou marca-passo definitivo há cinco semanas por doença do nó sinusal. Traz relatório cardiológico favorável e a etiologia já foi avaliada. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
 "alts": [
-"O Anexo VII e o texto da diretriz dão 6 semanas; a Figura 1 da diretriz dá 4",
-"O Anexo VII dá 4 semanas; o texto e a Figura 1 da diretriz dão 6 semanas cada",
-"O Anexo VII e a Figura 1 da diretriz dão 6 semanas; o texto da diretriz, 4",
-"O Anexo VII, o texto e a Figura 1 da diretriz dão 6 semanas, sem divergência",
-"O Anexo VII dá 2 semanas; o texto e a Figura 1 da diretriz dão 4 semanas cada"
+"Ainda não: em C, D e E o prazo mínimo é de seis semanas após o implante",
+"Apto: em C, D e E bastam quatro semanas após o implante do marca-passo",
+"Apto: duas semanas após o implante bastam em qualquer categoria da CNH",
+"Ainda não: em C, D e E o prazo mínimo é de doze semanas após o implante",
+"Inapto definitivo: marca-passo impede as categorias C, D e E na norma"
 ],
 "gab": 0,
 "tema": "vespera",
 "temaOrig": "cardio",
 "sub": "Marca-passo (★)",
-"base": "Resolução CONTRAN nº 927/2022, Anexo VII; Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 2.1 e Figura 1",
-"coment": "O Anexo VII da Resolução 927 exige, para C, D e E, seis semanas da implantação, com relatório cardiológico favorável e avaliação da etiologia. O texto corrido do item 2.1 da diretriz de DCEI diz que, pelas recomendações da ABRAMET, o paciente deve ficar afastado duas semanas na direção particular e seis na profissional. A Figura 1 da mesma diretriz traz duas e quatro semanas. A aula anotou '6 semanas (CONTRAN) / 4 semanas (diretriz)'. Na prova, veja qual fonte o enunciado cita: Resolução ou texto da diretriz, 6; figura da diretriz, 4.",
+"base": "Resolução CONTRAN nº 927/2022, Anexo VII; Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 2.1",
+"coment": "Na coluna de C, D e E, o Anexo VII da Resolução 927/2022 aprova o portador de marca-passo 'após seis semanas da implantação', com relatório cardiológico favorável e avaliação da etiologia, e diminuição do prazo de validade a critério médico. Com cinco semanas, o motorista ainda não cumpre o prazo, mesmo com relatório e etiologia resolvidos. As duas semanas valem para a ACC e as categorias A e B, com exame cardiológico normal. O texto do item 2.1 da diretriz de DCEI (2012) diz o mesmo: 2 semanas na direção particular e 6 na profissional. Atualizado: a Figura 1 dessa diretriz trazia 4 semanas para o profissional, em contradição com o próprio texto; a regra vigente é a da resolução, mais recente. Doze semanas são do infarto (C, D e E) e da revascularização.",
 "porAlt": [
-"Correta: 6 semanas no Anexo VII e no texto do item 2.1; 4 semanas na Figura 1.",
-"Errada: o Anexo VII dá 6 semanas, e a figura é que dá 4.",
-"Errada: a Figura 1 dá 4 semanas, e o texto é que dá 6.",
-"Errada: há divergência entre o texto e a Figura 1 da diretriz.",
-"Errada: 2 semanas é o prazo da coluna ACC, A e B do Anexo VII."
+"Correta: seis semanas do implante em C, D e E, com relatório favorável e etiologia avaliada.",
+"Errada: quatro semanas é o número da Figura 1 da diretriz de 2012; a regra vigente é seis.",
+"Errada: duas semanas valem só para a ACC e as categorias A e B.",
+"Errada: doze semanas são do infarto em C, D e E e da revascularização.",
+"Errada: a norma aprova o marca-passo em C, D e E após seis semanas, com relatório."
 ]
 },
 {
@@ -23192,10 +23192,10 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "cardio",
 "sub": "Arritmias e BAV",
-"base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 3.2.2 e Figura 4",
-"coment": "A diretriz distingue os bloqueios. BAV de 1º grau e BAV de 2º grau tipo I (Mobitz I), assintomáticos, não desqualificam nem para a direção profissional, com avaliação periódica e Holter anual. Já o BAV de 2º grau tipo II (Mobitz II) e o BAV total adquirido 'desqualificam o portador para a direção veicular em qualquer condição, até que o tratamento eficaz, normalmente com implante de marca-passo definitivo, seja instituído' (item 3.2.2; Figura 4). Depois do marca-passo, valem os prazos do dispositivo. O critério de QRS menor ou igual a 110 ms e pausas menores que 3 s é do BAV total congênito na direção profissional.",
+"base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.2.2 e Figura 4; Resolução CONTRAN nº 927/2022, Anexo VII",
+"coment": "O BAV de 2º grau tipo II (Mobitz II) e o BAV total adquirido 'desqualificam o portador para a direção veicular em qualquer condição, até que o tratamento eficaz, normalmente com implante de marca-passo definitivo, seja instituído' (item 3.2.2; Figura 4). Depois do marca-passo, valem os prazos do dispositivo. A Resolução 927/2022 (Anexo VII), mais recente, chega ao mesmo resultado por outro caminho: BAV de 2º e 3º grau é inapto temporariamente, sem distinguir o tipo. O critério de QRS menor ou igual a 110 ms e pausas menores que 3 s é do BAV total congênito na direção profissional.",
 "porAlt": [
-"Errada: essa conduta é a do BAV de 1º grau e do Mobitz I.",
+"Errada: o Mobitz II não é liberado; o Anexo VII dá inapto temporário ao BAV de 2º grau.",
 "Correta: Mobitz II desqualifica em qualquer condição até o tratamento definitivo.",
 "Errada: o Mobitz II desqualifica também a direção privada até o tratamento.",
 "Errada: o critério do QRS de escape é do BAV total congênito.",
@@ -23215,7 +23215,7 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "cardio",
 "sub": "Fibrilação atrial (★)",
-"base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Quadro 1",
+"base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), Quadro 1",
 "coment": "O Quadro 1 da diretriz traz cinco orientações ao portador de FA: (1) sintomáticos não deverão dirigir; (2) pacientes em investigação diagnóstica deverão ser desaconselhados a dirigir; (3) se o tratamento permite controle adequado sem complicações, a direção poderá ser consentida sob orientação do cardiologista assistente; (4) alto risco de tromboembolismo, miocardiopatia, estenose mitral ou insuficiência cardíaca descompensada devem ser desencorajados de dirigir; (5) anticoagulados devem ser informados de que são mais vulneráveis a hemorragias em lesões por acidentes. O caso é o item 2.",
 "porAlt": [
 "Errada: em investigação diagnóstica, a orientação é desaconselhar a direção.",
@@ -23238,7 +23238,7 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "cardio",
 "sub": "Fibrilação atrial (★)",
-"base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Quadro 1, item 4",
+"base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), Quadro 1, item 4",
 "coment": "O item 4 do Quadro 1 é textual: 'pacientes com alto risco de desenvolver tromboembolismo, miocardiopatia, e portadores de estenose mitral ou insuficiência cardíaca descompensada devem ser desencorajados de dirigir'. A FA crônica com frequência ventricular adequadamente controlada e sem prejuízo da consciência não tem restrição, com anticoagulação se indicada, tanto na direção privada quanto na profissional (Figura 5). A paroxística sem prejuízo da consciência também não tem restrição. A diretriz não usa a idade como critério.",
 "porAlt": [
 "Errada: FA crônica controlada não tem restrição, com anticoagulação se indicada (Figura 5).",
@@ -23261,7 +23261,7 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "cardio",
 "sub": "Taquicardia supraventricular",
-"base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 3.2.4.2 e Figura 5",
+"base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.2.4.2 e Figura 5",
 "coment": "Pela Figura 5, a taquicardia supraventricular paroxística com prejuízo do nível de consciência exige 'controle satisfatório' tanto na direção privada quanto na profissional; sem prejuízo da consciência, não há restrições. O texto diz que a ablação por radiofrequência tem resultados excelentes e é recomendada para controle definitivo e liberação quando há síncope, pré-síncope ou tonturas relacionadas à taquicardia; se a ablação for impossível, o antiarrítmico é mandatório. A diretriz registra síncope em 33% a 39% dos portadores de taquicardia por reentrada nodal. Após a ablação, a volta à direção profissional é uma semana após a alta.",
 "porAlt": [
 "Errada: a diretriz relata síncope em 33% a 39% na reentrada nodal.",
@@ -23446,7 +23446,7 @@ window.BANCO=[
 "temaOrig": "neuro",
 "sub": "AVC",
 "base": "Diretriz ABRAMET — O condutor idoso (2022), item 7.8",
-"coment": "A diretriz do condutor idoso (item 7.8) diz que idosos acometidos de AVC 'poderão retomar a condução de um veículo se apresentarem recuperação completa, sem evidência de dano neurológico permanente'. Persistindo o comprometimento das funções neuromuscular, motora ou sensorial, o encaminhamento é para a Junta Médica Especial, com avaliação pela NBR 14.970 da ABNT. Na aula foi anotado 'apto com diminuição do prazo'; a diretriz não escreve isso para o AVC (escreve para o AIT), mas o perito pode propor prazo menor com base no art. 147, § 4º, do CTB.",
+"coment": "A diretriz do condutor idoso (item 7.8) diz que idosos acometidos de AVC 'poderão retomar a condução de um veículo se apresentarem recuperação completa, sem evidência de dano neurológico permanente'. Persistindo o comprometimento das funções neuromuscular, motora ou sensorial, o encaminhamento é para a Junta Médica Especial, com avaliação pela NBR 14.970 da ABNT. A diretriz não escreve 'diminuição do prazo' para o AVC (escreve para o AIT), mas o perito pode propor prazo menor com base no art. 147, § 4º, do CTB, quando houver indício de deficiência ou doença progressiva.",
 "porAlt": [
 "Errada: a JME é para quem mantém comprometimento neuromuscular, motor ou sensorial.",
 "Errada: com recuperação completa, a diretriz permite retomar a condução.",
@@ -23492,7 +23492,7 @@ window.BANCO=[
 "temaOrig": "sono",
 "sub": "Epworth (★★)",
 "base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.2.5 e 1.3",
-"coment": "O texto oficial se contradiz. O item 1.2.5 lista como indício 'Escala de Sonolência Epworth: > 12'. O item 1.3 diz 'escore na escala de sonolência de Epworth maior ou igual a 12 (> 12)'. A aula ensinou 12 ou mais. Na prática, só o escore exatamente 12 muda de lado conforme a leitura: 13 ou mais é positivo e 11 ou menos é negativo pelas duas redações. Por isso a questão bem feita não depende do 12 exato; se depender, veja qual item o enunciado cita.",
+"coment": "O texto oficial se contradiz. O item 1.2.5 lista como indício 'Escala de Sonolência Epworth: > 12'. O item 1.3 diz 'escore na escala de sonolência de Epworth maior ou igual a 12 (> 12)'. A diretriz ABRAMET de epilepsia (2025, item 5), a fonte mais recente que usa o corte, exige Epworth inferior a 12 para descartar sonolência, o que lê o 12 como positivo. Na prática, só o escore exatamente 12 muda de lado conforme a leitura: 13 ou mais é positivo e 11 ou menos é negativo pelas duas redações. Por isso a questão bem feita não depende do 12 exato.",
 "porAlt": [
 "Errada: o corte do Anexo X gira em torno de 12, não de 10.",
 "Errada: nenhum dos dois itens usa 10 como corte.",
@@ -23584,7 +23584,7 @@ window.BANCO=[
 "temaOrig": "sono",
 "sub": "Conduta (★★)",
 "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.3",
-"coment": "O item 1.3 diz que o candidato com Epworth de 12 ou mais e/ou dois ou mais indícios objetivos, 'a critério médico, poderá ser aprovado temporariamente ou ser encaminhado para avaliação médica específica e realização de polissonografia (PSG)'. Na aula foi anotado 'reprovado temporário'; a norma diz 'aprovado temporariamente', ou seja, o condutor sai apto, com prazo curto. Isso não impede que outra condição leve à inaptidão temporária, mas não é a conduta escrita no item 1.3.",
+"coment": "O item 1.3 diz que o candidato com Epworth de 12 ou mais e/ou dois ou mais indícios objetivos, 'a critério médico, poderá ser aprovado temporariamente ou ser encaminhado para avaliação médica específica e realização de polissonografia (PSG)'. A norma diz 'aprovado temporariamente', e não 'reprovado': o condutor sai apto, com prazo curto. Isso não impede que outra condição leve à inaptidão temporária, mas não é a conduta escrita no item 1.3.",
 "porAlt": [
 "Errada (está prevista): 'poderá ser aprovado temporariamente'.",
 "Errada (está prevista): 'encaminhado para avaliação médica específica'.",
@@ -23652,8 +23652,8 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "neuro",
 "sub": "Epilepsia: resultado inicial pela diretriz",
-"base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, incisos II e III; Resolução CONTRAN nº 927/2022, Anexo VIII, item 2.1",
-"coment": "Pela diretriz de 2025 (item 6, II), quem declara na anamnese ou no questionário ter epilepsia ou usar medicamento antiepiléptico deve ser considerado INAPTO TEMPORÁRIO e trazer informações do médico assistente em relatório padronizado; o inciso III exige que esse relatório seja preenchido por neurologista ou neurocirurgião que acompanhe o candidato há pelo menos um ano (ou que tenha acesso confiável ao prontuário da instituição). Pegadinha: o Anexo VIII da Resolução 927 (item 2.1) usa outra expressão para o mesmo momento, 'necessita de exames complementares ou especializados', e aceita questionário do médico assistente sem exigir especialidade. A questão cita a diretriz.",
+"base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, incisos II e III",
+"coment": "Pela diretriz de 2025 (item 6, II), quem declara na anamnese ou no questionário ter epilepsia ou usar medicamento antiepiléptico deve ser considerado INAPTO TEMPORÁRIO e trazer informações do médico assistente em relatório padronizado; o inciso III exige que esse relatório seja preenchido por neurologista ou neurocirurgião que acompanhe o candidato há pelo menos um ano (ou que tenha acesso confiável ao prontuário da instituição). Atualizado: o Anexo VIII da Resolução 927 (2022) ainda fala em 'necessita de exames complementares ou especializados' e em médico assistente sem especialidade; prevalece a diretriz, mais recente.",
 "porAlt": [
 "Apto com restrição exige restrição codificada no Anexo XV; aqui ainda não há dados para decidir a aptidão.",
 "Não há inaptidão definitiva nem JME nesse momento: o motivo é passível de esclarecimento pelo relatório.",
@@ -23663,26 +23663,26 @@ window.BANCO=[
 ]
 },
 {
-"q": "Candidato com epilepsia traz relatório favorável do clínico geral que o acompanha há 4 anos. Comparando o Anexo VIII da Resolução CONTRAN nº 927/2022 com a Diretriz ABRAMET 2025, como fica esse relatório?",
+"q": "Candidato com epilepsia traz relatório favorável do clínico geral que o acompanha há 4 anos em consultório particular. Pela Diretriz ABRAMET 2025, como o perito deve tratar esse relatório?",
 "alts": [
-"Atende às duas normas, pois ambas aceitam qualquer médico assistente que o acompanhe há um ano ou mais",
-"Atende ao Anexo VIII, que pede assistente há 1 ano; a diretriz exige neurologista ou neurocirurgião",
-"Não atende a nenhuma, pois as duas exigem neurologista que acompanhe o candidato há dois anos ou mais",
-"Atende à diretriz, que aceita qualquer especialidade; o Anexo VIII exige neurologista assistente",
-"Não atende ao Anexo VIII, que exige psiquiatra; a diretriz aceita o clínico que acompanha há um ano"
+"Serve, pois a diretriz aceita qualquer médico assistente que o acompanhe há um ano ou mais",
+"Não serve, pois a diretriz exige relatório de neurologista ou neurocirurgião que o acompanhe",
+"Serve, desde que o clínico o acompanhe há dois anos ou mais, prazo mínimo exigido na diretriz",
+"Não serve, pois a diretriz exige relatório conjunto de neurologista e de psiquiatra assistentes",
+"Serve só para a categoria B sem atividade remunerada; nas demais, exige-se o neurologista"
 ],
 "gab": 1,
 "tema": "vespera",
 "temaOrig": "neuro",
 "sub": "Epilepsia: quem preenche o relatório",
-"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 2.2; Diretriz ABRAMET — Epilepsia, 2025, item 6, III",
-"coment": "O Anexo VIII (item 2.2) diz apenas que o questionário deverá ser preenchido por 'médico assistente que acompanhe o candidato há, no mínimo, um ano', sem exigir especialidade. A diretriz ABRAMET de 2025 foi além: o relatório padronizado deve ser preenchido exclusivamente por neurologista ou neurocirurgião que acompanhe o candidato há pelo menos um ano, ou que tenha acesso confiável aos dados de acompanhamento quando o tratamento for institucional (SUS, convênio). Essa foi uma das mudanças declaradas da revisão de 2025, justificada pela maior confiabilidade do exame especializado. Clínico geral: serve ao anexo, não à diretriz.",
+"base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, III, e justificativa; Contextualização (mudanças da revisão)",
+"coment": "Item 6, III, da diretriz de 2025: para a avaliação será solicitado OBRIGATORIAMENTE relatório preenchido por médico neurologista ou neurocirurgião que acompanhe o candidato há, no mínimo, um ano, ou que tenha acesso confiável aos dados de acompanhamento quando o tratamento for feito em instituição (SUS, convênio). A exclusividade do especialista é uma das mudanças declaradas da revisão de 2025, justificada pela maior confiabilidade. Relatório de clínico geral de consultório não atende, por mais longo que seja o acompanhamento. Atualizado: o Anexo VIII da Resolução 927 (2022) ainda fala em 'médico assistente' sem especialidade; prevalece a diretriz, mais recente.",
 "porAlt": [
-"As normas divergem na especialidade: só o Anexo VIII aceita qualquer médico assistente.",
-"Correta: Anexo VIII = médico assistente há ≥ 1 ano; diretriz 2025 = neurologista ou neurocirurgião.",
-"Nenhuma das duas fala em dois anos; o tempo mínimo de acompanhamento é de um ano nas duas.",
-"É o inverso: a diretriz é que restringe a especialidade; o anexo não restringe.",
-"O Anexo VIII não menciona psiquiatra; e a diretriz não aceita o clínico geral."
+"A diretriz restringe o relatório a neurologista ou neurocirurgião; o tempo de um ano não basta sozinho.",
+"Correta: relatório obrigatoriamente de neurologista ou neurocirurgião que acompanhe há pelo menos 1 ano (item 6, III).",
+"O tempo mínimo é de um ano, e o problema aqui é a especialidade, não o tempo de acompanhamento.",
+"A diretriz pede neurologista OU neurocirurgião; não há relatório conjunto nem psiquiatra.",
+"A exigência do especialista vale para qualquer categoria e coluna da tabela."
 ]
 },
 {
@@ -23853,20 +23853,20 @@ window.BANCO=[
 "Apta, pois sem fármaco bastam 12 meses sem crise na categoria B sem atividade remunerada",
 "Inapta, pois quem suspendeu o fármaco só volta a dirigir quando a epilepsia estiver resolvida",
 "Apta com restrição U, pois a retirada recente do fármaco impõe vedar a direção após o pôr do sol",
-"Apta, pois após a retirada bastam 6 meses sem crise, como no grupo II do Anexo VIII da 927"
+"Apta, pois após a retirada completa do fármaco bastam 6 meses sem crise na categoria B"
 ],
 "gab": 0,
 "tema": "vespera",
 "temaOrig": "neuro",
 "sub": "Epilepsia sem fármaco: prazo",
-"base": "Diretriz ABRAMET — Epilepsia, 2025, item 3; Resolução CONTRAN nº 927/2022, Anexo VIII, item 2.5",
-"coment": "Item 3 da diretriz: pessoas com critérios diagnósticos de epilepsia que não fazem uso de fármaco anticrise (não introduzido ou suspenso) poderão ser aptas desde que não apresentem crises por período contínuo mínimo de 2 anos após a retirada completa da medicação, somente na categoria B sem atividade remunerada, e desde que não sejam portadoras de epilepsia generalizada idiopática. Com 20 meses, faltam 4. Comparação: no Anexo VIII (grupo II, em retirada) os requisitos são 2 anos sem crise + retirada com duração mínima de 6 meses + 6 meses sem crise após a retirada + não ser mioclônica juvenil; os 6 meses sozinhos não bastam em nenhuma das normas.",
+"base": "Diretriz ABRAMET — Epilepsia, 2025, item 3 e tabela-resumo",
+"coment": "Item 3 da diretriz: pessoas com critérios diagnósticos de epilepsia que não fazem uso de fármaco anticrise (não introduzido ou suspenso) poderão ser aptas desde que não apresentem crises por período contínuo mínimo de 2 anos após a retirada completa da medicação, somente na categoria B sem atividade remunerada, e desde que não sejam portadoras de epilepsia generalizada idiopática. Com 20 meses, faltam 4. Seis meses sem crise após a retirada não bastam: o prazo é contado em 2 anos contínuos.",
 "porAlt": [
 "Correta: 2 anos contínuos sem crise contados da retirada completa (item 3).",
 "12 meses é o prazo de quem USA fármaco (B sem EAR), não de quem o retirou.",
 "A diretriz libera a B sem EAR após 2 anos da retirada; não exige a resolvida.",
 "A restrição U pertence à crise exclusivamente no sono, não à retirada do fármaco.",
-"No Anexo VIII os 6 meses pós-retirada somam-se a 2 anos sem crise; não bastam sozinhos."
+"6 meses não é o prazo da linha 'sem fármaco': são 2 anos contínuos após a retirada completa."
 ]
 },
 {
@@ -23906,7 +23906,7 @@ window.BANCO=[
 "temaOrig": "neuro",
 "sub": "Modificação do fármaco: B com EAR",
 "base": "Diretriz ABRAMET — Epilepsia, 2025, item 6 e tabela-resumo",
-"coment": "Item 6 da diretriz ('qualquer das condições anteriores, no caso de modificação do fármaco anticrise'): pessoas em esquema de redução de dose OU de número de medicações poderão ser aptas se permanecerem sem crise, após a última modificação, por no mínimo 6 meses na categoria B sem atividade remunerada e 24 meses na categoria B com atividade remunerada; inaptas para as demais categorias. Com 14 meses, faltam 10. Atenção: na aula foi anotado '12 meses' para a B com EAR; a diretriz e a tabela dizem 24 meses. A regra vale tanto para redução de dose quanto para redução do número de medicações.",
+"coment": "Item 6 da diretriz ('qualquer das condições anteriores, no caso de modificação do fármaco anticrise'): pessoas em esquema de redução de dose OU de número de medicações poderão ser aptas se permanecerem sem crise, após a última modificação, por no mínimo 6 meses na categoria B sem atividade remunerada e 24 meses na categoria B com atividade remunerada; inaptas para as demais categorias. Com 14 meses, faltam 10. Não são 12 meses para a B com EAR: a diretriz e a tabela dizem 24 meses. A regra vale tanto para redução de dose quanto para redução do número de medicações.",
 "porAlt": [
 "12 meses não existe nessa linha: são 6 meses (B sem EAR) e 24 meses (B com EAR).",
 "6 meses é só da categoria B SEM atividade remunerada.",
@@ -23952,11 +23952,11 @@ window.BANCO=[
 "temaOrig": "neuro",
 "sub": "Intervalo livre de crises: 85% e 93%",
 "base": "Diretriz ABRAMET — Epilepsia, 2025, item 4 (Intervalo livre de crises epilépticas)",
-"coment": "Texto do item 4: pessoas com epilepsia que alcançam intervalo superior a 6 meses sem crises demonstram redução de até 85% no risco de sinistros relacionados a crises epilépticas; as que permanecem mais de 1 ano sem crises, redução de até 93% nesse risco. A diretriz conclui que o intervalo livre de crises é o preditor mais consistente do risco de sinistro. Na aula foi anotado '85% e 93% não recidivam': a diretriz fala em redução do RISCO DE SINISTRO, não em ausência de recidiva. Mesma seção: 12 meses sem crise preveniriam até 80% dos sinistros, 3 meses preveniriam 50%.",
+"coment": "Texto do item 4: pessoas com epilepsia que alcançam intervalo superior a 6 meses sem crises demonstram redução de até 85% no risco de sinistros relacionados a crises epilépticas; as que permanecem mais de 1 ano sem crises, redução de até 93% nesse risco. A diretriz conclui que o intervalo livre de crises é o preditor mais consistente do risco de sinistro. A diretriz fala em redução do RISCO DE SINISTRO, não em ausência de recidiva. Mesma seção: 12 meses sem crise preveniriam até 80% dos sinistros, 3 meses preveniriam 50%.",
 "porAlt": [
 "Correta: redução do risco de sinistros relacionados a crises (item 4).",
 "A diretriz não traz esses números para recorrência após retirada do fármaco.",
-"Não se referem a nunca mais ter crise: a anotação da aula confundiu com recidiva.",
+"Não se referem a nunca mais ter crise, e sim à redução do risco de sinistro.",
 "O parecer do assistente é requisito do relatório, sem percentual associado.",
 "A diretriz não relaciona 85% e 93% a mortalidade nem a atividade remunerada."
 ]
@@ -24010,7 +24010,7 @@ window.BANCO=[
 {
 "q": "No relatório padronizado do médico assistente proposto pela Diretriz ABRAMET 2025 de epilepsia, o número estimado de crises é pedido em quais períodos?",
 "alts": [
-"Nos últimos 6, 12, 18 e 24 meses, como no Anexo IX da 927",
+"Nos últimos 6, 12, 18 e 24 meses, sem períodos em anos",
 "Nos últimos 3, 6 e 12 meses e nos últimos 2 e 5 anos",
 "Nos últimos 12 e 24 meses e nos últimos 5, 10 e 20 anos",
 "Nos últimos 6 e 12 meses e desde a data do diagnóstico",
@@ -24019,11 +24019,11 @@ window.BANCO=[
 "gab": 4,
 "tema": "vespera",
 "temaOrig": "neuro",
-"sub": "Relatório da diretriz × Anexo IX",
-"base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, III, e Figura 6; Resolução CONTRAN nº 927/2022, Anexo IX",
-"coment": "O relatório padronizado da diretriz (Figura 6) pede: se há epilepsia pelos critérios da ILAE, se a crise é única, tipos de crise, número estimado de crises nos últimos 6, 12 e 24 meses e nos últimos 5 e 10 anos, se ocorrem exclusivamente no sono, síndrome, EEG e RM/TC, medicação, retirada, adesão (sim, não, irregular) e parecer favorável ou não, com assinatura do médico e ciência do paciente. Os períodos de 5 e 10 anos existem porque a tabela usa prazos de 5 anos e a epilepsia resolvida usa 10 anos. O Anexo IX da Resolução 927 pede 6, 12, 18 e 24 meses: é a pegadinha de trocar as duas fichas.",
+"sub": "Epilepsia: períodos do relatório padronizado",
+"base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, III, e Figura 6",
+"coment": "O relatório padronizado da diretriz (Figura 6) pede: se há epilepsia pelos critérios da ILAE, se a crise é única, tipos de crise, número estimado de crises nos últimos 6, 12 e 24 meses e nos últimos 5 e 10 anos, se ocorrem exclusivamente no sono, síndrome, EEG e RM/TC, medicação, retirada, adesão (sim, não, irregular) e parecer favorável ou não, com assinatura do médico e ciência do paciente. Os períodos de 5 e 10 anos existem porque a tabela usa prazos de 5 anos e a epilepsia resolvida usa 10 anos. Atualizado: o Anexo IX da Resolução 927 (2022) ainda traz ficha com 6, 12, 18 e 24 meses; vale a da diretriz, mais recente.",
 "porAlt": [
-"6, 12, 18 e 24 meses é o que pede o Anexo IX da Resolução 927, não a diretriz.",
+"6, 12, 18 e 24 meses é a ficha antiga do Anexo IX da 927; a diretriz 2025 inclui 5 e 10 anos.",
 "A diretriz não pede 3 meses nem 2 anos no relatório.",
 "Não há campo de 20 anos; o maior período é 10 anos.",
 "A ficha tem períodos fixos, incluindo 24 meses e 5 e 10 anos.",
@@ -24031,48 +24031,25 @@ window.BANCO=[
 ]
 },
 {
-"q": "Qual das situações abaixo tem critério próprio na Diretriz ABRAMET 2025 de epilepsia, mas NÃO é tratada no Anexo VIII da Resolução CONTRAN nº 927/2022?",
+"q": "Candidato com epilepsia traz o relatório padronizado, mas o neurologista assistente dá parecer desfavorável à direção. Pela Diretriz ABRAMET 2025, qual deve ser o resultado do exame?",
 "alts": [
-"O candidato em uso de fármaco anticrise, sem crises há pelo menos um ano",
-"A crise única não provocada sem critérios diagnósticos para epilepsia",
-"O candidato em esquema de retirada da medicação antiepiléptica em curso",
-"A exigência de parecer favorável do médico assistente para a aprovação",
-"A exigência de relatório de médico que acompanhe há pelo menos um ano"
-],
-"gab": 1,
-"tema": "vespera",
-"temaOrig": "neuro",
-"sub": "Anexo VIII × diretriz: lacunas",
-"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 2; Diretriz ABRAMET — Epilepsia, 2025, itens 1 a 6",
-"coment": "O Anexo VIII só divide os candidatos em dois grupos: grupo I (em uso de medicação: 1 ano sem crise, parecer favorável, aderência plena) e grupo II (em retirada: não ser mioclônica juvenil, 2 anos sem crise, retirada de pelo menos 6 meses, 6 meses sem crise após a retirada, parecer favorável). Relatório de assistente há 1 ano (item 2.2) e parecer favorável (itens 2.4.2 e 2.5.5) estão nas duas normas. A diretriz de 2025 acrescentou situações que o anexo não trata: crise única não provocada sem critérios (12 meses / 24 meses / 5 anos), crises exclusivamente no sono, modificação do fármaco, epilepsia resolvida e a coluna da atividade remunerada.",
-"porAlt": [
-"O uso de medicação é o grupo I do Anexo VIII (item 2.4).",
-"Correta: a crise única sem critérios só aparece na diretriz de 2025 (item 1).",
-"A retirada da medicação é o grupo II do Anexo VIII (item 2.5).",
-"O parecer favorável é exigido nos itens 2.4.2 e 2.5.5 do Anexo VIII.",
-"O Anexo VIII também exige assistente que acompanhe há um ano (item 2.2)."
-]
-},
-{
-"q": "Pelo Anexo VIII da Resolução CONTRAN nº 927/2022 (item 2.6), qual é o resultado quando o parecer do médico assistente do candidato com epilepsia é desfavorável?",
-"alts": [
-"Inapto temporariamente, sempre, por seis meses fixos",
+"Inapto temporariamente ou inapto, a critério do perito",
 "Inapto definitivo, sem possibilidade de novo exame",
-"Inapto temporariamente ou inapto, dependendo do caso",
+"Inapto temporário, sem a opção de inapto definitivo",
 "Necessita de exames complementares ou especializados",
 "Apto só na categoria B, com o prazo de validade menor"
 ],
 "gab": 2,
 "tema": "vespera",
 "temaOrig": "neuro",
-"sub": "Parecer desfavorável: Anexo VIII",
-"base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 2.6; Diretriz ABRAMET — Epilepsia, 2025, item 7",
-"coment": "Item 2.6 do Anexo VIII: 'Quando o parecer do médico assistente for desfavorável, o resultado do exame deverá ser inapto temporariamente ou inapto, dependendo do caso'. A norma deixa a escolha ao perito. A diretriz ABRAMET de 2025 (item 7) é mais fechada: parecer desfavorável leva a INAPTO TEMPORÁRIO; parecer favorável leva à aptidão somente se as normativas da diretriz estiverem contempladas. 'Necessita de exames complementares ou especializados' é o PRIMEIRO resultado do Anexo VIII (item 2.1), dado quando o candidato declara a doença, antes do relatório. Saber qual norma a questão cita decide a resposta.",
+"sub": "Epilepsia: parecer desfavorável",
+"base": "Diretriz ABRAMET — Epilepsia, 2025, item 7",
+"coment": "Item 7 da diretriz de 2025 (adesão ao tratamento e parecer favorável do médico assistente): o perito deve sempre observar no relatório padronizado se o candidato é plenamente aderente e se o assistente é favorável à direção. Parecer DESFAVORÁVEL: o resultado deverá ser INAPTO TEMPORÁRIO. Parecer favorável: aptidão somente se as normativas da diretriz forem devidamente contempladas. Atualizado: o Anexo VIII da Resolução 927 (2022, item 2.6) ainda diz 'inapto temporariamente ou inapto, dependendo do caso'; prevalece a diretriz, mais recente.",
 "porAlt": [
-"O anexo não fixa prazo nem obriga sempre a inaptidão temporária.",
-"O anexo admite também a inaptidão temporária, a critério do caso.",
-"Correta: é o texto literal do item 2.6 do Anexo VIII.",
-"Esse é o primeiro resultado do item 2.1, antes de chegar o relatório.",
+"Essa redação dupla é a do Anexo VIII da 927; a diretriz 2025 fixa inapto temporário.",
+"A diretriz não prevê inaptidão definitiva pelo parecer desfavorável.",
+"Correta: parecer desfavorável = inapto temporário (item 7).",
+"Essa expressão não é da diretriz; ao declarar epilepsia o candidato já é inapto temporário.",
 "Com parecer desfavorável não há aprovação em nenhuma categoria."
 ]
 },
@@ -24113,7 +24090,7 @@ window.BANCO=[
 "temaOrig": "sistemicas",
 "sub": "Glicemia antes de dirigir",
 "base": "Diretriz ABRAMET — Diabetes Mellitus e Risco na Direção Veicular (2004), itens 5 e 6.1 e fluxograma",
-"coment": "A diretriz orienta o motorista profissional a realizar glicemia capilar 1 hora antes de dirigir e, aproximadamente, 4 horas após direção contínua, 'não iniciando ou interrompendo a direção quando a glicemia estiver abaixo de 70 mg/dl'. Com 64 mg/dl ele não deve sair. Hipoglicemia GRAVE, na diretriz, é a que produz perda de consciência e exige assistência de outra pessoa; é ela, nos últimos 12 meses, que leva a inapto temporário. Não há dever de comunicar o Detran. Na aula foi anotado 'a cada 4 h': o texto diz aproximadamente 4 horas após direção contínua.",
+"coment": "A diretriz orienta o motorista profissional a realizar glicemia capilar 1 hora antes de dirigir e, aproximadamente, 4 horas após direção contínua, 'não iniciando ou interrompendo a direção quando a glicemia estiver abaixo de 70 mg/dl'. Com 64 mg/dl ele não deve sair. Hipoglicemia GRAVE, na diretriz, é a que produz perda de consciência e exige assistência de outra pessoa; é ela, nos últimos 12 meses, que leva a inapto temporário. Não há dever de comunicar o Detran. A segunda medida é aproximadamente 4 horas após direção contínua, não 'a cada 4 h'.",
 "porAlt": [
 "O corte da diretriz é 70 mg/dl, não 60.",
 "50 mg/dl é corte do RBAC 67 (aviação), não da diretriz de trânsito.",
@@ -24366,7 +24343,7 @@ window.BANCO=[
 "temaOrig": "grupos",
 "sub": "Idoso: fragilidade autorreferida",
 "base": "Diretriz ABRAMET — O Condutor Idoso (2022), itens 7.2.1 e 9",
-"coment": "O instrumento de fragilidade autorreferida tem 5 componentes (perda de peso involuntária, fadiga, baixa atividade física, redução de força, redução da velocidade de marcha) e classifica: não frágil (zero), pré-frágil (1 a 2), frágil (3 ou mais). A diretriz o apresenta como instrumento de RASTREAMENTO, simples, rápido e de baixo custo. Na aula foi anotado '≥ 3 = inapto'; a diretriz não transforma a classificação em inaptidão automática: premissa dela é que a idade e um teste isolado não decidem, e que o idoso mantém a CNH enquanto puder dirigir com segurança. O resultado orienta a avaliação funcional (TUG, cognição, visão, locomotor).",
+"coment": "O instrumento de fragilidade autorreferida tem 5 componentes (perda de peso involuntária, fadiga, baixa atividade física, redução de força, redução da velocidade de marcha) e classifica: não frágil (zero), pré-frágil (1 a 2), frágil (3 ou mais). A diretriz o apresenta como instrumento de RASTREAMENTO, simples, rápido e de baixo custo. A diretriz não transforma a classificação em inaptidão automática: premissa dela é que a idade e um teste isolado não decidem, e que o idoso mantém a CNH enquanto puder dirigir com segurança. O resultado orienta a avaliação funcional (TUG, cognição, visão, locomotor).",
 "porAlt": [
 "Três componentes já classificam como frágil; pré-frágil é 1 a 2.",
 "Correta: 3 ou mais componentes = frágil, em instrumento de rastreamento.",
@@ -24412,7 +24389,7 @@ window.BANCO=[
 "temaOrig": "grupos",
 "sub": "Idoso: TUG pelo quadro do NICE",
 "base": "Diretriz ABRAMET — O Condutor Idoso (2022), item 9 (quadro do NICE)",
-"coment": "O quadro do NICE na diretriz tem quatro faixas: até 10 s, normal para adultos saudáveis, risco baixo; 11 a 20 s, normal para idosos frágeis que se mantêm independentes na maioria das atividades da vida diária, risco baixo; 21 a 29 s, avaliação funcional obrigatória e abordagem específica de prevenção de quedas, risco MODERADO; 30 s ou mais, a mesma conduta, risco ALTO. O texto da diretriz resume em três cortes (≤ 10 normal, 11–20 frágil, > 20 anormal). Em nenhum ponto o TUG sozinho gera inaptidão: a diretriz diz que marcha lenta com TUG longo 'pode ser um indicativo' de limitação. Na aula foi anotado '> 20 s → inapto'.",
+"coment": "O quadro do NICE na diretriz tem quatro faixas: até 10 s, normal para adultos saudáveis, risco baixo; 11 a 20 s, normal para idosos frágeis que se mantêm independentes na maioria das atividades da vida diária, risco baixo; 21 a 29 s, avaliação funcional obrigatória e abordagem específica de prevenção de quedas, risco MODERADO; 30 s ou mais, a mesma conduta, risco ALTO. O texto da diretriz resume em três cortes (≤ 10 normal, 11–20 frágil, > 20 anormal). Em nenhum ponto o TUG sozinho gera inaptidão: a diretriz diz que marcha lenta com TUG longo 'pode ser um indicativo' de limitação.",
 "porAlt": [
 "Correta: 21 a 29 s = risco moderado, com avaliação funcional obrigatória.",
 "11 a 20 s é a faixa do idoso frágil independente; 25 s está acima.",
@@ -24435,7 +24412,7 @@ window.BANCO=[
 "temaOrig": "grupos",
 "sub": "Idoso: morte súbita ao volante",
 "base": "Diretriz ABRAMET — O Condutor Idoso (2022), item 5.4 (Doenças crônicas)",
-"coment": "Item 5.4 da diretriz: doenças crônicas com possibilidade de contribuir para sinistros têm maior incidência nos idosos, afetando o nível de consciência (diabetes mellitus, doença cardiovascular e demências) e/ou o controle dos movimentos (AVC, doença de Parkinson e doenças articulares graves degenerativas). 'O risco maior de morte súbita na direção de veículos acomete o sexo masculino, com idade superior aos 60 anos, portadores de doença arterial coronariana (DAC)'. Essas condições devem ser bem avaliadas, e o perito deve determinar inaptidão temporária quando houver evidência de comprometimento da direção segura. É o ponto de apoio do ★ 'cardiopatias' da aula.",
+"coment": "Item 5.4 da diretriz: doenças crônicas com possibilidade de contribuir para sinistros têm maior incidência nos idosos, afetando o nível de consciência (diabetes mellitus, doença cardiovascular e demências) e/ou o controle dos movimentos (AVC, doença de Parkinson e doenças articulares graves degenerativas). 'O risco maior de morte súbita na direção de veículos acomete o sexo masculino, com idade superior aos 60 anos, portadores de doença arterial coronariana (DAC)'. Essas condições devem ser bem avaliadas, e o perito deve determinar inaptidão temporária quando houver evidência de comprometimento da direção segura.",
 "porAlt": [
 "A diretriz não aponta FA nem o sexo feminino como perfil de maior risco.",
 "Parkinson está entre as doenças do controle dos movimentos, não de morte súbita.",
@@ -24458,7 +24435,7 @@ window.BANCO=[
 "temaOrig": "grupos",
 "sub": "Idoso: doenças crônicas",
 "base": "Diretriz ABRAMET — O Condutor Idoso (2022), item 5.4 (Doenças crônicas)",
-"coment": "A diretriz divide as doenças crônicas do idoso que podem gerar sinistros em dois grupos: as que afetam o NÍVEL DE CONSCIÊNCIA (diabetes mellitus, doença cardiovascular e demências) e as que afetam o CONTROLE DOS MOVIMENTOS (acidente vascular cerebral, doença de Parkinson e doenças articulares degenerativas). A lista da aula ('1 cardiopatias, 2 crises convulsivas, 3 transtornos mentais, 4 demências, 5 hipoglicemia') não aparece como ranking na diretriz do idoso; o que está no texto é esse agrupamento e o perfil de maior risco de morte súbita (homem > 60 anos com doença arterial coronariana).",
+"coment": "A diretriz divide as doenças crônicas do idoso que podem gerar sinistros em dois grupos: as que afetam o NÍVEL DE CONSCIÊNCIA (diabetes mellitus, doença cardiovascular e demências) e as que afetam o CONTROLE DOS MOVIMENTOS (acidente vascular cerebral, doença de Parkinson e doenças articulares degenerativas). A diretriz não traz ranking dessas doenças; o que está no texto é esse agrupamento e o perfil de maior risco de morte súbita (homem > 60 anos com doença arterial coronariana).",
 "porAlt": [
 "Esse é o grupo das doenças que afetam o controle dos movimentos.",
 "Doenças oculares entram na avaliação oftalmológica, não nesse agrupamento.",
@@ -24596,7 +24573,7 @@ window.BANCO=[
 "temaOrig": "psiq",
 "sub": "TDAH: prazo com comorbidade",
 "base": "Diretriz ABRAMET — TDAH e Condução de Veículos Automotores (2023), item 15 (fluxograma)",
-"coment": "O fluxograma (item 15) tem duas caixas de prazo para o apto: condutores ACC, A e B: 2 anos na 1ª aprovação e igual ou menor que 5 anos a cada renovação; condutores ACC, A e B COM COMORBIDADES PERTINENTES AO TDAH e condutores C, D e E: 2 anos na 1ª aprovação e 3 anos a cada renovação. Na aula foi anotado 'C, D, E: ≤ 3 anos nas renovações' e não se anotou o grupo com comorbidade: o fluxograma escreve '3 anos a cada renovação' e põe ACC/A/B com comorbidade na mesma caixa de C, D e E. Inapto: sem medicação, sem aderência, parecer desfavorável ou ocorrência grave de trânsito nos últimos 12 meses.",
+"coment": "O fluxograma (item 15) tem duas caixas de prazo para o apto: condutores ACC, A e B: 2 anos na 1ª aprovação e igual ou menor que 5 anos a cada renovação; condutores ACC, A e B COM COMORBIDADES PERTINENTES AO TDAH e condutores C, D e E: 2 anos na 1ª aprovação e 3 anos a cada renovação. Pegadinha: esquecer o grupo com comorbidade; o fluxograma escreve '3 anos a cada renovação' e põe ACC/A/B com comorbidade na mesma caixa de C, D e E. Inapto: sem medicação, sem aderência, parecer desfavorável ou ocorrência grave de trânsito nos últimos 12 meses.",
 "porAlt": [
 "Até 5 anos é só para ACC, A e B SEM comorbidade pertinente.",
 "2 anos é o prazo da 1ª aprovação, não das renovações.",
@@ -24734,7 +24711,7 @@ window.BANCO=[
 "temaOrig": "neuro",
 "sub": "Esclerose múltipla: sigla PEM",
 "base": "Diretriz ABRAMET — Avaliação de Candidatos e Condutores com Esclerose Múltipla, Objetivo e item 8",
-"coment": "No objetivo da diretriz: 'estabelecer procedimentos a serem adotados na avaliação de Pessoas com Esclerose Múltipla (PEM) por ocasião do Exame de Aptidão Física e Mental'. Ao candidato que informar ser PEM, ou quando o perito constatar evidência, deverão ser solicitados: teste de triagem validado para a avaliação cognitiva de PEM (Tabela 1: SDMT como padrão-ouro, testes de memória, PST, CSCT, MSNQ, BICAMS, MACFIMS) e relatório padronizado ao neurologista com o score EDSS. MEEM e Mini-Cog não são suficientemente sensíveis nem específicos para os domínios afetados pela EM. Na aula ficou a dúvida se 'PEM' seria 'parecer'; não é.",
+"coment": "No objetivo da diretriz: 'estabelecer procedimentos a serem adotados na avaliação de Pessoas com Esclerose Múltipla (PEM) por ocasião do Exame de Aptidão Física e Mental'. Ao candidato que informar ser PEM, ou quando o perito constatar evidência, deverão ser solicitados: teste de triagem validado para a avaliação cognitiva de PEM (Tabela 1: SDMT como padrão-ouro, testes de memória, PST, CSCT, MSNQ, BICAMS, MACFIMS) e relatório padronizado ao neurologista com o score EDSS. MEEM e Mini-Cog não são suficientemente sensíveis nem específicos para os domínios afetados pela EM. PEM não significa 'parecer'.",
 "porAlt": [
 "Correta: PEM = Pessoas com Esclerose Múltipla (objetivo da diretriz).",
 "A diretriz não usa potencial evocado; PEM é a população avaliada.",
@@ -24757,7 +24734,7 @@ window.BANCO=[
 "temaOrig": "neuro",
 "sub": "Esclerose múltipla: EDSS 7,0",
 "base": "Diretriz ABRAMET — Avaliação de Candidatos e Condutores com Esclerose Múltipla, item 8, recomendações 1 a 3",
-"coment": "Recomendações do item 8: (1) apto, somente categoria B, validade igual ou inferior a 2 anos: triagem cognitiva normal e EDSS INFERIOR a 3,5; (2) encaminhar à Junta Médica Especial (NBR 14.970 e protocolos ABRAMET): triagem normal e EDSS IGUAL OU SUPERIOR a 3,5 e INFERIOR a 7,0; (3) inapto: triagem positiva e/ou EDSS IGUAL OU SUPERIOR a 7,0. O 7,0 exato cai na linha 3. Na EDSS, 7 corresponde ao uso de cadeira de rodas. Na aula foi anotado 'inapto se EDSS > 7'; o texto é '≥ 7,0'. O 'e/ou' também significa que a triagem positiva sozinha já reprova.",
+"coment": "Recomendações do item 8: (1) apto, somente categoria B, validade igual ou inferior a 2 anos: triagem cognitiva normal e EDSS INFERIOR a 3,5; (2) encaminhar à Junta Médica Especial (NBR 14.970 e protocolos ABRAMET): triagem normal e EDSS IGUAL OU SUPERIOR a 3,5 e INFERIOR a 7,0; (3) inapto: triagem positiva e/ou EDSS IGUAL OU SUPERIOR a 7,0. O 7,0 exato cai na linha 3. Na EDSS, 7 corresponde ao uso de cadeira de rodas. O texto é '≥ 7,0', não '> 7'. O 'e/ou' também significa que a triagem positiva sozinha já reprova.",
 "porAlt": [
 "A faixa da JME é ≥ 3,5 e < 7,0; o 7,0 já é inapto.",
 "Apto na B é só com EDSS < 3,5 e triagem normal.",
@@ -24803,7 +24780,7 @@ window.BANCO=[
 "temaOrig": "neuro",
 "sub": "Box 'somente categoria B'",
 "base": "Diretriz ABRAMET — TDAH e Condução de Veículos Automotores (2023), item 15; Diretriz ABRAMET — Esquizofrenia e Direção Veicular (2021), item 3; Diretriz ABRAMET — Avaliação de Candidatos e Condutores com Esclerose Múltipla, item 8; Diretriz ABRAMET — Preditores Clínicos de Aptidão para Dirigir na Doença de Parkinson, recomendação 3; Diretriz ABRAMET — Epilepsia, 2025, item 2",
-"coment": "O box da aula ('somente categoria B: esquizofrenia, esclerose múltipla, Parkinson') confere com as diretrizes, e está incompleto: epilepsia em uso de fármaco também é só B (12 meses sem EAR, 5 anos com EAR; inapto nas demais), e a única saída é a epilepsia 'resolvida'. Esquizofrenia: aptidão somente para a categoria B. EM: apto somente categoria B com EDSS < 3,5 (e a Tabela 2 de adaptações só prevê a B). Parkinson: estágio inicial e HY 1, apto somente categoria B. Já o TDAH medicado, aderente e com parecer favorável é apto de ACC a E pelo fluxograma, como o TEA sem as condições de inaptidão, o diabético insulinizado controlado e o dialítico compensado.",
+"coment": "Ficam somente na categoria B: esquizofrenia, esclerose múltipla, Parkinson e também a epilepsia em uso de fármaco (12 meses sem EAR, 5 anos com EAR; inapto nas demais), e a única saída é a epilepsia 'resolvida'. Esquizofrenia: aptidão somente para a categoria B. EM: apto somente categoria B com EDSS < 3,5 (e a Tabela 2 de adaptações só prevê a B). Parkinson: estágio inicial e HY 1, apto somente categoria B. Já o TDAH medicado, aderente e com parecer favorável é apto de ACC a E pelo fluxograma, como o TEA sem as condições de inaptidão, o diabético insulinizado controlado e o dialítico compensado.",
 "porAlt": [
 "Correta: o fluxograma do TDAH dá 'APTO {ACC} {A}, {B} {C}, {D}, {E}'.",
 "Esquizofrenia: 'aptidão somente para a categoria B'.",
@@ -24879,7 +24856,7 @@ window.BANCO=[
 ]
 },
 {
-"q": "Segundo a Diretriz ABRAMET 'Segurança no transporte veicular de crianças — Parte II', qual dispositivo de retenção é indicado para criança de 2 anos e 14 kg, e como deve ser instalado?",
+"q": "Pela Resolução CONTRAN nº 819/2021, qual dispositivo de retenção é indicado para criança de 2 anos e 14 kg, e como deve ser instalado?",
 "alts": [
 "Assento infantil tipo concha, instalado no sentido inverso ao da posição normal do banco do veículo",
 "Assento de elevação do tipo booster, ajustado ao banco traseiro e fixado com o cinto de três pontos",
@@ -24890,36 +24867,36 @@ window.BANCO=[
 "gab": 4,
 "tema": "protecao",
 "sub": "Seleção do dispositivo de retenção",
-"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3.",
-"coment": "A tabela 3 da diretriz organiza os dispositivos por massa, idade e estatura. Assento infantil (grupo de massa 0): até 9 kg e até 12 meses, instalado no sentido INVERSO ao da posição normal do banco, mantida a posição central do banco traseiro sempre que possível. Assento conversível (grupos 0 e 0+): até 13 kg e até 12 meses, acomodando crianças de peso maior que ainda não completaram 1 ano, com a face voltada para trás. Cadeirinha de segurança (grupos 0+ e I): de 9 kg a 18 kg, de 1 a 4 anos, instalada na posição VERTICAL DE FRENTE PARA O PAINEL, mantida a posição central do banco traseiro sempre que possível. Assento de elevação ou booster (grupos II e III): de 18 kg a 36 kg, de 4 a 10 anos, fixado com cinto de três pontos. Cinto do veículo: acima de 36 kg, mínimo de 1,45 m e a partir dos 10 anos. Com 2 anos e 14 kg, a criança está na faixa da cadeirinha.",
+"base": "Resolução CONTRAN nº 819/2021, Anexo, item II; instalação conforme a diretriz ABRAMET de transporte de crianças.",
+"coment": "Pelo Anexo da Resolução CONTRAN nº 819/2021 (critérios alternativos, idade OU peso): bebê conforto ou conversível para crianças até 1 ano ou até 13 kg; CADEIRINHA para idade superior a 1 ano e até 4 anos, ou peso entre 9 e 18 kg; assento de elevação acima de 4 até 7,5 anos, ou até 1,45 m com 15–36 kg; cinto do veículo acima de 7,5 anos (até 10) ou acima de 1,45 m. Com 2 anos e 14 kg, a criança está na faixa da cadeirinha, que é instalada na posição vertical, de frente para o painel, preferencialmente no centro do banco traseiro (crianças com menos de 10 anos que não atingiram 1,45 m vão no banco traseiro, art. 2º).",
 "porAlt": [
-"O assento infantil tipo concha destina-se a crianças de até 9 kg e até doze meses de idade.",
-"O assento de elevação começa aos 18 kg e a partir dos 4 anos, faixa acima da criança do enunciado.",
-"O cinto do veículo isolado só é indicado acima de 36 kg, com 1,45 m e a partir dos dez anos.",
-"O assento conversível voltado para trás atende crianças de até 13 kg que ainda não completaram um ano.",
-"Correta: 14 kg e 2 anos correspondem à cadeirinha, voltada para o painel, no banco traseiro."
+"O bebê conforto é para crianças até 1 ano ou até 13 kg, instalado de costas para o painel.",
+"O assento de elevação vale acima de 4 anos (até 7,5) ou até 1,45 m com 15 a 36 kg.",
+"O cinto do veículo isolado só vale acima de 7,5 anos ou com altura superior a 1,45 m.",
+"O conversível voltado para trás atende a faixa do bebê conforto: até 1 ano ou até 13 kg.",
+"Correta: 2 anos e 14 kg estão na faixa da cadeirinha, de frente para o painel, no banco traseiro."
 ]
 },
 {
-"q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, a partir de que parâmetros a criança pode usar apenas o cinto de segurança do veículo, sem dispositivo de retenção específico?",
+"q": "Pela Resolução CONTRAN nº 819/2021, que substituiu as faixas antigas da diretriz de transporte de crianças, em que condição a criança passa a usar apenas o cinto de segurança do próprio veículo?",
 "alts": [
-"Mais de 18 kg, estatura mínima de 1,20 m e idade a partir dos 7 anos, conforme a tabela da diretriz",
-"Mais de 25 kg, estatura mínima de 1,30 m e idade a partir dos 8 anos, conforme a tabela da diretriz",
-"Mais de 40 kg, estatura mínima de 1,50 m e idade a partir dos 12 anos, conforme a tabela da diretriz",
-"Mais de 30 kg, estatura mínima de 1,35 m e idade a partir dos 9 anos, conforme a tabela da diretriz",
-"Mais de 36 kg, estatura mínima de 1,45 m e idade a partir dos 10 anos, conforme a tabela da diretriz"
+"Quando tiver mais de 18 kg e 1,20 m, qualquer que seja a idade, no banco traseiro",
+"Somente quando completar 12 anos de idade e 40 kg, independentemente da altura alcançada",
+"Quando tiver mais de 36 kg, 1,45 m e 10 anos completos, os três critérios simultaneamente",
+"Quando completar 4 anos de idade, passando direto da cadeirinha para o cinto do veículo",
+"Quando tiver mais de 7,5 anos (até 10 anos) ou quando a altura for superior a 1,45 m"
 ],
 "gab": 4,
 "tema": "protecao",
-"sub": "Transição para o cinto do veículo",
-"base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3.",
-"coment": "A tabela estabelece que o cinto de segurança do próprio veículo passa a ser suficiente acima de 36 kg, com estatura mínima de 1,45 m e a partir dos 10 anos de idade. A diretriz explica também o posicionamento correto: a faixa transversal deve passar sobre o ombro e diagonalmente pelo tórax, e a faixa subabdominal deve ficar apoiada nas saliências ósseas do quadril ou sobre a porção superior das coxas. Esse detalhe é a razão biomecânica da estatura mínima — em criança baixa demais, a faixa diagonal cruza o pescoço e a subabdominal sobe para o abdome, produzindo, na desaceleração, lesões de vísceras ocas e da coluna lombar (a chamada síndrome do cinto de segurança). O assento de elevação existe exatamente para reposicionar a criança até que ela alcance essa estatura.",
+"sub": "Transição para o cinto do veículo (Res. 819/2021)",
+"base": "Resolução CONTRAN nº 819/2021, Anexo, item IV (e art. 2º).",
+"coment": "O Anexo da Resolução CONTRAN nº 819/2021 define o cinto de segurança do próprio veículo para crianças com idade superior a sete anos e meio e inferior ou igual a dez anos, OU com altura superior a 1,45 m — os critérios são ALTERNATIVOS, como em todos os degraus da resolução (bebê conforto até 1 ano ou 13 kg; cadeirinha acima de 1 até 4 anos ou 9–18 kg; assento de elevação acima de 4 até 7,5 anos, ou até 1,45 m com 15–36 kg). Até os 10 anos, a criança que não atingiu 1,45 m continua no banco traseiro (art. 2º). A exigência cumulativa de 36 kg, 1,45 m e 10 anos vinha da diretriz ABRAMET de 2006 e foi superada pela resolução vigente.",
 "porAlt": [
-"Os 18 kg marcam o início da faixa do assento de elevação, e não a dispensa do dispositivo.",
-"Esses parâmetros não constam da tabela e ficariam aquém da estatura necessária ao cinto do veículo.",
-"Os parâmetros estão acima dos exigidos pela tabela, que fixa 36 kg, 1,45 m e dez anos de idade.",
-"Esses parâmetros não correspondem aos da tabela, que exige estatura mínima de um metro e quarenta e cinco.",
-"Correta: acima de 36 kg, com 1,45 m e a partir dos dez anos, o cinto do veículo já é suficiente."
+"A resolução não usa 18 kg e 1,20 m como limiar do cinto: essa faixa é do assento de elevação.",
+"A resolução não exige 12 anos nem 40 kg; o cinto já vale acima de 7,5 anos ou de 1,45 m.",
+"Os três critérios simultâneos eram da diretriz de 2006; na 819 os critérios são alternativos.",
+"Aos 4 anos a criança passa ao assento de elevação, e não diretamente ao cinto do veículo.",
+"Correta: acima de 7,5 anos (até 10) ou altura superior a 1,45 m, conforme o Anexo da 819/2021."
 ]
 },
 {
@@ -25156,7 +25133,7 @@ window.BANCO=[
 "temaOrig": "epidemiologia",
 "sub": "Ranking de óbitos por tipo de vítima",
 "base": "Diretriz ABRAMET — Bicicletas (elaboração final 18/01/2022), item 1.3, gráficos “Distribuição de óbitos/internações segundo tipo de envolvimento — Brasil, 2020”, gráfico de óbitos.",
-"coment": "No item de epidemiologia, a diretriz ABRAMET sobre bicicletas reproduz dois gráficos de pizza do Brasil em 2020. No de ÓBITOS, as fatias são: motociclista 27,2%, ocupante de automóvel 22,7%, pedestre 20,4%, ciclista 3,5%, transporte pesado 1,9% e ônibus 0,5%; há ainda 23,8% de transporte terrestre sem tipo de vítima identificado. Excluídos os não identificados, a ordem é motociclista > automóvel > pedestre > ciclista > transporte pesado > ônibus. É exatamente o ranking que o professor marcou com estrela no aulão. A pegadinha clássica é trocar pela ordem das internações, em que o pedestre passa para 2º lugar e o ocupante de automóvel cai para 3º.",
+"coment": "No item de epidemiologia, a diretriz ABRAMET sobre bicicletas reproduz dois gráficos de pizza do Brasil em 2020. No de ÓBITOS, as fatias são: motociclista 27,2%, ocupante de automóvel 22,7%, pedestre 20,4%, ciclista 3,5%, transporte pesado 1,9% e ônibus 0,5%; há ainda 23,8% de transporte terrestre sem tipo de vítima identificado. Excluídos os não identificados, a ordem é motociclista > automóvel > pedestre > ciclista > transporte pesado > ônibus. A pegadinha clássica é trocar pela ordem das internações, em que o pedestre passa para 2º lugar e o ocupante de automóvel cai para 3º.",
 "porAlt": [
 "O pedestre é o 3º nos óbitos (20,4%); ele só sobe para 2º no gráfico das internações.",
 "Correta: motociclista 27,2%, automóvel 22,7%, pedestre 20,4%, ciclista 3,5%, transporte pesado 1,9% (e ônibus 0,5%).",
@@ -25248,9 +25225,9 @@ window.BANCO=[
 "temaOrig": "epidemiologia",
 "sub": "Posição por faixa etária (dados atuais)",
 "base": "Diretriz ABRAMET — Tolerância humana a impactos: implicações para a segurança viária (25/11/2025), item 1, citando o Relatório Global sobre Segurança Viária 2023 da OMS.",
-"coment": "A introdução da diretriz de tolerância humana a impactos (2025) resume o Relatório Global 2023 da OMS: os sinistros de trânsito são a principal causa de morte entre 5 e 29 anos, a terceira entre 30 e 44 anos e figuram entre as 12 principais causas em todas as idades. O Plano Global 2021–2030 repete que são a principal causa de morte de 5 a 29 anos. Na aula a anotação ficou '1º 15–29, 2º 5–14, 3º 30–44'; isso mistura a série antiga (Relatório Mundial 2004, dados de 2002: segunda causa de 5 a 14 e de 15 a 29, terceira de 30 a 44) com a atual. Na prova, a formulação vigente é 'principal causa de 5 a 29 anos'.",
+"coment": "A introdução da diretriz de tolerância humana a impactos (2025) resume o Relatório Global 2023 da OMS: os sinistros de trânsito são a principal causa de morte entre 5 e 29 anos, a terceira entre 30 e 44 anos e figuram entre as 12 principais causas em todas as idades. O Plano Global 2021–2030 repete que são a principal causa de morte de 5 a 29 anos. É a formulação vigente para a prova: 'principal causa de 5 a 29 anos'. Atualizado: com dados de 2002 (Relatório Mundial 2004), o trânsito era a segunda causa de 5 a 14 e de 15 a 29 anos.",
 "porAlt": [
-"A faixa de 15 a 44 anos aparece no relatório de 2004 como a que concentra mais da metade das mortes, não como 'principal causa'.",
+"A faixa em que o trânsito é a principal causa é a de 5 a 29 anos, que já inclui as crianças de 5 a 14.",
 "Inverte as posições: é a principal causa de 5 a 29 e a terceira de 30 a 44.",
 "Correta: principal causa de morte de 5 a 29 anos, terceira de 30 a 44 e entre as 12 principais em todas as idades.",
 "A faixa em que o trânsito é a principal causa é a de 5 a 29 anos inteira, não só a de 5 a 14.",
@@ -25271,7 +25248,7 @@ window.BANCO=[
 "temaOrig": "epidemiologia",
 "sub": "Projeção do Plano Global 2021–2030",
 "base": "Plano Global — Década de Ação pela Segurança no Trânsito 2021–2030 (OMS e Comissões Regionais da ONU), Introdução.",
-"coment": "A introdução do Plano Global diz que os sinistros causam quase 1,3 milhão de mortes evitáveis e cerca de 50 milhões de feridos por ano, sendo a principal causa de morte de crianças e jovens, e que, mantido o 'business as usual', causarão mais cerca de 13 milhões de mortes e 500 milhões de feridos na década seguinte. Esses números, em termos absolutos e relativos, ficaram praticamente inalterados por 20 anos. Por isso a Resolução 74/299 da Assembleia Geral da ONU declarou a Segunda Década de Ação (2021–2030) com a meta de reduzir mortes e lesões em pelo menos 50%. O erro típico é multiplicar ou confundir o anual (1,3 mi/50 mi) com o da década (13 mi/500 mi).",
+"coment": "A introdução do Plano Global diz que os sinistros causam quase 1,3 milhão de mortes evitáveis e cerca de 50 milhões de feridos por ano, sendo a principal causa de morte de crianças e jovens, e que, mantido o 'business as usual', causarão mais cerca de 13 milhões de mortes e 500 milhões de feridos na década seguinte. Esses números, em termos absolutos e relativos, ficaram praticamente inalterados por 20 anos. Por isso a Resolução 74/299 da Assembleia Geral da ONU declarou a Segunda Década de Ação (2021–2030) com a meta de reduzir mortes e lesões em pelo menos 50%. O erro típico é confundir o anual citado no plano (1,3 mi/50 mi) com o da década (13 mi/500 mi). O dado anual mais recente do acervo é outro: 1,19 milhão de mortes e 20 a 50 milhões de feridos (Relatório Global 2023 da OMS, citado na diretriz de tolerância, 2025).",
 "porAlt": [
 "1,3 milhão de mortes e 50 milhões de feridos são os números de UM ano, não da década.",
 "O número de feridos projetado para a década é 500 milhões; 50 milhões é o valor anual.",
@@ -25294,7 +25271,7 @@ window.BANCO=[
 "temaOrig": "epidemiologia",
 "sub": "Metas globais: álcool",
 "base": "Plano Global — Década de Ação 2021–2030, Anexo com as 12 metas globais voluntárias de desempenho (Meta 9).",
-"coment": "O Plano Global 2021–2030 reproduz as 12 metas globais voluntárias de desempenho. Três delas conversam diretamente com o aulão: a Meta 9 (reduzir à metade, até 2030, o número de lesões e mortes relacionadas a condutores que usam álcool e/ou reduzir as relacionadas a outras substâncias psicoativas), a Meta 10 (até 2030, todos os países com leis que restrinjam ou proíbam o uso do telefone celular ao dirigir) e a Meta 11 (regulamentar tempo de direção e de descanso dos condutores profissionais). A Meta 1 era a única com prazo em 2020. A meta geral da Década, fixada na Resolução 74/299, é reduzir mortes e lesões graves em pelo menos 50%.",
+"coment": "O Plano Global 2021–2030 reproduz as 12 metas globais voluntárias de desempenho. Três delas conversam diretamente com álcool, celular e jornada: a Meta 9 (reduzir à metade, até 2030, o número de lesões e mortes relacionadas a condutores que usam álcool e/ou reduzir as relacionadas a outras substâncias psicoativas), a Meta 10 (até 2030, todos os países com leis que restrinjam ou proíbam o uso do telefone celular ao dirigir) e a Meta 11 (regulamentar tempo de direção e de descanso dos condutores profissionais). A Meta 1 era a única com prazo em 2020. A meta geral da Década, fixada na Resolução 74/299, é reduzir mortes e lesões graves em pelo menos 50%.",
 "porAlt": [
 "O percentual da meta é de metade (50%), não de 30%.",
 "A meta não é zerar: é reduzir à metade o número de lesões e mortes ligadas ao álcool.",
@@ -25317,36 +25294,13 @@ window.BANCO=[
 "temaOrig": "epidemiologia",
 "sub": "Fatores de risco da ONU: os cinco iniciais",
 "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 1 (Contextualização).",
-"coment": "O MPPCVA abre contextualizando: em 02/03/2010 a ONU elencou fatores de risco para a segurança viária, inicialmente CINCO — cinto de segurança, capacete, dispositivos para transporte de crianças, consumo de bebida alcoólica e excesso de velocidade — e a legislação brasileira trata de todos. Após a 2ª Conferência Global de Alto Nível (15/11/2015), a Resolução da ONU de 12/04/2018 ampliou para 12, acrescentando baixa visibilidade, condições médicas, medicamentos que afetam a condução, fadiga, uso de substâncias psicoativas, telefones celulares e dispositivos de mensagens de texto. Na aula o segundo grupo apareceu com 'sonolência'; o texto da diretriz fala em FADIGA.",
+"coment": "O MPPCVA abre contextualizando: em 02/03/2010 a ONU elencou fatores de risco para a segurança viária, inicialmente CINCO — cinto de segurança, capacete, dispositivos para transporte de crianças, consumo de bebida alcoólica e excesso de velocidade — e a legislação brasileira trata de todos. Após a 2ª Conferência Global de Alto Nível (15/11/2015), a Resolução da ONU de 12/04/2018 ampliou para 12, acrescentando baixa visibilidade, condições médicas, medicamentos que afetam a condução, fadiga, uso de substâncias psicoativas, telefones celulares e dispositivos de mensagens de texto. O texto da diretriz fala em FADIGA, não em 'sonolência'.",
 "porAlt": [
 "Celular entrou só na ampliação para 12 fatores (Resolução da ONU de 12/04/2018).",
 "Fadiga é um dos fatores acrescentados em 2018, não dos cinco iniciais.",
 "Correta: cinto (CTB 65, 105, 167), capacete (54, 55, 244), dispositivos para crianças (Res. 819/21), álcool (165, 165-A, 276, 277, 306) e velocidade (218).",
 "Medicamentos e condições médicas foram acrescentados em 2018, após a conferência da OMS de 2015.",
 "O cinto de segurança estava entre os cinco; 'uso de substâncias psicoativas' só veio em 2018."
-]
-},
-{
-"q": "Segundo as diretrizes ABRAMET de 2012 sobre benzodiazepínicos e sobre drogas, quantas mortes por acidentes de transporte terrestre o Brasil registrou em 2010?",
-"alts": [
-"31.945, cerca de 87 por dia, com quase 120 mil internações no SUS",
-"41.678, cerca de 114 por dia, com quase 400 mil internações no SUS",
-"37.000, cerca de 101 por dia, com quase 400 mil internações no SUS",
-"41.678, cerca de 114 por dia, com quase 120 mil internações no SUS",
-"13.718, cerca de 38 por dia, com quase 13 mil internações no SUS"
-],
-"gab": 3,
-"tema": "vespera",
-"temaOrig": "epidemiologia",
-"sub": "Brasil: mortes em 2010",
-"base": "Diretriz ABRAMET/AMB/CFM — Uso de benzodiazepínicos e risco de acidente de trânsito (15/12/2012), Introdução; Diretriz ABRAMET — Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas (15/12/2012), Introdução.",
-"coment": "A introdução da diretriz de benzodiazepínicos (2012) traz o retrato brasileiro de 2010: 41.678 mortes por acidentes de trânsito, em média 114 por dia, e quase 120.000 hospitalizações no SUS, taxa de 64 internações por 100.000 habitantes. A diretriz de drogas repete as 41.678 mortes e acrescenta que a mortalidade no trânsito superou a de homicídios em oito estados. Outros números brasileiros do acervo: 31.945 óbitos em 2019 (22,4% das mortes por causas externas, diretriz de gravidez). Os '37 mil mortos e 400 mil feridos por ano' anotados no aulão não aparecem em nenhuma fonte primária do acervo; trate como ordem de grandeza, não como número de prova.",
-"porAlt": [
-"31.945 é o número de óbitos de 2019 citado na diretriz de gravidez e puerpério.",
-"As hospitalizações citadas são quase 120 mil, não 400 mil.",
-"37 mil mortes e 400 mil feridos foram números falados em aula, sem apoio nas diretrizes do acervo.",
-"Correta: 41.678 mortes em 2010 (114/dia), quase 120.000 hospitalizações no SUS, 64 internações por 100.000 habitantes.",
-"13.718 são os óbitos de CICLISTAS em uma década, segundo a diretriz de bicicletas."
 ]
 },
 {
@@ -25363,36 +25317,13 @@ window.BANCO=[
 "temaOrig": "epidemiologia",
 "sub": "Brasil: trânsito entre as causas externas",
 "base": "Diretriz ABRAMET — Gravidez e puerpério, item 1 (Introdução).",
-"coment": "A diretriz de gravidez e puerpério situa o trânsito no perfil de morbimortalidade brasileiro: em 2019 houve 142.800 óbitos por causas externas, dos quais 31.945 decorrentes de lesões de trânsito, o que corresponde a 22,4%. Acrescenta que, embora a taxa de mortalidade por sinistros tenha diminuído nos últimos anos, as lesões envolvendo MOTOCICLISTAS têm tendência crescente, principalmente no interior do país — coerente com o motociclista em 1º lugar nos rankings de óbitos e internações. A mesma diretriz lembra o total mundial de cerca de 1,35 milhão de mortes por ano, ou 3.700 por dia.",
+"coment": "A diretriz de gravidez e puerpério situa o trânsito no perfil de morbimortalidade brasileiro: em 2019 houve 142.800 óbitos por causas externas, dos quais 31.945 decorrentes de lesões de trânsito, o que corresponde a 22,4%. Acrescenta que, embora a taxa de mortalidade por sinistros tenha diminuído nos últimos anos, as lesões envolvendo MOTOCICLISTAS têm tendência crescente, principalmente no interior do país — coerente com o motociclista em 1º lugar nos rankings de óbitos e internações. No mundo, o dado mais recente do acervo é 1,19 milhão de mortes por ano (Relatório Global 2023 da OMS, na diretriz de tolerância, 2025); a diretriz de gravidez ainda cita 1,35 milhão.",
 "porAlt": [
 "41.678 é o total de mortes no trânsito de 2010, citado nas diretrizes de 2012.",
 "O total de causas externas em 2019 foi 142.800, e a fatia do trânsito, 22,4%.",
 "19.059 é o número de internações de PEDESTRES no SIH/SUS até julho de 2025 (diretriz de tolerância).",
 "O trânsito não responde por mais da metade das causas externas; a fatia é de 22,4%.",
 "Correta: 142.800 óbitos por causas externas em 2019, dos quais 31.945 (22,4%) por lesões de trânsito."
-]
-},
-{
-"q": "No Relatório Mundial sobre Prevenção de Lesões no Trânsito (OMS, 2004), com dados de 2002, que posição as lesões de trânsito ocupavam entre as causas de morte por faixa etária?",
-"alts": [
-"Segunda causa de 5 a 14 e de 15 a 29 anos; terceira na de 30 a 44 anos",
-"Principal causa de 5 a 14 e de 15 a 29 anos; segunda de 30 a 44 anos",
-"Segunda causa de 5 a 14 e de 15 a 29 anos; principal de 30 a 44 anos",
-"Terceira causa de 5 a 14 e de 15 a 29 anos; segunda de 30 a 44 anos",
-"Principal causa de 5 a 29 anos; terceira de 30 a 44 e de 45 a 59 anos"
-],
-"gab": 0,
-"tema": "vespera",
-"temaOrig": "epidemiologia",
-"sub": "Posição por faixa etária (Relatório Mundial 2004)",
-"base": "OMS — Relatório Mundial sobre Prevenção de Lesões no Trânsito (2004), cap. 1, Tabela 1.1 (dados de 2002).",
-"coment": "A Tabela 1.1 do Relatório Mundial de 2004 ordena as causas de morte por faixa etária em 2002. As lesões de trânsito eram a SEGUNDA causa entre 5 e 14 anos (atrás das doenças da infância) e entre 15 e 29 anos (atrás do HIV/aids), e a TERCEIRA entre 30 e 44 anos; mais de 50% das mortes ocorriam entre 15 e 44 anos. Hoje, pelo Relatório Global 2023 citado na diretriz de tolerância e pelo Plano Global 2021–2030, o trânsito é a PRINCIPAL causa de morte de 5 a 29 anos e a terceira de 30 a 44. Saber as duas séries evita a confusão que apareceu na anotação do aulão ('1º 15–29, 2º 5–14, 3º 30–44'), que não corresponde a nenhuma das duas.",
-"porAlt": [
-"Correta: na Tabela 1.1 (2002), trânsito é a 2ª causa de 5–14 e de 15–29 anos e a 3ª de 30–44 anos.",
-"Em 2002 a principal causa de 5–14 eram as doenças da infância e de 15–29 o HIV/aids; o trânsito era a 2ª.",
-"De 30 a 44 anos o trânsito era a 3ª causa, atrás de HIV/aids e tuberculose.",
-"O trânsito era a 2ª causa (não a 3ª) de 5 a 14 e de 15 a 29 anos.",
-"'Principal causa de 5 a 29' é a formulação ATUAL (OMS 2023); de 45 a 59 o trânsito era a 8ª causa em 2002."
 ]
 },
 {
@@ -25501,7 +25432,7 @@ window.BANCO=[
 "temaOrig": "drogas",
 "sub": "MPPCVA: prejuízo equivalente",
 "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 4 (Efeitos dos MPPCVA).",
-"coment": "O item 4 do MPPCVA (2023) afirma que, segundo o Conselho Internacional sobre Álcool, Drogas e Segurança no Trânsito (ICADTS) e o Grupo de Trabalho sobre MPPCVA da União Europeia, esses medicamentos podem provocar prejuízo no desempenho do condutor semelhante ao constatado com alcoolemias entre 0,3 e 0,5 g/L. É o número que o professor marcou com estrela. Ele se articula com as outras réguas da diretriz: o DRUID mede o 'grau de comprometimento' tomando como referência o prejuízo de 0,3 g/L, e o ICADTS classifica em três categorias equivalentes a < 0,5, 0,5–0,8 e > 0,8 g/L. A intensidade depende de metabolização, idade, peso, dose, horário, início do uso, mudança de dose, duração, interações e combinação com álcool ou drogas.",
+"coment": "O item 4 do MPPCVA (2023) afirma que, segundo o Conselho Internacional sobre Álcool, Drogas e Segurança no Trânsito (ICADTS) e o Grupo de Trabalho sobre MPPCVA da União Europeia, esses medicamentos podem provocar prejuízo no desempenho do condutor semelhante ao constatado com alcoolemias entre 0,3 e 0,5 g/L. Ele se articula com as outras réguas da diretriz: o DRUID mede o 'grau de comprometimento' tomando como referência o prejuízo de 0,3 g/L, e o ICADTS classifica em três categorias equivalentes a < 0,5, 0,5–0,8 e > 0,8 g/L. A intensidade depende de metabolização, idade, peso, dose, horário, início do uso, mudança de dose, duração, interações e combinação com álcool ou drogas.",
 "porAlt": [
 "0,6 g/L é o limiar penal do álcool (art. 306); a faixa dos MPPCVA é 0,3–0,5 g/L.",
 "Correta: MPPCVA podem provocar prejuízo semelhante ao de alcoolemias entre 0,3 e 0,5 g/L.",
@@ -25524,7 +25455,7 @@ window.BANCO=[
 "temaOrig": "drogas",
 "sub": "ICADTS: categoria III",
 "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 6.II (ICADTS).",
-"coment": "O ICADTS classifica os medicamentos em três categorias, equivalentes às alcoolemias < 0,5 g/L, 0,5–0,8 g/L e > 0,8 g/L. Categoria I: presumivelmente seguro — 'não dirija antes de ler as advertências da bula'. Categoria II: efeitos adversos menores/moderados — 'não dirija sem consultar o médico'. Categoria III: efeitos graves/presumivelmente potencialmente perigosos — 'não dirija enquanto utilizar este medicamento'. Na aula foi anotado 'categoria III: inapto temporário'. A diretriz NÃO diz isso: as orientações do ICADTS são dirigidas ao condutor, e a Res. 927 não tem critério de aptidão por medicamento. O único 'inapto temporário' que o MPPCVA menciona é para dizer que o toxicológico positivo por uso lícito comprovado NÃO deve gerá-lo.",
+"coment": "O ICADTS classifica os medicamentos em três categorias, equivalentes às alcoolemias < 0,5 g/L, 0,5–0,8 g/L e > 0,8 g/L. Categoria I: presumivelmente seguro — 'não dirija antes de ler as advertências da bula'. Categoria II: efeitos adversos menores/moderados — 'não dirija sem consultar o médico'. Categoria III: efeitos graves/presumivelmente potencialmente perigosos — 'não dirija enquanto utilizar este medicamento'. A categoria III NÃO equivale a 'inapto temporário': as orientações do ICADTS são dirigidas ao condutor, e a Res. 927 não tem critério de aptidão por medicamento. O único 'inapto temporário' que o MPPCVA menciona é para dizer que o toxicológico positivo por uso lícito comprovado NÃO deve gerá-lo.",
 "porAlt": [
 "'Não dirija sem consultar o médico' é a orientação da categoria II.",
 "Correta: categoria III = efeitos graves/potencialmente perigosos, equivalente a > 0,8 g/L; orientação: não dirija enquanto utilizar este medicamento.",
@@ -25685,7 +25616,7 @@ window.BANCO=[
 "temaOrig": "alcool",
 "sub": "Dose padrão",
 "base": "Diretriz ABRAMET — Alcoolemia e direção veicular segura (11/07/2008), item 1 (Introdução).",
-"coment": "A introdução da diretriz de alcoolemia (2008) define a dose: 'uma lata de cerveja, uma taça de vinho ou meio copo de uísque corresponde a aproximadamente 12 g de álcool'. Um adulto médio (homem de 70 kg ou mulher de 62 kg, em bom estado de saúde) que consome DUAS doses atinge alcoolemia de 0,3 a 0,5 g/l. Na aula a equivalência foi anotada como 'uma dose de destilado'; a diretriz especifica meio copo de uísque. A mesma diretriz lembra que, pela grande variabilidade individual (sexo, peso, etnia, hábito), não existe concentração segura: alcoolemia zero é o único padrão de dirigibilidade sem riscos.",
+"coment": "A introdução da diretriz de alcoolemia (2008) define a dose: 'uma lata de cerveja, uma taça de vinho ou meio copo de uísque corresponde a aproximadamente 12 g de álcool'. Um adulto médio (homem de 70 kg ou mulher de 62 kg, em bom estado de saúde) que consome DUAS doses atinge alcoolemia de 0,3 a 0,5 g/l. Para o destilado, a diretriz especifica meio copo de uísque, não um copo inteiro. A mesma diretriz lembra que, pela grande variabilidade individual (sexo, peso, etnia, hábito), não existe concentração segura: alcoolemia zero é o único padrão de dirigibilidade sem riscos.",
 "porAlt": [
 "Correta: a diretriz define a dose como uma lata de cerveja, uma taça de vinho ou meio copo de uísque, cerca de 12 g de álcool.",
 "A unidade de cerveja da diretriz é a lata; e o destilado é meio copo, não um copo inteiro.",
@@ -25708,7 +25639,7 @@ window.BANCO=[
 "temaOrig": "alcool",
 "sub": "Unidades: g/dL, g/L e dg/L",
 "base": "CTB, art. 306, §1º, I; Resolução CONTRAN nº 1.031/2026, art. 9º, IV e §3º.",
-"coment": "O art. 306, §1º, I, do CTB constata o crime por concentração igual ou superior a 6 decigramas de álcool por litro de SANGUE ou igual ou superior a 0,3 mg por litro de AR ALVEOLAR. Converter unidades é pegadinha certa: 6 dg/L = 0,6 g/L = 0,06 g/dL. Na aula a anotação falou em '0,6 g/dL', que seria 6 g/L (dez vezes mais) — o correto é 0,6 g/L. Pela Res. 1.031/2026, o exame de sangue com resultado ≥ 6 dg/L caracteriza o crime (art. 9º, IV), mas é exame SUPLEMENTAR, feito a critério da autoridade policial, que pode servir de contraprova no inquérito (§3º). O crime não afasta a infração do art. 165 (§1º).",
+"coment": "O art. 306, §1º, I, do CTB constata o crime por concentração igual ou superior a 6 decigramas de álcool por litro de SANGUE ou igual ou superior a 0,3 mg por litro de AR ALVEOLAR. Converter unidades é pegadinha certa: 6 dg/L = 0,6 g/L = 0,06 g/dL. Cuidado: '0,6 g/dL' seria 6 g/L (dez vezes mais); o patamar é 0,6 g/L. Pela Res. 1.031/2026, o exame de sangue com resultado ≥ 6 dg/L caracteriza o crime (art. 9º, IV), mas é exame SUPLEMENTAR, feito a critério da autoridade policial, que pode servir de contraprova no inquérito (§3º). O crime não afasta a infração do art. 165 (§1º).",
 "porAlt": [
 "Para passar de g/dL a g/L multiplica-se por 10: 0,06 g/dL = 0,6 g/L, não 0,06 g/L.",
 "6 g/L seria uma alcoolemia letal; 0,06 g/dL corresponde a 0,6 g/L.",
@@ -25783,7 +25714,7 @@ window.BANCO=[
 "Resolução não altera limiar fixado em lei; o 0,3 do art. 306 continua valendo, e 0,34 é a medição bruta.",
 "O erro de 8% vale para medições acima de 0,40 até 2,00 mg/L; abaixo de 0,40 é 0,032 mg/L.",
 "O par legal é 0,6 g/L de sangue = 0,3 mg/L de ar; a infração começa na medição de 0,05.",
-"O erro máximo abaixo de 0,40 mg/L é 0,032, não 0,04 (valor que circulou na aula)."
+"O erro máximo abaixo de 0,40 mg/L é 0,032, não 0,04."
 ]
 },
 {
@@ -25823,7 +25754,7 @@ window.BANCO=[
 "temaOrig": "drogas",
 "sub": "Cocaína e visão",
 "base": "Diretriz ABRAMET — Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas (15/12/2012), item 3 (Cocaína).",
-"coment": "A diretriz de drogas descreve a cocaína assim: alto risco de infrações e acidentes, que diminui após o tratamento da dependência; uso significativamente menor de capacete e cinto; alto risco para acidentes fatais; pequena melhora inicial do desempenho seguida de comportamento de risco. O prejuízo 'pode ocorrer em razão da perda de concentração e atenção e MAIOR sensibilidade à luz, em função da dilatação pupilar'. Na aula foi anotado 'menos sensibilidade à luz' — a diretriz diz o contrário. Associa ainda nervosismo, agressividade, paranoia, excesso de velocidade, perda do controle do veículo e manobras de alto risco. Opiáceos, ao contrário, causam miose.",
+"coment": "A diretriz de drogas descreve a cocaína assim: alto risco de infrações e acidentes, que diminui após o tratamento da dependência; uso significativamente menor de capacete e cinto; alto risco para acidentes fatais; pequena melhora inicial do desempenho seguida de comportamento de risco. O prejuízo 'pode ocorrer em razão da perda de concentração e atenção e MAIOR sensibilidade à luz, em função da dilatação pupilar'. Associa ainda nervosismo, agressividade, paranoia, excesso de velocidade, perda do controle do veículo e manobras de alto risco. Opiáceos, ao contrário, causam miose.",
 "porAlt": [
 "Constrição pupilar (miose) é efeito dos opiáceos, que prejudica a acomodação à luz à noite.",
 "Correta: o prejuízo decorre da perda de concentração e atenção e da MAIOR sensibilidade à luz, pela dilatação pupilar provocada pela droga.",
@@ -25846,7 +25777,7 @@ window.BANCO=[
 "temaOrig": "drogas",
 "sub": "BZD: queda do risco em quatro semanas",
 "base": "Diretriz ABRAMET/AMB/CFM — Uso de benzodiazepínicos e risco de acidente de trânsito (15/12/2012), item 3 e Tabela 2.",
-"coment": "A diretriz de BZD mostra que o risco é mais que o dobro e se concentra no início: 'ocorre principalmente nas duas primeiras semanas de tratamento, diminuindo a partir da terceira semana, até chegar a números estatisticamente insignificantes na quarta semana', pela tolerância aos efeitos sedativos. No estudo de Neutel (1995), o risco de hospitalização por acidente com BZD HIPNÓTICOS caiu de 9,1 na primeira semana para 2,7 na quarta, sem efeito mensurável depois; com BZD ANSIOLÍTICOS, de 13,5 para 1,9 na semana seguinte. Na aula: 'insignificante após 4 semanas' — o texto diz 'na quarta semana'. A orientação é não conduzir nos primeiros dias.",
+"coment": "A diretriz de BZD mostra que o risco é mais que o dobro e se concentra no início: 'ocorre principalmente nas duas primeiras semanas de tratamento, diminuindo a partir da terceira semana, até chegar a números estatisticamente insignificantes na quarta semana', pela tolerância aos efeitos sedativos. No estudo de Neutel (1995), o risco de hospitalização por acidente com BZD HIPNÓTICOS caiu de 9,1 na primeira semana para 2,7 na quarta, sem efeito mensurável depois; com BZD ANSIOLÍTICOS, de 13,5 para 1,9 na semana seguinte. A redação é 'na quarta semana' (não 'após 4 semanas'), repetida pelo MPPCVA (2023). A orientação é não conduzir nos primeiros dias.",
 "porAlt": [
 "13,5 → 1,9 é a curva dos BZD ANSIOLÍTICOS, que caiu já na semana seguinte.",
 "O risco é maior no início e cai com a tolerância; não sobe.",
@@ -25961,7 +25892,7 @@ window.BANCO=[
 "temaOrig": "protecao",
 "sub": "DRC — Res. 819: escolha do dispositivo",
 "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III, e art. 2º; CTB art. 64",
-"coment": "O Anexo da Resolução CONTRAN 819/2021 escalona os dispositivos por idade OU por peso e altura. O assento de elevação vale para crianças com idade superior a 4 anos e inferior ou igual a 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. A criança do caso (5 anos, 19 kg, 1,10 m) cai nas duas condições. O art. 64 do CTB e o art. 2º da Resolução exigem o banco traseiro para quem tem menos de 10 anos e ainda não atingiu 1,45 m. A cadeirinha é para mais de 1 e até 4 anos, ou 9 a 18 kg; o cinto do veículo sozinho, para mais de 7,5 anos ou mais de 1,45 m. Atenção: a diretriz ABRAMET de 2006 põe o booster a partir de cerca de 18 kg; a lei usa 15 kg.",
+"coment": "O Anexo da Resolução CONTRAN 819/2021 escalona os dispositivos por idade OU por peso e altura. O assento de elevação vale para crianças com idade superior a 4 anos e inferior ou igual a 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. A criança do caso (5 anos, 19 kg, 1,10 m) cai nas duas condições. O art. 64 do CTB e o art. 2º da Resolução exigem o banco traseiro para quem tem menos de 10 anos e ainda não atingiu 1,45 m. A cadeirinha é para mais de 1 e até 4 anos, ou 9 a 18 kg; o cinto do veículo sozinho, para mais de 7,5 anos ou mais de 1,45 m. Atualizado: a diretriz ABRAMET de 2006 começava o booster em 18 kg; a regra vigente (819) usa 15 kg.",
 "porAlt": [
 "Passar de 18 kg tira a criança da cadeirinha, não do assento de elevação; o cinto sozinho só vale acima de 7,5 anos ou acima de 1,45 m.",
 "Com menos de 10 anos e menos de 1,45 m a regra é o banco traseiro; o dianteiro só nas exceções do art. 3º, que o caso não descreve.",
@@ -25984,9 +25915,9 @@ window.BANCO=[
 "temaOrig": "protecao",
 "sub": "DRC — Res. 819: limite do assento de elevação",
 "base": "Resolução CONTRAN nº 819/2021, Anexo, incisos III e IV",
-"coment": "A Resolução CONTRAN 819/2021 (Anexo, III) prevê o assento de elevação para crianças com idade superior a quatro anos e inferior ou igual a sete anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. O inciso IV passa ao cinto de segurança do veículo a criança com idade superior a sete anos e meio e inferior ou igual a dez anos, ou com altura superior a 1,45 m. O número 10 anos pertence a outra regra: é o limite do art. 64 do CTB para o banco traseiro (menos de 10 anos e menos de 1,45 m). A pegadinha é a anotação comum 'booster de 4 a 10 anos', que é da diretriz ABRAMET de 2006, recomendação médica e não a regra legal.",
+"coment": "A Resolução CONTRAN 819/2021 (Anexo, III) prevê o assento de elevação para crianças com idade superior a quatro anos e inferior ou igual a sete anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. O inciso IV passa ao cinto de segurança do veículo a criança com idade superior a sete anos e meio e inferior ou igual a dez anos, ou com altura superior a 1,45 m. O número 10 anos pertence a outra regra: é o limite do art. 64 do CTB para o banco traseiro (menos de 10 anos e menos de 1,45 m). Atualizado: 'booster de 4 a 10 anos' era a faixa da diretriz ABRAMET de 2006, superada pela 819.",
 "porAlt": [
-"Dez anos é o limite do banco traseiro (CTB art. 64) e da recomendação ABRAMET de 2006 para o booster, não o do assento de elevação na lei.",
+"Dez anos é o limite do banco traseiro (CTB art. 64), não o do assento de elevação, que na Resolução vai até 7,5 anos.",
 "Oito anos não aparece na Resolução; o peso de 36 kg é o teto do assento de elevação, mas o corte de idade é 7,5 anos.",
 "Seis anos não é corte da Resolução; o assento de elevação cobre de mais de 4 até 7,5 anos.",
 "Correta: o Anexo, III, vai até sete anos e meio; o inciso IV põe no cinto do veículo quem tem mais de 7,5 e até 10 anos.",
@@ -25994,7 +25925,7 @@ window.BANCO=[
 ]
 },
 {
-"q": "Qual é a faixa de peso do assento de elevação na Resolução CONTRAN nº 819/2021, que difere da faixa recomendada pela diretriz ABRAMET de 2006?",
+"q": "Pela Resolução CONTRAN nº 819/2021, qual é a faixa de peso e de altura prevista para o assento de elevação?",
 "alts": [
 "De 9 a 18 kg, com altura de até 1,00 m, conforme o limite definido pelo fabricante",
 "De 18 a 36 kg, com altura de até 1,45 m, conforme o limite definido pelo fabricante",
@@ -26006,18 +25937,18 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "protecao",
 "sub": "DRC — Res. 819: faixa de peso do assento de elevação",
-"base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III; Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 3",
-"coment": "O Anexo, III, da Resolução CONTRAN 819/2021 define o assento de elevação para crianças com mais de 4 e até 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo do fabricante. A diretriz ABRAMET de 2006 (parte II, Tabela 3) recomenda o booster de 18 a 36 kg e de 4 a 10 anos: foi essa a faixa anotada no aulão. Os números 22 a 36 kg (1,30 m) e 15 a 25 kg (1,15 m) são os grupos de massa III e II da NBR 14400 citados na diretriz; 9 a 18 kg é a faixa da cadeirinha. Em prova, 'Resolução', 'obrigatório' ou 'infração' pedem 15 a 36 kg.",
+"base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III",
+"coment": "O Anexo, III, da Resolução CONTRAN 819/2021 define o assento de elevação para crianças com mais de 4 e até 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo definido pelo fabricante do dispositivo. 9 a 18 kg é a faixa da cadeirinha (Anexo, II). As demais faixas não constam da Resolução. Atualizado: a diretriz ABRAMET de 2006 usava 18 a 36 kg para o booster; a regra vigente começa em 15 kg.",
 "porAlt": [
 "9 a 18 kg é a faixa de peso da cadeirinha (Anexo, II), não a do assento de elevação.",
-"18 a 36 kg é a faixa da diretriz ABRAMET de 2006 (Tabela 3), não a da Resolução 819, que começa em 15 kg.",
+"18 a 36 kg era a faixa da diretriz ABRAMET de 2006, superada; o Anexo, III, da Resolução 819 começa em 15 kg.",
 "Correta: Anexo, III: até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo definido pelo fabricante.",
-"22 a 36 kg e cerca de 1,30 m descrevem o grupo de massa III da NBR 14400, citado na diretriz, não a faixa legal.",
-"15 a 25 kg e cerca de 1,15 m descrevem o grupo de massa II da NBR 14400, não o assento de elevação da Resolução."
+"22 a 36 kg e 1,30 m não são a faixa do Anexo, III, que prevê até 1,45 m e peso entre 15 e 36 kg.",
+"15 a 25 kg e 1,15 m não são a faixa do Anexo, III, que prevê até 1,45 m e peso entre 15 e 36 kg."
 ]
 },
 {
-"q": "Lactente de 10 meses e 10 kg viaja em bebê conforto. Uma anotação de aula dizia 'bebê conforto até 9 kg'. Pela Resolução CONTRAN nº 819/2021, o bebê conforto continua admitido para ele?",
+"q": "Lactente de 10 meses e 10 kg viaja em bebê conforto. Pela Resolução CONTRAN nº 819/2021, o bebê conforto continua admitido para ele?",
 "alts": [
 "Não: aos 9 meses a lei manda trocá-lo pela cadeirinha voltada para a frente",
 "Não: a lei manda trocar o bebê conforto assim que a criança atingir os 10 kg",
@@ -26030,36 +25961,13 @@ window.BANCO=[
 "temaOrig": "protecao",
 "sub": "DRC — Res. 819: bebê conforto",
 "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso I",
-"coment": "O Anexo, I, da Resolução CONTRAN 819/2021 agrupa 'bebê conforto ou conversível' num único degrau, para crianças com até um ano de idade OU com peso de até 13 kg, conforme o limite do fabricante. Não existe corte legal de 9 kg: com 10 meses e 10 kg, a criança está no degrau I pela idade e pelo peso, e o bebê conforto continua admitido. O limite de 9 kg (e 12 meses) é do 'assento infantil' na diretriz ABRAMET de 2006 — recomendação médica, não regra legal; mesmo nela, quem atinge 9 kg antes de 1 ano passa ao assento conversível, que acomoda até 13 kg e continua de costas. O corte de 9 meses e 10 kg é do grupo 0 da NBR 14400 citado na diretriz. Em prova, 'Resolução', 'obrigatório' ou 'infração' pedem os cortes da 819: 1 ano ou 13 kg.",
+"coment": "O Anexo, I, da Resolução CONTRAN 819/2021 agrupa 'bebê conforto ou conversível' num único degrau, para crianças com até um ano de idade OU com peso de até 13 kg, conforme o limite máximo definido pelo fabricante. Não existe corte legal de 9 kg: com 10 meses e 10 kg, a criança está no degrau I pela idade e pelo peso, e o bebê conforto continua admitido. A cadeirinha (Anexo, II) é para mais de 1 e até 4 anos, ou 9 a 18 kg; o assento de elevação, para mais de 4 anos. Atualizado: o corte de 9 kg era do 'assento infantil' na diretriz ABRAMET de 2006; a regra vigente é a da 819, 1 ano ou 13 kg.",
 "porAlt": [
-"Nove meses é o grupo 0 da NBR 14400 citado na diretriz ABRAMET, não um limite da Resolução; a lei não manda virar a criança de frente aos 9 meses.",
+"A Resolução não tem corte aos 9 meses: o degrau I vai até 1 ano ou 13 kg, e a cadeirinha é para mais de 1 ano.",
 "A Resolução não impõe troca aos 10 kg; o teto de peso do degrau I é 13 kg, conforme o limite do fabricante.",
 "A Resolução não tem corte de 9 kg para o bebê conforto: o degrau I vai até 1 ano ou 13 kg, e a criança está dentro dos dois critérios.",
 "Assento de elevação é para mais de 4 anos (até 7,5) ou 15 a 36 kg; nada no caso se aproxima dessa faixa.",
 "Correta: Anexo, I — bebê conforto ou conversível para crianças com até 1 ano de idade ou até 13 kg, conforme o limite do fabricante."
-]
-},
-{
-"q": "Um palestrante afirma que 'o assento de elevação é obrigatório dos 4 aos 10 anos, de 18 a 36 kg'. Essa faixa corresponde a qual fonte?",
-"alts": [
-"À diretriz ABRAMET de 2006; a Resolução 819 fixa mais de 4 a 7,5 anos, ou 15 a 36 kg",
-"Ao art. 64 do CTB, que define idade e peso de cada dispositivo de retenção infantil",
-"À Resolução CONTRAN 277/2008, que segue vigente para o assento de elevação no país",
-"À norma NBR 14400, que a Resolução 819 incorporou literalmente no seu Anexo único",
-"À Resolução CONTRAN 819/2021, que fixa essa faixa como regra obrigatória em todo o país"
-],
-"gab": 0,
-"tema": "vespera",
-"temaOrig": "protecao",
-"sub": "DRC — diretriz ABRAMET × lei",
-"base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 3; Resolução CONTRAN nº 819/2021, Anexo, III",
-"coment": "A faixa 'booster de 4 a 10 anos e 18 a 36 kg' está na Tabela 3 da parte II da diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), que recomenda o uso até a criança atingir 36 kg e completar aproximadamente 10 anos. É recomendação médica. A regra legal é a Resolução CONTRAN 819/2021, cujo Anexo, III, prevê o assento de elevação para mais de 4 e até 7 anos e meio, ou até 1,45 m com 15 a 36 kg. O art. 64 do CTB não fixa faixas: exige banco traseiro e dispositivo adequado para menores de 10 anos com menos de 1,45 m e delega ao CONTRAN as especificações. A Resolução 277/2008 foi revogada pela própria 819 (art. 8º, I).",
-"porAlt": [
-"Correta: 4 a 10 anos e 18 a 36 kg é a Tabela 3 da diretriz ABRAMET de 2006, recomendação; a lei (819) usa 7,5 anos e 15 kg.",
-"O art. 64 do CTB não fixa idade nem peso por dispositivo; exige DRC adequado e delega a especificação ao CONTRAN.",
-"A Resolução 277/2008 foi revogada pela 819/2021 (art. 8º, I), em vigor desde 12/04/2021.",
-"A NBR 14400 é citada pela diretriz para os grupos de massa (0 a III); não é a origem da faixa de 4 a 10 anos.",
-"A Resolução 819 usa outros cortes: mais de 4 até 7,5 anos, ou até 1,45 m com 15 a 36 kg."
 ]
 },
 {
@@ -26122,7 +26030,7 @@ window.BANCO=[
 "temaOrig": "protecao",
 "sub": "DRC — art. 4º: airbag e DRC de costas",
 "base": "Resolução CONTRAN nº 819/2021, art. 3º, I, e art. 4º, I a III",
-"coment": "O art. 3º, I, da Resolução CONTRAN 819/2021 permite o banco dianteiro quando o veículo é dotado exclusivamente desse banco, mas o art. 4º impõe requisitos quando há airbag para o passageiro: (I) é vedado o transporte de crianças com até sete anos e meio em dispositivo de retenção posicionado em sentido contrário ao da marcha; (II) é permitido o DRC no sentido da marcha, desde que sem bandeja ou acessório equivalente; (III) o banco deve ficar na última posição de recuo, salvo instrução do fabricante. O bebê conforto é de costas, portanto vedado nesse banco com airbag ativo. A Resolução não prevê solução por desativação; a diretriz ABRAMET de 2006 manda desativar o airbag com criança até 14 anos na frente.",
+"coment": "O art. 3º, I, da Resolução CONTRAN 819/2021 permite o banco dianteiro quando o veículo é dotado exclusivamente desse banco, mas o art. 4º impõe requisitos quando há airbag para o passageiro: (I) é vedado o transporte de crianças com até sete anos e meio em dispositivo de retenção posicionado em sentido contrário ao da marcha; (II) é permitido o DRC no sentido da marcha, desde que sem bandeja ou acessório equivalente; (III) o banco deve ficar na última posição de recuo, salvo instrução do fabricante. O bebê conforto é de costas, portanto vedado nesse banco com airbag ativo. A Resolução não prevê a desativação do airbag como forma de autorizar o DRC de costas nesse banco.",
 "porAlt": [
 "A restrição da bandeja é do inciso II, para o DRC voltado para a frente; o de costas já é vedado pelo inciso I.",
 "Correta: art. 4º, I: com airbag, é vedado DRC contra a marcha para criança de até 7,5 anos.",
@@ -26178,29 +26086,6 @@ window.BANCO=[
 ]
 },
 {
-"q": "Pela classificação em grupos de massa reproduzida na diretriz ABRAMET de transporte de crianças (NBR 14400), o grupo II corresponde a:",
-"alts": [
-"Até 10 kg, altura aproximada de 0,72 m, até cerca de 9 meses de idade apenas",
-"De 15 kg a 25 kg, altura aproximada de 1,15 m, até cerca de 60 meses de idade",
-"De 9 kg a 18 kg, altura aproximada de 1,00 m, até cerca de 32 meses de idade",
-"De 22 kg a 36 kg, altura aproximada de 1,30 m, até cerca de 90 meses de idade",
-"Até 13 kg, altura aproximada de 0,80 m, até cerca de 12 meses de idade apenas"
-],
-"gab": 1,
-"tema": "vespera",
-"temaOrig": "protecao",
-"sub": "DRC — grupos de massa da NBR 14400",
-"base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 1 (grupos de massa)",
-"coment": "A Tabela 1 da parte II da diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006) classifica os DRC em cinco grupos de massa, com base na NBR 14400: grupo 0, até 10 kg, altura aproximada de 0,72 m, até 9 meses; grupo 0+, até 13 kg, 0,80 m, até 12 meses; grupo I, de 9 a 18 kg, 1,00 m, até 32 meses; grupo II, de 15 a 25 kg, 1,15 m, até 60 meses; grupo III, de 22 a 36 kg, 1,30 m, até 90 meses. O booster da Tabela 3 corresponde aos grupos II e III. Atenção: na Tabela 3 o assento infantil do grupo 0 aparece com até 9 kg, e não 10 kg; é uma inconsistência interna da diretriz.",
-"porAlt": [
-"Essa é a descrição do grupo 0 (até 10 kg, 0,72 m, até 9 meses).",
-"Correta: grupo II: 15 a 25 kg, cerca de 1,15 m, até 60 meses (Tabela 1 da parte II).",
-"Essa é a descrição do grupo I (9 a 18 kg, 1,00 m, até 32 meses), faixa da cadeirinha.",
-"Essa é a descrição do grupo III (22 a 36 kg, 1,30 m, até 90 meses).",
-"Essa é a descrição do grupo 0+ (até 13 kg, 0,80 m, até 12 meses)."
-]
-},
-{
 "q": "Segundo a diretriz ABRAMET de transporte de crianças, o que caracteriza a 'síndrome pediátrica do cinto de segurança'?",
 "alts": [
 "Lesões da coluna cervical pelo uso do bebê conforto voltado para trás durante colisões traseiras",
@@ -26213,8 +26098,8 @@ window.BANCO=[
 "tema": "vespera",
 "temaOrig": "protecao",
 "sub": "DRC — síndrome pediátrica do cinto",
-"base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, item 2.4",
-"coment": "A parte II da diretriz ABRAMET (item 2.4) descreve que, quando a criança passa prematuramente a usar o cinto de segurança do veículo, a faixa subabdominal se posiciona sobre o abdome e a transversal atravessa o pescoço e a face. Esse posicionamento predispõe a lesões cervicais e abdominais, a 'síndrome pediátrica do cinto de segurança'. A causa mais frequente do não uso do booster é a avaliação equivocada dos pais de que a criança já tem tamanho para o cinto. Por isso a diretriz indica o booster até a criança ter altura suficiente (cerca de 1,45 m, por volta dos 10 anos), preso com cinto de três pontos.",
+"base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, item 2.4; Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 3; Diretriz ABRAMET 'Cinto de segurança' (2022), item 9.6",
+"coment": "A parte II da diretriz ABRAMET (item 2.4) descreve que, quando a criança passa prematuramente a usar o cinto de segurança do veículo, a faixa subabdominal se posiciona sobre o abdome e a transversal atravessa o pescoço e a face. Esse posicionamento predispõe a lesões cervicais e abdominais, a 'síndrome pediátrica do cinto de segurança'. A causa mais frequente do não uso do booster é a avaliação equivocada dos pais de que a criança já tem tamanho para o cinto. A diretriz de cinto (2022, item 9.6) lembra que a criança em geral só se adapta ao cinto do veículo com cerca de 1,45 m; enquanto isso, usa-se o assento de elevação com cinto de três pontos, que a Resolução 819 admite até 1,45 m (15 a 36 kg).",
 "porAlt": [
 "O bebê conforto de costas é a posição que protege a coluna cervical; não é causa da síndrome.",
 "A diretriz não descreve asfixia pelo arnês sob esse nome; a síndrome é a do cinto adulto usado cedo demais.",
@@ -26339,29 +26224,6 @@ window.BANCO=[
 ]
 },
 {
-"q": "Segundo a diretriz ABRAMET 'Segurança no transporte veicular de crianças' (parte I), em que situação o airbag do passageiro deve ser desativado?",
-"alts": [
-"Quando o veículo transportar, no banco da frente, criança de até 7 anos e meio",
-"Quando o veículo transportar, no banco da frente, criança com menos de 1,45 m",
-"Quando o veículo transportar, no banco da frente, idoso com mais de setenta anos",
-"Quando o veículo transportar, no banco da frente, gestante no terceiro trimestre",
-"Quando o veículo transportar, no banco da frente, criança de até 14 anos de idade"
-],
-"gab": 4,
-"tema": "vespera",
-"temaOrig": "protecao",
-"sub": "Airbag — desativação com criança na frente",
-"base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte I, item 3 (recomendações)",
-"coment": "A parte I da diretriz ABRAMET (2006) recomenda: 'O airbag do passageiro deverá ser desativado quando o veículo transportar, no banco da frente, criança até os 14 anos de idade' (grau B), porque em colisões frontais crianças até 14 anos têm alto risco de ferimentos sérios no banco da frente de veículo com airbag. A gestante é o contraexemplo: a diretriz de cinto na gravidez diz que o airbag não deve ser desconectado. Os 7 anos e meio pertencem à Resolução CONTRAN 819/2021, cujo art. 4º veda DRC de costas nesse banco até essa idade, mas não manda desativar o airbag. A anotação da aula que incluía nanismo e síndrome de Down não tem respaldo nessas fontes para desativação.",
-"porAlt": [
-"Sete anos e meio é o corte do art. 4º da Resolução 819 para vedar DRC de costas, não uma ordem de desativação.",
-"1,45 m é o corte do banco traseiro no art. 64 do CTB, não o critério da diretriz para desativar o airbag.",
-"A diretriz de crianças não trata de idosos; não há recomendação de desativar o airbag por idade avançada.",
-"Na gestante o airbag NÃO deve ser desconectado; usa-se o cinto corretamente e afasta-se o banco.",
-"Correta: a parte I da diretriz manda desativar o airbag do passageiro com criança até 14 anos no banco da frente."
-]
-},
-{
 "q": "Criança de 6 anos precisa viajar no banco dianteiro de uma picape de cabine simples, com airbag do passageiro. Qual configuração atende à Resolução CONTRAN nº 819/2021?",
 "alts": [
 "Assento de elevação de costas, com o banco na sua posição mais próxima do painel frontal",
@@ -26421,7 +26283,7 @@ window.BANCO=[
 "temaOrig": "protecao",
 "sub": "Cinto — banco dianteiro × traseiro",
 "base": "Diretriz ABRAMET 'Cinto de segurança: eficácia, ações, posicionamento e recomendações' (29/06/2022), item 3.2",
-"coment": "A diretriz ABRAMET (2022, item 3.2) diz que os ocupantes dos bancos dianteiros estão mais expostos a lesões por contato dos membros inferiores e da parte superior do corpo com o painel e o volante e têm cerca de 60% maior risco de morte ou ferimentos graves que os do banco traseiro; por isso o cinto é mais eficaz na frente (−60% × −44% atrás). A anotação transcrita do aulão ('ocupantes dos bancos traseiros... mais expulsos... 60% mais risco') não confere com a diretriz, que atribui os 60% aos ocupantes dos bancos DIANTEIROS, mais EXPOSTOS. O '5 vezes' é outro dado: o ocupante de trás sem cinto aumenta em cinco vezes o risco de morte de quem vai na frente.",
+"coment": "A diretriz ABRAMET (2022, item 3.2) diz que os ocupantes dos bancos dianteiros estão mais expostos a lesões por contato dos membros inferiores e da parte superior do corpo com o painel e o volante e têm cerca de 60% maior risco de morte ou ferimentos graves que os do banco traseiro; por isso o cinto é mais eficaz na frente (−60% × −44% atrás). Não inverter: os 60% são dos ocupantes dos bancos DIANTEIROS, mais EXPOSTOS, e não dos traseiros. O '5 vezes' é outro dado: o ocupante de trás sem cinto aumenta em cinco vezes o risco de morte de quem vai na frente.",
 "porAlt": [
 "Há diferença: a posição dianteira concentra mais risco, e o cinto é mais eficaz nela.",
 "Inverte a posição: é o banco dianteiro, mais exposto a painel e volante, que tem cerca de 60% mais risco.",

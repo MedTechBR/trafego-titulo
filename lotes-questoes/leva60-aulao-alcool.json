@@ -13,7 +13,7 @@
   "temaOrig": "epidemiologia",
   "sub": "Ranking de óbitos por tipo de vítima",
   "base": "Diretriz ABRAMET — Bicicletas (elaboração final 18/01/2022), item 1.3, gráficos “Distribuição de óbitos/internações segundo tipo de envolvimento — Brasil, 2020”, gráfico de óbitos.",
-  "coment": "No item de epidemiologia, a diretriz ABRAMET sobre bicicletas reproduz dois gráficos de pizza do Brasil em 2020. No de ÓBITOS, as fatias são: motociclista 27,2%, ocupante de automóvel 22,7%, pedestre 20,4%, ciclista 3,5%, transporte pesado 1,9% e ônibus 0,5%; há ainda 23,8% de transporte terrestre sem tipo de vítima identificado. Excluídos os não identificados, a ordem é motociclista > automóvel > pedestre > ciclista > transporte pesado > ônibus. É exatamente o ranking que o professor marcou com estrela no aulão. A pegadinha clássica é trocar pela ordem das internações, em que o pedestre passa para 2º lugar e o ocupante de automóvel cai para 3º.",
+  "coment": "No item de epidemiologia, a diretriz ABRAMET sobre bicicletas reproduz dois gráficos de pizza do Brasil em 2020. No de ÓBITOS, as fatias são: motociclista 27,2%, ocupante de automóvel 22,7%, pedestre 20,4%, ciclista 3,5%, transporte pesado 1,9% e ônibus 0,5%; há ainda 23,8% de transporte terrestre sem tipo de vítima identificado. Excluídos os não identificados, a ordem é motociclista > automóvel > pedestre > ciclista > transporte pesado > ônibus. A pegadinha clássica é trocar pela ordem das internações, em que o pedestre passa para 2º lugar e o ocupante de automóvel cai para 3º.",
   "porAlt": [
    "O pedestre é o 3º nos óbitos (20,4%); ele só sobe para 2º no gráfico das internações.",
    "Correta: motociclista 27,2%, automóvel 22,7%, pedestre 20,4%, ciclista 3,5%, transporte pesado 1,9% (e ônibus 0,5%).",
@@ -105,9 +105,9 @@
   "temaOrig": "epidemiologia",
   "sub": "Posição por faixa etária (dados atuais)",
   "base": "Diretriz ABRAMET — Tolerância humana a impactos: implicações para a segurança viária (25/11/2025), item 1, citando o Relatório Global sobre Segurança Viária 2023 da OMS.",
-  "coment": "A introdução da diretriz de tolerância humana a impactos (2025) resume o Relatório Global 2023 da OMS: os sinistros de trânsito são a principal causa de morte entre 5 e 29 anos, a terceira entre 30 e 44 anos e figuram entre as 12 principais causas em todas as idades. O Plano Global 2021–2030 repete que são a principal causa de morte de 5 a 29 anos. Na aula a anotação ficou '1º 15–29, 2º 5–14, 3º 30–44'; isso mistura a série antiga (Relatório Mundial 2004, dados de 2002: segunda causa de 5 a 14 e de 15 a 29, terceira de 30 a 44) com a atual. Na prova, a formulação vigente é 'principal causa de 5 a 29 anos'.",
+  "coment": "A introdução da diretriz de tolerância humana a impactos (2025) resume o Relatório Global 2023 da OMS: os sinistros de trânsito são a principal causa de morte entre 5 e 29 anos, a terceira entre 30 e 44 anos e figuram entre as 12 principais causas em todas as idades. O Plano Global 2021–2030 repete que são a principal causa de morte de 5 a 29 anos. É a formulação vigente para a prova: 'principal causa de 5 a 29 anos'. Atualizado: com dados de 2002 (Relatório Mundial 2004), o trânsito era a segunda causa de 5 a 14 e de 15 a 29 anos.",
   "porAlt": [
-   "A faixa de 15 a 44 anos aparece no relatório de 2004 como a que concentra mais da metade das mortes, não como 'principal causa'.",
+   "A faixa em que o trânsito é a principal causa é a de 5 a 29 anos, que já inclui as crianças de 5 a 14.",
    "Inverte as posições: é a principal causa de 5 a 29 e a terceira de 30 a 44.",
    "Correta: principal causa de morte de 5 a 29 anos, terceira de 30 a 44 e entre as 12 principais em todas as idades.",
    "A faixa em que o trânsito é a principal causa é a de 5 a 29 anos inteira, não só a de 5 a 14.",
@@ -128,7 +128,7 @@
   "temaOrig": "epidemiologia",
   "sub": "Projeção do Plano Global 2021–2030",
   "base": "Plano Global — Década de Ação pela Segurança no Trânsito 2021–2030 (OMS e Comissões Regionais da ONU), Introdução.",
-  "coment": "A introdução do Plano Global diz que os sinistros causam quase 1,3 milhão de mortes evitáveis e cerca de 50 milhões de feridos por ano, sendo a principal causa de morte de crianças e jovens, e que, mantido o 'business as usual', causarão mais cerca de 13 milhões de mortes e 500 milhões de feridos na década seguinte. Esses números, em termos absolutos e relativos, ficaram praticamente inalterados por 20 anos. Por isso a Resolução 74/299 da Assembleia Geral da ONU declarou a Segunda Década de Ação (2021–2030) com a meta de reduzir mortes e lesões em pelo menos 50%. O erro típico é multiplicar ou confundir o anual (1,3 mi/50 mi) com o da década (13 mi/500 mi).",
+  "coment": "A introdução do Plano Global diz que os sinistros causam quase 1,3 milhão de mortes evitáveis e cerca de 50 milhões de feridos por ano, sendo a principal causa de morte de crianças e jovens, e que, mantido o 'business as usual', causarão mais cerca de 13 milhões de mortes e 500 milhões de feridos na década seguinte. Esses números, em termos absolutos e relativos, ficaram praticamente inalterados por 20 anos. Por isso a Resolução 74/299 da Assembleia Geral da ONU declarou a Segunda Década de Ação (2021–2030) com a meta de reduzir mortes e lesões em pelo menos 50%. O erro típico é confundir o anual citado no plano (1,3 mi/50 mi) com o da década (13 mi/500 mi). O dado anual mais recente do acervo é outro: 1,19 milhão de mortes e 20 a 50 milhões de feridos (Relatório Global 2023 da OMS, citado na diretriz de tolerância, 2025).",
   "porAlt": [
    "1,3 milhão de mortes e 50 milhões de feridos são os números de UM ano, não da década.",
    "O número de feridos projetado para a década é 500 milhões; 50 milhões é o valor anual.",
@@ -151,7 +151,7 @@
   "temaOrig": "epidemiologia",
   "sub": "Metas globais: álcool",
   "base": "Plano Global — Década de Ação 2021–2030, Anexo com as 12 metas globais voluntárias de desempenho (Meta 9).",
-  "coment": "O Plano Global 2021–2030 reproduz as 12 metas globais voluntárias de desempenho. Três delas conversam diretamente com o aulão: a Meta 9 (reduzir à metade, até 2030, o número de lesões e mortes relacionadas a condutores que usam álcool e/ou reduzir as relacionadas a outras substâncias psicoativas), a Meta 10 (até 2030, todos os países com leis que restrinjam ou proíbam o uso do telefone celular ao dirigir) e a Meta 11 (regulamentar tempo de direção e de descanso dos condutores profissionais). A Meta 1 era a única com prazo em 2020. A meta geral da Década, fixada na Resolução 74/299, é reduzir mortes e lesões graves em pelo menos 50%.",
+  "coment": "O Plano Global 2021–2030 reproduz as 12 metas globais voluntárias de desempenho. Três delas conversam diretamente com álcool, celular e jornada: a Meta 9 (reduzir à metade, até 2030, o número de lesões e mortes relacionadas a condutores que usam álcool e/ou reduzir as relacionadas a outras substâncias psicoativas), a Meta 10 (até 2030, todos os países com leis que restrinjam ou proíbam o uso do telefone celular ao dirigir) e a Meta 11 (regulamentar tempo de direção e de descanso dos condutores profissionais). A Meta 1 era a única com prazo em 2020. A meta geral da Década, fixada na Resolução 74/299, é reduzir mortes e lesões graves em pelo menos 50%.",
   "porAlt": [
    "O percentual da meta é de metade (50%), não de 30%.",
    "A meta não é zerar: é reduzir à metade o número de lesões e mortes ligadas ao álcool.",
@@ -174,36 +174,13 @@
   "temaOrig": "epidemiologia",
   "sub": "Fatores de risco da ONU: os cinco iniciais",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 1 (Contextualização).",
-  "coment": "O MPPCVA abre contextualizando: em 02/03/2010 a ONU elencou fatores de risco para a segurança viária, inicialmente CINCO — cinto de segurança, capacete, dispositivos para transporte de crianças, consumo de bebida alcoólica e excesso de velocidade — e a legislação brasileira trata de todos. Após a 2ª Conferência Global de Alto Nível (15/11/2015), a Resolução da ONU de 12/04/2018 ampliou para 12, acrescentando baixa visibilidade, condições médicas, medicamentos que afetam a condução, fadiga, uso de substâncias psicoativas, telefones celulares e dispositivos de mensagens de texto. Na aula o segundo grupo apareceu com 'sonolência'; o texto da diretriz fala em FADIGA.",
+  "coment": "O MPPCVA abre contextualizando: em 02/03/2010 a ONU elencou fatores de risco para a segurança viária, inicialmente CINCO — cinto de segurança, capacete, dispositivos para transporte de crianças, consumo de bebida alcoólica e excesso de velocidade — e a legislação brasileira trata de todos. Após a 2ª Conferência Global de Alto Nível (15/11/2015), a Resolução da ONU de 12/04/2018 ampliou para 12, acrescentando baixa visibilidade, condições médicas, medicamentos que afetam a condução, fadiga, uso de substâncias psicoativas, telefones celulares e dispositivos de mensagens de texto. O texto da diretriz fala em FADIGA, não em 'sonolência'.",
   "porAlt": [
    "Celular entrou só na ampliação para 12 fatores (Resolução da ONU de 12/04/2018).",
    "Fadiga é um dos fatores acrescentados em 2018, não dos cinco iniciais.",
    "Correta: cinto (CTB 65, 105, 167), capacete (54, 55, 244), dispositivos para crianças (Res. 819/21), álcool (165, 165-A, 276, 277, 306) e velocidade (218).",
    "Medicamentos e condições médicas foram acrescentados em 2018, após a conferência da OMS de 2015.",
    "O cinto de segurança estava entre os cinco; 'uso de substâncias psicoativas' só veio em 2018."
-  ]
- },
- {
-  "q": "Segundo as diretrizes ABRAMET de 2012 sobre benzodiazepínicos e sobre drogas, quantas mortes por acidentes de transporte terrestre o Brasil registrou em 2010?",
-  "alts": [
-   "31.945, cerca de 87 por dia, com quase 120 mil internações no SUS",
-   "41.678, cerca de 114 por dia, com quase 400 mil internações no SUS",
-   "37.000, cerca de 101 por dia, com quase 400 mil internações no SUS",
-   "41.678, cerca de 114 por dia, com quase 120 mil internações no SUS",
-   "13.718, cerca de 38 por dia, com quase 13 mil internações no SUS"
-  ],
-  "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
-  "sub": "Brasil: mortes em 2010",
-  "base": "Diretriz ABRAMET/AMB/CFM — Uso de benzodiazepínicos e risco de acidente de trânsito (15/12/2012), Introdução; Diretriz ABRAMET — Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas (15/12/2012), Introdução.",
-  "coment": "A introdução da diretriz de benzodiazepínicos (2012) traz o retrato brasileiro de 2010: 41.678 mortes por acidentes de trânsito, em média 114 por dia, e quase 120.000 hospitalizações no SUS, taxa de 64 internações por 100.000 habitantes. A diretriz de drogas repete as 41.678 mortes e acrescenta que a mortalidade no trânsito superou a de homicídios em oito estados. Outros números brasileiros do acervo: 31.945 óbitos em 2019 (22,4% das mortes por causas externas, diretriz de gravidez). Os '37 mil mortos e 400 mil feridos por ano' anotados no aulão não aparecem em nenhuma fonte primária do acervo; trate como ordem de grandeza, não como número de prova.",
-  "porAlt": [
-   "31.945 é o número de óbitos de 2019 citado na diretriz de gravidez e puerpério.",
-   "As hospitalizações citadas são quase 120 mil, não 400 mil.",
-   "37 mil mortes e 400 mil feridos foram números falados em aula, sem apoio nas diretrizes do acervo.",
-   "Correta: 41.678 mortes em 2010 (114/dia), quase 120.000 hospitalizações no SUS, 64 internações por 100.000 habitantes.",
-   "13.718 são os óbitos de CICLISTAS em uma década, segundo a diretriz de bicicletas."
   ]
  },
  {
@@ -220,36 +197,13 @@
   "temaOrig": "epidemiologia",
   "sub": "Brasil: trânsito entre as causas externas",
   "base": "Diretriz ABRAMET — Gravidez e puerpério, item 1 (Introdução).",
-  "coment": "A diretriz de gravidez e puerpério situa o trânsito no perfil de morbimortalidade brasileiro: em 2019 houve 142.800 óbitos por causas externas, dos quais 31.945 decorrentes de lesões de trânsito, o que corresponde a 22,4%. Acrescenta que, embora a taxa de mortalidade por sinistros tenha diminuído nos últimos anos, as lesões envolvendo MOTOCICLISTAS têm tendência crescente, principalmente no interior do país — coerente com o motociclista em 1º lugar nos rankings de óbitos e internações. A mesma diretriz lembra o total mundial de cerca de 1,35 milhão de mortes por ano, ou 3.700 por dia.",
+  "coment": "A diretriz de gravidez e puerpério situa o trânsito no perfil de morbimortalidade brasileiro: em 2019 houve 142.800 óbitos por causas externas, dos quais 31.945 decorrentes de lesões de trânsito, o que corresponde a 22,4%. Acrescenta que, embora a taxa de mortalidade por sinistros tenha diminuído nos últimos anos, as lesões envolvendo MOTOCICLISTAS têm tendência crescente, principalmente no interior do país — coerente com o motociclista em 1º lugar nos rankings de óbitos e internações. No mundo, o dado mais recente do acervo é 1,19 milhão de mortes por ano (Relatório Global 2023 da OMS, na diretriz de tolerância, 2025); a diretriz de gravidez ainda cita 1,35 milhão.",
   "porAlt": [
    "41.678 é o total de mortes no trânsito de 2010, citado nas diretrizes de 2012.",
    "O total de causas externas em 2019 foi 142.800, e a fatia do trânsito, 22,4%.",
    "19.059 é o número de internações de PEDESTRES no SIH/SUS até julho de 2025 (diretriz de tolerância).",
    "O trânsito não responde por mais da metade das causas externas; a fatia é de 22,4%.",
    "Correta: 142.800 óbitos por causas externas em 2019, dos quais 31.945 (22,4%) por lesões de trânsito."
-  ]
- },
- {
-  "q": "No Relatório Mundial sobre Prevenção de Lesões no Trânsito (OMS, 2004), com dados de 2002, que posição as lesões de trânsito ocupavam entre as causas de morte por faixa etária?",
-  "alts": [
-   "Segunda causa de 5 a 14 e de 15 a 29 anos; terceira na de 30 a 44 anos",
-   "Principal causa de 5 a 14 e de 15 a 29 anos; segunda de 30 a 44 anos",
-   "Segunda causa de 5 a 14 e de 15 a 29 anos; principal de 30 a 44 anos",
-   "Terceira causa de 5 a 14 e de 15 a 29 anos; segunda de 30 a 44 anos",
-   "Principal causa de 5 a 29 anos; terceira de 30 a 44 e de 45 a 59 anos"
-  ],
-  "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
-  "sub": "Posição por faixa etária (Relatório Mundial 2004)",
-  "base": "OMS — Relatório Mundial sobre Prevenção de Lesões no Trânsito (2004), cap. 1, Tabela 1.1 (dados de 2002).",
-  "coment": "A Tabela 1.1 do Relatório Mundial de 2004 ordena as causas de morte por faixa etária em 2002. As lesões de trânsito eram a SEGUNDA causa entre 5 e 14 anos (atrás das doenças da infância) e entre 15 e 29 anos (atrás do HIV/aids), e a TERCEIRA entre 30 e 44 anos; mais de 50% das mortes ocorriam entre 15 e 44 anos. Hoje, pelo Relatório Global 2023 citado na diretriz de tolerância e pelo Plano Global 2021–2030, o trânsito é a PRINCIPAL causa de morte de 5 a 29 anos e a terceira de 30 a 44. Saber as duas séries evita a confusão que apareceu na anotação do aulão ('1º 15–29, 2º 5–14, 3º 30–44'), que não corresponde a nenhuma das duas.",
-  "porAlt": [
-   "Correta: na Tabela 1.1 (2002), trânsito é a 2ª causa de 5–14 e de 15–29 anos e a 3ª de 30–44 anos.",
-   "Em 2002 a principal causa de 5–14 eram as doenças da infância e de 15–29 o HIV/aids; o trânsito era a 2ª.",
-   "De 30 a 44 anos o trânsito era a 3ª causa, atrás de HIV/aids e tuberculose.",
-   "O trânsito era a 2ª causa (não a 3ª) de 5 a 14 e de 15 a 29 anos.",
-   "'Principal causa de 5 a 29' é a formulação ATUAL (OMS 2023); de 45 a 59 o trânsito era a 8ª causa em 2002."
   ]
  },
  {
@@ -358,7 +312,7 @@
   "temaOrig": "drogas",
   "sub": "MPPCVA: prejuízo equivalente",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 4 (Efeitos dos MPPCVA).",
-  "coment": "O item 4 do MPPCVA (2023) afirma que, segundo o Conselho Internacional sobre Álcool, Drogas e Segurança no Trânsito (ICADTS) e o Grupo de Trabalho sobre MPPCVA da União Europeia, esses medicamentos podem provocar prejuízo no desempenho do condutor semelhante ao constatado com alcoolemias entre 0,3 e 0,5 g/L. É o número que o professor marcou com estrela. Ele se articula com as outras réguas da diretriz: o DRUID mede o 'grau de comprometimento' tomando como referência o prejuízo de 0,3 g/L, e o ICADTS classifica em três categorias equivalentes a < 0,5, 0,5–0,8 e > 0,8 g/L. A intensidade depende de metabolização, idade, peso, dose, horário, início do uso, mudança de dose, duração, interações e combinação com álcool ou drogas.",
+  "coment": "O item 4 do MPPCVA (2023) afirma que, segundo o Conselho Internacional sobre Álcool, Drogas e Segurança no Trânsito (ICADTS) e o Grupo de Trabalho sobre MPPCVA da União Europeia, esses medicamentos podem provocar prejuízo no desempenho do condutor semelhante ao constatado com alcoolemias entre 0,3 e 0,5 g/L. Ele se articula com as outras réguas da diretriz: o DRUID mede o 'grau de comprometimento' tomando como referência o prejuízo de 0,3 g/L, e o ICADTS classifica em três categorias equivalentes a < 0,5, 0,5–0,8 e > 0,8 g/L. A intensidade depende de metabolização, idade, peso, dose, horário, início do uso, mudança de dose, duração, interações e combinação com álcool ou drogas.",
   "porAlt": [
    "0,6 g/L é o limiar penal do álcool (art. 306); a faixa dos MPPCVA é 0,3–0,5 g/L.",
    "Correta: MPPCVA podem provocar prejuízo semelhante ao de alcoolemias entre 0,3 e 0,5 g/L.",
@@ -381,7 +335,7 @@
   "temaOrig": "drogas",
   "sub": "ICADTS: categoria III",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 6.II (ICADTS).",
-  "coment": "O ICADTS classifica os medicamentos em três categorias, equivalentes às alcoolemias < 0,5 g/L, 0,5–0,8 g/L e > 0,8 g/L. Categoria I: presumivelmente seguro — 'não dirija antes de ler as advertências da bula'. Categoria II: efeitos adversos menores/moderados — 'não dirija sem consultar o médico'. Categoria III: efeitos graves/presumivelmente potencialmente perigosos — 'não dirija enquanto utilizar este medicamento'. Na aula foi anotado 'categoria III: inapto temporário'. A diretriz NÃO diz isso: as orientações do ICADTS são dirigidas ao condutor, e a Res. 927 não tem critério de aptidão por medicamento. O único 'inapto temporário' que o MPPCVA menciona é para dizer que o toxicológico positivo por uso lícito comprovado NÃO deve gerá-lo.",
+  "coment": "O ICADTS classifica os medicamentos em três categorias, equivalentes às alcoolemias < 0,5 g/L, 0,5–0,8 g/L e > 0,8 g/L. Categoria I: presumivelmente seguro — 'não dirija antes de ler as advertências da bula'. Categoria II: efeitos adversos menores/moderados — 'não dirija sem consultar o médico'. Categoria III: efeitos graves/presumivelmente potencialmente perigosos — 'não dirija enquanto utilizar este medicamento'. A categoria III NÃO equivale a 'inapto temporário': as orientações do ICADTS são dirigidas ao condutor, e a Res. 927 não tem critério de aptidão por medicamento. O único 'inapto temporário' que o MPPCVA menciona é para dizer que o toxicológico positivo por uso lícito comprovado NÃO deve gerá-lo.",
   "porAlt": [
    "'Não dirija sem consultar o médico' é a orientação da categoria II.",
    "Correta: categoria III = efeitos graves/potencialmente perigosos, equivalente a > 0,8 g/L; orientação: não dirija enquanto utilizar este medicamento.",
@@ -542,7 +496,7 @@
   "temaOrig": "alcool",
   "sub": "Dose padrão",
   "base": "Diretriz ABRAMET — Alcoolemia e direção veicular segura (11/07/2008), item 1 (Introdução).",
-  "coment": "A introdução da diretriz de alcoolemia (2008) define a dose: 'uma lata de cerveja, uma taça de vinho ou meio copo de uísque corresponde a aproximadamente 12 g de álcool'. Um adulto médio (homem de 70 kg ou mulher de 62 kg, em bom estado de saúde) que consome DUAS doses atinge alcoolemia de 0,3 a 0,5 g/l. Na aula a equivalência foi anotada como 'uma dose de destilado'; a diretriz especifica meio copo de uísque. A mesma diretriz lembra que, pela grande variabilidade individual (sexo, peso, etnia, hábito), não existe concentração segura: alcoolemia zero é o único padrão de dirigibilidade sem riscos.",
+  "coment": "A introdução da diretriz de alcoolemia (2008) define a dose: 'uma lata de cerveja, uma taça de vinho ou meio copo de uísque corresponde a aproximadamente 12 g de álcool'. Um adulto médio (homem de 70 kg ou mulher de 62 kg, em bom estado de saúde) que consome DUAS doses atinge alcoolemia de 0,3 a 0,5 g/l. Para o destilado, a diretriz especifica meio copo de uísque, não um copo inteiro. A mesma diretriz lembra que, pela grande variabilidade individual (sexo, peso, etnia, hábito), não existe concentração segura: alcoolemia zero é o único padrão de dirigibilidade sem riscos.",
   "porAlt": [
    "Correta: a diretriz define a dose como uma lata de cerveja, uma taça de vinho ou meio copo de uísque, cerca de 12 g de álcool.",
    "A unidade de cerveja da diretriz é a lata; e o destilado é meio copo, não um copo inteiro.",
@@ -565,7 +519,7 @@
   "temaOrig": "alcool",
   "sub": "Unidades: g/dL, g/L e dg/L",
   "base": "CTB, art. 306, §1º, I; Resolução CONTRAN nº 1.031/2026, art. 9º, IV e §3º.",
-  "coment": "O art. 306, §1º, I, do CTB constata o crime por concentração igual ou superior a 6 decigramas de álcool por litro de SANGUE ou igual ou superior a 0,3 mg por litro de AR ALVEOLAR. Converter unidades é pegadinha certa: 6 dg/L = 0,6 g/L = 0,06 g/dL. Na aula a anotação falou em '0,6 g/dL', que seria 6 g/L (dez vezes mais) — o correto é 0,6 g/L. Pela Res. 1.031/2026, o exame de sangue com resultado ≥ 6 dg/L caracteriza o crime (art. 9º, IV), mas é exame SUPLEMENTAR, feito a critério da autoridade policial, que pode servir de contraprova no inquérito (§3º). O crime não afasta a infração do art. 165 (§1º).",
+  "coment": "O art. 306, §1º, I, do CTB constata o crime por concentração igual ou superior a 6 decigramas de álcool por litro de SANGUE ou igual ou superior a 0,3 mg por litro de AR ALVEOLAR. Converter unidades é pegadinha certa: 6 dg/L = 0,6 g/L = 0,06 g/dL. Cuidado: '0,6 g/dL' seria 6 g/L (dez vezes mais); o patamar é 0,6 g/L. Pela Res. 1.031/2026, o exame de sangue com resultado ≥ 6 dg/L caracteriza o crime (art. 9º, IV), mas é exame SUPLEMENTAR, feito a critério da autoridade policial, que pode servir de contraprova no inquérito (§3º). O crime não afasta a infração do art. 165 (§1º).",
   "porAlt": [
    "Para passar de g/dL a g/L multiplica-se por 10: 0,06 g/dL = 0,6 g/L, não 0,06 g/L.",
    "6 g/L seria uma alcoolemia letal; 0,06 g/dL corresponde a 0,6 g/L.",
@@ -640,7 +594,7 @@
    "Resolução não altera limiar fixado em lei; o 0,3 do art. 306 continua valendo, e 0,34 é a medição bruta.",
    "O erro de 8% vale para medições acima de 0,40 até 2,00 mg/L; abaixo de 0,40 é 0,032 mg/L.",
    "O par legal é 0,6 g/L de sangue = 0,3 mg/L de ar; a infração começa na medição de 0,05.",
-   "O erro máximo abaixo de 0,40 mg/L é 0,032, não 0,04 (valor que circulou na aula)."
+   "O erro máximo abaixo de 0,40 mg/L é 0,032, não 0,04."
   ]
  },
  {
@@ -680,7 +634,7 @@
   "temaOrig": "drogas",
   "sub": "Cocaína e visão",
   "base": "Diretriz ABRAMET — Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas (15/12/2012), item 3 (Cocaína).",
-  "coment": "A diretriz de drogas descreve a cocaína assim: alto risco de infrações e acidentes, que diminui após o tratamento da dependência; uso significativamente menor de capacete e cinto; alto risco para acidentes fatais; pequena melhora inicial do desempenho seguida de comportamento de risco. O prejuízo 'pode ocorrer em razão da perda de concentração e atenção e MAIOR sensibilidade à luz, em função da dilatação pupilar'. Na aula foi anotado 'menos sensibilidade à luz' — a diretriz diz o contrário. Associa ainda nervosismo, agressividade, paranoia, excesso de velocidade, perda do controle do veículo e manobras de alto risco. Opiáceos, ao contrário, causam miose.",
+  "coment": "A diretriz de drogas descreve a cocaína assim: alto risco de infrações e acidentes, que diminui após o tratamento da dependência; uso significativamente menor de capacete e cinto; alto risco para acidentes fatais; pequena melhora inicial do desempenho seguida de comportamento de risco. O prejuízo 'pode ocorrer em razão da perda de concentração e atenção e MAIOR sensibilidade à luz, em função da dilatação pupilar'. Associa ainda nervosismo, agressividade, paranoia, excesso de velocidade, perda do controle do veículo e manobras de alto risco. Opiáceos, ao contrário, causam miose.",
   "porAlt": [
    "Constrição pupilar (miose) é efeito dos opiáceos, que prejudica a acomodação à luz à noite.",
    "Correta: o prejuízo decorre da perda de concentração e atenção e da MAIOR sensibilidade à luz, pela dilatação pupilar provocada pela droga.",
@@ -703,7 +657,7 @@
   "temaOrig": "drogas",
   "sub": "BZD: queda do risco em quatro semanas",
   "base": "Diretriz ABRAMET/AMB/CFM — Uso de benzodiazepínicos e risco de acidente de trânsito (15/12/2012), item 3 e Tabela 2.",
-  "coment": "A diretriz de BZD mostra que o risco é mais que o dobro e se concentra no início: 'ocorre principalmente nas duas primeiras semanas de tratamento, diminuindo a partir da terceira semana, até chegar a números estatisticamente insignificantes na quarta semana', pela tolerância aos efeitos sedativos. No estudo de Neutel (1995), o risco de hospitalização por acidente com BZD HIPNÓTICOS caiu de 9,1 na primeira semana para 2,7 na quarta, sem efeito mensurável depois; com BZD ANSIOLÍTICOS, de 13,5 para 1,9 na semana seguinte. Na aula: 'insignificante após 4 semanas' — o texto diz 'na quarta semana'. A orientação é não conduzir nos primeiros dias.",
+  "coment": "A diretriz de BZD mostra que o risco é mais que o dobro e se concentra no início: 'ocorre principalmente nas duas primeiras semanas de tratamento, diminuindo a partir da terceira semana, até chegar a números estatisticamente insignificantes na quarta semana', pela tolerância aos efeitos sedativos. No estudo de Neutel (1995), o risco de hospitalização por acidente com BZD HIPNÓTICOS caiu de 9,1 na primeira semana para 2,7 na quarta, sem efeito mensurável depois; com BZD ANSIOLÍTICOS, de 13,5 para 1,9 na semana seguinte. A redação é 'na quarta semana' (não 'após 4 semanas'), repetida pelo MPPCVA (2023). A orientação é não conduzir nos primeiros dias.",
   "porAlt": [
    "13,5 → 1,9 é a curva dos BZD ANSIOLÍTICOS, que caiu já na semana seguinte.",
    "O risco é maior no início e cai com a tolerância; não sobe.",

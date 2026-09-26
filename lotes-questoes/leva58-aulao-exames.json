@@ -13,7 +13,7 @@
   "temaOrig": "oftalmo",
   "sub": "Binocularidade (★)",
   "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.1.1 e 1.1.2",
-  "coment": "O item 1.1.1 do Anexo II admite, para C, D e E, duas combinações de acuidade: 20/30 (0,66) em cada olho, ou 20/30 em um olho e 20/40 (0,50) no outro, com visão binocular mínima de 20/25 (0,80). O candidato está exatamente na combinação assimétrica e alcança 20/25 com os dois olhos abertos, que é o ponto que o professor marcou com estrela no aulão. O campo exigido (item 1.1.2) é de 120º em cada olho, e ele tem 125º. Todos os parâmetros estão satisfeitos. Pegadinha: não existe piso binocular de 20/20, e o olho de 20/40 não afasta as categorias profissionais quando o binocular chega a 20/25.",
+  "coment": "O item 1.1.1 do Anexo II admite, para C, D e E, duas combinações de acuidade: 20/30 (0,66) em cada olho, ou 20/30 em um olho e 20/40 (0,50) no outro, com visão binocular mínima de 20/25 (0,80). O candidato está exatamente na combinação assimétrica e alcança 20/25 com os dois olhos abertos. O campo exigido (item 1.1.2) é de 120º em cada olho, e ele tem 125º. Todos os parâmetros estão satisfeitos. Pegadinha: não existe piso binocular de 20/20, e o olho de 20/40 não afasta as categorias profissionais quando o binocular chega a 20/25.",
   "porAlt": [
    "Errada: a própria norma admite a alternativa 20/30 em um olho e 20/40 no outro.",
    "Errada: o piso binocular é 20/25 (0,80), não 20/20.",
@@ -82,9 +82,9 @@
   "temaOrig": "oftalmo",
   "sub": "Visão monocular (★)",
   "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.3.3",
-  "coment": "O item 1.3 abre a ACC e as categorias A e B ao candidato sem percepção luminosa em um olho, desde que observados três parâmetros: acuidade de 20/30 ou mais (1.3.1), campo de 120º ou mais na isóptera horizontal (1.3.2) e, 'decorridos, no mínimo, noventa dias da perda da visão', laudo indicando capacete de segurança com viseira protetora, sem limitação de campo visual (1.3.3). No aulão foi anotado 'mais de 30 dias'; a norma diz noventa. A motocicleta não é vedada: a categoria A está entre as permitidas, e é justamente por isso que o capacete com viseira aparece no laudo.",
+  "coment": "O item 1.3 abre a ACC e as categorias A e B ao candidato sem percepção luminosa em um olho, desde que observados três parâmetros: acuidade de 20/30 ou mais (1.3.1), campo de 120º ou mais na isóptera horizontal (1.3.2) e, 'decorridos, no mínimo, noventa dias da perda da visão', laudo indicando capacete de segurança com viseira protetora, sem limitação de campo visual (1.3.3). A diretriz ABRAMET do condutor idoso (2022, item 7.5) repete os noventa dias. A motocicleta não é vedada: a categoria A está entre as permitidas, e é justamente por isso que o capacete com viseira aparece no laudo.",
   "porAlt": [
-   "Errada: trinta dias foi a anotação da aula; o texto do item 1.3.3 diz noventa dias.",
+   "Errada: o item 1.3.3 diz no mínimo noventa dias, e não trinta.",
    "Errada: o prazo não é de seis meses e a norma fala em capacete com viseira, não em óculos.",
    "Errada: não há prazo de um ano nem restrição U no item 1.3.",
    "Errada: o prazo é de noventa dias e a categoria A (motocicleta) é permitida.",
@@ -128,7 +128,7 @@
   "temaOrig": "oftalmo",
   "sub": "Visão monocular (★)",
   "base": "Lei nº 14.126/2021, art. 1º",
-  "coment": "O art. 1º da Lei 14.126, de 22/03/2021, classifica a visão monocular como deficiência sensorial, do tipo visual, 'para todos os efeitos legais', e o parágrafo único manda aplicar a ela o § 2º do art. 2º do Estatuto da Pessoa com Deficiência (Lei 13.146/2015). Foi o ponto marcado na aula ('é PcD'). Não confunda com a Junta Médica Especial: a Resolução 927 (art. 4º, § 1º) manda à JME o candidato com deficiência física, e o olho único tem critério próprio no Anexo II, item 1.3 (ACC, A e B; 20/30; 120º; 90 dias; capacete com viseira).",
+  "coment": "O art. 1º da Lei 14.126, de 22/03/2021, classifica a visão monocular como deficiência sensorial, do tipo visual, 'para todos os efeitos legais', e o parágrafo único manda aplicar a ela o § 2º do art. 2º do Estatuto da Pessoa com Deficiência (Lei 13.146/2015). Não confunda com a Junta Médica Especial: a Resolução 927 (art. 4º, § 1º) manda à JME o candidato com deficiência física, e o olho único tem critério próprio no Anexo II, item 1.3 (ACC, A e B; 20/30; 120º; 90 dias; capacete com viseira).",
   "porAlt": [
    "Errada: a lei fala em deficiência sensorial, do tipo visual, e não motora.",
    "Errada: a lei classifica a visão monocular como deficiência, sem condicionar ao campo.",
@@ -196,8 +196,8 @@
   "tema": "vespera",
   "temaOrig": "oftalmo",
   "sub": "Visão noturna e ofuscamento",
-  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1; Anexo XV",
-  "coment": "O item 4.1 do Anexo II diz que o candidato 'deverá possuir visão em baixa luminosidade e recuperação após ofuscamento direto', sem distinguir categoria, e o art. 17, II, k, obriga a entidade a ter equipamento para avaliar ofuscamento e visão noturna. O Anexo XV define o código U como 'vedado dirigir após o pôr-do-sol'; o T é 'vedado dirigir em rodovias e vias de trânsito rápido', e o X é 'outras restrições'. Na aula foi anotado que a falha nesse teste leva à restrição U. É a restrição coerente, mas repare que o Anexo II não escreve o código: ele só exige a função.",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1; Anexo XV; Diretriz ABRAMET — O condutor idoso (2022), item 7.5",
+  "coment": "O item 4.1 do Anexo II diz que o candidato 'deverá possuir visão em baixa luminosidade e recuperação após ofuscamento direto', sem distinguir categoria, e o art. 17, II, k, obriga a entidade a ter equipamento para avaliar ofuscamento e visão noturna. O Anexo XV define o código U como 'vedado dirigir após o pôr-do-sol'; o T é 'vedado dirigir em rodovias e vias de trânsito rápido', e o X é 'outras restrições'. O Anexo II não escreve o código; quem o liga à falha é a diretriz ABRAMET do condutor idoso (dez/2022, item 7.5): reprovado na visão noturna e/ou no ofuscamento, avaliação oftalmológica específica; comprovada patologia ocular persistente, apto com a restrição U e diminuição do prazo a critério médico.",
   "porAlt": [
    "Errada: o código T veda rodovias e vias de trânsito rápido, não o período noturno.",
    "Errada: a exigência vale para todos os candidatos, e U não trata de rodovias.",
@@ -472,37 +472,37 @@
   "tema": "vespera",
   "temaOrig": "cardio",
   "sub": "Marca-passo (★)",
-  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Figura 1",
-  "coment": "A Figura 1 da diretriz de DCEI divide a direção em privada (condutor que não exerce atividade remunerada: ACC, A, B) e profissional (exerce atividade remunerada: ACC a E). Para o marca-passo, os prazos são: implante 2 e 4 semanas; troca de gerador 1 e 2 semanas; troca de eletrodo 2 e 4 semanas. Afastamento permanente na direção profissional é regra do CDI, não do marca-passo. Lembre a contradição: o texto do item 2.1 da mesma diretriz e o Anexo VII da Resolução 927 falam em 2 e 6 semanas para o implante.",
+  "base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), Figura 1; Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "A Figura 1 da diretriz de DCEI (elaboração final em outubro de 2012) divide a direção em privada (condutor que não exerce atividade remunerada) e profissional (exerce atividade remunerada). Para o marca-passo, a troca de gerador tem 1 semana (privada) e 2 semanas (profissional), e a troca de eletrodo, 2 e 4 semanas. A Resolução 927/2022 não trata de troca de gerador nem de eletrodo, então esses prazos continuam sendo os da diretriz. Para o IMPLANTE, a regra vigente é a do Anexo VII da Resolução 927/2022, mais recente: 2 semanas na ACC, A e B e 6 semanas em C, D e E (igual ao texto do item 2.1 da diretriz; a Figura 1 traz 4 para o profissional, em contradição com o próprio texto). Afastamento permanente na direção profissional é regra do CDI, não do marca-passo.",
   "porAlt": [
-   "Errada: 2 e 4 semanas são os prazos do implante e da troca de eletrodo.",
+   "Errada: na Figura 1, 2 e 4 semanas são os prazos da troca de eletrodo.",
    "Errada: afastamento permanente é regra do CDI na direção profissional.",
-   "Errada: 2 e 6 semanas é o implante no Anexo VII e no texto da diretriz.",
+   "Errada: 2 e 6 semanas é o implante pelo Anexo VII da Resolução 927/2022.",
    "Errada: esses prazos não constam da Figura 1 do marca-passo.",
    "Correta: troca de gerador, 1 semana (privada) e 2 semanas (profissional)."
   ]
  },
  {
-  "q": "Sobre o afastamento da direção PROFISSIONAL após o implante de marca-passo, assinale a alternativa que descreve corretamente as fontes.",
+  "q": "Motorista de ônibus de 52 anos, categoria D, implantou marca-passo definitivo há cinco semanas por doença do nó sinusal. Traz relatório cardiológico favorável e a etiologia já foi avaliada. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
   "alts": [
-   "O Anexo VII e o texto da diretriz dão 6 semanas; a Figura 1 da diretriz dá 4",
-   "O Anexo VII dá 4 semanas; o texto e a Figura 1 da diretriz dão 6 semanas cada",
-   "O Anexo VII e a Figura 1 da diretriz dão 6 semanas; o texto da diretriz, 4",
-   "O Anexo VII, o texto e a Figura 1 da diretriz dão 6 semanas, sem divergência",
-   "O Anexo VII dá 2 semanas; o texto e a Figura 1 da diretriz dão 4 semanas cada"
+   "Ainda não: em C, D e E o prazo mínimo é de seis semanas após o implante",
+   "Apto: em C, D e E bastam quatro semanas após o implante do marca-passo",
+   "Apto: duas semanas após o implante bastam em qualquer categoria da CNH",
+   "Ainda não: em C, D e E o prazo mínimo é de doze semanas após o implante",
+   "Inapto definitivo: marca-passo impede as categorias C, D e E na norma"
   ],
   "gab": 0,
   "tema": "vespera",
   "temaOrig": "cardio",
   "sub": "Marca-passo (★)",
-  "base": "Resolução CONTRAN nº 927/2022, Anexo VII; Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 2.1 e Figura 1",
-  "coment": "O Anexo VII da Resolução 927 exige, para C, D e E, seis semanas da implantação, com relatório cardiológico favorável e avaliação da etiologia. O texto corrido do item 2.1 da diretriz de DCEI diz que, pelas recomendações da ABRAMET, o paciente deve ficar afastado duas semanas na direção particular e seis na profissional. A Figura 1 da mesma diretriz traz duas e quatro semanas. A aula anotou '6 semanas (CONTRAN) / 4 semanas (diretriz)'. Na prova, veja qual fonte o enunciado cita: Resolução ou texto da diretriz, 6; figura da diretriz, 4.",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII; Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 2.1",
+  "coment": "Na coluna de C, D e E, o Anexo VII da Resolução 927/2022 aprova o portador de marca-passo 'após seis semanas da implantação', com relatório cardiológico favorável e avaliação da etiologia, e diminuição do prazo de validade a critério médico. Com cinco semanas, o motorista ainda não cumpre o prazo, mesmo com relatório e etiologia resolvidos. As duas semanas valem para a ACC e as categorias A e B, com exame cardiológico normal. O texto do item 2.1 da diretriz de DCEI (2012) diz o mesmo: 2 semanas na direção particular e 6 na profissional. Atualizado: a Figura 1 dessa diretriz trazia 4 semanas para o profissional, em contradição com o próprio texto; a regra vigente é a da resolução, mais recente. Doze semanas são do infarto (C, D e E) e da revascularização.",
   "porAlt": [
-   "Correta: 6 semanas no Anexo VII e no texto do item 2.1; 4 semanas na Figura 1.",
-   "Errada: o Anexo VII dá 6 semanas, e a figura é que dá 4.",
-   "Errada: a Figura 1 dá 4 semanas, e o texto é que dá 6.",
-   "Errada: há divergência entre o texto e a Figura 1 da diretriz.",
-   "Errada: 2 semanas é o prazo da coluna ACC, A e B do Anexo VII."
+   "Correta: seis semanas do implante em C, D e E, com relatório favorável e etiologia avaliada.",
+   "Errada: quatro semanas é o número da Figura 1 da diretriz de 2012; a regra vigente é seis.",
+   "Errada: duas semanas valem só para a ACC e as categorias A e B.",
+   "Errada: doze semanas são do infarto em C, D e E e da revascularização.",
+   "Errada: a norma aprova o marca-passo em C, D e E após seis semanas, com relatório."
   ]
  },
  {
@@ -518,10 +518,10 @@
   "tema": "vespera",
   "temaOrig": "cardio",
   "sub": "Arritmias e BAV",
-  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 3.2.2 e Figura 4",
-  "coment": "A diretriz distingue os bloqueios. BAV de 1º grau e BAV de 2º grau tipo I (Mobitz I), assintomáticos, não desqualificam nem para a direção profissional, com avaliação periódica e Holter anual. Já o BAV de 2º grau tipo II (Mobitz II) e o BAV total adquirido 'desqualificam o portador para a direção veicular em qualquer condição, até que o tratamento eficaz, normalmente com implante de marca-passo definitivo, seja instituído' (item 3.2.2; Figura 4). Depois do marca-passo, valem os prazos do dispositivo. O critério de QRS menor ou igual a 110 ms e pausas menores que 3 s é do BAV total congênito na direção profissional.",
+  "base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.2.2 e Figura 4; Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "O BAV de 2º grau tipo II (Mobitz II) e o BAV total adquirido 'desqualificam o portador para a direção veicular em qualquer condição, até que o tratamento eficaz, normalmente com implante de marca-passo definitivo, seja instituído' (item 3.2.2; Figura 4). Depois do marca-passo, valem os prazos do dispositivo. A Resolução 927/2022 (Anexo VII), mais recente, chega ao mesmo resultado por outro caminho: BAV de 2º e 3º grau é inapto temporariamente, sem distinguir o tipo. O critério de QRS menor ou igual a 110 ms e pausas menores que 3 s é do BAV total congênito na direção profissional.",
   "porAlt": [
-   "Errada: essa conduta é a do BAV de 1º grau e do Mobitz I.",
+   "Errada: o Mobitz II não é liberado; o Anexo VII dá inapto temporário ao BAV de 2º grau.",
    "Correta: Mobitz II desqualifica em qualquer condição até o tratamento definitivo.",
    "Errada: o Mobitz II desqualifica também a direção privada até o tratamento.",
    "Errada: o critério do QRS de escape é do BAV total congênito.",
@@ -541,7 +541,7 @@
   "tema": "vespera",
   "temaOrig": "cardio",
   "sub": "Fibrilação atrial (★)",
-  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Quadro 1",
+  "base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), Quadro 1",
   "coment": "O Quadro 1 da diretriz traz cinco orientações ao portador de FA: (1) sintomáticos não deverão dirigir; (2) pacientes em investigação diagnóstica deverão ser desaconselhados a dirigir; (3) se o tratamento permite controle adequado sem complicações, a direção poderá ser consentida sob orientação do cardiologista assistente; (4) alto risco de tromboembolismo, miocardiopatia, estenose mitral ou insuficiência cardíaca descompensada devem ser desencorajados de dirigir; (5) anticoagulados devem ser informados de que são mais vulneráveis a hemorragias em lesões por acidentes. O caso é o item 2.",
   "porAlt": [
    "Errada: em investigação diagnóstica, a orientação é desaconselhar a direção.",
@@ -564,7 +564,7 @@
   "tema": "vespera",
   "temaOrig": "cardio",
   "sub": "Fibrilação atrial (★)",
-  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Quadro 1, item 4",
+  "base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), Quadro 1, item 4",
   "coment": "O item 4 do Quadro 1 é textual: 'pacientes com alto risco de desenvolver tromboembolismo, miocardiopatia, e portadores de estenose mitral ou insuficiência cardíaca descompensada devem ser desencorajados de dirigir'. A FA crônica com frequência ventricular adequadamente controlada e sem prejuízo da consciência não tem restrição, com anticoagulação se indicada, tanto na direção privada quanto na profissional (Figura 5). A paroxística sem prejuízo da consciência também não tem restrição. A diretriz não usa a idade como critério.",
   "porAlt": [
    "Errada: FA crônica controlada não tem restrição, com anticoagulação se indicada (Figura 5).",
@@ -587,7 +587,7 @@
   "tema": "vespera",
   "temaOrig": "cardio",
   "sub": "Taquicardia supraventricular",
-  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 3.2.4.2 e Figura 5",
+  "base": "Diretriz ABRAMET/SBC de direção veicular em portadores de DCEI e arritmias cardíacas (2012), item 3.2.4.2 e Figura 5",
   "coment": "Pela Figura 5, a taquicardia supraventricular paroxística com prejuízo do nível de consciência exige 'controle satisfatório' tanto na direção privada quanto na profissional; sem prejuízo da consciência, não há restrições. O texto diz que a ablação por radiofrequência tem resultados excelentes e é recomendada para controle definitivo e liberação quando há síncope, pré-síncope ou tonturas relacionadas à taquicardia; se a ablação for impossível, o antiarrítmico é mandatório. A diretriz registra síncope em 33% a 39% dos portadores de taquicardia por reentrada nodal. Após a ablação, a volta à direção profissional é uma semana após a alta.",
   "porAlt": [
    "Errada: a diretriz relata síncope em 33% a 39% na reentrada nodal.",
@@ -772,7 +772,7 @@
   "temaOrig": "neuro",
   "sub": "AVC",
   "base": "Diretriz ABRAMET — O condutor idoso (2022), item 7.8",
-  "coment": "A diretriz do condutor idoso (item 7.8) diz que idosos acometidos de AVC 'poderão retomar a condução de um veículo se apresentarem recuperação completa, sem evidência de dano neurológico permanente'. Persistindo o comprometimento das funções neuromuscular, motora ou sensorial, o encaminhamento é para a Junta Médica Especial, com avaliação pela NBR 14.970 da ABNT. Na aula foi anotado 'apto com diminuição do prazo'; a diretriz não escreve isso para o AVC (escreve para o AIT), mas o perito pode propor prazo menor com base no art. 147, § 4º, do CTB.",
+  "coment": "A diretriz do condutor idoso (item 7.8) diz que idosos acometidos de AVC 'poderão retomar a condução de um veículo se apresentarem recuperação completa, sem evidência de dano neurológico permanente'. Persistindo o comprometimento das funções neuromuscular, motora ou sensorial, o encaminhamento é para a Junta Médica Especial, com avaliação pela NBR 14.970 da ABNT. A diretriz não escreve 'diminuição do prazo' para o AVC (escreve para o AIT), mas o perito pode propor prazo menor com base no art. 147, § 4º, do CTB, quando houver indício de deficiência ou doença progressiva.",
   "porAlt": [
    "Errada: a JME é para quem mantém comprometimento neuromuscular, motor ou sensorial.",
    "Errada: com recuperação completa, a diretriz permite retomar a condução.",
@@ -818,7 +818,7 @@
   "temaOrig": "sono",
   "sub": "Epworth (★★)",
   "base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.2.5 e 1.3",
-  "coment": "O texto oficial se contradiz. O item 1.2.5 lista como indício 'Escala de Sonolência Epworth: > 12'. O item 1.3 diz 'escore na escala de sonolência de Epworth maior ou igual a 12 (> 12)'. A aula ensinou 12 ou mais. Na prática, só o escore exatamente 12 muda de lado conforme a leitura: 13 ou mais é positivo e 11 ou menos é negativo pelas duas redações. Por isso a questão bem feita não depende do 12 exato; se depender, veja qual item o enunciado cita.",
+  "coment": "O texto oficial se contradiz. O item 1.2.5 lista como indício 'Escala de Sonolência Epworth: > 12'. O item 1.3 diz 'escore na escala de sonolência de Epworth maior ou igual a 12 (> 12)'. A diretriz ABRAMET de epilepsia (2025, item 5), a fonte mais recente que usa o corte, exige Epworth inferior a 12 para descartar sonolência, o que lê o 12 como positivo. Na prática, só o escore exatamente 12 muda de lado conforme a leitura: 13 ou mais é positivo e 11 ou menos é negativo pelas duas redações. Por isso a questão bem feita não depende do 12 exato.",
   "porAlt": [
    "Errada: o corte do Anexo X gira em torno de 12, não de 10.",
    "Errada: nenhum dos dois itens usa 10 como corte.",
@@ -910,7 +910,7 @@
   "temaOrig": "sono",
   "sub": "Conduta (★★)",
   "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.3",
-  "coment": "O item 1.3 diz que o candidato com Epworth de 12 ou mais e/ou dois ou mais indícios objetivos, 'a critério médico, poderá ser aprovado temporariamente ou ser encaminhado para avaliação médica específica e realização de polissonografia (PSG)'. Na aula foi anotado 'reprovado temporário'; a norma diz 'aprovado temporariamente', ou seja, o condutor sai apto, com prazo curto. Isso não impede que outra condição leve à inaptidão temporária, mas não é a conduta escrita no item 1.3.",
+  "coment": "O item 1.3 diz que o candidato com Epworth de 12 ou mais e/ou dois ou mais indícios objetivos, 'a critério médico, poderá ser aprovado temporariamente ou ser encaminhado para avaliação médica específica e realização de polissonografia (PSG)'. A norma diz 'aprovado temporariamente', e não 'reprovado': o condutor sai apto, com prazo curto. Isso não impede que outra condição leve à inaptidão temporária, mas não é a conduta escrita no item 1.3.",
   "porAlt": [
    "Errada (está prevista): 'poderá ser aprovado temporariamente'.",
    "Errada (está prevista): 'encaminhado para avaliação médica específica'.",

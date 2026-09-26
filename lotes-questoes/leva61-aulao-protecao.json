@@ -13,7 +13,7 @@
   "temaOrig": "protecao",
   "sub": "DRC — Res. 819: escolha do dispositivo",
   "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III, e art. 2º; CTB art. 64",
-  "coment": "O Anexo da Resolução CONTRAN 819/2021 escalona os dispositivos por idade OU por peso e altura. O assento de elevação vale para crianças com idade superior a 4 anos e inferior ou igual a 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. A criança do caso (5 anos, 19 kg, 1,10 m) cai nas duas condições. O art. 64 do CTB e o art. 2º da Resolução exigem o banco traseiro para quem tem menos de 10 anos e ainda não atingiu 1,45 m. A cadeirinha é para mais de 1 e até 4 anos, ou 9 a 18 kg; o cinto do veículo sozinho, para mais de 7,5 anos ou mais de 1,45 m. Atenção: a diretriz ABRAMET de 2006 põe o booster a partir de cerca de 18 kg; a lei usa 15 kg.",
+  "coment": "O Anexo da Resolução CONTRAN 819/2021 escalona os dispositivos por idade OU por peso e altura. O assento de elevação vale para crianças com idade superior a 4 anos e inferior ou igual a 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. A criança do caso (5 anos, 19 kg, 1,10 m) cai nas duas condições. O art. 64 do CTB e o art. 2º da Resolução exigem o banco traseiro para quem tem menos de 10 anos e ainda não atingiu 1,45 m. A cadeirinha é para mais de 1 e até 4 anos, ou 9 a 18 kg; o cinto do veículo sozinho, para mais de 7,5 anos ou mais de 1,45 m. Atualizado: a diretriz ABRAMET de 2006 começava o booster em 18 kg; a regra vigente (819) usa 15 kg.",
   "porAlt": [
    "Passar de 18 kg tira a criança da cadeirinha, não do assento de elevação; o cinto sozinho só vale acima de 7,5 anos ou acima de 1,45 m.",
    "Com menos de 10 anos e menos de 1,45 m a regra é o banco traseiro; o dianteiro só nas exceções do art. 3º, que o caso não descreve.",
@@ -36,9 +36,9 @@
   "temaOrig": "protecao",
   "sub": "DRC — Res. 819: limite do assento de elevação",
   "base": "Resolução CONTRAN nº 819/2021, Anexo, incisos III e IV",
-  "coment": "A Resolução CONTRAN 819/2021 (Anexo, III) prevê o assento de elevação para crianças com idade superior a quatro anos e inferior ou igual a sete anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. O inciso IV passa ao cinto de segurança do veículo a criança com idade superior a sete anos e meio e inferior ou igual a dez anos, ou com altura superior a 1,45 m. O número 10 anos pertence a outra regra: é o limite do art. 64 do CTB para o banco traseiro (menos de 10 anos e menos de 1,45 m). A pegadinha é a anotação comum 'booster de 4 a 10 anos', que é da diretriz ABRAMET de 2006, recomendação médica e não a regra legal.",
+  "coment": "A Resolução CONTRAN 819/2021 (Anexo, III) prevê o assento de elevação para crianças com idade superior a quatro anos e inferior ou igual a sete anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. O inciso IV passa ao cinto de segurança do veículo a criança com idade superior a sete anos e meio e inferior ou igual a dez anos, ou com altura superior a 1,45 m. O número 10 anos pertence a outra regra: é o limite do art. 64 do CTB para o banco traseiro (menos de 10 anos e menos de 1,45 m). Atualizado: 'booster de 4 a 10 anos' era a faixa da diretriz ABRAMET de 2006, superada pela 819.",
   "porAlt": [
-   "Dez anos é o limite do banco traseiro (CTB art. 64) e da recomendação ABRAMET de 2006 para o booster, não o do assento de elevação na lei.",
+   "Dez anos é o limite do banco traseiro (CTB art. 64), não o do assento de elevação, que na Resolução vai até 7,5 anos.",
    "Oito anos não aparece na Resolução; o peso de 36 kg é o teto do assento de elevação, mas o corte de idade é 7,5 anos.",
    "Seis anos não é corte da Resolução; o assento de elevação cobre de mais de 4 até 7,5 anos.",
    "Correta: o Anexo, III, vai até sete anos e meio; o inciso IV põe no cinto do veículo quem tem mais de 7,5 e até 10 anos.",
@@ -46,7 +46,7 @@
   ]
  },
  {
-  "q": "Qual é a faixa de peso do assento de elevação na Resolução CONTRAN nº 819/2021, que difere da faixa recomendada pela diretriz ABRAMET de 2006?",
+  "q": "Pela Resolução CONTRAN nº 819/2021, qual é a faixa de peso e de altura prevista para o assento de elevação?",
   "alts": [
    "De 9 a 18 kg, com altura de até 1,00 m, conforme o limite definido pelo fabricante",
    "De 18 a 36 kg, com altura de até 1,45 m, conforme o limite definido pelo fabricante",
@@ -58,18 +58,18 @@
   "tema": "vespera",
   "temaOrig": "protecao",
   "sub": "DRC — Res. 819: faixa de peso do assento de elevação",
-  "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III; Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 3",
-  "coment": "O Anexo, III, da Resolução CONTRAN 819/2021 define o assento de elevação para crianças com mais de 4 e até 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo do fabricante. A diretriz ABRAMET de 2006 (parte II, Tabela 3) recomenda o booster de 18 a 36 kg e de 4 a 10 anos: foi essa a faixa anotada no aulão. Os números 22 a 36 kg (1,30 m) e 15 a 25 kg (1,15 m) são os grupos de massa III e II da NBR 14400 citados na diretriz; 9 a 18 kg é a faixa da cadeirinha. Em prova, 'Resolução', 'obrigatório' ou 'infração' pedem 15 a 36 kg.",
+  "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III",
+  "coment": "O Anexo, III, da Resolução CONTRAN 819/2021 define o assento de elevação para crianças com mais de 4 e até 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo definido pelo fabricante do dispositivo. 9 a 18 kg é a faixa da cadeirinha (Anexo, II). As demais faixas não constam da Resolução. Atualizado: a diretriz ABRAMET de 2006 usava 18 a 36 kg para o booster; a regra vigente começa em 15 kg.",
   "porAlt": [
    "9 a 18 kg é a faixa de peso da cadeirinha (Anexo, II), não a do assento de elevação.",
-   "18 a 36 kg é a faixa da diretriz ABRAMET de 2006 (Tabela 3), não a da Resolução 819, que começa em 15 kg.",
+   "18 a 36 kg era a faixa da diretriz ABRAMET de 2006, superada; o Anexo, III, da Resolução 819 começa em 15 kg.",
    "Correta: Anexo, III: até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo definido pelo fabricante.",
-   "22 a 36 kg e cerca de 1,30 m descrevem o grupo de massa III da NBR 14400, citado na diretriz, não a faixa legal.",
-   "15 a 25 kg e cerca de 1,15 m descrevem o grupo de massa II da NBR 14400, não o assento de elevação da Resolução."
+   "22 a 36 kg e 1,30 m não são a faixa do Anexo, III, que prevê até 1,45 m e peso entre 15 e 36 kg.",
+   "15 a 25 kg e 1,15 m não são a faixa do Anexo, III, que prevê até 1,45 m e peso entre 15 e 36 kg."
   ]
  },
  {
-  "q": "Lactente de 10 meses e 10 kg viaja em bebê conforto. Uma anotação de aula dizia 'bebê conforto até 9 kg'. Pela Resolução CONTRAN nº 819/2021, o bebê conforto continua admitido para ele?",
+  "q": "Lactente de 10 meses e 10 kg viaja em bebê conforto. Pela Resolução CONTRAN nº 819/2021, o bebê conforto continua admitido para ele?",
   "alts": [
    "Não: aos 9 meses a lei manda trocá-lo pela cadeirinha voltada para a frente",
    "Não: a lei manda trocar o bebê conforto assim que a criança atingir os 10 kg",
@@ -82,36 +82,13 @@
   "temaOrig": "protecao",
   "sub": "DRC — Res. 819: bebê conforto",
   "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso I",
-  "coment": "O Anexo, I, da Resolução CONTRAN 819/2021 agrupa 'bebê conforto ou conversível' num único degrau, para crianças com até um ano de idade OU com peso de até 13 kg, conforme o limite do fabricante. Não existe corte legal de 9 kg: com 10 meses e 10 kg, a criança está no degrau I pela idade e pelo peso, e o bebê conforto continua admitido. O limite de 9 kg (e 12 meses) é do 'assento infantil' na diretriz ABRAMET de 2006 — recomendação médica, não regra legal; mesmo nela, quem atinge 9 kg antes de 1 ano passa ao assento conversível, que acomoda até 13 kg e continua de costas. O corte de 9 meses e 10 kg é do grupo 0 da NBR 14400 citado na diretriz. Em prova, 'Resolução', 'obrigatório' ou 'infração' pedem os cortes da 819: 1 ano ou 13 kg.",
+  "coment": "O Anexo, I, da Resolução CONTRAN 819/2021 agrupa 'bebê conforto ou conversível' num único degrau, para crianças com até um ano de idade OU com peso de até 13 kg, conforme o limite máximo definido pelo fabricante. Não existe corte legal de 9 kg: com 10 meses e 10 kg, a criança está no degrau I pela idade e pelo peso, e o bebê conforto continua admitido. A cadeirinha (Anexo, II) é para mais de 1 e até 4 anos, ou 9 a 18 kg; o assento de elevação, para mais de 4 anos. Atualizado: o corte de 9 kg era do 'assento infantil' na diretriz ABRAMET de 2006; a regra vigente é a da 819, 1 ano ou 13 kg.",
   "porAlt": [
-   "Nove meses é o grupo 0 da NBR 14400 citado na diretriz ABRAMET, não um limite da Resolução; a lei não manda virar a criança de frente aos 9 meses.",
+   "A Resolução não tem corte aos 9 meses: o degrau I vai até 1 ano ou 13 kg, e a cadeirinha é para mais de 1 ano.",
    "A Resolução não impõe troca aos 10 kg; o teto de peso do degrau I é 13 kg, conforme o limite do fabricante.",
    "A Resolução não tem corte de 9 kg para o bebê conforto: o degrau I vai até 1 ano ou 13 kg, e a criança está dentro dos dois critérios.",
    "Assento de elevação é para mais de 4 anos (até 7,5) ou 15 a 36 kg; nada no caso se aproxima dessa faixa.",
    "Correta: Anexo, I — bebê conforto ou conversível para crianças com até 1 ano de idade ou até 13 kg, conforme o limite do fabricante."
-  ]
- },
- {
-  "q": "Um palestrante afirma que 'o assento de elevação é obrigatório dos 4 aos 10 anos, de 18 a 36 kg'. Essa faixa corresponde a qual fonte?",
-  "alts": [
-   "À diretriz ABRAMET de 2006; a Resolução 819 fixa mais de 4 a 7,5 anos, ou 15 a 36 kg",
-   "Ao art. 64 do CTB, que define idade e peso de cada dispositivo de retenção infantil",
-   "À Resolução CONTRAN 277/2008, que segue vigente para o assento de elevação no país",
-   "À norma NBR 14400, que a Resolução 819 incorporou literalmente no seu Anexo único",
-   "À Resolução CONTRAN 819/2021, que fixa essa faixa como regra obrigatória em todo o país"
-  ],
-  "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "protecao",
-  "sub": "DRC — diretriz ABRAMET × lei",
-  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 3; Resolução CONTRAN nº 819/2021, Anexo, III",
-  "coment": "A faixa 'booster de 4 a 10 anos e 18 a 36 kg' está na Tabela 3 da parte II da diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), que recomenda o uso até a criança atingir 36 kg e completar aproximadamente 10 anos. É recomendação médica. A regra legal é a Resolução CONTRAN 819/2021, cujo Anexo, III, prevê o assento de elevação para mais de 4 e até 7 anos e meio, ou até 1,45 m com 15 a 36 kg. O art. 64 do CTB não fixa faixas: exige banco traseiro e dispositivo adequado para menores de 10 anos com menos de 1,45 m e delega ao CONTRAN as especificações. A Resolução 277/2008 foi revogada pela própria 819 (art. 8º, I).",
-  "porAlt": [
-   "Correta: 4 a 10 anos e 18 a 36 kg é a Tabela 3 da diretriz ABRAMET de 2006, recomendação; a lei (819) usa 7,5 anos e 15 kg.",
-   "O art. 64 do CTB não fixa idade nem peso por dispositivo; exige DRC adequado e delega a especificação ao CONTRAN.",
-   "A Resolução 277/2008 foi revogada pela 819/2021 (art. 8º, I), em vigor desde 12/04/2021.",
-   "A NBR 14400 é citada pela diretriz para os grupos de massa (0 a III); não é a origem da faixa de 4 a 10 anos.",
-   "A Resolução 819 usa outros cortes: mais de 4 até 7,5 anos, ou até 1,45 m com 15 a 36 kg."
   ]
  },
  {
@@ -174,7 +151,7 @@
   "temaOrig": "protecao",
   "sub": "DRC — art. 4º: airbag e DRC de costas",
   "base": "Resolução CONTRAN nº 819/2021, art. 3º, I, e art. 4º, I a III",
-  "coment": "O art. 3º, I, da Resolução CONTRAN 819/2021 permite o banco dianteiro quando o veículo é dotado exclusivamente desse banco, mas o art. 4º impõe requisitos quando há airbag para o passageiro: (I) é vedado o transporte de crianças com até sete anos e meio em dispositivo de retenção posicionado em sentido contrário ao da marcha; (II) é permitido o DRC no sentido da marcha, desde que sem bandeja ou acessório equivalente; (III) o banco deve ficar na última posição de recuo, salvo instrução do fabricante. O bebê conforto é de costas, portanto vedado nesse banco com airbag ativo. A Resolução não prevê solução por desativação; a diretriz ABRAMET de 2006 manda desativar o airbag com criança até 14 anos na frente.",
+  "coment": "O art. 3º, I, da Resolução CONTRAN 819/2021 permite o banco dianteiro quando o veículo é dotado exclusivamente desse banco, mas o art. 4º impõe requisitos quando há airbag para o passageiro: (I) é vedado o transporte de crianças com até sete anos e meio em dispositivo de retenção posicionado em sentido contrário ao da marcha; (II) é permitido o DRC no sentido da marcha, desde que sem bandeja ou acessório equivalente; (III) o banco deve ficar na última posição de recuo, salvo instrução do fabricante. O bebê conforto é de costas, portanto vedado nesse banco com airbag ativo. A Resolução não prevê a desativação do airbag como forma de autorizar o DRC de costas nesse banco.",
   "porAlt": [
    "A restrição da bandeja é do inciso II, para o DRC voltado para a frente; o de costas já é vedado pelo inciso I.",
    "Correta: art. 4º, I: com airbag, é vedado DRC contra a marcha para criança de até 7,5 anos.",
@@ -230,29 +207,6 @@
   ]
  },
  {
-  "q": "Pela classificação em grupos de massa reproduzida na diretriz ABRAMET de transporte de crianças (NBR 14400), o grupo II corresponde a:",
-  "alts": [
-   "Até 10 kg, altura aproximada de 0,72 m, até cerca de 9 meses de idade apenas",
-   "De 15 kg a 25 kg, altura aproximada de 1,15 m, até cerca de 60 meses de idade",
-   "De 9 kg a 18 kg, altura aproximada de 1,00 m, até cerca de 32 meses de idade",
-   "De 22 kg a 36 kg, altura aproximada de 1,30 m, até cerca de 90 meses de idade",
-   "Até 13 kg, altura aproximada de 0,80 m, até cerca de 12 meses de idade apenas"
-  ],
-  "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "protecao",
-  "sub": "DRC — grupos de massa da NBR 14400",
-  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 1 (grupos de massa)",
-  "coment": "A Tabela 1 da parte II da diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006) classifica os DRC em cinco grupos de massa, com base na NBR 14400: grupo 0, até 10 kg, altura aproximada de 0,72 m, até 9 meses; grupo 0+, até 13 kg, 0,80 m, até 12 meses; grupo I, de 9 a 18 kg, 1,00 m, até 32 meses; grupo II, de 15 a 25 kg, 1,15 m, até 60 meses; grupo III, de 22 a 36 kg, 1,30 m, até 90 meses. O booster da Tabela 3 corresponde aos grupos II e III. Atenção: na Tabela 3 o assento infantil do grupo 0 aparece com até 9 kg, e não 10 kg; é uma inconsistência interna da diretriz.",
-  "porAlt": [
-   "Essa é a descrição do grupo 0 (até 10 kg, 0,72 m, até 9 meses).",
-   "Correta: grupo II: 15 a 25 kg, cerca de 1,15 m, até 60 meses (Tabela 1 da parte II).",
-   "Essa é a descrição do grupo I (9 a 18 kg, 1,00 m, até 32 meses), faixa da cadeirinha.",
-   "Essa é a descrição do grupo III (22 a 36 kg, 1,30 m, até 90 meses).",
-   "Essa é a descrição do grupo 0+ (até 13 kg, 0,80 m, até 12 meses)."
-  ]
- },
- {
   "q": "Segundo a diretriz ABRAMET de transporte de crianças, o que caracteriza a 'síndrome pediátrica do cinto de segurança'?",
   "alts": [
    "Lesões da coluna cervical pelo uso do bebê conforto voltado para trás durante colisões traseiras",
@@ -265,8 +219,8 @@
   "tema": "vespera",
   "temaOrig": "protecao",
   "sub": "DRC — síndrome pediátrica do cinto",
-  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, item 2.4",
-  "coment": "A parte II da diretriz ABRAMET (item 2.4) descreve que, quando a criança passa prematuramente a usar o cinto de segurança do veículo, a faixa subabdominal se posiciona sobre o abdome e a transversal atravessa o pescoço e a face. Esse posicionamento predispõe a lesões cervicais e abdominais, a 'síndrome pediátrica do cinto de segurança'. A causa mais frequente do não uso do booster é a avaliação equivocada dos pais de que a criança já tem tamanho para o cinto. Por isso a diretriz indica o booster até a criança ter altura suficiente (cerca de 1,45 m, por volta dos 10 anos), preso com cinto de três pontos.",
+  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, item 2.4; Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 3; Diretriz ABRAMET 'Cinto de segurança' (2022), item 9.6",
+  "coment": "A parte II da diretriz ABRAMET (item 2.4) descreve que, quando a criança passa prematuramente a usar o cinto de segurança do veículo, a faixa subabdominal se posiciona sobre o abdome e a transversal atravessa o pescoço e a face. Esse posicionamento predispõe a lesões cervicais e abdominais, a 'síndrome pediátrica do cinto de segurança'. A causa mais frequente do não uso do booster é a avaliação equivocada dos pais de que a criança já tem tamanho para o cinto. A diretriz de cinto (2022, item 9.6) lembra que a criança em geral só se adapta ao cinto do veículo com cerca de 1,45 m; enquanto isso, usa-se o assento de elevação com cinto de três pontos, que a Resolução 819 admite até 1,45 m (15 a 36 kg).",
   "porAlt": [
    "O bebê conforto de costas é a posição que protege a coluna cervical; não é causa da síndrome.",
    "A diretriz não descreve asfixia pelo arnês sob esse nome; a síndrome é a do cinto adulto usado cedo demais.",
@@ -391,29 +345,6 @@
   ]
  },
  {
-  "q": "Segundo a diretriz ABRAMET 'Segurança no transporte veicular de crianças' (parte I), em que situação o airbag do passageiro deve ser desativado?",
-  "alts": [
-   "Quando o veículo transportar, no banco da frente, criança de até 7 anos e meio",
-   "Quando o veículo transportar, no banco da frente, criança com menos de 1,45 m",
-   "Quando o veículo transportar, no banco da frente, idoso com mais de setenta anos",
-   "Quando o veículo transportar, no banco da frente, gestante no terceiro trimestre",
-   "Quando o veículo transportar, no banco da frente, criança de até 14 anos de idade"
-  ],
-  "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "protecao",
-  "sub": "Airbag — desativação com criança na frente",
-  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte I, item 3 (recomendações)",
-  "coment": "A parte I da diretriz ABRAMET (2006) recomenda: 'O airbag do passageiro deverá ser desativado quando o veículo transportar, no banco da frente, criança até os 14 anos de idade' (grau B), porque em colisões frontais crianças até 14 anos têm alto risco de ferimentos sérios no banco da frente de veículo com airbag. A gestante é o contraexemplo: a diretriz de cinto na gravidez diz que o airbag não deve ser desconectado. Os 7 anos e meio pertencem à Resolução CONTRAN 819/2021, cujo art. 4º veda DRC de costas nesse banco até essa idade, mas não manda desativar o airbag. A anotação da aula que incluía nanismo e síndrome de Down não tem respaldo nessas fontes para desativação.",
-  "porAlt": [
-   "Sete anos e meio é o corte do art. 4º da Resolução 819 para vedar DRC de costas, não uma ordem de desativação.",
-   "1,45 m é o corte do banco traseiro no art. 64 do CTB, não o critério da diretriz para desativar o airbag.",
-   "A diretriz de crianças não trata de idosos; não há recomendação de desativar o airbag por idade avançada.",
-   "Na gestante o airbag NÃO deve ser desconectado; usa-se o cinto corretamente e afasta-se o banco.",
-   "Correta: a parte I da diretriz manda desativar o airbag do passageiro com criança até 14 anos no banco da frente."
-  ]
- },
- {
   "q": "Criança de 6 anos precisa viajar no banco dianteiro de uma picape de cabine simples, com airbag do passageiro. Qual configuração atende à Resolução CONTRAN nº 819/2021?",
   "alts": [
    "Assento de elevação de costas, com o banco na sua posição mais próxima do painel frontal",
@@ -473,7 +404,7 @@
   "temaOrig": "protecao",
   "sub": "Cinto — banco dianteiro × traseiro",
   "base": "Diretriz ABRAMET 'Cinto de segurança: eficácia, ações, posicionamento e recomendações' (29/06/2022), item 3.2",
-  "coment": "A diretriz ABRAMET (2022, item 3.2) diz que os ocupantes dos bancos dianteiros estão mais expostos a lesões por contato dos membros inferiores e da parte superior do corpo com o painel e o volante e têm cerca de 60% maior risco de morte ou ferimentos graves que os do banco traseiro; por isso o cinto é mais eficaz na frente (−60% × −44% atrás). A anotação transcrita do aulão ('ocupantes dos bancos traseiros... mais expulsos... 60% mais risco') não confere com a diretriz, que atribui os 60% aos ocupantes dos bancos DIANTEIROS, mais EXPOSTOS. O '5 vezes' é outro dado: o ocupante de trás sem cinto aumenta em cinco vezes o risco de morte de quem vai na frente.",
+  "coment": "A diretriz ABRAMET (2022, item 3.2) diz que os ocupantes dos bancos dianteiros estão mais expostos a lesões por contato dos membros inferiores e da parte superior do corpo com o painel e o volante e têm cerca de 60% maior risco de morte ou ferimentos graves que os do banco traseiro; por isso o cinto é mais eficaz na frente (−60% × −44% atrás). Não inverter: os 60% são dos ocupantes dos bancos DIANTEIROS, mais EXPOSTOS, e não dos traseiros. O '5 vezes' é outro dado: o ocupante de trás sem cinto aumenta em cinco vezes o risco de morte de quem vai na frente.",
   "porAlt": [
    "Há diferença: a posição dianteira concentra mais risco, e o cinto é mais eficaz nela.",
    "Inverte a posição: é o banco dianteiro, mais exposto a painel e volante, que tem cerca de 60% mais risco.",

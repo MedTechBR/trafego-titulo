@@ -66,7 +66,7 @@
   ]
  },
  {
-  "q": "Segundo a Diretriz ABRAMET 'Segurança no transporte veicular de crianças — Parte II', qual dispositivo de retenção é indicado para criança de 2 anos e 14 kg, e como deve ser instalado?",
+  "q": "Pela Resolução CONTRAN nº 819/2021, qual dispositivo de retenção é indicado para criança de 2 anos e 14 kg, e como deve ser instalado?",
   "alts": [
    "Assento infantil tipo concha, instalado no sentido inverso ao da posição normal do banco do veículo",
    "Assento de elevação do tipo booster, ajustado ao banco traseiro e fixado com o cinto de três pontos",
@@ -77,36 +77,36 @@
   "gab": 4,
   "tema": "protecao",
   "sub": "Seleção do dispositivo de retenção",
-  "base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3.",
-  "coment": "A tabela 3 da diretriz organiza os dispositivos por massa, idade e estatura. Assento infantil (grupo de massa 0): até 9 kg e até 12 meses, instalado no sentido INVERSO ao da posição normal do banco, mantida a posição central do banco traseiro sempre que possível. Assento conversível (grupos 0 e 0+): até 13 kg e até 12 meses, acomodando crianças de peso maior que ainda não completaram 1 ano, com a face voltada para trás. Cadeirinha de segurança (grupos 0+ e I): de 9 kg a 18 kg, de 1 a 4 anos, instalada na posição VERTICAL DE FRENTE PARA O PAINEL, mantida a posição central do banco traseiro sempre que possível. Assento de elevação ou booster (grupos II e III): de 18 kg a 36 kg, de 4 a 10 anos, fixado com cinto de três pontos. Cinto do veículo: acima de 36 kg, mínimo de 1,45 m e a partir dos 10 anos. Com 2 anos e 14 kg, a criança está na faixa da cadeirinha.",
+  "base": "Resolução CONTRAN nº 819/2021, Anexo, item II; instalação conforme a diretriz ABRAMET de transporte de crianças.",
+  "coment": "Pelo Anexo da Resolução CONTRAN nº 819/2021 (critérios alternativos, idade OU peso): bebê conforto ou conversível para crianças até 1 ano ou até 13 kg; CADEIRINHA para idade superior a 1 ano e até 4 anos, ou peso entre 9 e 18 kg; assento de elevação acima de 4 até 7,5 anos, ou até 1,45 m com 15–36 kg; cinto do veículo acima de 7,5 anos (até 10) ou acima de 1,45 m. Com 2 anos e 14 kg, a criança está na faixa da cadeirinha, que é instalada na posição vertical, de frente para o painel, preferencialmente no centro do banco traseiro (crianças com menos de 10 anos que não atingiram 1,45 m vão no banco traseiro, art. 2º).",
   "porAlt": [
-   "O assento infantil tipo concha destina-se a crianças de até 9 kg e até doze meses de idade.",
-   "O assento de elevação começa aos 18 kg e a partir dos 4 anos, faixa acima da criança do enunciado.",
-   "O cinto do veículo isolado só é indicado acima de 36 kg, com 1,45 m e a partir dos dez anos.",
-   "O assento conversível voltado para trás atende crianças de até 13 kg que ainda não completaram um ano.",
-   "Correta: 14 kg e 2 anos correspondem à cadeirinha, voltada para o painel, no banco traseiro."
+   "O bebê conforto é para crianças até 1 ano ou até 13 kg, instalado de costas para o painel.",
+   "O assento de elevação vale acima de 4 anos (até 7,5) ou até 1,45 m com 15 a 36 kg.",
+   "O cinto do veículo isolado só vale acima de 7,5 anos ou com altura superior a 1,45 m.",
+   "O conversível voltado para trás atende a faixa do bebê conforto: até 1 ano ou até 13 kg.",
+   "Correta: 2 anos e 14 kg estão na faixa da cadeirinha, de frente para o painel, no banco traseiro."
   ]
  },
  {
-  "q": "Segundo a Diretriz ABRAMET sobre transporte veicular de crianças, a partir de que parâmetros a criança pode usar apenas o cinto de segurança do veículo, sem dispositivo de retenção específico?",
+  "q": "Pela Resolução CONTRAN nº 819/2021, que substituiu as faixas antigas da diretriz de transporte de crianças, em que condição a criança passa a usar apenas o cinto de segurança do próprio veículo?",
   "alts": [
-   "Mais de 18 kg, estatura mínima de 1,20 m e idade a partir dos 7 anos, conforme a tabela da diretriz",
-   "Mais de 25 kg, estatura mínima de 1,30 m e idade a partir dos 8 anos, conforme a tabela da diretriz",
-   "Mais de 40 kg, estatura mínima de 1,50 m e idade a partir dos 12 anos, conforme a tabela da diretriz",
-   "Mais de 30 kg, estatura mínima de 1,35 m e idade a partir dos 9 anos, conforme a tabela da diretriz",
-   "Mais de 36 kg, estatura mínima de 1,45 m e idade a partir dos 10 anos, conforme a tabela da diretriz"
+   "Quando tiver mais de 18 kg e 1,20 m, qualquer que seja a idade, no banco traseiro",
+   "Somente quando completar 12 anos de idade e 40 kg, independentemente da altura alcançada",
+   "Quando tiver mais de 36 kg, 1,45 m e 10 anos completos, os três critérios simultaneamente",
+   "Quando completar 4 anos de idade, passando direto da cadeirinha para o cinto do veículo",
+   "Quando tiver mais de 7,5 anos (até 10 anos) ou quando a altura for superior a 1,45 m"
   ],
   "gab": 4,
   "tema": "protecao",
-  "sub": "Transição para o cinto do veículo",
-  "base": "Diretriz ABRAMET/AMB/CFM 'Segurança no transporte veicular de crianças — Parte II', Tabela 3.",
-  "coment": "A tabela estabelece que o cinto de segurança do próprio veículo passa a ser suficiente acima de 36 kg, com estatura mínima de 1,45 m e a partir dos 10 anos de idade. A diretriz explica também o posicionamento correto: a faixa transversal deve passar sobre o ombro e diagonalmente pelo tórax, e a faixa subabdominal deve ficar apoiada nas saliências ósseas do quadril ou sobre a porção superior das coxas. Esse detalhe é a razão biomecânica da estatura mínima — em criança baixa demais, a faixa diagonal cruza o pescoço e a subabdominal sobe para o abdome, produzindo, na desaceleração, lesões de vísceras ocas e da coluna lombar (a chamada síndrome do cinto de segurança). O assento de elevação existe exatamente para reposicionar a criança até que ela alcance essa estatura.",
+  "sub": "Transição para o cinto do veículo (Res. 819/2021)",
+  "base": "Resolução CONTRAN nº 819/2021, Anexo, item IV (e art. 2º).",
+  "coment": "O Anexo da Resolução CONTRAN nº 819/2021 define o cinto de segurança do próprio veículo para crianças com idade superior a sete anos e meio e inferior ou igual a dez anos, OU com altura superior a 1,45 m — os critérios são ALTERNATIVOS, como em todos os degraus da resolução (bebê conforto até 1 ano ou 13 kg; cadeirinha acima de 1 até 4 anos ou 9–18 kg; assento de elevação acima de 4 até 7,5 anos, ou até 1,45 m com 15–36 kg). Até os 10 anos, a criança que não atingiu 1,45 m continua no banco traseiro (art. 2º). A exigência cumulativa de 36 kg, 1,45 m e 10 anos vinha da diretriz ABRAMET de 2006 e foi superada pela resolução vigente.",
   "porAlt": [
-   "Os 18 kg marcam o início da faixa do assento de elevação, e não a dispensa do dispositivo.",
-   "Esses parâmetros não constam da tabela e ficariam aquém da estatura necessária ao cinto do veículo.",
-   "Os parâmetros estão acima dos exigidos pela tabela, que fixa 36 kg, 1,45 m e dez anos de idade.",
-   "Esses parâmetros não correspondem aos da tabela, que exige estatura mínima de um metro e quarenta e cinco.",
-   "Correta: acima de 36 kg, com 1,45 m e a partir dos dez anos, o cinto do veículo já é suficiente."
+   "A resolução não usa 18 kg e 1,20 m como limiar do cinto: essa faixa é do assento de elevação.",
+   "A resolução não exige 12 anos nem 40 kg; o cinto já vale acima de 7,5 anos ou de 1,45 m.",
+   "Os três critérios simultâneos eram da diretriz de 2006; na 819 os critérios são alternativos.",
+   "Aos 4 anos a criança passa ao assento de elevação, e não diretamente ao cinto do veículo.",
+   "Correta: acima de 7,5 anos (até 10) ou altura superior a 1,45 m, conforme o Anexo da 819/2021."
   ]
  },
  {

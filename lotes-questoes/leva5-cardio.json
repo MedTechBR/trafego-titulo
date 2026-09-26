@@ -4,7 +4,7 @@
   "alts": [
    "Sim, pois duas semanas após o implante já bastam para liberar qualquer modalidade de condução",
    "Não, pois o portador de marca-passo fica permanentemente desqualificado da direção profissional",
-   "Não, pois a direção profissional exige quatro semanas após o implante do marca-passo definitivo",
+   "Não, pois a direção profissional exige seis semanas após o implante do marca-passo definitivo",
    "Sim, pois o controle eletrônico normal dispensa a exigência de intervalo mínimo após o implante",
    "Não, pois a direção profissional exige três meses completos após o implante do marca-passo cardíaco"
   ],
@@ -12,11 +12,11 @@
   "tema": "cardio",
   "sub": "Marca-passo e retorno à direção",
   "base": "Diretriz ABRAMET/SBC/SOBRAC 'Recomendações brasileiras para direção veicular em portadores de dispositivos cardíacos eletrônicos implantáveis e arritmias cardíacas', Fig. 1.",
-  "coment": "A diretriz separa direção PRIVADA (ACC, A e B, sem atividade remunerada) de direção PROFISSIONAL (ACC, A, B, C, D e E, com atividade remunerada ao veículo). Para o marca-passo: implante — 2 semanas na privada e 4 semanas na profissional; troca de gerador — 1 semana e 2 semanas; troca de eletrodo — 2 semanas e 4 semanas. Em todos os casos exigem-se ainda quatro condições cumulativas: nenhum prejuízo no nível de consciência após o implante, captura e sensibilidade normais ao eletrocardiograma, nenhuma evidência de mau funcionamento do sistema e controles clínico e eletrônico regulares. O taxista exerce atividade remunerada, portanto está na coluna profissional e precisa completar 4 semanas. Atenção: a própria diretriz se contradiz — a figura traz 4 semanas para a direção profissional, mas o texto do item 2.1 fala em 6 semanas, o mesmo corte do Anexo VII da Resolução 927. Em qualquer das leituras, 3 semanas é insuficiente.",
+  "coment": "A diretriz separa direção PRIVADA (ACC, A e B, sem atividade remunerada) de direção PROFISSIONAL (ACC, A, B, C, D e E, com atividade remunerada ao veículo). Para o marca-passo: implante — 2 semanas na privada e 4 semanas na profissional; troca de gerador — 1 semana e 2 semanas; troca de eletrodo — 2 semanas e 4 semanas. Em todos os casos exigem-se ainda quatro condições cumulativas: nenhum prejuízo no nível de consciência após o implante, captura e sensibilidade normais ao eletrocardiograma, nenhuma evidência de mau funcionamento do sistema e controles clínico e eletrônico regulares. O taxista exerce atividade remunerada, portanto está na coluna profissional e precisa completar 4 semanas. Vale a Resolução CONTRAN nº 927/2022 (Anexo VII), mais recente que a diretriz de 2012: 6 semanas para as categorias C, D e E (a Figura 1 da diretriz trazia 4). Em qualquer das leituras, 3 semanas é insuficiente.",
   "porAlt": [
    "O prazo de duas semanas é o da direção privada, que não alcança quem exerce atividade remunerada.",
    "O marca-passo não desqualifica permanentemente: essa coluna é a do CDI na direção profissional.",
-   "Correta: a coluna profissional exige quatro semanas após o implante, e ele está com apenas três.",
+   "Correta: 3 semanas não bastam; a direção profissional exige 6 semanas (Anexo VII da Res. 927/2022).",
    "As condições clínicas são exigências somadas ao prazo mínimo, e não substitutas desse intervalo.",
    "O prazo de três meses corresponde ao implante de ressincronizador na direção privada, não ao marca-passo."
   ]
