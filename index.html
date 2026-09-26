@@ -1282,7 +1282,7 @@ function embaralha(a){
 function espalhaTemas(lista){
   const grupos=new Map();
   lista.forEach(q=>{
-    const k=q.tema||"_";
+    const k=q.temaOrig||q.tema||"_";   /* seção provisória "vespera": espalha pelo tema de origem */
     if(!grupos.has(k))grupos.set(k,[]);
     grupos.get(k).push(q);
   });

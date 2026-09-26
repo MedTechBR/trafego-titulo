@@ -1,0 +1,968 @@
+[
+ {
+  "q": "Motorista de 44 anos renova a CNH categoria C. Tem acuidade de 20/30 no olho direito e 20/40 no esquerdo, campo de 125º em cada olho na isóptera horizontal e, com os dois olhos abertos, lê a linha de 20/25. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é o resultado da avaliação visual?",
+  "alts": [
+   "Não atende, pois as categorias C, D e E exigem 20/30 em cada olho, sem alternativa",
+   "Não atende, pois a binocular mínima exigida nessas categorias é de 20/20 no exame",
+   "Atende, pois a combinação 20/30 e 20/40 é admitida com binocular mínima de 20/25",
+   "Atende só na categoria B, pois o olho de 20/40 impede as categorias profissionais",
+   "Não atende, pois o campo exigido nas categorias C, D e E é de 140º em cada olho"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Binocularidade (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.1.1 e 1.1.2",
+  "coment": "O item 1.1.1 do Anexo II admite, para C, D e E, duas combinações de acuidade: 20/30 (0,66) em cada olho, ou 20/30 em um olho e 20/40 (0,50) no outro, com visão binocular mínima de 20/25 (0,80). O candidato está exatamente na combinação assimétrica e alcança 20/25 com os dois olhos abertos, que é o ponto que o professor marcou com estrela no aulão. O campo exigido (item 1.1.2) é de 120º em cada olho, e ele tem 125º. Todos os parâmetros estão satisfeitos. Pegadinha: não existe piso binocular de 20/20, e o olho de 20/40 não afasta as categorias profissionais quando o binocular chega a 20/25.",
+  "porAlt": [
+   "Errada: a própria norma admite a alternativa 20/30 em um olho e 20/40 no outro.",
+   "Errada: o piso binocular é 20/25 (0,80), não 20/20.",
+   "Correta: é a combinação alternativa do item 1.1.1, com binocular de 20/25 e campo de 120º ou mais em cada olho.",
+   "Errada: o olho de 20/40 é admitido nas profissionais desde que o binocular alcance 20/25.",
+   "Errada: o campo exigido nas categorias C, D e E é de 120º em cada olho, não 140º."
+  ]
+ },
+ {
+  "q": "Condutor de 30 anos, habilitado na categoria B, pede adição da categoria D. Apresenta 20/30 no olho direito, 20/40 no esquerdo, visão binocular de 20/30 e campo de 130º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão para a categoria D?",
+  "alts": [
+   "Atende, pois 20/30 em um olho e 20/40 no outro bastam, sem exigência binocular",
+   "Atende, pois a visão binocular de 20/30 supera o mínimo de 20/40 exigido na D",
+   "Não atende, pois o olho pior precisaria de 20/30, sem combinação admitida na D",
+   "Não atende, pois com 20/30 e 20/40 a visão binocular mínima exigida é de 20/25",
+   "Atende, desde que a CNH registre o código A, de uso obrigatório de lentes, na D"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Binocularidade (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.1.1",
+  "coment": "Na combinação assimétrica do item 1.1.1 (20/30 em um olho e 20/40 no outro), o Anexo II exige visão binocular mínima de 20/25 (0,80). Com os dois olhos abertos o candidato chega só a 20/30, abaixo do piso. Ele cumpre a acuidade monocular e o campo de 120º em cada olho, mas falha na binocular, e por isso não atende para a D. Pode continuar na categoria B, que exige 20/40 em cada olho e não tem exigência binocular. O código A (lentes corretoras) só registra que o corte foi atingido com correção; não substitui o parâmetro que faltou.",
+  "porAlt": [
+   "Errada: a combinação 20/30 + 20/40 vem acompanhada da exigência binocular de 20/25.",
+   "Errada: não existe mínimo binocular de 20/40; o piso é 20/25, mais exigente.",
+   "Errada: a norma admite, sim, a combinação 20/30 em um olho e 20/40 no outro.",
+   "Correta: falta a visão binocular mínima de 20/25 exigida pelo item 1.1.1.",
+   "Errada: a restrição A não supre um parâmetro de acuidade não alcançado."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo II da Resolução CONTRAN nº 927/2022, a exigência de visão binocular mínima de 20/25 (0,80) se aplica a quais candidatos?",
+  "alts": [
+   "A qualquer candidato, da ACC à categoria E, como parâmetro comum de acuidade",
+   "Aos candidatos às categorias C, D e E; não há piso binocular na ACC, A e B",
+   "Aos candidatos à categoria A, pela maior exposição do motociclista na via",
+   "Aos portadores de estrabismo, em razão da falta de fusão das duas imagens",
+   "Aos candidatos sem percepção luminosa em um olho, na ACC e nas categorias A e B"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Binocularidade (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, itens 1.1.1 e 1.2.1",
+  "coment": "A visão binocular mínima de 20/25 está no item 1.1.1, que trata exclusivamente das categorias C, D e E. O item 1.2.1, das categorias ACC, A e B, pede 20/40 em cada olho ou 20/30 em um olho com ao menos percepção luminosa no outro, sem qualquer exigência binocular. Os itens 1.3 (sem percepção luminosa) e 2.1 (estrabismo) também não falam em binocular, até porque o olho único não tem visão binocular e o estrábico não funde as imagens. Guardar: binocular 20/25 = só profissionais.",
+  "porAlt": [
+   "Errada: o item 1.2.1 (ACC, A e B) não traz exigência binocular.",
+   "Correta: a binocular de 20/25 está só no item 1.1.1, das categorias C, D e E.",
+   "Errada: a categoria A está no grupo sem exigência binocular.",
+   "Errada: o item 2.1 do estrabismo exige 20/30 no melhor olho e 120º, sem binocular.",
+   "Errada: o candidato SPL não tem visão binocular; o item 1.3 exige 20/30 e 120º."
+  ]
+ },
+ {
+  "q": "Segundo o item 1.3.3 do Anexo II da Resolução CONTRAN nº 927/2022, qual é o intervalo mínimo decorrido desde a perda da visão previsto para o candidato sem percepção luminosa (SPL) em um dos olhos, e o que o laudo deve indicar?",
+  "alts": [
+   "Trinta dias, com laudo indicando capacete com viseira sem limitação de campo",
+   "Seis meses, com laudo indicando óculos de proteção para o olho remanescente",
+   "Um ano, com laudo indicando restrição U, vedada a direção após o pôr do sol",
+   "Sessenta dias, com laudo indicando a restrição de categoria, sem motocicleta",
+   "Noventa dias, com laudo indicando capacete com viseira sem limitação de campo"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Visão monocular (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.3.3",
+  "coment": "O item 1.3 abre a ACC e as categorias A e B ao candidato sem percepção luminosa em um olho, desde que observados três parâmetros: acuidade de 20/30 ou mais (1.3.1), campo de 120º ou mais na isóptera horizontal (1.3.2) e, 'decorridos, no mínimo, noventa dias da perda da visão', laudo indicando capacete de segurança com viseira protetora, sem limitação de campo visual (1.3.3). No aulão foi anotado 'mais de 30 dias'; a norma diz noventa. A motocicleta não é vedada: a categoria A está entre as permitidas, e é justamente por isso que o capacete com viseira aparece no laudo.",
+  "porAlt": [
+   "Errada: trinta dias foi a anotação da aula; o texto do item 1.3.3 diz noventa dias.",
+   "Errada: o prazo não é de seis meses e a norma fala em capacete com viseira, não em óculos.",
+   "Errada: não há prazo de um ano nem restrição U no item 1.3.",
+   "Errada: o prazo é de noventa dias e a categoria A (motocicleta) é permitida.",
+   "Correta: noventa dias e capacete com viseira sem limitação de campo, como diz o item 1.3.3."
+  ]
+ },
+ {
+  "q": "Motorista de 40 anos, categoria B, perdeu totalmente a visão do olho direito (sem percepção luminosa) em um trauma há 50 dias. O olho esquerdo tem 20/25 e campo de 135º na isóptera horizontal. Comparece para renovar a CNH. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual parâmetro do item 1.3 ainda NÃO foi cumprido?",
+  "alts": [
+   "O intervalo mínimo de noventa dias desde a perda da visão, do item 1.3.3",
+   "A acuidade mínima de 20/20 no olho remanescente, exigida do candidato SPL",
+   "O campo mínimo de 140º no olho remanescente, exigido do candidato SPL",
+   "O intervalo mínimo de um ano desde a perda da visão, fixado no item 1.3.3",
+   "A dinamometria mínima de 30 kgf em cada mão, exigida do candidato SPL"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Visão monocular (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.3",
+  "coment": "O candidato sem percepção luminosa em um olho pode ser aprovado na ACC e nas categorias A e B com acuidade de 20/30 ou mais (1.3.1) e campo de 120º ou mais (1.3.2) no olho remanescente; ele tem 20/25 e 135º, portanto cumpre ambos. O item 1.3.3 fixa que devem ter decorrido, no mínimo, noventa dias da perda da visão, com laudo indicando capacete com viseira protetora. Com 50 dias, o prazo ainda não correu. O intervalo reflete o tempo de adaptação à perda súbita, quando a estimativa de profundidade e a varredura visual ainda estão se reorganizando.",
+  "porAlt": [
+   "Correta: faltam os noventa dias mínimos desde a perda da visão (item 1.3.3).",
+   "Errada: o item 1.3.1 exige 20/30, e o candidato tem 20/25.",
+   "Errada: o item 1.3.2 exige 120º, e o candidato tem 135º.",
+   "Errada: o prazo do item 1.3.3 é de noventa dias, não de um ano.",
+   "Errada: dinamometria é do Anexo VIII e nada tem a ver com o olho único; 30 kgf é o corte de C, D e E."
+  ]
+ },
+ {
+  "q": "Segundo a Lei nº 14.126/2021, como é classificada a visão monocular?",
+  "alts": [
+   "Como deficiência física, do tipo motor, para os efeitos do trânsito apenas",
+   "Como condição clínica sem deficiência, salvo se o campo visual for menor",
+   "Como deficiência sensorial, do tipo visual, para todos os efeitos legais",
+   "Como deficiência sensorial, só para fins previdenciários e trabalhistas",
+   "Como deficiência visual só quando o outro olho tiver acuidade abaixo de 20/40"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Visão monocular (★)",
+  "base": "Lei nº 14.126/2021, art. 1º",
+  "coment": "O art. 1º da Lei 14.126, de 22/03/2021, classifica a visão monocular como deficiência sensorial, do tipo visual, 'para todos os efeitos legais', e o parágrafo único manda aplicar a ela o § 2º do art. 2º do Estatuto da Pessoa com Deficiência (Lei 13.146/2015). Foi o ponto marcado na aula ('é PcD'). Não confunda com a Junta Médica Especial: a Resolução 927 (art. 4º, § 1º) manda à JME o candidato com deficiência física, e o olho único tem critério próprio no Anexo II, item 1.3 (ACC, A e B; 20/30; 120º; 90 dias; capacete com viseira).",
+  "porAlt": [
+   "Errada: a lei fala em deficiência sensorial, do tipo visual, e não motora.",
+   "Errada: a lei classifica a visão monocular como deficiência, sem condicionar ao campo.",
+   "Correta: é o texto do art. 1º da Lei 14.126/2021.",
+   "Errada: a classificação vale 'para todos os efeitos legais', não só previdenciários.",
+   "Errada: a lei não condiciona a classificação à acuidade do outro olho."
+  ]
+ },
+ {
+  "q": "Candidata de 27 anos, sem percepção luminosa no olho esquerdo desde a infância, tem 20/20 e campo de 150º no olho direito. Habilitada na categoria B, pede adição da categoria D para trabalhar com transporte escolar. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Pode obter a D, pois 20/20 e 150º no olho único superam os cortes profissionais",
+   "Pode obter a D, desde que a binocular seja de 20/25 e o laudo cite o capacete",
+   "Pode obter a D após parecer da Junta Médica Especial, que decide o olho único",
+   "Não pode obter a D, pois o candidato SPL só é aprovado na ACC, na A e na B",
+   "Não pode obter a D, pois o candidato SPL só é aprovado na ACC e na categoria A"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Visão monocular (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.3",
+  "coment": "O item 1.3 do Anexo II diz que candidatos sem percepção luminosa em um dos olhos 'poderão ser aprovados na ACC e nas categorias A e B', com 20/30, 120º e o capacete com viseira indicado no laudo após noventa dias da perda. As categorias C, D e E exigem acuidade e campo de 120º em cada um dos olhos e visão binocular de 20/25, o que o olho único não tem como cumprir. A qualidade excepcional do olho remanescente não muda o resultado, e nenhuma junta está autorizada pela norma a abrir categoria profissional ao candidato SPL. Ela mantém a categoria B.",
+  "porAlt": [
+   "Errada: C, D e E exigem parâmetros em cada olho e binocular, que o olho único não cumpre.",
+   "Errada: sem percepção luminosa não há visão binocular; e a D não está no item 1.3.",
+   "Errada: a norma não prevê junta para abrir a categoria D ao candidato SPL.",
+   "Correta: o item 1.3 limita o candidato SPL à ACC e às categorias A e B.",
+   "Errada: a categoria B também está incluída no item 1.3."
+  ]
+ },
+ {
+  "q": "Motorista de 36 anos com estrabismo convergente tem 20/30 no melhor olho e 20/100 no outro, com campo de 125º no melhor olho e 90º no outro. Exerce atividade remunerada como motorista de aplicativo na categoria B e renova a CNH. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Não atende, pois o estrabismo impede o exercício de atividade remunerada",
+   "Atende na categoria B: 20/30 no melhor olho e 120º em ao menos um olho",
+   "Não atende, pois o estrabismo exige 120º de campo em cada um dos olhos",
+   "Atende só após noventa dias de adaptação, com capacete indicado no laudo",
+   "Não atende, pois o estrabismo exige binocular de 20/25 na categoria B"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Estrabismo",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 2.1",
+  "coment": "O item 2.1 permite ao portador de estrabismo a ACC e as categorias A e B com acuidade de 20/30 ou mais no melhor olho (2.1.1) e campo de 120º ou mais em pelo menos um dos olhos (2.1.2). O condutor cumpre os dois. O Anexo II restringe a categoria, não a atividade remunerada: nada no item 2.1 veda o registro de atividade remunerada na categoria B. Os noventa dias e o capacete com viseira são exclusivos do candidato sem percepção luminosa (item 1.3), e a binocular de 20/25 só existe para C, D e E (item 1.1.1).",
+  "porAlt": [
+   "Errada: o item 2.1 limita as categorias, mas não trata de atividade remunerada.",
+   "Correta: cumpre o item 2.1 (20/30 no melhor olho e 120º em pelo menos um).",
+   "Errada: o item 2.1.2 exige 120º em pelo menos um dos olhos.",
+   "Errada: prazo de noventa dias e capacete são do candidato SPL (item 1.3.3).",
+   "Errada: a binocular de 20/25 é exigida só nas categorias C, D e E."
+  ]
+ },
+ {
+  "q": "Sobre o teste de limiar de visão noturna e reação ao ofuscamento e sobre o código U da CNH, assinale a alternativa correta segundo a Resolução CONTRAN nº 927/2022.",
+  "alts": [
+   "O Anexo II exige essa função, e o código T do Anexo XV veda dirigir após o pôr do sol",
+   "O Anexo II dispensa essa função na ACC, e o código U veda dirigir em rodovias federais",
+   "O Anexo II exige essa função, e o código U do Anexo XV veda dirigir após o pôr do sol",
+   "O Anexo II exige essa função só em C, D e E, e o código U veda dirigir após o pôr do sol",
+   "O Anexo II exige essa função, e o código X do Anexo XV veda dirigir após o pôr do sol"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "oftalmo",
+  "sub": "Visão noturna e ofuscamento",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 4.1; Anexo XV",
+  "coment": "O item 4.1 do Anexo II diz que o candidato 'deverá possuir visão em baixa luminosidade e recuperação após ofuscamento direto', sem distinguir categoria, e o art. 17, II, k, obriga a entidade a ter equipamento para avaliar ofuscamento e visão noturna. O Anexo XV define o código U como 'vedado dirigir após o pôr-do-sol'; o T é 'vedado dirigir em rodovias e vias de trânsito rápido', e o X é 'outras restrições'. Na aula foi anotado que a falha nesse teste leva à restrição U. É a restrição coerente, mas repare que o Anexo II não escreve o código: ele só exige a função.",
+  "porAlt": [
+   "Errada: o código T veda rodovias e vias de trânsito rápido, não o período noturno.",
+   "Errada: a exigência vale para todos os candidatos, e U não trata de rodovias.",
+   "Correta: o item 4.1 exige a função e o Anexo XV define U como vedado após o pôr do sol.",
+   "Errada: o item 4.1 não distingue categorias.",
+   "Errada: X é o código de 'outras restrições'."
+  ]
+ },
+ {
+  "q": "Durante o exame, o perito posiciona o candidato de costas, a dois metros, e pronuncia palavras dissílabas com volume constante, avaliando uma orelha de cada vez, com a outra ocluída. Segundo os Anexos III e IV da Resolução CONTRAN nº 927/2022, o que está em desacordo com a norma?",
+  "alts": [
+   "A distância de dois metros: a prova deve ser feita a cinco metros do candidato",
+   "O uso de dissílabas: a norma recomenda monossílabos, mais difíceis de adivinhar",
+   "A posição de costas: o candidato deve olhar o examinador para manter a atenção",
+   "O volume constante: a norma manda aumentar a voz a cada palavra não entendida",
+   "A avaliação de uma orelha por vez: a prova usa as duas orelhas simultaneamente"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "orl",
+  "sub": "Voz coloquial (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, item 1.1; Anexo IV",
+  "coment": "O item 1.1 do Anexo III e o item 1 do Anexo IV dizem que a prova da voz coloquial é feita 'em ambas as orelhas simultaneamente', a dois metros do examinador, em local silencioso e sem auxílio da leitura labial. O Anexo IV acrescenta que as palavras devem ser pronunciadas com calma e volume constante, que as melhores são as dissílabas (casa, dama, tronco) e que o candidato não pode ver os lábios do examinador, o que a posição de costas garante. Ocluir uma orelha transformaria a triagem binaural em exame de cada orelha, que não é o que a norma pede.",
+  "porAlt": [
+   "Errada: a distância prevista é de dois metros.",
+   "Errada: o Anexo IV diz que as melhores palavras são as dissílabas.",
+   "Errada: o candidato não pode ver os lábios; ficar de costas atende à norma.",
+   "Errada: o Anexo IV pede calma e volume constante.",
+   "Correta: a prova é feita nas duas orelhas ao mesmo tempo (Anexo III, 1.1; Anexo IV, 1)."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo IV da Resolução CONTRAN nº 927/2022, por que o examinador deve assegurar-se de que o candidato não veja os seus lábios durante a prova da voz coloquial?",
+  "alts": [
+   "Porque a expressão facial do perito poderia induzir a resposta esperada",
+   "Porque o resultado poderia ser afetado pela capacidade de leitura labial",
+   "Porque a norma exige que a prova seja feita em cabine audiométrica fechada",
+   "Porque a prova avalia a compreensão da fala sem pistas de contexto verbal",
+   "Porque a prova mede a intensidade da voz, que o olhar tende a superestimar"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "orl",
+  "sub": "Voz coloquial (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo IV, item 5",
+  "coment": "O item 5 do Anexo IV é textual: 'O examinador deverá assegurar-se de que o candidato não veja os seus lábios, pois neste caso, os resultados poderão ser afetados pela sua capacidade de leitura labial'. O item 1.1 do Anexo III repete a ideia ('sem auxílio da leitura labial'). A prova não exige cabine (pede local silencioso, sem ruído de tráfego e com pouca reverberação) e não mede decibéis: se o candidato for reprovado, aí sim se pede a audiometria tonal aérea, feita por médico ou fonoaudiólogo.",
+  "porAlt": [
+   "Errada: a norma fala em leitura labial, não em indução pela expressão facial.",
+   "Correta: é a justificativa escrita no item 5 do Anexo IV.",
+   "Errada: a norma pede local silencioso, não cabine audiométrica.",
+   "Errada: a justificativa da norma é a leitura labial, não a ausência de contexto.",
+   "Errada: a voz coloquial não mede intensidade; quem mede é a audiometria."
+  ]
+ },
+ {
+  "q": "Qual das condutas a seguir NÃO está entre os procedimentos da prova da voz coloquial descritos no Anexo IV da Resolução CONTRAN nº 927/2022?",
+  "alts": [
+   "Pronunciar as palavras com calma e volume constante durante toda a prova",
+   "Evitar inspirar profundamente antes de pronunciar cada uma das palavras",
+   "Medir a voz do examinador com decibelímetro, mantendo-a em 60 decibéis",
+   "Usar preferencialmente palavras dissílabas, como casa, dama e tronco",
+   "Impedir que o candidato veja os lábios do examinador durante a prova"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "orl",
+  "sub": "Voz coloquial (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo IV",
+  "coment": "O Anexo IV tem cinco itens: (1) local silencioso, sem ruído de tráfego e com pouca reverberação, examinador a dois metros, ambas as orelhas simultaneamente; (2) palavras pronunciadas com calma e volume constante; (3) o examinador não deve inspirar profundamente antes de cada palavra, para o início da emissão não sair forte demais; (4) as melhores palavras são as dissílabas, como casa, dama, tronco; (5) o candidato não pode ver os lábios. Não há medição da voz em decibéis: a voz coloquial é uma triagem, e quem mede decibéis é a audiometria tonal aérea pedida em caso de reprovação.",
+  "porAlt": [
+   "Errada (está na norma): é o item 2 do Anexo IV.",
+   "Errada (está na norma): é o item 3 do Anexo IV.",
+   "Correta: o Anexo IV não prevê decibelímetro nem intensidade fixa da voz.",
+   "Errada (está na norma): é o item 4 do Anexo IV.",
+   "Errada (está na norma): é o item 5 do Anexo IV."
+  ]
+ },
+ {
+  "q": "Candidata de 22 anos com surdez bilateral profunda, sem melhora com tratamento e com prótese, tem média de 85 dB em 500, 1000 e 2000 Hz na orelha melhor e exame otoneurológico normal. Pretende a categoria A. Segundo o Anexo III da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Inapta, pois a surdez total impede a condução de qualquer veículo automotor",
+   "Apta na categoria A, com otoneurológico normal e retrovisores nas laterais",
+   "Apta só na categoria B, pois a motocicleta exige ouvir a buzina e as sirenes",
+   "Inapta temporária, até que a média caia abaixo de 40 dB com nova prótese",
+   "Apta em qualquer categoria, com o código B de uso obrigatório de prótese"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "orl",
+  "sub": "Audiometria",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, item 1.7",
+  "coment": "O item 1.7 do Anexo III diz que os candidatos que, após tratamento e/ou prótese, mantiverem perda igual ou superior a 40 dB na média de 500, 1000 e 2000 Hz da orelha melhor 'somente poderão dirigir veículos automotores enquadrados na ACC e nas categorias A e B, com exame otoneurológico normal', e que os veículos desses candidatos 'deverão estar equipados com espelhos retrovisores nas laterais'. A categoria A está expressamente entre as permitidas. O código B pressupõe média abaixo de 40 dB com a prótese (item 1.6), o que não ocorreu, e a inaptidão temporária é para quem ainda não foi tratado (item 1.5).",
+  "porAlt": [
+   "Errada: o item 1.7 permite ACC, A e B mesmo com perda residual de 40 dB ou mais.",
+   "Correta: é o item 1.7 (ACC, A e B, otoneurológico normal e retrovisores laterais).",
+   "Errada: a categoria A está expressamente incluída no item 1.7.",
+   "Errada: esgotado o tratamento, o caso é do item 1.7, e não do 1.5.",
+   "Errada: o código B vale quando a prótese traz a média abaixo de 40 dB (item 1.6)."
+  ]
+ },
+ {
+  "q": "Motorista de caminhão de 58 anos, categoria C, sem indicação de prótese, fez o tratamento proposto e mantém média de 42 dB em 500, 1000 e 2000 Hz na via aérea da orelha melhor, com exame otoneurológico normal. Segundo o Anexo III da Resolução CONTRAN nº 927/2022, qual é o resultado na renovação?",
+  "alts": [
+   "Apto na categoria C, pois a média está abaixo do corte de 45 dB do Anexo III",
+   "Inapto temporário por prazo indeterminado, até a média ficar abaixo de 40 dB",
+   "Apto em qualquer categoria, com o código B e revisão audiométrica a cada ano",
+   "Inapto definitivo em qualquer categoria, pela perda auditiva irreversível do caso",
+   "Não mantém a categoria C; fica restrito a ACC, A e B, com retrovisores laterais"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "orl",
+  "sub": "Audiometria",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo III, itens 1.5 e 1.7",
+  "coment": "O corte do Anexo III é 40 dB na média de 500, 1000 e 2000 Hz, via aérea, na orelha melhor. Antes do tratamento, 40 dB ou mais geram inaptidão temporária com encaminhamento (item 1.5). Depois do tratamento, se a perda continuar igual ou superior a 40 dB, a pessoa 'somente poderá dirigir' ACC e categorias A e B, com exame otoneurológico normal e veículo com espelhos retrovisores nas laterais (item 1.7). O motorista perde a categoria C na renovação. Não existe corte de 45 dB, e o código B só se aplica a quem alcança média abaixo de 40 dB com prótese.",
+  "porAlt": [
+   "Errada: o corte do Anexo III é 40 dB, e não 45 dB.",
+   "Errada: esgotado o tratamento, o caso passa ao item 1.7, que limita a categoria.",
+   "Errada: não há prótese nem média abaixo de 40 dB; o código B não se aplica.",
+   "Errada: o item 1.7 mantém a ACC e as categorias A e B.",
+   "Correta: item 1.7, com restrição a ACC, A e B e retrovisores nas laterais."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo V da Resolução CONTRAN nº 927/2022, para ser considerado apto sem diminuição do prazo de validade do exame, o candidato precisa apresentar:",
+  "alts": [
+   "Sistólica inferior a 160 e diastólica inferior a 100 mmHg, as duas ao mesmo tempo",
+   "Sistólica inferior a 160 ou diastólica inferior a 100 mmHg, bastando uma delas",
+   "Sistólica inferior a 140 e diastólica inferior a 90 mmHg, as duas ao mesmo tempo",
+   "Sistólica inferior a 180 e diastólica inferior a 110 mmHg, as duas ao mesmo tempo",
+   "Sistólica inferior a 130 e diastólica inferior a 85 mmHg, como exige o Anexo X"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Pressão arterial (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, itens 1.2 a 1.4",
+  "coment": "O item 1.2 do Anexo V considera apto, na ACC e em todas as categorias, quem tem sistólica inferior a 160 mmHg e diastólica inferior a 100 mmHg. O conectivo é 'e': as duas pressões têm de estar abaixo do corte. Já as faixas piores usam 'e/ou': 160 a 179 e/ou 100 a 109 gera aptidão com diminuição do prazo a critério médico (1.3), e 180 ou mais e/ou 110 ou mais gera inaptidão temporária (1.4). Os valores de 130 e 85 são do Anexo X, onde a PA funciona como indício de apneia do sono, não como critério de aptidão.",
+  "porAlt": [
+   "Correta: é o item 1.2 do Anexo V, com o conectivo 'e'.",
+   "Errada: para ser apto, as duas pressões têm de estar abaixo do corte.",
+   "Errada: 140 × 90 não é corte do Anexo V.",
+   "Errada: abaixo de 180/110, mas acima de 160/100, o resultado é apto com prazo reduzido.",
+   "Errada: 130 e 85 são indícios de distúrbio do sono no Anexo X."
+  ]
+ },
+ {
+  "q": "Candidato de 45 anos à renovação da categoria A apresenta pressão arterial de 168 × 112 mmHg, confirmada em nova aferição, sem outras alterações no exame. Segundo o Anexo V da Resolução CONTRAN nº 927/2022, qual é o resultado?",
+  "alts": [
+   "Inapto temporariamente, pois a diastólica é igual ou superior a 110 mmHg",
+   "Apto com diminuição do prazo, pois a sistólica está entre 160 e 179 mmHg",
+   "Apto sem restrição, pois só a sistólica igual ou maior que 180 reprova",
+   "Inapto definitivo, pois a pressão diastólica acima de 110 é irreversível",
+   "Apto com diminuição do prazo, pois a categoria A tem régua mais branda"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Pressão arterial (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, item 1.4",
+  "coment": "O item 1.4 do Anexo V considera inapto temporariamente quem tem sistólica igual ou superior a 180 mmHg e/ou diastólica igual ou superior a 110 mmHg. Por causa do 'e/ou', basta uma das pressões. A sistólica de 168 cairia na faixa do meio, mas a diastólica de 112 já leva à inaptidão temporária, e prevalece a faixa pior. A régua é a mesma para ACC e categorias A a E. O perito entrega o relatório do Anexo VI, que pede nova verificação em dois ou mais dias da semana seguinte, e reavalia com o tratamento.",
+  "porAlt": [
+   "Correta: diastólica de 110 ou mais basta para a inaptidão temporária (item 1.4).",
+   "Errada: a diastólica de 112 leva à faixa pior, que prevalece.",
+   "Errada: pelo 'e/ou', a diastólica sozinha também reprova temporariamente.",
+   "Errada: hipertensão é tratável; o resultado é inapto temporário.",
+   "Errada: a régua do Anexo V é igual para ACC e todas as categorias."
+  ]
+ },
+ {
+  "q": "Mulher de 60 anos, categoria B, sem atividade remunerada, teve infarto agudo do miocárdio há nove semanas e apresenta boa recuperação clínica. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é o resultado?",
+  "alts": [
+   "Apta, pois na ACC, A e B bastam oito semanas; prazo reduzido a critério médico",
+   "Inapta temporária, pois o infarto exige doze semanas em todas as categorias",
+   "Inapta temporária, pois o infarto exige relatório favorável em qualquer categoria",
+   "Inapta temporária, pois o infarto exige dezesseis semanas na ACC, na A e na B",
+   "Apta sem diminuição do prazo, pois a recuperação clínica já está completa hoje"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Infarto (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "Na coluna da ACC e das categorias A e B, o Anexo VII considera apto o infartado 'com recuperação clínica após oito semanas', com diminuição do prazo de validade do exame a critério médico. Na coluna de C, D e E o prazo sobe para doze semanas e a aprovação fica condicionada a relatório cardiológico favorável. Com nove semanas e boa recuperação, a candidata à B está apta. O infarto é a linha em que o prazo muda entre as colunas (8 para 12), e é a troca que as bancas mais exploram.",
+  "porAlt": [
+   "Correta: oito semanas na ACC, A e B, com prazo reduzido a critério médico.",
+   "Errada: doze semanas é o prazo de C, D e E.",
+   "Errada: o relatório cardiológico favorável é exigido na coluna de C, D e E.",
+   "Errada: não existe prazo de dezesseis semanas no Anexo VII.",
+   "Errada: a linha do infarto prevê diminuição do prazo a critério médico."
+  ]
+ },
+ {
+  "q": "Homem de 55 anos, categoria B, sem atividade remunerada, fez cirurgia de revascularização miocárdica há nove semanas e está clinicamente recuperado. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Está apto: na ACC, A e B a revascularização segue o prazo de oito semanas",
+   "Está apto: na ACC, A e B a revascularização exige só duas semanas de espera",
+   "Ainda não está apto: a revascularização exige seis meses em qualquer grupo",
+   "Está apto: na B basta a recuperação clínica, sem prazo mínimo definido",
+   "Ainda não está apto: a revascularização exige doze semanas também na B"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Revascularização (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "No Anexo VII, a revascularização miocárdica tem o mesmo prazo nas duas colunas: na ACC e nas categorias A e B, 'apto quando clinicamente recuperado após doze semanas'; em C, D e E, 'aprovação com recuperação clínica após doze semanas, condicionada a relatório cardiológico favorável'. Com nove semanas, o candidato ainda não cumpre o prazo. O erro comum é aplicar à cirurgia as oito semanas do infarto ou as duas da angioplastia. Resumo: infarto 8/12, revascularização 12/12, angioplastia sem infarto 2/2, marca-passo 2/6.",
+  "porAlt": [
+   "Errada: oito semanas é o prazo do infarto, não da revascularização.",
+   "Errada: duas semanas é o prazo da angioplastia sem infarto.",
+   "Errada: o Anexo VII não fixa seis meses para revascularização.",
+   "Errada: a coluna da ACC, A e B fixa doze semanas para a revascularização.",
+   "Correta: doze semanas também na coluna da ACC, A e B."
+  ]
+ },
+ {
+  "q": "Na tabela do Anexo VII da Resolução CONTRAN nº 927/2022, qual condição tem o MESMO prazo de espera na coluna da ACC, A e B e na coluna de C, D e E?",
+  "alts": [
+   "Infarto do miocárdio, com doze semanas nas duas colunas da tabela",
+   "Marca-passo definitivo, com seis semanas nas duas colunas iguais",
+   "Infarto do miocárdio, com oito semanas nas duas colunas da tabela",
+   "Revascularização miocárdica, com doze semanas nas duas colunas",
+   "Marca-passo definitivo, com duas semanas nas duas colunas iguais"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Tabela do Anexo VII (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "Os prazos do Anexo VII são: infarto 8 semanas (ACC, A e B) e 12 semanas (C, D e E); revascularização 12 e 12; angioplastia sem infarto 2 e 2; marca-passo 2 e 6 semanas. Portanto, entre as alternativas, só a revascularização tem prazo igual nas duas colunas (a angioplastia também, mas não aparece aqui). O que muda sempre na coluna profissional é a exigência de relatório cardiológico favorável, e no marca-passo também a avaliação da etiologia.",
+  "porAlt": [
+   "Errada: o infarto tem 8 semanas na ACC, A e B e 12 em C, D e E.",
+   "Errada: o marca-passo tem 2 semanas na ACC, A e B e 6 em C, D e E.",
+   "Errada: 8 semanas vale só para a ACC, A e B.",
+   "Correta: revascularização tem 12 semanas nas duas colunas.",
+   "Errada: 2 semanas vale só para a ACC, A e B."
+  ]
+ },
+ {
+  "q": "Aposentado de 71 anos, categoria B, sem atividade remunerada, implantou marca-passo definitivo há três semanas por bloqueio atrioventricular total. O exame cardiológico é normal. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é o resultado?",
+  "alts": [
+   "Inapto temporário até completar seis semanas do implante do marca-passo",
+   "Inapto temporário até apresentar relatório e a avaliação da etiologia",
+   "Apto, pois passaram duas semanas do implante; prazo reduzido a critério",
+   "Inapto, pois o bloqueio atrioventricular total impede a direção veicular",
+   "Apto sem prazo mínimo, pois o marca-passo corrige o bloqueio de imediato"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Marca-passo (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "Na coluna da ACC e das categorias A e B, o Anexo VII considera apto o portador de marca-passo 'após duas semanas da implantação', 'com exame cardiológico normal', com diminuição do prazo de validade do exame a critério médico. As seis semanas, o relatório cardiológico favorável e a avaliação da etiologia são exigências da coluna de C, D e E. O bloqueio atrioventricular de 3º grau gera inaptidão temporária enquanto não tratado; corrigido com marca-passo, passam a valer as regras do dispositivo.",
+  "porAlt": [
+   "Errada: seis semanas é o prazo de C, D e E.",
+   "Errada: relatório e avaliação da etiologia são exigidos na coluna de C, D e E.",
+   "Correta: duas semanas e exame cardiológico normal na ACC, A e B.",
+   "Errada: tratado com marca-passo, o bloqueio segue as regras do dispositivo.",
+   "Errada: a norma exige duas semanas após a implantação."
+  ]
+ },
+ {
+  "q": "Segundo a Figura 1 da diretriz ABRAMET/SBC/SOBRAC sobre dispositivos cardíacos eletrônicos implantáveis, após a TROCA DE GERADOR do marca-passo, qual é o afastamento recomendado na direção privada e na profissional, respectivamente?",
+  "alts": [
+   "Duas semanas na direção privada e quatro semanas na direção profissional",
+   "Uma semana na direção privada e afastamento permanente na profissional",
+   "Duas semanas na direção privada e seis semanas na direção profissional",
+   "Quatro semanas na direção privada e três meses na direção profissional",
+   "Uma semana na direção privada e duas semanas na direção profissional"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Marca-passo (★)",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Figura 1",
+  "coment": "A Figura 1 da diretriz de DCEI divide a direção em privada (condutor que não exerce atividade remunerada: ACC, A, B) e profissional (exerce atividade remunerada: ACC a E). Para o marca-passo, os prazos são: implante 2 e 4 semanas; troca de gerador 1 e 2 semanas; troca de eletrodo 2 e 4 semanas. Afastamento permanente na direção profissional é regra do CDI, não do marca-passo. Lembre a contradição: o texto do item 2.1 da mesma diretriz e o Anexo VII da Resolução 927 falam em 2 e 6 semanas para o implante.",
+  "porAlt": [
+   "Errada: 2 e 4 semanas são os prazos do implante e da troca de eletrodo.",
+   "Errada: afastamento permanente é regra do CDI na direção profissional.",
+   "Errada: 2 e 6 semanas é o implante no Anexo VII e no texto da diretriz.",
+   "Errada: esses prazos não constam da Figura 1 do marca-passo.",
+   "Correta: troca de gerador, 1 semana (privada) e 2 semanas (profissional)."
+  ]
+ },
+ {
+  "q": "Sobre o afastamento da direção PROFISSIONAL após o implante de marca-passo, assinale a alternativa que descreve corretamente as fontes.",
+  "alts": [
+   "O Anexo VII e o texto da diretriz dão 6 semanas; a Figura 1 da diretriz dá 4",
+   "O Anexo VII dá 4 semanas; o texto e a Figura 1 da diretriz dão 6 semanas cada",
+   "O Anexo VII e a Figura 1 da diretriz dão 6 semanas; o texto da diretriz, 4",
+   "O Anexo VII, o texto e a Figura 1 da diretriz dão 6 semanas, sem divergência",
+   "O Anexo VII dá 2 semanas; o texto e a Figura 1 da diretriz dão 4 semanas cada"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Marca-passo (★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII; Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 2.1 e Figura 1",
+  "coment": "O Anexo VII da Resolução 927 exige, para C, D e E, seis semanas da implantação, com relatório cardiológico favorável e avaliação da etiologia. O texto corrido do item 2.1 da diretriz de DCEI diz que, pelas recomendações da ABRAMET, o paciente deve ficar afastado duas semanas na direção particular e seis na profissional. A Figura 1 da mesma diretriz traz duas e quatro semanas. A aula anotou '6 semanas (CONTRAN) / 4 semanas (diretriz)'. Na prova, veja qual fonte o enunciado cita: Resolução ou texto da diretriz, 6; figura da diretriz, 4.",
+  "porAlt": [
+   "Correta: 6 semanas no Anexo VII e no texto do item 2.1; 4 semanas na Figura 1.",
+   "Errada: o Anexo VII dá 6 semanas, e a figura é que dá 4.",
+   "Errada: a Figura 1 dá 4 semanas, e o texto é que dá 6.",
+   "Errada: há divergência entre o texto e a Figura 1 da diretriz.",
+   "Errada: 2 semanas é o prazo da coluna ACC, A e B do Anexo VII."
+  ]
+ },
+ {
+  "q": "Motorista de caminhão de 50 anos, assintomático, tem bloqueio atrioventricular de 2º grau tipo Mobitz II documentado no Holter. Segundo a diretriz ABRAMET/SBC/SOBRAC sobre arritmias e dispositivos, qual é a conduta quanto à direção?",
+  "alts": [
+   "Liberado para a direção privada e a profissional, com Holter anual de controle",
+   "Desqualificado para a direção em qualquer condição até o tratamento definitivo",
+   "Liberado só para a direção privada, enquanto ele permanecer assintomático no Holter",
+   "Liberado para a direção profissional se o QRS de escape for menor que 110 ms",
+   "Desqualificado de forma permanente para a direção profissional, mesmo tratado"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Arritmias e BAV",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 3.2.2 e Figura 4",
+  "coment": "A diretriz distingue os bloqueios. BAV de 1º grau e BAV de 2º grau tipo I (Mobitz I), assintomáticos, não desqualificam nem para a direção profissional, com avaliação periódica e Holter anual. Já o BAV de 2º grau tipo II (Mobitz II) e o BAV total adquirido 'desqualificam o portador para a direção veicular em qualquer condição, até que o tratamento eficaz, normalmente com implante de marca-passo definitivo, seja instituído' (item 3.2.2; Figura 4). Depois do marca-passo, valem os prazos do dispositivo. O critério de QRS menor ou igual a 110 ms e pausas menores que 3 s é do BAV total congênito na direção profissional.",
+  "porAlt": [
+   "Errada: essa conduta é a do BAV de 1º grau e do Mobitz I.",
+   "Correta: Mobitz II desqualifica em qualquer condição até o tratamento definitivo.",
+   "Errada: o Mobitz II desqualifica também a direção privada até o tratamento.",
+   "Errada: o critério do QRS de escape é do BAV total congênito.",
+   "Errada: após o marca-passo, valem os prazos do dispositivo, não exclusão permanente."
+  ]
+ },
+ {
+  "q": "Motorista de 59 anos teve fibrilação atrial descoberta há uma semana, ainda em investigação diagnóstica, sem sintomas no momento. Segundo o Quadro 1 da diretriz ABRAMET/SBC/SOBRAC, qual é a orientação quanto à direção?",
+  "alts": [
+   "Pode dirigir sem restrição, pois está assintomático neste momento",
+   "Pode dirigir só na direção privada, até o resultado do ecocardiograma",
+   "Está desqualificado de forma permanente para a direção profissional",
+   "Deve ser desaconselhado a dirigir enquanto estiver em investigação",
+   "Pode dirigir desde que já esteja anticoagulado com dose plena estável"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Fibrilação atrial (★)",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Quadro 1",
+  "coment": "O Quadro 1 da diretriz traz cinco orientações ao portador de FA: (1) sintomáticos não deverão dirigir; (2) pacientes em investigação diagnóstica deverão ser desaconselhados a dirigir; (3) se o tratamento permite controle adequado sem complicações, a direção poderá ser consentida sob orientação do cardiologista assistente; (4) alto risco de tromboembolismo, miocardiopatia, estenose mitral ou insuficiência cardíaca descompensada devem ser desencorajados de dirigir; (5) anticoagulados devem ser informados de que são mais vulneráveis a hemorragias em lesões por acidentes. O caso é o item 2.",
+  "porAlt": [
+   "Errada: em investigação diagnóstica, a orientação é desaconselhar a direção.",
+   "Errada: o Quadro 1 não separa privada e profissional nesse ponto.",
+   "Errada: FA controlada e estável não tem restrição permanente (Figura 5).",
+   "Correta: é o item 2 do Quadro 1 (em investigação, desaconselhar dirigir).",
+   "Errada: a anticoagulação não libera a direção durante a investigação."
+  ]
+ },
+ {
+  "q": "Segundo o Quadro 1 da diretriz ABRAMET/SBC/SOBRAC, quais portadores de fibrilação atrial devem ser DESENCORAJADOS de dirigir?",
+  "alts": [
+   "Os com FA crônica e frequência ventricular bem controlada, em uso de anticoagulante oral",
+   "Os com alto risco de tromboembolismo, miocardiopatia, estenose mitral ou IC descompensada",
+   "Os com FA paroxística sem prejuízo da consciência, bem controlada com os antiarrítmicos",
+   "Os com idade acima de 65 anos, mesmo assintomáticos e com a frequência bem controlada",
+   "Os com FA permanente em uso de betabloqueador, independentemente de quaisquer outros achados"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Fibrilação atrial (★)",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, Quadro 1, item 4",
+  "coment": "O item 4 do Quadro 1 é textual: 'pacientes com alto risco de desenvolver tromboembolismo, miocardiopatia, e portadores de estenose mitral ou insuficiência cardíaca descompensada devem ser desencorajados de dirigir'. A FA crônica com frequência ventricular adequadamente controlada e sem prejuízo da consciência não tem restrição, com anticoagulação se indicada, tanto na direção privada quanto na profissional (Figura 5). A paroxística sem prejuízo da consciência também não tem restrição. A diretriz não usa a idade como critério.",
+  "porAlt": [
+   "Errada: FA crônica controlada não tem restrição, com anticoagulação se indicada (Figura 5).",
+   "Correta: é o item 4 do Quadro 1.",
+   "Errada: paroxística sem prejuízo da consciência não tem restrição (Figura 5).",
+   "Errada: a diretriz não usa a idade como critério para a FA.",
+   "Errada: a diretriz não restringe pelo betabloqueador, e sim pelos fatores do item 4."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus de 34 anos tem taquicardia supraventricular paroxística que já causou pré-síncope. Segundo a diretriz ABRAMET/SBC/SOBRAC, qual é a conduta recomendada?",
+  "alts": [
+   "Liberar sem restrição, pois a taquicardia supraventricular não causa síncope",
+   "Desqualificar de forma permanente para a direção profissional, mesmo tratada",
+   "Liberar só a direção privada, pois a profissional exige ausência de episódios",
+   "Liberar após controle satisfatório, com ablação como tratamento de escolha",
+   "Afastar por doze meses após o último episódio, qualquer que seja o tratamento"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Taquicardia supraventricular",
+  "base": "Diretriz ABRAMET/SBC/SOBRAC de direção veicular em portadores de DCEI e arritmias cardíacas, item 3.2.4.2 e Figura 5",
+  "coment": "Pela Figura 5, a taquicardia supraventricular paroxística com prejuízo do nível de consciência exige 'controle satisfatório' tanto na direção privada quanto na profissional; sem prejuízo da consciência, não há restrições. O texto diz que a ablação por radiofrequência tem resultados excelentes e é recomendada para controle definitivo e liberação quando há síncope, pré-síncope ou tonturas relacionadas à taquicardia; se a ablação for impossível, o antiarrítmico é mandatório. A diretriz registra síncope em 33% a 39% dos portadores de taquicardia por reentrada nodal. Após a ablação, a volta à direção profissional é uma semana após a alta.",
+  "porAlt": [
+   "Errada: a diretriz relata síncope em 33% a 39% na reentrada nodal.",
+   "Errada: controlada, a arritmia não desqualifica a direção profissional.",
+   "Errada: a Figura 5 exige controle satisfatório nas duas colunas.",
+   "Correta: controle satisfatório, com ablação recomendada em quem teve pré-síncope.",
+   "Errada: doze meses é o prazo da síncope inexplicada na direção profissional."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é o resultado previsto para o condutor com insuficiência cardíaca congestiva?",
+  "alts": [
+   "Inapto definitivo na ACC, A e B e nas categorias C, D e E, sem exceção",
+   "Apto na ACC, A e B com prazo reduzido; inapto temporário em C, D e E",
+   "Inapto temporariamente, na ACC, A e B e também nas categorias C, D e E",
+   "Apto com relatório cardiológico favorável em todas as categorias da CNH",
+   "Inapto temporariamente só em C, D e E; apto na ACC, A e B sem restrição"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "ICC e valvulopatia",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "Na tabela do Anexo VII, a insuficiência cardíaca congestiva leva a 'inapto temporariamente' nas duas colunas, e o mesmo vale para arritmias com repercussão funcional, BAV de 2º e 3º grau, bradicardia acentuada e taquiarritmias. A única linha grafada como 'inapto', sem o 'temporariamente', é a valvulopatia com repercussão hemodinâmica. O Anexo V já anuncia a remissão: o portador de doença cardiovascular capaz de causar perda de consciência ou ICC deve ser avaliado pelo consenso da ABRAMET (Anexo VII).",
+  "porAlt": [
+   "Errada: a tabela diz 'temporariamente'; 'inapto' puro é só da valvulopatia com repercussão.",
+   "Errada: a ICC não é tratada de forma diferente entre as colunas.",
+   "Correta: ICC é inapto temporariamente nas duas colunas.",
+   "Errada: o Anexo VII não aprova a ICC mediante relatório.",
+   "Errada: a ICC é inapto temporário também na ACC, A e B."
+  ]
+ },
+ {
+  "q": "Motorista de ônibus de 48 anos tem estenose aórtica leve, sem repercussão hemodinâmica, e renova a categoria D. Segundo o Anexo VII da Resolução CONTRAN nº 927/2022, qual é a conduta?",
+  "alts": [
+   "Aprovação condicionada a relatório cardiológico favorável, com prazo reduzido",
+   "Apto sem qualquer condição, pois a valvulopatia não tem repercussão alguma",
+   "Inapto, pois toda valvulopatia impede as categorias C, D e E pela Resolução",
+   "Inapto temporariamente até a correção cirúrgica ou percutânea da válvula aórtica",
+   "Aprovação após doze semanas de observação clínica, com relatório favorável"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "ICC e valvulopatia",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VII",
+  "coment": "Na linha das valvulopatias, o Anexo VII diz: com repercussão hemodinâmica, inapto nas duas colunas; sem repercussão hemodinâmica, 'apto' na ACC, A e B e, em C, D e E, 'aprovação condicionada a relatório cardiológico favorável', com diminuição do prazo de validade do exame a critério médico nas duas colunas. O motorista de ônibus sem repercussão hemodinâmica depende, portanto, do relatório favorável. O prazo de doze semanas pertence ao infarto (C, D e E) e à revascularização.",
+  "porAlt": [
+   "Correta: C, D e E sem repercussão: relatório favorável e prazo reduzido a critério.",
+   "Errada: em C, D e E a aprovação fica condicionada ao relatório favorável.",
+   "Errada: só a valvulopatia com repercussão hemodinâmica leva a inapto.",
+   "Errada: a tabela não exige correção da válvula sem repercussão.",
+   "Errada: doze semanas é prazo do infarto e da revascularização."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo V da Resolução CONTRAN nº 927/2022, além da aferição da pressão arterial, o que deve ser realizado na avaliação cardiorrespiratória de todo candidato?",
+  "alts": [
+   "Eletrocardiograma de repouso em cada candidato às categorias C, D e E",
+   "Oximetria de pulso e espirometria, com os valores anotados no RENACH",
+   "Teste ergométrico nos maiores de 50 anos que exercem atividade remunerada",
+   "Radiografia de tórax nos tabagistas, com o laudo anexado ao formulário",
+   "Ausculta cardíaca e pulmonar, com o valor da PA registrado no RENACH"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "cardio",
+  "sub": "Anexo V",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo V, item 1",
+  "coment": "O item 1 do Anexo V diz que 'deverá ser avaliada a pressão arterial e realizadas auscultas cardíaca e pulmonar', e o item 1.1 manda aferir a pressão nas condições das diretrizes das Sociedades Brasileiras de Hipertensão, Cardiologia e Nefrologia e registrar o valor obrigatoriamente no formulário RENACH. Nenhum exame complementar é rotina: eletrocardiograma, teste ergométrico, radiografia, oximetria ou espirometria só entram como exames complementares a critério médico (art. 4º, IV). A ausculta pulmonar é a única parte 'respiratória' do anexo.",
+  "porAlt": [
+   "Errada: o Anexo V não prevê ECG de rotina.",
+   "Errada: oximetria e espirometria não são exigidas pelo anexo.",
+   "Errada: teste ergométrico não é exigência do Anexo V.",
+   "Errada: radiografia de tórax não é exigência do Anexo V.",
+   "Correta: é o item 1 do Anexo V, e o registro da PA no RENACH é o item 1.1."
+  ]
+ },
+ {
+  "q": "Candidata de 38 anos, sem deficiência física, renova a categoria C. Na dinamometria manual obtém 34 kgf na mão direita e 28 kgf na esquerda. Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Atende, pois a média das duas mãos é de 31 kgf, acima do corte de 30 kgf da C",
+   "Não atende a C, pois são exigidos 30 kgf em cada mão; atenderia a ACC, A e B",
+   "Atende, pois a mão dominante alcança 30 kgf, que é o critério da norma vigente",
+   "Atende, pois o corte das categorias C, D e E é de só 25 kgf em cada uma das mãos",
+   "Não atende a categoria alguma, pois a mão esquerda ficou abaixo do corte legal"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "neuro",
+  "sub": "Dinamometria",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 1.3.1",
+  "coment": "O item 1.3.1 do Anexo VIII exige, na dinamometria manual, força igual ou superior a 20 kgf em cada uma das mãos para ACC e categorias A e B, e igual ou superior a 30 kgf em cada uma das mãos para C, D e E. O critério é por mão, não pela média nem pela mão dominante. Com 28 kgf na esquerda, a candidata não atende à C, mas atende ao corte de 20 kgf de ACC, A e B. Para a pessoa com deficiência física, os valores ficam a critério da Junta Médica Especial (1.3.2).",
+  "porAlt": [
+   "Errada: a norma exige o corte em cada mão, e não na média.",
+   "Correta: 30 kgf em cada mão para C, D e E; 28 kgf servem para ACC, A e B.",
+   "Errada: o critério vale para cada uma das mãos, não só a dominante.",
+   "Errada: o corte de C, D e E é 30 kgf.",
+   "Errada: 28 kgf atendem aos 20 kgf exigidos na ACC, A e B."
+  ]
+ },
+ {
+  "q": "Candidato de 72 anos, sem deficiência física, renova a categoria B. Na dinamometria manual obtém exatamente 20 kgf na mão direita e 21 kgf na esquerda. Segundo o Anexo VIII da Resolução CONTRAN nº 927/2022, qual é a conclusão quanto à força?",
+  "alts": [
+   "Atende, pois a norma exige força igual ou superior a 20 kgf em cada mão",
+   "Não atende, pois a norma exige força superior a 20 kgf em cada uma das mãos",
+   "Não atende, pois acima de 70 anos o corte da categoria B sobe a 25 kgf",
+   "Atende só com a restrição de direção hidráulica, código F, no veículo",
+   "Não atende, pois a categoria B exige 30 kgf em cada uma das duas mãos"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "neuro",
+  "sub": "Dinamometria",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo VIII, item 1.3.1",
+  "coment": "O item 1.3.1 do Anexo VIII fala em força 'igual ou superior a 20 Kgf em cada uma das mãos' para ACC e categorias A e B. Exatamente 20 kgf atende. A norma não muda o corte com a idade (o que muda com a idade é a periodicidade do exame: 3 anos a partir dos 70, pelo art. 147 do CTB). Restrição de direção hidráulica (código F) é adaptação decidida em caso de deficiência, não exigência para quem atinge o corte. Os 30 kgf são das categorias C, D e E.",
+  "porAlt": [
+   "Correta: o corte é 'igual ou superior a 20 kgf' em cada mão.",
+   "Errada: a norma diz 'igual ou superior', e 20 kgf atende.",
+   "Errada: o Anexo VIII não altera o corte pela idade.",
+   "Errada: quem atinge o corte não precisa de adaptação veicular.",
+   "Errada: 30 kgf é o corte de C, D e E."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET sobre o condutor idoso, como se define o ataque isquêmico transitório (AIT) e qual é o período mínimo recomendado de cessação da condução após o evento?",
+  "alts": [
+   "Déficit focal isquêmico que regride em menos de 72 horas; mínimo de 3 meses",
+   "Déficit focal isquêmico que regride em menos de 24 horas; mínimo de 6 meses",
+   "Déficit focal isquêmico que regride em menos de 24 horas; mínimo de 30 dias",
+   "Déficit focal hemorrágico que regride em menos de 24 horas; mínimo de 6 meses",
+   "Déficit focal isquêmico que regride em menos de 1 hora; mínimo de 12 meses"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "neuro",
+  "sub": "AIT",
+  "base": "Diretriz ABRAMET — O condutor idoso (2022), item 7.8",
+  "coment": "A diretriz do condutor idoso (item 7.8) define o AIT como déficits neurológicos focais de etiologia isquêmica com regressão completa em menos de 24 horas, mais frequentes em idosos e muitas vezes consequentes a arritmias cardíacas. Recomenda a cessação da condução por um período mínimo de seis meses, com retomada após investigação diagnóstica, identificação da etiologia, controle e acompanhamento com o especialista. Ao voltar, o condutor fica sob supervisão médica e, se aprovado, com diminuição do prazo de validade do exame.",
+  "porAlt": [
+   "Errada: o limite da definição é 24 horas e o afastamento mínimo é de seis meses.",
+   "Correta: regressão em menos de 24 horas e cessação por no mínimo seis meses.",
+   "Errada: o afastamento mínimo é de seis meses, não de 30 dias.",
+   "Errada: o AIT é de etiologia isquêmica, não hemorrágica.",
+   "Errada: a definição usa 24 horas, e o afastamento mínimo é de seis meses."
+  ]
+ },
+ {
+  "q": "Condutor de 69 anos teve AIT há sete meses. A investigação identificou fibrilação atrial, agora controlada e acompanhada pelo cardiologista. Comparece para renovar a CNH categoria B e o exame é normal. Segundo a diretriz ABRAMET sobre o condutor idoso, qual é a orientação?",
+  "alts": [
+   "Manter o afastamento até completar doze meses sem novo evento isquêmico",
+   "Encaminhar à Junta Médica Especial, obrigatória após qualquer AIT no idoso",
+   "Considerar inapto definitivo, pelo risco de AVC após ataque transitório",
+   "Liberar a retomada, com supervisão médica e redução do prazo de validade",
+   "Aprovar sem restrições, pois o déficit regrediu completamente no evento"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "neuro",
+  "sub": "AIT",
+  "base": "Diretriz ABRAMET — O condutor idoso (2022), item 7.8",
+  "coment": "A diretriz (item 7.8) recomenda cessar a condução por no mínimo seis meses após um AIT e retomar após investigação diagnóstica, identificação da etiologia, controle e acompanhamento com o especialista. Quando retomarem, os condutores devem permanecer sob supervisão médica e, se aprovados no exame de aptidão física e mental, a orientação é diminuir o prazo de validade. O caso cumpre tudo: sete meses, etiologia identificada (FA) e controlada, acompanhamento especializado. A Junta Médica Especial é a via do AVC com sequela neuromuscular, motora ou sensorial persistente, não do AIT.",
+  "porAlt": [
+   "Errada: o mínimo recomendado é de seis meses, não de doze.",
+   "Errada: a JME é para AVC com sequela persistente, não para o AIT.",
+   "Errada: a diretriz prevê retomada após investigação e controle.",
+   "Correta: seis meses cumpridos, causa controlada; supervisão e prazo reduzido.",
+   "Errada: a diretriz orienta supervisão médica e diminuição do prazo de validade."
+  ]
+ },
+ {
+  "q": "Condutora de 71 anos teve AVC isquêmico há dez meses, com recuperação completa e sem evidência de dano neurológico permanente. Segundo a diretriz ABRAMET sobre o condutor idoso, qual é a orientação?",
+  "alts": [
+   "Encaminhá-la à Junta Médica Especial, obrigatória após AVC",
+   "Considerá-la inapta definitiva, pelo risco de nova recorrência",
+   "Mantê-la afastada até completar dois anos do evento vascular",
+   "Ela poderá retomar a condução, pois teve recuperação completa",
+   "Aprová-la só na ACC, com restrição de horário e de rodovias"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "neuro",
+  "sub": "AVC",
+  "base": "Diretriz ABRAMET — O condutor idoso (2022), item 7.8",
+  "coment": "A diretriz do condutor idoso (item 7.8) diz que idosos acometidos de AVC 'poderão retomar a condução de um veículo se apresentarem recuperação completa, sem evidência de dano neurológico permanente'. Persistindo o comprometimento das funções neuromuscular, motora ou sensorial, o encaminhamento é para a Junta Médica Especial, com avaliação pela NBR 14.970 da ABNT. Na aula foi anotado 'apto com diminuição do prazo'; a diretriz não escreve isso para o AVC (escreve para o AIT), mas o perito pode propor prazo menor com base no art. 147, § 4º, do CTB.",
+  "porAlt": [
+   "Errada: a JME é para quem mantém comprometimento neuromuscular, motor ou sensorial.",
+   "Errada: com recuperação completa, a diretriz permite retomar a condução.",
+   "Errada: a diretriz não fixa prazo de dois anos para o AVC.",
+   "Correta: recuperação completa sem dano permanente permite retomar a condução.",
+   "Errada: a diretriz não prevê essa restrição para o AVC recuperado."
+  ]
+ },
+ {
+  "q": "Na Escala de Sonolência de Epworth reproduzida no Anexo XI da Resolução CONTRAN nº 927/2022, o que significa a pontuação 2 atribuída a uma situação?",
+  "alts": [
+   "Pequena chance de cochilar naquela situação",
+   "Alta chance de cochilar em toda aquela situação",
+   "Moderada chance de cochilar naquela situação",
+   "Nenhuma chance de cochilar naquela situação",
+   "Cochilou de fato naquela situação no último mês"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Epworth (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XI",
+  "coment": "O Anexo XI traz a escala com quatro valores por situação: 0 = nenhuma chance de cochilar; 1 = pequena chance; 2 = moderada chance; 3 = alta chance. São oito situações, e o total vai de 0 a 24. A pergunta é sobre a probabilidade de cochilar ou adormecer, em contraste com estar apenas cansado, no modo de vida atual, e quem não passou pela situação deve estimar como seria afetado. A escala não pergunta se o candidato cochilou de fato num período determinado.",
+  "porAlt": [
+   "Errada: pequena chance corresponde ao escore 1.",
+   "Errada: alta chance corresponde ao escore 3.",
+   "Correta: o escore 2 é moderada chance de cochilar.",
+   "Errada: nenhuma chance corresponde ao escore 0.",
+   "Errada: a escala mede probabilidade, não um evento ocorrido no último mês."
+  ]
+ },
+ {
+  "q": "Quanto ao ponto de corte da Escala de Sonolência de Epworth no Anexo X da Resolução CONTRAN nº 927/2022, é correto afirmar:",
+  "alts": [
+   "Os itens 1.2.5 e 1.3 fixam o mesmo corte, escore maior ou igual a 10 pontos",
+   "O item 1.2.5 fala em escore maior que 10, e o item 1.3 em maior que 12 pontos",
+   "O item 1.2.5 fala em escore maior que 12, e o item 1.3 em maior ou igual a 12",
+   "O Anexo X não fixa corte e remete a interpretação da escala à polissonografia",
+   "Os itens 1.2.5 e 1.3 fixam o mesmo corte, escore maior ou igual a 16 pontos"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Epworth (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.2.5 e 1.3",
+  "coment": "O texto oficial se contradiz. O item 1.2.5 lista como indício 'Escala de Sonolência Epworth: > 12'. O item 1.3 diz 'escore na escala de sonolência de Epworth maior ou igual a 12 (> 12)'. A aula ensinou 12 ou mais. Na prática, só o escore exatamente 12 muda de lado conforme a leitura: 13 ou mais é positivo e 11 ou menos é negativo pelas duas redações. Por isso a questão bem feita não depende do 12 exato; se depender, veja qual item o enunciado cita.",
+  "porAlt": [
+   "Errada: o corte do Anexo X gira em torno de 12, não de 10.",
+   "Errada: nenhum dos dois itens usa 10 como corte.",
+   "Correta: é a contradição entre o item 1.2.5 (> 12) e o item 1.3 (≥ 12).",
+   "Errada: o Anexo X fixa o corte e prevê PSG como uma das condutas.",
+   "Errada: 16 não aparece no Anexo X."
+  ]
+ },
+ {
+  "q": "Motorista de 47 anos renova a categoria E. Pontua 15 na Escala de Epworth e tem um único indício objetivo (IMC de 32 kg/m²). Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual afirmação é correta?",
+  "alts": [
+   "A regra não é acionada, pois são necessários dois ou mais indícios objetivos",
+   "A regra não é acionada, pois o Epworth só vale somado a indício objetivo",
+   "A regra é acionada, mas só leva a inaptidão definitiva para a categoria E",
+   "A regra é acionada pelo Epworth, que basta sozinho pelo conectivo 'e/ou'",
+   "A regra não é acionada, pois o Epworth positivo exige mais de 18 pontos"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Epworth (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.3",
+  "coment": "O item 1.3 do Anexo X aciona a conduta quando o candidato apresenta escore de Epworth maior ou igual a 12 'e/ou' dois ou mais indícios objetivos. O Epworth é uma porta autônoma: com 15 pontos, positivo por qualquer das duas redações do corte (> 12 ou ≥ 12), a regra está acionada mesmo com um único indício objetivo. A saída, a critério médico, é aprovar temporariamente ou encaminhar para avaliação médica específica e polissonografia. A norma não prevê inaptidão definitiva nesse ponto.",
+  "porAlt": [
+   "Errada: os dois indícios objetivos são uma via; o Epworth é outra, ligada por 'e/ou'.",
+   "Errada: o 'e/ou' torna o Epworth suficiente por si.",
+   "Errada: as saídas são aprovação temporária ou encaminhamento para PSG.",
+   "Correta: o Epworth de 15 aciona sozinho o item 1.3.",
+   "Errada: o corte gira em torno de 12, e 15 é positivo."
+  ]
+ },
+ {
+  "q": "Motorista do sexo masculino, 44 anos, mudança da categoria B para a D. IMC de 29 kg/m², perímetro cervical de 44 cm, Mallampati modificado classe 4, pressão arterial de 134 × 88 mmHg e Epworth de 7. Segundo o Anexo X da Resolução CONTRAN nº 927/2022, qual é a conclusão?",
+  "alts": [
+   "Não aciona a regra: há só um indício objetivo, o Mallampati classe 4",
+   "Aciona a regra: há dois indícios objetivos, o Mallampati e a pressão",
+   "Não aciona a regra: o Epworth é normal e a pressão é apta pelo Anexo V",
+   "Aciona a regra: há três indícios, incluindo o perímetro do pescoço",
+   "Aciona a regra: basta o IMC acima de 25, que soma ao Mallampati classe 4"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Critérios objetivos (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, itens 1.2 e 1.3",
+  "coment": "Pelo item 1.2 do Anexo X, são indícios objetivos: pressão sistólica > 130 e diastólica > 85 mmHg; IMC > 30 kg/m²; perímetro cervical, na altura da cartilagem cricoide, > 45 cm em homens e > 38 cm em mulheres; e Mallampati modificado classe 3 ou 4. O candidato tem dois: Mallampati 4 e PA de 134 × 88 (as duas acima do corte). O IMC de 29 e o pescoço de 44 cm não contam. Com dois ou mais indícios, o item 1.3 permite, a critério médico, aprová-lo temporariamente ou encaminhá-lo para avaliação específica e polissonografia. A PA de 134 × 88 é apta no Anexo V, mas é indício no Anexo X.",
+  "porAlt": [
+   "Errada: a PA de 134 × 88 também é indício (> 130 e > 85).",
+   "Correta: Mallampati 4 e PA > 130 e > 85 somam dois indícios.",
+   "Errada: dois indícios objetivos bastam, mesmo com Epworth normal.",
+   "Errada: 44 cm não passa do corte masculino de 45 cm.",
+   "Errada: o corte de IMC do Anexo X é > 30, não > 25."
+  ]
+ },
+ {
+  "q": "Motorista do sexo masculino, 52 anos, renova a categoria C. IMC de 34 kg/m², perímetro cervical de 44 cm, Mallampati classe 2, pressão arterial de 132 × 84 mmHg e Epworth de 8. Segundo o Anexo X da Resolução CONTRAN nº 927/2022, quantos indícios objetivos ele apresenta?",
+  "alts": [
+   "Um: o IMC acima de 30, já que a pressão exige as duas acima do corte",
+   "Dois: o IMC acima de 30 e a pressão sistólica acima de 130 mmHg isolada",
+   "Três: o IMC, a pressão arterial e o perímetro cervical acima de 40 cm",
+   "Nenhum: o IMC só é indício acima de 35 kg/m² no rastreamento de SAOS",
+   "Dois: o IMC acima de 30 e o Epworth, que é contado como indício objetivo"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Critérios objetivos (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.1",
+  "coment": "O item 1.2.1 define o indício pressórico como 'pressão sistólica > 130mmHg e diastólica > 85mmHg': as duas precisam passar do corte. Com 132 × 84, a diastólica não passa, e a PA não conta. O IMC de 34 é indício (> 30). O perímetro cervical de 44 cm não passa do corte masculino de 45 cm, e Mallampati 2 não é indício. O Epworth é parâmetro subjetivo (item 1.1.2), não objetivo. Resultado: um único indício objetivo e Epworth de 8, então o item 1.3 não é acionado.",
+  "porAlt": [
+   "Correta: só o IMC; a PA exige as duas pressões acima do corte.",
+   "Errada: a PA só conta com sistólica > 130 e diastólica > 85.",
+   "Errada: o corte cervical masculino é > 45 cm, e a PA não conta.",
+   "Errada: o corte do IMC é > 30 kg/m².",
+   "Errada: o Epworth é parâmetro subjetivo, não indício objetivo."
+  ]
+ },
+ {
+  "q": "Diante de candidato com dois ou mais indícios objetivos de distúrbio do sono, qual das condutas a seguir NÃO está prevista no item 1.3 do Anexo X da Resolução CONTRAN nº 927/2022?",
+  "alts": [
+   "Aprovar temporariamente, a critério médico",
+   "Encaminhar para avaliação médica específica",
+   "Encaminhar para realização de polissonografia",
+   "Escolher entre as condutas a critério médico",
+   "Reprovar temporariamente até o laudo da PSG"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Conduta (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.3",
+  "coment": "O item 1.3 diz que o candidato com Epworth de 12 ou mais e/ou dois ou mais indícios objetivos, 'a critério médico, poderá ser aprovado temporariamente ou ser encaminhado para avaliação médica específica e realização de polissonografia (PSG)'. Na aula foi anotado 'reprovado temporário'; a norma diz 'aprovado temporariamente', ou seja, o condutor sai apto, com prazo curto. Isso não impede que outra condição leve à inaptidão temporária, mas não é a conduta escrita no item 1.3.",
+  "porAlt": [
+   "Errada (está prevista): 'poderá ser aprovado temporariamente'.",
+   "Errada (está prevista): 'encaminhado para avaliação médica específica'.",
+   "Errada (está prevista): 'e realização de polissonografia (PSG)'.",
+   "Errada (está prevista): as condutas são 'a critério médico'.",
+   "Correta: o item 1.3 fala em aprovação temporária, não em reprovação."
+  ]
+ },
+ {
+  "q": "Segundo o Anexo X da Resolução CONTRAN nº 927/2022, em que ponto deve ser medido o perímetro cervical usado como indício de distúrbio do sono?",
+  "alts": [
+   "Na altura da cartilagem tireoide, na proeminência laríngea",
+   "Na base do pescoço, logo acima das articulações claviculares",
+   "Na altura do osso hioide, com o pescoço em extensão máxima",
+   "No ponto de maior circunferência, onde quer que ele esteja",
+   "Na altura da cartilagem cricoide, em homens e em mulheres"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Critérios objetivos (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo X, item 1.2.3",
+  "coment": "O item 1.2.3 do Anexo X diz: 'Perímetro Cervical (medido na altura da cartilagem cricóide): homens >45cm e mulheres >38cm'. O ponto de medida é o mesmo para os dois sexos; o que muda é o corte. A fita métrica está entre os equipamentos obrigatórios da entidade médica (art. 17, II, n), ao lado da balança antropométrica usada no IMC.",
+  "porAlt": [
+   "Errada: a norma indica a cartilagem cricoide, e não a tireoide.",
+   "Errada: a norma não usa a base do pescoço.",
+   "Errada: a norma não usa o osso hioide.",
+   "Errada: a norma fixa o ponto de medida na cricoide.",
+   "Correta: é o item 1.2.3 do Anexo X."
+  ]
+ },
+ {
+  "q": "Na Escala de Sonolência de Epworth do Anexo XI da Resolução CONTRAN nº 927/2022, quais situações envolvem estar dentro de um veículo?",
+  "alts": [
+   "Duas: como passageiro, uma hora sem parar, e parado no trânsito",
+   "Duas: dirigindo à noite em estrada e parado em congestionamento",
+   "Uma: como motorista, dirigindo por uma hora sem parar em estrada",
+   "Três: como passageiro, como motorista e parado em congestionamento",
+   "Nenhuma: todas as oito situações ocorrem fora de um veículo qualquer"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "sono",
+  "sub": "Epworth (★★)",
+  "base": "Resolução CONTRAN nº 927/2022, Anexo XI",
+  "coment": "Das oito situações da escala, duas envolvem veículo: 'como passageiro(a) de trem, carro ou ônibus, andando uma hora sem parar' e 'se você tiver carro, enquanto pára por alguns minutos em virtude de trânsito intenso'. Em nenhuma o respondente está conduzindo o veículo em movimento. As outras seis são: sentado e lendo; assistindo TV; sentado em lugar público; deitado para descansar à tarde; sentado e conversando; sentado calmamente após o almoço sem álcool.",
+  "porAlt": [
+   "Correta: passageiro por uma hora e carro parado em trânsito intenso.",
+   "Errada: a escala não traz 'dirigindo à noite em estrada'.",
+   "Errada: a escala não tem situação de condução em movimento.",
+   "Errada: não existe situação 'como motorista' em movimento.",
+   "Errada: duas situações envolvem veículo."
+  ]
+ }
+]

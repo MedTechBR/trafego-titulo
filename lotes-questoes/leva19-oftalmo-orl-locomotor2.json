@@ -1,8 +1,8 @@
 [
  {
-  "q": "Candidato à categoria E apresenta acuidade visual de 20/30 no olho direito e 20/30 no esquerdo, visão binocular de 20/30 e campo horizontal de 130º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, ele atende ao exigido?",
+  "q": "Candidato à categoria E apresenta acuidade visual de 20/30 no olho direito e 20/40 no esquerdo, visão binocular de 20/30 e campo horizontal de 130º em cada olho. Segundo o Anexo II da Resolução CONTRAN nº 927/2022, ele atende ao exigido?",
   "alts": [
-   "Sim, pois a acuidade de 20/30 em cada olho já satisfaz integralmente o padrão dessas categorias",
+   "Sim, pois 20/30 num olho e 20/40 no outro já satisfazem integralmente o padrão dessas categorias",
    "Sim, pois o campo visual de 130º em cada olho compensa a binocularidade aquém do padrão exigido",
    "Não, pois a visão binocular exigida é de no mínimo 20/25 nas categorias C, D e E pretendidas",
    "Não, pois a acuidade exigida em cada olho nessas categorias é de no mínimo 20/25 monocular",
@@ -12,9 +12,9 @@
   "tema": "oftalmo",
   "sub": "Visão binocular nas categorias C, D e E",
   "base": "Resolução CONTRAN nº 927/2022, Anexo II, item 1.1.1.",
-  "coment": "Para as categorias C, D e E, o item 1.1.1 exige TRÊS parâmetros simultâneos: acuidade visual central igual ou superior a 20/30 em cada olho (ou 20/30 em um e ao menos 20/40 no outro); VISÃO BINOCULAR MÍNIMA de 20/25; e campo horizontal de pelo menos 120º em cada olho. O candidato do enunciado cumpre a acuidade monocular e o campo, mas falha na binocularidade — 20/30 é inferior a 20/25. A binocularidade é o parâmetro mais esquecido do anexo, exatamente por não existir na exigência das categorias A e B, e não é compensável por bom campo visual. A conduta é encaminhar para avaliação oftalmológica: sendo corrigível, inaptidão temporária; não sendo, avaliar as categorias A e B, cujo piso é 20/40 em cada olho.",
+  "coment": "Para as categorias C, D e E, o item 1.1.1 exige TRÊS parâmetros simultâneos: acuidade visual central igual ou superior a 20/30 em cada olho (ou 20/30 em um e ao menos 20/40 no outro); VISÃO BINOCULAR MÍNIMA de 20/25; e campo horizontal de pelo menos 120º em cada olho. O candidato do enunciado cumpre a acuidade monocular (20/30 num olho e 20/40 no outro) e o campo, mas falha na binocularidade — 20/30 é inferior a 20/25. A binocularidade é o parâmetro mais esquecido do anexo, exatamente por não existir na exigência das categorias A e B, e não é compensável por bom campo visual. A conduta é encaminhar para avaliação oftalmológica: sendo corrigível, inaptidão temporária; não sendo, avaliar as categorias A e B, cujo piso é 20/40 em cada olho.",
   "porAlt": [
-   "A acuidade monocular está adequada, mas a norma exige também a binocularidade mínima de 20/25.",
+   "A combinação 20/30 + 20/40 é admitida, mas vem acompanhada da binocularidade mínima de 20/25.",
    "O campo visual é exigência somada, e não um parâmetro capaz de compensar a binocularidade.",
    "Correta: a binocularidade mínima de 20/25 não é atingida, e ela é exigência autônoma dessas categorias.",
    "A acuidade monocular exigida é de 20/30, e não de 20/25, que é o valor da visão binocular.",

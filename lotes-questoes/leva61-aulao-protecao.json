@@ -1,0 +1,991 @@
+[
+ {
+  "q": "Criança de 5 anos, 19 kg e 1,10 m será levada no carro particular da família. Pela Resolução CONTRAN nº 819/2021, qual dispositivo e qual posição são obrigatórios?",
+  "alts": [
+   "Cinto de segurança do veículo, no banco traseiro, pois já ultrapassou o peso máximo de 18 kg",
+   "Assento de elevação no banco dianteiro, afastado do airbag, por já ter passado dos 4 anos de idade",
+   "Assento de elevação com o cinto do veículo, no banco traseiro, por ter mais de 4 anos e até 7,5",
+   "Cadeirinha voltada para trás, no banco traseiro, até completar 25 kg ou a idade de sete anos",
+   "Cadeirinha voltada para a frente, no banco traseiro, pois ainda não completou seis anos de idade"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — Res. 819: escolha do dispositivo",
+  "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III, e art. 2º; CTB art. 64",
+  "coment": "O Anexo da Resolução CONTRAN 819/2021 escalona os dispositivos por idade OU por peso e altura. O assento de elevação vale para crianças com idade superior a 4 anos e inferior ou igual a 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. A criança do caso (5 anos, 19 kg, 1,10 m) cai nas duas condições. O art. 64 do CTB e o art. 2º da Resolução exigem o banco traseiro para quem tem menos de 10 anos e ainda não atingiu 1,45 m. A cadeirinha é para mais de 1 e até 4 anos, ou 9 a 18 kg; o cinto do veículo sozinho, para mais de 7,5 anos ou mais de 1,45 m. Atenção: a diretriz ABRAMET de 2006 põe o booster a partir de cerca de 18 kg; a lei usa 15 kg.",
+  "porAlt": [
+   "Passar de 18 kg tira a criança da cadeirinha, não do assento de elevação; o cinto sozinho só vale acima de 7,5 anos ou acima de 1,45 m.",
+   "Com menos de 10 anos e menos de 1,45 m a regra é o banco traseiro; o dianteiro só nas exceções do art. 3º, que o caso não descreve.",
+   "Correta: mais de 4 e até 7,5 anos, ou até 1,45 m com 15 a 36 kg, é assento de elevação (Anexo, III), no banco traseiro (CTB art. 64).",
+   "A Resolução não prevê cadeirinha de costas até 25 kg ou 7 anos; o degrau de costas é o bebê conforto ou conversível, até 1 ano ou 13 kg.",
+   "A cadeirinha, pela Resolução 819, vai de mais de 1 até 4 anos (ou 9 a 18 kg); aos 5 anos e 19 kg a criança já passou dessa faixa."
+  ]
+ },
+ {
+  "q": "Pela Resolução CONTRAN nº 819/2021, até qual idade o assento de elevação é o dispositivo previsto, antes de a criança passar ao cinto de segurança do veículo?",
+  "alts": [
+   "Até dez anos completos, idade em que a criança deixa de ser obrigada ao banco traseiro",
+   "Até oito anos completos, desde que o peso da criança não tenha ultrapassado o limite de 36 kg",
+   "Até seis anos, quando a estatura média já permite o uso do cinto de três pontos adulto",
+   "Até sete anos e meio; acima disso, o dispositivo previsto passa a ser o cinto do veículo",
+   "Até nove anos, ou até a criança alcançar a estatura mínima de 1,35 m, o que vier antes"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — Res. 819: limite do assento de elevação",
+  "base": "Resolução CONTRAN nº 819/2021, Anexo, incisos III e IV",
+  "coment": "A Resolução CONTRAN 819/2021 (Anexo, III) prevê o assento de elevação para crianças com idade superior a quatro anos e inferior ou igual a sete anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg. O inciso IV passa ao cinto de segurança do veículo a criança com idade superior a sete anos e meio e inferior ou igual a dez anos, ou com altura superior a 1,45 m. O número 10 anos pertence a outra regra: é o limite do art. 64 do CTB para o banco traseiro (menos de 10 anos e menos de 1,45 m). A pegadinha é a anotação comum 'booster de 4 a 10 anos', que é da diretriz ABRAMET de 2006, recomendação médica e não a regra legal.",
+  "porAlt": [
+   "Dez anos é o limite do banco traseiro (CTB art. 64) e da recomendação ABRAMET de 2006 para o booster, não o do assento de elevação na lei.",
+   "Oito anos não aparece na Resolução; o peso de 36 kg é o teto do assento de elevação, mas o corte de idade é 7,5 anos.",
+   "Seis anos não é corte da Resolução; o assento de elevação cobre de mais de 4 até 7,5 anos.",
+   "Correta: o Anexo, III, vai até sete anos e meio; o inciso IV põe no cinto do veículo quem tem mais de 7,5 e até 10 anos.",
+   "Nove anos e 1,35 m não constam da norma; a altura de referência é 1,45 m e a idade, 7,5 anos."
+  ]
+ },
+ {
+  "q": "Qual é a faixa de peso do assento de elevação na Resolução CONTRAN nº 819/2021, que difere da faixa recomendada pela diretriz ABRAMET de 2006?",
+  "alts": [
+   "De 9 a 18 kg, com altura de até 1,00 m, conforme o limite definido pelo fabricante",
+   "De 18 a 36 kg, com altura de até 1,45 m, conforme o limite definido pelo fabricante",
+   "De 15 a 36 kg, com altura de até 1,45 m, conforme o limite definido pelo fabricante",
+   "De 22 a 36 kg, com altura de até 1,30 m, conforme o limite definido pelo fabricante",
+   "De 15 a 25 kg, com altura de até 1,15 m, conforme o limite definido pelo fabricante"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — Res. 819: faixa de peso do assento de elevação",
+  "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso III; Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 3",
+  "coment": "O Anexo, III, da Resolução CONTRAN 819/2021 define o assento de elevação para crianças com mais de 4 e até 7 anos e meio, ou com até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo do fabricante. A diretriz ABRAMET de 2006 (parte II, Tabela 3) recomenda o booster de 18 a 36 kg e de 4 a 10 anos: foi essa a faixa anotada no aulão. Os números 22 a 36 kg (1,30 m) e 15 a 25 kg (1,15 m) são os grupos de massa III e II da NBR 14400 citados na diretriz; 9 a 18 kg é a faixa da cadeirinha. Em prova, 'Resolução', 'obrigatório' ou 'infração' pedem 15 a 36 kg.",
+  "porAlt": [
+   "9 a 18 kg é a faixa de peso da cadeirinha (Anexo, II), não a do assento de elevação.",
+   "18 a 36 kg é a faixa da diretriz ABRAMET de 2006 (Tabela 3), não a da Resolução 819, que começa em 15 kg.",
+   "Correta: Anexo, III: até 1,45 m e peso entre 15 e 36 kg, conforme o limite máximo definido pelo fabricante.",
+   "22 a 36 kg e cerca de 1,30 m descrevem o grupo de massa III da NBR 14400, citado na diretriz, não a faixa legal.",
+   "15 a 25 kg e cerca de 1,15 m descrevem o grupo de massa II da NBR 14400, não o assento de elevação da Resolução."
+  ]
+ },
+ {
+  "q": "Lactente de 10 meses e 10 kg viaja em bebê conforto. Uma anotação de aula dizia 'bebê conforto até 9 kg'. Pela Resolução CONTRAN nº 819/2021, o bebê conforto continua admitido para ele?",
+  "alts": [
+   "Não: aos 9 meses a lei manda trocá-lo pela cadeirinha voltada para a frente",
+   "Não: a lei manda trocar o bebê conforto assim que a criança atingir os 10 kg",
+   "Não: 9 kg é o limite legal do bebê conforto, e ele já ultrapassou esse peso",
+   "Não: com 10 kg ele já deve usar o assento de elevação com o cinto do veículo",
+   "Sim: a lei prevê bebê conforto ou conversível até 1 ano de idade ou até 13 kg"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — Res. 819: bebê conforto",
+  "base": "Resolução CONTRAN nº 819/2021, Anexo, inciso I",
+  "coment": "O Anexo, I, da Resolução CONTRAN 819/2021 agrupa 'bebê conforto ou conversível' num único degrau, para crianças com até um ano de idade OU com peso de até 13 kg, conforme o limite do fabricante. Não existe corte legal de 9 kg: com 10 meses e 10 kg, a criança está no degrau I pela idade e pelo peso, e o bebê conforto continua admitido. O limite de 9 kg (e 12 meses) é do 'assento infantil' na diretriz ABRAMET de 2006 — recomendação médica, não regra legal; mesmo nela, quem atinge 9 kg antes de 1 ano passa ao assento conversível, que acomoda até 13 kg e continua de costas. O corte de 9 meses e 10 kg é do grupo 0 da NBR 14400 citado na diretriz. Em prova, 'Resolução', 'obrigatório' ou 'infração' pedem os cortes da 819: 1 ano ou 13 kg.",
+  "porAlt": [
+   "Nove meses é o grupo 0 da NBR 14400 citado na diretriz ABRAMET, não um limite da Resolução; a lei não manda virar a criança de frente aos 9 meses.",
+   "A Resolução não impõe troca aos 10 kg; o teto de peso do degrau I é 13 kg, conforme o limite do fabricante.",
+   "A Resolução não tem corte de 9 kg para o bebê conforto: o degrau I vai até 1 ano ou 13 kg, e a criança está dentro dos dois critérios.",
+   "Assento de elevação é para mais de 4 anos (até 7,5) ou 15 a 36 kg; nada no caso se aproxima dessa faixa.",
+   "Correta: Anexo, I — bebê conforto ou conversível para crianças com até 1 ano de idade ou até 13 kg, conforme o limite do fabricante."
+  ]
+ },
+ {
+  "q": "Um palestrante afirma que 'o assento de elevação é obrigatório dos 4 aos 10 anos, de 18 a 36 kg'. Essa faixa corresponde a qual fonte?",
+  "alts": [
+   "À diretriz ABRAMET de 2006; a Resolução 819 fixa mais de 4 a 7,5 anos, ou 15 a 36 kg",
+   "Ao art. 64 do CTB, que define idade e peso de cada dispositivo de retenção infantil",
+   "À Resolução CONTRAN 277/2008, que segue vigente para o assento de elevação no país",
+   "À norma NBR 14400, que a Resolução 819 incorporou literalmente no seu Anexo único",
+   "À Resolução CONTRAN 819/2021, que fixa essa faixa como regra obrigatória em todo o país"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — diretriz ABRAMET × lei",
+  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 3; Resolução CONTRAN nº 819/2021, Anexo, III",
+  "coment": "A faixa 'booster de 4 a 10 anos e 18 a 36 kg' está na Tabela 3 da parte II da diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), que recomenda o uso até a criança atingir 36 kg e completar aproximadamente 10 anos. É recomendação médica. A regra legal é a Resolução CONTRAN 819/2021, cujo Anexo, III, prevê o assento de elevação para mais de 4 e até 7 anos e meio, ou até 1,45 m com 15 a 36 kg. O art. 64 do CTB não fixa faixas: exige banco traseiro e dispositivo adequado para menores de 10 anos com menos de 1,45 m e delega ao CONTRAN as especificações. A Resolução 277/2008 foi revogada pela própria 819 (art. 8º, I).",
+  "porAlt": [
+   "Correta: 4 a 10 anos e 18 a 36 kg é a Tabela 3 da diretriz ABRAMET de 2006, recomendação; a lei (819) usa 7,5 anos e 15 kg.",
+   "O art. 64 do CTB não fixa idade nem peso por dispositivo; exige DRC adequado e delega a especificação ao CONTRAN.",
+   "A Resolução 277/2008 foi revogada pela 819/2021 (art. 8º, I), em vigor desde 12/04/2021.",
+   "A NBR 14400 é citada pela diretriz para os grupos de massa (0 a III); não é a origem da faixa de 4 a 10 anos.",
+   "A Resolução 819 usa outros cortes: mais de 4 até 7,5 anos, ou até 1,45 m com 15 a 36 kg."
+  ]
+ },
+ {
+  "q": "Menina de 9 anos, com 1,47 m de altura, quer viajar no banco dianteiro do carro dos pais. À luz do CTB e da Resolução CONTRAN nº 819/2021, isso é:",
+  "alts": [
+   "Permitido somente se o banco traseiro estiver ocupado por outras crianças menores de dez",
+   "Proibido, pois o banco traseiro é obrigatório para toda criança com menos de dez anos",
+   "Permitido, pois ela já atingiu 1,45 m e as duas condições do art. 64 são cumulativas",
+   "Permitido apenas com assento de elevação, até completar dez anos ou pesar mais de 36 kg",
+   "Proibido, salvo se o veículo não tiver airbag frontal instalado para o banco do passageiro"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — art. 64: condições cumulativas",
+  "base": "CTB art. 64 (redação da Lei 14.071/2020); Resolução CONTRAN nº 819/2021, art. 3º, IV",
+  "coment": "O art. 64 do CTB (redação da Lei 14.071/2020) obriga ao banco traseiro, em dispositivo de retenção adequado, as crianças com idade inferior a 10 anos QUE NÃO TENHAM ATINGIDO 1,45 m de altura. As duas condições são cumulativas: basta ter atingido 1,45 m para sair da regra. A Resolução CONTRAN 819/2021 confirma no art. 3º, IV, que o transporte no banco dianteiro pode ocorrer 'quando a criança já tiver atingido 1,45 m', e o Anexo, IV, põe no cinto do veículo quem tem altura superior a 1,45 m. Não há exigência de assento de elevação acima de 1,45 m nem condição ligada ao airbag para esse caso.",
+  "porAlt": [
+   "Banco traseiro lotado é outra exceção (art. 3º, II); a criança com 1,45 m não depende dela.",
+   "A idade sozinha não basta: o art. 64 exige, ao mesmo tempo, menos de 10 anos e altura inferior a 1,45 m.",
+   "Correta: o art. 64 alcança quem tem menos de 10 anos E menos de 1,45 m; com 1,47 m ela sai da regra (art. 3º, IV, da 819).",
+   "Acima de 1,45 m o dispositivo previsto é o cinto do veículo (Anexo, IV); não se exige assento de elevação.",
+   "A presença de airbag não é condição do art. 3º, IV; ele libera o banco dianteiro pela altura já atingida."
+  ]
+ },
+ {
+  "q": "A Resolução CONTRAN nº 819/2021 admite o transporte de criança com menos de 10 anos no banco dianteiro, com o dispositivo adequado, em algumas situações. Qual das seguintes NÃO está entre elas?",
+  "alts": [
+   "A quantidade de crianças com essa idade excede a lotação do banco traseiro do veículo",
+   "O veículo tem de fábrica apenas cintos subabdominais de dois pontos no banco traseiro",
+   "A criança, embora ainda com menos de dez anos de idade, já atingiu a altura de 1,45 m",
+   "A criança viaja sozinha com o condutor e o airbag do passageiro foi desativado antes",
+   "O veículo é dotado exclusivamente do banco dianteiro, como a picape de cabine simples"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — art. 3º: exceções do banco dianteiro",
+  "base": "Resolução CONTRAN nº 819/2021, art. 3º, I a IV",
+  "coment": "O art. 3º da Resolução CONTRAN 819/2021 lista quatro situações em que a criança com menos de 10 anos pode ir no banco dianteiro, com o dispositivo de retenção adequado ao peso e à altura: (I) veículo dotado exclusivamente desse banco; (II) quantidade de crianças excede a lotação do banco traseiro; (III) veículo dotado originalmente de cintos subabdominais de dois pontos nos bancos traseiros; (IV) criança que já atingiu 1,45 m. Viajar sozinha com o condutor não é exceção, e a Resolução não trata de desativar o airbag: o art. 4º regula o banco com airbag vedando o DRC de costas até 7,5 anos e exigindo o banco na última posição de recuo.",
+  "porAlt": [
+   "É a exceção do inciso II: número de crianças maior que a lotação do banco traseiro.",
+   "É a exceção do inciso III: cintos de dois pontos originais nos bancos traseiros.",
+   "É a exceção do inciso IV: a criança que já atingiu 1,45 m de altura.",
+   "Correta: viajar só com o condutor não é hipótese do art. 3º, e a Resolução não prevê desativar airbag como autorização.",
+   "É a exceção do inciso I: veículo dotado exclusivamente do banco dianteiro."
+  ]
+ },
+ {
+  "q": "Pai leva o bebê de 8 meses numa picape de cabine simples, com airbag do passageiro ativo. Quer instalar o bebê conforto de costas para a marcha no banco do passageiro. Pela Resolução CONTRAN nº 819/2021:",
+  "alts": [
+   "É vedado apenas se o bebê conforto tiver bandeja ou acessório equivalente acoplado",
+   "É vedado: no banco com airbag, DRC contra a marcha é proibido até sete anos e meio",
+   "É permitido para bebês até 1 ano, pois a posição de costas protege a coluna cervical",
+   "É permitido, desde que o banco do passageiro seja recuado até a sua última posição",
+   "É permitido, pois o art. 3º autoriza o banco dianteiro quando não há banco traseiro"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — art. 4º: airbag e DRC de costas",
+  "base": "Resolução CONTRAN nº 819/2021, art. 3º, I, e art. 4º, I a III",
+  "coment": "O art. 3º, I, da Resolução CONTRAN 819/2021 permite o banco dianteiro quando o veículo é dotado exclusivamente desse banco, mas o art. 4º impõe requisitos quando há airbag para o passageiro: (I) é vedado o transporte de crianças com até sete anos e meio em dispositivo de retenção posicionado em sentido contrário ao da marcha; (II) é permitido o DRC no sentido da marcha, desde que sem bandeja ou acessório equivalente; (III) o banco deve ficar na última posição de recuo, salvo instrução do fabricante. O bebê conforto é de costas, portanto vedado nesse banco com airbag ativo. A Resolução não prevê solução por desativação; a diretriz ABRAMET de 2006 manda desativar o airbag com criança até 14 anos na frente.",
+  "porAlt": [
+   "A restrição da bandeja é do inciso II, para o DRC voltado para a frente; o de costas já é vedado pelo inciso I.",
+   "Correta: art. 4º, I: com airbag, é vedado DRC contra a marcha para criança de até 7,5 anos.",
+   "A vantagem da posição de costas é real, mas diante do airbag a Resolução a proíbe até 7,5 anos (art. 4º, I).",
+   "O recuo do banco é requisito do inciso III, mas não afasta a proibição do inciso I para o DRC de costas.",
+   "O art. 3º, I, permite o banco dianteiro, mas o art. 4º acrescenta requisitos quando há airbag, e o DRC de costas é vedado."
+  ]
+ },
+ {
+  "q": "Motorista de aplicativo leva o próprio filho de 3 anos, sem cadeirinha, num domingo em que não está atendendo passageiros. Pela Resolução CONTRAN nº 819/2021:",
+  "alts": [
+   "Não há infração, pois a exigência de DRC só vale para as crianças com menos de dois anos",
+   "Há infração apenas se o veículo tiver peso bruto total superior a três toneladas e meia",
+   "Há infração: a dispensa do transporte remunerado individual vale só na prestação do serviço",
+   "Não há infração, pois a dispensa alcança todo veículo cadastrado em plataforma de transporte",
+   "Não há infração, pois o veículo de transporte remunerado individual é dispensado do DRC"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — dispensa no transporte remunerado",
+  "base": "Resolução CONTRAN nº 819/2021, art. 2º, §§ 2º e 3º",
+  "coment": "O art. 2º, § 2º, da Resolução CONTRAN 819/2021 afasta as exigências do sistema de retenção, para crianças de até sete anos e meio, em veículos de transporte coletivo, de aluguel (táxi, art. 96, III, 'd', do CTB), de transporte remunerado individual de passageiros, escolares e demais veículos com PBT superior a 3,5 t. O § 3º restringe: a isenção do transporte remunerado individual se aplica 'durante a efetiva prestação do serviço'. Fora do serviço, o carro do aplicativo é veículo particular, e a criança de 3 anos precisa da cadeirinha (Anexo, II). O descumprimento é o art. 168 do CTB: gravíssima, multa e retenção do veículo.",
+  "porAlt": [
+   "A Resolução exige DRC até 7,5 anos (e o cinto até 10 anos ou 1,45 m); não há corte em dois anos.",
+   "PBT acima de 3,5 t é hipótese de dispensa, não condição para a infração; o carro de aplicativo não se enquadra.",
+   "Correta: § 3º do art. 2º: a isenção do transporte remunerado individual vale só durante a efetiva prestação do serviço.",
+   "O cadastro em plataforma não gera dispensa; o que dispensa é a prestação efetiva do serviço (art. 2º, § 3º).",
+   "A dispensa do transporte remunerado individual não é permanente: o § 3º a limita à efetiva prestação do serviço."
+  ]
+ },
+ {
+  "q": "Família com carro antigo que tem, de fábrica, apenas cintos subabdominais de dois pontos no banco traseiro transporta criança de 5 anos. A Resolução CONTRAN nº 819/2021 admite, excepcionalmente:",
+  "alts": [
+   "Transporte sem qualquer retenção, desde que no assento central do banco traseiro do carro",
+   "Uso de cinto infantil reduzido acoplado ao cinto de dois pontos do banco traseiro",
+   "Uso do cinto de dois pontos com assento de elevação, apenas para menores de 4 anos",
+   "Transporte no colo de um adulto contido pelo cinto de dois pontos, no banco traseiro",
+   "Cinto de dois pontos sem o assento de elevação, no banco traseiro, entre 4 e 7,5 anos"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — cinto de 2 pontos sem assento de elevação",
+  "base": "Resolução CONTRAN nº 819/2021, art. 3º, parágrafo único",
+  "coment": "O parágrafo único do art. 3º da Resolução CONTRAN 819/2021 diz que, excepcionalmente, as crianças com idade superior a quatro anos e inferior a sete anos e meio podem ser transportadas utilizando cinto de segurança de dois pontos sem o dispositivo 'assento de elevação', nos bancos traseiros, quando o veículo for dotado originalmente destes cintos. O art. 3º, III, também permite, nessa situação, o banco dianteiro com o DRC adequado. A diretriz ABRAMET de 2006 desaconselha os cintos infantis de dimensões reduzidas, e nenhuma fonte admite o transporte no colo ou sem retenção.",
+  "porAlt": [
+   "A Resolução exige cinto ou DRC individualmente (art. 2º); a posição central não dispensa a retenção.",
+   "Cinto infantil reduzido não é previsto pela Resolução e é desaconselhado pela diretriz ABRAMET (parte II, 3.2).",
+   "A exceção vale para crianças de mais de 4 e menos de 7,5 anos, sem o assento de elevação, e não para menores de 4 anos.",
+   "O colo não é retenção individual; nenhuma norma ou diretriz admite o transporte da criança no colo.",
+   "Correta: art. 3º, parágrafo único: de mais de 4 a menos de 7,5 anos, cinto de 2 pontos sem assento de elevação, atrás, se o veículo vem assim de fábrica."
+  ]
+ },
+ {
+  "q": "Pela classificação em grupos de massa reproduzida na diretriz ABRAMET de transporte de crianças (NBR 14400), o grupo II corresponde a:",
+  "alts": [
+   "Até 10 kg, altura aproximada de 0,72 m, até cerca de 9 meses de idade apenas",
+   "De 15 kg a 25 kg, altura aproximada de 1,15 m, até cerca de 60 meses de idade",
+   "De 9 kg a 18 kg, altura aproximada de 1,00 m, até cerca de 32 meses de idade",
+   "De 22 kg a 36 kg, altura aproximada de 1,30 m, até cerca de 90 meses de idade",
+   "Até 13 kg, altura aproximada de 0,80 m, até cerca de 12 meses de idade apenas"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — grupos de massa da NBR 14400",
+  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, Tabela 1 (grupos de massa)",
+  "coment": "A Tabela 1 da parte II da diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006) classifica os DRC em cinco grupos de massa, com base na NBR 14400: grupo 0, até 10 kg, altura aproximada de 0,72 m, até 9 meses; grupo 0+, até 13 kg, 0,80 m, até 12 meses; grupo I, de 9 a 18 kg, 1,00 m, até 32 meses; grupo II, de 15 a 25 kg, 1,15 m, até 60 meses; grupo III, de 22 a 36 kg, 1,30 m, até 90 meses. O booster da Tabela 3 corresponde aos grupos II e III. Atenção: na Tabela 3 o assento infantil do grupo 0 aparece com até 9 kg, e não 10 kg; é uma inconsistência interna da diretriz.",
+  "porAlt": [
+   "Essa é a descrição do grupo 0 (até 10 kg, 0,72 m, até 9 meses).",
+   "Correta: grupo II: 15 a 25 kg, cerca de 1,15 m, até 60 meses (Tabela 1 da parte II).",
+   "Essa é a descrição do grupo I (9 a 18 kg, 1,00 m, até 32 meses), faixa da cadeirinha.",
+   "Essa é a descrição do grupo III (22 a 36 kg, 1,30 m, até 90 meses).",
+   "Essa é a descrição do grupo 0+ (até 13 kg, 0,80 m, até 12 meses)."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET de transporte de crianças, o que caracteriza a 'síndrome pediátrica do cinto de segurança'?",
+  "alts": [
+   "Lesões da coluna cervical pelo uso do bebê conforto voltado para trás durante colisões traseiras",
+   "Asfixia pelo arnês da cadeirinha quando a criança adormece e escorrega no assento de retenção",
+   "Lesões cervicais e abdominais pelo uso precoce do cinto adulto, com faixas sobre abdome e pescoço",
+   "Lesões torácicas pela faixa diagonal quando a criança usa o booster preso por cinto de três pontos",
+   "Fraturas de membros inferiores quando a criança viaja no banco da frente, sem airbag desativado"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "DRC — síndrome pediátrica do cinto",
+  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte II, item 2.4",
+  "coment": "A parte II da diretriz ABRAMET (item 2.4) descreve que, quando a criança passa prematuramente a usar o cinto de segurança do veículo, a faixa subabdominal se posiciona sobre o abdome e a transversal atravessa o pescoço e a face. Esse posicionamento predispõe a lesões cervicais e abdominais, a 'síndrome pediátrica do cinto de segurança'. A causa mais frequente do não uso do booster é a avaliação equivocada dos pais de que a criança já tem tamanho para o cinto. Por isso a diretriz indica o booster até a criança ter altura suficiente (cerca de 1,45 m, por volta dos 10 anos), preso com cinto de três pontos.",
+  "porAlt": [
+   "O bebê conforto de costas é a posição que protege a coluna cervical; não é causa da síndrome.",
+   "A diretriz não descreve asfixia pelo arnês sob esse nome; a síndrome é a do cinto adulto usado cedo demais.",
+   "Correta: graduação precoce para o cinto adulto põe a faixa baixa sobre o abdome e a diagonal no pescoço e na face (item 2.4).",
+   "O booster com cinto de três pontos é justamente o que previne a síndrome, ao posicionar as faixas corretamente.",
+   "A síndrome não se refere a membros inferiores nem ao airbag; trata do mau posicionamento do cinto adulto na criança."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET sobre o uso do cinto de segurança na gravidez, qual é o principal risco para o feto quando a gestante se envolve em sinistro de trânsito?",
+  "alts": [
+   "O parto prematuro nas primeiras 48 horas, independentemente do uso ou não do cinto",
+   "Que a mãe tenha ferimentos severos e morra, pela forte associação materno-fetal",
+   "A compressão direta do útero pela faixa subabdominal do cinto de três pontos",
+   "O acionamento do airbag frontal, principal causa de descolamento de placenta",
+   "A rotura uterina pelo impacto no volante, a lesão mais frequente da gestação"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "grupos",
+  "sub": "Gestante — principal risco fetal",
+  "base": "Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', item 2",
+  "coment": "A diretriz ABRAMET afirma que ferimentos severos, traumas abdominais intensos e choque hemorrágico podem causar óbito fetal, 'mas o principal risco para o feto é que a mãe tenha ferimentos severos e morra'. As mães que usam cinto sofrem menos ferimentos, e há forte associação entre a gravidade dos ferimentos maternos e as consequências fetais. A rotura uterina pelo volante ocorre em quem não usa cinto e é infrequente (0,6% dos ferimentos da gestação). O airbag tem só relatos de caso associados a descolamento de placenta. O parto em até 48 horas e o baixo peso são mais prováveis nas que NÃO usam o cinto.",
+  "porAlt": [
+   "O parto em 48 horas é mais frequente nas gestantes que não usam cinto; não independe do seu uso.",
+   "Correta: a diretriz afirma que o principal risco para o feto é a mãe ter ferimentos severos e morrer.",
+   "As lesões atribuídas ao cinto de três pontos aparecem só em séries de casos; a maioria ocorre em quem não o usa.",
+   "O airbag tem apenas relatos de caso associados a descolamento de placenta; não é o principal risco fetal.",
+   "A rotura uterina pelo volante ocorre em quem não usa cinto e responde por apenas 0,6% dos ferimentos na gestação."
+  ]
+ },
+ {
+  "q": "Gestante de 26 semanas sofre colisão frontal e sobrevive. Segundo a diretriz ABRAMET sobre cinto na gravidez, qual é a complicação obstétrica mais frequente nesse contexto?",
+  "alts": [
+   "Ruptura prematura de membranas nas primeiras seis horas após o trauma",
+   "Lesão fetal direta por fratura pélvica materna com fragmento ósseo livre",
+   "Hemorragia no parto, que ocorre em todas as gestantes após o sinistro",
+   "Rotura uterina por compressão do abdome contra o volante do veículo",
+   "Descolamento prematuro de placenta, relevante para a mortalidade fetal"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "grupos",
+  "sub": "Gestante — complicação mais frequente",
+  "base": "Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', item 2",
+  "coment": "A diretriz ABRAMET sobre o uso do cinto na gravidez aponta o descolamento prematuro de placenta como a complicação mais frequente e, havendo sobrevivência materna após o trauma, de extrema relevância para a mortalidade fetal, tanto em colisões frontais como laterais. A rotura uterina pelo volante é infrequente (0,6% dos ferimentos no período gestacional) e ligada ao não uso do cinto. A hemorragia no parto é duas vezes mais frequente nas gestantes sem cinto, mas não ocorre 'em todas'. Ruptura de membranas em seis horas e lesão fetal por fragmento ósseo não são descritas como a complicação mais frequente.",
+  "porAlt": [
+   "A diretriz não descreve a ruptura de membranas em seis horas como complicação mais frequente.",
+   "Lesão fetal por fragmento de fratura pélvica não é apontada pela diretriz como a mais frequente.",
+   "A hemorragia no parto é 2 vezes mais frequente sem cinto, mas não ocorre em todas as gestantes.",
+   "A rotura uterina é infrequente (0,6% dos ferimentos na gestação) e associada a não usar o cinto.",
+   "Correta: o descolamento prematuro de placenta é a complicação mais frequente e pesa na mortalidade fetal."
+  ]
+ },
+ {
+  "q": "Por qual mecanismo a faixa diagonal do cinto de três pontos protege o útero gravídico, segundo a diretriz ABRAMET?",
+  "alts": [
+   "Impede a flexão do tronco materno sobre a pelve, eliminando o acréscimo de ~550 mmHg",
+   "Absorve a energia do impacto no ombro e reduz a pressão uterina a menos de 55 mmHg",
+   "Fixa o útero contra a coluna lombar e evita o deslocamento da placenta para a frente",
+   "Distribui a força sobre o abdome e dispensa a faixa subabdominal na gestação avançada",
+   "Aciona o pré-tensionador e mantém a gestante longe do airbag durante a desaceleração"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "grupos",
+  "sub": "Gestante — faixa diagonal e pressão uterina",
+  "base": "Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', item 3; Diretriz ABRAMET 'Cinto de segurança' (2022), item 9.3",
+  "coment": "Na desaceleração brusca, o tronco projetado para a frente comprime fortemente o útero, com aumento de 550 mmHg. O cinto de três pontos pode eliminar esse acréscimo pela ação da faixa diagonal, que evita a flexão do corpo materno sobre a pelve. Em estudos experimentais, a faixa diagonal aumentou a sobrevivência fetal de 50% para 92%. Por isso a diretriz recomenda o cinto de três pontos, com a faixa subabdominal o mais abaixo possível da protuberância e a diagonal entre as mamas e lateral ao útero. A faixa subabdominal nunca é dispensada: a gestante jamais deve sentar sobre ela para usar só a diagonal.",
+  "porAlt": [
+   "Correta: a faixa diagonal evita a flexão do tronco sobre a pelve, que elevaria a pressão uterina em cerca de 550 mmHg.",
+   "O número da diretriz é o acréscimo de 550 mmHg evitado, não uma pressão residual de 55 mmHg.",
+   "A diagonal passa lateral ao útero, nunca sobre ele; não 'fixa' o útero contra a coluna.",
+   "A faixa subabdominal nunca é dispensada: sentar sobre ela para usar só a diagonal é vedado pela diretriz.",
+   "O pré-tensionador não é o mecanismo descrito; a distância do airbag se obtém afastando o banco."
+  ]
+ },
+ {
+  "q": "Em estudo experimental citado pela diretriz ABRAMET sobre cinto na gravidez, a tensão uterina superou o limite de resistência tecidual a partir de quais velocidades?",
+  "alts": [
+   "35 km/h sem cinto e 45 e 55 km/h com o cinto de três pontos",
+   "35 km/h sem cinto e 50 e 70 km/h com o cinto de três pontos",
+   "45 km/h sem cinto e 70 e 90 km/h com o cinto de três pontos",
+   "25 km/h sem cinto e 35 e 45 km/h com o cinto de três pontos",
+   "55 km/h sem cinto e 35 e 45 km/h com o cinto de três pontos"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "grupos",
+  "sub": "Gestante — limiar experimental de lesão uterina",
+  "base": "Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', item 3",
+  "coment": "A diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez' (item 3) cita estudo experimental segundo o qual a tensão uterina superava os limites de resistência tecidual a 35 km/h nas simulações sem cinto, e a 45 e 55 km/h com o cinto de três pontos. Junto com o dado de que a faixa diagonal elevou a sobrevivência fetal de 50% para 92%, é o fundamento para recomendar o cinto de três pontos. Os números 70 e 50 km/h vêm de outro contexto: o Relatório Mundial da OMS (2004) diz que o cinto, em carros bem projetados, protege o ocupante até no máximo 70 km/h frontal e 50 km/h lateral.",
+  "porAlt": [
+   "Correta: 35 km/h sem cinto; 45 e 55 km/h com o cinto de três pontos (item 3 da diretriz).",
+   "50 e 70 km/h lembram os limites da OMS para o ocupante com cinto (lateral e frontal), outro contexto.",
+   "Sem cinto o limiar foi 35 km/h, e com cinto 45 e 55 km/h; 70 e 90 km/h não constam.",
+   "Os valores estão deslocados para baixo; sem cinto o limiar foi 35 km/h.",
+   "A ordem está invertida: o limiar é MENOR sem cinto (35 km/h) e maior com ele (45 e 55 km/h)."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET, como se compara o risco fetal da gestante que usa cinto e se envolve em sinistro com o da gestante que não sofre sinistro?",
+  "alts": [
+   "Não há risco significativamente maior de efeitos adversos fetais entre as que usam cinto",
+   "O risco fetal só se iguala se a gestante também desligar o airbag frontal do veículo",
+   "O risco fetal é maior apenas no terceiro trimestre, quando o cinto deve ser dispensado",
+   "O risco fetal é 2,8 vezes maior mesmo com o cinto, pela compressão da faixa subabdominal",
+   "O risco fetal dobra com o cinto, pois a faixa diagonal comprime o fundo uterino no impacto"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "grupos",
+  "sub": "Gestante — cinto e desfecho fetal",
+  "base": "Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', item 2",
+  "coment": "A diretriz ABRAMET afirma que mulheres grávidas que usam o cinto de segurança, quando envolvidas em sinistros, não têm risco significativamente maior de efeitos adversos fetais que as grávidas que não se envolvem em sinistros. Já as que NÃO usam o cinto apresentam duas vezes mais hemorragias no parto e óbitos fetais 2,8 vezes mais frequentes, com as mesmas consequências no uso inapropriado. O airbag não deve ser desconectado na gravidez, e a gravidez não está entre as condições que justificam exceção ao uso do cinto: não há dispensa no terceiro trimestre.",
+  "porAlt": [
+   "Correta: com cinto, o risco fetal não é significativamente maior que o de gestantes sem sinistro.",
+   "O airbag não deve ser desconectado na gravidez; não é condição para igualar o risco.",
+   "A gravidez não justifica exceção ao cinto em nenhum trimestre.",
+   "O 2,8 vezes é o excesso de óbito fetal nas gestantes que NÃO usam cinto, não nas que usam.",
+   "A diagonal passa entre as mamas e lateral ao útero; a diretriz não descreve risco dobrado com o cinto."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET 'Segurança no transporte veicular de crianças' (parte I), em que situação o airbag do passageiro deve ser desativado?",
+  "alts": [
+   "Quando o veículo transportar, no banco da frente, criança de até 7 anos e meio",
+   "Quando o veículo transportar, no banco da frente, criança com menos de 1,45 m",
+   "Quando o veículo transportar, no banco da frente, idoso com mais de setenta anos",
+   "Quando o veículo transportar, no banco da frente, gestante no terceiro trimestre",
+   "Quando o veículo transportar, no banco da frente, criança de até 14 anos de idade"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Airbag — desativação com criança na frente",
+  "base": "Diretriz ABRAMET 'Segurança no transporte veicular de crianças' (2006), parte I, item 3 (recomendações)",
+  "coment": "A parte I da diretriz ABRAMET (2006) recomenda: 'O airbag do passageiro deverá ser desativado quando o veículo transportar, no banco da frente, criança até os 14 anos de idade' (grau B), porque em colisões frontais crianças até 14 anos têm alto risco de ferimentos sérios no banco da frente de veículo com airbag. A gestante é o contraexemplo: a diretriz de cinto na gravidez diz que o airbag não deve ser desconectado. Os 7 anos e meio pertencem à Resolução CONTRAN 819/2021, cujo art. 4º veda DRC de costas nesse banco até essa idade, mas não manda desativar o airbag. A anotação da aula que incluía nanismo e síndrome de Down não tem respaldo nessas fontes para desativação.",
+  "porAlt": [
+   "Sete anos e meio é o corte do art. 4º da Resolução 819 para vedar DRC de costas, não uma ordem de desativação.",
+   "1,45 m é o corte do banco traseiro no art. 64 do CTB, não o critério da diretriz para desativar o airbag.",
+   "A diretriz de crianças não trata de idosos; não há recomendação de desativar o airbag por idade avançada.",
+   "Na gestante o airbag NÃO deve ser desconectado; usa-se o cinto corretamente e afasta-se o banco.",
+   "Correta: a parte I da diretriz manda desativar o airbag do passageiro com criança até 14 anos no banco da frente."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos precisa viajar no banco dianteiro de uma picape de cabine simples, com airbag do passageiro. Qual configuração atende à Resolução CONTRAN nº 819/2021?",
+  "alts": [
+   "Assento de elevação de costas, com o banco na sua posição mais próxima do painel frontal",
+   "Apenas o cinto do veículo, sem dispositivo, com o banco na sua última posição de recuo",
+   "Cadeirinha com bandeja frontal acoplada, voltada para a frente, com o banco todo à frente",
+   "Assento de elevação de frente, sem bandeja, com o banco na sua última posição de recuo",
+   "Nenhuma: a Resolução proíbe criança com menos de dez anos em banco dianteiro com airbag"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Airbag — Res. 819: DRC de frente",
+  "base": "Resolução CONTRAN nº 819/2021, art. 3º, I, e art. 4º, II e III",
+  "coment": "Pelo art. 3º, I, da Resolução CONTRAN 819/2021, a criança com menos de 10 anos pode ir no banco dianteiro quando o veículo é dotado exclusivamente desse banco, com o DRC adequado ao peso e à altura: aos 6 anos, o assento de elevação (Anexo, III). Havendo airbag, o art. 4º exige: (I) vedado DRC de costas até 7,5 anos; (II) permitido DRC no sentido da marcha, desde que sem bandeja ou acessório equivalente; (III) banco ajustado na última posição de recuo, salvo instrução específica do fabricante. A Resolução não proíbe a criança nesse banco com airbag nem manda desativá-lo.",
+  "porAlt": [
+   "DRC de costas é vedado até 7,5 anos no banco com airbag (art. 4º, I), e o banco deve ficar recuado, não à frente.",
+   "Aos 6 anos o dispositivo previsto é o assento de elevação; o cinto sozinho é para mais de 7,5 anos ou 1,45 m.",
+   "O DRC voltado para a frente não pode ter bandeja (art. 4º, II), e o banco vai à última posição de recuo.",
+   "Correta: DRC adequado (elevação) no sentido da marcha, sem bandeja, com banco na última posição de recuo (art. 4º, II e III).",
+   "A Resolução admite o banco dianteiro com airbag, observados os requisitos do art. 4º; não há proibição total."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET, qual é a redução de mortalidade do cinto de segurança e do airbag usados isoladamente, e de ambos combinados?",
+  "alts": [
+   "Cinto 8% e airbag 65% isolados; combinados, redução de cerca de 68%",
+   "Cinto 44% e airbag 60% isolados; combinados, redução de cerca de 90%",
+   "Cinto 65% e airbag 8% isolados; combinados, redução de cerca de 68%",
+   "Cinto 65% e airbag 30% isolados; combinados, redução de cerca de 95%",
+   "Cinto 50% e airbag 50% isolados; combinados, redução de cerca de 75%"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Airbag × cinto — eficácia isolada e combinada",
+  "base": "Diretriz ABRAMET 'Cinto de segurança' (2022), item 9.4; Diretriz ABRAMET 'Uso do cinto de segurança durante a gravidez', item 6",
+  "coment": "As diretrizes ABRAMET de cinto de segurança (2022, item 9.4) e de cinto na gravidez (item 6) afirmam que o cinto confere proteção acentuadamente superior ao airbag quando usados isoladamente (65% × 8%) e que, combinados, reduzem a mortalidade em cerca de 68%. O airbag é dispositivo suplementar e não substitui o cinto; o acionamento do airbag sem cinto pode até aumentar o risco de lesões de membros inferiores. Os números 60% e 44% são outra estatística: a redução de morte e ferimento grave pelo cinto no banco da frente e no de trás.",
+  "porAlt": [
+   "Os valores estão trocados: o cinto (65%) protege muito mais que o airbag (8%).",
+   "60% e 44% são a eficácia do cinto no banco da frente e no de trás, não airbag × cinto.",
+   "Correta: 65% × 8% isolados e cerca de 68% combinados (diretriz de cinto, item 9.4).",
+   "O airbag isolado reduz 8%, não 30%; e o combinado é cerca de 68%, não 95%.",
+   "Não há equivalência entre os dois: a diretriz dá 65% ao cinto e 8% ao airbag."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET de cinto de segurança (2022), como se compara o risco de morte ou ferimento grave entre os ocupantes dos bancos dianteiros e traseiros?",
+  "alts": [
+   "Não há diferença de risco entre as posições quando todos os ocupantes usam cinto",
+   "Os de trás têm cerca de 60% maior risco, por serem mais ejetados para fora do veículo",
+   "Os da frente têm cerca de 44% maior risco, por não contarem com o airbag lateral",
+   "Os de trás têm cerca de 5 vezes maior risco, mesmo quando todos usam o cinto",
+   "Os da frente têm cerca de 60% maior risco, por contato com o painel e o volante"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Cinto — banco dianteiro × traseiro",
+  "base": "Diretriz ABRAMET 'Cinto de segurança: eficácia, ações, posicionamento e recomendações' (29/06/2022), item 3.2",
+  "coment": "A diretriz ABRAMET (2022, item 3.2) diz que os ocupantes dos bancos dianteiros estão mais expostos a lesões por contato dos membros inferiores e da parte superior do corpo com o painel e o volante e têm cerca de 60% maior risco de morte ou ferimentos graves que os do banco traseiro; por isso o cinto é mais eficaz na frente (−60% × −44% atrás). A anotação transcrita do aulão ('ocupantes dos bancos traseiros... mais expulsos... 60% mais risco') não confere com a diretriz, que atribui os 60% aos ocupantes dos bancos DIANTEIROS, mais EXPOSTOS. O '5 vezes' é outro dado: o ocupante de trás sem cinto aumenta em cinco vezes o risco de morte de quem vai na frente.",
+  "porAlt": [
+   "Há diferença: a posição dianteira concentra mais risco, e o cinto é mais eficaz nela.",
+   "Inverte a posição: é o banco dianteiro, mais exposto a painel e volante, que tem cerca de 60% mais risco.",
+   "44% é a redução de risco do cinto para o banco traseiro, não o excesso de risco do banco dianteiro.",
+   "Cinco vezes é o aumento do risco de morte do ocupante da FRENTE quando o de trás está sem cinto.",
+   "Correta: os ocupantes da frente têm cerca de 60% maior risco de morte ou ferimento grave que os de trás (item 3.2)."
+  ]
+ },
+ {
+  "q": "Análise de sinistros na Noruega citada pela diretriz ABRAMET de cinto de segurança mostrou que motoristas sem cinto, comparados aos que usam, tinham:",
+  "alts": [
+   "8,3 vezes maior risco de sinistro fatal e 5,2 vezes de ferimentos graves",
+   "5 vezes maior risco de morte, igual ao do ocupante de trás sem o cinto",
+   "2,8 vezes maior risco de sinistro fatal e 2 vezes de ferimentos graves",
+   "5,2 vezes maior risco de sinistro fatal e 8,3 vezes de ferimentos graves",
+   "3 a 5 vezes maior risco de morte por ejeção, sem efeito sobre os graves"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Cinto — Noruega: motorista sem cinto",
+  "base": "Diretriz ABRAMET 'Cinto de segurança: eficácia, ações, posicionamento e recomendações' (29/06/2022), item 3.2",
+  "coment": "A diretriz ABRAMET de cinto de segurança (2022, item 3.2) cita análise das taxas de uso do cinto entre condutores envolvidos em sinistros na Noruega: motoristas sem cinto apresentaram 8,3 vezes maior risco de sinistro fatal e 5,2 vezes de ferimentos graves. Os outros números são de contextos vizinhos: 3 a 5 vezes é o excesso de risco de morte da vítima ejetada (diretriz de tolerância humana, 2025); 5 vezes é o aumento do risco de morte do ocupante da frente quando o de trás não usa cinto; 2,8 e 2 vezes são o óbito fetal e a hemorragia no parto na gestante sem cinto.",
+  "porAlt": [
+   "Correta: 8,3 vezes para sinistro fatal e 5,2 vezes para ferimentos graves (item 3.2).",
+   "5 vezes é o efeito do ocupante de trás sem cinto sobre quem está na frente, outro dado.",
+   "2,8 e 2 vezes são óbito fetal e hemorragia no parto da gestante sem cinto.",
+   "Os números estão trocados: 8,3 é o fatal e 5,2, o de ferimentos graves.",
+   "3 a 5 vezes é o risco de morte do ejetado, dado da diretriz de tolerância humana."
+  ]
+ },
+ {
+  "q": "Segundo estudo japonês citado pela diretriz ABRAMET de cinto de segurança, se os ocupantes do banco traseiro usassem cinto, quantas mortes de ocupantes dos bancos dianteiros com cinto poderiam ter sido evitadas?",
+  "alts": [
+   "Cerca de 24% dessas mortes, igual ao benefício do assento central do banco traseiro",
+   "Quase 80% dessas mortes, pelo arremesso do ocupante de trás contra os da frente",
+   "Quase 44% dessas mortes, valor igual à eficácia do cinto usado no banco traseiro",
+   "Menos de 10% dessas mortes, pois o encosto do banco dianteiro absorve o impacto",
+   "Cerca de 50% dessas mortes, proporção da eficácia do cinto atribuída à ejeção"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Cinto — banco traseiro: estudo japonês",
+  "base": "Diretriz ABRAMET 'Cinto de segurança: eficácia, ações, posicionamento e recomendações' (29/06/2022), item 9",
+  "coment": "A diretriz ABRAMET (2022, item 9) cita estudo com dados do instituto japonês de pesquisa de acidentes: se os ocupantes do banco traseiro estivessem usando cinto, quase 80% das mortes de ocupantes dos bancos dianteiros que usavam cinto poderiam ter sido evitadas. A diretriz resume: não usar o cinto no banco de trás aumenta em cinco vezes o risco de morte do ocupante da frente, porque o passageiro de trás é arremessado violentamente contra ele. Os distratores usam números reais de outras frases: cerca de 50% da eficácia do cinto vem de evitar a ejeção; 44% é a eficácia no banco traseiro; 24% é o menor risco de morte da criança no centro do banco traseiro.",
+  "porAlt": [
+   "24% é o menor risco de morte da criança no centro do banco traseiro (diretriz de 2006).",
+   "Correta: quase 80% das mortes dos ocupantes da frente com cinto seriam evitadas (item 9).",
+   "44% é a redução de morte e ferimento grave pelo cinto no banco traseiro.",
+   "A diretriz descreve o contrário: o corpo de trás vence o encosto e atinge os da frente.",
+   "50% é a parte da eficácia do cinto devida a evitar ejeção, não esse desfecho."
+  ]
+ },
+ {
+  "q": "A mãe será removida de ambulância e leva junto a filha de 3 anos, que está sadia. Segundo a diretriz ABRAMET de transporte de crianças em ambulâncias, qual é a conduta IDEAL para a criança?",
+  "alts": [
+   "Transportá-la no banco dianteiro da ambulância, com o cinto de três pontos bem ajustado nela",
+   "Transportá-la no colo da mãe, na maca, contida pelas três cintas transversais da própria maca",
+   "Transportá-la no banco lateral do compartimento do paciente, contida pelo cinto de dois pontos",
+   "Transportá-la em outro veículo com retenção apropriada ou deixá-la com um cuidador responsável",
+   "Transportá-la no assento do socorrista, sem dispositivo, pois ela não é paciente do serviço"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Ambulância — situação 1: conduta ideal",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.1 (situação 1)",
+  "coment": "A situação 1 da diretriz ABRAMET (criança que não está doente nem ferida, acompanhando um paciente) define como IDEAL transportá-la em outro veículo com sistema de retenção apropriado ou deixá-la sob a supervisão de um cuidador responsável. Só se isso não for possível entra a sequência: banco dianteiro com cinto de 3 pontos a partir de 10 anos; banco dianteiro em DRC antes dos 10 anos se já com 1,45 m; DRC no assento do socorrista; cinto de 2 pontos no assento do socorrista a partir de 4 anos, excepcionalmente, voltado para trás; DRC na maca; banco lateral só excepcionalmente. O colo de pais, cuidadores ou profissionais não deve ser usado em nenhum assento.",
+  "porAlt": [
+   "O banco dianteiro com cinto de 3 pontos é para quem tem a partir de 10 anos, e só se o ideal não for possível.",
+   "O colo é proibido em qualquer assento: aumenta o risco para a criança e para os demais ocupantes.",
+   "O banco lateral deve ser evitado: TCE nesses ocupantes aparece em mais de 60% das mortes nesses veículos.",
+   "Correta: o ideal na situação 1 é outro veículo com retenção apropriada ou um cuidador responsável.",
+   "No assento do socorrista a criança vai em DRC apropriado; sem dispositivo não é opção da diretriz."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos, vítima de sinistro, precisa de imobilização da coluna para o transporte na ambulância. Segundo a diretriz ABRAMET, qual é a sequência correta?",
+  "alts": [
+   "Fixar primeiro a prancha na maca, depois o tronco com três cintas e, por último, a cabeça dela",
+   "Fixar primeiro a cabeça, depois tronco e membros com três cintas, e por fim a prancha na maca",
+   "Fixar primeiro o tronco e os membros, depois a prancha na maca e, por último, a cabeça dela",
+   "Colocar a criança em DRC no assento do socorrista e manter a prancha apoiada sobre o seu colo",
+   "Fixar a criança na maca com uma única cinta pélvica, dispensando o uso da prancha pediátrica"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Ambulância — situação 4: imobilização",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.4 (situação 4)",
+  "coment": "A situação 4 da diretriz ABRAMET (criança doente ou ferida que requer imobilização da coluna e/ou transporte deitada) manda imobilizar a criança na prancha de tamanho apropriado, fixando inicialmente a cabeça e, na sequência, o tronco e os membros, com pelo menos três cintas transversais (tórax, quadril e joelhos), e finalizar fixando a prancha na maca. Sem prancha do tamanho certo, imobiliza-se na posição anatômica na prancha disponível, preenchendo os espaços com coxins ou elevando o tronco, na mesma ordem.",
+  "porAlt": [
+   "A prancha só é presa à maca no final; a cabeça é a primeira a ser fixada, não a última.",
+   "Correta: cabeça primeiro, depois tronco e membros com três cintas, e por fim a prancha presa à maca.",
+   "A ordem começa pela cabeça; fixar a cabeça por último inverte a sequência da diretriz.",
+   "A criança que precisa de imobilização vai na prancha fixada à maca, não em DRC no assento.",
+   "A diretriz exige pelo menos três cintas (tórax, quadril e joelhos); a falta de prancha se resolve com coxins."
+  ]
+ },
+ {
+  "q": "Criança de 7 anos com fratura de antebraço já imobilizada, estável e sem necessidade de monitorização contínua, será levada de ambulância. Segundo a diretriz ABRAMET, onde ela pode ir?",
+  "alts": [
+   "Em qualquer assento com cinto, pois a diretriz só regula as crianças sob monitorização",
+   "No banco dianteiro da ambulância, em DRC adequado, como a criança que acompanha um paciente",
+   "No banco lateral do compartimento, com cinto de dois pontos, por estar clinicamente estável",
+   "Em DRC no assento do socorrista ou na maca contida por pelo menos três cintas transversais",
+   "No colo do acompanhante no assento do socorrista, contido pelo cinto de três pontos do banco"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Ambulância — situação 2: sem monitorização",
+  "base": "Diretriz ABRAMET 'Recomendações para o transporte seguro de crianças em ambulâncias', item 7.2 (situação 2)",
+  "coment": "A situação 2 da diretriz ABRAMET (criança doente ou ferida cuja condição não requer monitoramento ou intervenção contínua) orienta o transporte no compartimento do paciente, em DRC apropriado no assento do socorrista (de costas é um pouco mais seguro), ou na maca, contida com pelo menos três cintas transversais (tórax, quadril e joelhos); o DRC também pode ser fixado na maca. A síntese do item é a aplicação das normas vigentes adaptadas às ambulâncias, 'excluído o uso do banco dianteiro', que fica restrito à criança sadia acompanhante (situação 1). Banco lateral é evitado e colo é proibido.",
+  "porAlt": [
+   "A diretriz regula as cinco situações, incluindo a criança sem monitorização (situação 2).",
+   "A síntese da situação 2 exclui expressamente o banco dianteiro; ele é da criança sadia (situação 1).",
+   "O banco lateral deve ser evitado; o risco de TCE por deslocamento lateral da cabeça é alto.",
+   "Correta: situação 2: DRC no assento do socorrista ou maca com pelo menos três cintas (tórax, quadril e joelhos).",
+   "O colo é proibido em qualquer assento, com ou sem cinto no adulto."
+  ]
+ },
+ {
+  "q": "Segundo o Relatório Mundial da OMS sobre prevenção de lesões no trânsito (2004), o cinto de segurança em carros bem projetados protege o ocupante até, no máximo, quais velocidades de colisão?",
+  "alts": [
+   "90 km/h em impactos frontais e 60 km/h em impactos laterais",
+   "80 km/h em impactos frontais e 40 km/h em impactos laterais",
+   "70 km/h em impactos frontais e 50 km/h em impactos laterais",
+   "50 km/h em impactos frontais e 70 km/h em impactos laterais",
+   "30 km/h em impactos frontais e 50 km/h em impactos laterais"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Tolerância — limites do ocupante com cinto (OMS)",
+  "base": "OMS, World Report on Road Traffic Injury Prevention (2004), cap. 1",
+  "coment": "O Relatório Mundial da OMS de 2004 (capítulo 1, sistemas que consideram a vulnerabilidade do corpo) afirma que, para ocupantes de carros, o uso do cinto em veículos bem projetados pode proteger até no máximo 70 km/h em impactos frontais e 50 km/h em impactos laterais, e que carros não protegem pedestres em colisões a 30 km/h ou mais. O impacto lateral tem limite menor porque há pouca zona de deformação entre o ocupante e o ponto de impacto; a diretriz ABRAMET de 2025 reforça que o impacto lateral impõe risco maior de lesão fatal ao ocupante. O Plano Global da OMS 2021–2030 mantém 50 km/h como limite para vias com cruzamentos em que se esperam impactos laterais.",
+  "porAlt": [
+   "90 e 60 km/h não constam do relatório; os limites são 70 frontal e 50 lateral.",
+   "80 e 40 km/h não constam do relatório; os limites são 70 frontal e 50 lateral.",
+   "Correta: até 70 km/h no impacto frontal e 50 km/h no lateral, com cinto, em carros bem projetados (OMS 2004).",
+   "Os valores estão invertidos: o lateral tolera menos (50 km/h) por ter menos zona de deformação.",
+   "30 km/h é o limite de tolerância do PEDESTRE, não do ocupante com cinto."
+  ]
+ },
+ {
+  "q": "A diretriz ABRAMET de tolerância humana a impactos cita as análises pioneiras de Ashton e Mackay. O que elas identificaram?",
+  "alts": [
+   "Que o risco de morte cresce com a quarta potência da velocidade média de circulação viária",
+   "Um rápido aumento da letalidade de pedestres entre 30 e 50 km/h de velocidade de impacto",
+   "Que +5% na velocidade média eleva em cerca de 20% o número de fatalidades no trânsito",
+   "Que o cinto protege o ocupante até 70 km/h em impacto frontal e até 50 km/h em impacto lateral",
+   "Que a distância total de parada a 50 km/h é de cerca de 41 m, somada a do tempo de reação"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Tolerância — Ashton e Mackay",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (25/11/2025), item 2",
+  "coment": "A diretriz ABRAMET de 2025 (item 2) diz que, a partir das análises pioneiras de Ashton e Mackay, que identificaram rápido aumento da letalidade de pedestres entre 30 e 50 km/h, pesquisas subsequentes confirmaram que pequenas reduções de velocidade produzem quedas expressivas no risco de óbito. A quarta potência e o '+5% = +20% de fatalidades' pertencem ao Modelo de Potência de Nilsson (item 6). Os limites de 70 km/h frontal e 50 km/h lateral para o ocupante com cinto são da OMS (2004). Os 41 m são a distância total de parada a 50 km/h na tabela da diretriz.",
+  "porAlt": [
+   "A quarta potência da velocidade é o Modelo de Potência de Nilsson, não Ashton e Mackay.",
+   "Correta: Ashton e Mackay descreveram o salto de letalidade do pedestre entre 30 e 50 km/h.",
+   "+5% de velocidade = +20% de fatalidades também é Nilsson (1982), no item 6 da diretriz.",
+   "Os limites de 70 e 50 km/h para o ocupante com cinto vêm do relatório da OMS de 2004.",
+   "41 m é a distância total de parada a 50 km/h na tabela da diretriz, não achado de Ashton e Mackay."
+  ]
+ },
+ {
+  "q": "Segundo a diretriz ABRAMET de tolerância humana a impactos, como se comparam as colisões frontais e laterais?",
+  "alts": [
+   "A lateral libera mais energia total; a frontal impõe mais risco de lesão fatal ao ocupante retido",
+   "Ambas liberam a mesma energia, e o risco de lesão fatal depende só do uso do cinto de segurança",
+   "A frontal libera mais energia e também impõe mais risco, pois a lateral é absorvida pelas portas",
+   "A lateral libera menos energia e menos risco, pois o cinto contém bem o deslocamento lateral",
+   "A frontal entre massas semelhantes libera mais energia total; a lateral impõe mais risco fatal"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Tolerância — frontal × lateral",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (25/11/2025), item 3",
+  "coment": "A diretriz ABRAMET de 2025 (item 3) afirma que colisões frontais entre veículos de massas semelhantes e velocidades opostas liberam a maior quantidade de energia cinética total, pela soma vetorial das velocidades. Já os impactos laterais impõem risco significativamente maior de lesões fatais aos ocupantes, porque oferecem menor zona de deformação e absorção de energia, expondo diretamente tórax, abdome e coluna cervical a compressão e intrusão. Isso casa com a OMS (2004): o cinto protege até 70 km/h no frontal, mas só até 50 km/h no lateral. A diretriz de cinto (2022) acrescenta que, na colisão lateral, o cinto tem pouco efeito sobre as lesões por compressão do tronco e da pelve.",
+  "porAlt": [
+   "Inverte os papéis: a energia total é maior na frontal, e o risco fatal ao ocupante, na lateral.",
+   "A diretriz diferencia os tipos de impacto; energia e risco não dependem só do cinto.",
+   "A lateral tem MENOS zona de deformação; as portas não absorvem o impacto como a frente do carro.",
+   "O cinto tem pouco efeito sobre a compressão lateral do tronco e da pelve (diretriz de cinto, 2022).",
+   "Correta: frontal entre massas semelhantes = maior energia total; lateral = maior risco de lesão fatal (item 3)."
+  ]
+ },
+ {
+  "q": "Pela tabela de curvas de risco da diretriz ABRAMET de tolerância humana a impactos, qual é a probabilidade de morte e de lesão grave de um pedestre atingido a 40 km/h?",
+  "alts": [
+   "Morte em 20% e lesão grave em 35%",
+   "Morte em 35% e lesão grave em 50%",
+   "Morte em 10% e lesão grave em 25%",
+   "Morte em 80% e lesão grave em 95%",
+   "Morte em 50% e lesão grave em 80%"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "protecao",
+  "sub": "Tolerância — curva de risco do pedestre",
+  "base": "Diretriz ABRAMET 'Tolerância humana a impactos: implicações para a segurança viária' (25/11/2025), item 2.1",
+  "coment": "A tabela do item 2.1 da diretriz ABRAMET de 2025 (fontes WHO 2018, OECD/ITF 2018 e MUARC 2017) relaciona a velocidade de impacto com a probabilidade de morte e de lesão grave do pedestre: 20 km/h, menos de 5% e 10%; 30 km/h, 10% e 25%; 40 km/h, 35% e 50%; 50 km/h, 80% e 95%; 60 km/h, mais de 90% e cerca de 100%. O salto entre 30 e 40 km/h (de 10% para 35% de morte) e entre 40 e 50 km/h (para 80%) explica os limites de 30 km/h em áreas com pedestres. No texto corrido, a diretriz também dá 50% de morte a 45 km/h.",
+  "porAlt": [
+   "20% e 35% não constam da tabela; a 40 km/h ela dá 35% e 50%.",
+   "Correta: a 40 km/h, 35% de morte e 50% de lesão grave na tabela do item 2.1.",
+   "10% de morte e 25% de lesão grave correspondem a 30 km/h.",
+   "80% de morte e 95% de lesão grave correspondem a 50 km/h.",
+   "50% de morte é dado do texto para 45 km/h; a tabela não traz 50% e 80% em 40 km/h."
+  ]
+ },
+ {
+  "q": "Ambulância chega a sinistro numa avenida com velocidade máxima de 60 km/h, sob neblina densa. Segundo o Protocolo PE7 do SAMU, a que distância da primeira barreira deve ficar o primeiro cone?",
+  "alts": [
+   "Base de 60 passos, aumentada e até dobrada pela neblina, podendo chegar a 120 passos",
+   "Base de 30 passos, metade da velocidade máxima, dobrada pela neblina para 60 passos",
+   "Base de 100 passos, padrão para todas as vias urbanas, sem ajuste pela visibilidade",
+   "Exatamente 60 passos, pois o protocolo não altera a distância por condição climática",
+   "Base de 60 passos, obrigatoriamente triplicada pela neblina, chegando a 180 passos"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "PE7 — distância com neblina",
+  "base": "Protocolos SAMU 192 (Ministério da Saúde), Suporte Básico de Vida, PE7 – Regras gerais para estacionamento de ambulância e sinalização da via",
+  "coment": "O Protocolo PE7 do SAMU 192 manda estabelecer a distância entre a primeira barreira da cena e a primeira sinalização (1º cone) pela velocidade máxima permitida na via: 40 km/h, 40 passos; 50, 50; 60, 60; 70, 70; 80 km/h, 80 passos. A observação do protocolo diz que, em ambiente com chuva, neblina ou baixa visibilidade, 'a distância da primeira sinalização deve ser aumentada e até dobrada'. Dobrar é o teto, não a obrigação. Se o acidente for numa curva, a distância é calculada totalmente antes da curva. A canalização segue com cones, idealmente um a cada 10 passos.",
+  "porAlt": [
+   "Correta: 60 km/h = 60 passos; com neblina, aumentar e até dobrar (até 120 passos), conforme o PE7.",
+   "A regra é um passo por km/h da velocidade máxima; não se usa a metade da velocidade.",
+   "Não há padrão fixo de 100 passos; a tabela vai de 40 a 80 passos conforme a velocidade da via.",
+   "O PE7 manda aumentar a distância com chuva, neblina ou baixa visibilidade; não é fixa.",
+   "O protocolo fala em 'aumentada e até dobrada', não em triplicar."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo PE7 do SAMU, como se posiciona a primeira sinalização quando o acidente ocorreu logo depois de uma curva?",
+  "alts": [
+   "O primeiro cone fica no ápice da curva, e a distância da tabela é contada depois dela",
+   "A distância deve ser calculada totalmente antes da curva, para quem se aproxima",
+   "A distância da tabela é dispensada, bastando sinalizar a saída da curva com giroflex",
+   "A distância é a da tabela, contada a partir do veículo acidentado, dentro da curva",
+   "A distância é contada a partir do meio da curva, reduzida à metade pela visibilidade"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "PE7 — acidente em curva",
+  "base": "Protocolos SAMU 192 (Ministério da Saúde), Suporte Básico de Vida, PE7 – Regras gerais para estacionamento de ambulância e sinalização da via",
+  "coment": "A observação do Protocolo PE7 do SAMU 192, depois da tabela de distância por velocidade (40 a 80 km/h = 40 a 80 passos), diz: 'Se o acidente ocorreu em uma curva, a distância deve ser calculada totalmente antes da curva'. O objetivo da distância é dar tempo adequado de frenagem e reposicionamento aos veículos que se aproximam; numa curva, o condutor não vê a cena, então toda a sinalização precisa estar antes dela. Com chuva, neblina ou baixa visibilidade, a distância é aumentada e até dobrada.",
+  "porAlt": [
+   "Cone no ápice da curva não dá tempo de frenagem a quem vem; a distância deve estar toda antes da curva.",
+   "Correta: o PE7 manda calcular a distância totalmente antes da curva.",
+   "O giroflex e o pisca-alerta não substituem a sinalização com cones na distância da tabela.",
+   "Contar a partir do veículo dentro da curva deixa a sinalização invisível para quem se aproxima.",
+   "O protocolo não conta a partir do meio da curva nem reduz a distância; ele a desloca para antes da curva."
+  ]
+ },
+ {
+  "q": "A segunda ambulância chega a um sinistro em que a cena já está sinalizada e há viaturas de outros serviços no local. Segundo o Protocolo PE7 do SAMU, onde ela deve estacionar?",
+  "alts": [
+   "Antes do evento, sempre, pois é a posição que protege a equipe do tráfego que se aproxima",
+   "Sobre o acostamento oposto, no sentido contrário da via, para agilizar o retorno ao hospital",
+   "No centro da cena, entre os veículos acidentados, para reduzir a distância até as vítimas",
+   "Após o evento; se houver impedimento, antes ou no melhor local, revisando a sinalização",
+   "A 80 passos antes do primeiro cone, para reforçar a sinalização já montada por outros"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "PE7 — onde estacionar em cena já sinalizada",
+  "base": "Protocolos SAMU 192 (Ministério da Saúde), Suporte Básico de Vida, PE7 – Regras gerais para estacionamento de ambulância e sinalização da via",
+  "coment": "O Protocolo PE7 do SAMU 192 distingue as situações: se for o primeiro veículo a chegar, estacionar antes do evento (se houver impedimento ou risco, no melhor local possível para garantir a distância de segurança); se a cena já estiver sinalizada e/ou com outros veículos de serviço, estacionar após o evento; havendo impedimento para chegar à área pós-evento, estacionar antes ou no melhor local possível e revisar as sinalizações existentes. A ambulância fica sempre no sentido da via, com giroflex e pisca-alerta ligados, a distância segura do evento, considerando vazamentos, fumaça e fogo.",
+  "porAlt": [
+   "Estacionar antes do evento é a regra para o PRIMEIRO veículo a chegar, não para a cena já sinalizada.",
+   "O PE7 manda posicionar a ambulância no sentido da via, não no sentido contrário.",
+   "O protocolo exige distância segura do evento, considerando vazamento, fumaça e fogo.",
+   "Correta: com a cena já sinalizada ou com outros serviços, estaciona-se após o evento (PE7).",
+   "A distância em passos é a do 1º cone em relação à cena; não é regra de estacionamento da segunda viatura."
+  ]
+ },
+ {
+  "q": "Na canalização do tráfego descrita no Protocolo PE7 do SAMU, com que espaçamento devem ser dispostos os cones disponíveis?",
+  "alts": [
+   "Idealmente um a cada 40 passos, correspondendo à menor velocidade da tabela",
+   "Idealmente um a cada 5 metros, independentemente da velocidade máxima da via",
+   "Idealmente um a cada 20 passos, dobrando o espaçamento com chuva ou neblina",
+   "Idealmente um a cada 10 passos, envolvendo progressivamente a área de trabalho",
+   "Apenas um cone, no ponto da 1ª sinalização, deixando a área de trabalho livre"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "PE7 — canalização com cones",
+  "base": "Protocolos SAMU 192 (Ministério da Saúde), Suporte Básico de Vida, PE7 – Regras gerais para estacionamento de ambulância e sinalização da via",
+  "coment": "O Protocolo PE7 do SAMU 192 manda proceder à canalização com os cones disponíveis, idealmente um a cada 10 passos. Os cones devem progressivamente envolver e delimitar a área de trabalho em uma ou mais faixas de rolamento, conforme a posição do veículo em relação ao acostamento. A distância do primeiro cone é que segue a velocidade máxima da via (40 a 80 passos), aumentada e até dobrada com chuva, neblina ou baixa visibilidade. Em vias de baixa velocidade e local seguro, basta delimitar a área de trabalho. Sem condições de sinalizar, pede-se apoio pela Regulação Médica.",
+  "porAlt": [
+   "40 passos é a distância do 1º cone numa via de 40 km/h, não o espaçamento entre cones.",
+   "O protocolo mede em passos e fixa 1 a cada 10; não fala em 5 metros.",
+   "Dobrar com chuva ou neblina vale para a distância da 1ª sinalização, não para o espaçamento.",
+   "Correta: cones idealmente a cada 10 passos, envolvendo e delimitando a área de trabalho (PE7).",
+   "O PE7 prevê canalização progressiva com vários cones, não um único cone."
+  ]
+ },
+ {
+  "q": "Na triagem de um tombamento de ônibus, adulto não deambula, respira com FR de 34 irpm, tem pulso radial presente e obedece a comandos. Pelo método START do SAMU, qual é a cor?",
+  "alts": [
+   "Amarela, pois tem pulso radial e cumpre as ordens simples",
+   "Verde, pois está consciente e obedece às ordens simples",
+   "Vermelha, pois a frequência respiratória está acima de 30",
+   "Amarela, pois só a FR acima de 40 classificaria vermelha",
+   "Cinza, pois a taquipneia indica insuficiência respiratória"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "START — FR acima de 30",
+  "base": "Protocolos SAMU 192, Suporte Básico de Vida, BMV3 – Triagem de múltiplas vítimas (método START)",
+  "coment": "No método START do Protocolo BMV3 do SAMU 192, depois de separar como verde quem anda, avalia-se a respiração da vítima que ficou: se respira, verifica-se a frequência respiratória. FR acima de 30 classifica como VERMELHO, sem necessidade de avaliar perfusão ou nível de consciência. Só com FR abaixo de 30 segue-se para o enchimento capilar (ou pulso radial) e, depois, para a capacidade de cumprir ordens simples, que separa vermelho (não cumpre) de amarelo (cumpre). Cinza é reservado a quem não respira mesmo após a abertura das vias aéreas.",
+  "porAlt": [
+   "O pulso e a obediência a comandos só são avaliados se a FR for menor que 30; com 34, a vítima já é vermelha.",
+   "Verde é para quem consegue andar; esta vítima não deambula.",
+   "Correta: FR acima de 30 classifica como VERMELHO no START (BMV3), encerrando a triagem da vítima.",
+   "O corte do START é 30, não 40.",
+   "Cinza é para quem não respira mesmo após abrir a via aérea; esta vítima respira."
+  ]
+ },
+ {
+  "q": "Adulto preso às ferragens, não deambula, respira com FR de 22 irpm e tem enchimento capilar de 3 segundos. Pelo START do Protocolo BMV3 do SAMU, a cor e o próximo passo são:",
+  "alts": [
+   "Vermelha, mas só depois de confirmar que não cumpre ordens",
+   "Verde, pois FR e perfusão periférica ainda estão preservadas",
+   "Vermelha, e não é preciso avaliar se cumpre ordens simples",
+   "Amarela, se cumprir ordens simples, pois a FR é menor que 30",
+   "Amarela, pois o enchimento capilar só pesa quando passa de 4 s"
+  ],
+  "gab": 2,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "START — perfusão",
+  "base": "Protocolos SAMU 192, Suporte Básico de Vida, BMV3 – Triagem de múltiplas vítimas (método START)",
+  "coment": "No START (Protocolo BMV3 do SAMU 192), com FR abaixo de 30 avalia-se o reenchimento capilar ou a presença de pulso radial: enchimento capilar maior que 2 segundos ou pulso radial ausente classifica como VERMELHO. A avaliação da capacidade de cumprir ordens simples só é feita se o enchimento for de até 2 segundos ou o pulso radial estiver presente. Cada critério de vermelho encerra a triagem daquela vítima, e o triador segue para a próxima. Verde é só para quem anda.",
+  "porAlt": [
+   "Não é preciso confirmar a resposta a comandos: a perfusão alterada já classifica como vermelho.",
+   "Verde é para quem deambula; esta vítima não anda e tem perfusão alterada.",
+   "Correta: enchimento capilar acima de 2 s (ou radial ausente) é VERMELHO, sem passar à avaliação de ordens.",
+   "A avaliação de ordens simples só ocorre com enchimento de até 2 s ou pulso radial presente.",
+   "O corte do enchimento capilar no START é 2 segundos, não 4."
+  ]
+ },
+ {
+  "q": "Segundo o Protocolo BMV3 do SAMU, qual é a conduta com as vítimas classificadas como cinza na triagem START?",
+  "alts": [
+   "Iniciar RCP em todas, pois a cor cinza indica parada que pode ser revertida no local",
+   "Classificá-las definitivamente como óbito, sem necessidade de nova avaliação na cena",
+   "Encaminhá-las à área verde, onde receberão a triagem secundária pelo médico regulador",
+   "Não removê-las nem abordá-las de início e reavaliá-las após as intervenções críticas",
+   "Removê-las primeiro da zona quente, para liberar espaço de trabalho para as equipes"
+  ],
+  "gab": 3,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "START — manejo da vítima cinza",
+  "base": "Protocolos SAMU 192, Suporte Básico de Vida, BMV3 – Triagem de múltiplas vítimas (método START)",
+  "coment": "O BMV3 do SAMU 192 classifica como CINZA (morto/inviável) a vítima que não respira mesmo após a abertura manual das vias aéreas. As observações do protocolo dizem que as vítimas cinza inicialmente não devem ser removidas nem receber abordagem; havendo equipes disponíveis e completadas as intervenções críticas das vítimas vermelhas e amarelas, elas deverão ser reavaliadas. A classificação é dinâmica, com possível reclassificação. Nos protocolos do SAMU a cor é cinza; o preto da literatura internacional funciona como distrator.",
+  "porAlt": [
+   "O protocolo não manda iniciar RCP nas vítimas cinza durante a triagem; elas não recebem abordagem de início.",
+   "A classificação é dinâmica: as cinza devem ser reavaliadas quando houver equipes disponíveis.",
+   "A área verde recebe quem deambula; cinza não é encaminhado para lá.",
+   "Correta: cinza não é removido nem abordado de início e é reavaliado depois das intervenções em vermelhos e amarelos.",
+   "O protocolo diz o contrário: as vítimas cinza inicialmente não devem ser removidas."
+  ]
+ },
+ {
+  "q": "Criança de 4 anos não deambula e está em apneia. Após abrir as vias aéreas, continua sem respirar, mas tem pulso palpável. Pelo JumpSTART do Protocolo BMV4 do SAMU, a conduta é:",
+  "alts": [
+   "Classificar como vermelha e iniciar compressões torácicas imediatamente",
+   "Dar cinco ventilações de resgate: se respirar, vermelha; se não, cinza",
+   "Dar duas ventilações de resgate: se respirar, amarela; se não, vermelha",
+   "Classificar como amarela, pois a presença de pulso indica que pode aguardar",
+   "Classificar como cinza, pois não respirou após a abertura das vias aéreas"
+  ],
+  "gab": 1,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "JumpSTART — apneia com pulso",
+  "base": "Protocolos SAMU 192, Suporte Básico de Vida, BMV4 – Triagem de múltiplas vítimas envolvendo crianças (JumpSTART)",
+  "coment": "No JumpSTART (Protocolo BMV4 do SAMU 192), a criança que não respira tem as vias aéreas abertas. Se passa a respirar, é VERMELHO. Se continua em apneia, avalia-se o pulso palpável (a 'janela de salvação'): sem pulso, CINZA; com pulso, oferecem-se cinco ventilações de resgate com dispositivo de barreira. Se a criança respirar após as ventilações, é VERMELHO; caso contrário, CINZA. É a diferença central em relação ao START do adulto, em que a apneia persistente após a abertura das vias aéreas já classifica como cinza, sem ventilações.",
+  "porAlt": [
+   "A triagem não inclui compressões; com pulso palpável a conduta são as ventilações de resgate.",
+   "Correta: apneia com pulso = 5 ventilações de resgate; respira = vermelho, não respira = cinza (BMV4).",
+   "O protocolo manda cinco ventilações, não duas, e o desfecho é vermelho ou cinza.",
+   "Pulso sem respiração espontânea não é critério de amarelo; exige as ventilações de resgate.",
+   "No adulto (START), a apneia após abrir a via aérea é cinza direto; na criança com pulso, dão-se 5 ventilações antes."
+  ]
+ },
+ {
+  "q": "Criança de 6 anos em incidente com múltiplas vítimas não deambula, respira com FR de 30 irpm, tem pulso palpável e responde à dor com postura de decorticação. Pelo JumpSTART do SAMU, a cor é:",
+  "alts": [
+   "Vermelha, pois não localiza a dor no AVDI, reagindo em postura",
+   "Verde, pois respira, tem pulso e ainda reage ao estímulo doloroso",
+   "Amarela, pois responde ao estímulo doloroso, ainda que em postura",
+   "Cinza, pois a decorticação indica lesão encefálica irreversível",
+   "Amarela, pois a FR está entre 15 e 45 e o pulso está palpável"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "JumpSTART — AVDI",
+  "base": "Protocolos SAMU 192, Suporte Básico de Vida, BMV4 – Triagem de múltiplas vítimas envolvendo crianças (JumpSTART)",
+  "coment": "No JumpSTART (Protocolo BMV4 do SAMU 192), a criança que respira tem a FR avaliada: abaixo de 15 ou acima de 45 é VERMELHO; entre 15 e 45, verifica-se o pulso palpável (ausente = VERMELHO). Com pulso, avalia-se o estado mental pelo AVDI: se alerta, se responde ao chamado verbal ou a estímulo doloroso com localização e retirada proposital, é AMARELO; se não responde a nenhum estímulo ou responde com postura de descerebração ou decorticação, é VERMELHO. A FR de 30 está dentro da faixa pediátrica; o corte de 30 é do START do adulto.",
+  "porAlt": [
+   "Correta: resposta à dor com decorticação (sem localizar) é VERMELHO no AVDI do JumpSTART.",
+   "Verde exige deambular ou, na criança que ainda não anda, critérios de amarelo sem lesão significativa; resposta à dor em postura é vermelho.",
+   "Para ser amarelo a resposta à dor precisa localizar e retirar o estímulo; postura é vermelho.",
+   "O JumpSTART não classifica decorticação como cinza; é critério de vermelho.",
+   "FR e pulso normais só levam ao passo seguinte; o AVDI com postura de decorticação classifica como vermelho."
+  ]
+ },
+ {
+  "q": "Lactente de 10 meses, que ainda não anda, é encontrado em incidente com múltiplas vítimas: FR de 32 irpm, pulso palpável, alerta, sem ferimentos penetrantes, queimaduras, sangramento ou distensão abdominal. Pelo BMV4 do SAMU, a cor é:",
+  "alts": [
+   "Vermelha, pois quem não deambula não pode receber a cor verde nessa triagem",
+   "Amarela, pois todo lactente que não anda deve ser classificado como amarelo",
+   "Verde, desde que seja retirado da cena no colo de um adulto sem ferimentos",
+   "Vermelha, pois a FR de 32 está acima do corte de 30 usado para os adultos",
+   "Verde, pois cumpre os critérios de amarelo sem sinais de lesão significativa"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "curativa",
+  "sub": "JumpSTART — criança que ainda não anda",
+  "base": "Protocolos SAMU 192, Suporte Básico de Vida, BMV4 – Triagem de múltiplas vítimas envolvendo crianças (JumpSTART)",
+  "coment": "O BMV4 do SAMU 192 trata do aspecto especial da criança que não anda por ausência de desenvolvimento para a função ou por deficiência: aplica-se o JumpSTART; se houver critérios de vermelho, classifica-se vermelho; se houver critérios de amarelo, analisa-se: com sinais de lesão significativa (ferimentos penetrantes ou com perda de tecido, queimaduras importantes, sangramento incontrolável ou distensão abdominal), amarelo; na ausência desses sinais, VERDE, mesmo sem andar. Nesse caso a criança permanece na cena até ser transportada. A FR de 32 está dentro da faixa pediátrica de 15 a 45.",
+  "porAlt": [
+   "O protocolo prevê expressamente o verde para a criança que não anda por idade, sem lesão significativa.",
+   "O amarelo exige sinais de lesão significativa; sem eles, a criança que não anda é verde.",
+   "A criança verde que não anda permanece na cena até ser transportada; o colo não é o critério.",
+   "Na criança, a FR aceitável vai de 15 a 45; o corte de 30 é do START do adulto.",
+   "Correta: critérios de amarelo sem lesão significativa, na criança que ainda não anda, dão VERDE (BMV4)."
+  ]
+ },
+ {
+  "q": "Aeronave pressurizada sofre despressurização a 35.000 pés (MSL). Segundo a tabela da FAA, qual é o tempo útil de consciência sem oxigênio suplementar, e o que ele representa?",
+  "alts": [
+   "30 a 60 segundos, tempo máximo para decidir e agir racionalmente para salvar a vida",
+   "15 a 20 segundos, tempo máximo para decidir e agir racionalmente para salvar a vida",
+   "3 a 5 minutos, tempo decorrido até a perda completa da consciência do tripulante",
+   "30 a 60 segundos, tempo decorrido até a perda completa da consciência do tripulante",
+   "1 a 2 minutos, tempo máximo para decidir e agir racionalmente para salvar a vida"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "aeroespacial",
+  "sub": "TUC — 35.000 pés",
+  "base": "FAA, Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25), Figura 17-1 (Time of useful consciousness)",
+  "coment": "O Pilot's Handbook of Aeronautical Knowledge da FAA define o tempo útil de consciência como o tempo máximo que o piloto tem para tomar decisões racionais que salvem a vida e executá-las, numa dada altitude, sem oxigênio suplementar. A tabela dá: 20.000 pés, 30 minutos ou mais; 22.000, 5 a 10 min; 25.000, 3 a 5 min; 28.000, 2,5 a 3 min; 30.000, 1 a 2 min; 35.000, 30 a 60 s; 40.000, 15 a 20 s; 45.000, 9 a 15 s. O TUC termina quando cessa a função útil, antes da inconsciência; definir TUC como 'tempo até desmaiar' é o erro clássico. A hipóxia afeta primeiro o julgamento, muitas vezes com euforia.",
+  "porAlt": [
+   "Correta: a 35.000 pés, 30 a 60 s; e TUC é o tempo para decisões racionais e sua execução, não até desmaiar.",
+   "15 a 20 segundos é o TUC a 40.000 pés.",
+   "3 a 5 minutos é o TUC a 25.000 pés, e a definição de 'até a inconsciência' está errada.",
+   "O número está certo, mas a definição não: o TUC acaba quando cessa a função útil, antes da inconsciência.",
+   "1 a 2 minutos é o TUC a 30.000 pés."
+  ]
+ },
+ {
+  "q": "A chamada 'síndrome da classe econômica' é tratada pela FAA e pelo CDC de que forma?",
+  "alts": [
+   "Como entidade exclusiva da classe econômica, pelo menor espaço entre as poltronas do avião",
+   "Como TEP sem TVP prévia, provocado pela desidratação decorrente da baixa umidade da cabine",
+   "Como nome correto, por ser a classe econômica o fator de risco independente mais importante",
+   "Como entidade exclusiva do avião, causada pela hipóxia hipobárica da cabine na classe econômica",
+   "Como nome equivocado: a TVP ocorre em qualquer classe e em longas viagens de carro ou ônibus"
+  ],
+  "gab": 4,
+  "tema": "vespera",
+  "temaOrig": "viajante",
+  "sub": "Trombose do viajante — o nome",
+  "base": "FAA, folheto 'Deep Vein Thrombosis and Travel' (OK-24); CDC Yellow Book 2026, 'Deep Vein Thrombosis and Pulmonary Embolism'",
+  "coment": "O folheto da FAA sobre TVP e viagem diz que a condição foi 'erroneamente' chamada de síndrome da classe econômica, porque passageiros de qualquer classe podem desenvolver TVP, e que qualquer situação de atividade restrita por longos períodos, como viagem longa de carro ou trem, contribui; por isso prefere 'trombose do viajante'. O CDC Yellow Book 2026 confirma que o aumento de risco semelhante em outros meios de transporte longos (ônibus, carro, trem) indica que ele decorre principalmente da mobilidade limitada prolongada, e não do ambiente da cabine. Não há evidência direta de que desidratação cause a TVP do viajante. O mecanismo principal é a estase venosa (tríade de Virchow).",
+  "porAlt": [
+   "A FAA afirma que passageiros de qualquer classe podem ter TVP; a classe não é a causa.",
+   "O CDC diz não haver evidência de associação entre desidratação e TEV do viajante.",
+   "O fator central é a imobilidade prolongada; a classe da poltrona não é fator de risco independente.",
+   "O CDC indica que o risco decorre sobretudo da imobilidade, pois aparece também em ônibus, carro e trem.",
+   "Correta: FAA chama o nome de equivocado; TVP ocorre em qualquer classe e em outras viagens longas de imobilidade."
+  ]
+ },
+ {
+  "q": "Segundo o CDC Yellow Book, quais características do passageiro e do assento aumentam o risco de tromboembolismo associado ao voo?",
+  "alts": [
+   "Altura menor que 1,6 m ou maior que 1,9 m e assento na janela, sobretudo com IMC ≥ 30",
+   "Altura entre 1,6 e 1,9 m e assento no corredor, sobretudo com IMC abaixo de 25 kg/m²",
+   "Altura menor que 1,5 m apenas, e assento do meio, sobretudo em mulheres acima de 60 anos",
+   "Altura maior que 1,8 m apenas, e assento na saída de emergência, pelo espaço maior",
+   "Nenhuma: altura e posição do assento não influenciam o risco, só a duração do voo"
+  ],
+  "gab": 0,
+  "tema": "vespera",
+  "temaOrig": "viajante",
+  "sub": "Trombose do viajante — altura e assento",
+  "base": "CDC Yellow Book 2026, 'Deep Vein Thrombosis and Pulmonary Embolism', Risk factors e In-flight mobility and seat assignment",
+  "coment": "O CDC Yellow Book 2026 aponta a altura como fator de risco adicional no avião: pessoas com menos de 1,6 m e com mais de 1,9 m têm risco aumentado. As de baixa estatura sofrem pressão da borda do assento na fossa poplítea, porque o assento do avião é mais alto e não se ajusta; as altas têm menos espaço para as pernas. Quanto ao assento, em um estudo quem sentou na janela teve o dobro do risco de quem sentou no corredor, e com IMC ≥ 30 na janela o risco foi seis vezes maior; o corredor parece protetor porque permite movimentar-se. A ACCP recomenda, para quem tem risco aumentado em viagens de mais de 6 horas, sentar no corredor.",
+  "porAlt": [
+   "Correta: menos de 1,6 m ou mais de 1,9 m; janela dobra o risco e, com IMC ≥ 30, multiplica por seis.",
+   "É o contrário: o corredor é protetor, e a faixa de altura intermediária não é a de risco.",
+   "O corte inferior é 1,6 m, e o assento de maior risco citado é o da janela, não o do meio.",
+   "O risco vale para mais de 1,9 m e também para menos de 1,6 m; saída de emergência não é citada.",
+   "O CDC descreve explicitamente altura e posição na janela como fatores adicionais de risco."
+  ]
+ }
+]

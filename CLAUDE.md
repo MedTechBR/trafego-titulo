@@ -294,3 +294,12 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
 ## Hospedagem
 GitHub Pages, repo público `MedTechBR/trafego-titulo` — conteúdo 100% autoral, sem material
 licenciado (por isso não precisa do esquema privado + Cloudflare Access do RadioTítulo).
+
+## Seção provisória "★ Aulão de véspera" (26/09/2026)
+Pedido do Matheus na véspera: fotos das anotações do aulão do IBEPEM (★ = "cai com certeza") → 5 resumos
+(`leituras/aulao-1..5-*.html`, grupo no topo de leituras.js) + 207 questões em `lotes-questoes/leva57..61-aulao-*.json`,
+todas com `tema:"vespera"` e `temaOrig:<id real>`. Transcrição e divergências aula × norma em `fontes/AULAO-NOTAS.md`
+(fora do git) e dentro de cada resumo. Verificadas por segundo agente (nenhum gabarito errado; ~35 removidas por ambiguidade/duplicata).
+**Depois da prova ele vai pedir para APAGAR a seção e redistribuir:** em cada leva 57–61 trocar `tema` por `temaOrig` (e remover
+`temaOrig`), tirar a entrada `vespera` da taxonomia.js, mover os 5 resumos para os grupos temáticos (ou apagar, se ele preferir),
+`monta_banco.py`, bump do CACHE. NÃO mudar os enunciados (a chave é o hash do enunciado: o progresso dele se preserva).
