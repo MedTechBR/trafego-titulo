@@ -1498,6 +1498,26 @@ function respondeQuestao(q){
 
 /* ================== SIMULADO ================== */
 let cronSimId=null;
+/* Formato da prova anterior (aula de revisão de 28/02/2026, enviada pelo Matheus em 26/09):
+   50 questões = 25 de diretrizes, 15 de EAFM, 3 de legislação, 2 de epidemiologia, 2 de APH, 2 de aeroespacial
+   (+1 dos demais eixos para fechar 50). Precisa de 30 acertos para a discursiva ser corrigida.
+   O bloco sai do tema (temaOrig na seção provisória) e da âncora normativa (base) da questão. */
+const BLOCOS_PROVA=[
+  {id:"dir",nome:"Diretrizes",n:25},{id:"eafm",nome:"EAFM",n:15},{id:"leg",nome:"Legislação",n:3},
+  {id:"epi",nome:"Epidemiologia",n:2},{id:"aph",nome:"APH",n:2},{id:"aero",nome:"Aeroespacial",n:2},{id:"outros",nome:"Demais eixos",n:1}];
+const TEMAS_EAFM=new Set(["aptidao","oftalmo","orl","cardio","neuro","sono","locomotor"]);
+const TEMAS_OUTROS=new Set(["viajante","ocupacional","aquaviaria","securitaria"]);
+function blocoProva(q){
+  const t=q.temaOrig||q.tema, b=q.base||"";
+  if(t==="epidemiologia")return "epi";
+  if(t==="curativa")return "aph";
+  if(t==="aeroespacial")return "aero";
+  if(t==="legislacao")return "leg";
+  if(TEMAS_OUTROS.has(t))return "outros";
+  if(/diretriz/i.test(b))return "dir";
+  if(TEMAS_EAFM.has(t)||/927/.test(b))return "eafm";
+  return "dir";
+}
 function montaSimulado(){
   pintaTitulo();
   clearInterval(cronSimId);
@@ -1506,6 +1526,14 @@ function montaSimulado(){
   const sec=$("#sec-simulado");
   const hist=ST.sim.slice(-10).reverse();
   sec.innerHTML=`
+  <div class="cartao">
+    <h2>Simulado no formato da prova anterior</h2>
+    <p class="peq mut" style="margin-bottom:10px">50 questões sorteadas por bloco, como na prova anterior: <b>25 de diretrizes</b>, <b>15 de EAFM</b>, 3 de legislação, 2 de epidemiologia, 2 de APH, 2 de aeroespacial e 1 dos demais eixos. É preciso acertar <b>30</b> para a discursiva ser corrigida. Na correção aparece o acerto de cada bloco.</p>
+    <div class="linha">
+      <label class="linha peq mut" style="gap:6px"><input type="checkbox" id="simNovas" checked> Priorizar questões que ainda não respondi</label>
+      <button class="btn" id="simProva" type="button">Começar (50 questões, 110 min)</button>
+    </div>
+  </div>
   <div class="cartao">
     <h2>Novo simulado</h2>
     <p class="peq mut" style="margin-bottom:10px">Formato oficial (Edital AMB/ABRAMET nº 2446): 50 questões de múltipla escolha com 5 alternativas, peso 6 na nota final. A teórico-prática descritiva tem peso 3 e a análise curricular, peso 1; as duas provas somam 3h. É preciso tirar <b>no mínimo 6,0 na teórica</b> e média ponderada de 6,0 ou mais. O gabarito só aparece na entrega.</p>
@@ -1530,6 +1558,17 @@ function montaSimulado(){
     const qs=espalhaTemas(embaralha(pool.slice()).slice(0,n)).map(q=>q._ch);
     if(!qs.length)return;
     ST.simativo={qs,resp:{},ini:Date.now(),min,pos:0};
+    ARM.save("tt_simativo",ST.simativo);
+    desenhaSimAtivo();
+  };
+  $("#simProva").onclick=()=>{
+    const novas=$("#simNovas").checked, qs=[];
+    BLOCOS_PROVA.forEach(bl=>{
+      const pool=embaralha(BANCO.filter(q=>blocoProva(q)===bl.id));
+      if(novas)pool.sort((a,b)=>(respostaDe(a)?1:0)-(respostaDe(b)?1:0));   /* estável: embaralhado dentro de cada grupo */
+      pool.slice(0,bl.n).forEach(q=>qs.push(q));
+    });
+    ST.simativo={qs:espalhaTemas(qs).map(q=>q._ch),resp:{},ini:Date.now(),min:110,pos:0,formato:"prova"};
     ARM.save("tt_simativo",ST.simativo);
     desenhaSimAtivo();
   };
@@ -1598,7 +1637,7 @@ function finalizaSim(qs){
     return {ch:q._ch,alt:alt==null?null:alt,ok:alt==null?false:ok}});
   const acertos=detalhes.filter(d=>d.ok).length;
   const nota=acertos/detalhes.length*100;
-  ST.sim.push({id:Date.now().toString(36),quando:dataISO(),nota,acertos,detalhes});
+  ST.sim.push(Object.assign({id:Date.now().toString(36),quando:dataISO(),nota,acertos,detalhes},s.formato?{formato:s.formato}:{}));
   ARM.save("tt_sim",ST.sim);
   ST.simativo=null;ARM.save("tt_simativo",null);
   ARM.snapshot("fim-de-simulado");
@@ -1616,6 +1655,10 @@ function desenhaRevisao(iSim,pos,recem){
         <div class="peq mut">${sm.acertos} de ${sm.detalhes.length} acertos, ${sm.nota>=60?"acima":"abaixo"} do corte de 60%, em ${esc(sm.quando)}</div></div>
       <button class="btn fant" id="revVoltar" type="button">Fechar revisão</button>
     </div>
+    ${sm.formato==="prova"?(()=>{
+      const por={};det.forEach(x=>{const k=blocoProva(QIDX.get(x.ch));(por[k]=por[k]||[0,0]);por[k][1]++;if(x.ok)por[k][0]++});
+      return `<p class="peq" style="margin-top:8px"><b>${sm.acertos>=30?"Com "+sm.acertos+" acertos, a discursiva seria corrigida (mínimo 30).":"Faltaram "+(30-sm.acertos)+" acertos para a discursiva ser corrigida (mínimo 30)."}</b></p>
+      <p class="peq mut" style="margin-top:4px">${BLOCOS_PROVA.filter(bl=>por[bl.id]).map(bl=>`${bl.nome} <b>${por[bl.id][0]}/${por[bl.id][1]}</b>`).join(" · ")}</p>`})():""}
     ${recem?`<p class="peq mut" style="margin-top:6px">Toque num número para rever a questão com o comentário.</p>`:""}
     <div class="gradeSim" style="margin-top:10px">
       ${det.map((dd,i)=>`<button type="button" class="${dd.alt==null?"":dd.ok?"certa":"errada"} ${i===pos?"atual":""}" data-i="${i}" aria-label="Questão ${i+1}, ${dd.alt==null?"em branco":dd.ok?"certa":"errada"}">${i+1}</button>`).join("")}
