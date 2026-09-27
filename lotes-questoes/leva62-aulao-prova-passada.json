@@ -322,29 +322,6 @@
   ]
  },
  {
-  "q": "Segundo a Diretriz ABRAMET sobre celular, ao digitar uma mensagem de texto o condutor fica, em média, quanto tempo sem prestar atenção à via, e que distância pode percorrer assim?",
-  "alts": [
-   "Cerca de 1 segundo, até 15 metros, de acordo com a velocidade",
-   "Cerca de 3 segundos, até 90 metros, conforme a velocidade",
-   "Cerca de 10 segundos, até 300 metros, conforme a velocidade",
-   "Cerca de 4,5 segundos, até 100 metros, conforme a velocidade",
-   "Cerca de 2 segundos, até 50 metros, conforme a velocidade"
-  ],
-  "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
-  "sub": "FAC: digitar mensagem",
-  "base": "Diretriz ABRAMET Riscos do uso do telefone celular na condução de veículos automotores (elaboração final 26/04/2021), item 1 (Introdução)",
-  "coment": "A introdução da diretriz afirma que, ao digitar uma mensagem, o condutor chega a ficar, em média, 4,5 segundos sem prestar atenção na via e, dependendo da velocidade, pode percorrer até 100 metros absolutamente desatento, tempo e distância suficientes para atropelar pedestres e ciclistas ou colidir. Na mesma linha: enviar mensagem pelo WhatsApp a 80 km/h equivale a dirigir de olhos vendados por um campo de futebol oficial. Não confundir com o efeito pós-chamada (fator cognitivo): risco em média por 3 segundos após enviar a mensagem, mais de 90 metros a 100 km/h.",
-  "porAlt": [
-   "1 segundo é o tempo médio fisiológico de reação da diretriz de tolerância, não o tempo desatento ao digitar.",
-   "3 s e mais de 90 m (a 100 km/h) descrevem o efeito pós-chamada, não o ato de digitar.",
-   "10 s e 300 m não são números da diretriz.",
-   "Correta: a introdução fala em média de 4,5 s sem olhar a via e até 100 m percorridos, conforme a velocidade.",
-   "2 s e 50 m não aparecem na diretriz; o número do ato de digitar é 4,5 s."
-  ]
- },
- {
   "q": "Na classificação da Diretriz ABRAMET sobre celular, a atividade mental que continua dirigida à chamada mesmo depois de ela terminar pertence a qual grupo de fatores, e qual é a sua repercussão a 100 km/h?",
   "alts": [
    "Operacional; o veículo percorre cerca de 30 metros sem o condutor olhar a via",
@@ -437,29 +414,6 @@
   ]
  },
  {
-  "q": "Candidato mantido inapto pela Junta Médica revisional alega nulidade porque ela não tinha 'dois especialistas em Medicina de Tráfego', composta por três médicos peritos examinadores de trânsito. Segundo a Resolução CONTRAN nº 927/2022, ele tem razão?",
-  "alts": [
-   "Sim, pois toda junta da resolução exige no mínimo dois especialistas",
-   "Sim, pois a Junta Médica exige três especialistas, e não três peritos",
-   "Não, pois a Junta Médica pode ser composta por peritos ou especialistas",
-   "Não, pois a Junta Médica pode ter qualquer número de médicos peritos",
-   "Sim, pois a Junta Médica exige ao menos um psicólogo entre os seus três"
-  ],
-  "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
-  "sub": "Juntas: composição da Junta Médica",
-  "base": "Resolução CONTRAN nº 927/2022, arts. 12, §1º, e 15, parágrafo único",
-  "coment": "O art. 12, §1º, da Res. 927 diz que a revisão do exame de aptidão física e mental ocorre por Junta Médica constituída por três profissionais médicos peritos examinadores de trânsito OU especialistas em medicina de tráfego. A exigência de no mínimo três médicos, sendo dois especialistas em Medicina de Tráfego, é da Junta Especial de Saúde, designada pelo CETRAN para julgar o recurso (art. 15, parágrafo único). A Junta Médica Especial, que examina o candidato com deficiência física, não tem número fixado na resolução. O próximo passo do candidato, mantida a inaptidão permanente, é o recurso ao CETRAN em 30 dias do conhecimento (art. 13).",
-  "porAlt": [
-   "A regra de dois especialistas é só da Junta Especial de Saúde (art. 15); a Junta Médica segue o art. 12, §1º.",
-   "O art. 12, §1º, admite peritos examinadores OU especialistas; não exige três especialistas.",
-   "Correta: a Junta Médica tem três médicos peritos examinadores de trânsito ou especialistas em medicina de tráfego.",
-   "O número é fixo: três profissionais médicos (art. 12, §1º).",
-   "Psicólogos compõem a Junta Psicológica, que revê a avaliação psicológica, não a Junta Médica."
-  ]
- },
- {
   "q": "Segundo a Diretriz ABRAMET sobre doença de Parkinson (2022), em que situação geral o exame de aptidão física e mental do candidato com a doença deve ser realizado pela Junta Médica Especial?",
   "alts": [
    "Quando houver deficiência motora que impeça dirigir veículo convencional",
@@ -473,7 +427,7 @@
   "temaOrig": "locomotor",
   "sub": "Juntas: JME na doença de Parkinson",
   "base": "Diretriz ABRAMET Doença de Parkinson e direção veicular (elaboração final 20/05/2022), avaliação no EAFM; Res. CONTRAN nº 927/2022, art. 4º, §§1º e 2º",
-  "coment": "A diretriz reproduz a regra da Res. 927 (art. 4º, §§1º e 2º): constatada deficiência física motora que impeça a dirigibilidade de um veículo automotor convencional, o EAFM do candidato com doença de Parkinson deve ser feito por Junta Médica Especial designada pelo Diretor do órgão executivo estadual, seguindo a NBR 14.970, Parte 2; dúvidas sobre o veículo adaptado se resolvem na prova prática (Parte 3). Nas recomendações: deficiência motora leve, apto só B com reavaliação a cada 2 anos; moderada, relatório do neurologista; HY 1 apto na B (até 2 anos); HY 2 ou 3 inapto temporário e encaminhado à JME; HY 4 ou 5, inapto.",
+  "coment": "A diretriz aplica à doença de Parkinson a regra da Res. 927 (art. 4º, §§1º e 2º, que manda à Junta Médica Especial o candidato com deficiência física): constatada deficiência física motora que impeça a dirigibilidade de um veículo automotor convencional, o EAFM do candidato com doença de Parkinson deve ser feito por Junta Médica Especial designada pelo Diretor do órgão executivo estadual, seguindo a NBR 14.970, Parte 2; dúvidas sobre o veículo adaptado se resolvem na prova prática (Parte 3). Nas recomendações: deficiência motora leve, apto só B com reavaliação a cada 2 anos; moderada, relatório do neurologista; HY 1 apto na B (até 2 anos); HY 2 ou 3 inapto temporário e encaminhado à JME; HY 4 ou 5, inapto.",
   "porAlt": [
    "Correta: a diretriz manda à JME quando há deficiência física motora que impeça dirigir veículo convencional.",
    "O diagnóstico isolado não leva à JME: no estágio inicial e na deficiência leve o candidato pode ser apto na B.",
@@ -542,7 +496,7 @@
   "temaOrig": "drogas",
   "sub": "Toxicológico: canabinoides",
   "base": "Resolução CONTRAN nº 923/2022, Anexo I (níveis de corte)",
-  "coment": "O Anexo I da Res. 923 prevê, para canabinoides, triagem com corte de 0,1 ng/mg para THC ou 0,001 ng/mg para THC-COOH, e confirmação pelo carboxi-THC (THC-COOH), com corte de 0,0002 ng/mg. A matriz é queratínica (cabelo, pelos ou unhas), com janela retrospectiva mínima de 90 dias; o exame vale 90 dias da coleta. O canabidiol não é analito. O MPPCVA (2023) lembra que o THC é o canabinoide psicoativo que prejudica a condução e que 3,8 ng/mL de THC no soro prejudicam tanto quanto 0,5 g/L de alcoolemia; quem usa cannabis medicinal lícita corre risco de condenação criminal pela presença de THC.",
+  "coment": "O Anexo I da Res. 923 prevê, para canabinoides, triagem com corte de 0,1 ng/mg para THC ou 0,001 ng/mg para THC-COOH, e confirmação pelo carboxi-THC (THC-COOH), com corte de 0,0002 ng/mg. A matriz é queratínica (cabelo, pelos ou unhas), com janela retrospectiva mínima de 90 dias; o exame vale 90 dias da coleta. O canabidiol não é analito. A diretriz ABRAMET de medicamentos (MPPCVA, 2023) lembra que o THC é o canabinoide psicoativo que prejudica a condução e que 3,8 ng/mL de THC no soro prejudicam tanto quanto 0,5 g/L de alcoolemia; quem usa cannabis medicinal lícita corre risco de condenação criminal pela presença de THC.",
   "porAlt": [
    "Correta: a triagem aceita THC ou THC-COOH, e a confirmação é pelo carboxi-THC (THC-COOH).",
    "O canabidiol não é analito do Anexo I; triagem e confirmação usam THC e THC-COOH.",
@@ -588,7 +542,7 @@
   "temaOrig": "psiq",
   "sub": "TEA: crises convulsivas",
   "base": "Diretriz ABRAMET Transtorno do espectro autista (TEA) e habilitação, Do resultado",
-  "coment": "Na seção 'Do resultado', a diretriz diz que, no caso de episódios convulsivos, o médico especialista em medicina do tráfego deverá se reportar às condições previstas na diretriz e na Resolução do CONTRAN que dispõe sobre o exame de aptidão física e mental, isto é, aos critérios de epilepsia (hoje, a diretriz ABRAMET de epilepsia de 2025 e o Anexo VIII da Res. 927). A mesma diretriz lembra que a prevalência de epilepsia no TEA varia de 7 a 42%, contra cerca de 1% na população geral, e deve ser sempre considerada. As crises não tornam o candidato automaticamente inapto nem o mandam à JME.",
+  "coment": "Na seção 'Do resultado', a diretriz diz que, no caso de episódios convulsivos, o médico especialista em medicina do tráfego deverá se reportar às condições previstas na diretriz e na Resolução do CONTRAN que dispõe sobre o exame de aptidão física e mental, isto é, aos critérios de epilepsia, hoje os da diretriz ABRAMET de epilepsia de 2025, que prevalece sobre o Anexo VIII da Res. 927 nos critérios clínicos. A mesma diretriz lembra que a prevalência de epilepsia no TEA varia de 7 a 42%, contra cerca de 1% na população geral, e deve ser sempre considerada. As crises não tornam o candidato automaticamente inapto nem o mandam à JME.",
   "porAlt": [
    "A diretriz não exclui automaticamente: manda aplicar os critérios de epilepsia.",
    "O parecer psiquiátrico não dispensa a análise das crises pelos critérios de epilepsia.",
@@ -644,29 +598,6 @@
   ]
  },
  {
-  "q": "Condutor de 45 anos com esquizofrenia, estável e cumprindo os três requisitos do relatório psiquiátrico, faz a terceira renovação da CNH categoria B. Qual validade do exame a Diretriz ABRAMET de esquizofrenia preconiza?",
-  "alts": [
-   "De 1 a 2 anos, a mesma faixa prevista para a primeira habilitação",
-   "Até 5 anos, como no TDAH nas renovações das categorias ACC, A e B",
-   "Exatamente 2 anos, como na esclerose múltipla com EDSS baixo",
-   "O prazo legal do art. 147, de 10 anos para menores de 50 anos",
-   "De 1 a 3 anos, conforme os sintomas e o tempo sem agravamento"
-  ],
-  "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "psiq",
-  "sub": "Esquizofrenia: validade na renovação",
-  "base": "Diretriz ABRAMET Esquizofrenia e direção veicular (elaboração final 24/05/2021), resultado preconizado",
-  "coment": "Satisfeitas as condições do relatório (aderência de pelo menos 12 meses, sem surto ou internação em 6 meses e parecer favorável), a diretriz preconiza aptidão somente para a categoria B, com validade de 1 a 2 anos na primeira habilitação e de 1 a 3 anos nas renovações, conforme o espectro de sintomas e o tempo de evolução sem agravamento. A avaliação psicológica complementar, especialmente para testar funções cognitivas, deverá ser amplamente considerada nas renovações. Comparar: TDAH em ACC, A e B até 5 anos nas renovações; esclerose múltipla apta na B com prazo de até 2 anos; Parkinson HY 1 até 2 anos.",
-  "porAlt": [
-   "1 a 2 anos é a faixa da primeira habilitação; nas renovações a diretriz admite 1 a 3 anos.",
-   "Até 5 anos nas renovações é do TDAH (ACC, A, B), não da esquizofrenia.",
-   "Até 2 anos é o teto da esclerose múltipla apta na B; a esquizofrenia usa 1 a 3 anos nas renovações.",
-   "A diretriz reduz o prazo; não mantém o prazo legal do art. 147.",
-   "Correta: nas renovações, validade de 1 a 3 anos, conforme o espectro de sintomas e o tempo sem agravamento."
-  ]
- },
- {
   "q": "Segundo a Diretriz ABRAMET de diabetes, como se compara o envolvimento em acidentes de motoristas com diabetes tipo 1 e tipo 2?",
   "alts": [
    "Tipo 2 relata mais acidentes; tipo 1 tem índices semelhantes aos não diabéticos",
@@ -687,52 +618,6 @@
    "A diretriz não atribui o dobro de acidentes aos dois tipos; o tipo 2 é semelhante aos não diabéticos.",
    "A diretriz diz que insulina ou antidiabético oral parece não influir no tipo 2.",
    "Há diferença entre os tipos, e a diretriz não afirma risco menor que o da população."
-  ]
- },
- {
-  "q": "Motorista com esclerose múltipla, com teste de triagem cognitiva validado normal e relatório padronizado do neurologista com EDSS 2,5, quer renovar a categoria D. Pela diretriz ABRAMET:",
-  "alts": [
-   "Apto na D, com validade do exame de até 2 anos",
-   "Encaminhado à Junta Médica Especial (NBR 14.970)",
-   "Inapto, pois a categoria D exigiria EDSS zero",
-   "Apto somente na B, com validade de até 2 anos",
-   "Apto na D, sem redução de prazo pelo EDSS baixo"
-  ],
-  "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "neuro",
-  "sub": "Esclerose múltipla: categoria",
-  "base": "Diretriz ABRAMET Esclerose múltipla e direção veicular (elaboração final 13/08/2024), item 8",
-  "coment": "O item 8 da diretriz de esclerose múltipla exige teste de triagem validado para avaliação cognitiva (Tabela 1, com o SDMT como referência) e relatório padronizado do neurologista com o EDSS. Triagem normal e EDSS abaixo de 3,5: poderá ser considerado apto somente na categoria B, com prazo de validade do exame igual ou inferior a 2 anos. Triagem normal e EDSS de 3,5 a menos de 7,0: Junta Médica Especial. Triagem positiva e/ou EDSS de 7,0 ou mais: inapto. A Tabela 2 de adaptações prevê só a categoria B, porque a diretriz recomenda a aptidão da pessoa com EM apenas nela. Logo, a D não pode ser mantida.",
-  "porAlt": [
-   "A diretriz não admite a D; a aptidão é somente na categoria B.",
-   "A JME é para EDSS de 3,5 a menos de 7,0 com triagem normal; 2,5 fica abaixo.",
-   "A diretriz não prevê inaptidão para esse perfil: ele é apto, só que na B.",
-   "Correta: triagem normal e EDSS abaixo de 3,5: apto somente na categoria B, validade de até 2 anos.",
-   "Mesmo com EDSS baixo, a diretriz limita à B e reduz o prazo a até 2 anos."
-  ]
- },
- {
-  "q": "Condutor com paraplegia (deficiência física moderada ou grave dos dois membros inferiores) é avaliado para a categoria B. Pela Tabela 2 da Diretriz ABRAMET de esclerose múltipla, quais códigos do Anexo XV correspondem às adaptações previstas?",
-  "alts": [
-   "D, E, F, I e H: os mesmos, mais os comandos do painel levados ao volante do carro",
-   "C, D, E, F e I: acelerador à esquerda, automático, pomo, hidráulica e painel",
-   "D, E, F e H: automático, pomo, direção hidráulica, freio e acelerador manuais",
-   "D, E, F e J: automático, pomo, direção hidráulica e comandos do painel para os pés",
-   "D ou G: só transmissão automática ou embreagem manual, automatizada ou automática"
-  ],
-  "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
-  "sub": "PcD: paraplegia na Tabela 2",
-  "base": "Diretriz ABRAMET Esclerose múltipla (2024), Tabela 2; Res. CONTRAN nº 927/2022, Anexo XV",
-  "coment": "Na Tabela 2 da diretriz de esclerose múltipla (adaptações para deficiência moderada ou grave, só categoria B), a linha 'MID + MIE (paraplegia)' prevê transmissão automática {D} + empunhadura/manopla/pomo no volante {E} + direção hidráulica/elétrica {F} + freio e acelerador manuais {H}. Não há o código I nessa linha. Pelo Anexo XV da Res. 927: I = adaptação dos comandos do painel ao volante; J = comandos do painel para membros inferiores e/ou outras partes do corpo; C = acelerador à esquerda; G = embreagem manual, automação de embreagem ou transmissão automática. A hemiplegia direita é que leva C + D + E + F + I; o membro inferior esquerdo isolado, D ou G.",
-  "porAlt": [
-   "O I (comandos do painel ao volante) não aparece na linha da paraplegia; é da hemiplegia e do membro superior.",
-   "C + D + E + F + I é a combinação da hemiplegia ou hemiparesia DIREITA.",
-   "Correta: a linha da paraplegia na Tabela 2 traz D, E, F e H, sem o I.",
-   "O J leva comandos para os membros inferiores, que na paraplegia estão comprometidos; a linha usa H.",
-   "D ou G é a linha do membro inferior ESQUERDO isolado."
   ]
  },
  {
@@ -802,29 +687,6 @@
    "O art. 140 exige saber ler e escrever, e a resolução fixa o português como idioma do conteúdo do exame.",
    "O intérprete garantido é o de Libras para a deficiência auditiva; não há exame oral em qualquer idioma.",
    "Correta: o art. 33, §5º, manda disponibilizar o conteúdo em português, plenamente compreendido pelo candidato."
-  ]
- },
- {
-  "q": "Segundo a Resolução CONTRAN nº 1.031/2026, o resultado qualitativo positivo em aparelho de detecção de outras substâncias psicoativas (que não o álcool) caracteriza:",
-  "alts": [
-   "Tanto a infração do art. 165 quanto o crime do art. 306 do CTB",
-   "Só a infração do art. 165; o crime depende de exame de sangue",
-   "Apenas indício, que só vale somado a dois sinais de alteração",
-   "A infração do art. 165-A, por equivaler à recusa do etilômetro",
-   "Apenas o crime do art. 306, sem penalidade administrativa própria"
-  ],
-  "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "alcool",
-  "sub": "Res. 1.031: outras substâncias psicoativas",
-  "base": "Resolução CONTRAN nº 1.031/2026, arts. 6º, 8º, II, e 9º, II",
-  "coment": "A Res. 1.031/2026, que revogou a 432/2013, prevê o teste com aparelho para outras substâncias psicoativas, certificado no âmbito do SBAC por organismo acreditado pelo Inmetro (art. 6º). O resultado qualitativo positivo aparece duas vezes: no art. 8º, II, caracterizando a infração do art. 165, e no art. 9º, II, caracterizando o crime do art. 306; e o §1º do art. 9º diz que o crime não afasta o art. 165. Exames de sangue, clínico e laboratoriais são suplementares, a critério da autoridade policial (art. 9º, §3º). O 165-A é a recusa sem dois sinais. O MPPCVA lembra que quem usa cannabis medicinal lícita corre risco de condenação pela presença de THC.",
-  "porAlt": [
-   "Correta: o positivo caracteriza a infração (art. 8º, II) e o crime (art. 9º, II), e um não afasta o outro.",
-   "O art. 9º, II, já caracteriza o crime pelo resultado positivo; o sangue é suplementar.",
-   "O resultado positivo é meio autônomo; os dois sinais são outro meio (arts. 7º, 8º, III, e 9º, III).",
-   "O 165-A é a recusa ao procedimento sem dois sinais; teste positivo não é recusa.",
-   "O art. 9º, §1º, diz que o crime não elide o art. 165; há penalidade administrativa."
   ]
  }
 ]
