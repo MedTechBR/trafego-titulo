@@ -9,8 +9,7 @@
    "Inapto temporário, com solicitação de relatório padronizado do neurologista ou neurocirurgião"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia: resultado inicial pela diretriz",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, incisos II e III",
   "coment": "Pela diretriz de 2025 (item 6, II), quem declara na anamnese ou no questionário ter epilepsia ou usar medicamento antiepiléptico deve ser considerado INAPTO TEMPORÁRIO e trazer informações do médico assistente em relatório padronizado; o inciso III exige que esse relatório seja preenchido por neurologista ou neurocirurgião que acompanhe o candidato há pelo menos um ano (ou que tenha acesso confiável ao prontuário da instituição). Atualizado: o Anexo VIII da Resolução 927 (2022) ainda fala em 'necessita de exames complementares ou especializados' e em médico assistente sem especialidade; prevalece a diretriz, mais recente.",
@@ -32,8 +31,7 @@
    "Serve só para a categoria B sem atividade remunerada; nas demais, exige-se o neurologista"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia: quem preenche o relatório",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, III, e justificativa; Contextualização (mudanças da revisão)",
   "coment": "Item 6, III, da diretriz de 2025: para a avaliação será solicitado OBRIGATORIAMENTE relatório preenchido por médico neurologista ou neurocirurgião que acompanhe o candidato há, no mínimo, um ano, ou que tenha acesso confiável aos dados de acompanhamento quando o tratamento for feito em instituição (SUS, convênio). A exclusividade do especialista é uma das mudanças declaradas da revisão de 2025, justificada pela maior confiabilidade. Relatório de clínico geral de consultório não atende, por mais longo que seja o acompanhamento. Atualizado: o Anexo VIII da Resolução 927 (2022) ainda fala em 'médico assistente' sem especialidade; prevalece a diretriz, mais recente.",
@@ -55,8 +53,7 @@
    "Duas crises não provocadas com intervalo >24 h; uma crise com EEG epileptiforme; lesão na neuroimagem"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Definição ILAE de epilepsia",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, seção 'Definição de epilepsia' e verso do relatório (Figura 7)",
   "coment": "A diretriz adota a definição prática da ILAE (posição oficial de dezembro de 2013): epilepsia é doença do cérebro caracterizada por qualquer uma de três condições: (1) duas crises não provocadas (ou reflexas) com intervalo superior a 24 horas; (2) uma crise não provocada (ou reflexa) e probabilidade de novas crises semelhante ao risco geral de recorrência após duas crises, nos próximos 10 anos, definida como 60% ou mais; (3) diagnóstico de uma síndrome epiléptica (ex.: mioclônica juvenil). Os 73% (IC 59–87%) são o risco observado após duas crises, que serviu de base para o corte de 60%, e não o corte em si.",
@@ -78,8 +75,7 @@
    "Síndrome epiléptica ligada ao álcool, que já firma o diagnóstico de epilepsia"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Crise provocada × não provocada",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, seção 'Definição de epilepsia' (crise epiléptica única provocada)",
   "coment": "A diretriz define crise única PROVOCADA como a que ocorre em resposta a fator identificável e transitório: distúrbios metabólicos ou eletrolíticos (hipoglicemia, hiponatremia, insuficiência renal ou hepática agudas), intoxicações, ABSTINÊNCIA ALCOÓLICA, febre (válido só até 5 anos de idade) ou lesões cerebrais agudas (TCE, encefalite, hemorragia, isquemia). Essas crises 'não fecham diagnóstico de Epilepsia ou indicação de tratamento contínuo com fármacos anticrise de forma isolada'. A crise NÃO provocada ocorre sem causa imediata identificável e é a que entra na linha 'crise única sem critérios' da tabela (12 meses / 24 meses / 5 anos).",
@@ -101,8 +97,7 @@
    "A lesão epileptogênica na neuroimagem, com risco relativo de 1,87"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Preditores de recorrência (Tabela 1)",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, Tabela 1 (adaptada de Krumholz A et al., Neurology)",
   "coment": "A Tabela 1 da diretriz lista os preditores de risco relativo de recorrência após uma primeira crise não provocada: história de lesão cerebral prévia, RR 2,55; EEG com atividade epileptiforme, RR 2,84; lesão epileptogênica na neuroimagem (TC ou RM), RR 1,87. O maior é o do EEG. Esses fatores servem para enquadrar uma crise única na condição 2 da ILAE (risco de recorrência de 60% ou mais em 10 anos) e, portanto, decidir se já há diagnóstico de epilepsia ou se o caso fica na linha 'crise única sem critérios' da tabela de aptidão.",
@@ -124,8 +119,7 @@
    "Pelo menos 2 anos sem crise após a retirada completa do fármaco, salvo na generalizada idiopática"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia resolvida: definição",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, seção 'Definição de epilepsia'; item 4 e justificativa",
   "coment": "Texto da seção de definição: a epilepsia é considerada 'resolvida' em pessoas com síndrome epiléptica dependente da idade que já ultrapassaram o limite etário da condição OU naqueles que permaneceram livres de crises por pelo menos 10 anos, sem o uso de fármaco anticrise nos últimos 5 anos. São duas portas alternativas. A justificativa do item 4 repete só a segunda porta (10 anos sem crise + 5 sem fármaco), que é a que mais cai. Consequência prática: entre as pessoas COM diagnóstico de epilepsia, é a ÚNICA situação da tabela em que a diretriz considera apto para ACC, A, C, D e E, inclusive com atividade remunerada. Os '2 anos após a retirada' são de outra linha da tabela (epilepsia sem fármaco).",
@@ -147,8 +141,7 @@
    "Que o risco de recorrência é de 60% em 10 anos, igual ao de quem teve 2 crises"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia resolvida: significado",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, seção 'Definição de epilepsia' e justificativa do item 4",
   "coment": "A diretriz é explícita: a classificação como 'resolvida' indica apenas que a pessoa não apresenta mais o diagnóstico de epilepsia naquele momento, sem excluir a possibilidade de recorrência futura. Na justificativa do item 4, acrescenta que o risco de recorrência dessa população se aproxima ao da população em geral, e por isso ela pode ser considerada apta para ACC e categorias A, C, D e E, inclusive com atividade remunerada. A diretriz também troca 'medicamento antiepiléptico' por 'fármaco anticrise', porque o fármaco controla as crises sem necessariamente curar a doença.",
@@ -170,8 +163,7 @@
    "Apto na B com EAR e restrição U, até completar os 10 anos exigidos para a epilepsia resolvida"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia sem fármaco × resolvida",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, itens 3 e 4 e tabela-resumo",
   "coment": "Com 9 anos sem crise ele ainda não preenche a epilepsia 'resolvida' pela porta dos 10 anos sem crise + 5 anos sem fármaco (tem os 5 sem fármaco, falta 1 ano sem crise). Fica, então, na linha 'com critérios diagnósticos e SEM uso de fármaco anticrise' (item 3): apto somente para categoria B SEM atividade remunerada, após 2 anos contínuos sem crise da retirada completa e desde que não seja epilepsia generalizada idiopática. Na coluna B com EAR e na de ACC, A, C, D, E, essa linha é 'Inapto'. Os 5 anos da coluna com EAR são da linha 'em uso de fármaco', que não é o caso. Daqui a 1 ano, se continuar sem crises, passa a ser resolvida e é apto em tudo.",
@@ -193,8 +185,7 @@
    "Apto com restrição U, vedado dirigir após o pôr do sol até completar cinco anos sem crise"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Crise única: categoria A",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 1 e tabela-resumo",
   "coment": "Item 1 da diretriz: pessoa com uma única crise epiléptica não provocada, sem critérios para o diagnóstico de epilepsia, não deverá ser considerada apta por um período mínimo de 12 meses para qualquer categoria, por 2 anos para categoria B com atividade remunerada (EAR) e por 5 anos para ACC, A, C, D e E. A categoria A está na terceira coluna: 3 anos não bastam, faltam 2. Pegadinha: aplicar os 24 meses (que são só da B com EAR) a qualquer atividade remunerada.",
@@ -216,8 +207,7 @@
    "Apta, pois após a retirada completa do fármaco bastam 6 meses sem crise na categoria B"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia sem fármaco: prazo",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 3 e tabela-resumo",
   "coment": "Item 3 da diretriz: pessoas com critérios diagnósticos de epilepsia que não fazem uso de fármaco anticrise (não introduzido ou suspenso) poderão ser aptas desde que não apresentem crises por período contínuo mínimo de 2 anos após a retirada completa da medicação, somente na categoria B sem atividade remunerada, e desde que não sejam portadoras de epilepsia generalizada idiopática. Com 20 meses, faltam 4. Seis meses sem crise após a retirada não bastam: o prazo é contado em 2 anos contínuos.",
@@ -239,8 +229,7 @@
    "Não pode ser aprovado agora: a diretriz exige Epworth inferior a 12 e avaliação da SAOS"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Crise exclusivamente no sono: Epworth",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 5 e tabela-resumo; Resolução CONTRAN nº 927/2022, Anexo XV (código U)",
   "coment": "Item 5: pessoas com crises exclusivamente no sono poderão ser aptas somente na categoria B sem atividade remunerada, sem crise em vigília em nenhum momento da vida, com critérios diagnósticos de epilepsia há no mínimo 5 anos, obrigatoriamente com a restrição 'U' (vedado dirigir após o pôr do sol, Anexo XV) e descartadas obrigatoriamente as condições que causam sonolência excessiva diurna: Escala de Epworth com pontuação INFERIOR a 12 e avaliação da SAOS pelos critérios da Resolução 927. Epworth de 14 derruba a quinta condição, ainda que as outras quatro estejam cumpridas. A regra de rastreio do Anexo X (C, D, E) não se confunde com essa exigência da diretriz.",
@@ -262,8 +251,7 @@
    "Apto, pois o prazo após modificação só conta quando há troca do fármaco, não redução de dose"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Modificação do fármaco: B com EAR",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 6 e tabela-resumo",
   "coment": "Item 6 da diretriz ('qualquer das condições anteriores, no caso de modificação do fármaco anticrise'): pessoas em esquema de redução de dose OU de número de medicações poderão ser aptas se permanecerem sem crise, após a última modificação, por no mínimo 6 meses na categoria B sem atividade remunerada e 24 meses na categoria B com atividade remunerada; inaptas para as demais categorias. Com 14 meses, faltam 10. Não são 12 meses para a B com EAR: a diretriz e a tabela dizem 24 meses. A regra vale tanto para redução de dose quanto para redução do número de medicações.",
@@ -285,8 +273,7 @@
    "Inapto temporário por 6 meses, prazo exigido após qualquer modificação da medicação"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Modificação do fármaco: categoria C",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, itens 2 e 6 e tabela-resumo",
   "coment": "Na tabela-resumo, a coluna ACC, A, C, D, E é 'Inapto' tanto na linha 'com critérios diagnósticos e em uso de fármaco anticrise' quanto na linha 'epilepsia com modificação do fármaco anticrise'. O item 2 restringe quem usa fármaco à categoria B (12 meses sem EAR, 5 anos com EAR) e o item 6 declara 'inaptas para as demais categorias'. Os 24 meses após a modificação valem só para a categoria B com atividade remunerada. Para quem tem diagnóstico de epilepsia, a única linha que libera C, D e E é a epilepsia 'resolvida' (10 anos sem crise e 5 sem fármaco), que ele não preenche por estar em uso de medicação.",
@@ -308,8 +295,7 @@
    "À redução de mortes por epilepsia em condutores com atividade remunerada"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Intervalo livre de crises: 85% e 93%",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 4 (Intervalo livre de crises epilépticas)",
   "coment": "Texto do item 4: pessoas com epilepsia que alcançam intervalo superior a 6 meses sem crises demonstram redução de até 85% no risco de sinistros relacionados a crises epilépticas; as que permanecem mais de 1 ano sem crises, redução de até 93% nesse risco. A diretriz conclui que o intervalo livre de crises é o preditor mais consistente do risco de sinistro. A diretriz fala em redução do RISCO DE SINISTRO, não em ausência de recidiva. Mesma seção: 12 meses sem crise preveniriam até 80% dos sinistros, 3 meses preveniriam 50%.",
@@ -331,8 +317,7 @@
    "Reduzir em 80% a adesão ao tratamento, pelo estigma de ficar um ano sem poder dirigir"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Intervalo livre: 12 × 3 meses",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 4 e Figura 2",
   "coment": "A Figura 2 da diretriz compara dois intervalos: 12 meses sem crises preveniriam 80% dos sinistros relacionados a crises, mas impediriam a habilitação de cerca de 50% das pessoas com epilepsia que não apresentariam risco significativo; 3 meses sem crises preveniriam 50% dos sinistros, restringindo apenas 25% das pessoas sem risco. É o argumento da diretriz contra restrições excessivas, que também podem estimular a omissão da doença (cerca de metade dos motoristas não informa a epilepsia às autoridades). A diretriz lembra que um estudo não mostrou aumento significativo de sinistros com intervalos curtos em relação à exigência de 1 ano.",
@@ -354,8 +339,7 @@
    "Falsidade ideológica (art. 299 do Código Penal) e, administrativamente, cassação da CNH"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Omissão no questionário",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, I; Resolução CONTRAN nº 927/2022, Anexo I (observação)",
   "coment": "A diretriz afirma que cabe ao candidato revelar a condição ao perito; se mentir, ocultando o distúrbio ou o uso de medicamentos, poderá ser responsabilizado penalmente por crime de falsidade ideológica (art. 299 do Código Penal) e administrativamente através da cassação da CNH. Se causar dano, responde civil e penalmente (lesão corporal, homicídio culposo). O próprio Anexo I da Resolução 927 traz a advertência do art. 299: prestar declaração falsa, pena de reclusão de 1 a 3 anos e multa. A diretriz acrescenta que o questionário assinado dá ao perito um documento que comprova a ocultação.",
@@ -377,8 +361,7 @@
    "Nos últimos 6, 12 e 24 meses e nos últimos 5 e 10 anos"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia: períodos do relatório padronizado",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 6, III, e Figura 6",
   "coment": "O relatório padronizado da diretriz (Figura 6) pede: se há epilepsia pelos critérios da ILAE, se a crise é única, tipos de crise, número estimado de crises nos últimos 6, 12 e 24 meses e nos últimos 5 e 10 anos, se ocorrem exclusivamente no sono, síndrome, EEG e RM/TC, medicação, retirada, adesão (sim, não, irregular) e parecer favorável ou não, com assinatura do médico e ciência do paciente. Os períodos de 5 e 10 anos existem porque a tabela usa prazos de 5 anos e a epilepsia resolvida usa 10 anos. Atualizado: o Anexo IX da Resolução 927 (2022) ainda traz ficha com 6, 12, 18 e 24 meses; vale a da diretriz, mais recente.",
@@ -400,8 +383,7 @@
    "Apto só na categoria B, com o prazo de validade menor"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Epilepsia: parecer desfavorável",
   "base": "Diretriz ABRAMET — Epilepsia, 2025, item 7",
   "coment": "Item 7 da diretriz de 2025 (adesão ao tratamento e parecer favorável do médico assistente): o perito deve sempre observar no relatório padronizado se o candidato é plenamente aderente e se o assistente é favorável à direção. Parecer DESFAVORÁVEL: o resultado deverá ser INAPTO TEMPORÁRIO. Parecer favorável: aptidão somente se as normativas da diretriz forem devidamente contempladas. Atualizado: o Anexo VIII da Resolução 927 (2022, item 2.6) ainda diz 'inapto temporariamente ou inapto, dependendo do caso'; prevalece a diretriz, mais recente.",
@@ -423,8 +405,7 @@
    "Do clínico ou endocrinologista que acompanha, sobretudo por exercer atividade remunerada"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "Diabetes: relatório do assistente",
   "base": "Diretriz ABRAMET — Diabetes Mellitus e Risco na Direção Veicular (2004), item 6.1 e fluxograma",
   "coment": "O fluxograma da diretriz manda 'solicitar relatório do clínico ou endocrinologista que acompanha o tratamento, sobretudo quando se tratar de motorista que exerce atividade remunerada na direção do veículo', e incluir a avaliação de retinopatia, neuropatia e doenças cardiovasculares. O insulinizado sob acompanhamento adequado, bem controlado e sem eventos hipoglicêmicos (graves, no fluxograma) nos últimos 12 meses poderá ser apto para QUALQUER categoria, com diminuição do prazo de validade do exame: a insulina muda o prazo, não a categoria. Sem restrições vinculadas ao diabetes é o desfecho de quem NÃO usa insulina (dieta ou dieta + antidiabético oral).",
@@ -446,8 +427,7 @@
    "Não iniciar a direção, pois o corte para iniciar ou manter a condução é de 70 mg/dl"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "Glicemia antes de dirigir",
   "base": "Diretriz ABRAMET — Diabetes Mellitus e Risco na Direção Veicular (2004), itens 5 e 6.1 e fluxograma",
   "coment": "A diretriz orienta o motorista profissional a realizar glicemia capilar 1 hora antes de dirigir e, aproximadamente, 4 horas após direção contínua, 'não iniciando ou interrompendo a direção quando a glicemia estiver abaixo de 70 mg/dl'. Com 64 mg/dl ele não deve sair. Hipoglicemia GRAVE, na diretriz, é a que produz perda de consciência e exige assistência de outra pessoa; é ela, nos últimos 12 meses, que leva a inapto temporário. Não há dever de comunicar o Detran. A segunda medida é aproximadamente 4 horas após direção contínua, não 'a cada 4 h'.",
@@ -469,8 +449,7 @@
    "Medir a glicemia apenas se tiver sintomas, pois a rotina é a cada oito horas"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "Glicemia após 4 h de direção",
   "base": "Diretriz ABRAMET — Diabetes Mellitus e Risco na Direção Veicular (2004), itens 5 e 6.1 e fluxograma",
   "coment": "Item 6.1 e fluxograma: motoristas profissionais deverão ser orientados a realizar testes de glicemia capilar 1 hora antes de dirigir e, aproximadamente, 4 horas após direção contínua, não iniciando ou interrompendo a direção quando a glicemia estiver abaixo de 70 mg/dl. As duas medidas têm o mesmo corte. O fluxograma acrescenta: manter permanentemente alimentos com carboidrato de absorção rápida em local de fácil acesso no veículo, evitar dirigir na introdução ou modificação das doses dos hipoglicemiantes e fazer exame oftalmológico anual ou mais frequente se indicado.",
@@ -492,8 +471,7 @@
    "Apta para qualquer categoria, sem restrições e sem redução do prazo do exame"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "Hipoglicemia grave há mais de 12 meses",
   "base": "Diretriz ABRAMET — Diabetes Mellitus e Risco na Direção Veicular (2004), item 6.1 e fluxograma",
   "coment": "A janela da diretriz é de 12 meses: inaptos temporariamente são os que apresentaram hipoglicemia grave, com perda de consciência, NOS ÚLTIMOS 12 MESES. O episódio ocorreu há 14 meses. Hoje ela é insulinizada, sob acompanhamento, bem controlada e sem eventos nos últimos 12 meses: poderá ser considerada apta para qualquer categoria, com diminuição do prazo de validade do exame (a base legal da redução é o art. 147, §4º, do CTB). Sem restrições e sem redução é só para quem não usa insulina. A inaptidão definitiva é reservada às formas graves e irreversíveis de micro, macroangiopatia e/ou neuropatia.",
@@ -515,8 +493,7 @@
    "No Anexo XV, que cria um código de restrição específico para o condutor em insulinoterapia"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "Diabetes na Resolução 927",
   "base": "Resolução CONTRAN nº 927/2022, Anexo I (pergunta 5) e Anexos VII, VIII, X e XV; Diretriz ABRAMET — Diabetes Mellitus e Risco na Direção Veicular (2004), item 1",
   "coment": "A Resolução 927 não tem anexo nem corte para diabetes. Nos critérios de exame, o diabetes aparece na pergunta 5 do questionário do Anexo I ('Você tem diabetes, epilepsia, doença cardíaca, neurológica, pulmonar ou outras?'), e a pergunta 1 (remédio ou tratamento) capta insulina e hipoglicemiantes. A decisão fica com o perito, orientada pela diretriz ABRAMET, que registra que o CONTRAN deixa aos peritos a incumbência de decidir. O Anexo VII é cardiológico, o VIII neurológico, o X de sono (SAOS para C, D e E na renovação, adição e mudança) e o XV lista as restrições A a X, sem código para insulina.",
@@ -538,8 +515,7 @@
    "Carboidrato de absorção rápida no veículo, evitar rodovias e exame cardiológico todo ano"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "Orientações ao diabético",
   "base": "Diretriz ABRAMET — Diabetes Mellitus e Risco na Direção Veicular (2004), fluxograma",
   "coment": "O fluxograma da diretriz lista três orientações: conservar permanentemente porções de alimentos ricos em carboidratos de absorção RÁPIDA em local de fácil acesso no veículo; evitar dirigir por ocasião da introdução ou modificação das doses dos medicamentos hipoglicemiantes; e submeter-se a exames oftalmológicos anualmente ou mais frequentemente, se houver indicação. Para o motorista profissional, somam-se a glicemia 1 hora antes e cerca de 4 horas após direção contínua, com corte de 70 mg/dl. A diretriz não limita horas de direção nem veda a direção noturna ou em rodovias.",
@@ -561,8 +537,7 @@
    "Apta com diminuição do prazo, pois o parecer favorável supre o tempo de diálise"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "DRC: início da diálise",
   "base": "Diretriz ABRAMET — Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), recomendação 3 e item 4",
   "coment": "Recomendação 3: 'Deverá ser considerado inapto temporário o portador de DRC que iniciou o tratamento dialítico há < 3 meses'. O texto fala em tratamento dialítico, sem distinguir hemodiálise de diálise peritoneal. A justificativa (item 4) é a maior frequência de intercorrências no início e a inabilidade do paciente recente para identificar e manejar os sinais adversos. O critério é o tempo, e o parecer favorável não o supre. Na diálise peritoneal, a diretriz pede na entrevista o período das trocas (diurno ou noturno) e a UF total; o acesso é o cateter de Tenckhoff.",
@@ -584,8 +559,7 @@
    "Prazo reduzido, nunca superior a 5 anos, pelo risco de hipoglicemia após a sessão"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "DRC: teto de validade",
   "base": "Diretriz ABRAMET — Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), recomendação 4 e nota; CTB, art. 147, §§ 2º e 4º",
   "coment": "Recomendação 4: o portador de DRC em diálise, com exame físico geral normal, parecer favorável do nefrologista, GPID igual ou menor que 4,5% e sem intercorrências (hipotensão, hipoglicemia, cãibras, arritmias, dor torácica, AVC) poderá ser apto para QUALQUER categoria, com diminuição do prazo de validade do exame, nunca superior a cinco anos. A nota explica: a vulnerabilidade do acesso vascular, que exige cuidados com a fístula antes, durante e após as sessões, recomenda renovação por prazo nunca superior a cinco anos. O teto só encurta de fato o prazo de quem tem menos de 50 anos (10 anos pelo CTB); a base legal da redução é o art. 147, §4º.",
@@ -607,8 +581,7 @@
    "Encaminhado à Junta Médica Especial, pois GPID no limite exige decisão colegiada"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "DRC: GPID no limite",
   "base": "Diretriz ABRAMET — Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), recomendações 4 e 6",
   "coment": "A recomendação 4 exige 'GPID = ou < 4,5%' para a aptidão; a recomendação 6 considera inapto temporário quem tem GPID MAIOR que 4,5%. Exatamente 4,5% está dentro do limite. Com os demais requisitos cumpridos (exame físico normal, parecer favorável, sem intercorrências), ele é apto para qualquer categoria, com diminuição do prazo, nunca superior a 5 anos. A diretriz reconhece que o GPID adequado não é consensual: o guideline europeu aceita no máximo 4 a 4,5% e o K/DOQI definiu 5%. O perito deve pesar o candidato e descontar 1,0 a 1,5 kg das roupas.",
@@ -630,8 +603,7 @@
    "Apto somente para a categoria B, pois o GPID acima de 4,5% restringe as categorias"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "DRC: GPID × K/DOQI",
   "base": "Diretriz ABRAMET — Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), item 1 e recomendação 6",
   "coment": "A diretriz cita as duas referências (guideline europeu: no máximo entre 4 e 4,5%; K/DOQI: 5%), mas adota a sua: aptidão com GPID igual ou menor que 4,5% (rec. 4) e inaptidão temporária com GPID maior que 4,5% (rec. 6). Com 4,8%, o resultado é inapto temporário, o que é reversível com a melhora da adesão ao tratamento dialítico (o GPID é 'importante fator para a avaliação da assiduidade ao tratamento'). Não há faixa de discricionariedade entre 4,5% e 5%, e a diretriz não restringe categoria nem declara inaptidão definitiva por GPID.",
@@ -653,8 +625,7 @@
    "Inapto definitivo, pois hipotensão e cãibras indicam DRC que não se compensa"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "DRC: intercorrências",
   "base": "Diretriz ABRAMET — Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), recomendações 4 e 6",
   "coment": "A recomendação 6 lista três portas alternativas para a inaptidão temporária do dialítico: parecer desfavorável do nefrologista, OU GPID > 4,5%, OU intercorrências como hipotensão arterial, hipoglicemia, cãibras, arritmias cardíacas, dor torácica e AVC. Basta uma. Simetricamente, a recomendação 4 exige para a aptidão, cumulativamente, exame físico normal, parecer favorável, GPID ≤ 4,5% e ausência dessas intercorrências. Hipotensão, hipoglicemia e cãibras são, na diretriz, os sintomas frequentes e mais graves da hemodiálise; arritmias, dor torácica e AVC, os graves.",
@@ -676,8 +647,7 @@
    "Permcath de longa data, que indica boa adesão e dispensa o relatório do nefrologista"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "DRC: pistas do acesso vascular",
   "base": "Diretriz ABRAMET — Portadores de Doença Renal Crônica Dialítica e Condução Veicular (2021), item 2 (Pontos relevantes na avaliação) e recomendação 3",
   "coment": "Na entrevista, a diretriz ensina a ler o acesso: fístula arteriovenosa = sinal de tratamento iniciado há mais tempo; cateter de duplo lúmen = principalmente sinal de tratamento recente (também usado em trocas transitórias de acesso); Permcath = tratamento mais antigo, geralmente oculto por curativo oclusivo; Tenckhoff = cateter abdominal da diálise peritoneal. O duplo lúmen importa porque sinaliza o candidato que pode estar nos primeiros 3 meses de diálise, período em que a recomendação 3 manda considerá-lo inapto temporário. O perito deve pesar todo dialítico para estimar o GPID.",
@@ -699,8 +669,7 @@
    "Frágil, e a diretriz manda encaminhá-lo obrigatoriamente à Junta Médica Especial"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "grupos",
+  "tema": "grupos",
   "sub": "Idoso: fragilidade autorreferida",
   "base": "Diretriz ABRAMET — O Condutor Idoso (2022), itens 7.2.1 e 9",
   "coment": "O instrumento de fragilidade autorreferida tem 5 componentes (perda de peso involuntária, fadiga, baixa atividade física, redução de força, redução da velocidade de marcha) e classifica: não frágil (zero), pré-frágil (1 a 2), frágil (3 ou mais). A diretriz o apresenta como instrumento de RASTREAMENTO, simples, rápido e de baixo custo. A diretriz não transforma a classificação em inaptidão automática: premissa dela é que a idade e um teste isolado não decidem, e que o idoso mantém a CNH enquanto puder dirigir com segurança. O resultado orienta a avaliação funcional (TUG, cognição, visão, locomotor).",
@@ -722,8 +691,7 @@
    "Levantar de cadeira de 45 cm, andar 3 m, girar, voltar e sentar, o mais rápido possível"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "grupos",
+  "tema": "grupos",
   "sub": "Idoso: técnica do TUG",
   "base": "Diretriz ABRAMET — O Condutor Idoso (2022), item 9 (TUG)",
   "coment": "Texto da diretriz: o candidato idoso fica sentado em cadeira normal (45 cm de altura), com o dorso apoiado no encosto e os braços relaxados sobre as coxas; levanta-se, caminha por uma linha reta demarcada no chão por 3 metros, gira, retorna e senta-se na mesma posição, na maior velocidade possível, com o tempo cronometrado. Leitura do tempo: até 10 s normal; 11 a 20 s normal para idosos frágeis; mais de 20 s anormal. Pelo quadro do NICE reproduzido: 21 a 29 s e 30 s ou mais exigem avaliação funcional obrigatória. Para risco de quedas em brasileiros, um estudo sugere 12,47 s.",
@@ -745,8 +713,7 @@
    "Inaptidão definitiva, pois qualquer TUG acima de 20 segundos veda a condução veicular"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "grupos",
+  "tema": "grupos",
   "sub": "Idoso: TUG pelo quadro do NICE",
   "base": "Diretriz ABRAMET — O Condutor Idoso (2022), item 9 (quadro do NICE)",
   "coment": "O quadro do NICE na diretriz tem quatro faixas: até 10 s, normal para adultos saudáveis, risco baixo; 11 a 20 s, normal para idosos frágeis que se mantêm independentes na maioria das atividades da vida diária, risco baixo; 21 a 29 s, avaliação funcional obrigatória e abordagem específica de prevenção de quedas, risco MODERADO; 30 s ou mais, a mesma conduta, risco ALTO. O texto da diretriz resume em três cortes (≤ 10 normal, 11–20 frágil, > 20 anormal). Em nenhum ponto o TUG sozinho gera inaptidão: a diretriz diz que marcha lenta com TUG longo 'pode ser um indicativo' de limitação.",
@@ -768,8 +735,7 @@
    "Mulher acima de 60 anos portadora de insuficiência cardíaca leve"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "grupos",
+  "tema": "grupos",
   "sub": "Idoso: morte súbita ao volante",
   "base": "Diretriz ABRAMET — O Condutor Idoso (2022), item 5.4 (Doenças crônicas)",
   "coment": "Item 5.4 da diretriz: doenças crônicas com possibilidade de contribuir para sinistros têm maior incidência nos idosos, afetando o nível de consciência (diabetes mellitus, doença cardiovascular e demências) e/ou o controle dos movimentos (AVC, doença de Parkinson e doenças articulares graves degenerativas). 'O risco maior de morte súbita na direção de veículos acomete o sexo masculino, com idade superior aos 60 anos, portadores de doença arterial coronariana (DAC)'. Essas condições devem ser bem avaliadas, e o perito deve determinar inaptidão temporária quando houver evidência de comprometimento da direção segura.",
@@ -791,8 +757,7 @@
    "Artrose cervical, osteoporose e sarcopenia avançada"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "grupos",
+  "tema": "grupos",
   "sub": "Idoso: doenças crônicas",
   "base": "Diretriz ABRAMET — O Condutor Idoso (2022), item 5.4 (Doenças crônicas)",
   "coment": "A diretriz divide as doenças crônicas do idoso que podem gerar sinistros em dois grupos: as que afetam o NÍVEL DE CONSCIÊNCIA (diabetes mellitus, doença cardiovascular e demências) e as que afetam o CONTROLE DOS MOVIMENTOS (acidente vascular cerebral, doença de Parkinson e doenças articulares degenerativas). A diretriz não traz ranking dessas doenças; o que está no texto é esse agrupamento e o perfil de maior risco de morte súbita (homem > 60 anos com doença arterial coronariana).",
@@ -814,8 +779,7 @@
    "Sim, mas só depois que a Junta Médica Especial confirmar a compensação clínica do quadro"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "Esquizofrenia: categoria B e EAR",
   "base": "Diretriz ABRAMET — Esquizofrenia e Direção Veicular (2021), item 3 e relatório padronizado (CID-10 F20)",
   "coment": "Satisfeitas as condições (seguimento regular com boa aderência há pelo menos 12 meses; ausência de surtos psicóticos ou internação nos últimos 6 meses; posicionamento favorável do assistente), o resultado preconizado é aptidão SOMENTE para a categoria B, com validade de 1 a 2 anos na primeira habilitação e de 1 a 3 anos nas renovações. O próprio relatório pede parecer 'ao ato de dirigir veículos automotores da categoria B do CTB (veículos de passeio, táxi, uber, caminhonetes)'. A diretriz limita a categoria, não a atividade remunerada dentro da B. Para quem exerce atividade remunerada, o CTB (art. 147, §3º) já exige avaliação psicológica em todo exame.",
@@ -837,8 +801,7 @@
    "Foi revogada pela Lei nº 14.071/2020, que levou o exame psíquico para o texto do CTB"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "Esquizofrenia: norma citada revogada",
   "base": "Resolução CONTRAN nº 927/2022, art. 4º, II, 'b', e art. 31, I; Diretriz ABRAMET — Esquizofrenia e Direção Veicular (2021), item 3",
   "coment": "O art. 31, I, da Resolução CONTRAN nº 927/2022 revogou a Resolução nº 425/2012. O conteúdo citado pela diretriz foi mantido no mesmo lugar: art. 4º, II, 'b', da 927, segundo o qual, no exame físico geral, o perito observa comportamento e atitude frente ao examinador, humor, aparência, fala, contactuação e compreensão, perturbações da percepção e atenção, orientação, memória e concentração, controle de impulsos e indícios do uso de substâncias psicoativas. A diretriz de esquizofrenia é de 2021, anterior à 927. Alternativa que dê a 425 como vigente está errada; a 1.020/2025 revogou a 789/2020, outra norma.",
@@ -860,8 +823,7 @@
    "Ambos por volta de 18 a 25 anos, sem diferença entre os sexos no curso e na evolução final"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "Esquizofrenia: início e evolução",
   "base": "Diretriz ABRAMET — Esquizofrenia e Direção Veicular (2021), item 1 (Introdução)",
   "coment": "A diretriz descreve o início da esquizofrenia no fim da adolescência ou início da vida adulta, mais cedo entre os homens (em torno dos 18 aos 25 anos) do que nas mulheres (por volta dos 25 aos 35 anos), e registra que, no curso e na evolução da doença, as mulheres tendem a apresentar melhor desempenho. Esses dados entram na prova como contexto; o que decide a aptidão são os três requisitos do relatório (aderência há 12 meses, sem surto ou internação em 6 meses, parecer favorável), com resultado somente na categoria B e validade de 1–2 anos na primeira habilitação e 1–3 anos nas renovações.",
@@ -883,8 +845,7 @@
    "Apto com o prazo normal do CTB, pois o déficit leve não tem repercussão na direção"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TEA: déficit intelectual leve",
   "base": "Diretriz ABRAMET — Transtorno do Espectro Autista e Habilitação, item 'Do resultado'",
   "coment": "A diretriz lista as condições que tornam o candidato com TEA inapto (basta uma): déficit intelectual MODERADO OU GRAVE; disfunções que possam afetar a tomada de decisões, o processamento de informações e a atenção; dificuldades para lidar com as multitarefas da direção segura. Déficit intelectual leve não está na lista. Na ausência dessas condições, o candidato poderá ser considerado apto, com diminuição do prazo de validade do exame, a critério do perito, e a avaliação psicológica deverá ser exigida na permissão para dirigir e em todas as renovações. Havendo crises convulsivas, seguem-se a diretriz de epilepsia e a Resolução 927.",
@@ -906,8 +867,7 @@
    "Neurologista ou psiquiatra, de preferência o assistente; se há deficiência intelectual grave"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TEA: relatório padronizado",
   "base": "Diretriz ABRAMET — Transtorno do Espectro Autista e Habilitação, item 'Exame de aptidão física e mental' e relatório (CID-10 F84)",
   "coment": "Ao candidato que informar TEA no questionário ou na anamnese, ou quando o perito constatar indícios, será solicitado relatório padronizado a ser preenchido por neurologista ou psiquiatra, preferencialmente o que assiste o candidato. O relatório (CID-10 F84) traz tipo/característica, tratamento (medicação e terapias), especialidade e tempo de acompanhamento e uma única pergunta de opinião: 'O paciente demonstra dificuldades para lidar com multitarefas, necessárias para uma direção veicular segura?'. A resposta sim é uma das causas de inaptidão. O relatório de TEA, ao contrário do de TDAH e esquizofrenia, não tem campo de parecer favorável.",
@@ -929,8 +889,7 @@
    "10 anos, prazo do CTB, pois a comorbidade pertinente não altera a validade do exame"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TDAH: prazo com comorbidade",
   "base": "Diretriz ABRAMET — TDAH e Condução de Veículos Automotores (2023), item 15 (fluxograma)",
   "coment": "O fluxograma (item 15) tem duas caixas de prazo para o apto: condutores ACC, A e B: 2 anos na 1ª aprovação e igual ou menor que 5 anos a cada renovação; condutores ACC, A e B COM COMORBIDADES PERTINENTES AO TDAH e condutores C, D e E: 2 anos na 1ª aprovação e 3 anos a cada renovação. Pegadinha: esquecer o grupo com comorbidade; o fluxograma escreve '3 anos a cada renovação' e põe ACC/A/B com comorbidade na mesma caixa de C, D e E. Inapto: sem medicação, sem aderência, parecer desfavorável ou ocorrência grave de trânsito nos últimos 12 meses.",
@@ -952,8 +911,7 @@
    "10 anos, pois depois da primeira aprovação o prazo volta ao normal do CTB"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TDAH: prazo na categoria A",
   "base": "Diretriz ABRAMET — TDAH e Condução de Veículos Automotores (2023), item 15 (fluxograma)",
   "coment": "Pelo fluxograma da diretriz de TDAH, o apto das categorias ACC, A e B sem comorbidade pertinente tem 2 anos na 1ª aprovação e prazo igual ou menor que 5 anos a cada renovação. A categoria A está nessa caixa, junto com ACC e B. A caixa de 3 anos a cada renovação é para ACC/A/B com comorbidades pertinentes e para C, D e E. Diferente da esquizofrenia, da EM e do Parkinson, a diretriz de TDAH não restringe a categoria: o medicado, aderente e com parecer favorável pode ser apto de ACC a E. Quem não usa medicação ou teve ocorrência grave de trânsito nos últimos 12 meses é inapto.",
@@ -975,8 +933,7 @@
    "Nenhuma redução, pois o estimulante só melhora a atenção"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TDAH: efeito do tratamento",
   "base": "Diretriz ABRAMET — TDAH e Condução de Veículos Automotores (2023), item sobre tratamento farmacológico",
   "coment": "A diretriz afirma que o tratamento farmacológico é intervenção eficaz para condutores com TDAH: melhora habilidades básicas da condução, reduz falhas de atenção e impulsividade e diminui o envolvimento em sinistros. Com sais de anfetamina (50 mg/dia) houve melhora em simulador, e 'quando submetidos a eventos inesperados nas vias, condutores com TDAH medicados apresentam quase 70% menor probabilidade de se envolver em um sinistro automobilístico'. Por isso o médico do tráfego deve alertar para o alto risco de dirigir sem tratamento, e o fluxograma leva a inapto quem não usa medicação. Os 36% são o aumento de risco numa coorte de jovens com TDAH, outro dado.",
@@ -998,8 +955,7 @@
    "A cada 3 anos, prazo da diretriz para os estágios 2 e 3 após a Junta Médica"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Parkinson: HY 2 após a JME",
   "base": "Diretriz ABRAMET — Preditores Clínicos de Aptidão para Dirigir na Doença de Parkinson, recomendação 4 e fluxograma",
   "coment": "Recomendação 4: se o relatório padronizado do neurologista constatar estágios HY 2 ou 3, o candidato deverá ser considerado INAPTO TEMPORÁRIO e encaminhado à Junta Médica Especial, avaliado segundo a NBR 14.970 da ABNT, 'e, no caso de aptidão, a reavaliação do EAFM deverá ser igual ou inferior a 2 anos'. HY 1: apto somente categoria B, reavaliação nunca superior a 2 anos. HY 4 ou 5: inapto. A diretriz justifica o rigor com a evidência de risco significativamente aumentado de sinistro nos estágios 2 e 3 de HY, não constatada no estágio 1. O tempo de transição entre estágios pode orientar o prazo.",
@@ -1021,8 +977,7 @@
    "Estágios 2 e 3; a evidência não foi constatada no estágio 1"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Parkinson: risco por estágio",
   "base": "Diretriz ABRAMET — Preditores Clínicos de Aptidão para Dirigir na Doença de Parkinson, seção 'Escala de Hoehn & Yahr'",
   "coment": "A diretriz afirma que a gravidade dos sintomas pela escala HY é fator de risco para sinistros e que a capacidade de dirigir pode estar prejudicada mesmo nos estágios iniciais, mas precisa: 'Pessoas com DP nos estágios 2 e 3 de HY apresentam risco significativamente aumentado de sinistro automobilístico, evidências não constatadas para pessoas com DP no estágio 1 de HY'. Isso explica a conduta: HY 1 apto somente categoria B, reavaliação ≤ 2 anos; HY 2 ou 3 inapto temporário e JME; HY 4 ou 5 inapto. A escala modificada tem 7 pontos (acrescentou 1,5 e 2,5).",
@@ -1044,8 +999,7 @@
    "O Mini-Cog, ao lado da avaliação do aparelho locomotor"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Parkinson: rastreio cognitivo",
   "base": "Diretriz ABRAMET — Preditores Clínicos de Aptidão para Dirigir na Doença de Parkinson, fluxograma (Pessoa com doença de Parkinson)",
   "coment": "O fluxograma da diretriz de Parkinson manda o médico do tráfego observar comportamento e atitude, humor, aparência, fala, compreensão, percepção, atenção, orientação, memória, concentração e controle de impulsos, aplicar o teste de rastreio cognitivo Mini-Cog e avaliar o aparelho locomotor. A escala de Hoehn & Yahr vem no relatório padronizado do NEUROLOGISTA, não é aplicada pelo perito. O SDMT é o padrão-ouro da triagem cognitiva na esclerose múltipla, e o ACE-R aparece na diretriz de esquizofrenia: trocar os testes entre as diretrizes é a pegadinha.",
@@ -1067,8 +1021,7 @@
    "Prova de exame motor; a dinamometria e a coordenação definem a aptidão na doença"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Esclerose múltipla: sigla PEM",
   "base": "Diretriz ABRAMET — Avaliação de Candidatos e Condutores com Esclerose Múltipla, Objetivo e item 8",
   "coment": "No objetivo da diretriz: 'estabelecer procedimentos a serem adotados na avaliação de Pessoas com Esclerose Múltipla (PEM) por ocasião do Exame de Aptidão Física e Mental'. Ao candidato que informar ser PEM, ou quando o perito constatar evidência, deverão ser solicitados: teste de triagem validado para a avaliação cognitiva de PEM (Tabela 1: SDMT como padrão-ouro, testes de memória, PST, CSCT, MSNQ, BICAMS, MACFIMS) e relatório padronizado ao neurologista com o score EDSS. MEEM e Mini-Cog não são suficientemente sensíveis nem específicos para os domínios afetados pela EM. PEM não significa 'parecer'.",
@@ -1090,8 +1043,7 @@
    "Inapto, pois a diretriz considera inapto quem tem EDSS igual ou superior a 7,0"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Esclerose múltipla: EDSS 7,0",
   "base": "Diretriz ABRAMET — Avaliação de Candidatos e Condutores com Esclerose Múltipla, item 8, recomendações 1 a 3",
   "coment": "Recomendações do item 8: (1) apto, somente categoria B, validade igual ou inferior a 2 anos: triagem cognitiva normal e EDSS INFERIOR a 3,5; (2) encaminhar à Junta Médica Especial (NBR 14.970 e protocolos ABRAMET): triagem normal e EDSS IGUAL OU SUPERIOR a 3,5 e INFERIOR a 7,0; (3) inapto: triagem positiva e/ou EDSS IGUAL OU SUPERIOR a 7,0. O 7,0 exato cai na linha 3. Na EDSS, 7 corresponde ao uso de cadeira de rodas. O texto é '≥ 7,0', não '> 7'. O 'e/ou' também significa que a triagem positiva sozinha já reprova.",
@@ -1113,8 +1065,7 @@
    "É pontuado de forma objetiva pela EDSS, que por isso dispensa a triagem cognitiva à parte"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Esclerose múltipla: cognição",
   "base": "Diretriz ABRAMET — Avaliação de Candidatos e Condutores com Esclerose Múltipla, itens 1 e 3 (Déficits cognitivos) e item 5 (EDSS)",
   "coment": "A diretriz afirma que o comprometimento cognitivo pode ocorrer nas fases iniciais da EM, mesmo na ausência de outros déficits neurológicos, e que até 70% das PEM podem ser afetadas (atenção, velocidade de processamento, aprendizagem, memória, execução de tarefas). O mais grave é observado na forma secundariamente progressiva. MEEM e Mini-Cog não são suficientemente sensíveis e específicos para a EM; o SDMT é o padrão-ouro. A EDSS valoriza muito a capacidade motora e não pontua objetivamente a cognição, por isso a triagem cognitiva é exigida à parte. Os 23% são as PEM que cessam a condução após o diagnóstico.",
@@ -1136,8 +1087,7 @@
    "Epilepsia em uso de fármaco anticrise, sem crises há mais de cinco anos"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "neuro",
+  "tema": "neuro",
   "sub": "Box 'somente categoria B'",
   "base": "Diretriz ABRAMET — TDAH e Condução de Veículos Automotores (2023), item 15; Diretriz ABRAMET — Esquizofrenia e Direção Veicular (2021), item 3; Diretriz ABRAMET — Avaliação de Candidatos e Condutores com Esclerose Múltipla, item 8; Diretriz ABRAMET — Preditores Clínicos de Aptidão para Dirigir na Doença de Parkinson, recomendação 3; Diretriz ABRAMET — Epilepsia, 2025, item 2",
   "coment": "Ficam somente na categoria B: esquizofrenia, esclerose múltipla, Parkinson e também a epilepsia em uso de fármaco (12 meses sem EAR, 5 anos com EAR; inapto nas demais), e a única saída é a epilepsia 'resolvida'. Esquizofrenia: aptidão somente para a categoria B. EM: apto somente categoria B com EDSS < 3,5 (e a Tabela 2 de adaptações só prevê a B). Parkinson: estágio inicial e HY 1, apto somente categoria B. Já o TDAH medicado, aderente e com parecer favorável é apto de ACC a E pelo fluxograma, como o TEA sem as condições de inaptidão, o diabético insulinizado controlado e o dialítico compensado.",

@@ -9,8 +9,7 @@
    "Sexo, escolaridade, renda familiar, tempo de reação e experiência prévia em sinistros"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: fatores modificadores",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 4",
   "coment": "O item 4 da diretriz de 2025 (Fatores modificadores da tolerância humana a impactos) abre com a frase-chave: a tolerância varia conforme idade, sexo, fragilidade óssea, uso de dispositivos de segurança e condições de saúde. Em seguida detalha cada um: idosos com maior rigidez torácica e fragilidade costal; crianças com menor capacidade de absorver energia; cinto, capacete e retenção infantil distribuindo as forças; e doenças crônicas (osteoporose, cardiovasculares, neurológicas, sarcopenia, distúrbios de mobilidade ou tônus) reduzindo a capacidade de dissipar energia. Massa do veículo e pavimento mudam a energia do sinistro, não a tolerância do corpo.",
@@ -32,8 +31,7 @@
    "Pelo uso do cinto do próprio veículo, projetado para adultos, já a partir dos quatro anos"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: crianças",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 4",
   "coment": "No item 4, a diretriz de 2025 diferencia os dois extremos de idade. Crianças apresentam menor capacidade de absorção de energia devido à elasticidade reduzida dos tecidos e à menor massa corporal. Idosos apresentam maior rigidez torácica, fragilidade costal e menor tolerância a cargas compressivas. A prova pode trocar as descrições entre os grupos. O uso de sistemas de retenção infantil, ao lado do cinto e do capacete, aumenta a sobrevivência por distribuir as forças sobre regiões mais resistentes. Osteoporose e sarcopenia estão entre as doenças crônicas que reduzem a tolerância, citadas para adultos.",
@@ -55,8 +53,7 @@
    "Maior rigidez torácica e fragilidade costal, com menor tolerância a cargas compressivas"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: idosos",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 4",
   "coment": "O item 4 da diretriz de 2025 atribui aos idosos maior rigidez torácica, fragilidade costal e menor tolerância a cargas compressivas. A diretriz também cita, entre as condições de saúde que reduzem a tolerância, a osteoporose e a sarcopenia, frequentes nessa idade. Na parte de implicações para o médico do tráfego (item 12), idosos frágeis e pessoas com osteoporose aparecem entre os que têm menor margem de segurança, o que fundamenta reduzir o prazo do exame e aplicar restrições. A menor absorção por elasticidade reduzida e menor massa é a explicação dada para as crianças.",
@@ -78,8 +75,7 @@
    "Código F, uso obrigatório de direção hidráulica ou elétrica"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Tolerância a impactos: restrição T",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 12; Res. CONTRAN nº 927/2022, Anexo XV",
   "coment": "No item 12, a diretriz afirma que o conceito de tolerância humana a impactos orienta o médico a adequar a velocidade do veículo à vulnerabilidade do condutor e destaca a restrição 'Vedado dirigir em rodovias e vias de trânsito rápido' (código T do Anexo XV da Res. 927), cuja aplicação passa a ser cientificamente justificada quando a capacidade de reação, a resistência ao impacto ou a integridade funcional estão comprometidas. A mesma seção fundamenta limitar a habilitação à categoria B sem atividade remunerada e reduzir o prazo do exame (CTB, art. 147, §4º). O código U trata da visão noturna e do ofuscamento.",
@@ -101,8 +97,7 @@
    "A chance de morte cai à metade com o capacete"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: 40 a 50 km/h",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 5.2",
   "coment": "O item 5.2 (motociclistas e ciclistas) afirma que, mesmo em velocidades consideradas moderadas (40 a 50 km/h), a probabilidade de lesões fatais ultrapassa 60% em colisões laterais ou frontais envolvendo pedestres e motociclistas, porque a energia é dissipada quase integralmente no corpo da vítima. Não confundir com a curva do pedestre (item 2.1: morte de 35% a 40 km/h e 80% a 50 km/h) nem com o ocupante com cinto, que a OMS (2004) considera protegido até 70 km/h frontal e 50 km/h lateral. A frase dos 60% fala de usuários vulneráveis, não de ocupantes de carro.",
@@ -124,8 +119,7 @@
    "De 8 a 10 vezes maior, pela projeção do corpo com o dobro da velocidade que o veículo tinha"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: ejeção",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 3",
   "coment": "No item 3, a diretriz de 2025 afirma que, sem retenção, o ocupante é projetado para fora com a mesma velocidade inicial do veículo e sofre impactos extremos contra o solo ou obstáculos. As vítimas ejetadas têm risco de morte 3 a 5 vezes maior do que os ocupantes retidos, pela combinação de excesso de velocidade, múltiplos impactos e ausência de dissipação controlada da energia; a ejeção é um dos cenários de maior letalidade. A diretriz de cinto (2022) complementa: cerca de metade da eficácia do cinto vem de impedir a ejeção. O corpo sai com a mesma velocidade do veículo, não com o dobro.",
@@ -147,8 +141,7 @@
    "Cerca de 35% no mundo, 28% nos países de baixa e média renda e 54% nos de alta renda"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Tolerância a impactos: velocidade nas mortes",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 6 (citando o Relatório Global da OMS 2023)",
   "coment": "O item 6 traz a estimativa de que o excesso de velocidade contribui para aproximadamente 54% das mortes no trânsito no mundo, 57% em países de baixa e média renda e 28% em países de alta renda; a diretriz atribui a diferença a padrões de fiscalização, infraestrutura, frota e comportamento. A mesma seção diz que até 60% das mortes estão associadas, direta ou indiretamente, ao excesso de velocidade, que a proporção de sinistros fatais ligados à velocidade diminui com a idade do condutor e que homens jovens são o grupo de maior incidência. Os números 10, 15 e 20% são do modelo de Nilsson (+5% de velocidade).",
@@ -170,8 +163,7 @@
    "Acima de 15 g"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: trauma torácico",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 3.3",
   "coment": "No item 3.3 (trauma torácico), a diretriz afirma que desacelerações superiores a 30 g, mesmo em intervalos curtos, estão associadas à ruptura da aorta, fraturas de arcos costais e contusões pulmonares extensas, especialmente quando há deformação significativa do compartimento dianteiro do veículo. Impactos frontais e oblíquos estão entre as principais causas de lesão torácica grave, e os impactos oblíquos e laterais transmitem energia de forma assimétrica ao tórax e ao mediastino. Outros limiares do mesmo item: 2,5 a 5 kJ para a coluna toracolombar (3.2) e forças acima de 5 kN para fraturas de fêmur e pelve (3.5).",
@@ -193,8 +185,7 @@
    "Aumenta 8 vezes, porque cresce com o cubo da velocidade do veículo"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: energia cinética",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 3 (e objetivo)",
   "coment": "O item 3 apresenta a equação da energia cinética (Ec = m·v²/2) e conclui que a energia cresce com o quadrado da velocidade, de modo que dobrar a velocidade quadruplica a energia liberada no impacto. Essa energia é parcialmente absorvida pela deformação do veículo e pelos dispositivos de segurança, mas uma parcela significativa chega aos ocupantes e aos usuários vulneráveis. A quarta potência é outra coisa: o modelo de Nilsson (item 6) diz que o risco relativo de MORTE cresce aproximadamente com a quarta potência da velocidade média. A prova pode trocar energia (quadrado) e risco de morte (quarta potência).",
@@ -216,8 +207,7 @@
    "Queda de quase 50% no risco de sinistros fatais e com ferimentos graves"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Tolerância a impactos: redução da velocidade",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 10 (citando OMS, Managing Speed, 2017)",
   "coment": "No item 10 (tendências internacionais), a diretriz cita a OMS: uma redução de 15% na velocidade média pode diminuir em quase 50% o risco de sinistros fatais e com ferimentos graves nas colisões em velocidades excessivas. Pequenas reduções geram grandes ganhos, o mesmo raciocínio do modelo de Nilsson (item 6), em que +5% de velocidade média eleva em cerca de 10% os sinistros, 15% os feridos graves e 20% as mortes. Os radares das rodovias federais brasileiras (2011 a 2018) reduziram cerca de 5% os sinistros e 0,9% as mortes (item 11). A diretriz lembra ainda experiências de zonas 30 e radares de trecho.",
@@ -239,8 +229,7 @@
    "Exigir relatório do reumatologista e exame toxicológico antes de emitir o resultado"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Tolerância a impactos: implicações periciais",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 12; CTB, art. 147, §4º; Res. CONTRAN nº 927/2022, Anexo XV",
   "coment": "O item 12 lista entre os que têm menor margem de segurança os idosos frágeis e as pessoas com osteoporose, e o item 4 inclui osteoporose e sarcopenia entre as doenças que reduzem a tolerância ao impacto. A diretriz afirma que esse conhecimento fundamenta: habilitação limitada à categoria B sem atividade remunerada; redução do prazo de renovação do exame, conforme o §4º do art. 147 do CTB, para acompanhar doenças crônicas; e a restrição T (vedado dirigir em rodovias e vias de trânsito rápido), que passa a ser cientificamente justificada. Osteoporose não é, por si, deficiência física que leve à Junta Médica Especial.",
@@ -262,8 +251,7 @@
    "De 0,5 a 0,8 segundo, reduzido à metade quando há airbag no veículo"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "protecao",
+  "tema": "protecao",
   "sub": "Tolerância a impactos: tempo de reação",
   "base": "Diretriz ABRAMET Tolerância humana a impactos: implicações para a segurança viária (elaboração final 25/11/2025), item 2.2",
   "coment": "O item 2.2 (tempo de reação e distância de frenagem) afirma que, em média, o tempo de reação humana é de 1,0 a 1,5 segundo, variando conforme idade, fadiga, atenção e consumo de substâncias psicoativas; o item 6 fala em tempo médio fisiológico de cerca de 1 segundo. A distância total de parada soma a distância percorrida no tempo de reação e a de frenagem e cresce de forma exponencial: 18 m a 30 km/h, 28 m a 40, 41 m a 50, 58 m a 60 e 86 m a 80 km/h. Os 3 segundos (pós-chamada) e os 4,5 segundos (digitar) são números da diretriz de celular.",
@@ -285,8 +273,7 @@
    "Operacional visual, por desviar o olhar da pista à frente"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "FAC: fator psicológico",
   "base": "Diretriz ABRAMET Riscos do uso do telefone celular na condução de veículos automotores (elaboração final 26/04/2021), item 2 (Fatores não operacionais, A)",
   "coment": "A diretriz organiza os fatores que propiciam falhas de atenção ao conduzir (FAC) em operacionais (manusear o aparelho, apoiá-lo entre cabeça e ombro; viva-voz e bluetooth liberam as mãos mas não são substancialmente mais seguros) e não operacionais, estes divididos em A) psicológicos e B) cognitivos. O psicológico é o efeito perturbador da conversa: nada se pode fazer para diminuí-lo, o curso da conversa é imprevisível e colóquios com emoção ou afeto alteram a capacidade de conduzir. O cognitivo é a atividade mental que continua após a chamada, com risco em média por 3 segundos após enviar uma mensagem.",
@@ -308,8 +295,7 @@
    "Troca o risco operacional pelo psicológico, sem efeito sobre a visão lateral"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "FAC: fator operacional",
   "base": "Diretriz ABRAMET Riscos do uso do telefone celular na condução de veículos automotores (elaboração final 26/04/2021), item 2 (Fatores operacionais)",
   "coment": "Nos fatores operacionais, a diretriz afirma que manusear o aparelho prejudica a condução mesmo em veículos com transmissão automática e que colocá-lo entre a cabeça e o ombro mantém o risco, porque dificulta a mobilidade da cabeça e prejudica o campo visual do motorista. Os sistemas integrados (viva-voz, bluetooth, comandos no volante) permitem manter as duas mãos no volante e minimizam a distração manual, mas não são substancialmente mais seguros, pois o uso do celular traz risco substancial independentemente do modo. Pelo CTB, usar o celular, até no viva-voz, é infração média (art. 252, VI).",
@@ -331,8 +317,7 @@
    "Não operacional cognitivo; o veículo percorre cerca de 41 metros sob esse efeito"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "FAC: fator cognitivo",
   "base": "Diretriz ABRAMET Riscos do uso do telefone celular na condução de veículos automotores (elaboração final 26/04/2021), item 2 (Fatores não operacionais, B)",
   "coment": "Nos fatores não operacionais, a diretriz descreve em B) cognitivos: a conversa mantém atividade mental direcionada à chamada mesmo após o seu término, permanecendo o risco de sinistro em média por 3 segundos após o envio de uma mensagem; a 100 km/h, o veículo percorre mais de 90 metros sob o 'efeito pós-chamada'. O mesmo item traz o estudo de ressonância funcional: a ativação do lobo parietal ligada ao processamento espacial caiu 37% na dupla tarefa. O grupo psicológico (A) é o do efeito perturbador da conversa. O operacional é o manuseio do aparelho.",
@@ -354,8 +339,7 @@
    "Ambas gravíssimas, porque a Lei nº 13.281/2016 fundiu os incisos V e VI do art. 252"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Celular: enquadramento no CTB",
   "base": "Diretriz ABRAMET Riscos do uso do telefone celular na condução de veículos automotores (elaboração final 26/04/2021), item 5; CTB, art. 252, V, VI e parágrafo único (Lei nº 13.281/2016)",
   "coment": "O art. 252, VI, do CTB pune dirigir 'utilizando-se de fones nos ouvidos conectados a aparelhagem sonora ou de telefone celular', infração média. A diretriz explica que o inciso abrange duas condutas: fones nos ouvidos (havendo conexão a aparelhagem sonora, ainda que virtual, por bluetooth) e uso de telefone celular (com fone, na mão, no ombro ou até no viva-voz). Desde 1º/11/2016 (Lei 13.281), se o celular é usado para enviar mensagem ou ler informações, a conduta sai do inciso VI e vai para o inciso V (dirigir com apenas uma das mãos), com o parágrafo único que a torna gravíssima quando o condutor segura ou manuseia o aparelho.",
@@ -377,8 +361,7 @@
    "A diretriz afirma que o sexo não interfere no risco das falhas de atenção"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "FAC: prevalência por sexo",
   "base": "Diretriz ABRAMET Riscos do uso do telefone celular na condução de veículos automotores (elaboração final 26/04/2021), item 3",
   "coment": "No item 3 (prevalência das FAC pelo uso do celular), a diretriz afirma que as mulheres, em comparação com os homens, ao dirigirem distraídas são mais propensas a se envolver em sinistros de trânsito. O mesmo item traz: uso mais prevalente à tarde e à noite e abaixo dos 30 anos; faixas que mais se distraem 20 a 29 anos (35%), 30 a 39 (22%) e 40 a 49 (15%); cerca de 2/3 dos motoristas de 18 a 64 anos falaram ao celular dirigindo no último mês; e 70% acham que celular e direção não combinam, mas só 20% se privam. Não confundir com velocidade: na diretriz de tolerância, os homens jovens lideram o excesso de velocidade.",
@@ -400,8 +383,7 @@
    "Art. 14, V: em todo recurso contra decisão das JARI sobre as multas de trânsito"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: base no CTB",
   "base": "CTB, art. 14, XI (incluído pela Lei nº 9.602/1998); Res. CONTRAN nº 927/2022, art. 15",
   "coment": "O art. 14, XI, do CTB (incluído pela Lei 9.602/1998) dá ao CETRAN e ao CONTRANDIFE a competência de designar, em caso de recursos deferidos e na hipótese de reavaliação dos exames, junta especial de saúde para examinar os candidatos. A Res. 927 regulamenta: mantida a inaptidão permanente pela Junta Médica, cabe recurso ao Conselho em 30 dias (art. 13), que designa a Junta Especial de Saúde, com no mínimo três médicos, dois especialistas em Medicina de Tráfego (art. 15). O inciso VI é outra competência: indicar um representante para a comissão que examina candidatos com deficiência física. O inciso V, 'b', dá ao CETRAN o julgamento dos recursos de inaptidão permanente.",
@@ -423,8 +405,7 @@
    "Quando o candidato pedir as categorias C, D ou E, pela maior exposição"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "Juntas: JME na doença de Parkinson",
   "base": "Diretriz ABRAMET Doença de Parkinson e direção veicular (elaboração final 20/05/2022), avaliação no EAFM; Res. CONTRAN nº 927/2022, art. 4º, §§1º e 2º",
   "coment": "A diretriz aplica à doença de Parkinson a regra da Res. 927 (art. 4º, §§1º e 2º, que manda à Junta Médica Especial o candidato com deficiência física): constatada deficiência física motora que impeça a dirigibilidade de um veículo automotor convencional, o EAFM do candidato com doença de Parkinson deve ser feito por Junta Médica Especial designada pelo Diretor do órgão executivo estadual, seguindo a NBR 14.970, Parte 2; dúvidas sobre o veículo adaptado se resolvem na prova prática (Parte 3). Nas recomendações: deficiência motora leve, apto só B com reavaliação a cada 2 anos; moderada, relatório do neurologista; HY 1 apto na B (até 2 anos); HY 2 ou 3 inapto temporário e encaminhado à JME; HY 4 ou 5, inapto.",
@@ -446,8 +427,7 @@
    "Morfina, codeína e mazindol"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Toxicológico: opiáceos",
   "base": "Resolução CONTRAN nº 923/2022, Anexo I (níveis de corte)",
   "coment": "O Anexo I da Res. 923 lista os grupos da triagem e os analitos da confirmação, com os cortes em ng/mg de cabelo, pelo ou unha. Opiáceos: corte de 0,2 na triagem, confirmados por morfina, codeína e heroína (0,2 cada). Os demais grupos: anfetaminas (anfetamina, metanfetamina, MDA, MDMA, anfepramona, femproporex), mazindol (grupo próprio, 0,5), canabinoides (THC ou THC-COOH na triagem; THC-COOH na confirmação) e cocaína (cocaína; benzoilecgonina, cocaetileno e norcocaína). Benzodiazepínicos, álcool e opioides sintéticos como fentanil e tramadol não constam. O exame é exigido de C, D e E e, desde a Lei 15.153/2025, na 1ª habilitação A e B.",
@@ -469,8 +449,7 @@
    "Cocaína, benzoilecgonina, cocaetileno e norcocaína"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Toxicológico: cocaína",
   "base": "Resolução CONTRAN nº 923/2022, Anexo I (níveis de corte), observação 2",
   "coment": "No Anexo I, a cocaína tem corte de 0,5 ng/mg na triagem e é confirmada por cocaína (0,5) e pelos metabólitos benzoilecgonina, cocaetileno e norcocaína (0,05 cada). A observação 2 do anexo exige, para resultado positivo, pelo menos um desses componentes em no mínimo 0,05 ng/mg e, quando a benzoilecgonina é o único metabólito, relação benzoilecgonina/cocaína de pelo menos 0,05. Anfepramona, femproporex, MDMA e metanfetamina pertencem ao grupo das anfetaminas; morfina, aos opiáceos; THC-COOH, aos canabinoides.",
@@ -492,8 +471,7 @@
    "Triagem pelo THC-COOH; confirmação pelo THC na saliva do condutor"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Toxicológico: canabinoides",
   "base": "Resolução CONTRAN nº 923/2022, Anexo I (níveis de corte)",
   "coment": "O Anexo I da Res. 923 prevê, para canabinoides, triagem com corte de 0,1 ng/mg para THC ou 0,001 ng/mg para THC-COOH, e confirmação pelo carboxi-THC (THC-COOH), com corte de 0,0002 ng/mg. A matriz é queratínica (cabelo, pelos ou unhas), com janela retrospectiva mínima de 90 dias; o exame vale 90 dias da coleta. O canabidiol não é analito. A diretriz ABRAMET de medicamentos (MPPCVA, 2023) lembra que o THC é o canabinoide psicoativo que prejudica a condução e que 3,8 ng/mL de THC no soro prejudicam tanto quanto 0,5 g/L de alcoolemia; quem usa cannabis medicinal lícita corre risco de condenação criminal pela presença de THC.",
@@ -515,8 +493,7 @@
    "Pedir só a avaliação psicológica, que no TEA substitui o relatório do médico assistente"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TEA: quando pedir o relatório",
   "base": "Diretriz ABRAMET Transtorno do espectro autista (TEA) e habilitação, itens do relatório e do resultado",
   "coment": "A diretriz manda solicitar o relatório padronizado, preenchido por neurologista ou psiquiatra, preferencialmente o que assiste o candidato, em duas hipóteses: quando o candidato informa no questionário ou na anamnese pertencer ao espectro, e quando o médico do tráfego constata indícios que possam sugerir o diagnóstico. Com o relatório, é inapto quem tem déficit intelectual moderado ou grave, disfunções que afetem decisão, processamento de informações e atenção, ou dificuldade com multitarefas; crises convulsivas seguem a norma de epilepsia; fora disso, apto com prazo reduzido. A avaliação psicológica é exigida na permissão e em todas as renovações.",
@@ -538,8 +515,7 @@
    "Encaminhá-lo à Junta Médica Especial para avaliação pela NBR 14.970"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TEA: crises convulsivas",
   "base": "Diretriz ABRAMET Transtorno do espectro autista (TEA) e habilitação, Do resultado",
   "coment": "Na seção 'Do resultado', a diretriz diz que, no caso de episódios convulsivos, o médico especialista em medicina do tráfego deverá se reportar às condições previstas na diretriz e na Resolução do CONTRAN que dispõe sobre o exame de aptidão física e mental, isto é, aos critérios de epilepsia, hoje os da diretriz ABRAMET de epilepsia de 2025, que prevalece sobre o Anexo VIII da Res. 927 nos critérios clínicos. A mesma diretriz lembra que a prevalência de epilepsia no TEA varia de 7 a 42%, contra cerca de 1% na população geral, e deve ser sempre considerada. As crises não tornam o candidato automaticamente inapto nem o mandam à JME.",
@@ -561,8 +537,7 @@
    "Pode ser apto, pois a diretriz não limita a categoria, com prazo reduzido"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "TEA: categoria e prazo",
   "base": "Diretriz ABRAMET Transtorno do espectro autista (TEA) e habilitação, Do resultado",
   "coment": "A diretriz de TEA diz que, na ausência das condições de inaptidão (déficit intelectual moderado ou grave, disfunções de decisão, processamento e atenção, dificuldade com multitarefas), o candidato poderá ser considerado apto, com diminuição do prazo de validade do exame, a critério do perito, e exige avaliação psicológica na permissão e em todas as renovações. Diferente das diretrizes de esquizofrenia, doença de Parkinson e esclerose múltipla, que limitam a aptidão à categoria B, a de TEA não restringe categoria. O prazo, porém, não fica igual ao da população geral: a diretriz manda reduzi-lo.",
@@ -584,8 +559,7 @@
    "O número total de internações psiquiátricas ao longo da vida"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "psiq",
+  "tema": "psiq",
   "sub": "Esquizofrenia: histórico de trânsito",
   "base": "Diretriz ABRAMET Esquizofrenia e direção veicular (elaboração final 24/05/2021), item da avaliação pelo médico do tráfego",
   "coment": "A diretriz afirma que o histórico de sinistros e violações das leis de trânsito do motorista com esquizofrenia constitui valiosa informação para uma melhor avaliação do risco de dirigir. O caminho é: constatar a compensação clínica no próprio EAFM, usar rastreio cognitivo (ACE-R, Mini-Cog) se houver sinais, e pedir parecer do médico assistente, de preferência o psiquiatra, com aderência de pelo menos 12 meses, ausência de surto ou internação nos últimos 6 meses e posicionamento favorável. Satisfeitas as condições: apto somente na categoria B, validade de 1 a 2 anos na 1ª habilitação e 1 a 3 anos nas renovações, com avaliação psicológica amplamente considerada nas renovações.",
@@ -607,8 +581,7 @@
    "Não há diferença entre os tipos, e ambos têm menos acidentes que a população"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "sistemicas",
+  "tema": "sistemicas",
   "sub": "Diabetes: risco por tipo",
   "base": "Diretriz ABRAMET Diabetes e direção veicular (elaboração final 30/08/2004), seção de epidemiologia do risco",
   "coment": "A diretriz relata que motoristas com diabetes tipo 1 referem significativamente mais acidentes, infrações e episódios de hipoglicemia na direção do que os com tipo 2 ou os controles; motoristas com tipo 2 têm índices de acidentes semelhantes aos de não diabéticos, e o uso de insulina ou de antidiabéticos orais parece não influir. Quem teve hipoglicemia grave nos últimos 12 meses se envolve mais em acidentes, base do critério de inaptidão temporária por hipoglicemia grave com perda de consciência nesse período. O tipo 2 bem controlado com dieta ou antidiabético oral é apto em qualquer categoria, sem restrição ligada à doença.",
@@ -630,8 +603,7 @@
    "Livre estacionamento exige sirene; circulação e parada exigem só a luz"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "curativa",
+  "tema": "curativa",
   "sub": "Ambulância: prerrogativas do CTB",
   "base": "CTB, art. 29, VII, alíneas 'c' a 'f' (redação da Lei nº 14.071/2020 e da Lei nº 14.440/2022)",
   "coment": "O art. 29, VII, dá às ambulâncias e demais veículos de socorro, polícia e fiscalização prioridade no trânsito e livre circulação, estacionamento e parada quando em serviço de urgência, com regras: sirene e luz só na efetiva prestação de urgência (alínea 'c'); prioridade de passagem com velocidade reduzida, com cuidados de segurança e obedecidas as demais normas (alínea 'd'); livre circulação e parada só com alarme sonoro E iluminação intermitente acionados (alínea 'e'); livre estacionamento só com iluminação intermitente (alínea 'f'). No caso, o estacionamento está coberto pela luz, mas a livre circulação exigiria também a sirene.",
@@ -653,8 +625,7 @@
    "Ultrapassar o limite de velocidade máxima estabelecido na via"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "curativa",
+  "tema": "curativa",
   "sub": "Ambulância: limite de velocidade",
   "base": "Ministério da Saúde, Protocolos SAMU 192 de Suporte Básico de Vida (2016), PE6: Regras gerais na condução de ambulância",
   "coment": "O PE6 lista como prerrogativas em efetiva prestação de urgência, desde que garantidas todas as questões de segurança: ultrapassar semáforo vermelho, trafegar na contramão e estacionar em local proibido. Em 'Impedimentos', diz que não é permitido ultrapassar o limite de velocidade máxima estabelecida para a via, e explica que a viatura acima do limite pode sofrer sanções mesmo com a urgência comprovada. Se a legislação não especifica uma prerrogativa, a ambulância segue as normas gerais. O protocolo também admite reduzir muito a velocidade para procedimentos como massagem, acesso venoso e intubação.",
@@ -676,8 +647,7 @@
    "O conteúdo é disponibilizado em português e deve ser compreendido"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Habilitação: idioma do exame teórico",
   "base": "Resolução CONTRAN nº 1.020/2025, art. 33, §5º; CTB, art. 140, II",
   "coment": "O art. 33, §5º, da Res. 1.020/2025 diz que todo o conteúdo dos exames teóricos será disponibilizado no idioma português e deverá ser plenamente compreendido pelo candidato, independentemente de sua nacionalidade. O art. 140 do CTB exige que o candidato seja penalmente imputável, saiba ler e escrever e tenha documento de identidade; o art. 17 da resolução acrescenta a inscrição no CPF. Para o candidato com deficiência auditiva, a norma garante intérprete de Libras (CTB 147-A; Res. 1.020, art. 86), o que não se estende a idioma estrangeiro. A resolução também prevê tempo dobrado no teórico para dislexia, TDAH e TEA (art. 33, §2º).",

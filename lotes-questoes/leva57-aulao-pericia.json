@@ -9,8 +9,7 @@
    "Sim, desde que a Junta Especial de Saúde tenha três médicos especialistas"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: quem recorre ao CETRAN",
   "base": "Resolução CONTRAN nº 927/2022, arts. 12 e 13; CTB, art. 14, V, 'b'",
   "coment": "O art. 12 da Resolução CONTRAN nº 927/2022 permite requerer Junta Médica 'independentemente do resultado'. Já o art. 13 restringe o degrau seguinte: 'Mantido o resultado de inaptidão PERMANENTE pela Junta Médica ou Psicológica caberá, no prazo de trinta dias [...] recurso ao CETRAN'. O CTB diz o mesmo no art. 14, V, 'b': o CETRAN julga recursos 'nos casos de inaptidão permanente'. Inapto temporário tem o caminho da Junta revisional e, vencido o prazo, novo exame; não chega ao Conselho nem à Junta Especial de Saúde.",
@@ -32,8 +31,7 @@
    "Cabe recurso ao CETRAN, desde que protocolado em até quinze dias úteis da ciência"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: quem recorre ao CETRAN",
   "base": "Resolução CONTRAN nº 927/2022, art. 13; CTB, art. 14, V, 'b'",
   "coment": "O art. 13 da Resolução CONTRAN nº 927/2022 exige duas condições cumulativas para o recurso ao CETRAN/CONTRANDIFE: que o resultado seja de inaptidão permanente e que ele tenha sido MANTIDO pela Junta Médica (ou Psicológica). Se a Junta revisional converte o 'inapto' do perito em 'inapto temporário', a segunda condição falha e o candidato cumpre o prazo e volta a exame. É a mesma regra do inapto temporário vista de outro ângulo: o que abre a porta do Conselho é a inaptidão permanente confirmada na revisão, não o resultado inicial.",
@@ -55,8 +53,7 @@
    "Junta Médica: três peritos ou especialistas; JES: no mínimo três, dois especialistas"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: composição",
   "base": "Resolução CONTRAN nº 927/2022, art. 12, §1º, e art. 15, parágrafo único",
   "coment": "Duas juntas, duas composições. A Junta Médica revisional (art. 12, §1º) é instaurada pelo órgão executivo estadual e 'constituída por três profissionais médicos peritos examinadores de trânsito OU especialistas em medicina de tráfego'. A Junta Especial de Saúde (art. 15) é designada pelo Conselho para julgar o recurso e deve ter 'no mínimo, três médicos, sendo dois especialistas em Medicina de Tráfego' (ou três psicólogos, dois especialistas em psicologia do trânsito, quando for o caso). Quem exige dois especialistas é só a JES; a revisional aceita 'peritos ou especialistas'.",
@@ -78,8 +75,7 @@
    "O Conselho Regional de Medicina; o órgão executivo estadual; o CONTRAN, em Brasília"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: quem designa",
   "base": "Resolução CONTRAN nº 927/2022, art. 4º, §1º; art. 12, §1º; art. 15; CTB, art. 14, XI",
   "coment": "Três juntas, três autoridades. A Junta Médica Especial, que faz o exame do candidato com deficiência física, é 'designada pelo Diretor do órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal' (art. 4º, §1º) e segue a NBR 14970. A Junta Médica revisional é instaurada 'pelo órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal' (art. 12, §1º). A Junta Especial de Saúde é designada pelo Conselho de Trânsito do Estado ou do DF para julgar o recurso (art. 15), atribuição que o CTB também dá ao CETRAN no art. 14, XI.",
@@ -101,8 +97,7 @@
    "Intempestivo, pois o prazo é de vinte dias úteis contados do laudo"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: prazos",
   "base": "Resolução CONTRAN nº 927/2022, art. 12, caput; art. 14, §§1º e 2º",
   "coment": "O art. 12 da Resolução CONTRAN nº 927/2022 fixa o prazo de trinta dias 'contados do seu conhecimento', e não da data do exame. Contando de 20 de março, quando o candidato soube do resultado, 15 de abril é o 26º dia: pedido tempestivo. Se a contagem fosse da data do exame (2 de março), ele estaria fora do prazo, e é esse o erro que a banca explora. Os outros números da alternativa são prazos reais, mas de outros atos: quinze dias úteis para o órgão designar a Junta e vinte dias úteis para remeter o recurso ao CETRAN (art. 14, §§1º e 2º).",
@@ -124,8 +119,7 @@
    "Cabe recurso à Senatran, órgão máximo executivo de trânsito da União"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: fim da via administrativa",
   "base": "CTB, art. 14, V, 'b', XI e parágrafo único; Resolução CONTRAN nº 927/2022, arts. 13 e 15",
   "coment": "O CTB dá ao CETRAN (e ao CONTRANDIFE) a competência para julgar os recursos contra decisões dos órgãos executivos estaduais 'nos casos de inaptidão permanente constatados nos exames de aptidão física, mental ou psicológica' (art. 14, V, 'b') e para designar a junta especial de saúde (inciso XI). O parágrafo único fecha a porta: 'Dos casos previstos no inciso V, julgados pelo órgão, não cabe recurso na esfera administrativa'. A sequência completa é: perito → Junta Médica (30 dias) → CETRAN com Junta Especial de Saúde (30 dias, só inaptidão permanente mantida) → fim da via administrativa.",
@@ -147,8 +141,7 @@
    "Só a decisão da Junta (30), contada da sua designação pelo órgão"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: prazos",
   "base": "Resolução CONTRAN nº 927/2022, arts. 12, 13 e 14, §§1º a 3º",
   "coment": "Cinco prazos no Capítulo III da Resolução CONTRAN nº 927/2022. Do candidato: trinta dias para pedir a Junta (art. 12) e trinta dias para recorrer ao CETRAN (art. 13), ambos contados do conhecimento. Do órgão estadual: 'quinze dias úteis' para designar a Junta (art. 14, §1º) e 'vinte dias úteis' para remeter os documentos do recurso ao CETRAN (art. 14, §2º). Da Junta: trinta dias da designação para proferir o resultado (art. 14, §3º). Só os dois prazos do órgão vêm com 'úteis' no texto. Truque para lembrar: 30-30-30 para candidato e Junta; 15 e 20 úteis para a burocracia do órgão.",
@@ -170,8 +163,7 @@
    "Sim, se instruído com laudo de médico especialista em medicina de tráfego"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: fluxo",
   "base": "Resolução CONTRAN nº 927/2022, arts. 12 e 13",
   "coment": "A sequência da Resolução CONTRAN nº 927/2022 é obrigatória. O art. 12 dá ao candidato trinta dias para pedir a Junta Médica (ou Psicológica). O art. 13 só abre o recurso ao CETRAN/CONTRANDIFE quando 'mantido o resultado de inaptidão permanente pela Junta Médica ou Psicológica', com prazo de trinta dias 'contados a partir do conhecimento do resultado da revisão'. Sem revisão pela Junta, não existe decisão 'mantida', e o Conselho não tem o que julgar. Fluxo: perito → Junta revisional → CETRAN (Junta Especial de Saúde).",
@@ -193,8 +185,7 @@
    "A Junta Especial de Saúde de psicólogos, quando for o caso do recurso"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: Junta Médica Especial",
   "base": "Resolução CONTRAN nº 927/2022, arts. 4º, 12 e 15; CTB, art. 14, VI",
   "coment": "A Resolução CONTRAN nº 927/2022 trata a Junta Médica Especial em dois parágrafos do art. 4º: ela é 'designada pelo Diretor do órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal' (§1º) e 'seguirá o determinado na NBR 14970 da ABNT' (§2º). Não há número mínimo de membros, ao contrário da Junta Médica revisional (três, art. 12, §1º), da Junta Psicológica (três, art. 12, §2º) e da Junta Especial de Saúde (mínimo três, dois especialistas, art. 15). O que o CTB acrescenta é que o CETRAN indica um representante para a comissão examinadora de candidatos com deficiência física (art. 14, VI).",
@@ -216,8 +207,7 @@
    "Intempestivo, pois o prazo é de trinta dias do conhecimento da revisão"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: prazos",
   "base": "Resolução CONTRAN nº 927/2022, arts. 13 e 14, §2º",
   "coment": "O art. 13 da Resolução CONTRAN nº 927/2022: 'Mantido o resultado de inaptidão permanente pela Junta Médica ou Psicológica caberá, no prazo de trinta dias, contados a partir do conhecimento do resultado da revisão, recurso ao CETRAN ou ao CONTRANDIFE'. De 10 de junho a 15 de julho são 35 dias: fora do prazo. O recurso é apresentado no órgão executivo estadual do domicílio (art. 14), que tem vinte dias úteis para remeter os documentos ao Conselho (art. 14, §2º). É o mesmo número (trinta dias) do pedido de Junta: '30 + 30' para o candidato.",
@@ -239,8 +229,7 @@
    "Só pode requerer a Junta Médica, que também revê a avaliação psicológica"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "Juntas: Junta Médica e Psicológica",
   "base": "Resolução CONTRAN nº 927/2022, art. 12, caput e §§1º e 2º",
   "coment": "O caput do art. 12 da Resolução CONTRAN nº 927/2022 prevê a instauração de 'Junta Médica e/ou Psicológica'. O §1º diz que a revisão do exame de aptidão física e mental se faz por Junta Médica de três médicos peritos examinadores ou especialistas em medicina de tráfego; o §2º, que a revisão da avaliação psicológica se faz por Junta Psicológica de três psicólogos peritos examinadores ou especialistas em psicologia de trânsito. Os dois pedidos podem coexistir. Só depois, se mantida inaptidão PERMANENTE em qualquer delas, abre-se o recurso ao CETRAN (art. 13), com Junta Especial de Saúde de médicos ou de psicólogos, 'quando for o caso' (art. 15).",
@@ -262,8 +251,7 @@
    "Só é exigida na primeira habilitação feita direto nas categorias C, D e E"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "EAFM: exames específicos",
   "base": "Resolução CONTRAN nº 927/2022, art. 4º, III, 'f'; Anexo X, item 1.1",
   "coment": "O art. 4º, III, da Resolução CONTRAN nº 927/2022 lista seis exames específicos: oftalmológico, otorrinolaringológico, cardiorrespiratório, neurológico, do aparelho locomotor e dos distúrbios do sono. Só o último tem gatilho próprio: é 'exigida quando da renovação, adição e mudança para as categorias C, D e E (Anexos X, XI e XII)'. O motorista da B que muda para a C está no alcance. O texto não traz 'ou indícios' e inclui a MUDANÇA de categoria. A primeira habilitação fica fora do rastreamento obrigatório.",
@@ -285,8 +273,7 @@
    "Só na avaliação psicológica, de competência exclusiva do psicólogo perito"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "EAFM: procedimentos",
   "base": "Resolução CONTRAN nº 927/2022, art. 4º, I a III, e art. 5º",
   "coment": "O art. 4º da Resolução CONTRAN nº 927/2022 organiza o exame médico em quatro incisos: I, anamnese (questionário do Anexo I e interrogatório complementar); II, exame físico geral; III, exames específicos; IV, exames complementares a critério médico. O exame físico geral tem três alíneas: 'a' tipo morfológico; 'b' comportamento e atitude frente ao examinador, humor, aparência, fala, contactuação e compreensão, percepção e atenção, orientação, memória e concentração, controle de impulsos e indícios de uso de substâncias psicoativas; 'c' estado geral. Não há 'exame psiquiátrico' entre os específicos: a triagem mental do médico está na alínea 'b'.",
@@ -308,8 +295,7 @@
    "No inciso V, como etapa final do processo, após o exame de direção veicular"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "EAFM: posição no processo",
   "base": "CTB, art. 147, caput, incisos I a V e §3º; art. 147-A",
   "coment": "Detalhe de redação que a banca adora. O art. 147 do CTB lista: I, exame de aptidão física e mental; II, VETADO; III, escrito sobre legislação; IV, noções de primeiros socorros; V, direção veicular. A avaliação psicológica aparece no caput (realizada por psicólogo perito com título de especialista em psicologia do trânsito) e no §3º: o exame do §2º 'incluirá avaliação psicológica preliminar e complementar sempre que a ele se submeter o condutor que exerce atividade remunerada ao veículo', e, para os demais, apenas na primeira habilitação. O art. 147-A é a acessibilidade de comunicação do candidato com deficiência auditiva.",
@@ -331,8 +317,7 @@
    "Encaminhado à Junta Médica Especial, por deficiência física no momento"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "aptidao",
+  "tema": "aptidao",
   "sub": "EAFM: resultados",
   "base": "Resolução CONTRAN nº 927/2022, art. 8º e Anexo VIII, item 1.3.1",
   "coment": "O art. 8º da Resolução CONTRAN nº 927/2022 tem quatro resultados: apto (sem contraindicação na categoria pretendida); apto com restrições (registro na CNH de restrição do condutor ou adaptação veicular, codificada no Anexo XV); inapto temporário (motivo 'passível de tratamento ou correção'); inapto (motivo 'irreversível, não havendo possibilidade de tratamento ou correção'). A fratura em consolidação impede a dinamometria exigida no Anexo VIII (20 kgf em cada mão para A e B), mas é reversível. O inapto temporário tem o cadastro bloqueado até o fim do prazo (art. 10, §2º).",
@@ -354,8 +339,7 @@
    "J (comandos de painel para membros inferiores) e G (automação de embreagem)"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "PcD: códigos do Anexo XV",
   "base": "Resolução CONTRAN nº 927/2022, Anexo XV; ABRAMET, Diretriz Esclerose Múltipla, Tabela 2",
   "coment": "O Anexo XV da Resolução CONTRAN nº 927/2022 é a referência dos códigos: C = acelerador à esquerda; D = veículo com transmissão automática; G = veículo com embreagem manual OU com automação de embreagem OU com transmissão automática; H = acelerador e freio manual. Armadilha: a Tabela 2 da Diretriz ABRAMET de esclerose múltipla imprime, nessa linha, 'embreagem manual/automação de embreagem {E}' e 'freio e acelerados manuais {I}'; pelas definições do Anexo XV, as letras corretas são G e H. Na CNH vale o código do Anexo XV.",
@@ -377,8 +361,7 @@
    "Q: motocicleta com carro lateral ou em triciclo"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "PcD: códigos de motocicleta",
   "base": "Resolução CONTRAN nº 927/2022, Anexo XV",
   "coment": "O bloco de motocicleta do Anexo XV da Resolução CONTRAN nº 927/2022 vai de M a S: M, pedal de câmbio adaptado; N, pedal do freio traseiro adaptado; O, manopla do freio dianteiro adaptada; P, manopla de embreagem adaptada; Q, motocicleta com carro lateral ou triciclo; R, motoneta com carro lateral ou triciclo; S, motocicleta com automação de troca de marchas. Na moto: embreagem (P) e câmbio (M) de um lado; freio dianteiro (O), acelerador e freio traseiro (N) do outro. Adaptar o pedal é M; eliminar a troca manual é S.",
@@ -400,8 +383,7 @@
    "P: motocicleta com manopla de embreagem adaptada ao uso"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "PcD: códigos de motocicleta",
   "base": "Resolução CONTRAN nº 927/2022, Anexo XV",
   "coment": "Os quatro comandos da motocicleta têm, cada um, a sua letra no Anexo XV da Resolução CONTRAN nº 927/2022, na ordem M, N, O, P: pedal de câmbio (M), pedal do freio traseiro (N), manopla do freio dianteiro (O) e manopla de embreagem (P). Os dois primeiros são de pé; os dois últimos, de mão. Não confundir com H (acelerador e freio manual), que é adaptação de automóvel para quem não aciona os pedais, como na paraplegia.",
@@ -423,8 +405,7 @@
    "Apenas deficiência moderada; a grave impede a categoria B"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "PcD: classificação",
   "base": "ABRAMET, Diretriz Esclerose Múltipla, Tabela 2; ABRAMET, Diretriz Doença de Parkinson (NBR 14.970)",
   "coment": "Na Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla, cada linha de membro (MSD ou MSE; MSE+MSD; MID; MIE; MID+MIE) começa por 'Deficiência física moderada ou grave'. A graduação leve/moderada segue a NBR 14.970 da ABNT, como mostra a Diretriz ABRAMET de Parkinson ('deficiência física motora leve, em conformidade com a NBR 14.970'). A tabela prevê adaptações só para a B. Na mesma diretriz de EM, o encaminhamento à Junta Médica Especial é para EDSS de 3,5 a menos de 7,0, com triagem cognitiva normal.",
@@ -446,8 +427,7 @@
    "Só envia à Junta o candidato às categorias C, D e E, as profissionais"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "PcD: classificação",
   "base": "Resolução CONTRAN nº 927/2022, art. 4º, §§1º e 2º; ABRAMET, Diretriz Doença de Parkinson",
   "coment": "O art. 4º, §1º, da Resolução CONTRAN nº 927/2022 diz apenas que 'o exame de aptidão física e mental do candidato com deficiência física será realizado por Junta Médica Especial designada pelo Diretor' do órgão estadual; o §2º manda a Junta seguir a NBR 14970 da ABNT. A graduação leve/moderada vem da NBR 14970, aplicada pelas diretrizes ABRAMET: a de Parkinson considera APTO, só na categoria B, o candidato com 'deficiência física motora leve, em conformidade com a NBR 14.970', e manda à JME os estágios HY 2 ou 3. Na prova, cite a fonte da graduação.",
@@ -469,8 +449,7 @@
    "A hemiplegia ou hemiparesia esquerda, com comandos no volante"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "PcD: adaptações por deficiência",
   "base": "ABRAMET, Diretriz Esclerose Múltipla, Tabela 2",
   "coment": "A linha dos dois membros superiores é a única da Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla em que o volante sai das mãos: transmissão automática/automatizada (D) + 'empunhadura articulada no volante comandado com os pés {*}' + direção hidráulica/elétrica (F) + comandos do painel para os membros inferiores e/ou comando de voz (J) + 'transferência do comando do volante para os pés {*}'. O asterisco marca adaptações sem letra própria no Anexo XV da Resolução 927. Na paraplegia a lógica se inverte: mãos fazem tudo (freio e acelerador manuais, H).",
@@ -492,8 +471,7 @@
    "Pomo articulado no volante (E) e freio e acelerador manuais (H)"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "locomotor",
+  "tema": "locomotor",
   "sub": "PcD: adaptações por deficiência",
   "base": "ABRAMET, Diretriz Esclerose Múltipla, Tabela 2; Res. CONTRAN nº 927/2022, Anexo XV",
   "coment": "Leitura linha a linha da Tabela 2 da Diretriz ABRAMET sobre esclerose múltipla (categoria B). MSD ou MSE: D + E + F + I ou J. MSE+MSD: D + empunhadura comandada com os pés (*) + F + J + volante nos pés (*). MID+MIE (paraplegia): D + E + F + H. Hemiplegia direita: C + D + E + F + I. Hemiplegia esquerda: D + E + F + I. Em todas essas linhas estão D (transmissão automática/automatizada) e F (direção hidráulica/elétrica). Só as linhas de UM membro inferior fogem do padrão (MIE: D ou G; MID: combinações com C). A paraplegia não tem o I: é D, E, F e H. Decorar 'D-F sempre' e depois a letra que diferencia cada quadro.",
@@ -515,8 +493,7 @@
    "Infração gravíssima do art. 162, VI, com multa e retenção do veículo"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Infrações ligadas à saúde",
   "base": "CTB, art. 162, VI; Res. CONTRAN nº 927/2022, art. 8º, parágrafo único, e Anexo XV",
   "coment": "O art. 162, VI, do CTB reúne as infrações ligadas à saúde: dirigir 'sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir'. Infração gravíssima; penalidade, multa (sem fator multiplicador); medida administrativa, retenção do veículo até o saneamento da irregularidade ou a apresentação de condutor habilitado. As restrições constam da CNH como observações codificadas do Anexo XV (Res. 927, art. 8º, parágrafo único) e acompanham o condutor. O mesmo inciso cobre quem tem código A sem óculos e código B sem prótese auditiva.",
@@ -538,8 +515,7 @@
    "Média, pelo inciso I, por dirigir com o braço fora da posição correta"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Infrações ligadas à saúde",
   "base": "CTB, art. 252, V e parágrafo único; art. 169",
   "coment": "Dirigir com uma mão não é, por si, gravíssima. O art. 252, V, pune dirigir 'com apenas uma das mãos, exceto quando deva fazer sinais regulamentares de braço, mudar a marcha do veículo, ou acionar equipamentos e acessórios do veículo' como infração MÉDIA, com multa. O parágrafo único, incluído pela Lei 13.281/2016, a torna GRAVÍSSIMA 'no caso de o condutor estar segurando ou manuseando telefone celular'. Usar fone ou celular (inciso VI) também é média; o que agrava é o celular na mão. Na moto, soltar o guidom é o art. 244, VII (grave).",
@@ -561,8 +537,7 @@
    "Infração gravíssima do art. 168, pela falta de dispositivo de retenção"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Transporte de crianças",
   "base": "CTB, art. 244, V (Lei 14.071/2020)",
   "coment": "O art. 244, V, do CTB (redação da Lei 14.071/2020) pune conduzir motocicleta, motoneta ou ciclomotor 'transportando criança menor de 10 (dez) anos de idade OU que não tenha, nas circunstâncias, condições de cuidar da própria segurança'. Infração gravíssima; multa e suspensão do direito de dirigir; retenção do veículo até regularização e recolhimento do documento de habilitação. São dois critérios alternativos: idade abaixo de dez anos ou incapacidade de cuidar da própria segurança.",
@@ -584,8 +559,7 @@
    "Ainda não pode, pois precisa antes ficar ao menos um ano habilitado na categoria D"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Categorias e requisitos",
   "base": "CTB, art. 145, I a IV",
   "coment": "O art. 145 do CTB fixa os requisitos para as categorias D e E (e para transporte coletivo, escolar, de emergência ou de produto perigoso): I, ser maior de 21 anos; II, estar habilitado, 'a' no mínimo há dois anos na B ou há um ano na C, para a D, e 'b' no mínimo há um ano na C, para a E; III, não ter mais de uma infração gravíssima nos últimos 12 meses; IV, curso especializado e curso de prática veicular em situação de risco. Para a C, o art. 143, §1º, exige um ano na B e não mais de uma gravíssima em 12 meses. Com dez meses de C, ele ainda não pode ir para a E.",
@@ -607,8 +581,7 @@
    "Pode fazer o curso, mas só se habilita na E sem mais de uma gravíssima em 12 meses"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Categorias e requisitos",
   "base": "CTB, art. 145, III, IV e parágrafo único (Leis 12.619/2012 e 14.071/2020)",
   "coment": "Para D ou E, o art. 145 do CTB exige ser maior de 21 anos; no mínimo 2 anos na B ou 1 ano na C para a D; 1 ano na C para a E; e não mais de uma gravíssima em 12 meses. Traz ainda o inciso IV (curso especializado e curso de prática veicular em situação de risco) e um parágrafo único que cai em prova: 'A participação em curso especializado previsto no inciso IV independe da observância do disposto no inciso III'. Ele pode fazer o curso agora, mas só se habilita na E quando deixar de ter mais de uma gravíssima nos últimos 12 meses (inciso III, redação da Lei 14.071/2020).",
@@ -630,8 +603,7 @@
    "Não pode, pois o requisito é ter vinte e um anos para a primeira habilitação"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Requisitos da habilitação",
   "base": "CTB, art. 140, I a III; Res. CONTRAN nº 1.020/2025, art. 17",
   "coment": "O art. 140 do CTB exige três requisitos: I, ser penalmente imputável; II, saber ler e escrever; III, possuir Carteira de Identidade ou equivalente. A Res. CONTRAN nº 1.020/2025 repete-os no art. 17 e acrescenta a inscrição no CPF. Emancipação é instituto civil; não torna o menor de 18 anos penalmente imputável. No compilado do Planalto, os três incisos são da redação original e o caput atual é da Lei 14.599/2023. A Lei 14.071/2020 mudou outros pontos (arts. 64, 145, 147, 148-A, 244).",
@@ -653,8 +625,7 @@
    "Pode conduzi-lo, pois a categoria D abrange os veículos das categorias B e C"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Categorias e requisitos",
   "base": "CTB, art. 143, II a V (Lei 14.440/2022)",
   "coment": "As categorias do art. 143 do CTB: A, veículo motorizado de duas ou três rodas; B, até 3.500 kg de PBT e até oito lugares além do motorista; C, veículo da B e veículo de carga com PBT acima de 3.500 kg; D, veículo das categorias B e C e veículo de passageiros com lotação acima de oito lugares (redação da Lei 14.440/2022); E, combinação em que a unidade tratora é B, C ou D e a unidade acoplada tem 6.000 kg ou mais de PBT, ou lotação acima de oito lugares. A ACC é para ciclomotor (até 50 cm³ ou 4 kW e até 50 km/h, Anexo I). Armadilha: a D não é só 'passageiros acima de 8 lugares'; ela também abrange B e C.",
@@ -676,8 +647,7 @@
    "Estar quite com as obrigações eleitorais e militares"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Requisitos da habilitação",
   "base": "Res. CONTRAN nº 1.020/2025, art. 17; CTB, art. 140",
   "coment": "A Res. CONTRAN nº 1.020/2025, que regula o processo de formação de condutores e revogou a 789/2020, lista no art. 17 os requisitos do condutor: I, ser penalmente imputável; II, saber ler e escrever; III, possuir documento de identificação reconhecido por lei; IV, estar inscrito no CPF. O parágrafo único diz que o órgão executivo estadual os verifica na etapa de abertura do formulário RENACH e coleta dos dados biométricos. Os três primeiros repetem o art. 140 do CTB. Relacione com a Lei 15.428/2026, que passou a exigir o CPF na própria CNH (art. 159, II).",
@@ -699,8 +669,7 @@
    "Três anos e seis meses após a renovação, por ter menos de cinquenta anos de idade"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Exame toxicológico",
   "base": "CTB, art. 148-A, caput e §2º (Lei 14.071/2020)",
   "coment": "O art. 148-A do CTB exige toxicológico negativo dos condutores das categorias C, D e E na obtenção e na renovação (caput) e, no §2º, um exame intermediário: condutores C, D e E com idade inferior a 70 anos 'serão submetidos a novo exame a cada período de 2 anos e 6 meses, a partir da obtenção ou renovação da CNH, independentemente da validade dos demais exames'. Com 70 anos ou mais, só o exame da renovação. Desde a Lei 15.153/2025 (§10), o exame também é exigido na primeira habilitação A e B.",
@@ -722,8 +691,7 @@
    "Cocaína, incluindo a benzoilecgonina"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Exame toxicológico",
   "base": "Res. CONTRAN nº 923/2022, art. 14, §1º, e Anexo I",
   "coment": "O art. 14, §1º, da Res. CONTRAN nº 923/2022 manda testar as substâncias do Anexo I, com os cut offs de triagem e confirmação. São cinco grupos: anfetaminas (anfetamina, metanfetamina, MDA, MDMA, anfepramona e femproporex, 0,2 ng/mg); mazindol (0,5 ng/mg); canabinoides (THC 0,1 ou THC-COOH 0,001 ng/mg na triagem; THC-COOH 0,0002 na confirmação); cocaína (0,5 ng/mg; benzoilecgonina, cocaetileno e norcocaína 0,05); opiáceos (morfina, codeína e heroína, 0,2 ng/mg). Benzodiazepínico e álcool não entram.",
@@ -745,8 +713,7 @@
    "Canabinoides, com cut off de 0,1 ng/mg para o THC na fase de triagem"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Exame toxicológico",
   "base": "Res. CONTRAN nº 923/2022, Anexo I (níveis de corte)",
   "coment": "O Anexo I da Res. CONTRAN nº 923/2022, adaptado do consenso da Society of Hair Testing de 2012, separa triagem e confirmação. O grupo das anfetaminas tem triagem de 0,2 ng/mg e confirmação de seis analitos a 0,2 ng/mg: anfetamina, metanfetamina, MDA, MDMA (ecstasy), anfepramona e femproporex, estes dois últimos anorexígenos. O mazindol, também anorexígeno, tem grupo próprio, com 0,5 ng/mg nas duas fases. Pegadinha: agrupar os anorexígenos juntos. Na norma, anfepramona e femproporex estão com as anfetaminas; o mazindol, sozinho.",
@@ -768,8 +735,7 @@
    "Não, pois a validade do exame é de noventa dias contados da coleta"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Exame toxicológico",
   "base": "Res. CONTRAN nº 923/2022, art. 10, caput e §§1º e 2º; CTB, art. 148-A, §1º",
   "coment": "Dois 'noventa dias' que a prova mistura. O CTB (art. 148-A, §1º) e a Res. 923 (art. 2º) exigem janela de detecção mínima de 90 dias: o exame olha 90 dias para trás. Já o art. 10, §1º, da Res. CONTRAN nº 923/2022 diz que 'a validade do exame toxicológico será de 90 dias, contados a partir da data da coleta da amostra'; o §2º aplica o mesmo prazo ao periódico. O caput manda fazer o toxicológico em etapa ANTERIOR aos exames do art. 147. Coletado há quatro meses, o resultado venceu e o exame precisa ser refeito.",
@@ -791,8 +757,7 @@
    "Na amostra guardada, pelo mesmo laboratório que analisou a original"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Exame toxicológico",
   "base": "Res. CONTRAN nº 923/2022, art. 12, §§4º e 7º, e art. 17; CTB, art. 148-A, §4º",
   "coment": "O CTB garante contraprova e recurso administrativo, sem efeito suspensivo, no resultado positivo (art. 148-A, §4º; Res. 923, art. 17). A Res. CONTRAN nº 923/2022 detalha: são coletadas DUAS amostras na presença de testemunha (art. 12, §4º) ou com filmagem consentida (§5º); a segunda fica armazenada no laboratório por no mínimo cinco anos (§7º, II); ao pedir a contraprova, o condutor assina termo sabendo que não sobrará material (III); e 'a contraprova deverá ser analisada pelo mesmo laboratório que promoveu a análise da amostra original' (IV). O laboratório também mantém um Médico Revisor (art. 8º).",
@@ -814,8 +779,7 @@
    "Até quinze dias úteis do pedido, sem registro prévio da coleta no RENACH"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "legislacao",
+  "tema": "legislacao",
   "sub": "Exame toxicológico",
   "base": "Res. CONTRAN nº 923/2022, arts. 9º e 15, caput e §3º",
   "coment": "A Res. CONTRAN nº 923/2022 fixa três prazos para o laboratório: entregar ao condutor, em até 15 dias contados da coleta, laudo detalhado com as substâncias testadas e os resultados (art. 9º); inserir no RENACH, também em até 15 dias da coleta, o resultado positivo ou negativo de cada substância (art. 15); e, até lá, registrar no RENACH, em até 24 horas, a data e a hora da coleta (art. 15, §3º). Para fiscalizar o periódico, a coleta é o marco (§4º). O condutor autoriza previamente, por escrito, a inclusão do resultado no RENACH; sem essa autorização o exame não vale (§1º).",

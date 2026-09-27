@@ -1157,15 +1157,16 @@ function montaLeitura(){
       return;
     }
     const lida=!!ST.lidas[it.f];
-    const tema=TAXONOMIA.find(t=>t.id===it.area);
-    const busca=normBusca([it.t,it.s,it.tipo,tema?tema.nome:""].join(" "));
+    /* area pode listar vários temas ("a,b,c"): leituras de revisão que cobrem mais de um */
+    const temas=String(it.area||"").split(",").map(id=>TAXONOMIA.find(t=>t.id===id)).filter(Boolean), tema=temas[0];
+    const busca=normBusca([it.t,it.s,it.tipo,...temas.map(t=>t.nome)].join(" "));
     html+=`
     <button type="button" class="leiLin${lida?" lida":""}" data-f="${esc(it.f)}" data-busca="${esc(busca)}">
       <span class="leiMarca" aria-hidden="true">${lida?ICO_CHECK:ICO_LIVRO}</span>
       <span class="leiTxt">
         <span class="tit">${esc(it.t)}</span>
         <span class="peq mut">${esc(it.s)}</span>
-        <span class="leiMeta">${esc(it.tipo)} · ${it.min} min${tema?" · "+esc(tema.nome):""}${lida?' · <b>lida</b>':""}</span>
+        <span class="leiMeta">${esc(it.tipo)} · ${it.min} min${tema?" · "+esc(tema.nome)+(temas.length>1?` +${temas.length-1}`:""):""}${lida?' · <b>lida</b>':""}</span>
       </span>
     </button>`;
   });
@@ -1282,7 +1283,7 @@ function embaralha(a){
 function espalhaTemas(lista){
   const grupos=new Map();
   lista.forEach(q=>{
-    const k=q.temaOrig||q.tema||"_";   /* seção provisória "vespera": espalha pelo tema de origem */
+    const k=q.tema||"_";
     if(!grupos.has(k))grupos.set(k,[]);
     grupos.get(k).push(q);
   });
@@ -1336,7 +1337,7 @@ const QST={lista:[],idx:0,respondida:false,selecionada:null};
 function filtrosQ(){
   const f=ST.pos.fq||{};
   /* temas: lista (vazia = todos). Estado antigo gravava um tema só em "tema". */
-  return {temas:MTTemas.lista(f.temas!=null?f.temas:f.tema),status:f.status||"todas",real:TEM_REAL&&!!f.real};
+  return {temas:MTTemas.lista(f.temas!=null?f.temas:f.tema).filter(id=>TAXONOMIA.some(t=>t.id===id)),status:f.status||"todas",real:TEM_REAL&&!!f.real};
 }
 function passaFiltroQ(q,f){
     if(f.temas.length&&!f.temas.includes(q.tema))return false;
@@ -1501,14 +1502,14 @@ let cronSimId=null;
 /* Formato da prova anterior (aula de revisão de 28/02/2026, enviada pelo Matheus em 26/09):
    50 questões = 25 de diretrizes, 15 de EAFM, 3 de legislação, 2 de epidemiologia, 2 de APH, 2 de aeroespacial
    (+1 dos demais eixos para fechar 50). Precisa de 30 acertos para a discursiva ser corrigida.
-   O bloco sai do tema (temaOrig na seção provisória) e da âncora normativa (base) da questão. */
+   O bloco sai do tema e da âncora normativa (base) da questão. */
 const BLOCOS_PROVA=[
   {id:"dir",nome:"Diretrizes",n:25},{id:"eafm",nome:"EAFM",n:15},{id:"leg",nome:"Legislação",n:3},
   {id:"epi",nome:"Epidemiologia",n:2},{id:"aph",nome:"APH",n:2},{id:"aero",nome:"Aeroespacial",n:2},{id:"outros",nome:"Demais eixos",n:1}];
 const TEMAS_EAFM=new Set(["aptidao","oftalmo","orl","cardio","neuro","sono","locomotor"]);
 const TEMAS_OUTROS=new Set(["viajante","ocupacional","aquaviaria","securitaria"]);
 function blocoProva(q){
-  const t=q.temaOrig||q.tema, b=q.base||"";
+  const t=q.tema, b=q.base||"";
   if(t==="epidemiologia")return "epi";
   if(t==="curativa")return "aph";
   if(t==="aeroespacial")return "aero";
@@ -2440,11 +2441,11 @@ function pintaContagem(){
   pintaContagem();
   if(ARM.persistOK===false)console.warn("storage.persist() negado — comum no iOS; espelho IDB ativo.");
   if(ST.simativo&&!ST.simativo.fim)UI.banner("info","Há um simulado em andamento. Retome na aba Simulado.");
-  /* deep link vindo das leituras: ?area=<tema> abre Questões já filtrado */
+  /* deep link vindo das leituras: ?area=<tema>[,<tema>…] abre Questões já filtrado */
   try{
-    const area=new URLSearchParams(location.search).get("area");
-    if(area&&TAXONOMIA.some(t=>t.id===area)){
-      ST.pos.fq={temas:[area],status:"todas",real:false};ST.pos.chq=null;
+    const area=(new URLSearchParams(location.search).get("area")||"").split(",").filter(id=>TAXONOMIA.some(t=>t.id===id));
+    if(area.length){
+      ST.pos.fq={temas:area,status:"todas",real:false};ST.pos.chq=null;
       ARM.save("tt_pos",ST.pos);
       history.replaceState(null,"",location.pathname+"#questoes");
     }

@@ -295,11 +295,13 @@ Prova de legislação e norma técnica: **fato errado é o pior defeito possíve
 GitHub Pages, repo público `MedTechBR/trafego-titulo` — conteúdo 100% autoral, sem material
 licenciado (por isso não precisa do esquema privado + Cloudflare Access do RadioTítulo).
 
-## Seção provisória "★ Aulão de véspera" (26/09/2026)
-Pedido do Matheus na véspera: fotos das anotações do aulão do IBEPEM (★ = "cai com certeza") → 5 resumos
-(`leituras/aulao-1..5-*.html`, grupo no topo de leituras.js) + 207 questões em `lotes-questoes/leva57..61-aulao-*.json`,
-todas com `tema:"vespera"` e `temaOrig:<id real>`. Transcrição e divergências aula × norma em `fontes/AULAO-NOTAS.md`
-(fora do git) e dentro de cada resumo. Verificadas por segundo agente (nenhum gabarito errado; ~35 removidas por ambiguidade/duplicata).
-**Depois da prova ele vai pedir para APAGAR a seção e redistribuir:** em cada leva 57–61 trocar `tema` por `temaOrig` (e remover
-`temaOrig`), tirar a entrada `vespera` da taxonomia.js, mover os 5 resumos para os grupos temáticos (ou apagar, se ele preferir),
-`monta_banco.py`, bump do CACHE. NÃO mudar os enunciados (a chave é o hash do enunciado: o progresso dele se preserva).
+## Seção "★ Aulão de véspera": DISSOLVIDA em 27/09/2026 (depois da prova)
+Criada na véspera (26/09) a partir das anotações do aulão do IBEPEM: 7 leituras + 231 questões (levas 57–62) com
+`tema:"vespera"` e `temaOrig`. Depois da prova, a pedido dele ("dilua os assuntos e questões de revisão nos outros temas"):
+- levas 57–62: `tema` = antigo `temaOrig`, campo `temaOrig` removido; enunciados intactos (a chave é o hash do enunciado,
+  então o progresso dele foi preservado). O código não usa mais `temaOrig`.
+- `vespera` saiu da taxonomia.js. `filtrosQ()` descarta tema salvo que não existe mais (senão um filtro antigo zerava a lista).
+- Leituras nos grupos temáticos, com os arquivos `aulao-*.html` mantidos (o `ST.lidas` é por nome de arquivo) e "(revisão)"
+  no título; aulao-6 (formato da prova) foi para "Revisão geral"; retenção infantil para "Proteção e grupos especiais".
+- `area` da leitura aceita vários temas separados por vírgula ("oftalmo,orl,cardio"): o cartão mostra o 1º tema "+N" e o
+  link `?area=a,b,c` filtra Questões pelos temas válidos.

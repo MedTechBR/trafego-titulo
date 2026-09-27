@@ -1,9 +1,8 @@
 /* Áreas do conteúdo programático — Edital AMB/ABRAMET nº 2446 (Medicina do Tráfego 2026), item 15.
    `eixo` reproduz as sete grandes divisões do edital; `peso` é a incidência esperada na prova
-   teórica de 50 questões (estimativa — ajustar quando houver prova real mapeada).    26/09/2026: "vespera" é uma seção PROVISÓRIA (aulão de véspera do IBEPEM). Cada questão dela leva `temaOrig`;
-   depois da prova, apagar a entrada e mover as questões para o temaOrig (pedido do Matheus). */
+   teórica de 50 questões (estimativa — ajustar quando houver prova real mapeada).
+   27/09/2026: a seção provisória "vespera" (aulão de véspera) foi dissolvida nos temas de origem. */
 window.TAXONOMIA=[
-{"id":"vespera","nome":"★ Aulão de véspera (temas marcados)","eixo":"Aulão de véspera","peso":5},
 {"id":"epidemiologia","nome":"Epidemiologia dos sinistros de trânsito","eixo":"Preventiva","peso":3},
 {"id":"aptidao","nome":"Exame de aptidão física e mental","eixo":"Preventiva","peso":7},
 {"id":"legislacao","nome":"CTB, CONTRAN e responsabilidade do perito","eixo":"Preventiva","peso":6},

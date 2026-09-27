@@ -9,8 +9,7 @@
    "Motociclista, ocupante de automóvel, pedestre, transporte pesado e ciclista"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Ranking de óbitos por tipo de vítima",
   "base": "Diretriz ABRAMET — Bicicletas (elaboração final 18/01/2022), item 1.3, gráficos “Distribuição de óbitos/internações segundo tipo de envolvimento — Brasil, 2020”, gráfico de óbitos.",
   "coment": "No item de epidemiologia, a diretriz ABRAMET sobre bicicletas reproduz dois gráficos de pizza do Brasil em 2020. No de ÓBITOS, as fatias são: motociclista 27,2%, ocupante de automóvel 22,7%, pedestre 20,4%, ciclista 3,5%, transporte pesado 1,9% e ônibus 0,5%; há ainda 23,8% de transporte terrestre sem tipo de vítima identificado. Excluídos os não identificados, a ordem é motociclista > automóvel > pedestre > ciclista > transporte pesado > ônibus. A pegadinha clássica é trocar pela ordem das internações, em que o pedestre passa para 2º lugar e o ocupante de automóvel cai para 3º.",
@@ -32,8 +31,7 @@
    "Pedestre, motociclista, ocupante de automóvel, ciclista e transporte pesado"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Ranking de internações por tipo de vítima",
   "base": "Diretriz ABRAMET — Bicicletas (elaboração final 18/01/2022), item 1.3, gráficos “Distribuição de óbitos/internações segundo tipo de envolvimento — Brasil, 2020”, gráfico de internações.",
   "coment": "O segundo gráfico da diretriz de bicicletas mostra as INTERNAÇÕES por tipo de envolvimento no Brasil em 2020: motociclista 54,2%, pedestre 21,9%, ocupante de automóvel 8,6%, não identificados 8,4%, ciclista 6,2%, transporte pesado 0,4% e ônibus 0,2%. O motociclista lidera nos dois gráficos, mas a ordem do 2º e do 3º lugares se inverte: nos óbitos, automóvel antes de pedestre; nas internações, pedestre antes de automóvel. Memorize como dois rankings: óbitos = moto, carro, pedestre, bicicleta, pesado; internações = moto, pedestre, carro, bicicleta, pesado. Ônibus é a última posição nos dois.",
@@ -55,8 +53,7 @@
    "54,2% das internações e 27,2% dos óbitos, liderando ambos os rankings"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Motociclistas: óbitos × internações",
   "base": "Diretriz ABRAMET — Bicicletas (elaboração final 18/01/2022), item 1.3, gráficos “Distribuição de óbitos/internações segundo tipo de envolvimento — Brasil, 2020”.",
   "coment": "Nos dois gráficos de 2020 da diretriz de bicicletas o motociclista ocupa o 1º lugar, mas com pesos muito diferentes: 54,2% das internações e 27,2% dos óbitos. A desproporção mostra que a moto produz muito trauma não fatal que ocupa leito hospitalar, além de liderar a mortalidade. Cuidado com a mistura de fontes: a diretriz de tolerância humana a impactos (2025), com dados do SIH/SUS até julho de 2025, soma pedestres (19.059), ciclistas (10.527) e motociclistas (98.364) para chegar a 77,42% das internações — é outro recorte, de outra fonte, e não substitui os percentuais do gráfico de 2020.",
@@ -78,8 +75,7 @@
    "12,5%, a quarta fatia, atrás de motociclistas, ocupantes e pedestres"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Óbitos sem tipo de vítima identificado",
   "base": "Diretriz ABRAMET — Bicicletas (elaboração final 18/01/2022), item 1.3, gráficos “Distribuição de óbitos/internações segundo tipo de envolvimento — Brasil, 2020”, gráfico de óbitos.",
   "coment": "Um detalhe do gráfico que ajuda a interpretar o ranking: 23,8% dos óbitos de 2020 foram classificados como transporte terrestre com tipo de vítima NÃO identificado. É a segunda maior fatia, atrás apenas dos motociclistas (27,2%) e à frente dos ocupantes de automóvel (22,7%) e dos pedestres (20,4%). Por isso o ranking de óbitos por tipo de usuário é sempre enunciado 'excluídos os não identificados'. Nas internações essa fatia é bem menor (8,4%). A lição para o perito e para o gestor é a qualidade do registro: quase um em cada quatro óbitos não diz quem era a vítima, o que limita o planejamento de medidas por tipo de usuário.",
@@ -101,8 +97,7 @@
    "Principal causa de 5 a 29 anos e segunda de 30 a 44 anos"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Posição por faixa etária (dados atuais)",
   "base": "Diretriz ABRAMET — Tolerância humana a impactos: implicações para a segurança viária (25/11/2025), item 1, citando o Relatório Global sobre Segurança Viária 2023 da OMS.",
   "coment": "A introdução da diretriz de tolerância humana a impactos (2025) resume o Relatório Global 2023 da OMS: os sinistros de trânsito são a principal causa de morte entre 5 e 29 anos, a terceira entre 30 e 44 anos e figuram entre as 12 principais causas em todas as idades. O Plano Global 2021–2030 repete que são a principal causa de morte de 5 a 29 anos. É a formulação vigente para a prova: 'principal causa de 5 a 29 anos'. Atualizado: com dados de 2002 (Relatório Mundial 2004), o trânsito era a segunda causa de 5 a 14 e de 15 a 29 anos.",
@@ -124,8 +119,7 @@
    "Mais 3 milhões de mortes e 500 milhões de feridos no período"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Projeção do Plano Global 2021–2030",
   "base": "Plano Global — Década de Ação pela Segurança no Trânsito 2021–2030 (OMS e Comissões Regionais da ONU), Introdução.",
   "coment": "A introdução do Plano Global diz que os sinistros causam quase 1,3 milhão de mortes evitáveis e cerca de 50 milhões de feridos por ano, sendo a principal causa de morte de crianças e jovens, e que, mantido o 'business as usual', causarão mais cerca de 13 milhões de mortes e 500 milhões de feridos na década seguinte. Esses números, em termos absolutos e relativos, ficaram praticamente inalterados por 20 anos. Por isso a Resolução 74/299 da Assembleia Geral da ONU declarou a Segunda Década de Ação (2021–2030) com a meta de reduzir mortes e lesões em pelo menos 50%. O erro típico é confundir o anual citado no plano (1,3 mi/50 mi) com o da década (13 mi/500 mi). O dado anual mais recente do acervo é outro: 1,19 milhão de mortes e 20 a 50 milhões de feridos (Relatório Global 2023 da OMS, citado na diretriz de tolerância, 2025).",
@@ -147,8 +141,7 @@
    "Proibir, até 2030, qualquer alcoolemia em todos os condutores"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Metas globais: álcool",
   "base": "Plano Global — Década de Ação 2021–2030, Anexo com as 12 metas globais voluntárias de desempenho (Meta 9).",
   "coment": "O Plano Global 2021–2030 reproduz as 12 metas globais voluntárias de desempenho. Três delas conversam diretamente com álcool, celular e jornada: a Meta 9 (reduzir à metade, até 2030, o número de lesões e mortes relacionadas a condutores que usam álcool e/ou reduzir as relacionadas a outras substâncias psicoativas), a Meta 10 (até 2030, todos os países com leis que restrinjam ou proíbam o uso do telefone celular ao dirigir) e a Meta 11 (regulamentar tempo de direção e de descanso dos condutores profissionais). A Meta 1 era a única com prazo em 2020. A meta geral da Década, fixada na Resolução 74/299, é reduzir mortes e lesões graves em pelo menos 50%.",
@@ -170,8 +163,7 @@
    "Capacete, retenção infantil, drogas, álcool e excesso de velocidade"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Fatores de risco da ONU: os cinco iniciais",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 1 (Contextualização).",
   "coment": "O MPPCVA abre contextualizando: em 02/03/2010 a ONU elencou fatores de risco para a segurança viária, inicialmente CINCO — cinto de segurança, capacete, dispositivos para transporte de crianças, consumo de bebida alcoólica e excesso de velocidade — e a legislação brasileira trata de todos. Após a 2ª Conferência Global de Alto Nível (15/11/2015), a Resolução da ONU de 12/04/2018 ampliou para 12, acrescentando baixa visibilidade, condições médicas, medicamentos que afetam a condução, fadiga, uso de substâncias psicoativas, telefones celulares e dispositivos de mensagens de texto. O texto da diretriz fala em FADIGA, não em 'sonolência'.",
@@ -193,8 +185,7 @@
    "31.945 óbitos, algo como 22,4% das 142.800 mortes por causas externas"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Brasil: trânsito entre as causas externas",
   "base": "Diretriz ABRAMET — Gravidez e puerpério, item 1 (Introdução).",
   "coment": "A diretriz de gravidez e puerpério situa o trânsito no perfil de morbimortalidade brasileiro: em 2019 houve 142.800 óbitos por causas externas, dos quais 31.945 decorrentes de lesões de trânsito, o que corresponde a 22,4%. Acrescenta que, embora a taxa de mortalidade por sinistros tenha diminuído nos últimos anos, as lesões envolvendo MOTOCICLISTAS têm tendência crescente, principalmente no interior do país — coerente com o motociclista em 1º lugar nos rankings de óbitos e internações. No mundo, o dado mais recente do acervo é 1,19 milhão de mortes por ano (Relatório Global 2023 da OMS, na diretriz de tolerância, 2025); a diretriz de gravidez ainda cita 1,35 milhão.",
@@ -216,8 +207,7 @@
    "Os motoristas de 20 a 29 anos, a faixa que mais se distrai"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Celular: idosos e WhatsApp",
   "base": "Diretriz ABRAMET — Riscos do uso do telefone celular na condução de veículos automotores (26/04/2021), item 4.",
   "coment": "No item 4 (riscos), a diretriz registra que o perigo do celular começa quando o aparelho toca, que a desatenção continua e se intensifica durante a conversa, e que enviar mensagens pelo WhatsApp prejudica significativamente a capacidade de dirigir, 'sendo que os motoristas idosos são os mais comprometidos'. Não confunda com a PREVALÊNCIA: quem mais usa o celular ao volante são os menores de 30 anos, à tarde e à noite, e entre 444 sinistros fatais com FAC nos EUA as faixas 20–29 (35%), 30–39 (22%) e 40–49 (15%) lideraram. Uma coisa é quem mais se expõe; outra, quem mais perde desempenho ao fazê-lo.",
@@ -239,8 +229,7 @@
    "14% dos sinistros fatais e 50% dos sinistros com feridos"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Celular: dados do FARS/NHTSA",
   "base": "Diretriz ABRAMET — Riscos do uso do telefone celular na condução de veículos automotores (26/04/2021), item 3.",
   "coment": "O item 3 da diretriz de celular reúne vários números de prevalência que a banca adora embaralhar: (1) estudo com mais de 30 mil sinistros fatais atribuiu 14% à FAC pelo celular; (2) FARS/NHTSA 2015: FAC provocou 10% de todos os sinistros fatais e 15% dos sinistros com feridos, 'valores que parecem persistir'; (3) Espanha, DGT: 59% dos motoristas editam textos dirigindo e a FAC responde por 35% dos acidentes fatais; (4) Brasil, PRF 2007–2016: 194.203 de 643.231 sinistros com vítimas (30,2%) por FAC, com pelo menos 18 feridos não fatais para cada morte. E o celular responde por quase 50% das atividades que resultam em FAC.",
@@ -262,8 +251,7 @@
    "1 g/l, bem acima do patamar do crime do art. 306 (0,6 g/l)"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Celular: equivalência com alcoolemia",
   "base": "Diretriz ABRAMET — Riscos do uso do telefone celular na condução de veículos automotores (26/04/2021), item 4; CTB, art. 306, §1º, I.",
   "coment": "No fim do item de riscos, a diretriz de celular faz a comparação que mais cai: 'dirigir veículos automotores utilizando telefone celular e seus dispositivos ocasiona reações equivalentes à condução com 1 g/l de alcoolemia'. Para ter a dimensão, o crime do art. 306 do CTB se configura a partir de 6 dg/L (0,6 g/l) de sangue, e a diretriz de álcool mostra que a maioria das pessoas já está significantemente debilitada com 0,5 g/l. Não confundir com a outra comparação da mesma diretriz: a chamada BREVE quadruplica o risco, 'taxa equivalente ao prejuízo causado pelo consumo de bebidas alcoólicas dentro do limite legalmente estabelecido' (estudo do NEJM).",
@@ -285,8 +273,7 @@
    "A confiança não tem relação alguma com o desempenho do condutor na via"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "epidemiologia",
+  "tema": "epidemiologia",
   "sub": "Celular: autoconfiança e desempenho",
   "base": "Diretriz ABRAMET — Riscos do uso do telefone celular na condução de veículos automotores (26/04/2021), item 1 (Introdução) e item 7.",
   "coment": "A primeira página da diretriz de celular traz uma frase curta e muito cobrável: 'Motoristas com maiores níveis de confiança em lidar com a distração têm pior desempenho'. No item de prevenção ela volta ao tema: muitos jovens se sentem capazes de usar o celular e dirigir com segurança, mas não confiam nos outros motoristas fazendo o mesmo — as pessoas conhecem o efeito da distração, mas superestimam o próprio desempenho. Some-se o paradoxo de que cerca de 70% acham que celular e direção não combinam, mas só cerca de 20% se privam da combinação. A orientação do médico do tráfego não muda com a experiência declarada do condutor.",
@@ -308,8 +295,7 @@
    "Ao de alcoolemias entre 0,5 e 0,7 g/L"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "MPPCVA: prejuízo equivalente",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 4 (Efeitos dos MPPCVA).",
   "coment": "O item 4 do MPPCVA (2023) afirma que, segundo o Conselho Internacional sobre Álcool, Drogas e Segurança no Trânsito (ICADTS) e o Grupo de Trabalho sobre MPPCVA da União Europeia, esses medicamentos podem provocar prejuízo no desempenho do condutor semelhante ao constatado com alcoolemias entre 0,3 e 0,5 g/L. Ele se articula com as outras réguas da diretriz: o DRUID mede o 'grau de comprometimento' tomando como referência o prejuízo de 0,3 g/L, e o ICADTS classifica em três categorias equivalentes a < 0,5, 0,5–0,8 e > 0,8 g/L. A intensidade depende de metabolização, idade, peso, dose, horário, início do uso, mudança de dose, duração, interações e combinação com álcool ou drogas.",
@@ -331,8 +317,7 @@
    "Efeito grave, acima de 0,8 g/L; condutor inapto temporário no exame médico"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "ICADTS: categoria III",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 6.II (ICADTS).",
   "coment": "O ICADTS classifica os medicamentos em três categorias, equivalentes às alcoolemias < 0,5 g/L, 0,5–0,8 g/L e > 0,8 g/L. Categoria I: presumivelmente seguro — 'não dirija antes de ler as advertências da bula'. Categoria II: efeitos adversos menores/moderados — 'não dirija sem consultar o médico'. Categoria III: efeitos graves/presumivelmente potencialmente perigosos — 'não dirija enquanto utilizar este medicamento'. A categoria III NÃO equivale a 'inapto temporário': as orientações do ICADTS são dirigidas ao condutor, e a Res. 927 não tem critério de aptidão por medicamento. O único 'inapto temporário' que o MPPCVA menciona é para dizer que o toxicológico positivo por uso lícito comprovado NÃO deve gerá-lo.",
@@ -354,8 +339,7 @@
    "Efeito moderado, abaixo de 0,5 g/L; não dirigir na primeira semana de uso"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "ICADTS: categoria I",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 6.II (ICADTS).",
   "coment": "Categoria I do ICADTS: 'presumivelmente seguro ou com pouca probabilidade de produzir efeito no desempenho como condutor', equivalente a alcoolemia abaixo de 0,5 g/L. A orientação ao paciente não é 'liberado sem ressalvas': é 'não dirija antes de ler as advertências da bula'. Exemplos da Tabela 3 do MPPCVA na categoria I: buspirona; fluoxetina e paroxetina; reboxetina e venlafaxina; e os anti-histamínicos azelastina, desloratadina, ebastina, fexofenadina, levocetirizina e loratadina. A graduação completa: I < 0,5 (ler a bula), II 0,5–0,8 (consultar o médico), III > 0,8 g/L (não dirigir enquanto usar).",
@@ -377,8 +361,7 @@
    "Categoria I: sem restrição, por ser ansiolítico não sedativo"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "ICADTS: benzodiazepínico ansiolítico",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 6.II, Tabela 3 (ICADTS).",
   "coment": "Na Tabela 3 do MPPCVA (ICADTS), os ansiolíticos se distribuem assim: categoria I — buspirona; categoria II — clobazam e medazepam; categoria III — alprazolam, bromazepam, clordiazepóxido, diazepam, ketazolam, lorazepam e oxazepam. Entre os hipnóticos, zolpidem é II e zopiclona III, e todos os benzodiazepínicos hipnóticos listados (flunitrazepam, midazolam, nitrazepam, triazolam etc.) são III. A orientação da categoria III é 'não dirija enquanto utilizar este medicamento'. Como o taxista exerce atividade de risco, cabe ao prescritor discutir alternativa terapêutica sem efeito sobre a condução — o MPPCVA recomenda preferir essas opções quando existirem.",
@@ -400,8 +383,7 @@
    "DRUID: grau de prejuízo ante 0,8 g/L; ICADTS: duas faixas de alcoolemia"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "DRUID × ICADTS: as réguas",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 6 (Classificações dos MPPCVA).",
   "coment": "O item 6 do MPPCVA apresenta as duas classificações. O projeto DRUID (Driving Under the Influence of Drugs, Alcohol and Medicines) atribui a cada substância e dose um 'grau de comprometimento' numérico em comparação com o prejuízo provocado por alcoolemia de 0,3 g/L — por exemplo, buspirona 0, diazepam 5/10/15/20 mg = 17/57/112/171. O ICADTS agrupa os princípios ativos em três categorias equivalentes a < 0,5, 0,5–0,8 e > 0,8 g/L, cada uma com uma orientação ao condutor. A diretriz recomenda que médico do tráfego e prescritor usem as duas. Cuidado: num trecho sobre antipsicóticos o texto fala em 'categorias II e III do DRUID', mas categoria é linguagem do ICADTS.",
@@ -423,8 +405,7 @@
    "Moclobemida ou nefazodona"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "ICADTS: antidepressivos",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 6.II, Tabela 3 (ICADTS).",
   "coment": "Na Tabela 3 do MPPCVA, os antidepressivos ficam assim: categoria I — fluoxetina, paroxetina, reboxetina e venlafaxina; categoria II — escitalopram, fluvoxamina, sertralina, moclobemida, nefazodona, e os tricíclicos clomipramina, desipramina, imipramina e nortriptilina; categoria III — amitriptilina, doxepina, mianserina, trazodona e mirtazapina. Repare que nem todo ISRS é igual (fluoxetina I × sertralina II) e nem todo tricíclico é III (nortriptilina II × amitriptilina III). O MPPCVA acrescenta que a maioria dos antidepressivos bem usados não aumenta o risco, e que o perigo cresce com associação a outros psicotrópicos e na descontinuação abrupta.",
@@ -446,8 +427,7 @@
    "A Lei nº 15.428/2026, que revogou a Resolução CONTRAN nº 432"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "alcool",
+  "tema": "alcool",
   "sub": "Norma de fiscalização vigente",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 7.II; Resolução CONTRAN nº 1.031/2026, art. 15.",
   "coment": "O MPPCVA foi finalizado em 06/12/2023 e, no item de legislação brasileira, diz que os procedimentos de fiscalização do álcool e de outras substâncias psicoativas 'estão dispostos na Resolução 432/2013'. Isso ficou desatualizado: a Resolução CONTRAN nº 1.031, de 17/08/2026, publicada no DOU de 18/08/2026, revogou a 432/2013 (art. 15) e entrou em vigor na publicação (exceto a alteração da Res. 985/2022, 60 dias depois). Mudanças que caem: pelo menos DOIS sinais; aparelho para outras substâncias com resultado qualitativo; recusa sem sinais = 165-A e com dois ou mais sinais = 165 + crime; pré-teste só indicativo; agente não recolhe a CNH; exame obrigatório nos óbitos.",
@@ -469,8 +449,7 @@
    "2ª nas colisões fatais e 3ª nas com as vítimas gravemente feridas"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "BZD: posição entre as substâncias detectadas",
   "base": "Diretriz ABRAMET — Principais Medicamentos Potencialmente Prejudiciais ao Condutor de Veículos Automotores (MPPCVA, 06/12/2023), item 5.C.I (Benzodiazepínicos).",
   "coment": "No bloco de ansiolíticos do MPPCVA, os benzodiazepínicos aparecem com vários números: cerca de 2% da população adulta brasileira usa BZD; análises de responsabilidade mostram que condutores em uso têm chance significativamente maior de ser os responsáveis pelo sinistro; e, em estudo europeu, os BZD foram a 2ª substância mais detectada em condutores de colisões fatais e a 3ª nas que resultaram em vítimas gravemente feridas. A diretriz de BZD de 2012 acrescenta que eles são as drogas de uso lícito mais detectadas entre motoristas, que o risco é mais que o dobro e que ele se concentra nas duas primeiras semanas de tratamento.",
@@ -492,8 +471,7 @@
    "Uma lata de cerveja, duas taças de vinho ou meio copo de uísque"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "alcool",
+  "tema": "alcool",
   "sub": "Dose padrão",
   "base": "Diretriz ABRAMET — Alcoolemia e direção veicular segura (11/07/2008), item 1 (Introdução).",
   "coment": "A introdução da diretriz de alcoolemia (2008) define a dose: 'uma lata de cerveja, uma taça de vinho ou meio copo de uísque corresponde a aproximadamente 12 g de álcool'. Um adulto médio (homem de 70 kg ou mulher de 62 kg, em bom estado de saúde) que consome DUAS doses atinge alcoolemia de 0,3 a 0,5 g/l. Para o destilado, a diretriz especifica meio copo de uísque, não um copo inteiro. A mesma diretriz lembra que, pela grande variabilidade individual (sexo, peso, etnia, hábito), não existe concentração segura: alcoolemia zero é o único padrão de dirigibilidade sem riscos.",
@@ -515,8 +493,7 @@
    "Equivale a 0,6 g/L: só configura infração, pois o crime exige 0,8 g/L"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "alcool",
+  "tema": "alcool",
   "sub": "Unidades: g/dL, g/L e dg/L",
   "base": "CTB, art. 306, §1º, I; Resolução CONTRAN nº 1.031/2026, art. 9º, IV e §3º.",
   "coment": "O art. 306, §1º, I, do CTB constata o crime por concentração igual ou superior a 6 decigramas de álcool por litro de SANGUE ou igual ou superior a 0,3 mg por litro de AR ALVEOLAR. Converter unidades é pegadinha certa: 6 dg/L = 0,6 g/L = 0,06 g/dL. Cuidado: '0,6 g/dL' seria 6 g/L (dez vezes mais); o patamar é 0,6 g/L. Pela Res. 1.031/2026, o exame de sangue com resultado ≥ 6 dg/L caracteriza o crime (art. 9º, IV), mas é exame SUPLEMENTAR, feito a critério da autoridade policial, que pode servir de contraprova no inquérito (§3º). O crime não afasta a infração do art. 165 (§1º).",
@@ -538,8 +515,7 @@
    "Só a pedido de um dos condutores, para servir de contraprova"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "alcool",
+  "tema": "alcool",
   "sub": "Fiscalização após sinistro",
   "base": "Resolução CONTRAN nº 1.031/2026, art. 2º, §§1º e 2º, e art. 13; CTB, art. 277.",
   "coment": "O art. 2º da Res. 1.031/2026 torna a fiscalização do álcool e de outras substâncias psicoativas procedimento operacional ROTINEIRO. O §1º permite submeter qualquer condutor fiscalizado, a critério do agente, 'ainda que não apresente nenhum sinal de alteração da capacidade psicomotora'. O §2º vai além: quando ocorrer sinistro de trânsito, COM OU SEM VÍTIMAS, os condutores DEVERÃO ser submetidos aos procedimentos, sempre que possível. E o art. 13 torna obrigatório, nos óbitos decorrentes de sinistro, exame de sangue ou outro laboratorial para detectar álcool ou outra substância psicoativa, para a perícia oficial. O espelho no CTB é o art. 277: o envolvido em sinistro ou fiscalizado poderá ser submetido a teste, exame clínico ou perícia.",
@@ -561,8 +537,7 @@
    "Não: não recolhe; a suspensão segue o procedimento regulamentar"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "alcool",
+  "tema": "alcool",
   "sub": "Recolhimento da CNH: CTB × resolução",
   "base": "CTB, art. 165 (medida administrativa); Resolução CONTRAN nº 1.031/2026, art. 12.",
   "coment": "O texto do art. 165 do CTB (e do 165-A) lista como medida administrativa o 'recolhimento do documento de habilitação e retenção do veículo'. A Res. 1.031/2026, no art. 12, dispõe que o agente 'não promoverá o recolhimento do documento de habilitação em decorrência das infrações previstas nesta Resolução', aplicando-se à suspensão do direito de dirigir o procedimento de regulamentação específica. A Res. 432/2013, revogada, mandava recolher mediante recibo e manter sob custódia. Na prova, leia qual fonte o enunciado invoca: 'o que diz o CTB' inclui o recolhimento; 'o procedimento do agente pela Res. 1.031' não. O veículo continua retido até a apresentação de condutor habilitado (art. 11).",
@@ -584,8 +559,7 @@
    "Da medição se desconta um erro fixo de 0,04 mg/L: 0,34 vira 0,30"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "alcool",
+  "tema": "alcool",
   "sub": "Crime: 0,3 da lei × 0,34 da tabela",
   "base": "CTB, art. 306, §1º, I; Resolução CONTRAN nº 1.031/2026, art. 9º, I, e Anexo I (erro máximo admissível).",
   "coment": "O CTB (art. 306, §1º, I) fixa o crime em ≥ 0,3 mg/L de ar alveolar. O art. 276, parágrafo único, manda o CONTRAN disciplinar as margens de tolerância, 'observada a legislação metrológica'. A Res. 1.031/2026 faz isso no Anexo I: do resultado se desconta o erro máximo admissível — 0,032 mg/L para medição abaixo de 0,40; 8% de 0,40 a 2,00; 30% acima de 2,00 — e o valor considerado é truncado em duas casas. Com MR 0,34: 0,34 − 0,032 = 0,308 → VC 0,30, que atinge o limiar legal. Com MR 0,33: 0,298 → VC 0,29, só infração. A margem protege contra o erro do aparelho, não é permissão para beber.",
@@ -607,8 +581,7 @@
    "Apenas de 13% a 22% dos condutores"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "alcool",
+  "tema": "alcool",
   "sub": "Conhecimento do limite legal",
   "base": "Diretriz ABRAMET — Alcoolemia e direção veicular segura (11/07/2008), item 1 (Introdução).",
   "coment": "Logo na introdução, a diretriz de alcoolemia registra que o CTB estabelece como limite para criminalização a alcoolemia ≥ 0,6 g/l e que essa lei é pouco conhecida: apenas 13% a 22% dos condutores souberam responder corretamente o limite legal. Daí a ênfase do item 2.1: as leis não devem ser só promulgadas, mas divulgadas e fiscalizadas de forma constante, porque a percepção de impunidade ou o desconhecimento anulam o efeito de uma lei com o tempo. Números vizinhos da mesma diretriz que servem de distrator: 38% dirigiam sob efeito do álcool (18% abaixo do limite), 28,9% das vítimas de trauma com alcoolemia positiva, 19,8% a 47,0% acima do limite conforme a amostra.",
@@ -630,8 +603,7 @@
    "Perda da percepção de cores por até quatro horas"
   ],
   "gab": 1,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Cocaína e visão",
   "base": "Diretriz ABRAMET — Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas (15/12/2012), item 3 (Cocaína).",
   "coment": "A diretriz de drogas descreve a cocaína assim: alto risco de infrações e acidentes, que diminui após o tratamento da dependência; uso significativamente menor de capacete e cinto; alto risco para acidentes fatais; pequena melhora inicial do desempenho seguida de comportamento de risco. O prejuízo 'pode ocorrer em razão da perda de concentração e atenção e MAIOR sensibilidade à luz, em função da dilatação pupilar'. Associa ainda nervosismo, agressividade, paranoia, excesso de velocidade, perda do controle do veículo e manobras de alto risco. Opiáceos, ao contrário, causam miose.",
@@ -653,8 +625,7 @@
    "Manteve-se estável em 3,4 durante todo o primeiro mês de uso"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "BZD: queda do risco em quatro semanas",
   "base": "Diretriz ABRAMET/AMB/CFM — Uso de benzodiazepínicos e risco de acidente de trânsito (15/12/2012), item 3 e Tabela 2.",
   "coment": "A diretriz de BZD mostra que o risco é mais que o dobro e se concentra no início: 'ocorre principalmente nas duas primeiras semanas de tratamento, diminuindo a partir da terceira semana, até chegar a números estatisticamente insignificantes na quarta semana', pela tolerância aos efeitos sedativos. No estudo de Neutel (1995), o risco de hospitalização por acidente com BZD HIPNÓTICOS caiu de 9,1 na primeira semana para 2,7 na quarta, sem efeito mensurável depois; com BZD ANSIOLÍTICOS, de 13,5 para 1,9 na semana seguinte. A redação é 'na quarta semana' (não 'após 4 semanas'), repetida pelo MPPCVA (2023). A orientação é não conduzir nos primeiros dias.",
@@ -676,8 +647,7 @@
    "Desvio lateral só nas 4 primeiras semanas; velocidade só na 2ª"
   ],
   "gab": 2,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "BZD: tolerância por desfecho",
   "base": "Diretriz ABRAMET/AMB/CFM — Uso de benzodiazepínicos e risco de acidente de trânsito (15/12/2012), item 2.",
   "coment": "No item sobre efeitos dos BZD, a diretriz registra que o prejuízo aparece em avaliações psicomotoras, simuladores e direção real: alterações cognitivas, déficits de percepção visual e de antecipação, incoordenação, aumento do tempo de reação para frenagem e dificuldade em manter a posição na via (SDLP). E acrescenta que estudos demonstraram tolerância, com prejuízo 'apenas nas três primeiras semanas, quando se consideram desvios laterais', e 'apenas na primeira semana, quando se leva em consideração a capacidade de controlar a velocidade'. Outro número do mesmo item: com 5 mg de diazepam em 2 horas de direção contínua, 41,7% dos motoristas foram instruídos a parar.",
@@ -699,8 +669,7 @@
    "Nenhuma delas elevou o risco quando o uso foi apenas noturno"
   ],
   "gab": 3,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "BZD: meia-vida e risco",
   "base": "Diretriz ABRAMET/AMB/CFM — Uso de benzodiazepínicos e risco de acidente de trânsito (15/12/2012), item 3.",
   "coment": "A diretriz de BZD compara motoristas usuários e não usuários: os que usavam BZD de vida-média intermediária ou longa apresentaram maior risco de acidente, enquanto os de vida-média curta não. Em idosos acima de 65 anos, o risco relativo com BZD de meia-vida longa, na primeira semana, foi 1,45 vez o de quem não usa medicação, crescendo com a dose, e não foi observado com vida-média curta. O MPPCVA confirma e dá exemplos de efeito residual: clonazepam à noite causa sintomas semelhantes aos da veisalgia (ressaca) pela manhã; flunitrazepam e flurazepam da noite anterior prejudicam a direção da manhã seguinte. Em qualquer meia-vida, a associação com álcool tem efeito aditivo.",
@@ -722,8 +691,7 @@
    "Risco de 1,9 vez maior de provocar acidentes"
   ],
   "gab": 4,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Cannabis: uso frequente",
   "base": "Diretriz ABRAMET — Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas (15/12/2012), item 2.",
   "coment": "A diretriz de drogas reúne vários números de cannabis que a banca mistura: revisão sistemática conclui que o consumo praticamente DUPLICA o risco de provocar acidentes, principalmente graves ou fatais; consumo de mais de 50 vezes ao ano dá risco 1,9 vez maior; THC no sangue em colisões fatais dá probabilidade 2,7 vezes maior de o condutor ser o responsável, e 6,6 vezes com ≥ 5 ng/mL; outro estudo, 1,89 vez para acidentes fatais. O declínio do desempenho pode chegar a 35% com 5 ng/mL plasmáticos e 70–80% com níveis maiores; os efeitos se concentram nas duas primeiras horas. No MPPCVA, 3,8 ng/mL séricos (~2 ng/mL no sangue total) equivalem a 0,5 g/L.",
@@ -745,8 +713,7 @@
    "Benzodiazepínicos, presentes em 1,5% dos motoristas"
   ],
   "gab": 0,
-  "tema": "vespera",
-  "temaOrig": "drogas",
+  "tema": "drogas",
   "sub": "Prevalência em rodovias federais",
   "base": "Diretriz ABRAMET — Efeito do uso de drogas (cannabis, anfetaminas, cocaína, opiáceos e alucinógenos) sobre o comportamento e a cognição de motoristas (15/12/2012), item 1 (Prevalência do uso de drogas e direção).",
   "coment": "A diretriz de drogas traz poucos, mas cobráveis, dados brasileiros. Rodovias federais que cruzam 27 capitais, saliva: cocaína 2,1%, cannabis 1,5%, anfetaminas 1,2% e benzodiazepínicos 1,0% — a cocaína lidera. 'Comandos de Saúde nas Rodovias' (PRF), 452 caminhoneiros, urina: 9,3% positivos para pelo menos uma droga; dos positivos, anfetaminas 61,9%, cocaína 23,8% e canabinoides 11,9%. Motociclistas feridos em Porto Alegre: cannabis 15,3%, cocaína 9,2% e BZD 3,2%. Em caminhoneiros de outro estudo, a substância mais encontrada foi o etanol, seguida das anfetaminas usadas para forçar a vigília. O padrão: no motorista em geral, cocaína; no caminhoneiro, anfetamina.",
