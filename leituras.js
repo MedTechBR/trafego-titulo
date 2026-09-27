@@ -3,6 +3,9 @@
    botão "treinar questões". `min` é o tempo estimado de leitura. */
 window.LEITURAS=[
  {grupo:"★ Aulão de véspera", sub:"os temas de maior incidência, pela fonte mais recente — seção provisória"},
+ {f:"retencao-infantil-discursiva.html", tipo:"Guia da diretriz", area:"vespera", min:10,
+   t:"★ Retenção infantil para a questão aberta",
+   s:"Tabela 3 da diretriz ABRAMET: assento infantil até 9 kg/12 meses (de costas), conversível até 13 kg, cadeirinha 9–18 kg/1–4 anos, booster 18–36 kg/4–10 anos, cinto com 1,45 m; erros, airbag, a Res. 819/2021, diretriz × lei e um modelo de resposta."},
  {f:"aulao-6-prova-passada.html", tipo:"Tabelas de corte", area:"vespera", min:22,
   t:"Aulão 6: o formato da prova e os temas que já caíram",
   s:"50 questões e 6,0 na teórica (30 acertos); na prova anterior, 40 de 50 foram diretriz + EAFM. Juntas (art. 12: 3 peritos ou especialistas; JES com 2 especialistas), tolerância a impactos 2025 (fatores modificadores, >60% a 40–50 km/h, Nilsson 10/15/20), FAC em 3 fatores, paraplegia D-E-F-H, TEA 7–42%."},
