@@ -3,6 +3,9 @@
    botão "treinar questões". `min` é o tempo estimado de leitura. */
 window.LEITURAS=[
  {grupo:"★ Aulão de véspera", sub:"os temas de maior incidência, pela fonte mais recente — seção provisória"},
+ {f:"aulao-6-prova-passada.html", tipo:"Tabelas de corte", area:"vespera", min:22,
+  t:"Aulão 6: o formato da prova e os temas que já caíram",
+  s:"50 questões e 6,0 na teórica (30 acertos); na prova anterior, 40 de 50 foram diretriz + EAFM. Juntas (art. 12: 3 peritos ou especialistas; JES com 2 especialistas), tolerância a impactos 2025 (fatores modificadores, >60% a 40–50 km/h, Nilsson 10/15/20), FAC em 3 fatores, paraplegia D-E-F-H, TEA 7–42%."},
  {f:"aulao-1-pericia-legislacao.html", tipo:"Tabelas de corte", area:"vespera", min:22,
   t:"Aulão 1: perícia e legislação (EAFM, juntas, PcD, toxicológico)",
   s:"Junta em 30 dias do conhecimento (art. 12), CETRAN só com inaptidão permanente mantida (art. 13), Junta Especial de Saúde com mínimo de 3 e 2 especialistas, Anexo XV, toxicológico a cada 2a6m para menores de 70."},

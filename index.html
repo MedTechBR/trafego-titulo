@@ -1528,7 +1528,7 @@ function montaSimulado(){
   sec.innerHTML=`
   <div class="cartao">
     <h2>Simulado no formato da prova anterior</h2>
-    <p class="peq mut" style="margin-bottom:10px">50 questões sorteadas por bloco, como na prova anterior: <b>25 de diretrizes</b>, <b>15 de EAFM</b>, 3 de legislação, 2 de epidemiologia, 2 de APH, 2 de aeroespacial e 1 dos demais eixos. É preciso acertar <b>30</b> para a discursiva ser corrigida. Na correção aparece o acerto de cada bloco.</p>
+    <p class="peq mut" style="margin-bottom:10px">50 questões sorteadas por bloco, como na prova anterior: <b>25 de diretrizes</b>, <b>15 de EAFM</b>, 3 de legislação, 2 de epidemiologia, 2 de APH, 2 de aeroespacial e 1 dos demais eixos. O edital exige <b>6,0 na teórica</b>, ou seja, <b>30 acertos em 50</b>, para aprovar e ter a discursiva e o currículo considerados. Na correção aparece o acerto de cada bloco.</p>
     <div class="linha">
       <label class="linha peq mut" style="gap:6px"><input type="checkbox" id="simNovas" checked> Priorizar questões que ainda não respondi</label>
       <button class="btn" id="simProva" type="button">Começar (50 questões, 110 min)</button>
@@ -1657,7 +1657,7 @@ function desenhaRevisao(iSim,pos,recem){
     </div>
     ${sm.formato==="prova"?(()=>{
       const por={};det.forEach(x=>{const k=blocoProva(QIDX.get(x.ch));(por[k]=por[k]||[0,0]);por[k][1]++;if(x.ok)por[k][0]++});
-      return `<p class="peq" style="margin-top:8px"><b>${sm.acertos>=30?"Com "+sm.acertos+" acertos, a discursiva seria corrigida (mínimo 30).":"Faltaram "+(30-sm.acertos)+" acertos para a discursiva ser corrigida (mínimo 30)."}</b></p>
+      return `<p class="peq" style="margin-top:8px"><b>${sm.acertos>=30?"Com "+sm.acertos+" acertos, passaria da nota mínima de 6,0 na teórica (30 de 50).":"Faltaram "+(30-sm.acertos)+" acertos para a nota mínima de 6,0 na teórica (30 de 50)."}</b></p>
       <p class="peq mut" style="margin-top:4px">${BLOCOS_PROVA.filter(bl=>por[bl.id]).map(bl=>`${bl.nome} <b>${por[bl.id][0]}/${por[bl.id][1]}</b>`).join(" · ")}</p>`})():""}
     ${recem?`<p class="peq mut" style="margin-top:6px">Toque num número para rever a questão com o comentário.</p>`:""}
     <div class="gradeSim" style="margin-top:10px">
