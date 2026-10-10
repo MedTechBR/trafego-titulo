@@ -305,3 +305,14 @@ Criada na véspera (26/09) a partir das anotações do aulão do IBEPEM: 7 leitu
   no título; aulao-6 (formato da prova) foi para "Revisão geral"; retenção infantil para "Proteção e grupos especiais".
 - `area` da leitura aceita vários temas separados por vírgula ("oftalmo,orl,cardio"): o cartão mostra o 1º tema "+N" e o
   link `?area=a,b,c` filtra Questões pelos temas válidos.
+
+## Erratas da administração (10/10/2026, tt-v35)
+`mterrata.js` (cópia sem edição de `~/Documents/Claude/_mterrata/`; ler o cabeçalho) traz as correções feitas no painel
+de Sinalizações. `BANCO_BASE` = array do banco.js (nunca perde nada); `QBASE` = chave → questão (todas); `BANCO`/`QIDX` =
+a VISTA das visíveis (tirada do ar some de listas, filtros, sorteios, contagens, painel e revisão). A chave `_ch` é
+calculada pelo enunciado ORIGINAL antes de qualquer errata; `MTErrata.aplicaCampos` troca q/alts/gab/coment/porAlt e
+desfaz sozinho. Resposta antiga é reavaliada SÓ na exibição por `okH(q,h)` (gabarito novo × `h.alt`); `notaSim(sm)` refaz
+a nota exibida de um simulado salvo. Gabarito -1 = anulada: qualquer alternativa marcada conta acerto. Proteções: a
+assinatura da ordem conta também as ocultas (ocultar não reembaralha nem regrava `ordq`, e as ocultas ficam em `ordq`);
+simulado em curso cuja questão saiu do ar não é descartado sozinho, e a entrega registra a resposta dada a ela. O log de
+erros (anotações dele) NÃO esconde linhas de questões ocultas. Teste headless: `w-errata/teste/trafego-titulo-*.js|json`.
